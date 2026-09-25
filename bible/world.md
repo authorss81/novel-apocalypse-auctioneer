@@ -148,6 +148,39 @@ A return point is not a landmark. It is a **named pair**: a place and an approac
 
 A route that bends in a place the driver cannot see from the return point also needs a **far-side condition**: a written statement of what the driver is authorised to do when the far side is not the road he left on, including when to stop the vehicle and when to walk back. A charter that names a return point without naming the far-side condition has named half a pair.
 
+### Paying a claim that has never been stated
+
+When a charter fails visibly and the size of the claim cannot be established — because the affected people have refused to be named, or because the charter contained no return field in which the loss could be counted — a holder may still offer a **payment**. The rules of that payment, all four of them established in practice at Lot 17:
+
+1. It is entered as a **payment**, never as security, and the difference is written out: a payment is spent, a security is lost on a breach.
+2. A **reader cannot post security at all** and must say so in the same entry, so that a payment can never be read as a posted asset by a later clerk.
+3. The value is set by the person paying, from their own inventory, at a price **the yard is invited to check** — the public book carries the payer's figure *and* the figures anybody else puts beside it.
+4. The **shortfall is entered in the same entry and is never entered as nil**. A nil would be a number the payer chose. The correct entry is *the claim is not stated, therefore the difference cannot be computed, and is entered as uncomputed and not as nil*, together with the no-name remedy being called and **not discharged**.
+
+This is deliberately worse than a completed record. It is the fourth column of the book.
+
+### The claim-comparison service
+
+A public lot that knows a counterfeit form exists cannot stop it with a warning, because a warning must arrive before a person decides and a person holding a barrow at four in the morning decided an hour ago. What works is a **table**: a fixed place, at the hour the claims are sold, where anybody may bring a claim and have the rest of it read aloud by somebody who is selling nothing. Two conditions, both learned the hard way:
+
+- The comparison must be a **second page set beside the first**, so that a person who cannot read has the second half read to them by another person. This is a service made of people, not a notice.
+- The page is printed on the **back of the same blank claim stock the dishonest trade is printing on**, so that the same sheet carries both the offer and the whole of it.
+
+The service has no address, because an address would be the location of an Unlisted kitchen. It is described in public as *the place with the tea*, and the people who run it are named, and a limit on what may be published about it is set by the household that provides the floor, not by the clerk who copies the board.
+
+### The protected passage as a public service
+
+A protected category that has only ever carried a **passage** cannot be asked to carry a **loss**, and the difference is where the whole arrangement is tested. The version put into service in Chapter 30 has five parts:
+
+- a **steward named in the public book** — the one person who is publicly answerable for the passage, which is the entire price of the arrangement and is paid by that person, not by the community;
+- a **count**, split the way the people actually are, and published, because a number anybody can check at the far end of a bridge is worth more than a name nobody can check;
+- a **destination**, written down so that nobody has to be asked where they are going;
+- a **remedy** — rope, lamp, and the rule that an unclosed group count is published in the morning;
+- a **split-strip witness chain**. One strip per group, not per person, carrying a count, a place, a date and a **mark rather than a name**. The strip is torn; one half goes under the household's floor and the other goes into the hand of the person walking the group across and comes back matched, out loud, in a room. **The person inside the group never touches the strip and is not a party to it**, so that no paper about a household exists at all if that household never sees it.
+
+The last clause is a refusal by a carter, accepted without argument, and the design was rebuilt around the hole rather than after it.
+
+
 ### Counting the toll by leg
 
 The memory toll is charged to each traveler on each crossing, not to a crossing. A record must therefore count travelers and tolls separately, and must count them by leg, because the two legs of a single activation are usually not the same size. A typical return activation at Lot 17 carried sixteen distinct people and took eighteen tolls: two on the outward leg, all sixteen on the way home. Any record that states a number of crossings instead of a number of tolls is wrong.
@@ -166,6 +199,9 @@ Important locations:
 - **The two banks of St. Orra:** the **eastern** bank carries Lot 17, the St. Orra staging yard, the tram apron, the old school gym, the Ward Nine *old platform* and its one-armed bell post, and the east platform of old Line Six. The **older central** bank carries the Ward Nine district, its fever ward, the clinic receiving stations, and the far receiving ramps. The Fault of St. Orra runs between them. Reach the far side by Selik's official span, the river stairs, or the old footbridge over the service cut. Medicine that has to be delivered starts stranded on the wrong bank.
 - **St. Orra Underpass:** the first major Fault; the Last Fare is found in a stranded bus.
 - **Selik Marne's official span:** the lawful crossing. A **gauge fault** in which a bent float in the sump chamber reported a movement the span did not make caused a full deck evacuation; the span was sound, the evacuation was correct, and the housing was rebuilt and certified by two people outside the Warden administration. The crossing now runs under a **tightened manifest**: a named responsible party physically present at the near abutment for the whole crossing, a second adult name for any child under twelve, the certified gauge housing before any passenger crossing including a supervised cargo exception, and halved supervised slots. It moves four small cargo boxes a day and refuses any group that will not enter a roll.
+  - **The pilot line.** Each certified housing carries a fourth trace with no instrument attached to it, put there by the water office so that a flat tape can be distinguished from a dead pen. The pilot is supposed to be a straight line. On the morning of the nineteenth, at twenty to eight, on a closed and empty span, the pilot deviated by a third of a division and returned. Nobody can say why. The two outside signers **suspended the certificate under the water office's own clause** — theirs, not Selik's — and the span is shut to all carriage, including supervised cargo exceptions, pending a replacement housing. Selik is right on the merits and knows the instrument is a mystery, and says so in the same breath. A reading nobody can account for is not to be carried on, whether it is a fault on the structure or a fault on the paper about the structure.
+  - **The closure order of the ninth** states that **one office is responsible for the crossing at St. Orra**, and its inspection must be conducted on stated days, in a public yard, at the ward market's expense, with the days published on a board kept in the trading places and read out by a clerk appointed by the review table and not by the Warden's office.
+  - **The old footbridge over the service cut is not a crossing under that order and is not declared safe.** The Warden office keeps one marshal and one lamp at its south end in the passable hours and enters no name in any book about it, on the stated ground that a crossing without a manifest is not a crossing. When a plank of it went into the cut in Chapter 30, the footbridge shut, and the far bank was cut off again that afternoon.
 - **The Brass Verdict Hall:** a municipal chamber where charter disputes are heard.
 - **Hearth Line:** the proposed cross-fault bus and freight route.
 
@@ -240,7 +276,7 @@ The remnant of the unfinished Common Measure. It claims the right to hold the Ta
 
 | Lot | Use | Toll | Standing and failure |
 |---|---|---|---|
-| **The Last Fare** — brass bus token | Opens one route across a Fault for twelve minutes | Each traveler loses the memory of why they were traveling | The route must have a driver, a return point, and a passenger who can remember the destination; repeated use can strand the route permanently |
+| **The Last Fare** — brass bus token | Opens one route across St. Orra for twelve minutes, seated in the route-control slot above the old fare box **inside the vehicle**, and it returns to the public case at the closing whether or not the vehicle does | Each traveler loses the memory of why they are traveling, charged **per traveler per leg**; a returning traveler pays again, and the object has never said what a second payment takes | Needs a named driver, a **return point stated as a named pair** (a place, an approach, and the person able to hold them), and a named remembering passenger given the place and not the reason. A return point alone is a landmark and can be moved by a person with a spanner. A charter with a return point and no **far-side condition** has named half a pair, because the bearer cannot see the far side of the service cut from the return point. **Cracked through the plate after four activations; it is not known whether it opens again and repeated use may strand the route permanently.** A returned object is not a returned bus, and the token must never be used as a rescue |
 | **The Hearth Bell** — cracked emergency bell | Calls everyone within a district to a designated shelter | Everyone who hears it has their name recorded for one night, exposing Unlisted people and refusing them entry to some shelters | A community must provide a shelter and a way to remove the record; a false alarm leaves a bell unable to ring for a month |
 | **The Salt Loom** — wooden shuttle | Repairs irrigation channels and stores one season of seed | Takes a year of memory from one worker and binds that worker to the channel until it is repaired | A worker who does not consent cannot be made to bear the loom; if the channel fails, the stored season is lost |
 | **The Cinder Compass** — child's compass | Points toward the nearest person in immediate danger | Compels the bearer toward that person and prevents the bearer from abandoning the search | The bearer must be able to give physical aid; a false emergency can expose a whole convoy |

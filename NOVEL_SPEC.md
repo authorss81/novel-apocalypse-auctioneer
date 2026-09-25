@@ -15,4 +15,4 @@ A practical auctioneer auctions the rights to use objects that nobody can sell s
 The market becomes transparent public infrastructure rather than a private throne.
 
 ## Status
-Scaffold, bible, series outline, ending outline, and Volume 01 outline are complete. Volume 01 Batch 0001 (Chapters 1–10) and Batch 0002 (Chapters 11–20) have been written and reviewed. The next planned phase is Batch 0003 (Chapters 21–30); its prompt is `workspace/volume-01/batch-0003/PROMPT.md`.
+Scaffold, bible, series outline, ending outline, and Volume 01 outline are complete. Volume 01 Batches 0001 (Chapters 1–10), 0002 (Chapters 11–20), and 0003 (Chapters 21–30) have been written. The next planned phase is Batch 0004 (Chapters 31–40); its prompt is `workspace/volume-01/batch-0004/PROMPT.md`.

@@ -92,6 +92,74 @@ Canon baseline plus the events of Chapters 1–20. Iven remains presumed dead fr
 - A **public complaint** is on the Lot 17 notice board in a school hand, written by Teo, the boy who refused, before anyone has agreed what to call any of it.
 - **The broken circle is not a signature.** It is a claim about a system, pressed onto unrelated documents — a Warden fuel return, a school ration ledger, a pre-Fracture salt permit, a bus manifest, a counterfeit claim — to make paper look like the output of a settlement. One impression, no office, no clerk, no name, and the regional heading still scraped away. It is a clue and nothing more.
 
+---
+
+## Events through Chapter 0030 (Batch 0003)
+
+### The three numbers, closed
+
+- **Chapter 19: 29 offered, 28 travelled, 28 tolls on the outward leg, no return leg** (the charter had no return field). The route closed at **7:37 a.m.** The bus went out at 7:25, was on the far side at nine minutes, turned at nine minutes past. Chapter 20 runs 8:30 a.m. to 1:05 p.m. the same day; **Chapters 21 and 22 are the afternoon and night of that same day.** Chapter 30 is the fifteenth of the month, roughly three weeks later.
+- **Nineteen stranded on the far bank.** Four clinic crew, nine signal hands, four children of the second shelter group, two of the three escort stewards.
+- **Nine unaccounted for:** Tarin Kest, Dessa Rill, one escort steward, six of the ten children who boarded. **All nine were found at the near-side maintenance spur on the evening of the twentieth.** Eight lived; one of the six children died between eleven and half past twelve that night, with her name on a sealed sheet and nowhere else.
+- **All nineteen were walked home over the old footbridge on the eleventh and twelfth**, four at a time, in daylight, in five crossings, with no roll. **The middle plank went into the service cut on the last crossing and the footbridge is shut**, so the far bank has no crossing of any kind again.
+- **No one of the nine comes home before the Chapter 30 passage.** The signal foreman is on the far bank throughout; the counter, the tenth hand, is on this bank and is the near-bank voice of the crew in Chapters 25, 26 and 29. Do not merge them.
+
+### What caused the failed return
+
+- **The return point's marking moved.** A hand was in the bell-post socket: a clean arc of broken rust, two fingers wide, with unweathered paint under the arm, which dates the move to inside a day or two of the crossing. **Who moved it, how, and why are not established and must not be.** The book records that the reader looked for a person to blame for six hours and did not find one, and that the reason he did not find one is not that nobody in the city *could* be.
+- There is one **nailed-heel print** in the platform gravel, small, left foot, worn flat outside, three nails gone, belonging to nobody in the search party, made before the first party walked that gravel, and pointing away from the platform and up the spur toward the river wall.
+- The search party walked the marked spur, the platform, the near river wall and the top of the service cut. **The maintenance spur was not on that route** and was found separately, by a Warden bicycle party on the west side of the depot.
+
+### The far-side condition, and what it cost
+
+- The bus came up out of the service cut at 7:38 on the wrong side. Tarin could not find the named pair at all, in any form, late or otherwise, so **he stopped the vehicle, got out, and walked back toward the wall for four streets, and nobody followed him onto it.** The bus ran on empty-handed up the spur and stopped at the service wall, which is how eight people got off it alive.
+- The cost is entered in the book in both halves: eleven hours, four streets, six children in a locked yard with no blanket and no fire, and a child who did not wake. **The clause is not treated as a triumph anywhere in this batch.**
+- The nine-line return term Adrian wrote at five in the morning on the twenty-third is entered in the public book as **offered for a future use and not attached to any use**. It says a second payment is *not a smaller thing and is not the same thing and is not stated by this charter to be either*, and that if the marking is not where the pair says it is **the joint is the return and the arm is not**.
+
+### The bill
+
+- **One child died and has no name in any public record.** The remedy was called and **not discharged**; the protected category is entered as the reason.
+- **Four documents changed in one night.** The Lot 17 notice board (four lines in Adrian's own unstamped hand naming the press, the season, and the deferral sentence, which existed in exactly two places, one of which was his inside pocket); a Ward Nine clinic receiving slip, which acquired *received, with a loss on the return, unsettled, carried forward*; **two pages of the public lot book that now disagree about the security, both in his hand, neither struck**; and **Mara Quill's sealed-page register, which now appears to record a fourth sealed sheet that has never existed.** The registrar stated in public that she cannot certify her own instrument and that the change may have come from her page.
+- The **token answered for the fifth time**, unasked: `RETURN: NO CONDITION IN THE RECORD. / TOLL ON THE RETURN: NOT PAID. / NEARBY ACTIVE RECORDS: CHANGED.` It has still never said what a second payment of the toll takes. **No fifth activation is on the record.**
+- **The bus idled for eleven hours and forty minutes with nobody in the driver's seat** and came out of the Fault under its own power when the term closed. Observed fact, never explained, never used again.
+- **Dessa Rill is home and is not restored.** She has the route, the rules, and the skill, and has lost the reason she is the one who drives the medicine, and said so in those words. **Nobody can say whether the road took that or the cold did, and it must stay that way.**
+
+### The two refusals, and the second exception
+
+- The two refusals that named the problem in advance are on the public page: **Tarin Kest** at ten past six on the evening of the eighteenth, and **Selik Marne** at twenty past four the same morning with his hat on the table. Both stand, fourteen hours before twenty-eight people boarded.
+- **Adrian repeated the act inside days.** He wrote a return term, decided not to enter it, and put `RETURN: term held by the reader and entered before the token leaves the case` in front of six hundred people while the board's page from the nineteenth read *the return is unwritten* in Mara's hand above his signature. **Sabin Tull, a board member, named it from the pages.** The four seats refused to record the closing and Mara stated in public that **the suspension is the board's and not hers.** No token was seated and nothing opened.
+- **Mara said the accusation out loud**: that a man with emergency authority and a gift for reading damaged paper once worked a shape - the emergency is now, this part is written, the rest follows - and Adrian has described his twice in his own handwriting. It is a moral and professional accusation about a **shape**, and it proves nothing about whether Iven is alive, which Adrian believes and the book does not dispute.
+- The token, the paper, and the batch contain **no evidence about Iven's custodianship, the Great Closing, or the Common Measure.**
+
+### Money, entered in public
+
+- **The yard priced Lot 17 at six hundred and twenty-nine coppers** on the twenty-first: press 380 by ward market, less a 9-copper leak found by a cooper's apprentice, plus 258 for one season of three named hands off the ward market's own rate sheet, computed twice by a clerk who would not be hurried.
+- **Adrian's payment on the twenty-ninth: one thousand one hundred and nineteen coppers**, at figures he set, entered with the shortfall in the same entry as **uncomputed and not nil**. It is a **payment, not security**, and the entry says so, and says that a reader cannot post security, and says that **the charter was not breached and that this is the worse sentence.**
+- 140 salvage lots were re-priced **four hundred and ninety coppers below** flood-year figures because thirty-one were priced by a man pretending he was not under pressure to sell.
+- The lease on the building and the yard is two years and four months. **The name over the door was not priced**, because it is the lot's and not his to sell.
+
+### Selik's span after Chapter 29
+
+- The rebuilt housing has a **fourth trace, the water office's pilot line, with no instrument attached to it**, there to prove a flat tape is not a dead pen. It deviated a third of a division at 7:37 on the nineteenth, on a closed and empty span. It has never moved in nine years.
+- **The certificate's timeline, which must not be told two ways.** On the afternoon of the nineteenth Selik sent a cart to the water office with two words on a slip, *pilot line*. Vasey came at ten that night and they looked at it for three hours. **At half past one in the morning of the twentieth, in front of Vasey, Selik instructed that the pilot channel be left attached, marked *unaccounted, under examination*, and that he would carry supervised cargo and no passengers on it.** He sent the reading to the Lot 17 public board at midnight. **On the twenty-first at about four in the afternoon the second fitter came out on her own, with Vasey, and suspended the certificate under the water office's own clause** — before the review sat. In Chapter 29 Selik states this in the first four minutes as a thing that is *not* to his credit: he spent three hours deciding not to use the two words, and it was the copy going onto a public board that made the decision unrecoverable. The second fitter was annoyed **not with him but with the slip**, because the two words had been enough on the twentieth and would have been enough on the nineteenth.
+- **The housing was rebuilt, resealed and certified in March** by Vasey and a second water-office fitter, and the Chapter 12 evacuation is the March event. Do not give a day count for the rebuild.
+- **The span is shut to all passenger carriage, including supervised and cargo exceptions**, pending a replacement housing. The manifest is suspended in full. The inspection must be on stated days, in a public yard, at the ward market's expense, with the days published and read out by a clerk appointed by the review table.
+- **The closure order of the ninth states that one office is responsible for the crossing at St. Orra** and is closed-ended. A **standing order for a permanently staffed crossing with no expiry is being drafted in a room Adrian is not in.**
+- **The old footbridge over the service cut is not a crossing under the order and is not declared safe.** One marshal and one lamp at its south end in the passable hours, and no name in any book. **Five people on the deck is what a marshal can see with a lamp and a rope, a crossing takes about twenty-two minutes, and there are four usable hours a day** — so nineteen people in three places is five crossings and two days. **Its middle plank went into the cut on the fifth crossing on the twelfth of the month and the footbridge is shut.**
+- Selik refused a fifth cargo box twice, on the record, and sent the eleven-claim queue a copy of the night's log at his own cost. The three clinic boxes crossed on the twentieth; **the draught was refused at the scale as a cylinder outside the clamp's certified load and went by the river stair by hand over four hours.**
+
+### The two public services created in this batch
+
+- **The claim-comparison service** at the tram arch at four in the morning, on the back of the ward market's own blank claim stock, staffed by named people, twenty-two claims in three nights. Recorded in `bible/world.md`.
+- **The protected passage as a public service**: a steward named in the public book (Lina Vale), a count, a destination, a remedy, and split strips marked rather than signed, with **the person inside the group never touching the paper.** The whole nineteen came home on it. Recorded in `bible/world.md`.
+
+### Things the prose deliberately does not say
+
+- **The repair-crew foreman's brother is in no count.** He walked to the far bank on the fourth under a Warden marshal and a lamp, the way one repair hand did on the nineteenth, and he was never on the Chapter 19 bus. He is neither one of the twenty-eight nor one of the nineteen, and he came home over the footbridge with the Chapter 30 passage. Adrian enters him in the book himself in Chapter 26 as the one entry no charter supports.
+- **A reader may be answered by touching a public record he has handled.** The Chapter 30 panel is read off the open page of the Lot 17 book, not off the brass, and the prose states the constraint in the chapter. Declared and limited in `bible/power-system.md`. **It may not be used to read a document nobody has handled, to read a person, or to read ahead.**
+- **The exchange's bank is never stated** and must not be. It is *the kitchen exchange under the Ward Nine tram line*; Bett Ruhl's limits keep it described in public only as *the place with the tea*.
+- **No name enters a public record unless the person chose it.** The escort steward found at the spur and the child who died are unnamed in the prose and in the book; both names went onto sealed sheets and nowhere else. Bett Ruhl's household appears in the public book as a count and a story, not as a name.
+
 ## Fixed ending constraints
 
 - Iven's Great Closing is a linked forced record intended to make every open charter permanent.

@@ -12,6 +12,7 @@ The Tally is a distributed accounting presence made from emergency records, witn
 
 - as a short inscription in a physical ledger when several people witness a settlement;
 - as a brief internal notice for a person touching or naming an anchor lot;
+- as a brief internal notice for a **reader** touching a **public record in which a use, a toll, or a crossing is written**, where the record is one the reader has handled and knows the history of;
 - as a physical mark on a charter, object, or affected place after a closing.
 
 It has no avatar, no inventory, and no reliable quest voice. It does not know the future. It can see declared uses, recorded tolls, observed outcomes, and the standing of a bearer. It can miss hidden motives, counterfeit histories, unrecorded people, and lies made with genuine ignorance.
@@ -26,6 +27,8 @@ USE: ONE ROUTE ACROSS ST. ORRA. TWELVE MINUTES.
 TOLL: EACH TRAVELER LOSES THE REASON FOR THE JOURNEY.
 TERMS ARE INCOMPLETE. NAME THE RETURN POINT.
 ```
+
+**Reading a record is the same act with a wider door, and the wider door has a cost.** It requires that the reader has handled the record and knows its history; it returns a reading and it returns the echo; and it may not be used to reach anything the reader could not have reached by reading the page himself. It has been used once, in Chapter 30, to produce a three-line answer about nineteen people accounted for by hand, and the answer was a refusal: the Tally declined to certify a passage it had no charter for. **A later writer must not use it to read a document nobody has handled, to read a person, or to read ahead.** It is a way of consulting the record, not a way of enlarging the reading.
 
 The Tally may warn, refuse, or display a consequence. It does not display experience points, numerical stats, or a quest log. It may be wrong when the record is wrong. Adrian and the people around him must investigate and act.
 
