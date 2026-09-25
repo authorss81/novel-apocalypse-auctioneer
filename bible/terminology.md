@@ -113,9 +113,25 @@ Real inventory, standing, or a named labour term placed in the public custody of
 
 The standing record of a person's refusal of a name: a cross struck into iron, a knot, a thumbprint. **A mark is not a person.** It may not be used as a bearer, a holder, a witness, a responsible party, or a person who is asked, and **it may not carry a job** — the same mark in two documents for two jobs is a claim that two people are one person, made by people who each thought they were helping. Marks are indexed. A steward who carries a mark answers for a number and not for a person.
 
+### A question put to the object
+
+A question asked aloud, in public, of an anchor lot, once, by a person who holds no claim on it, with its limits written into the public record **before** the question is asked, and with the object **not asked to agree to anything**. It is a reading, it costs what a reading costs, and it is entered in the ledger with its duration and its limit. A reply given without a question is not a promise.
+
+### Lot with a condition
+
+A damaged object in a public case, entered as a lot whose **condition is the whole of the entry** and is written in the book's own words so that anybody may measure it, compare it, and argue with it. Not a relic, not a souvenir, and not evidence — evidence requires a stated claim, and Lot 17's claims are unstated and uncomputed. A relic is a thing you look at; a lot is a thing you check.
+
+### Custody term
+
+A short, publicly renewed term in the public custody of an object, with **the hour of the renewal published in advance**, a key that rotates, and inspection on stated days by anybody. The entry contains neither a permanent term nor an end: a permanent custody is a permanent exception, and a custody with no end is a hiding place with a form on it.
+
+### A decline in a count
+
+A person who says no to being counted, asked, or entered. A decline is **entered in the count as a decline** and is not a hole, not a stranger, and not a refusal of service. A person the steward cannot get a word from is entered as **not asked**. A count with a decline in it is a different instrument from a count that was read aloud, and the offered number and the travelling number both stay in the book because the board cannot strike a line.
+
 ### The paper levy
 
-Four coppers a quarter, collected at the ward market counter from every household of two adults and above, entered in its books for eleven years as *public notice and printed matter* and producing no printed matter anybody can name. It now funds the warden's public inspection and the ward market's public reader, at about forty-one coppers a quarter. The reader reads out loud, in words the bringer did not bring, whatever is put on the counter. It cannot help a household that cannot get to the counter, and that is its standing failure.
+Four coppers a quarter, collected at the ward market counter from every household of two adults and above, entered in its books for eleven years as *public notice and printed matter* and producing no printed matter anybody can name. It now funds the warden's public inspection and the ward market's public reader, at about **forty-one** coppers a quarter — nineteen to the inspection, eleven to the reader, six to the boards and the appointed clerk's board, two to oil, and three unassigned with the reason entered. **Voted on the thirteenth and in force from that day.** A further nine coppers for a standing crew at St. Orra was **refused** on the ground that the thing has no day on it, and the refusal was entered as not a statement that the yard is not wanted. The reader reads out loud, in words the bringer did not bring, whatever is put on the counter. It cannot help a household that cannot get to the counter, and that is its standing failure. **A rate buys a service and does not buy a seat.**
 
 ### Disclosure that travels to the person
 

@@ -239,7 +239,56 @@ The rewrite of Chapter 40, which is the volume's answer to the ninth thing that 
 
 An eighth line belongs with them and came out of a counterfeit's second page: **NO GOODS, NO FREIGHT, AND NO CARRIAGE OF ANY KIND EXCEPT THE PERSON WHO IS CARRIED AS A PERSON.**
 
-### The claim-comparison service
+### A lot with a condition, and a custody that can be inspected
+
+Learned in the volume's last chapters, at the cost of a crossing. A damaged object placed in a public case is not evidence, and the difference is not sentiment:
+
+- **Evidence is a thing connected to a claim.** An object in a public case is only evidence if somebody can point at the claim it answers, and where the claims have never been stated to anybody — as at Lot 17, where the claim of the nineteenth is unstated and the claim of the twenty-ninth is uncomputed — the object is entered as a **lot with a condition** and not as a relic and not as evidence. A relic is a thing you look at. A lot is a thing you check.
+- **The condition is the whole of the entry**, and it is written in the book's own words and may be measured, compared, and argued with by anybody who turns up: the crack, the number of openings, the measured weight before and after, and the fact that the object may not open again. A number in a condition is entered because it can be checked against the object, not because it means anything.
+- **The custody runs on a short term, renewed in public, and the hour of the renewal is published.** The entry contains **no expiry and no end**: a custody written as permanent is a permanent exception, and a custody written with no end is not an entry, it is a hiding place with a form on it.
+- **The key rotates.** A steward's key is held for a stated term by a person named in the book, is handed on in the book, and the handing-on is a thing in the book and not a thing that happens in a corridor. A single person holding one key is the same failure as a paper levy nobody audited, and the standing instruction in Lot 17's book is that the person holding the key on the day of expiry must be named **before** it is held, or it is not held.
+- **The custody is inspectable on stated days at a stated hour, by anybody, and a reader at a counter describes the object in words the asker did not bring.** The description is the service; it is slower than a sheet in a hand and it is the only version anybody has been caught by.
+
+### A question put to the object
+
+A charter's terms are agreed by people and the anchor is not a party, which has been true of every charter written at Lot 17. The first question ever put to an anchor lot in this book was put in public, in a yard, on the crate, by a person who held no claim on the object, before two fresh witnesses, and with its own limits written into the public book **before** the question was asked. The limits are the instrument:
+
+- **One question, asked once.** There is no second question until there is a new closing, and a new closing means a new case, a new day and a new set of witnesses.
+- **The object is not asked to agree to anything** — not to a use, not to a toll, not to a term, not to anybody's opinion of it. An answer from an object is a reading and a reading is not consent, which is the rule the whole book was built on and which is unchanged.
+- **The putter gains nothing from the answer** and says so out loud, before asking, along with what he expected. A person who wants an answer does not put the question.
+- **The question is put as a question and not as a summoning**, and the form is a matter of grammar and not of law: *I am asking you*, and then the question, and no statement of what the asker wants and no statement of what he will do with the reply. If a sentence could be heard as a command, it is not one.
+- **A reply given without a question is not a promise.** Every answer an object has given before it was asked anything is a reading and never a term, and the record says so before anybody can use it as a revelation. This is a defence and it is a good one and it is thin, and a book that wants to survive four years has to say so in the same line.
+- **Asking is a reading and it costs what a reading costs.** It is entered in the ledger like any other, with its duration and its limit, and the reader's next permitted hour is published.
+
+### A count published with a decline in it
+
+The volume's last institutional finding, entered on the fifteenth and read at a rail on the seventeenth:
+
+- **A count that has been asked of people and answered is a different instrument from a count that was read out of a slate**, and for five weeks in this district the two were the same number and nobody noticed.
+- **A count with a refusal in it has never been said aloud in a yard in this city.** It is entered whole, with both the offered number and the travelling number, and **neither is struck**, because the board cannot strike a line.
+- **A person who says no is a decline, not a hole and not a stranger and not a refusal of service**, and the decline goes in the count as a decline.
+- **A person the steward cannot get a word from is entered as not asked**, and not asked is not a refusal and not assent, and the word is in the count.
+- **The number that has never been said aloud in a yard is the offered number, because it contains the noes.** Twenty-six is in the book of Lot 17 and it is the reason the tenth hand of the signal crew could not put it on his page.
+
+### A cash-side reading of the market
+
+The ward market's rate, voted on the thirteenth and in force from that day: **four coppers a quarter, unchanged in form, funding a real service at about forty-one**. Nineteen to the warden's published inspection, eleven to a public reader at the counter, six to the boards and the appointed clerk's board, two to oil, and **three unassigned with the reason entered**, because a rate that pays for a thing nobody can name is the rate the market had been collecting for eleven years.
+
+- A **standing crew at St. Orra — nine coppers — was refused**, on the ground that the thing has no day on it, and the refusal was entered as *not a statement that the yard is not wanted*, and it returns to the same room on its own when the road has a date.
+- **A rate buys a service and does not buy a seat.** No rate, levy or payment gives a payer a place in a count, a place in a queue, or a say in who travels.
+
+### A custody term that expires quietly
+
+The last institutional failure of Volume 01 and the seed of Volume 02. A short public custody term is renewed in public, on the sitting steward's own request, on the record — and **the term will expire whether anybody remembers it or not**, and at Lot 17 the steward who held the only key forgot for about twelve hours, with the object in a case in a building with four hundred people in the yard. The rule that came out of it:
+
+- **The hour of a renewal is published in advance**, so that anybody who wants to watch a clerk fail to renew a term can stand where it happens.
+- **A clerk's memory is not an instrument.** Nothing this district builds is finished until somebody other than the person who built it is scheduled to do the next part of it, and a book with nine copies in it and no reminder in it is the same failure as a levy with no printed matter.
+
+### A reading that arrives on an open page mid-use
+
+Declared and bounded, and used twice in Volume 01's last chapters. The object cannot be read at range and cannot be read by contact while it is inside a vehicle inside a Fault. But **a closing that is in progress writes on the open page of the public book**, which is a physical ledger, and a reader who has handled that page and knows its history reads it as he reads any other record. It returned four lines and cost an hour and it is entered in the ledger in the ordinary way with its duration and its limit, and **it did not tell anybody anything they could act on except that the term was in danger, which is what it is for.**
+
+
 
 A public lot that knows a counterfeit form exists cannot stop it with a warning, because a warning must arrive before a person decides and a person holding a barrow at four in the morning decided an hour ago. What works is a **table**: a fixed place, at the hour the claims are sold, where anybody may bring a claim and have the rest of it read aloud by somebody who is selling nothing. Two conditions, both learned the hard way:
 
