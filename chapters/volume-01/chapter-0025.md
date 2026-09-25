@@ -62,13 +62,13 @@ He read the line and then he did not say anything for some seconds, and there wa
 
 "It is entered before the token leaves the case," he said. "That is the same commitment I made on the nineteenth and I am making it again, in this yard, with the board present, and any person who does not understand it says so now."
 
-The yard was not silent. The yard was worse than silent, because it was *attentive*, and Adrian had spent eleven days learning the difference, and he knew that four hundred people had just heard a sentence they had heard before, in this yard, on the nineteenth, and had begun, all at once and in their own time, to go and find it.
+The yard was not silent. The yard was worse than silent, because it was *attentive*, and Adrian had spent eleven days learning the difference, and he knew that six hundred people had just heard a sentence they had heard before, in this yard, on the nineteenth, and had begun, all at once and in their own time, to go and find it.
 
 Nessa Pell had the book open. She did not have to look. She turned to the page and read the line that was in her own hand, above his signature, four days old, in ink, and she read it in a voice that did not do one single thing to it.
 
 "*The return is unwritten.*"
 
-Nobody in the yard said a word.
+Nobody said a word.
 
 "Registrar's entry," Mara Quill said. She had been at the crate for the whole of it and had not moved. "The board's page from the nineteenth stands, unstruck and unaltered, and it says that the return is unwritten. The sheet put in front of six hundred people this morning has a return field which says the return term is held by the reader and will be entered before the token leaves the case. Both statements are on the public record of this lot at the same time, in the same yard, four days apart, and they cannot both be true, and the registrar is obliged to say which of them she believes."
 
@@ -96,7 +96,7 @@ He read the sheet from this morning.
 
 And then he stood in the middle of a wet yard at a quarter past eight in the morning and said the thing that ended it, and he said it in the flat voice of a man who has carried goods for six years and is not impressed by anybody.
 
-"That is the same act," he said, "in the same yard, in the same words, four days apart, and you did not get it wrong, and I want to say that out loud for the record because I can see three hundred people in here who have just decided he got it wrong. He did not get it wrong. He did it again. He has the words for it now. He has had them since Tuesday."
+"That is the same act," he said, "in the same yard, in the same words, four days apart, and you did not get it wrong, and I want to say that out loud for the record because I can see six hundred people in here who have just decided he got it wrong. He did not get it wrong. He did it again. He has the words for it now. He has had them since Tuesday."
 
 "Seconded," said Marda Osk, from her crate, "by a person who read the toll out loud to the gate this morning, and I would like it entered that I have been reading the toll out loud for three weeks and I read it to four hundred people this morning and the sheet they were reading from had four words in the return field, and nobody in the four hundred could tell."
 
@@ -116,9 +116,9 @@ And that was when Mara Quill stopped it, in front of the whole market, and she d
 
 She put her hand flat on the crate.
 
-"The public road is suspended. It was suspended by me on the twentieth and I said at the time that I was not suspending it because the road is dangerous, I was suspending it because the document that let twenty-eight people onto a bus had no field in it for what the trip back would take out of them, and I said it would not run again until there was one. There is not one. Mr. Vale has told this yard, twice today, that he has one, and has not entered it, and is asking this market to believe that it will arrive before the case opens, which is what he asked this market to believe on the nineteenth and which is the sentence that is on page eleven of that book in his own handwriting as a promise not to do.
+"The public road is suspended. It was suspended by me on the nineteenth and I said at the time that I was not suspending it because the road is dangerous, I was suspending it because the document that let twenty-eight people onto a bus had no field in it for what the trip back would take out of them, and I said it would not run again until there was one. There is not one. Mr. Vale has told this yard, twice today, that he has one, and has not entered it, and is asking this market to believe that it will arrive before the case opens, which is what he asked this market to believe on the nineteenth and which is the sentence that is on page eleven of that book in his own handwriting as a promise not to do.
 
-"So: no token opens at Lot 17. And I want the book to hold the reason correctly, because I am the registrar and the reason is mine as much as anybody's. **I did not suspend the road. I cannot lift the suspension either. The suspension is the board's.** The board refused to record a closing on the twentieth because there was no proposal in the book, and the board will refuse again for the same reason this morning, and the board is four seats, and I am one of them, and I am not a majority, and if I stood here alone and announced a suspension on my own authority I would be doing the thing I have spent eight years preventing, which is a registrar with a thumb on a scale."
+"So: no token opens at Lot 17. And I want the book to hold the reason correctly, because I am the registrar and the reason is mine as much as anybody's. **I did not suspend the road. I cannot lift the suspension either. The suspension is the board's.** The board refused to record a closing on the nineteenth because there was no proposal in the book, and the board will refuse again for the same reason this morning, and the board is four seats, and I am one of them, and I am not a majority, and if I stood here alone and announced a suspension on my own authority I would be doing the thing I have spent eight years preventing, which is a registrar with a thumb on a scale."
 
 Nessa Pell said, "The board is asked whether there is a proposal in front of it, and there is not one, because the return field on the sheet says the term is held by the reader and not entered, and a term held by the reader is not a term."
 

@@ -54,9 +54,9 @@ The trader, a man of fifty with a burned cuff, looked at the pump and then at hi
 
 "Yes."
 
-"You used to be able to hold a thing and tell me what it wanted in a minute. That is four lines and a gap and a warning about my own family." The trader laid his palm on the pump. "Mr. Vale, I have brought four things to this lot in three weeks and I brought the first two because you could read. I have not brought the last two because I did not want to be in the yard when you did it in front of sixty people, and I have just done it anyway, and I would like to know what happened to the reading."
+"You used to be able to hold a thing and tell me what it wanted in a minute. That is four lines and a gap and a warning about my own family." The trader laid his palm on the pump. "Mr. Vale, I have brought four things to this lot in three weeks and I brought the first two because you could read. I have not brought the last two because I did not want to be standing here while you did it in front of sixty people, and I have just done it anyway, and I would like to know what happened to the reading."
 
-Then the echo came and took him: old coins, the flat edge to the sound, the right hand going slack in its own grip, and an hour gone, and the trader standing in the yard with a pump and no reader, and Nessa Pell writing down the time to the minute.
+Then the echo came and took him: old coins, the flat edge to the sound, the right hand going slack in its own grip, and an hour gone, and the trader standing at the rail with a pump and no reader, and Nessa Pell writing down the time to the minute.
 
 "Entered in the book," Nessa Pell said. "A reading, the fourth entered this month, and the first since the twenty-first. One hour. The reader is not to read again until the twenty-ninth."
 
@@ -90,7 +90,7 @@ He got on the wagon.
 
 The payment was on the twenty-ninth, in the yard, in daylight, with the board seated, and Adrian set the figure himself, and this is the part he will have to say out loud for the rest of his life, so he said it out loud before anybody else could.
 
-He had four figures available to him and he had gone into the workshop at six in the morning and worked out what each of them was.
+He had three figures available to him and he had gone into the workshop at six in the morning and worked out what each of them was.
 
 The flood-year figure was the one on the hundred and forty lots, and it was the highest, because it was a price made by a man in a hurry pretending he was not, and it was four hundred and ninety coppers better than the truth, which is the number below, which is the number that took two days.
 
@@ -146,7 +146,7 @@ What the yard did was this. On the evening of the twenty-ninth a barrow-hauler's
 
 Halloway Reed kept his price until the thirty-first and then did not raise it for another nine days, which Adrian did not learn about for some weeks and which by then was a fact about other people's arrangements rather than about his own.
 
-The public book of Lot 17 for the month of the nineteenth is complete enough that a stranger could take it cold — no notes, no memory of the room, no help from anybody who was in the yard — and reconstruct the whole of the failure: what the charter said, in whose hand, in what order; what it did not say, in a list of nine; what the objections were and which four he had not answered; what he had promised on page eleven and where the promise had gone; what the security was, and the four hundred and ninety coppers by which the lot had been over-priced on paper since the flood year; what the bell post's arm had done; and what had been entered on the twenty-ninth at a value the reader set himself against an unstated claim, in an entry that did not pretend to finish anything.
+The public book of Lot 17 for the month of the nineteenth is complete enough that a stranger could take it cold — no notes, no memory of the room, no help from anybody who was standing in it — and reconstruct the whole of the failure: what the charter said, in whose hand, in what order; what it did not say, in a list of nine; what the objections were and which four he had not answered; what he had promised on page eleven and where the promise had gone; what the security was, and the four hundred and ninety coppers by which the lot had been over-priced on paper since the flood year; what the bell post's arm had done; and what had been entered on the twenty-ninth at a value the reader set himself against an unstated claim, in an entry that did not pretend to finish anything.
 
 Adrian read the whole of it back, alone, in the workshop, on the first of the month, with a lamp, and it took him until about two in the morning.
 

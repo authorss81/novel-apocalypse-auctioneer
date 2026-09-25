@@ -4,9 +4,9 @@ Selik Marne had a way of doing paperwork that his junior staff found unnerving, 
 
 So he put the top of the nineteenth in the drawer and started with the tray of refused load sheets, and there were nine of them, and they were all the same refusal, and the ninth was the one that mattered.
 
-Three boxes of clinic stores and a draught. The scale clerk had weighed it at five o'clock and had written **CYLINDER. NOT A BOX. CLAMP CERTIFIED TO EIGHTY KILLO OF FLAT LOAD** on the bottom of the load sheet in a hand that had plainly enjoyed itself, and had sent the sheet up, and Selik read it and understood in about four seconds that the clamp was certified to eighty kilos of flat load and that a sealed draught cylinder at nineteen kilos was neither flat nor a box, and that the load sheet had been drawn up in the ninth year of a municipal service by a clerk doing his job.
+Three boxes of clinic stores and a draught. The scale clerk had weighed it at five o'clock and had written **CYLINDER. NOT A BOX. CLAMP CERTIFIED TO ONE HUNDRED AND SEVENTY POUNDS OF FLAT LOAD** on the bottom of the load sheet in a hand that had plainly enjoyed itself, and had sent the sheet up, and Selik read it and understood in about four seconds that the clamp was certified to a hundred and seventy pounds of flat load and that a sealed draught cylinder at forty-two pounds was neither flat nor a box, and that the load sheet had been drawn up in the ninth year of a municipal service by a clerk doing his job.
 
-The ward had eleven cots open and a third of them empty. It was nineteen degrees out and falling. Halva Sen had been buying a lamp shell off Adrian Vale for three weeks and had a weeping joint on it and had crossed the water three times on a token that takes the reason out of you.
+The ward had eleven cots open and a third of them empty. It was seven degrees out and falling. Halva Sen had been buying a lamp shell off Adrian Vale for three weeks and had a weeping joint on it and had crossed the water three times on a token that takes the reason out of you.
 
 He wrote on the bottom of the sheet: **REFUSED. Cylinder is not within the clamp's certified load and the manifest requires boxes. No exception exists for a vessel. Take the three boxes and take the cylinder by the river stair by hand, or wait for a re-rated clamp, which is a fortnight.**
 
@@ -14,7 +14,7 @@ Then he stopped, because that was the sentence a man writes to be fair, and fair
 
 He took a fresh sheet and wrote the second version.
 
-**REFUSED, AND HERE IS WHY, AND I AM NOT ASHAMED OF IT.** The clamp on the near abutment is certified to eighty kilos of flat load. A sealed cylinder is not flat load and is not within the certificate, and the certificate is the only thing standing between a deck and a deck that has been asked to carry something it was not built for. I will not bend the manifest for a draught, and if I bend it once for a draught I will bend it once for a truss and once for a passenger and in a year this crossing will be a thing I have exceptions for. Take the three boxes. The cylinder goes down the river stair by hand with two of my people and a lamp, and it will take four hours, and it will arrive.
+**REFUSED, AND HERE IS WHY, AND I AM NOT ASHAMED OF IT.** The clamp on the near abutment is certified to a hundred and seventy pounds of flat load. A sealed cylinder is not flat load and is not within the certificate, and the certificate is the only thing standing between a deck and a deck that has been asked to carry something it was not built for. I will not bend the manifest for a draught, and if I bend it once for a draught I will bend it once for a truss and once for a passenger and in a year this crossing will be a thing I have exceptions for. Take the three boxes. The cylinder goes down the river stair by hand with two of my people and a lamp, and it will take four hours, and it will arrive.
 
 He read it twice and signed it and sent it down, and then he sat with his hands flat on the desk for slightly longer than a man sits when he has finished a piece of work.
 
@@ -60,7 +60,7 @@ He unlocked the case at eight and took out the day's tape.
 
 Span trace: flat. He had the span's own chalk marks to check it against and they agreed, the way a bridge agrees with itself all evening.
 
-Load trace: flat, because there had been no load on the deck at all today. The crossing had been shut since the previous evening. That was not a matter of caution. Selik had shut it on the seventeenth because the halved manifest had produced a queue he could not supervise and a queue he could not supervise was a queue with nobody in it responsible for anything.
+Load trace: flat, and flat for the correct reason, which is that the only load on the deck all day was three boxes of clinic stores at ten past five, and a load of that size on a span this long is a mark you could lose in the thickness of the paper, which is a thing Selik says out loud about twice a year and is entirely right about. The crossing had not been shut. It had been running four boxes a day since the seventeenth, which is four fewer than it used to carry and the number he had gone to a review table to get, and it would carry a fifth if he ever said the word fifth out loud, and he had not.
 
 Sump trace: flat, and flat for the correct reason, which was that the sump had been drained and refilled on the fourteenth and the float was new and true.
 
@@ -72,11 +72,11 @@ Selik put the tape on the light table and looked at the pilot line for a while.
 
 It was a straight line for eleven hours and fifty-three minutes.
 
-At 7:37 it was not.
+At seven thirty-seven it was not.
 
-There was a mark at 7:37 — a displacement of the pilot of about a third of a division, up and back down inside four minutes, the shape of something engaging and letting go. It was four-tenths of a line's width. On the span trace a mark that small would be nothing at all. Selik had spent nine years learning what a third of a division means on each of the four lines in that case, and on the span line it means a cold joint, and on the load line it means one man, and on the sump line it means a bird.
+There was a mark at seven thirty-seven — a displacement of the pilot of about a third of a division, up and back down inside four minutes, the shape of something engaging and letting go. It was four-tenths of a line's width. On the span trace a mark that small would be nothing at all. Selik had spent nine years learning what a third of a division means on each of the four lines in that case, and on the span line it means a cold joint, and on the load line it means one man, and on the sump line it means a bird.
 
-He put his thumb on the tape at 7:37 and did not say anything for a long time.
+He put his thumb on the tape at seven thirty-seven and did not say anything for a long time.
 
 The bus had gone out of Lot 17 at seven twenty-five. The route had been open for twelve minutes. It closed at seven thirty-seven, and at seven thirty-seven the brass token had come up out of nothing onto a table four hundred yards away in a public lot with the wax already broken off it.
 
@@ -156,9 +156,9 @@ Selik had written the covering note himself, at the bottom, in the small hard ha
 
 *Copied to the public lot at Lot 17, in advance of any request, because a reading that no one can account for is a thing that is about to be shaped by whoever talks about it first, and I would rather it arrived in a yard in my own words at midnight than in a review in somebody else's in six days.*
 
-*The span is shut. It is shut because I say it is shut and no other instrument in this city shuts it. The housing is certified and the certificate is now qualified in a way I dislike, and here is the qualification in a sentence anybody can read aloud: the instrument has drawn a line on its pilot channel at twenty to eight this morning, on an empty bridge, and no instrument is attached to that channel, and nobody in this city can tell me why.*
+*The span is shut. It is shut because I say it is shut and no other instrument in this city shuts it. The housing is certified and the certificate is now qualified in a way I dislike, and here is the qualification in a sentence anybody can read aloud: the instrument has drawn a line on its pilot channel at twenty-three minutes to eight on the morning of the nineteenth, on an empty bridge, and no instrument is attached to that channel, and nobody in this city can tell me why.*
 
-*I do not intend to carry passengers on it and I would have said so at any time in nine years. I am saying it at half past midnight on the day of a bus that did not come back, three streets from a public lot, and I would like the yard to understand that those are two separate reasons and that the second one has nothing to do with the first.*
+*I do not intend to carry passengers on it and I would have said so at any time in nine years. I am saying it at midnight on the night of a bus that did not come back, four streets from a public lot, and I would like the yard to understand that those are two separate reasons and that the second one has nothing to do with the first.*
 
 *Selik Marne, Civic Warden, administrator of the St. Orra service approach.*
 

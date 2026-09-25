@@ -1,8 +1,8 @@
 # Chapter 28: The Second Backwash
 
-Orren Pike had worked out by twenty-eight o'clock that evening that the counterfeit was winning, and he did it with arithmetic rather than an opinion, because arithmetic was the only instrument he had that Adrian Vale had never once been able to dismiss.
+Orren Pike had worked out by the end of the thirtieth that the counterfeit was winning, and he did it with arithmetic rather than an opinion, because arithmetic was the only instrument he had that Adrian Vale had never once been able to dismiss.
 
-Three brokers. Two of them were the people he had already proved were carrying a single printing plate with identical miscut type. Eleven claims in circulation that he knew of, of which four had been refused at a carrier's hands and he could name all four refusals. That was eleven, and a man could refuse eleven.
+Three brokers, and all three of them were carrying the one printing plate with identical miscut type, which he had proved in a yard in front of forty people and which not one of them had denied. Eleven claims in circulation that he knew of, of which four had been refused at a carrier's hands and he could name all four refusals. That was eleven, and a man could refuse eleven.
 
 But at half past eight on the night of the thirtieth he counted the claims in the three barrow yards he could get into, which were the river stairs, the arcades, and the lower end of the tram apron, and he counted nineteen, and he stopped counting at twenty-one because his hand was going and because the ones he was not counting were on the terraces where a man with a wax stick and a shaking hand could sell all night.
 
@@ -77,7 +77,7 @@ And on the second night a carter from the arcades asked whether the page could b
 
 ---
 
-And then on the fourth night, at about half past one, a carter called Joss Amery came up the tram apron with a claim in his hand and a man behind him, and he had bought it at the terraces three days before, and he had not brought it to the table, and nobody had sent him to the table, and he had a reason, and the reason was that his wife had been taken to the fever ward on the far bank on the Thursday and there were nine cots and a queue and he had a barrow-load of clinic stores and a claim that said the road was his.
+And then, later on the second night, at about half past four, a carter called Joss Amery came up the tram apron with a claim in his hand and a man behind him who had brought a lamp, and he had bought the claim at the terraces three days before, and he had not brought it to the table, and nobody had sent him to the table, and he had a reason, and the reason was that his wife had been taken to the fever ward on the far bank on the Thursday and there were nine cots and a queue and he had a barrow-load of clinic stores and a claim that said the road was his.
 
 "This is the one," Nell Sarr said quietly. She was on the apron because she had started coming at four in the morning, which was not her job and which nobody had stopped her from doing. "This is the one that does not have a fold. Tove, look at it."
 
@@ -85,19 +85,19 @@ And then on the fourth night, at about half past one, a carter called Joss Amery
 
 "So it is a good claim," Nell Sarr said.
 
-"It is a good claim," Tove said, "and the return point in it is the old salt-loading ramp on the far side, which has been under nine feet of water since before the Fracture, and if he takes two men and a barrow over the footbridge at two in the morning without a marshal, because his claim says the crossing is his and does not need asking, then he will get himself to a flooded maintenance trench with a barrow of clinic stores in it, and it will not be anybody's fault but the claim's, and there is nobody to blame, and that is the whole difficulty."
+"It is a good claim," Tove said, "and the return point in it is the old salt-loading ramp on the far side, which has been under nine feet of water since before the Fracture, and if he takes two men and a barrow over the footbridge at five in the morning without a marshal, because his claim says the crossing is his and does not need asking, then he will get himself to a flooded maintenance trench with a barrow of clinic stores in it, and it will not be anybody's fault but the claim's, and there is nobody to blame, and that is the whole difficulty."
 
-Nobody had blamed anybody. That was the finding, and it took nine days.
+Nobody had blamed anybody. That was the finding, and it took a week.
 
 ---
 
-What happened at two in the morning at the south end of the service cut was this.
+What happened at about five in the morning at the south end of the service cut was this.
 
 There was no marshal, because a man with a claim does not need a marshal. There were two men and a barrow, and the footbridge is an old thing with a plank deck and a handrail on one side only, and the cut underneath it is the place where the ground has been arguing with itself for seventeen years and has never once settled on a side.
 
 The barrow went through the rail at the third plank. The man on the end of it went into the cut with it. The other man got back up onto the bank and ran for four hundred yards in the wrong direction looking for a lamp.
 
-They found the trench at twenty past two, because the claim's return point is a real place with a real name on a pre-Fracture document and a document that old is not wrong about where a thing is. Nine feet of water and a flooded maintenance trench and a barrow of clinic stores floating.
+They found the trench at about twenty past five, because the claim's return point is a real place with a real name on a pre-Fracture document and a document that old is not wrong about where a thing is. Nine feet of water and a flooded maintenance trench and a barrow of clinic stores floating.
 
 Joss Amery got the man out. He could not get the barrow out and did not try, and the stores went, and that was on him and on the claim and nobody else.
 
@@ -114,7 +114,7 @@ And on the morning of the second, when Bett Ruhl's exchange opened, Joss Amery w
 
 He had three days.
 
-He was a carter and he had had a barrow out on the night of the thirty-first and had come back on the morning of the first and had done his rounds and had eaten and had slept and had got up on the second and had a wife on the far bank, and the third of the month came and he could not have told anybody, in a courtroom or otherwise, what he had done on the first or the second, and when somebody said *the barrow* he said *what barrow*, and when Bett Ruhl said *Joss, you have got a barrow and a half load of clinic stores in you somewhere* he said, with a terrible patience, "then I would rather somebody found them than me."
+He was a carter and he had had a barrow out on the night of the first and had come back on the morning of the second and had done his rounds and had eaten and had slept and had got up on the third and had a wife on the far bank, and the fourth of the month came and he could not have told anybody, in a courtroom or otherwise, what he had done on the second or the third, and when somebody said *the barrow* he said *what barrow*, and when Bett Ruhl said *Joss, you have got a barrow and a half load of clinic stores in you somewhere* he said, with a terrible patience, "then I would rather somebody found them than me."
 
 Three days. Not damaged, not softened, not gone in a way anybody could describe. Three whole days simply not there, in a man who moves a barrow out of the river stairs and has done for nine years, and nobody can put a claim on a thing they cannot point at.
 
@@ -176,6 +176,6 @@ He looked along the rail until he found him.
 
 "Mr. Vale. You published the failure and it cost you a workshop, and I mean that, and I am not going to insult you by pretending it balances anything. But you published a *road that failed*, and a road that fails in public is a road everybody can check, and a road everybody can check is the only thing in this city that is going to beat me, and it is not going to beat me because of the book. It is going to beat me because of the four hundred people who read it and can now say, out loud, in a yard, that they will not sign with me because they can check the next one. You did that. In eleven days, from a stool, with a bad hand and a good eye, you have built the only thing I have been afraid of since I started, and I have been in this trade six years and nobody has ever built it, and I would like it noted in your book that I said so at ten in the morning on the third of the month, in a yard, before I sold a single thing."
 
-"Say it in the book," Adrian said, from the rail, in a voice with nothing in it that anybody in the yard could name. "All of it. Including that you sold a claim in my yard this morning."
+"Say it in the book," Adrian said, from the rail, in a voice with nothing in it that anybody standing there could name. "All of it. Including that you sold a claim in my yard this morning."
 
 "Especially that," Halloway Reed said.

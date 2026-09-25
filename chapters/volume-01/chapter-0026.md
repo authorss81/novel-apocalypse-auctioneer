@@ -16,11 +16,11 @@ The yard did the small noise.
 
 Then she read the refusals, because he had asked her to and she had said she would, and because a document read in public is a document and a document with the objections left out is a pamphlet.
 
-"This is Tarin Kest at about ten past six on the evening of the eighteenth, in the back office, at the table, in front of me and Mr. Vale. *I agreed to a return point. I agreed to a sentence about a road. I did not agree to a return with no terms in it, and I did not agree to this, and I am not going to pretend that this is the same thing, because the next time I open my mouth in a room I want the room to know that what I agree to is what I have agreed to.*"
+"This is Tarin Kest at four o'clock on the afternoon of the eighteenth, in the back office, at the table, in front of me and Mr. Vale. *I agreed to a return point. I agreed to a sentence about a road. I did not agree to a return with no terms in it, and I did not agree to this, and I am not going to pretend that this is the same thing, because the next time I open my mouth in a room I want the room to know that what I agree to is what I have agreed to.*"
 
-"This is Warden Marne, at twenty past four the same morning, and he put his hat on the table to say it, which I have not seen him do before or since. *A rule that cannot be read aloud by the people it governs has already failed the people it governs, whatever the paper says about it. Your return is not a term. It is a confidence. And I will not hold a flag on a spur for a confidence.*"
+"This is Warden Marne, at twenty past four on the same afternoon, and he put his hat on the table to say it, which I have not seen him do before or since. *A rule that cannot be read aloud by the people it governs has already failed the people it governs, whatever the paper says about it. Your return is not a term. It is a confidence. And I will not hold a flag on a spur for a confidence.*"
 
-"That is the record," Mara said, "and it is in the book, and it was made by two people who were in the room at the time and who were not paid and who had nothing to gain on the nineteenth and everything to lose after it. Registrar's note: neither of those refusals has been withdrawn by either of the men, and both of them stand on this page this morning, and they were made fourteen hours before twenty-eight people got on a bus."
+"That is the record," Mara said, "and it is in the book, and it was made by two people who were in the room at the time and who were not paid and who had nothing to gain on the nineteenth and everything to lose after it. Registrar's note: neither of those refusals has been withdrawn by either of the men, and both of them stand on this page this morning, and I am not going to round them off for the convenience of a room that would rather they were older than they are. The first was made at four o'clock and the second at twenty past four, on the afternoon of the eighteenth. Twenty-eight people got on a bus at twenty-five minutes past seven the next morning. That is thirteen hours and twenty-five minutes after the first refusal and fifteen hours and five minutes after the second, and the registrar has entered both figures and has entered neither of them as the interval, because the interval is a number a room picks and the refusals are a record two men made."
 
 Adrian stood on the rail while she read it and did not move, and she had told him at half past eight that he would be there, and he was.
 
@@ -68,7 +68,7 @@ He stopped, and looked at the yard, and the yard looked back, and none of it was
 
 "So here is what I have, and it is not a procedure, it is a list.
 
-"I cannot read the route. I have read the brass four times in three weeks and it has given me the same four lines every time and one of them is a line about a return that is not in the record, and I cannot predict where it will come up, and I cannot tell anybody on this near bank where a bus will arrive, because when it came up last Tuesday it came up four streets west in a locked yard with nobody at the wheel and nine people already sitting in it, and the nine had been on it for fifty-three minutes, and I did not know that and neither did they.
+"I cannot read the route. I have read the brass four times in three weeks and it has given me the same four lines every time and one of them is a line about a return that is not in the record, and I cannot predict where it will come up, and I cannot tell anybody on this near bank where a bus will arrive, because when it came up last Tuesday it came up four streets west in a locked yard with nobody at the wheel and nine people already sitting in it, and they had been on it for eleven hours and forty minutes, and I did not know that and neither did they.
 
 "I cannot post security. I have said that out loud in this yard and it is in the book, and it is the reason there was a number in a man's coat instead of a number in a book, and I am not going to stand here this morning and pretend the last three weeks were caused by bad luck in the paperwork.
 
@@ -106,7 +106,7 @@ The cooperative clerk looked at him for a long moment and then put the rate shee
 
 "No," Adrian said. "It is not enough, and I am saying so in a yard rather than in a room, and I would like the yard to hear the reason as well as the answer, because the reason is that I have been on the wrong side of that question once and it cost nine people and a child, and the wrong side of it is *enough* — a number large enough to stop people asking. Every number I have ever given anybody has been large enough to stop people asking. It is what I am for. I am the man who makes the room stop asking, and it is a real talent, and it is why there are six hundred people here instead of a queue at the door, and it is also the reason that nobody knew what a return condition was until Tuesday morning, and the reason the market is now being sold a cheaper lie by three men on a printing plate."
 
-Nobody in the yard agreed with him. He had said a bad thing about himself in public and got a silence, and the silence was not applause, and it went into the book as what it was, which was a man talking.
+Nobody in the four hundred agreed with him. He had said a bad thing about himself in public and got a silence, and the silence was not applause, and it went into the book as what it was, which was a man talking.
 
 ---
 

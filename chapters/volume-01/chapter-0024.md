@@ -34,7 +34,7 @@ Then the child.
 
 There was no name to write and there was a great deal to write, and Mara found that the second of those two facts had never once before been a problem in her working life and was now the entire problem, and she wrote it out in the yard on the crate with the book open and about two hundred people standing in the wet because there is no other room in Alder Reach that two hundred people can be got into.
 
-**Entry, the twenty-first day. One child of the second school shelter group, marked on a sealed sheet and not named in this book, was found at the near-side maintenance spur at nine minutes past seven in the evening of the twentieth, in the care of one escort steward, after eleven hours and forty minutes. She was carried to this lot at a quarter past ten. She did not wake. She died between eleven o'clock and half past twelve in the night. She is not named in this book because nobody asked her, and the category that keeps her name out of this book is the reason that no remedy can point at her, and that sentence is the whole of what this entry is.**
+**Entry, the twenty-first day. One child of the second school shelter group, marked on a sealed sheet and not named in this book, was found at the near-side maintenance spur at nine minutes past seven in the evening of the nineteenth, in the care of one escort steward, after eleven hours and forty minutes. She was carried to this lot at a quarter past ten. She did not wake. She died in the small hours of the twentieth, on the floor of the depot with six other children asleep around her and two women from the clinic with her, and nobody in that room was keeping the hour, and so this entry does not carry one, because I am not going to put a time on a thing in a book that no person alive saw happen. She is not named in this book because nobody asked her, and the category that keeps her name out of this book is the reason that no remedy can point at her, and that sentence is the whole of what this entry is.**
 
 The yard was extremely quiet in the way a yard is quiet when it has understood that the person reading is not going to stop.
 
@@ -70,7 +70,7 @@ The room did the small noise.
 
 Mara did not answer him.
 
-"There are four places," she said. "I have the fourth one in my own coat and I have had it since the ninth, and it is the register of sealed pages, and this morning it says that three sealed sheets have been opened against Lot 17 since the ninth, and the ninth, and there were two."
+"There are four places," she said. "I have the fourth one in my own coat and I have had it since the ninth, and it is the register of sealed pages, and this morning it says that three sealed sheets have been opened against Lot 17 since the ninth, and three is the true number, and I can produce all three, and two of the three are the escorts' sheets from the ninth and the third is the children's sheet from the sixteenth."
 
 ---
 
@@ -78,7 +78,7 @@ Nobody spoke for a while.
 
 "Say the rest of it," Adrian said.
 
-"The register is a list of the sheets, not the sheets. It carries a number, a date, and a category for every page I hold, and no name, because a name on that register is the harm, and it lives in a municipal drawer in this building behind my own office door and I am the only person with a key." She put her hand flat on the crate. "This morning the register says three sheets have been opened since the ninth. There have been three: the two escorts' sheets from the ninth and the children's sheet from the sixteenth. But the register has been kept as two rows for the escorts, one row, dated the ninth, and one row, dated the nineteenth, for the steward's sheet. This morning the ninth row is dated the ninth *and the sixteenth* and the nineteenth row is dated the nineteenth and has nothing after it, and somebody has made it look as though a fourth sheet had been opened against this lot, and there is no fourth sheet, and there never was, and I cannot tell you which of those two readings is correct: that a fourth page exists, or that a row of a book was altered to make one look as though it did."
+"The register is a list of the sheets, not the sheets. It carries a number, a date, and a category for every page I hold, and no name, because a name on that register is the harm. The original is in a municipal drawer in this building behind my own office door and I am the only person with a key, and what I read this morning is the fair copy, which a clerk makes in the ordinary way because the original is never carried out of that room." She put her hand flat on the crate. "Three rows. Two of them are dated the ninth and the third is dated the sixteenth, and those three rows are where I put them and none of the three has moved and every one of them is legible. One cell has changed and it is the only one. The children's row was the forty-third page I have ever sealed against this lot. This morning it is the forty-fourth, in the same hand, in the same ink, with the same date on it. And there is a forty-third in the register, dated the nineteenth, in the category of this lot, and there is no page, and there has never been a page, and the paper for it was never cut. I cannot tell you which of those two readings is correct: that a fourth sheet was sealed against this lot on the nineteenth and I have never held it, or that a page was numbered into my book by somebody who has stood in that room, and I am not going to stand here and tell this yard which of the two I believe, because I do not know, and a registrar who guesses in public is worse than a registrar who says so."
 
 "And you cannot rule out that it was your page," Nessa Pell said, not unkindly, and said it out loud, which was the point.
 
@@ -92,7 +92,7 @@ Nobody spoke for a while.
 
 Selik Marne's Warden came at eleven with the midnight note in a Warden's copy and read the four lines of it aloud, and then said the sentence the yard had been waiting for since four in the morning.
 
-"Mr. Vale. Line four of that notice says a security was offered. It also says the entry into the public book was deferred to a return term that has not been written. That is not a security anybody can look at, and you said in this yard on the twentieth that it was real, and a real thing that four hundred people cannot inspect is not a security. It is a story about a security, and a story is cheaper than a press, and this yard has been sold a great many stories about a brass token for eleven days."
+"Mr. Vale. Line four of that notice says a security was offered. It also says the entry into the public book was deferred to a return term that has not been written. That is not a security anybody can look at, and you said in this yard on the nineteenth that it was real, and a real thing that four hundred people cannot inspect is not a security. It is a story about a security, and a story is cheaper than a press, and this yard has been sold a great many stories about a brass token for eleven days."
 
 "Write it as your own," Adrian said. "That is your own opinion and it is right and I would rather it were on the board than in a corridor."
 
@@ -136,7 +136,7 @@ Four seats, four voices, one seconding, and a man in a wet coat who had been in 
 
 It was carried.
 
-And then Nessa Pell opened the case, because somebody in the yard asked whether the object had anything to say about the four documents that had changed overnight, and a public lot that has a question put to it in front of four hundred people does not get to keep the question shut.
+And then Nessa Pell opened the case, because somebody at the rail asked whether the object had anything to say about the four documents that had changed overnight, and a public lot that has a question put to it in front of four hundred people does not get to keep the question shut.
 
 Adrian put two fingers on the brass, and the writing came thin, and then it did not come thin, which it had not done to him in three weeks, and it came in four lines.
 
@@ -161,9 +161,9 @@ The hearing was held at eleven, in the yard, in the rain, and it took fifty minu
 
 Mara Quill did not open the sealed page. She had said six days ago, in a yard, in front of eight children and two stewards, that she would not, and she did not, and the reason she gave was one word — *because* — and then she asked the affected people what they could say, in a room, in front of witnesses, which is the whole of the remedy and the whole of its limit.
 
-The escort steward who had come off the bus could not say anything about the twenty-first of the month, because she was on a cart on the twentieth and asleep in a depot. The six children were in the school gym and two of them were asleep. Dessa Rill said four sentences and three of them were about a route, and the fourth was that she had been the one who drove the medicine for nineteen years and could not say why.
+The escort steward who had come off the bus could not say anything about the twentieth of the month, because she was on a cart on the nineteenth and asleep in a depot. The six children were in the school gym and two of them were asleep. Dessa Rill said four sentences and three of them were about a route, and the fourth was that she had been the one who drove the medicine for nineteen years and could not say why.
 
-And the parent of one of the six children stood up in the rain and said, in a flat voice nobody in the yard had heard before: "If you had asked her, on the twentieth, before she got on a cart, would she have told you she was going to die?"
+And the parent of one of the six children stood up in the rain and said, in a flat voice nobody in the yard had heard before: "If you had asked her, on the nineteenth, before she got on a cart, would she have told you she was going to die?"
 
 "Cannot tell you," Mara said. "And I will not guess, and I will not let this room guess, and I would like the book to say that I was asked a question I could not answer, in public, by somebody with a right to ask it."
 
@@ -205,7 +205,7 @@ She got to the end and read the last line of it, which was Mara's, written befor
 
 "*The claim this security was against has not been stated, because the charter that failed stated no return, and the person who cannot be named for a remedy is the reason there is no figure. Entered: a real security of six hundred and twenty-nine coppers against an unstated claim, and no person in this book is able to say whether it is enough, and neither is the man who wrote it.*"
 
-Nobody in the yard said anything at all.
+Not one of the four hundred said anything at all.
 
 And then a man on the tram rail, in a wet coat, with a bad shoulder and a season's work behind him, said the sentence that the whole morning had actually been about, and said it to Adrian, and Adrian agreed with every word of it.
 
