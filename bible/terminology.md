@@ -95,6 +95,40 @@ The physical cost Adrian experiences when he reads a lot. It is a fraction of th
 
 A real object, recognized standing, skill, labor term, access right, or named obligation that a bearer posts to support a charter. Adrian's private recognition and exceptional mark count as assets only when he controls the stated right and the closing names its exact consequence. Security is forfeited if the charter breaches. If the closing draws on the same holdings for toll and security, it must identify the exact asset consumed as the toll and a distinct asset posted as security. A successful closing consumes the toll; a breach forfeits only the named security. A promise alone is not automatically valid security.
 
+**Three kinds of asset, and they must never be blurred.** A **payment** is spent. A **security** is forfeited on a breach. A **held asset** is neither: real inventory placed in the custody of the sitting steward under a short renewable term, forfeit to the remedy on a breach, and not returnable by anybody. **A reader cannot post a security** and must say so in the same entry, so no later clerk can read a payment or a held asset as a posted one.
+
+### Terms-closing
+
+A record published by a public board, in the order of the seven-item proposal schedule, whose first line states that it **confers no use, authorizes nobody to move anything, and seats no token**. It exists because the person who would close the charter cannot (a Stage 1 reader drafting a multi-bearer split) and because there is no token and no road to open. It is made of powers the board already has — publish a result, accept two fresh witnesses, call a review — and it must be built in public by the board, never announced by the reader who wants it. A terms-closing governs nothing until a later charter with a real use is closed on it.
+
+### Split
+
+A use carried by more than one bearer. **A Stage 1 reader may draft a split and may not close one.** Standing is per bearer, so a reading of a split returns the standing of one bearer and a list of the rest. A **named pair** — a place, an approach, and the person able to hold them — has a person in it; a pair with a slot in it is half a pair, and a half pair is the failure of the nineteenth. A **remembering passenger is a condition on the use and not a bearer.**
+
+### Held asset
+
+Real inventory, standing, or a named labour term placed in the public custody of a steward under a short renewable term, forfeit to the remedy on a breach of any charter the board has recorded, and not returnable to the holder by anybody including himself. Entered in three columns of figures. **Not a security, not a payment, and not a stage.** Recorded in `bible/world.md`.
+
+### Mark
+
+The standing record of a person's refusal of a name: a cross struck into iron, a knot, a thumbprint. **A mark is not a person.** It may not be used as a bearer, a holder, a witness, a responsible party, or a person who is asked, and **it may not carry a job** — the same mark in two documents for two jobs is a claim that two people are one person, made by people who each thought they were helping. Marks are indexed. A steward who carries a mark answers for a number and not for a person.
+
+### The paper levy
+
+Four coppers a quarter, collected at the ward market counter from every household of two adults and above, entered in its books for eleven years as *public notice and printed matter* and producing no printed matter anybody can name. It now funds the warden's public inspection and the ward market's public reader, at about forty-one coppers a quarter. The reader reads out loud, in words the bringer did not bring, whatever is put on the counter. It cannot help a household that cannot get to the counter, and that is its standing failure.
+
+### Disclosure that travels to the person
+
+The rule that a table is a place and a person is a place. Where the people who need a disclosure cannot come to it, a courier carries a **blank strip** to a steward's hand on a route they already walk, the steward opens it, and a reader is in the room. **No courier has ever been in a room where a reading happened, and no courier can be asked what a reading was about, because there was nothing to ask about.** The steward's name goes in the public book. A courier network may not be enrolled, a notice cannot do it, and a market counter at six o'clock cannot do it. It is worse than a table and it is the only thing that reaches some people at all.
+
+### Unasked
+
+The condition of a person who was entered into a document by somebody else's arithmetic and was never asked. **Unasked is not refused and is not assent.** The record must carry the word, the count must carry the word, and a charter that counts an unasked person is invalid at the point of the count. A steward who cannot get a word must enter *not asked* rather than a silence.
+
+### A person is accounted for by a count
+
+The standing rule that a person is accounted for by a count, a destination, and a remedy, and **not by a household**. A group may be a household or may not be; writing the group means every household in it *and* every person in it who is not in one. The steward of a group counts the group and may not count the people in it who are not in a household unless they ask, and anybody may say no, and saying no is not a refusal of service, and the count is published with the decline in it. A wrong count is not struck: the wrong count and the right count go in the same entry with the reason underneath.
+
 ### Overdraft
 
 The state caused by sponsoring more active claims than Adrian's recognition can support, including recognition-backed emergency lots for which he made that standing shared security under a public mandate. His name, signature, and standing become unreliable. It is resolved by settling or withdrawing claims, not by waiting.

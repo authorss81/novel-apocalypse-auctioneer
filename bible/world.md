@@ -159,6 +159,86 @@ When a charter fails visibly and the size of the claim cannot be established —
 
 This is deliberately worse than a completed record. It is the fourth column of the book.
 
+### Disclosure that travels to the person
+
+A table is a place, and a person is a place, and a person who cannot get to the table cannot be served by the table however honest the person at it is. Where the people who need a disclosure cannot come to it, **the disclosure has to go to them**, and the rules learned the hard way in Chapters 32 and 39 are four:
+
+1. **A notice cannot do it.** An address would be the location of an Unlisted kitchen.
+2. **The ward market cannot do it.** Its counter opens at six, and the people who most need a reading are on their feet from half past two.
+3. **A courier network cannot be enrolled.** The couriers are protected *because* no list of them exists anywhere; enrolling them converts a rumour into a registry. **A courier carries a blank strip to a steward's hand, out of habit, on a route they have walked for years. The steward opens it. A reader is in the room. No courier has ever been in a room where a reading happened and no courier can be asked what a reading was about, because there was nothing to ask about.** The steward's name goes in the public book; the reader's does not have to, but the reader must be a person the household already trusts, and a child of seventeen is not one.
+4. **It is worse than a table and it is the only thing that reaches some people at all.** It costs a night's walking per household and a reader's term and a wage, and it cannot be posted, scheduled, or audited, and every writer who builds it must say so in public or they have built a fiction.
+
+The published page for this service carries three lines on its face, and the third is the one that matters: **WHAT THE NINTH LINE ACTUALLY SAYS, IN PLAIN WORDS, AND WHO IS ABEARING IT.** Printing it teaches a whole city to read a claim in a minute, which stops the fold and starts a faster counterfeit. It is printed anyway, because the alternative is being right in a room and useless in a city.
+
+### The ward market's public reader and the paper levy
+
+The ward market's **paper levy** is four coppers a quarter, collected at the market counter from every household of two adults and above, entered in its books for eleven years as *public notice and printed matter*, and producing no printed matter that anybody can name. The ward market's first public reader is paid out of it, along with the warden's inspection, and the rate therefore goes from four coppers a quarter to about forty-one, which is a levy the district feels every quarter it runs. The reader is a person at a counter who reads out loud, in words the bringer did not bring, whatever anybody puts on the counter. Its standing failure is that **it cannot help the household that cannot get to the counter**, and Chapter 32 is the proof of that in one scene.
+
+### The split-use remedy
+
+The no-name remedy made general, and entered in Lot 17's book in Chapter 37. Three parts:
+
+- **A hearing** on a stated day, in a public yard, before the board, all four seats named aloud, no proof required, and no name entered unless asked for.
+- **A pooled count**, split the way the people actually are, published before the hearing and published again after it, the two numbers set beside each other, and any difference between them entered **as a finding about the counting and not as a fact about the people who were not counted**.
+- **A payment rule**: a sum held in public custody by the steward, drawn from the paper levy, drawable only after a hearing, only by a person who can say what they lost, and **never entered as nil on the ground that nobody came**, because a nil would be a number somebody chose.
+
+And at the front of the entry, because it is the part that matters: **this remedy is known to fail on the day it is called.** It is entered as a thing that will not be discharged, because the alternative is a thing that fails quietly, and a quiet failure cannot be argued with by the people it failed. Its cost is entered before it is agreed to — two pounds and eleven coppers, entered as nine with the lie in it in the reader's line, which is the first sum in the book that is wrong on purpose with the wrongness written in the same line.
+
+**The board records the state of the room's knowledge beside the instrument.** The remedy of the fourth of this month is entered with the registrar's expectation of *called and not discharged* entered in advance in her own hand, so that nobody can stand up on the day and say they did not know. The board has no power to require this of anybody and does it because a book which records a thing that was known and not said is a book that cannot be used against anybody in it.
+
+### A closing of terms that grants no use
+
+A **terms-closing** is recorded when the person who would close the charter cannot — a Stage 1 Reader drafting a split, for instance — and there is no token, no road, and nothing to open. It is built entirely out of powers the board already has, and it must be constructed in public and by the board, never announced:
+
+1. The board **publishes a result** (a power it has) rather than recording a closing.
+2. The first line of the publication, which **may not be read two ways**: *THIS RECORD CONFERS NO USE, AUTHORIZES NOBODY TO MOVE ANYTHING, AND SEATS NO TOKEN.*
+3. Two fresh independent witnesses accept the published terms after full disclosure, which is what makes it a closing in substance.
+4. The board **calls a review** of its own publication, which nobody may stop.
+
+The instrument was built by a **sitting steward**, not by the reader who wanted it, and the entry says so, because a book that gives the inventor of a public instrument the credit for inventing it is a book that will be wrong about who built what inside four years.
+
+### A held asset: neither a payment nor a security
+
+A Stage 1 Reader **cannot post security**. A changed decision inside that rule, used in Chapter 40, produces a third instrument with no name in the book, and the entry must say that it has none:
+
+- A **payment** is spent. A **security** is forfeited on a breach. A **held asset** is neither: real inventory, real standing, and a real labour term, placed in the custody of the sitting steward under a short renewable term, **forfeit to the remedy on a breach of any charter the board has recorded, and not returnable to the holder by anybody including himself**.
+- The figures are entered as three columns — the holder's own figure, the ward market's rate sheet, and the yard's — and the holder's figure is **not** the largest by default.
+- The entry records, in the same line, that the holder **has not gained a stage, has not gained a power, cannot close a split, cannot post security, and cannot operate the lot**, and that what he has done is decided to give something away, which is a thing a reader can do.
+- **A payment does not convey anything.** An asset entered in a payment against a claim that has never been stated is still the payer's, because there is no body to buy it. This is why a lease can be offered as a payment for a month and still be in the holder's name in the next one.
+
+### A person is accounted for by a count, not by a household
+
+The first institutional rule the affected people wrote themselves, entered in Chapter 36 and the volume's real constitutional gain:
+
+**A PERSON IS ACCOUNTED FOR BY A COUNT AND A DESTINATION AND A REMEDY, AND IS NOT ACCOUNTED FOR BY A HOUSEHOLD.**
+
+- A group may be a household or may not be. Writing *the group* means every household in it, **and also every person in it who is not in one of the households**, and the second half is the half that has never been written in this city.
+- **The steward of a group counts the group. The steward does not count the people in the group who are not in a household, and may not, unless they ask.**
+- **Anybody may be asked, and may say no, and saying no is not a refusal of service, and the count is published with the decline in it and not without it.**
+- A count that is wrong is **not struck**. The wrong count and the right count go in the same entry with the reason underneath, because a book with one number in it and a kitchen with the other number in it is two authorities, and two authorities end in a fight about which of us is lying, and neither of us will be lying.
+
+### A mark is a person's refusal, and cannot be a job
+
+A **mark** — a cross struck into iron with a chisel, a knot, a thumbprint, any sign standing in for a name — is the standing record of a refusal. Rules established by the failure of Chapter 39, and they are the batch's most important technical finding:
+
+- **A mark may not be used as a person.** It does not name a bearer, a holder, a witness, a responsible party, or a person who is asked. A document that needs a person needs a person or a **refusal to be a person**, and the refusal is not a substitute.
+- **A mark may not carry a job.** The same mark appearing in two documents for two different jobs is not a duplication; it is a claim that two people are the same person, made by people who each thought they were helping. **Marks must be indexed and no two may be given one job twice.** The index is the only piece of administration in this district that anybody ever asked for, and everything now depends on it.
+- **A steward who carries a mark answers for a number and not for a person.** That is the cheapest work in the city and it is the reason its counts are what they are.
+- **A person's answer to a question they were not asked is silence, and silence is not a refusal and it is not assent.** A steward who cannot give a word must enter *not asked*.
+- A mark may not be written onto a strip in the writer's book and in a public book at once, and the **split-strip chain's writer's half never goes into a public record**; if it does, the chain has been broken by a clerk and not by a clerk, and the two books will diverge.
+
+### The five visible things
+
+The rewrite of Chapter 40, which is the volume's answer to the ninth thing that was not in the charter, and which every new charter at Lot 17 now carries:
+
+1. **Use, toll, term, release condition, and appeal path are written in one place, in that order, on one sheet**, and anybody may have the sheet read aloud, and no part of it is in another document.
+2. **The release condition is read aloud at the opening of the case and not only at the signing, and at the closing, by a different person each time**, and by a person who cannot read if the traveller cannot read.
+3. **Any affected person may refuse in public, without giving a reason, by saying the word**, and the only answer owed them is *accepted* and the reason they gave, which is none, and the window closes only when the case is physically opened.
+4. **A crossing that is performed does not create a right anybody may sell, assign, inherit, or give away**, and no claim upon a successful crossing is a thing a person can hold, and anybody who offers one is offering a thing that does not exist and is liable to be told so in this yard.
+5. **The book records what failed as well as what worked, and a failure is entered as a failure of the instrument and not as a fact about a person, and no entry is struck.**
+
+An eighth line belongs with them and came out of a counterfeit's second page: **NO GOODS, NO FREIGHT, AND NO CARRIAGE OF ANY KIND EXCEPT THE PERSON WHO IS CARRIED AS A PERSON.**
+
 ### The claim-comparison service
 
 A public lot that knows a counterfeit form exists cannot stop it with a warning, because a warning must arrive before a person decides and a person holding a barrow at four in the morning decided an hour ago. What works is a **table**: a fixed place, at the hour the claims are sold, where anybody may bring a claim and have the rest of it read aloud by somebody who is selling nothing. Two conditions, both learned the hard way:
@@ -199,7 +279,7 @@ Important locations:
 - **The two banks of St. Orra:** the **eastern** bank carries Lot 17, the St. Orra staging yard, the tram apron, the old school gym, the Ward Nine *old platform* and its one-armed bell post, and the east platform of old Line Six. The **older central** bank carries the Ward Nine district, its fever ward, the clinic receiving stations, and the far receiving ramps. The Fault of St. Orra runs between them. Reach the far side by Selik's official span, the river stairs, or the old footbridge over the service cut. Medicine that has to be delivered starts stranded on the wrong bank.
 - **St. Orra Underpass:** the first major Fault; the Last Fare is found in a stranded bus.
 - **Selik Marne's official span:** the lawful crossing. A **gauge fault** in which a bent float in the sump chamber reported a movement the span did not make caused a full deck evacuation; the span was sound, the evacuation was correct, and the housing was rebuilt and certified by two people outside the Warden administration. The crossing now runs under a **tightened manifest**: a named responsible party physically present at the near abutment for the whole crossing, a second adult name for any child under twelve, the certified gauge housing before any passenger crossing including a supervised cargo exception, and halved supervised slots. It moves four small cargo boxes a day and refuses any group that will not enter a roll.
-  - **The pilot line.** Each certified housing carries a fourth trace with no instrument attached to it, put there by the water office so that a flat tape can be distinguished from a dead pen. The pilot is supposed to be a straight line. On the morning of the nineteenth, at twenty to eight, on a closed and empty span, the pilot deviated by a third of a division and returned. Nobody can say why. The two outside signers **suspended the certificate under the water office's own clause** — theirs, not Selik's — and the span is shut to all carriage, including supervised cargo exceptions, pending a replacement housing. Selik is right on the merits and knows the instrument is a mystery, and says so in the same breath. A reading nobody can account for is not to be carried on, whether it is a fault on the structure or a fault on the paper about the structure.
+  - **The pilot line.** Each certified housing carries a fourth trace with no instrument attached to it, put there by the water office so that a flat tape can be distinguished from a dead pen. The pilot is supposed to be a straight line. On the morning of the nineteenth, at **twenty-three minutes to eight**, on a closed and empty span, the pilot deviated by a third of a division and returned. **This is the only form of that time. Never "twenty to eight", never "twenty-five minutes to eight", never a bare 7:37 as a different minute; they are different minutes.** Nobody can say why. The two outside signers **suspended the certificate under the water office's own clause** — theirs, not Selik's — and the span is shut to all carriage, including supervised cargo exceptions, pending a replacement housing. Selik is right on the merits and knows the instrument is a mystery, and says so in the same breath. A reading nobody can account for is not to be carried on, whether it is a fault on the structure or a fault on the paper about the structure.
   - **The closure order of the ninth** states that **one office is responsible for the crossing at St. Orra**, and its inspection must be conducted on stated days, in a public yard, at the ward market's expense, with the days published on a board kept in the trading places and read out by a clerk appointed by the review table and not by the Warden's office.
   - **The old footbridge over the service cut is not a crossing under that order and is not declared safe.** The Warden office keeps one marshal and one lamp at its south end in the passable hours and enters no name in any book about it, on the stated ground that a crossing without a manifest is not a crossing. When a plank of it went into the cut in Chapter 30, the footbridge shut, and the far bank was cut off again that afternoon.
 - **The Brass Verdict Hall:** a municipal chamber where charter disputes are heard.

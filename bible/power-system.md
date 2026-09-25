@@ -132,7 +132,7 @@ Before the Long Fracture, and at the start of the story, Adrian is a competent o
 
 **Failure:** a technically impressive sale can still conceal a social cost, because ordinary auctions do not require the Tally to accept responsibility.
 
-### Stage 1 — Reader
+### Stage 1
 
 Adrian can perform a full three-part reading on one object after contact or a reliable account. He can close a simple charter with one bearer, a short term, and a visible toll.
 
@@ -142,6 +142,8 @@ Adrian can perform a full three-part reading on one object after contact or a re
 
 **Hard limit:** one lot at a time; contact or history required; no prediction; no control of another person.
 
+**The one-lot limit and a split, stated exactly (Chapters 35–40).** Standing is per bearer. A three-part reading can return the standing of **one** of several bearers; the others are not a reading, they are a list. Asked about four bearers of one lot, the object answers that the use and the toll are stated and the standing is stated *for one of them*, and Adrian cannot fill the rest by trying harder. **He also cannot close the split, cannot bind it, cannot transfer it, cannot renew it, and cannot post security.** A document he drafts is a **proposal**; somebody with the power to close it has to read the clauses aloud in a room. And the **held asset** of Chapter 40 is not a promotion: it is a changed decision inside a rule he does not have power over, and the entry that records it says so in the same line.
+
 ### Stage 2 — Binder
 
 Adrian can write a bounded charter, split a use among several bearers, and close a transfer without changing the underlying object. He can make an ordinary lot portable or renewable under a stated term.
@@ -150,7 +152,7 @@ Adrian can write a bounded charter, split a use among several bearers, and close
 
 **Cost:** he must post **security** before closing: a real object, recognized standing, skill, labor, route access, or named obligation. If the charter breaches, the security is lost and the Tally may place a visible claim mark on his record. He cannot use a promise he has not personally inspected as security.
 
-**Hard limit:** binding cannot create consent. A person who materially refuses cannot be counted as a willing witness, even if a coercive charter or a founder-mark forced record is mechanically recognized.
+**Hard limit:** binding cannot create consent. A person who materially refuses cannot be counted as a willing witness, even if a coercive charter or a founder-mark forced record is mechanically recognized. **A person who has not been asked has not refused and cannot be counted either way; the record must say `not asked`, and a charter that counts an unasked person is invalid at the point of the count rather than at the point of the closing. A remembering passenger is a condition on the use and not a bearer** unless a later Stage 2 charter expressly assigns one, and a Stage 1 reader has no power to make that assignment.
 
 ### Stage 3 — Steward
 
