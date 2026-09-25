@@ -74,7 +74,7 @@ The Tally records the current terms. It does not guarantee that the object will 
 
 ### Removal and destruction
 
-An anchor can be moved from its Fault only through a valid charter. It can be destroyed, but destruction does not cancel the rule. It removes the visible handle and usually produces a **blind change**: the affected rule continues in an uncontrolled form, or the local service disappears. This is why experienced communities destroy an anchor only after building a replacement or accepting the loss.
+An anchor can be moved from its Fault only through a valid charter. A narrow, previously closed **inactive custody charter** is the exception for an unopened object: it names the finder, the receiving bonded depot, the custody term, two witnesses, and a remedy for an unclaimed delivery. It grants physical custody only and never authorizes activation. If such a transfer is missing, incomplete, or unrecorded, moving the object leaves the new custodian exposed as a bare claimant. It can be destroyed, but destruction does not cancel the rule. It removes the visible handle and usually produces a **blind change**: the affected rule continues in an uncontrolled form, or the local service disappears. This is why experienced communities destroy an anchor only after building a replacement or accepting the loss.
 
 ### Backwash
 
@@ -99,6 +99,8 @@ A charter must include:
 - at least two independent witnesses and a way to dispute a breach.
 
 Money is one valid form of consideration. So are food, labor, care, a route, a skill, a share of future harvest, or a promise that can be checked. The Tally can record a promise; it cannot decide whether the promise was kind or whether the person had meaningful alternatives.
+
+A public lot may place a dangerous object in documented public custody under a stated steward term. The registrar, the seller, and the current public steward must be present to open the case, and the term must be renewed or allowed to expire in public. Custody limits handling; it does not create a new use, ownership right, or bearer role.
 
 ## Geography
 

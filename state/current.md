@@ -1,23 +1,25 @@
 # Current State
 
-Current phase: outline (Volume 01 and Batch 0001 cards complete; next phase is batch planning)
+Current phase: batch 0001 prose complete; next phase is planning/writing Chapters 11–20. The phase ledger is controller-owned and is not edited by the writer.
 
-Current volume: 1
+Current volume: 1 — The First Hammer
 
-Current batch: 1 (planned, Chapters 1–10; no prose written)
+Current batch: 1 complete (Chapters 1–10)
 
-Last completed chapter: none
+Last completed chapter: 10 — The Public Lot Book
 
-Last batch summary: none
+Last batch summary: `state/batch-0001-summary.md`
 
-Next batch to write: `outline/batches/volume-01-batch-0001.md`, Chapters 1–10. Beat structure is beginning (1–2), escalation (3–4), midpoint (5–6), climax (7–9), aftermath (10). Volume 01 runs Chapters 1–50 with its midpoint reversal at 23–26 and its climax at 46–50, so four further batches remain after this one.
+Rolling volume summary: `state/volume-01-summary.md`
 
-Story time: Year 17 after the Long Fracture; no prose events have occurred yet.
+Next batch to write: Chapters 11–20. The next prompt is `workspace/volume-01/batch-0002/PROMPT.md`. Volume 01 runs Chapters 1–50; the remaining escalation is the first public road (10–16), the larger sale and concealed return toll (17–26), the backwash and public recovery (27–33), challengeable terms and the Binder transition (34–42), and the witnessed public climax (43–50).
 
-Active threats: at story opening, the St. Orra Fault has cut Alder Reach off from medicine and the Salt Verge. The Last Fare can reopen a route, but Selik's bridge authority and Halloway Reed's counterfeit opportunities threaten any solution.
+Story time: Year 17 after the Long Fracture, several days after the first public Last Fare crossing. The first medicine shipment is delivered; the next shipment is due at dawn.
 
-Active promises: a witnessed public charter for the Last Fare and Hearth Line; the moral cost of temporary use; Adrian's dormant connection to Iven's blank lot; and the Tally's unexplained link to the failed Common Measure.
+Active threats: Selik Marne's official bridge remains a lawful but tightly controlled alternative under supervised review. Halloway Reed's counterfeit claim still reaches desperate carriers. The Last Fare is cracked and may strand the route if used again. The broken-circle mark points toward records from an unidentified region outside current basin maps.
 
-Current relationship pressure: Adrian and Mara begin as a distrustful municipal auditor and independent seller. Mara challenges his hidden security; Adrian wants her procedure to move faster. Their slow burn develops through conflict and independent work, not instant attraction.
+Active promises: a public Hearth Line with short, renewable, inspectable crossings; a functioning public lot book; a real route to the Salt Verge's medicine and seed; and a mystery around the unfinished public settlement that produced the Tally. Adrian's next temptation is a larger sale that appears to save a medicine convoy while concealing the return toll and private security; that reversal remains reserved for Chapters 23–26.
 
-Current power state: Stage 0, practical broker. Adrian has training, no supernatural authority, and no safe lot activation. His first full reading can begin only through contact or reliable history; Stage 1 must be earned through the Last Fare failure, an affected-person promise, and the toll echo of a real reading.
+Current relationship pressure: Adrian and Mara have conditional professional trust built on disclosure, correction, and shared liability, not romance. Tarin accepts Adrian's visible terms but will stop a route that bends. Orren is an uneasy apprentice who values evidence over authority. Lina keeps the Unlisted boundary without abandoning the shelter. Selik and Halloway remain credible opposing pressures.
+
+Current power state: Stage 1 Reader. Adrian can read one contacted lot's use, immediate toll, and standing after contact or reliable history. Every real reading leaves a toll echo. He cannot predict, read continuously, activate without witnesses and a term, split a use among bearers, transfer or renew a charter, or post security. The first public charter is complete but expired. He is not a Binder.

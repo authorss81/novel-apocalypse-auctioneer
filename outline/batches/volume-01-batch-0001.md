@@ -19,7 +19,7 @@ Beat structure: **Beginning (Chapters 1–2) → Escalation (3–4) → Midpoint
 - **Ch 9 — action under public terms:** one charter closes and the route opens exactly once.
 - **Ch 10 — aftermath and emotional payoff:** the lot book, the limits of the win, and quiet professional trust.
 
-No two consecutive chapters use the same pressure. Only Chapters 5, 6, and 9 are physical action chapters, and each is separated from the next by a political or investigative chapter.
+No two consecutive chapters use the same pressure. Chapters 5 and 6 form a single failed action and its recovery sequence; Chapter 9 is the only later physical action chapter, and it is separated from the failure by political, recovery, and investigative chapters.
 
 ## Batch goal
 
@@ -297,7 +297,7 @@ Chapter 10 establishes the public lot book, the temporary nature of the charter,
 
 Mara reads the required fields and remedy into the record, and Adrian writes the simple one-bearer closing under her procedure: the token's cracked condition, one route across St. Orra, the Ward Nine return platform, Tarin as the single named bearer, the medicine convoy and the school shelter group as beneficiaries, the toll, the term, the release condition, the witnesses, and the remedy. The term is one activation ending when the last traveler reaches the platform or at twelve minutes, whichever comes first; the release condition is the token's return to the public case and the board's public notice, with no automatic renewal. The toll is paid at activation and again by anyone who travels back. Dessa Rill, a medicine-convoy driver riding as a passenger, is separately named as the return traveler whose standing requires her to remember Ward Nine before the first crossing; she is not a second bearer or a witness.
 
-Two fresh independent witnesses accept their roles after full disclosure: a school shelter steward who is not a passenger, and a Road House supply driver who is neither buyer nor bearer. Orren checks the written record but is not counted as a witness, because he agreed not to list the Unlisted shelter. Adrian stops the bidding when a passenger refuses to board, and he does not promise that the road is safe.
+Two fresh independent witnesses accept their roles after full disclosure: a school shelter steward who is not a passenger, and a ward-market freight driver who is neither buyer nor bearer. Orren checks the written record but is not counted as a witness, because he is the source who found the hidden addendum and has not accepted the role. Adrian stops the bidding when a passenger refuses to board, and he does not promise that the road is safe.
 
 **Emotional change:** Adrian lets go of the fantasy that a correct reading lets him control the room. Mara's trust is visible in the fact that she allows him to proceed while retaining the right to stop him. He experiences relief when the route opens, then terror when Dessa forgets the purpose of the trip.
 

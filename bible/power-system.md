@@ -43,6 +43,8 @@ A valid charter has seven parts. Missing parts create different failures rather 
 
 A charter can be amended only by a new closing. A change hidden in a side promise is not part of the charter unless a witness understands and accepts it.
 
+An **inactive custody charter** is a narrow exception to the ordinary use charter. It names an unactivated lot, a finder, a receiving bonded depot, a custody term, two witnesses, and a remedy for unclaimed delivery. It grants physical custody only. It does not authorize a use, create a bearer role, or substitute for a valid closing. Contact with the lot is not activation.
+
 ### Founder override and forced records
 
 A founder-mark closure is not a valid consensual charter. It is a mechanically recognized **forced record** attached to one or more already active charters. The Tally enforces the recorded use, toll, and permanent term, but the record does not prove that the named bearers, beneficiaries, or witnesses consented. Every forced record carries a visible override mark and remains challengeable through a later public closing.
