@@ -1,4 +1,4 @@
-# Chapter 3: The Auditor's Question
+# Chapter 3: The Auditor’s Question
 
 Mara Quill had been taught that a blank space in a record was never actually blank. It was a door left open by whoever had decided that the person behind it was inconvenient.
 

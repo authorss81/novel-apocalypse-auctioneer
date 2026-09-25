@@ -20,16 +20,16 @@ Adrian has moved from Stage 0 practical broker to Stage 1 Reader through failure
 
 ## Public institutions
 
-Lot 17 has a public lot book and a documented public custody arrangement for the Last Fare. The public lot board is a constituted four-seat panel — registrar, sitting steward, and two rotating seats with no claim on the lot — that can refuse to record a closing and call a review but cannot grant a use. Mara, Adrian, and a board-appointed steward must be present to open the case; Nessa Pell holds the first seven-day steward key, granted in an audible vote. Selik's bridge is a lawful alternative awaiting supervised review of its manifest requirement. The Unlisted have a provisional protected channel: beneficiary households may refuse public names, and a responsible party who must be identified may be named on a sealed page the registrar holds, while the steward, count, destination, bearer duty, and remedy remain accountable. Orren and Lina keep paper copies outside the municipal record.
+Lot 17 has a public lot book and a documented public custody arrangement for the Last Fare. The public lot board is a constituted four-seat panel — registrar, sitting steward, and two rotating seats with no claim on the lot — that can refuse to record a closing and call a review but cannot grant a use. Mara, Adrian, and a board-appointed steward must be present to open the case; Nessa Pell holds the first seven-day steward key, granted in an audible vote. Note that during the Chapter 9 closing it was Mara who recorded personally, not the panel, and the panel only seats and acts in Chapter 10 — do not retroactively give it a refusal it never made. Selik's bridge is a lawful alternative awaiting supervised review of its manifest requirement. The Unlisted have a provisional protected channel: beneficiary households may refuse public names, and a responsible party who must be identified may be named on a sealed page the registrar holds — with a second sealed sheet kept by the school itself — while the steward, count, destination, bearer duty, and remedy remain accountable. Orren and Lina keep paper copies outside the municipal record.
 
 ## Active threats and promises
 
 - The next medicine shipment is due at dawn; a second crossing would need new terms and a new closing.
-- Eight children, two escort stewards, and four of the medicine crew are on the far bank, unable to say why they traveled. The stewards named on the sealed page accepted duty for nine and answer for the eight that went.
+- Eight children, two escort stewards, and four of the five medicine crew (including Renn Fisk, the crew porter) are on the far bank, unable to say why they traveled. The stewards named on the sealed sheets accepted duty for nine and answer for the eight that went.
 - Halloway's counterfeit has a false return point and a concealed seven-day repair-labor term. It cannot create a valid charter, but it can send carriers into bare-claimant danger.
 - Selik may use the failed public route to justify a permanent bridge closure or a stricter manifest, and Chapter 12's false-alarm evacuation is the event that makes that tightening credible.
 - The broken-circle mark connects the Last Fare to records from an unidentified region outside current basin maps.
-- Adrian's blank lot remains a familiar mystery object; Iven remains presumed dead and his living custodianship is unrevealed.
+- Adrian's blank lot is now named in Chapters 1 and 2, along with Iven Tallow as the mentor who gave it to him and Adrian's platform memory of eleven saved and four lost. It remains a mystery object; Iven remains presumed dead and his living custodianship is unrevealed.
 
 ## Next planned movement
 

@@ -6,9 +6,9 @@ It stood on the eastern wall of Lot 17, where the sale tickets used to hang. Mar
 
 Two lamps hooked above it. Their light caught the wet roof and turned the public record into a small bright island in the dark depot.
 
-Behind the board sat the panel that had painted it: the registrar, the sitting steward, and two places for anyone in the yard with no claim on the lot who cared to take one. The yard seats turned over often enough that nobody could buy the board by buying its members.
+Behind the board sat the panel that governed it: the registrar, the sitting steward, and two places for anyone in the yard with no claim on the lot who cared to take one. The yard seats turned over often enough that nobody could buy the board by buying its members.
 
-The medicine convoy waited outside beneath a canvas cover. Six cold boxes—the two that had crossed and been recovered, and the four that had stayed on the depot rail—had been transferred to a hand cart, and five drivers in blue coats stood with it. The cart had been tied to the rear of Tarin’s road bus with rope that did not matter as much as everyone pretended. The school shelter group waited under the tram awning: nine children and two escorts in blue coats. Alma Dren, their steward, stood apart from them near the board, watching the bus. The children had been told there would be a road. They had not been told what the road would take.
+The medicine convoy waited outside beneath a canvas cover. Six cold boxes—the two that had crossed and been recovered, and the four that had stayed on the depot rail—had been transferred to a hand cart, and five of the medicine crew stood with it in blue coats. The cart had been tied to the rear of Tarin’s road bus with rope that did not matter as much as everyone pretended. The school shelter group waited under the tram awning: nine children and two escorts in blue coats. Alma Dren, their steward, stood apart from them near the board, watching the bus. The children had been told there would be a road. They had not been told what the road would take.
 
 Adrian had told them.
 
@@ -90,7 +90,7 @@ He read the terms aloud.
 
 “Toll: every traveler loses the memory of why they are making the journey. Anyone who travels back pays the memory toll again.”
 
-“Term: one activation. It ends when the second of the two named return travelers, Tarin Kest and Dessa Rill, reaches the Ward Nine platform, or at twelve minutes, whichever comes first. If either named return traveler fails to return, the term still ends at twelve minutes and the Warden remedy applies. The shelter group and four of the five drivers remain on the far bank, where the two escort stewards answer for the nine children and Oren Fisk, the clinic porter, answers for the boxes. There is no automatic renewal.”
+“Term: one activation. It ends when the second of the two named return travelers, Tarin Kest and Dessa Rill, reaches the Ward Nine platform, or at twelve minutes, whichever comes first. If either named return traveler fails to return, the term still ends at twelve minutes and the Warden remedy applies. The shelter group and four of the five medicine crew remain on the far bank, where the two escort stewards answer for the nine children and Renn Fisk, the crew’s porter, answers for the boxes. There is no automatic renewal.”
 
 “Release: the token returns to the public case, the handoff is entered in the public record, and the board posts the result. No private transfer.”
 
@@ -216,9 +216,9 @@ Tarin took in the bus, then the school children. “Yes. I accept on those terms
 
 “Recorded,” Mara said. “You may still refuse until the token leaves the case.”
 
-Mara turned to Oren Fisk, a broad-shouldered clinic porter in a blue coat whose name was written on the cold-chain sheet, and then to the two escort stewards. “You are the responsible parties who remain on the far bank with the shelter group and the medicine crew. Do you accept that duty?”
+Mara turned to Renn Fisk, a broad-shouldered porter in a blue coat, one of the five in the medicine crew and the only one whose name was written on the cold-chain sheet, and then to the two escort stewards. “You are the responsible parties who remain on the far bank with the shelter group and the medicine crew. Do you accept that duty?”
 
-“Yes,” Oren said. “I will answer for the boxes, not for the people who refuse.”
+“Yes,” Renn said. “I will answer for the boxes, not for the people who refuse.”
 
 “Yes,” said the escort with the sealed roll. “And for the nine.”
 
@@ -234,7 +234,7 @@ The crowd did not surge this time. They watched the school children watch the bu
 
 Tarin picked up the glass case. The Last Fare weighed almost nothing in his palm. He placed it in the bus’s route-control slot, just above the old fare box. The slot had been empty since the depot stopped running trains, but the metal teeth fit the token as if the bus had been waiting for it.
 
-Adrian stepped onto the tram rail. The route began at Lot 17, ran beneath the tram wall, and found the St. Orra line. He placed one hand on the fare box and read the term again.
+Adrian stepped onto the tram rail. The route began at Lot 17, ran beneath the west wall, and found the St. Orra line. He placed one hand on the fare box and read the term again.
 
 “Use: one route across St. Orra for twelve minutes.”
 
@@ -268,17 +268,17 @@ For the first minute, the depot heard only rain.
 
 On the second, the engine note rose and fell as if the bus were traveling over a road remembered from below. A child pressed her forehead to the glass. Another asked her escort where they were going. The escort answered in the same words the record had given her, and the child seemed satisfied for the moment.
 
-At the third minute, the road bent. The far bank appeared at the wrong height, as if the river wall had been moved aside by a careless hand. Tarin corrected. The bus climbed through a street that did not exist on any map, then dropped onto a service ramp and found the far platform.
+At the third minute, the road bent. The far bank appeared at the wrong height, as if the river wall had been moved aside by a careless hand. Tarin corrected. The bus climbed through a street that did not exist on any map, then dropped onto a receiving ramp on the far side, under a roof of stacked loading boards, where somebody had set out one lamp and then gone to look for another.
 
-The school children crossed first, guided by their escorts. The four drivers who were staying followed with the cold boxes, walking backward a step at a time to keep the load level, and one of them held a child’s hand because children on a road like this tended to stop walking.
+The school children crossed first, guided by their escorts. The four crew members who were staying followed with the cold boxes, walking backward a step at a time to keep the load level, and one of them had to stop twice because the children kept turning around to look at the water.
 
 Adrian stayed on the tram rail with his palm on the fare box. He was not on the bus. He was not the bearer. The road knew the difference, and what it took from him was the echo: the taste of old coins, the yard going flat at the edges of the sound, his right hand going slack inside his own grip. Every term he had read was still in his head. He simply found that holding all of them had become something he did at a distance, the way a man watches a fire from the far side of a street.
 
-Tarin and Dessa returned through the opening. The bus came back toward the old bell post, its lights appearing one by one through the rain. The Ward Nine shelter steward waited beneath the broken canopy.
-
 Eight minutes remained.
 
-Tarin brought the bus onto the marked spur and stopped at the platform. He kept one hand on the wheel while the engine cooled. He knew how to bring the bus to the marked place. He did not know why he had carried the medicine across. Dessa stepped down first. She looked at the shelter, the old tram rails, and the people waiting beneath the canopy.
+Tarin and Dessa returned through the opening. The bus came back down the marked spur, its lights appearing one by one through the rain, and pulled in at the old bell post. A clinic runner in a patched coat waited under the broken canopy with a handcart and a folded list, because Dessa had said she would be bringing the next team across if the first load held.
+
+Tarin stopped the bus and shut the engine down while it cooled. He kept one hand on the wheel. He knew how to bring the bus to the marked place. He did not know why he had carried the medicine across. Dessa stepped down first. She looked at the old tram rails, the cracked platform, and the handcart waiting under the canopy. The river lay on its own side of the wall again, and the depot lamps were burning at the near end of the spur, exactly where they had been burning all along.
 
 “I know this place,” she said.
 

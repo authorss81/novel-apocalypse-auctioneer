@@ -144,7 +144,7 @@ Orren looked at the black cord around the stack. The fragment in his coat had be
 
 “I care that you are standing in a room where I own the exits.” Halloway’s voice softened. “Your anger is useful, but it is not a route.”
 
-Orren slid his hand beneath the top sheet and pulled the black cord loose. The stack scattered. The original bus manifest was beneath it, a larger sheet with a passenger column cut away and a route diagram drawn in a firm hand. It was the torn page Adrian had sealed at Lot 17, taken during the surge that opened the road. The broken-circle mark crossed the lower corner. In the margin, a faded line read **S. Pike — source record withheld**.
+Orren slid his hand beneath the top sheet and pulled the black cord loose. The stack scattered. The original bus manifest was beneath it, a larger sheet with a passenger column cut away and a route diagram drawn in a firm hand. It was the whole sheet the torn strip at Lot 17 had come from, and the cut matched the strip’s ragged edge. Someone had lifted the strip during the surge that opened the road. The broken-circle mark crossed the lower corner. In the margin, a faded line read **S. Pike — source record withheld**.
 
 He could have taken the manifest and run. He did.
 

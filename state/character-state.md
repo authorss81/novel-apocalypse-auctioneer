@@ -7,11 +7,12 @@ Four seats and no owner: Mara Quill as registrar, the sitting steward, and two r
 ## Adrian Vale
 
 - **Age/role:** 38; independent auctioneer at Lot 17; Stage 1 Reader.
-- **Physical state:** Toll echoes after each real reading: exhaustion, metallic taste, flattened sound or distorted hearing, numb or uncooperative right hand, and brief memory gaps. He can still inspect, write, and negotiate but cannot read continuously. The echo is the price of reading; the memory toll belongs to people who knowingly travel. Adrian has lost no memories as a traveler — the gaps in Chapter 6 came from the bare-claimant toll, which he paid as the default bearer without ever boarding.
+- **Physical state:** Toll echoes after each real reading: exhaustion, metallic taste, flattened sound or distorted hearing, numb or uncooperative right hand, and brief memory gaps. He can still inspect, write, and negotiate but cannot read continuously. The echo is the price of reading; the memory toll belongs to people who knowingly travel. Adrian has lost no memories as a traveler — the gaps in Chapter 6 came from the bare-claimant toll, which he paid as the default bearer without ever boarding. One unexplained exception: in Chapter 6 he also briefly receives a fragment of *Tarin's* memory of purpose and notices it is not his. That bleed happened once, is not a rule, and must not be used as a mechanic.
+- **History carried:** Iven Tallow gave him the blank lot before the Fracture; Adrian names him in Chapter 1 and sets the blank lot against the token in Chapter 2 for no result. His fear is the Alder Reach platform at twenty-one, where his own clean handwriting got eleven people off and left four behind. He prices that difference still.
 - **Current want:** Make the Hearth Line a public, renewable service that brings medicine and repair crews to Alder Reach without turning a temporary route into a private gate.
 - **Current need:** State what he does not know, disclose the full return cost before action, and let another person amend or stop his terms.
 - **Flaw in action:** He treated an uncertain return condition as an administrative detail and called a private bargain a temporary one.
-- **Cost paid:** The failed bare activation made him the default bearer; he lost the repaired blue-collar injector, public trust, and a stable relationship with Tarin. At the public crossing he kept his hand on the fare box while sixteen other people paid the memory toll, and what it cost him was the echo and the distance. He promised Tarin full disclosure and signed a public promise in the lot book.
+- **Cost paid:** The failed bare activation made him the default bearer; he lost the repaired blue-collar injector, public trust, and a stable relationship with Tarin. At the public crossing he kept his hand on the fare box while sixteen other people paid the memory toll, and he was never a traveler — what it cost him was the echo and the distance. He promised Tarin full disclosure and signed a public promise in the lot book.
 - **Authority:** One witnessed charter is complete and expired. He is not a Binder, has not posted security, cannot operate a route alone, and has no mandate. His public standing now rests on a written undertaking he has not yet had to break.
 - **Relationship state:** Mara is a collaborator who can stop him; Tarin is a partner with a condition; Orren is an uneasy apprentice; Lina remains Unlisted and refuses to be filed.
 
@@ -21,7 +22,7 @@ Four seats and no owner: Mara Quill as registrar, the sitting steward, and two r
 - **Current want:** Make every affected person able to question a dangerous use without surrendering their identity or history to a record that has already harmed them.
 - **Current need:** Accept that an imperfect public process can be more just than a private exception, and act before certainty when waiting creates harm.
 - **Current state:** She has sealed and documented the token, audited Adrian's failed claim, established fresh-witness and remedy rules, seated a constituted public board, and recorded the first charter. She trusts the process more than Adrian's certainty, but trusts Adrian enough to let him proceed under public terms.
-- **Cost:** Her procedure costs time while medicine waits, and her own record system can become a gate. She has not resolved how to protect a household without weakening the remedy. She also kept the escort stewards' names on a sealed page, which makes her personally responsible for a record nobody can audit.
+- **Cost:** Her procedure costs time while medicine waits, and her own record system can become a gate. She has not resolved how to protect a household without weakening the remedy. She also sealed the escort stewards' names on two sheets, one of which she holds and one of which the school keeps, which makes her personally responsible for a record nobody can audit.
 - **Relationship with Adrian:** Professional trust with real friction. No romantic resolution.
 
 ## Tarin Kest
@@ -75,12 +76,12 @@ Four seats and no owner: Mara Quill as registrar, the sitting steward, and two r
 
 ## The two escort stewards
 
-- **Roles:** Two adults in blue coats from the school shelter, unnamed in the public book and named on a sealed page held by Mara. They accepted the duty of answering for the nine children once Alma had to stay behind, and one of them insisted the book record that the child who refused was not argued with. Eight of the nine children actually crossed, so the duty they accepted was one child larger than the crossing they answered for.
+- **Roles:** Two adults in blue coats from the school shelter, unnamed in the public book and named on two sealed sheets — one held by Mara, one kept by the school. They accepted the duty of answering for the nine children once Alma had to stay behind, and one of them insisted the book record that the child who refused was not argued with. Eight of the nine children actually crossed, so the duty they accepted was one child larger than the crossing they answered for.
 - **Function:** They make the protected-name channel administrable rather than a loophole. Neither may be published, and both can be reached if the remedy is called.
 
-## Oren Fisk, Nessa Pell, and Nell Sarr
+## Renn Fisk, Nessa Pell, and Nell Sarr
 
-- **Oren Fisk:** Named clinic porter and responsible party for the medicine crew left on the far bank during the first public crossing. He accepted responsibility for the boxes, not for people who refused.
+- **Renn Fisk:** Named porter, one of the five in the medicine crew, and responsible party for the medicine crew left on the far bank during the first public crossing. He accepted responsibility for the boxes, not for people who refused. Renamed from an earlier "Oren Fisk" during the batch review to remove a one-letter collision with Orren Pike, who speaks in the same Chapter 9 scene.
 - **Nessa Pell:** Lot 17 clerk appointed by the public board as the first seven-day steward of the public token case. Her key is renewable by the board and cannot become a private claim.
 - **Nell Sarr:** A young Warden who arrives with Selik Marne and the folded public review sheet in Chapter 10. She carries the bridge review into the Lot 17 hearing and can be used later as Selik's working voice on the manifest question.
 

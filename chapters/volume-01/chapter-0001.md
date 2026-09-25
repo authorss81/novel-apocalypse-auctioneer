@@ -90,7 +90,7 @@ When he rose, a brass token and a torn strip of manifest paper were under the bl
 
 Adrian moved his hand over the token before anyone else could see it.
 
-The token was no larger than a thumb joint. Its rim had been worn smooth on one side, and a municipal stamp still showed beneath the tarnish: an old tram wheel crossed by three lines. The brass was warm, though no one had carried it close to a stove. The manifest was damp at the edges, its passenger and cargo columns ripped away. A line near the bottom read **ST. ORRA — EAST PLATFORM — LINE 6**.
+The token was no larger than a thumb joint. Its rim had been worn smooth on one side, and a municipal stamp still showed beneath the tarnish: an old tram wheel crossed by three lines. The brass was warm, though no one had carried it close to a stove. The manifest was damp at the edges, its passenger column ripped away. A line near the bottom read **ST. ORRA — EAST PLATFORM — LINE 6**.
 
 The boy looked toward the messenger. Then back at Adrian.
 
@@ -136,5 +136,11 @@ The room’s noise rose. Halloway stepped away from the door, and the messenger 
 Adrian slid the token and the torn manifest into an inner pocket. Then he went into the back office, where the depot lamps had been failing for six years and a public record could not be watched without a witness.
 
 He set the token on his desk beside a blank lot card. The red cloth made a dark stain against the old wood.
+
+The blank lot card was the only lot card he had never filled. Iven Tallow had put it into his hands in the last months before the Long Fracture, back when a young man who wanted a price for everything was still cheap to teach. Iven had refused to call it an object and had made him carry it instead. Seventeen years later it had survived four depot moves and two floods, and it had never once acquired a use he could read.
+
+Adrian had been twenty-one on the platform at Alder Reach when the north stair went. He had written the order out in a clean hand, because a clean hand had been the only thing he had that the crowd would obey, and eleven people had come off the platform because of it and four had not. He had spent seventeen years pricing the difference. He did not like the number.
+
+He did not believe Iven was alive. He had believed that for a long time, in the way a person keeps a rule because the alternative is a habit.
 
 A road with no end had entered the sale. The only thing he could not put on it was a price.

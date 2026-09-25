@@ -4,7 +4,7 @@ The first thing Adrian lost was the sound of Tarin’s engine.
 
 He could still see the returning bus through the rain, its headlights dragging a doubled reflection across the flooded tram yard. He could hear something low and mechanical grinding beneath the depot speaker. But the sound arrived without depth, as if someone had wrapped the world in wet cloth.
 
-The bus should have come up the service spur toward the Ward Nine platform.
+The bus should have come up the loading spur toward the Ward Nine platform.
 
 It turned left instead.
 
@@ -34,7 +34,7 @@ Another voice answered, older and frightened. “We were coming back.”
 
 The speaker hissed. A child or young person cried out, then stopped.
 
-Adrian put his hand on the sealed token. The brass was hot. The black writing appeared again, incomplete and unsteady.
+Adrian put his hand on the token. The brass was hot. The black writing appeared again, incomplete and unsteady.
 
 ```text
 THE LAST FARE
@@ -79,7 +79,7 @@ At the maintenance spur, the Selik Warden had brought a hand winch and a team in
 
 Selik pointed at the old sign. “Then the door bears the load. We have until the water reaches the lower hinge.”
 
-“That's not a guarantee.”
+“That’s not a guarantee.”
 
 “No,” Selik said. “It is a work plan.”
 
@@ -131,7 +131,7 @@ Tarin looked at his hands. He remembered Adrian. He remembered the bus, the brid
 
 “No.”
 
-Tarin struck the side of the bus with his palm. The sound carried through the depot, through the Wardens’ line, and into the people who had watched the first medicine boxes cross. No one cheered. Two boxes had crossed before the route folded; the other four had never left the depot rail. Selik’s Wardens loaded the two recovered boxes onto a handcart and took them back over the supervised emergency-cargo spur, using the written exception from the bridge inspection. The spur could move a small load after the span passed inspection; it could not carry passengers or the full convoy. Nothing had reached the clinic yet. The crossing had proved only that the route could carry a box, not that it could carry a promise.
+Tarin struck the side of the bus with his palm. The sound carried through the depot, through the Wardens’ line, and into the people who had watched the first medicine boxes cross. No one cheered. Two boxes had crossed before the route folded; the other four had never left the depot rail. Selik’s Wardens loaded the two recovered boxes onto a handcart and carried them back across the supervised service approach, using the written exception from the bridge inspection. The approach could move a small load after the span passed inspection; it could not carry passengers or the full convoy. Nothing had reached the clinic yet. The crossing had proved only that the route could carry a box, not that it could carry a promise.
 
 Mara checked Dessa’s pupils and the escort’s cut. Then she turned to Adrian.
 
@@ -193,7 +193,7 @@ Mara wrote **ASSET RECEIVED. RETURN CLAIM REMAINS** in the public ledger, then u
 
 Adrian waited for the room to object. No one did. That silence was worse than anger. It meant everyone had understood the difference between a loss that could be counted and a loss that could only be carried.
 
-Mara closed the tablet. “The Last Fare is suspended. No activation, no transfer, no private guarantee. The token remains under the audit seal until a new proposal is complete.”
+Mara closed the tablet. “The Last Fare is suspended. No activation, no transfer, no private guarantee. The token goes back under seal the moment I finish writing this, and it stays sealed until a new proposal is complete.”
 
 She placed the token in a clean waxed sleeve, pressed a new municipal seal across the fold, and wrote the handoff in the ledger: **resealed after failed activation; Adrian Vale and Mara Quill are custody attestants; no use until a new closing.** She gave the strip to Adrian and kept a copy with the complaint book.
 

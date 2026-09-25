@@ -1,6 +1,6 @@
 # Chapter 4: The Safe Bridge
 
-Selik Marne's official crossing looked less like a bridge than a promise that had learned to stand on two piers.
+Selik Marne’s official crossing looked less like a bridge than a promise that had learned to stand on two piers.
 
 It crossed the flooded cut on the old service span, a narrow band of reinforced concrete between two rows of red lamps. The St. Orra staging yard and the outer tram apron shared the eastern bank with Lot 17; the bridge led to the older central bank where Ward Nine and the city’s receiving stations stood. A steel counterweight moved at the near end, and a line of Civic Wardens checked each vehicle by hand. No lot-mark glimmered on the rail. No voice told the river it was forbidden. The bridge worked because the Wardens inspected the axles, adjusted the counterweight, and stopped anyone whose vehicle exceeded the load board.
 
@@ -16,7 +16,7 @@ Adrian reached the approach at dawn with Tarin and Mara. The token remained in i
 
 “Let him want.”
 
-The line at the bridge had seven vehicles in it. A water cart. Two flatbeds loaded with seed. A clinic van whose radiator steamed despite the cold. A family wagon with its canvas sides patched in three colors. Beyond them, the official bridge crossed to Alder Reach’s older central bank. Behind Adrian, the St. Orra staging yard blinked through the mist.
+The line at the bridge had five vehicles in it. A water cart. Two flatbeds loaded with seed. A clinic van whose radiator steamed despite the cold. A family wagon with its canvas sides patched in three colors. Beyond them, the official bridge crossed to Alder Reach’s older central bank. Behind Adrian, the St. Orra staging yard blinked through the mist.
 
 Selik stood beneath a small shelter at the near abutment. He wore a gray Warden coat with the sleeves cut above the elbow and a pair of leather gloves hanging from a belt loop. His hair had gone iron-white at the sides. He was reading a load sheet when Adrian approached, but he knew who was there before he looked up.
 
@@ -166,7 +166,7 @@ It was not the free crossing Adrian had wanted. It was not a rejection, either.
 
 “The old one.”
 
-“Still visible. Bell post has one arm. The shelter moved its children after the first flood, so the platform is clear.”
+“Still visible. Bell post has one arm. The shelter moved its children off that platform after the first flood, so there is nothing left on it but rails and a roof. People still wait under it when a bus is due. That is all the traffic you would get.”
 
 Adrian pictured the map under the token. The return point was not a line. It was a bell post with one arm, a cracked platform, and a driver who might forget why he had crossed. He wrote the description on the back of Mara’s custody strip.
 

@@ -2,11 +2,11 @@
 
 By the time Adrian brought the sealed token back to Lot 17, someone had cleared the center of the sale floor and tied a red line around the inspection block. The six cold medicine boxes stood inside the line beside a hand-lettered sign: **FEBRIS COLD CHAIN — ONE CROSSING**.
 
-The crowd pressed close enough that the depot lamps showed only shoulders, wet caps, and the glint of guarded knives. Halloway Reed's people had brought three flatbed carts and a small drum of lamp oil. A ward cooperative had sent a clerk with a ledger. A woman near the platform offered to pay in a week's kitchen labor. Another bidder brought a family ring and put it on the box before anyone told her the medicine was not for sale.
+The crowd pressed close enough that the depot lamps showed only shoulders, wet caps, and the glint of guarded knives. Halloway Reed’s people had brought three flatbed carts and a small drum of lamp oil. A ward cooperative had sent a clerk with a ledger. A woman near the platform offered to pay in a week’s kitchen labor. Another bidder brought a family ring and put it on the box before anyone told her the medicine was not for sale.
 
 The room did not have room for all their hope.
 
-Adrian set the sealed envelope on the inspection block. Red wax marked both folds. Mara's custody strip lay beneath it.
+Adrian set the sealed envelope on the inspection block. Red wax marked both folds. Mara’s custody strip lay beneath it.
 
 “No token is for sale,” he said.
 
@@ -20,7 +20,7 @@ Mara’s voice cut through the noise. “That is not a term. It is a postponemen
 
 “The coolant has six hours,” the clinic porter said. He had followed the boxes and kept one hand on the nearest lid. “The official bridge has three days. We are not debating whether a route should exist. We are watching a route fail to exist.”
 
-Adrian unfolded Tarin’s patched map on the inspection block. The old Line Six ran beneath the sale floor through a service joint still visible between the tram boards. He had never understood why the depot had retained those rails. In the years before the Fracture, they had been a minor branch for repairs. After it, they served as a guide for porters who knew the river wall had not moved. He drew a small red ring on the sheet, inside the driver’s own wide one, around the east platform. It was the same small ring he had drawn on the old sheet in the back office, which was still folded away in there. A route a person can see is harder to argue with than a route described in a voice.
+Adrian unfolded Tarin’s patched map on the inspection block. The old Line Six ran beneath the sale floor through a service joint still visible between the tram boards. He had never understood why the depot had retained those rails. In the years before the Fracture, they had been a minor branch for repairs. After it, they served as a guide for porters who knew the river wall had not moved. He drew a small red ring on it, inside the driver’s own wide one, around the east platform. The old Line Six sheet was still folded away in the back office with a thinner circle on it, drawn by a man who had not yet known what he was marking. A route a person can see is harder to argue with than a route described in a voice.
 
 “Here is the route,” he said. “The token opens one crossing across St. Orra. It lasts twelve minutes. Every traveler loses the memory of why they are traveling. The old notice also says repeated use may strand the route permanently.”
 

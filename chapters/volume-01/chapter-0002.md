@@ -2,13 +2,13 @@
 
 The back office at Lot 17 had three tables, two chairs that matched, and a filing cabinet that had been struck by a tram axle during the Long Fracture. The dent had never been repaired. Adrian had always thought a good filing cabinet should show what it had survived.
 
-He spread the old tram map across the largest table and weighted its corners with a bolt, two tin cups, and a roll of electrical tape. The map had been printed before the collapse, when the river crossings were still governed by timetables and maintenance crews. A red line ran from St. Orra's east platform through the underpass, turned north beside the old freight wall, and ended at Ward Nine.
+He spread the old tram map across the largest table and weighted its corners with a bolt, two tin cups, and a roll of electrical tape. The map had been printed before the collapse, when the river crossings were still governed by timetables and maintenance crews. A red line ran from St. Orra’s east platform through the underpass, turned north beside the old freight wall, and ended at Ward Nine.
 
 Beyond Ward Nine, the line faded into a pale patch where the paper had been eaten by damp.
 
 The Last Fare lay in the center of the route.
 
-Rain tapped overhead. Adrian turned the token once, then again, keeping his fingertips away from the worn rim. He had spent the first hour after the sale doing ordinary work: writing the boy a receipt under the name *unknown runner*, separating the token's municipal stamp from a dozen similar brass discs in his drawer, and searching the old salvage notices for a bus that had crossed St. Orra before the cut. He found three references. Two had been entered as scrap. The third said **eastbound coach, recovered fare, condition unsafe**, then stopped in the middle of a clerk's hand.
+Rain tapped overhead. Adrian turned the token once, then again, keeping his fingertips away from the worn rim. He had spent the first hour after the sale doing ordinary work: writing the boy a receipt under the name *unknown runner*, separating the token’s municipal stamp from a dozen similar brass discs in his drawer, and searching the old salvage notices for a bus that had crossed St. Orra before the cut. He found three references. Two had been entered as scrap. The third said **eastbound coach, recovered fare, condition unsafe**, then stopped in the middle of a clerk’s hand.
 
 He had also told Nessa not to let anyone buy the token. He had not told her why. That was not the same thing as keeping a secret. It was simply a decision he had not yet earned the right to explain.
 
@@ -17,6 +17,8 @@ He placed the token over the red line.
 Nothing happened.
 
 He tried the old platform mark first, then the point where the line passed beneath the river wall. The token remained ordinary brass. Its temperature changed with his hand and no more.
+
+Then he set the blank lot card down beside it, face to face, the way Iven had once made him set a ledger beside a lie he was certain of. He had never been able to say why. The two of them lay there together on the old paper and gave each other nothing at all.
 
 Adrian drew a small circle around the east platform.
 
@@ -30,7 +32,7 @@ The date was worn away.
 
 He placed the manifest fragment over the token. Still nothing.
 
-“Routes don't work because a piece of metal matches a line,” he said to the empty room. “They work because someone says where the line is going.”
+“Routes don’t work because a piece of metal matches a line,” he said to the empty room. “They work because someone says where the line is going.”
 
 He turned the token over.
 
@@ -57,7 +59,7 @@ Adrian wrote **CONTACT WARNING** at the top of the map. His handwriting slanted 
 
 **Known by inscription:** one route. Twelve minutes. A memory of purpose paid by each traveler. A driver, a return point, and a passenger who remembers the destination.
 
-**Known by map and witness:** the bus route reached the destination bank at Ward Nine. A bus associated with the token was last seen on the far side.
+**Known by map and witness:** the bus route reached the destination bank at Ward Nine. A bus associated with the token was last seen out past the underpass, on this bank, inside the ring Tarin draws on his own road map.
 
 **Unknown:** whether the return point can be Ward Nine. Who must be the passenger. Whether the memory is lost on every crossing or only on the first. Whether the route ends at twelve minutes or ends when the last traveler returns. What the Tally means by stranding.
 
@@ -91,7 +93,7 @@ Tarin looked at the token on the red cloth. His expression changed.
 
 “Because the maintenance bay was a transfer point for emergency crews. The city did not want people waiting there if the wall shifted.”
 
-Adrian indicated the margin note on the map. He had read it twice.
+Adrian indicated the margin line on the manifest. He had read it twice.
 
 Tarin read them and swore softly. “That was an old emergency rule. If the bus came back to a stop nobody could name, it was considered lost. It kept a route from accepting every broken vehicle that came down the road.”
 
@@ -109,7 +111,7 @@ Tarin looked at the token. “I can drive a bus over Line Six if the river wall 
 
 “Then the route needs more than a driver and a line on paper.”
 
-The words were not in the Tally’s notice in that form, but they matched the old warning in the margin. Adrian wrote **passenger standing unclear** beside the return point.
+The words were not in the Tally’s notice in that form, but they matched the old warning in the manifest margin. Adrian wrote **passenger standing unclear** beside the return point.
 
 Tarin opened his map case and spread a second route over the first. His was newer, patched at the corners, marked with wheel wash and flood depth. The newer line stopped at the underpass. A hand-drawn red ring enclosed the eastern bank.
 

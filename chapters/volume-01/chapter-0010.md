@@ -38,7 +38,7 @@ Mara opened the book to the first entry.
 
 **BENEFICIARIES:** The medicine convoy. Nine children in the school shelter group. Ward Nine’s waiting clinic line.
 
-**RESPONSIBLE PARTIES:** Two escort stewards, named on a sealed page and absent from this book, and Oren Fisk remain with the shelter group and medicine crew on the far bank.
+**RESPONSIBLE PARTIES:** Two escort stewards, named on two sealed sheets — one held by the registrar, one kept by the school — and absent from this book, and Renn Fisk remain with the shelter group and medicine crew on the far bank.
 
 **TOLL:** Each traveler loses the memory of why they are making the journey. Return travelers pay the toll again.
 
@@ -166,7 +166,7 @@ Alma Dren had been standing at the back of the room since before Lina came in, a
 
 Alma considered the shelves, the sealed case, the crooked sign above the hinge. “I will say that I told them the toll before they boarded, that one boy refused and not one of us argued with him, and that I stayed on this side because the book needs somebody who still remembers what they agreed to. I will not tell them what it was like to lose it. I was not there.”
 
-Mara wrote that down as a limit rather than a claim. It was the first line in the new book that said plainly what a witness could not do, and it was the reason the two who had not crossed were the two who could still be asked.
+Mara set it down as a limit rather than a claim. It was the first line in the new book that said plainly what a witness could not do, and it was the reason the two who had not crossed were the two who could still be asked.
 
 Orren arrived after her, carrying the broken-circle copy. He set it beside the old charter and unfolded the page until the incomplete circle sat beside the token’s mark.
 
@@ -254,7 +254,7 @@ She looked down at the rail seam. “Yes. It comes in under the west wall, past 
 
 “I don’t know.” She touched the rain cape’s collar. “I think I did.”
 
-Mara went to the signal book on the wall. Green meant the span was stable in the current Warden rule. Dessa had kept an older rule, or the toll had rearranged the memory. Mara wrote both possibilities and did not choose between them.
+Mara went to the signal book on the wall. Green meant the span was stable in the current Warden rule. Dessa had kept an older rule, or the toll had rearranged the memory. Mara recorded both possibilities and did not choose between them.
 
 Mara opened the book and wrote the exact words. She did not write *memory loss* in the place where Dessa’s reason had been. She wrote **destination route remembered; purpose absent; no cause assigned**. The line made the loss smaller on the page and larger in the room.
 

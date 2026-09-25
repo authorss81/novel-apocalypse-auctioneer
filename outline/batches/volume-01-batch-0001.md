@@ -121,7 +121,7 @@ Chapter 10 establishes the public lot book, the temporary nature of the charter,
 
 **Immediate goal:** Determine what the Last Fare does, identify a possible driver and return point, and avoid making a public claim he cannot support.
 
-**Resistance:** Repeated contact gives Adrian a physical warning—dizziness, a metallic taste, and a short memory blur. The bus was dragged to the far side of the Fault before the cut, so it cannot be reached for a direct check, and the near-bank map ends at the old platform. Tarin refuses to trust a road that may erase the reason for using it.
+**Resistance:** Repeated contact gives Adrian a physical warning—dizziness, a metallic taste, and a short memory blur. The bus went over out past the underpass before the cut closed and the ground took a bite of the road after it, so it cannot be reached for a direct check. Tarin refuses to trust a road that may erase the reason for using it.
 
 **Information revealed:** The Tally's incomplete notice gives most of the bounded facts: one route across St. Orra for twelve minutes; every traveler loses the memory of why they are going; the route needs a driver who knows it, a return point, and a passenger who can remember the destination. The relationship between the return point and the standing remains unsettled, and a further warning says repeated use may strand the route. It gives no answer about fairness or safety.
 

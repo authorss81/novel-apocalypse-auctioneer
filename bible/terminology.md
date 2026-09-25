@@ -123,7 +123,11 @@ An unsettled place in the Tally where a new charter can be written. Iven gave Ad
 
 - **Alder Reach:** the river city where the story begins.
 - **Lot 17:** Adrian's converted tram depot and first auction room.
-- **Ward Nine:** a dense residential district in Alder Reach.
+- **Ward Nine:** a dense residential district in Alder Reach, on the older central bank across the water from Lot 17. The name also belongs to the **Ward Nine old platform** on the near eastern bank, on the Lot 17 apron.
+- **Loading spur / marked spur:** the near-side track behind the old school shelter running up to the Ward Nine old platform and its one-armed bell post. A charter that names this place calls it the *marked spur*. Same place; keep the two apart from the two below.
+- **Maintenance spur / maintenance bay:** two different things that share a name, and the confusion is deliberate. The **pre-Fracture maintenance bay** was a transfer point for emergency crews on Line Six, beyond the river wall on the way up through Ward Nine, never on a public map. The **maintenance spur** is where a bent route actually delivered the bus in Chapter 6: on the near side, a few streets west of the depot, where the Wardens could wade to it. It is the near-side wrong version of the same place. Not a public place and not a return point.
+- **Old salt-loading ramp:** the counterfeit's false return point, on the far side, flooded before the Fracture. Anyone who follows it arrives at a flooded maintenance trench. It is not the Ward Nine old platform and must never be written as one.
+- **Service approach:** Selik Marne's official bridge crossing, which carries the supervised small-cargo exception used once in Chapter 6.
 - **St. Orra Underpass:** the first major Fault and the site of the Last Fare.
 - **Hearth Line:** the proposed public route across St. Orra.
 - **Brass Verdict Hall:** municipal charter-dispute chamber.

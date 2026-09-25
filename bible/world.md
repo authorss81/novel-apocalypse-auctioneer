@@ -113,7 +113,8 @@ A river city built on layered floodworks and old tram tunnels. The center is par
 Important locations:
 
 - **Lot 17:** Adrian's converted tram depot and auction room.
-- **Ward Nine:** a dense residential district of kitchens, small workshops, and suspended walkways.
+- **Ward Nine:** a dense residential district of kitchens, small workshops, and suspended walkways. It sits on the older central bank, across the water from Lot 17. The name also belongs to the **Ward Nine old platform**, which is on the *near* eastern bank on the Lot 17 apron. See the bank geography below.
+- **The two banks of St. Orra:** the **eastern** bank carries Lot 17, the St. Orra staging yard, the tram apron, the old school gym, the Ward Nine *old platform* and its one-armed bell post, and the east platform of old Line Six. The **older central** bank carries the Ward Nine district, its fever ward, the clinic receiving stations, and the far receiving ramps. The Fault of St. Orra runs between them. Reach the far side by Selik's official span, the river stairs, or the old footbridge over the service cut. Medicine that has to be delivered starts stranded on the wrong bank.
 - **St. Orra Underpass:** the first major Fault; the Last Fare is found in a stranded bus.
 - **The Brass Verdict Hall:** a municipal chamber where charter disputes are heard.
 - **Hearth Line:** the proposed cross-fault bus and freight route.
