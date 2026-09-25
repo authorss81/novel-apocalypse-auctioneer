@@ -8,7 +8,7 @@ Chapters 1–10 are complete. Alder Reach has one successful but costly Last Far
 
 - The Last Fare opens one route across St. Orra for twelve minutes.
 - Each traveler loses the memory of why they are traveling; a returning traveler pays again. Sixteen people paid on the first public crossing, and one of the nine children named as beneficiaries refused to board.
-- The route needs a driver who knows Line Six, a marked return at the Ward Nine bell-post platform, and a passenger who can remember the destination.
+- The route needs a driver who knows Line Six, a marked return at the old Ward Nine platform on the near apron of the depot's own bank, and a passenger who can remember the destination. "Ward Nine" also names the far-bank district, so charter and book entries carry the bank in the text.
 - Where a toll takes the memory of purpose, a witness does not travel on the lot they witness. The remedy rests on appeal, so the required pair stays where it keeps its memory, and a witness who is also a responsible party hands that duty to a named substitute.
 - The token is strained after one bare activation and one witnessed activation. Repeated use may strand the route permanently.
 - Backwash is real: it can alter nearby records and rules, and it cannot be erased by destroying or hiding the object.
@@ -25,7 +25,7 @@ Lot 17 has a public lot book and a documented public custody arrangement for the
 ## Active threats and promises
 
 - The next medicine shipment is due at dawn; a second crossing would need new terms and a new closing.
-- Eight children, two escort stewards, and four of the five medicine crew (including Renn Fisk, the crew porter) are on the far bank, unable to say why they traveled. The stewards named on the sealed sheets accepted duty for nine and answer for the eight that went.
+- Eight children, two escort stewards, and four of the five medicine crew (including Renn Fisk, the crew porter, who is the same clinic porter who set the six-hour coolant clock and was recovered from the Chapter 6 wreck) are on the far bank, unable to say why they traveled. The stewards named on the sealed sheets accepted duty for nine and answer for the eight that went.
 - Halloway's counterfeit has a false return point and a concealed seven-day repair-labor term. It cannot create a valid charter, but it can send carriers into bare-claimant danger.
 - Selik may use the failed public route to justify a permanent bridge closure or a stricter manifest, and Chapter 12's false-alarm evacuation is the event that makes that tightening credible.
 - The broken-circle mark connects the Last Fare to records from an unidentified region outside current basin maps.

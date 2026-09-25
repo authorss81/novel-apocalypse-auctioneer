@@ -4,7 +4,7 @@ The first thing Adrian lost was the sound of Tarin’s engine.
 
 He could still see the returning bus through the rain, its headlights dragging a doubled reflection across the flooded tram yard. He could hear something low and mechanical grinding beneath the depot speaker. But the sound arrived without depth, as if someone had wrapped the world in wet cloth.
 
-The bus should have come up the loading spur toward the Ward Nine platform.
+The bus should have come up the loading spur toward the old Ward Nine platform.
 
 It turned left instead.
 
@@ -149,7 +149,7 @@ He looked at the token in his hand. The red cloth had come loose. The brass show
 
 “Everyone who crossed. Everyone who was sent back. The people whose names the route tried to use as a return condition.”
 
-Mara opened her tablet and wrote the affected people as a list, not a balance: **Tarin Kest. Dessa Rill. The clinic porter. The young convoy escort. Adrian Vale, bare claimant.** She added a separate line: **OTHER NAMES CLAIMED BY THE ROUTE: SOURCE UNKNOWN. NO HOUSEHOLD TO BE NAMED.** The route had reached for names the crowd had not supplied, but the record did not tell Mara whose they were.
+Mara opened her tablet and wrote the affected people as a list, not a balance: **Tarin Kest. Dessa Rill. Renn Fisk, clinic porter. The young convoy escort. Adrian Vale, bare claimant.** She added a separate line: **OTHER NAMES CLAIMED BY THE ROUTE: SOURCE UNKNOWN. NO HOUSEHOLD TO BE NAMED.** The route had reached for names the crowd had not supplied, but the record did not tell Mara whose they were.
 
 A line had appeared on the clinic slip, written in blocky black marks that were not ink.
 

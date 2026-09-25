@@ -8,7 +8,7 @@ Two lamps hooked above it. Their light caught the wet roof and turned the public
 
 Behind the board sat the panel that governed it: the registrar, the sitting steward, and two places for anyone in the yard with no claim on the lot who cared to take one. The yard seats turned over often enough that nobody could buy the board by buying its members.
 
-The medicine convoy waited outside beneath a canvas cover. Six cold boxes—the two that had crossed and been recovered, and the four that had stayed on the depot rail—had been transferred to a hand cart, and five of the medicine crew stood with it in blue coats. The cart had been tied to the rear of Tarin’s road bus with rope that did not matter as much as everyone pretended. The school shelter group waited under the tram awning: nine children and two escorts in blue coats. Alma Dren, their steward, stood apart from them near the board, watching the bus. The children had been told there would be a road. They had not been told what the road would take.
+The medicine convoy waited outside beneath a canvas cover. Six cold boxes—the two that had crossed and been recovered, and the four that had stayed on the depot rail—had been transferred to a hand cart, and five of the medicine crew stood with it in blue coats. The cart had been tied to the rear of Tarin’s road bus with rope that did not matter as much as everyone pretended. The school shelter group waited under the tram awning: nine children and two escorts in grey canvas coats. Alma Dren, their steward, stood apart from them near the board, watching the bus. The children had been told there would be a road. They had not been told what the road would take.
 
 Adrian had told them.
 
@@ -82,19 +82,19 @@ He read the terms aloud.
 
 “Lot: the Last Fare, a cracked brass transit token in public custody, belonging to the St. Orra Fault.”
 
-“Use: one route across St. Orra for twelve minutes, with a marked return at the old Ward Nine platform. Repeated use may strand the route.”
+“Use: one route across St. Orra for twelve minutes, with a marked return at the old Ward Nine platform on this side of the water. Repeated use may strand the route.”
 
 “Bearer: Tarin Kest, sole driver and route operator.”
 
-“Beneficiaries: the medicine convoy, the school shelter group of nine children, and the people waiting in Ward Nine who will receive the medicine.”
+“Beneficiaries: the medicine convoy, the school shelter group of nine children, and the people waiting in Ward Nine on the far bank who will receive the medicine.”
 
 “Toll: every traveler loses the memory of why they are making the journey. Anyone who travels back pays the memory toll again.”
 
-“Term: one activation. It ends when the second of the two named return travelers, Tarin Kest and Dessa Rill, reaches the Ward Nine platform, or at twelve minutes, whichever comes first. If either named return traveler fails to return, the term still ends at twelve minutes and the Warden remedy applies. The shelter group and four of the five medicine crew remain on the far bank, where the two escort stewards answer for the nine children and Renn Fisk, the crew’s porter, answers for the boxes. There is no automatic renewal.”
+“Term: one activation. It ends when the second of the two named return travelers, Tarin Kest and Dessa Rill, reaches the old Ward Nine platform on this side of the water, or at twelve minutes, whichever comes first. If either named return traveler fails to return, the term still ends at twelve minutes and the Warden remedy applies. The shelter group and four of the five medicine crew remain on the far bank, where the two escort stewards answer for the nine children and Renn Fisk, the crew’s porter, answers for the boxes. There is no automatic renewal.”
 
 “Release: the token returns to the public case, the handoff is entered in the public record, and the board posts the result. No private transfer.”
 
-“Remedy: if the route bends, the Selik Warden at the marked spur acts as route keeper and stops continued movement, while Tarin returns to the platform if he can. Mara Quill suspends the next activation until the affected people have been heard. Any two independent witnesses, or any affected person through a witness who accepts the role, may appeal the result and request a public review before another closing.”
+“Remedy: if the route bends, the Selik Warden at the marked spur acts as route keeper and stops continued movement, while Tarin returns to the old platform on this side of the water if he can. Mara Quill suspends the next activation until the affected people have been heard. Any two independent witnesses, or any affected person through a witness who accepts the role, may appeal the result and request a public review before another closing.”
 
 The list did not make the route safe. It made the risk speak in a language a person could refuse.
 
@@ -132,7 +132,7 @@ A boy near the shelter raised his hand. “Can I refuse?”
 
 “Someone will ask why you are refusing. No one will bid against you for the right to refuse.”
 
-The boy looked at Alma. She nodded. He stepped back from the bus. His mother, or the woman who cared for him, did not pull him forward.
+The boy looked at Alma. She did not ask him to change his mind. He stepped back from the bus. His mother, or the woman who cared for him, did not pull him forward.
 
 Mara recorded the refusal. “Passenger refusal received,” she said. “It does not cancel the charter for the people who remain.”
 
@@ -140,7 +140,7 @@ A freight driver stepped from the crowd. His coat carried a market-cooperative s
 
 “Ewan Latch,” he said. “I am neither a buyer nor a bearer. I accept the role of independent witness to the written terms and the remedy.”
 
-Two women came up from the awning in the same blue coats. One carried the shelter’s roll folded tight in her sleeve. The other carried nothing at all.
+Two women came up from the awning in the same grey canvas coats. One carried the shelter’s roll folded tight in her sleeve. The other carried nothing at all.
 
 “The roll stays shut,” the first one said. “We give you our names and you write them on a page nobody reads out loud.”
 
@@ -216,7 +216,9 @@ Tarin took in the bus, then the school children. “Yes. I accept on those terms
 
 “Recorded,” Mara said. “You may still refuse until the token leaves the case.”
 
-Mara turned to Renn Fisk, a broad-shouldered porter in a blue coat, one of the five in the medicine crew and the only one whose name was written on the cold-chain sheet, and then to the two escort stewards. “You are the responsible parties who remain on the far bank with the shelter group and the medicine crew. Do you accept that duty?”
+Mara turned to Renn Fisk, the broad-shouldered porter who had kept one hand on the nearest cold-box lid in a room that would not sit still, who had called the coolant down from six hours and then four and forty minutes, and who had gone across on the failed crossing and been winched back out of a flooded service wall with Tarin. He was one of the five in the medicine crew, and the only one whose name was written on the cold-chain sheet.
+
+Mara turned then to the two escort stewards. “You are the responsible parties who remain on the far bank with the shelter group and the medicine crew. Do you accept that duty?”
 
 “Yes,” Renn said. “I will answer for the boxes, not for the people who refuse.”
 

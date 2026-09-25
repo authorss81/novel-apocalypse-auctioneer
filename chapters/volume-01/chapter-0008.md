@@ -162,7 +162,7 @@ They came out through the kitchen cold store, beneath the false floor, into a pa
 
 “Lina will know where to put it.”
 
-Orren nodded. The broken-circle copy lay against his chest. It was not an answer. It was a shape that had appeared in a place Adrian had never worked, on a record that claimed a place no current map admitted existed.
+He did not answer. The broken-circle copy lay against his chest. It was not an answer. It was a shape that had appeared in a place Adrian had never worked, on a record that claimed a place no current map admitted existed.
 
 He did not care yet. He cared that the false claim had named a return point where no one could return, and that its hidden labor toll would fall on a carrier who had been promised a road rather than a repair bill. The school children were named as the people the carrier was supposed to protect, which made the concealed condition worse.
 
@@ -170,7 +170,7 @@ At the top of the stairs, he stopped and looked back.
 
 “Take the manifest to Adrian,” he said. “Take the copy to Mara. Keep the name in the kitchen.”
 
-The courier nodded.
+The courier turned back into the false wall without a word.
 
 Orren tucked the broken-circle paper into his coat and followed the courier’s safe route: the old footbridge over the service cut, then the raised tram approach that did not cross the Fault.
 

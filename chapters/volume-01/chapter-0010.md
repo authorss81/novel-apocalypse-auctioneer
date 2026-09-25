@@ -32,17 +32,17 @@ Mara opened the book to the first entry.
 
 **LOT:** The Last Fare, cracked brass transit token, St. Orra Fault, in public custody.
 
-**USE:** One route across St. Orra for twelve minutes, with a marked return at the Ward Nine platform. Repeated use may strand the route.
+**USE:** One route across St. Orra for twelve minutes, with a marked return at the old Ward Nine platform on the near apron of this bank. Repeated use may strand the route.
 
 **BEARER:** Tarin Kest, sole driver and route operator.
 
-**BENEFICIARIES:** The medicine convoy. Nine children in the school shelter group. Ward Nine’s waiting clinic line.
+**BENEFICIARIES:** The medicine convoy. Nine children in the school shelter group. The waiting clinic line in Ward Nine on the far bank.
 
 **RESPONSIBLE PARTIES:** Two escort stewards, named on two sealed sheets — one held by the registrar, one kept by the school — and absent from this book, and Renn Fisk remain with the shelter group and medicine crew on the far bank.
 
 **TOLL:** Each traveler loses the memory of why they are making the journey. Return travelers pay the toll again.
 
-**TERM:** One activation. Ends when the second of the two named return travelers, Tarin Kest and Dessa Rill, reaches the Ward Nine platform, or at twelve minutes, whichever comes first. If either fails to return, the Warden remedy applies. No renewal.
+**TERM:** One activation. Ends when the second of the two named return travelers, Tarin Kest and Dessa Rill, reaches the old Ward Nine platform on the near apron of this bank, or at twelve minutes, whichever comes first. If either fails to return, the Warden remedy applies. No renewal.
 
 **WITNESSES:** Alma Dren, school shelter steward, limited to confirming disclosure and refusal for the shelter group, and remaining on the near bank to hear what the crossing did. Ewan Latch, contracted ward-market freight driver, independent of the buyer, bearer, and medicine purchase. Both witnesses are on this side of the Fault, and neither travels on the lot they witness.
 
@@ -202,7 +202,7 @@ Orren tapped the broken-circle mark. “Then tell me what this record can do.”
 
 “Nothing yet. It can show that the counterfeit was copied from a common form, and that the form reaches beyond the current maps. It cannot tell us who made it, what place it names, or whether the Last Fare and the counterfeits came from the same source.”
 
-Mara nodded. “That is enough for a public entry. It is not enough for a conclusion.”
+Mara let out a breath she had been holding. “That is enough for a public entry. It is not enough for a conclusion.”
 
 She wrote a separate page under the counterfeit file.
 

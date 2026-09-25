@@ -117,7 +117,7 @@ The planned or forced conversion of many temporary charters into one permanent l
 
 ### Blank lot
 
-An unsettled place in the Tally where a new charter can be written. Iven gave Adrian this same blank lot during their pre-Long-Fracture apprenticeship; Adrian carries it from the opening of the story. The abandoned station in Volume 09 reveals the lot's history and sealed record, not a second blank lot. It is a seat-like responsibility, not a magical empty inventory slot.
+An unsettled place in the Tally where a new charter can be written. Iven gave Adrian this same blank lot during their pre-Long-Fracture apprenticeship; it is on the page from Chapter 1, lying in the back office, and Chapter 2 has Adrian set it against the Last Fare token on the strength of an old instruction and get nothing. The abandoned station in Volume 09 reveals the lot's history and sealed record, not a second blank lot. It is a seat-like responsibility, not a magical empty inventory slot.
 
 ## Place names
 
@@ -151,6 +151,8 @@ An unsettled place in the Tally where a new charter can be written. Iven gave Ad
 - **Selik Marne:** monopoly Warden.
 - **Nera Voss:** underwriter.
 - **Cael Orin:** Registrar-General and leader of the Quiet Registry.
+- **Dessa Rill:** medicine-convoy driver, separately named return traveler on the first public charter.
+- **Renn Fisk:** the clinic porter of the medicine crew — the same porter who set the six-hour coolant clock in Chapters 1–5, boarded the failed activation, and was recovered from the wreck in Chapter 6, named there in the affected list and again in Chapter 9 as the crew's responsible party on the far bank. One person, not two.
 
 ## Object names
 

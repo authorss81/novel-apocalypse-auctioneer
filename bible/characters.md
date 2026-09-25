@@ -26,6 +26,8 @@ He compulsively values every situation, including grief and loyalty. He hides se
 
 His deepest fear is repeating a failed evacuation in which his own language made the loss look orderly. He wants to be the person who can save a room; he cannot bear to be the person who prices the room.
 
+**Origin of that fear, stated in Chapter 1:** Adrian was twenty-one and a junior inventory clerk when the north stair went at the Alder Reach platform. He wrote the evacuation order out in a clean hand, because a clean hand was the only thing he had that the crowd would obey. Eleven people came off the platform because of it. Four did not. He has spent the seventeen years since pricing the difference and does not like the number. This is the root of his compulsion to price everything, and it is his own history, not a plot device to be resolved in Volume 01.
+
 ### Competence and limits
 
 Adrian is competent at:
@@ -120,6 +122,7 @@ Key milestones:
 - **Need:** accept that a person cannot honestly guarantee every future choice, and that public redundancy is stronger than personal competence.
 - **Flaw:** he treats consent as a delay to be managed. He is willing to limit rights for “the greater good” and hides the people who pay the difference.
 - **Connection to Adrian:** During the final months of the Common Measure, Iven recruited the twenty-one-year-old Adrian from municipal surplus inventories and became his mentor. Iven taught him to read defects, gave him the same blank lot Adrian still carries, and shaped his belief that a good auction can save lives. Iven vanished during the Long Fracture and was not present for the seventeen years in which Adrian believed him dead. He is not Adrian's biological father, but he occupies the father-shaped space Adrian never had.
+- **On the page in Volume 01:** Adrian names Iven and the unfilled lot card in Chapter 1, seventeen years after the Fracture, and sets the blank lot against the Last Fare token in Chapter 2 on the strength of an old instruction, and gets nothing. Iven's function and the lot's function stay unrevealed in Volume 01, and Adrian's belief that Iven is dead is his own, not the reader's shared knowledge.
 - **Reveal:** Iven is alive inside the First House and has spent the seventeen years since the Long Fracture holding the Tally's unresolved claim. He is not omnipotent; he can use the founder mark to append active charters to one forced record at a time, but every override creates visible strain and makes the next forced closure harder.
 - **Resolution:** Adrian does not kill him. He strips him of the founder authority through a public settlement. Iven survives as an ordinary, accountable witness under the same rules as everyone else.
 
