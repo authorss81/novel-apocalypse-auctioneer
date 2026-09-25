@@ -6,14 +6,14 @@ Use these terms consistently. The definitions are author-facing canon; the ficti
 
 ### Tally
 
-The distributed accounting presence created from emergency records, witness marks, and the unfinished Common Measure. It records valid uses, tolls, terms, and consequences. It is not an all-knowing deity, a game interface, or a guarantee that a settlement is moral.
+The distributed accounting presence created from emergency records, witness marks, and the unfinished Common Measure. It records recognized uses, tolls, terms, and consequences, marking forced records separately from valid consensual closings. It is not an all-knowing deity, a game interface, or a guarantee that a settlement is moral.
 
 **Use in dialogue:** “The Tally says the route can open.”
 **Avoid:** “the computer,” “the database,” “the algorithm,” or treating it as a person who gives quests.
 
-### Fracture
+### Long Fracture
 
-The Year 0 collapse of linked civic service contracts and emergency rules. It caused the Long Fracture and created the conditions for Faults.
+The Year 0 collapse of linked civic service contracts and emergency rules. **Long Fracture** is the canonical event name; **Fracture** is the shorter name used by many survivors. Both names refer to the same event, which created the conditions for Faults.
 
 ### Fault
 
@@ -35,21 +35,25 @@ The process of identifying a lot's use, toll, and standing. Adrian's rare abilit
 
 ### Charter
 
-A temporary, bounded right to activate a defined use of a lot. A charter is not ownership of the object, the rule, or another person.
+A temporary, bounded right to activate a defined use of a lot under a consensual closing. A charter is not ownership of the object, the rule, or another person. A founder-mark forced record may be enforced by the Tally, but it is not a valid consensual charter.
 
-**Required fields:** lot, use, bearer, beneficiaries, toll, term, witness, and remedy.
+**Required fields:** lot, use, bearer, beneficiaries, toll, term, at least two independent witnesses, and remedy.
 
 ### Closing
 
-The moment when the required witnesses accept a charter and the Tally records the terms. A closing can be disputed later if a material term was withheld, but the Tally does not automatically reverse a valid record.
+The moment when at least two independent witnesses freely accept a disclosed charter and the Tally records the terms. Their assent is fresh when it follows full disclosure rather than a Custodian's substitution. A closing can be disputed later if a material term was withheld, but the Tally does not automatically reverse a valid record. A founder override creates a forced record rather than a closing.
+
+### Forced record
+
+A visibly marked, mechanically recognized emergency record that the founder's mark attaches to one or more already active charters. It bypasses fresh independent voluntary witnesses and the term limit on a linked settlement; it does not supply consent or make anyone a willing bearer. A valid consensual closing that expressly identifies the override, states its replacement remedy, and receives acceptance from at least two fresh independent witnesses supersedes the forced record for the lots it names.
 
 ### Witness
 
-A person who understands the material terms and accepts the stated role. A witness is not a decorative signature. An affected person can refuse, and a coerced witness creates a practical vulnerability even if the record appears valid.
+A person who understands the material terms, acts independently, and freely accepts the stated role after full disclosure. Consensual closings require at least two fresh witnesses. A witness is not a decorative signature. An affected person can refuse, and neither a coerced signature nor the Custodian's emergency substitution creates valid consent.
 
 ### Toll
 
-The price paid to keep a use active. A toll may be physical, temporal, memory-based, labor-based, relational, or a change in a local rule.
+The price paid to keep a use active, including a one-time payment at activation. A toll may be physical, temporal, memory-based, labor-based, relational, or a change in a local rule. A bearer may voluntarily transfer or consume a right or asset under their control as a one-time toll; the choice must be explicit and cannot be assigned to another person without consent.
 
 ### Standing
 
@@ -65,11 +69,11 @@ The physical cost Adrian experiences when he reads a lot. It is a fraction of th
 
 ### Security
 
-A real object, skill, labor term, access right, or named obligation that Adrian posts to support a charter. Security is lost if the charter breaches. A promise alone is not automatically valid security.
+A real object, recognized standing, skill, labor term, access right, or named obligation that a bearer posts to support a charter. Adrian's private recognition and exceptional mark count as assets only when he controls the stated right and the closing names its exact consequence. Security is forfeited if the charter breaches. If the closing draws on the same holdings for toll and security, it must identify the exact asset consumed as the toll and a distinct asset posted as security. A successful closing consumes the toll; a breach forfeits only the named security. A promise alone is not automatically valid security.
 
 ### Overdraft
 
-The state caused by sponsoring more active claims than Adrian's recognition can support. His name, signature, and standing become unreliable. It is resolved by settling or withdrawing claims, not by waiting.
+The state caused by sponsoring more active claims than Adrian's recognition can support, including recognition-backed emergency lots for which he made that standing shared security under a public mandate. His name, signature, and standing become unreliable. It is resolved by settling or withdrawing claims, not by waiting.
 
 ### Unlisted
 
@@ -81,11 +85,11 @@ A public auction with disclosed tolls, more than one eligible bearer or steward,
 
 ### Common Measure
 
-The unfinished pre-Fracture effort to place the basin's essential emergency rights into one open, public settlement. It is the historical project at the center of the mystery.
+The unfinished pre-Long-Fracture effort to place the basin's essential emergency rights into one open, public settlement. It is the historical project at the center of the mystery.
 
 ### Founder's mark
 
-The right of emergency override held by the surviving architect of the Common Measure. It can force one closure, but it cannot create valid consent and each use produces visible strain. Iven Tallow holds the mark at the start of the final conflict.
+The inherited emergency authority held by the surviving architect of the Common Measure. It can append active charters to a mechanically recognized forced record by substituting the Custodian for independent voluntary witnesses and by writing a permanent term, bypassing those two Common Measure safeguards. It cannot create consent, turn a forced record into a consensual charter, block a valid replacement closing, or suppress the override mark and its strain. Iven Tallow holds the mark at the start of the final conflict.
 
 ### First House
 
@@ -101,11 +105,11 @@ The post-ending public form of the Tally. It is a network of local lot books, ro
 
 ### Great Closing
 
-The planned or forced conversion of many temporary charters into one permanent settlement. The term can be used by characters before its full meaning is known; in canon, it is the final political and physical threat.
+The planned or forced conversion of many temporary charters into one permanent linked record. The term can be used by characters before its full meaning is known; in canon, it is Iven's final political and physical threat and produces a forced record rather than a valid consensual charter.
 
 ### Blank lot
 
-An unsettled place in the Tally where a new charter can be written. Iven gave Adrian a blank lot during his apprenticeship. It is a seat-like responsibility, not a magical empty inventory slot.
+An unsettled place in the Tally where a new charter can be written. Iven gave Adrian this same blank lot during their pre-Long-Fracture apprenticeship; Adrian carries it from the opening of the story. The abandoned station in Volume 09 reveals the lot's history and sealed record, not a second blank lot. It is a seat-like responsibility, not a magical empty inventory slot.
 
 ## Place names
 
@@ -147,10 +151,10 @@ An unsettled place in the Tally where a new charter can be written. Iven gave Ad
 ## Language rules
 
 - Use “lot” for the item and “charter” for the temporary right to use it.
-- Use “price” for the negotiated consideration, “toll” for the cost of activation, and “value” for the larger relationship among use, toll, standing, and consent. Do not use them as interchangeable words.
+- Use “price” for the negotiated consideration, “toll” for the price due to keep a use active at activation, renewal, or breach, and “value” for the larger relationship among use, toll, standing, and consent. Do not use them as interchangeable words.
 - Use “Tally” as the proper name of the System presence.
 - Use “Fault” for the zone and “backwash” for the consequence of a failed toll.
-- Use “closing” for a completed settlement and “auction” for the social process leading to it. An auction can fail; a closing is the record that results from acceptance.
+- Use “closing” for a completed consensual settlement and “forced record” for a founder-mark emergency record. Use “auction” for the social process leading to a closing. An auction can fail; a closing is the record that results from independent acceptance.
 - Do not use game jargon such as NPC, player, skill tree, quest, stat, mana, cooldown, or respawn. If a survivor uses a game-like word, it should be character-specific and treated as a metaphor, not a world rule.
 - Do not describe the Tally as good or evil without a character's specific reason. It follows recorded conditions and can enforce an immoral bargain.
 

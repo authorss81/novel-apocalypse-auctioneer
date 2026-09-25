@@ -17,9 +17,9 @@ Seventeen years after the Long Fracture, every major disaster zone contains an a
 
 ### External want
 
-At the start, Adrian wants a durable Hearth Line charter so Alder Reach can receive medicine, move food, and keep its neighborhoods from being permanently separated. He also wants to clear the name of Iven Tallow, the mentor who gave him a blank lot and then disappeared during the Fracture.
+At the start, Adrian wants a durable Hearth Line charter so Alder Reach can receive medicine, move food, and keep its neighborhoods from being permanently separated. He also wants to clear the name of Iven Tallow, the pre-Long-Fracture mentor who gave him the blank lot he still carries and then vanished during the collapse.
 
-Across the series, that want becomes larger and less personal: prevent the Great Closing, a plan to turn thousands of temporary charters into one permanent settlement controlled by the Tally's founder.
+Across the series, that want becomes larger and less personal: prevent the Great Closing, Iven's plan to bind thousands of temporary charters into one permanent forced record controlled by the Tally's founder.
 
 ### Internal need
 
@@ -37,7 +37,7 @@ Adrian gives up the founder's seat, the exceptional Tally mark, and his private 
 
 ### Surface question
 
-Why does every Fault produce an anchor lot, and why do the objects seem to remember the unfinished public sale that caused the Fracture?
+Why does every Fault produce an anchor lot, and why do the objects seem to remember the unfinished public sale that caused the Long Fracture?
 
 ### Deeper questions
 
@@ -48,19 +48,19 @@ Why does every Fault produce an anchor lot, and why do the objects seem to remem
 
 ### Canon answer
 
-The Tally is not an invading god, a simulation, or a benevolent game master. It is a distributed emergency record built from witnesses during the failed **Common Measure**, a pre-Fracture attempt to place essential service rights into one open public settlement. The final auction never closed. When the rights failed, the unfinished close became the Long Fracture.
+The Tally is not an invading god, a simulation, or a benevolent game master. It is a distributed emergency record built from witnesses during the failed **Common Measure**, a pre-Long-Fracture attempt to place essential service rights into one open public settlement. The final auction never closed. When the rights failed, the unfinished close became the Long Fracture.
 
 The Tally follows declared terms and observed consequences. It cannot judge fairness, identify every lie, or guarantee that a person is free to refuse. Its safeguards were designed to prevent any single owner from controlling a shared rule, but its emergency design also left one unresolved obligation. That obligation required a living guarantor who could read and close the final settlement. Iven Tallow remained inside the First House as the **Custodian**, holding the claim open and repeatedly shaping crises so that only a strong central authority seemed capable of ending them.
 
-Iven is not the source of the Tally's values. He is the person who decided that the values could only be enforced by one person. Adrian's rare reading comes from his training, his blank lot, and the founder mark Iven placed in the record before vanishing. The Tally chooses no champion; it makes the unfinished obligation more visible when Adrian acts honestly enough to accept responsibility for it.
+Iven is not the source of the Tally's values. He is the person who decided that the values could only be enforced by one person. Adrian's rare reading comes from his training, the blank lot Iven gave him before the Long Fracture, and the founder mark Iven placed in that record before vanishing. The Tally chooses no champion; it makes the unfinished obligation more visible when Adrian acts honestly enough to accept responsibility for it.
 
-The complete origin of the Common Measure and the first decision to open an emergency sale remains intentionally open. The final volume explains why the Fracture happened and why the Tally was built, but not who first imagined the idea or whether similar records exist beyond the Morrow Basin.
+The complete origin of the Common Measure and the first decision to open an emergency sale remains intentionally open. The final volume explains why the Long Fracture happened and why the Tally was built, but not who first imagined the idea, who removed the second founding signature, or whether similar records exist beyond the Morrow Basin.
 
 ## Planned final resolution
 
-The Great Closing is the final external conflict. Iven uses the founder's mark to force every active charter into one permanent settlement. The arrangement would prevent immediate cascading backwash, but every future use right would be held through his authority.
+The Great Closing is the final external conflict. Iven uses the founder's mark to append every active charter to one permanent **forced record**. This is a mechanically recognized emergency claim, not a valid consensual charter: the override bypasses fresh independent witnesses and the term limit, but it cannot manufacture consent. The arrangement would prevent immediate cascading backwash, but every future use right would be held through his authority.
 
-Adrian refuses the founder's seat and auctions the right to administer the Tally itself through a public covenant. The final lot has no single buyer. Its terms are disclosed, limited, witnessed by affected communities, and revocable through a rotating civic process. Adrian stakes his own exceptional recognition as security. The Tally accepts, his private mark burns out, and the Great Closing divides into thousands of local charters governed by a Civic Tally rather than one throne.
+Adrian refuses the founder's seat and auctions the right to administer the Tally itself through a public covenant. The final lot has no single buyer. Its terms are disclosed, limited, expressly name Iven's override and its remedy, receive acceptance from at least two fresh independent witnesses, and are revocable through a rotating civic process. Other groups post bounded securities; Adrian voluntarily names his exceptional recognition, accumulated claims, and private mark as the one-time founding toll, separate from the collateral that would be lost only on breach. The valid closing supersedes Iven's linked forced record, his mark burns out, and thousands of local charters operate under a Civic Tally rather than one throne.
 
 Iven survives without founder authority and is held to the same public rules as everyone else. The Tally remains limited, local, and political. The apocalypse continues, but dangerous use becomes a shared civic responsibility.
 
@@ -68,7 +68,7 @@ Iven survives without founder authority and is held to the same public rules as 
 
 | Stage | Volumes | New responsibility | Earned through | Hard cost | Limit |
 |---|---:|---|---|---|---|
-| Practical broker | 1 opening | Inspect, describe, and negotiate an ordinary lot | Pre-Fracture work and practical experience | A clever sale can hide social harm | No supernatural authority |
+| Practical broker | 1 opening | Inspect, describe, and negotiate an ordinary lot | Pre-Long-Fracture work and practical experience | A clever sale can hide social harm | No supernatural authority |
 | Reader | 1 | Read use, toll, and standing on one object | First Last Fare failure, honest disclosure, physical survival | Toll echo; a bad reading can make Adrian the default bearer | Contact, one lot, no prediction |
 | Binder | 2 | Write terms, transfer use, split a short charter | Rebuilding a failed auction with Mara and posted security | Loss of real security and visible claim marks | Cannot create consent |
 | Steward | 3 | Maintain a public lot and coordinate multiple bearers | Holding a complete Fault cycle through community pressure | Aggregate unpaid toll and public accountability | Cannot leave an active lot without relief |
@@ -142,7 +142,7 @@ The relationship moves from mentorship to rivalry to public accountability. Iven
 - **Climax:** Adrian and Tarin close a rotating multi-bearer charter. The train reaches three stations instead of one, proving that public access can replace a private monopoly without pretending the route is safe.
 - **Concrete resolution:** the Needle Tramway becomes a coalition route with public toll boards and local stewards. Selik remains a wary ally rather than a defeated friend.
 - **Power change:** Binder is tested through large-scale terms; Adrian learns that a transferable right is not a neutral right.
-- **Next question:** the signal's memory pattern contains the name of a pre-Fracture public office, not a guild.
+- **Next question:** the signal's memory pattern contains the name of a pre-Long-Fracture public office, not a guild.
 
 ### Volume 03: The Hearth Commons — Chapters 101–150
 
@@ -194,7 +194,7 @@ The relationship moves from mentorship to rivalry to public accountability. Iven
 - **Climax:** Adrian and Mara create a charter that registers only people who choose to enter, while Lina's witnesses guarantee an exit for the Unlisted. The shelter holds, and the right not to be listed becomes part of the public market's founding terms.
 - **Concrete resolution:** the Unlisted city gains a public relationship without losing its private routes. Mara and Adrian remain close but cannot pretend their institutional choices are identical.
 - **Power change:** Adrian learns Convener requires representation, not benevolent proximity.
-- **Next question:** a memory courier recognizes a name in the Hearth Bell's record that was erased before the Fracture.
+- **Next question:** a memory courier recognizes a name in the Hearth Bell's record that was erased before the Long Fracture.
 
 ### Volume 07: The Tidal Ledger — Chapters 301–350
 
@@ -216,7 +216,7 @@ The relationship moves from mentorship to rivalry to public accountability. Iven
 - **Major locations:** heirloom orchards, seed vaults, a tree that remembers a dead child, and a seasonal market that opens only when no one is named.
 - **Major factions:** memory keepers, farming villages, the Guilds, Orin's Registry, and independent seed brokers.
 - **Midpoint reversal:** Adrian's reading of a seed lot is accurate, but the memory it takes is not one person's memory; it is a shared memory that will disappear from all relatives. His failure proves that no single bearer can always be named.
-- **Escalation:** the orchard begins reproducing a pre-Fracture evacuation route; a private buyer tries to harvest it; Adrian's own childhood memory of Iven becomes unstable.
+- **Escalation:** the orchard begins reproducing a pre-Long-Fracture evacuation route; a private buyer tries to harvest it; Adrian's own childhood memory of Iven becomes unstable.
 - **Climax:** he publicly refuses to close the largest harvest charter until the affected families choose their own terms, losing a promised shipment and preserving the ability to remember.
 - **Concrete resolution:** the Orchard survives through a smaller, slower public seed exchange. Adrian learns that refusing a profitable price is a practical act, not a moral slogan.
 - **Power change:** his toll-echo ability becomes costly enough to threaten ordinary work; he begins teaching Orren the reading.
@@ -224,14 +224,14 @@ The relationship moves from mentorship to rivalry to public accountability. Iven
 
 ### Volume 09: The Empty Lot — Chapters 401–450
 
-- **Central pressure:** Adrian reaches the abandoned station where Iven left a blank lot and a sealed record of the Common Measure. The Tally begins treating Adrian as a possible settlement seat instead of a buyer.
+- **Central pressure:** Adrian reaches the abandoned station where Iven first drafted the blank lot he has carried since before the Long Fracture. He finds the lot's sealed Common Measure record there, not a second blank lot, and the Tally begins treating him as a possible settlement seat instead of a buyer.
 - **Starting state:** Adrian is needed as a public steward but wants to know whether Iven was a victim or an architect of disaster. Mara remains with the provisional registry.
-- **Major locations:** the empty station, pre-Fracture service tunnels, a sealed municipal archive, and the first site of a failed public auction.
+- **Major locations:** the empty station, pre-Long-Fracture service tunnels, a sealed municipal archive, and the first site of a failed public auction.
 - **Major factions:** the First House archivists, the Lock Council, Guild historians, Road Houses, and the Unlisted.
-- **Midpoint reversal:** the records show the Tally was designed to distribute obligations, but the emergency clause left one guarantor. Iven's name is on the clause; another founding signature has been removed.
+- **Midpoint reversal:** the records show the blank lot Adrian already carried was the Common Measure's distributed settlement seat. The Tally was designed to distribute obligations, but the emergency clause left one guarantor. Iven's name is on the clause; another founding signature has been removed.
 - **Escalation:** the Tally marks Adrian as a bare claimant; the Lock Council offers him a permanent seat; Adrian's public markets begin refusing his security.
 - **Climax:** he opens a limited public reading of the archive, allowing affected communities to challenge the history rather than accepting his interpretation. The record confirms the unfinished sale, but the removed signature remains unknown.
-- **Concrete resolution:** the origin of the Fracture is no longer a rumor. Adrian is publicly linked to the founder, and the market must decide whether that disqualifies him.
+- **Concrete resolution:** the origin of the Long Fracture is no longer a rumor. Adrian is publicly linked to the founder, and the market must decide whether that disqualifies him.
 - **Power change:** Convener tested; he learns that a public reading can be wrong and still be more honest than a private certainty.
 - **Next question:** Iven answers through a charter in Adrian's own handwriting that was written before they met.
 
@@ -241,11 +241,11 @@ The relationship moves from mentorship to rivalry to public accountability. Iven
 - **Starting state:** Adrian has evidence of the Tally's origin, not a plan for what comes next. Mara's registry is independent and increasingly popular.
 - **Major locations:** a public assembly in Alder Reach, the Upland gates, the Underwriters' court, and a neighborhood where a permanent charter has already erased a family.
 - **Major factions:** Adrian's market, Mara's registry, the Lock Council, Orin's Registry, the Underwriters, Road Houses, and the Unlisted.
-- **Midpoint reversal:** Adrian proposes a temporary public mandate to defeat the constitution. The proposal works, but the public interprets his emergency authority as permission to rule without a term.
-- **Escalation:** Mara testifies that Adrian's undisclosed terms have already harmed vulnerable people; the market fractures; Lina's Unlisted routes are exposed; Iven publicly endorses the permanent settlement.
+- **Midpoint reversal:** Adrian proposes a temporary public mandate to defeat the constitution and makes his recognition the shared security for the emergency lots needed to operate it. The proposal works, but the public interprets his emergency authority as permission to rule without a term.
+- **Escalation:** Mara testifies that Adrian's undisclosed terms have already harmed vulnerable people; the market fractures; Lina's Unlisted routes are exposed; Iven publicly endorses the permanent settlement. The mandate-backed lots remain active and keep Adrian's recognition attached as their security.
 - **Climax:** Adrian withdraws his own mandate and lets the assembly vote on the public lot without him. The result is a weak, revocable council rather than a strong personal victory.
 - **Concrete resolution:** the Lock Council loses the immediate vote, but the Great Closing becomes visible on every public ledger as a planned system operation.
-- **Power change:** Adrian loses neutrality and enters serious overdraft; Mara's independent registry becomes a necessary check.
+- **Power change:** withdrawing the mandate does not erase the active recognition-backed claims, so Adrian loses neutrality and enters serious overdraft; Mara's independent registry becomes a necessary check.
 - **Next question:** the Tally schedules the Great Closing for the end of the next cross-basin trade season.
 
 ### Volume 11: The Counterfeit Saint — Chapters 501–550
@@ -289,8 +289,8 @@ The relationship moves from mentorship to rivalry to public accountability. Iven
 
 ### Volume 14: The Great Closing — Chapters 651–700
 
-- **Central pressure:** Iven begins the Great Closing in stages. A charter in one district becomes permanent, then another. Each change looks like relief, and each removes local consent.
-- **Starting state:** the public constitution exists, but the founder's mark outranks it in the Tally's inherited rules. Adrian has no legal seat.
+- **Central pressure:** Iven begins the Great Closing in stages. A district's public charter is pulled into the permanent forced record, then another. Each change looks like relief, and each removes local consent.
+- **Starting state:** the public constitution exists, but the founder's mark can bypass its ordinary witness and term safeguards in the Tally's inherited emergency channel. Adrian has no legal seat.
 - **Major locations:** the First House, a permanently sealed school shelter, a converted public market, the Needle Tramway, and a newly opened civilian route.
 - **Major factions:** Iven's Custodian, the Lock Council, public lots, the Unlisted, Wardens, and communities offered instant stability.
 - **Midpoint reversal:** Iven offers Adrian the founder's seat and proof that the Great Closing will stop the backwash for at least a year. Adrian's loved ones and several districts are inside the threatened network.
@@ -298,7 +298,7 @@ The relationship moves from mentorship to rivalry to public accountability. Iven
 - **Climax:** Adrian rejects the seat in front of the public network and uses his own recognition as security for a short, multi-community delay. The delay causes real losses and proves that resistance can also harm people.
 - **Concrete resolution:** the Great Closing is paused, not defeated. Adrian loses his private claim, his public security, and the legal ability to operate as a neutral auctioneer.
 - **Power change:** the foundation of Commonskeeper begins. He can no longer solve the crisis by becoming the final authority.
-- **Next question:** the delay exposes a weakness in the Tally's founder clause: it requires a public settlement with more than one witness, but no one has written the terms.
+- **Next question:** the delay exposes the Tally's replacement rule: a valid consensual closing can supersede a forced record if it expressly names the override, states the remedy, and receives acceptance from at least two fresh independent witnesses. No one has written those terms.
 
 ### Volume 15: The Market Without a King — Chapters 701–750
 
@@ -315,11 +315,11 @@ The relationship moves from mentorship to rivalry to public accountability. Iven
 
 ### Volume 16: The Last Public Reading — Chapters 751–800
 
-- **Central pressure:** the final assembly must decide whether to dissolve the founder's clause, accept a new permanent settlement, or risk the Fracture returning. Each option has a defensible cost.
+- **Central pressure:** the final assembly must decide whether to dissolve the founder's clause, accept a new permanent settlement, or risk the Long Fracture returning. Each option has a defensible cost.
 - **Starting state:** the public market works, but the founder's override can still collapse it. Adrian and Mara are partners in work and love, not in authority.
 - **Major locations:** the neutral salt field, a public archive, the Unlisted routes, the First House, and the last safe tram line.
 - **Major factions:** Mara's public registry, Lina's protected-absence network, Tarin's roads, Orren's local witnesses, the Lock Council, and Iven Tallow.
-- **Midpoint reversal:** Iven tells Adrian the truth about the Fracture: the Common Measure was his attempt to prevent private ownership, and he kept the obligation open because he could not trust anyone else. His confession explains his actions without excusing them.
+- **Midpoint reversal:** Iven tells Adrian the truth about the Long Fracture: the Common Measure was his attempt to prevent private ownership, and he kept the obligation open because he could not trust anyone else. His confession explains his actions without excusing them.
 - **Escalation:** Adrian and Mara argue over whether the final terms should preserve a safety valve; the Lock Council attempts to assassinate or discredit key witnesses; Iven offers Adrian a permanent role in exchange for one private reading.
 - **Climax:** Adrian and Mara publish a final draft that allows local markets to reject a dangerous charter, requires public tolls, and lets a settlement be renewed only by new consent. Adrian cannot read it alone; he must trust hundreds of witnesses to complete the lot.
 - **Concrete resolution:** the final terms are accepted, and the Great Closing begins. The story moves to the final auction with no private fallback.
@@ -328,17 +328,17 @@ The relationship moves from mentorship to rivalry to public accountability. Iven
 
 ### Volume 17: The Auction of the World — Chapters 801–840
 
-- **Central pressure:** Iven activates the founder's override and begins forcing every open charter into one permanent settlement. Faults overlap, backwash spreads, and communities with the best terms are bought out or erased.
+- **Central pressure:** Iven activates the founder's override and begins appending every open charter to one permanent forced record. The Tally enforces the record without valid consent; Faults overlap, backwash spreads, and communities with the best terms are bought out or erased.
 - **Starting state:** the public market is strong but unfinished; Adrian is no longer its sole authority; Mara, Tarin, Orren, and Lina are each responsible for a necessary part of the network.
 - **Major locations:** the First House, Tally House, every major regional market, the Needle Tramway, the Salt Verge, the Quiet Orchard, Brass Coast, and the Alder Reach public lot.
 - **Major factions:** the Civic Tally, the founder's Custodian, the Lock Council, the Underwriters' remnants, Road Houses, the Unlisted, and the regional communities that have learned to maintain their own charters.
 - **Midpoint reversal:** Adrian discovers that the founder's mark cannot be defeated by a more accurate reading. Iven's offer is genuine: one guarantor could stop the immediate cascade. Adrian must accept that the Tally will not reward a morally pure private choice.
-- **Escalation:** the final assembly is forced to bid for the right to administer the Tally. Each faction offers a different monopoly: a council, a guild, a military ward, a distributed public system. Iven reveals that the original guarantee was designed to be broken by collective responsibility, but that the first century of fear made every collective look like a crowd.
-- **Climax:** Adrian auctions **the right to administer the Tally** as a public lot. The lot has no buyer in the ordinary sense. Terms are split among local councils, Road Houses, Wardens, Unlisted representatives, and independent witnesses. Each group posts a bounded security and accepts a public remedy. Adrian reads the lot honestly, including the first toll: his own private recognition, his legal ownership, and his exceptional Tally mark. He signs as the first bearer and surrenders the right to remain the final owner.
-- **Consequence:** the Tally accepts the public covenant. The founder's override fractures into local closures, not a single permanent sale. Iven is stripped of the mark and survives as a witness. Adrian's reading ability collapses to ordinary trained perception; the market continues without him.
+- **Escalation:** the final assembly is forced to bid for the right to administer the Tally. Each faction offers a different monopoly: a council, a guild, a military ward, a distributed public system. Iven reveals that the original replacement rule was designed to let collective, freshly witnessed closings supersede the emergency claim, but that the first century of fear made every collective look like a mob that could not be trusted to replace him.
+- **Climax:** Adrian auctions **the right to administer the Tally** as a public lot. The lot has no buyer in the ordinary sense. Terms are split among local councils, Road Houses, Wardens, Unlisted representatives, and independent witnesses. The covenant expressly names Iven's override, states the replacement remedy, fixes an end term, and receives acceptance from at least two fresh independent witnesses. Each group posts a bounded security. Adrian reads the lot honestly, including its one-time founding toll: his private recognition, accumulated claims, legal ownership interests, and exceptional Tally mark. The covenant explicitly separates that voluntary toll from the securities that remain intact unless a group breaches. He pays the toll as the first bearer and surrenders the right to remain the final owner.
+- **Consequence:** the Tally accepts the public covenant. Its valid closing replaces Iven's linked forced record with thousands of local charters, and the override can no longer bind them into one permanent sale. Iven is stripped of the mark and survives as a witness. Adrian's reading ability collapses to ordinary trained perception; the market continues without him.
 - **Concrete resolution:** the Civic Tally becomes permanent public infrastructure with limited charters, public tolls, rotating stewards, protected routes for the Unlisted, local dispute processes, and no inheritable right to activate a Fault. The last local backwash is paid by the people who agreed to share it, not by a hidden class.
 - **Final relationship resolution:** Adrian and Mara keep separate professional authority and choose to share a life. Tarin runs the roads; Orren becomes a registrar; Lina maintains protected absence; none of them becomes Adrian's apprentice or deputy.
-- **Mystery resolution:** the Fracture was the failure of the unfinished Common Measure, the Tally was built to distribute essential rights, and Iven kept the unresolved obligation open as a custodian. The complete first origin of the Common Measure and the fate of regions beyond the Morrow Basin remain intentionally unanswered.
+- **Mystery resolution:** the Long Fracture was the failure of the unfinished Common Measure, the Tally was built to distribute essential rights, and Iven kept the unresolved obligation open as a custodian. The complete first origin of the Common Measure and the fate of regions beyond the Morrow Basin remain intentionally unanswered.
 - **Final image:** a child asks Adrian what a bell is worth. He does not answer with a number; he asks who is listening, who would bear the ringing, and whether they have the right to refuse. The bell answers across several public ledgers, and no single person owns the sound.
 
 ## Final safeguards for the series
@@ -347,4 +347,4 @@ The relationship moves from mentorship to rivalry to public accountability. Iven
 - Every regional victory must leave a material change in trade, safety, memory, or political authority.
 - Adrian's power gains must appear through changed decisions and new limits, not a single skill that solves the current crisis.
 - The market must show ordinary people developing competence and institutions that can disagree with Adrian.
-- The ending may be hopeful, but it is not a restoration of the pre-Fracture world. Faults remain; public responsibility is the victory.
+- The ending may be hopeful, but it is not a restoration of the pre-Long-Fracture world. Faults remain; public responsibility is the victory.

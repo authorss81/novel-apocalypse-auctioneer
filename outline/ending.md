@@ -6,9 +6,9 @@ The ending is fixed before chapter prose begins. The final volume may adjust sce
 
 ## Final external conflict: the Great Closing
 
-Iven Tallow uses the founder's mark to begin the **Great Closing** across the Morrow Basin. The mark forces active charters into a permanent settlement one after another. It is not a natural eruption and not a new System. It is the emergency provision of the unfinished Common Measure, invoked after seventeen years of unresolved obligation.
+Iven Tallow uses the founder's mark to begin the **Great Closing** across the Morrow Basin. The mark appends active charters to a permanent **forced record** one after another. The Tally enforces that record, but it is not a valid consensual charter: the override substitutes the Custodian for independent voluntary witnesses and bypasses the Common Measure's term limit without creating consent. It is not a natural eruption and not a new System. It is the emergency provision of the unfinished Common Measure, invoked after seventeen years of unresolved obligation.
 
-The first settlements appear benevolent. A route becomes reliable. A shelter stops taking memory. A water channel begins to hold. People surrender temporary rights because the immediate danger is severe. The hidden cost is political: every permanent charter is written in Iven's name, and every local dispute can be overruled by the First House.
+The first settlements appear benevolent. A route becomes reliable. A shelter stops taking memory. A water channel begins to hold. People surrender temporary rights because the immediate danger is severe. The hidden cost is political: every permanent forced record is written in Iven's name, and every local dispute can be overruled by the First House.
 
 As the Closing advances:
 
@@ -31,13 +31,13 @@ This is the outcome Iven has spent seventeen years preparing.
 
 ### Choice two: a regional successor
 
-The public factions agree to transfer the founder's claim to a council, guild, or military office. The claim is technically shared but remains permanent. The new holder can control the Tally under a different name. This choice delays the Fracture and turns Adrian's private monopoly into an institutional one.
+The public factions agree to transfer the founder's claim to a council, guild, or military office. The claim is technically shared but remains a permanent forced record. The new holder can control the Tally under a different name. This choice delays the Long Fracture and turns Adrian's private monopoly into an institutional one.
 
 The story treats this as a real political possibility, not a strawman. Some of Adrian's allies argue that the danger requires speed.
 
 ### Choice three: the public settlement
 
-Adrian uses the unfinished Common Measure against its original emergency design. He auctions **the right to administer the Tally** with no single buyer. The lot is settled through many bounded securities and public witnesses. The Tally must accept responsibility through a network rather than one person.
+Adrian uses the unfinished Common Measure against its original emergency design. He auctions **the right to administer the Tally** with no single buyer. The lot reaches a valid consensual closing that expressly names Iven's override and its replacement remedy, fixes an end term, and receives acceptance from at least two fresh independent witnesses alongside many bounded securities and one explicitly paid founding toll. The Tally must accept responsibility through a network rather than one person.
 
 This does not guarantee safety. It guarantees that no one may convert a temporary use into a permanent throne without a new, visible act of consent.
 
@@ -45,14 +45,14 @@ This does not guarantee safety. It guarantees that no one may convert a temporar
 
 Adrian must choose between proving that he is the only person capable of holding the market together and accepting that his usefulness must be limited.
 
-The final public lot requires a guarantor for the first toll. Adrian can satisfy it by staking his private recognition: his name, his accumulated charters, his legal ownership, and the exceptional mark that lets him see the Tally's deepest relationships. If he signs as the first bearer, the public settlement can proceed. The mark will burn out, and the Tally will no longer distinguish his name from an ordinary citizen's.
+The final public lot requires a named bearer for a one-time founding toll. The covenant states the rule explicitly: the toll is consumed when the closing succeeds, while the groups' bounded securities are forfeited only if their own terms breach. Adrian can pay that toll by voluntarily surrendering his private recognition, accumulated charter claims, legal ownership interests, and the exceptional mark that lets him see the Tally's deepest relationships. If he signs as the first bearer, the public settlement can proceed. The mark will burn out, and the Tally will no longer distinguish his name from an ordinary citizen's.
 
 He signs after reading the terms aloud with all known uncertainties included. He does not conceal the possibility of failure, and he does not call the choice safe.
 
 The cost is permanent:
 
 - Adrian loses access to the Tally's deep reading;
-- his private lot, inventory, and legal claims are absorbed into the public settlement;
+- his private lot, inventory, accumulated claims, and legal ownership interests are surrendered as the one-time founding toll;
 - he cannot be the guarantor for another region;
 - his name is publicly searchable, so his mistakes cannot be hidden even when the Tally cannot verify them;
 - he keeps only the practical eye and training that ordinary work can teach.
@@ -72,19 +72,19 @@ No single ally saves Adrian. The final lot becomes possible because previous vol
 
 ## Final climax structure
 
-1. **The first toll:** the Great Closing begins before the final auction. A district's public charter turns permanent, and Adrian feels the recognition drain as his own sponsored lots are pulled into the settlement.
+1. **The first toll:** the Great Closing begins before the final auction. A district's public charter is pulled into a permanent forced record, and Adrian feels the recognition drain as his own sponsored lots are swept into the settlement.
 2. **The old offer:** Iven opens a private founder channel and shows Adrian the likely deaths if he refuses. Mara, Tarin, and Lina independently confirm that the offer is accurate in its immediate predictions.
 3. **The public lot:** Adrian suspends the private channel and asks every region to bid with obligations rather than ownership: a road, a steward shift, a memory archive, a rescue crew, a dispute forum, or a share of repairs.
-4. **The hidden toll:** the lot reveals that a public settlement still needs someone to accept the first unshared cost. Adrian cannot hide this behind “everyone” or offer another person's life. He posts his own recognition.
-5. **The override:** Iven invokes the founder's clause. The clause fails because the original Common Measure required multiple independent witnesses and a term-limited settlement. Adrian's public reading is necessary to show the clause's limits, but the people who witnessed and revised the terms are what make the closing valid.
-6. **The split:** the Great Closing divides into regional closings. Some places remain unstable, and the damage is real. The victory is a more distributed failure, not a painless rescue.
+4. **The hidden toll:** the lot reveals that a public settlement still needs one named bearer to pay its first unshared activation cost. Adrian cannot hide this behind “everyone” or offer another person's life. He voluntarily bears the one-time toll with his own recognition and rights.
+5. **The override:** Iven invokes the founder's clause, which can bypass independent witnesses and a term limit but cannot manufacture consent. Adrian's public reading establishes that the linked result is only an emergency claim. Because the covenant expressly names that override, states a replacement remedy, fixes its own term, and receives acceptance from at least two fresh independent witnesses, the valid closing supersedes the forced record under the Tally's replacement rule. The people who witnessed and revised the terms are what make that replacement valid.
+6. **The split:** the Great Closing forced record breaks apart and the valid civic covenant replaces it with local charters. Some places remain unstable, and the damage is real. The victory is a more distributed failure, not a painless rescue.
 7. **The new status:** the founder's mark disappears from the First House and the public markets receive their own lot books. Adrian's private recognition becomes ordinary paper and human testimony.
 
 ## Relationship resolution
 
 ### Adrian and Mara
 
-Their relationship survives because both refuse to make the other responsible for their choices. They sign different portions of the Civic Tally: Mara guarantees the public record and dispute process; Adrian guarantees the first toll only. They retain separate work and public responsibilities, and choose a shared home only after setting personal terms that neither of them can treat as a charter obligation.
+Their relationship survives because both refuse to make the other responsible for their choices. They sign different portions of the Civic Tally: Mara stewards the public record and dispute process; Adrian bears only the explicitly voluntary one-time founding toll. They retain separate work and public responsibilities, and choose a shared home only after setting personal terms that neither of them can treat as a charter obligation.
 
 Their personal choice is to build a shared life in the time after the climax. They do not marry as a reward for the final victory, and they do not merge their authority to make the ending tidy. The final relationship image is a domestic argument about dinner and an open public record left on the same table, showing that civic responsibility has not consumed their tenderness.
 
@@ -129,17 +129,18 @@ The world is safer because responsibility is more distributed, not because power
 
 ### Fully answered
 
-- The Fracture was caused by the failure of the unfinished Common Measure and the collapse of essential service rights, not by a natural curse or alien invasion.
+- The Long Fracture was caused by the failure of the unfinished Common Measure and the collapse of essential service rights, not by a natural curse or alien invasion.
 - The Tally was made from emergency records and witnesses to keep dangerous use rights visible and temporary.
 - Iven Tallow was the Common Measure's emergency architect, the source of the founder's mark, and the Custodian who kept the final obligation open.
 - Iven kept the obligation open because he feared an unowned collapse more than he feared a single owner. His choice created the Great Closing.
-- Adrian's blank lot and reading ability came from his training and the founder mark, not from a bloodline or random selection.
+- The blank lot Iven gave Adrian before the Long Fracture—not a second lot found in the abandoned station—carries the settlement-seat function that leads to his reading ability and his founder-mark connection. No bloodline or random selection is involved.
 - The Tally cannot choose a morally correct settlement. It can only enforce the terms people give it.
-- The final public covenant satisfies the original safeguard by distributing responsibility and limiting the term of authority.
+- The final public covenant triggers the Tally's replacement rule by naming the override, stating a remedy, receiving acceptance from at least two fresh independent witnesses, and limiting authority to a definite term.
 
 ### Intentionally unresolved
 
-- Who first proposed the Common Measure and why the original public settlement was abandoned before the Fracture.
+- Who first proposed the Common Measure and why the original public settlement was abandoned before the Long Fracture.
+- The identity of the founding signature removed from the emergency clause and why it was removed.
 - Whether comparable unfinished records or Tally fragments exist beyond the Morrow Basin.
 - What caused the first service contracts to fail in the precise order that produced the Long Fracture.
 - Whether a community can voluntarily choose a permanent charter after the ending, and what safeguards would make that choice legitimate.

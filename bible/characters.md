@@ -3,7 +3,7 @@
 ## Adrian Vale — protagonist
 
 - **Age:** 38
-- **Role before the Fracture:** junior inventory clerk and estate-sale assistant
+- **Role before the Long Fracture:** junior inventory clerk and estate-sale assistant
 - **Role now:** independent surplus auctioneer at Lot 17, later a public lot steward and teacher
 - **Home:** a converted tram depot in Alder Reach, with a narrow office above the sale floor
 - **Appearance and habits:** lean, dark-haired, usually wearing a waxed auction coat with too many pockets. He carries a pencil, a folding ruler, and a strip of red cloth used to mark unsafe lots. He notices hinges, seams, faded labels, and the way people avoid a price.
@@ -119,8 +119,8 @@ Key milestones:
 - **Want:** finish the Common Measure and place the Tally's unresolved obligations under one reliable guarantor. He believes a single, accountable owner is the only way to prevent another mass failure.
 - **Need:** accept that a person cannot honestly guarantee every future choice, and that public redundancy is stronger than personal competence.
 - **Flaw:** he treats consent as a delay to be managed. He is willing to limit rights for “the greater good” and hides the people who pay the difference.
-- **Connection to Adrian:** Iven was Adrian's mentor after the Fracture. He taught Adrian to read defects, gave him a blank lot, and shaped his belief that a good auction can save lives. He is not Adrian's biological father, but he occupies the father-shaped space Adrian never had.
-- **Reveal:** Iven is alive inside the First House and has spent seventeen years holding the Tally's unresolved claim. He is not omnipotent; he can use the founder mark to force one settlement at a time, but every override creates visible backwash and makes the next closure harder.
+- **Connection to Adrian:** During the final months of the Common Measure, Iven recruited the twenty-one-year-old Adrian from municipal surplus inventories and became his mentor. Iven taught him to read defects, gave him the same blank lot Adrian still carries, and shaped his belief that a good auction can save lives. Iven vanished during the Long Fracture and was not present for the seventeen years in which Adrian believed him dead. He is not Adrian's biological father, but he occupies the father-shaped space Adrian never had.
+- **Reveal:** Iven is alive inside the First House and has spent the seventeen years since the Long Fracture holding the Tally's unresolved claim. He is not omnipotent; he can use the founder mark to append active charters to one forced record at a time, but every override creates visible strain and makes the next forced closure harder.
 - **Resolution:** Adrian does not kill him. He strips him of the founder authority through a public settlement. Iven survives as an ordinary, accountable witness under the same rules as everyone else.
 
 ## Antagonist ladder

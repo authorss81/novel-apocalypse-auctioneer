@@ -29,7 +29,7 @@ TERMS ARE INCOMPLETE. NAME THE RETURN POINT.
 
 The Tally may warn, refuse, or display a consequence. It does not display experience points, numerical stats, or a quest log. It may be wrong when the record is wrong. Adrian and the people around him must investigate and act.
 
-## Required parts of every settlement
+## Required parts of a consensual charter
 
 A valid charter has seven parts. Missing parts create different failures rather than a generic rejection.
 
@@ -39,9 +39,17 @@ A valid charter has seven parts. Missing parts create different failures rather 
 4. **Beneficiaries:** the people who receive the change and the people exposed to its effects.
 5. **Toll:** what is paid, by whom, and at what point.
 6. **Term:** how long the use lasts and where it applies.
-7. **Witness and remedy:** who records the agreement and what happens on breach, expiry, or refusal.
+7. **Witnesses and remedy:** at least two independent people who freely understand and accept the recorded role, plus what happens on breach, expiry, or refusal. Their assent must be fresh: given after disclosure, not supplied by a Custodian or inherited key.
 
 A charter can be amended only by a new closing. A change hidden in a side promise is not part of the charter unless a witness understands and accepts it.
+
+### Founder override and forced records
+
+A founder-mark closure is not a valid consensual charter. It is a mechanically recognized **forced record** attached to one or more already active charters. The Tally enforces the recorded use, toll, and permanent term, but the record does not prove that the named bearers, beneficiaries, or witnesses consented. Every forced record carries a visible override mark and remains challengeable through a later public closing.
+
+The override bypasses exactly two of the Common Measure's safeguards: **fresh independent voluntary witnesses** and **a term limit on the linked settlement**. The First House substitutes the Custodian for independent witnesses and writes a permanent term. It does not bypass disclosure of the lot, use, beneficiaries, toll, or standing; it cannot create consent, erase backwash, or enroll someone in a new use that was not already present in an active charter.
+
+A forced record is an emergency claim, not an ownership interest. A later valid consensual closing may replace it for the lots it names if the closing identifies the override, states the remedy, and receives acceptance from at least two fresh independent witnesses. The Tally gives that replacement priority because the founder's bypass cannot create a superior right. The witnesses and term limit do not “defeat” the override by defeating its own safeguards; they make the consensual replacement valid under the ordinary closing rules.
 
 ## The three readings
 
@@ -61,6 +69,8 @@ The price paid to keep the use active. A toll must be attached to a bearer, a be
 - a rule cost such as nearby doors locking at dusk or all spoken promises becoming binding.
 
 The Tally can record the type and timing of a toll. It cannot determine whether the toll is fair.
+
+A toll may be due at activation, renewal, or breach. A bearer may knowingly offer to transfer or consume a right or asset under their control as a one-time toll, provided the choice is explicit in the closing. The Tally never conscripts another person's labor, memory, identity, or property into that payment. If a closing draws on the same holdings for toll and security, it must name the exact asset consumed as the toll and a distinct asset posted as security. The toll is spent when due even if the charter succeeds; the separate security is forfeited only when the charter breaches.
 
 ### Standing
 
@@ -109,7 +119,7 @@ He grows faster when he lets Mara, Tarin, Orren, Lina, guild inspectors, and aff
 
 ### Stage 0 — Practical broker
 
-Before the Fracture, and at the start of the story, Adrian is a competent ordinary auctioneer. He can inspect property, detect common repairs, read a crowd, and write a clear lot description. He has no supernatural authority and no safe way to activate a Fault object.
+Before the Long Fracture, and at the start of the story, Adrian is a competent ordinary auctioneer. He can inspect property, detect common repairs, read a crowd, and write a clear lot description. He has no supernatural authority and no safe way to activate a Fault object.
 
 **Failure:** a technically impressive sale can still conceal a social cost, because ordinary auctions do not require the Tally to accept responsibility.
 
@@ -129,9 +139,9 @@ Adrian can write a bounded charter, split a use among several bearers, and close
 
 **How earned:** he survives a failed public auction, works with Mara to rewrite its terms, and accepts liability for a piece of his own inventory as security.
 
-**Cost:** he must post **security** before closing: a real object, skill, labor, route access, or named obligation. If the charter breaches, the security is lost and the Tally may place a visible claim mark on his record. He cannot use a promise he has not personally inspected as security.
+**Cost:** he must post **security** before closing: a real object, recognized standing, skill, labor, route access, or named obligation. If the charter breaches, the security is lost and the Tally may place a visible claim mark on his record. He cannot use a promise he has not personally inspected as security.
 
-**Hard limit:** binding cannot create consent. A person who materially refuses cannot be counted as a willing witness, though the Tally can sometimes be fooled by a coercive record.
+**Hard limit:** binding cannot create consent. A person who materially refuses cannot be counted as a willing witness, even if a coercive charter or a founder-mark forced record is mechanically recognized.
 
 ### Stage 3 — Steward
 
@@ -175,7 +185,7 @@ Adrian can help establish a durable open market: local public lot books, rotatin
 
 ## Personal overdraft
 
-When Adrian sponsors or underwrites more active claims than his recognition can support, he enters **overdraft**.
+When Adrian sponsors or underwrites more active claims than his recognition can support, he enters **overdraft**. He also enters it if he makes his recognition the shared security for a set of emergency lots opened under a public mandate: a political title alone causes no overdraft, but the enforceable recognition-backed claims count even after he withdraws the mandate.
 
 Overdraft is visible in ordinary life:
 

@@ -10,17 +10,17 @@ The region remains inhabited. Food is grown, trains run on repaired track, clini
 
 ## Historical timeline
 
-### Before the Fracture
+### Before the Long Fracture
 
-The last pre-Fracture cities used public works and private service concessions together. Water, transit, power, medical triage, and weather control were increasingly governed by **use contracts**: a company or municipality could hold the right to operate a service for a term. The contracts were meant to keep essential services running. They also allowed a holder to decide who counted as a beneficiary.
+The last pre-Long-Fracture cities used public works and private service concessions together. Water, transit, power, medical triage, and weather control were increasingly governed by **use contracts**: a company or municipality could hold the right to operate a service for a term. The contracts were meant to keep essential services running. They also allowed a holder to decide who counted as a beneficiary.
 
-The final months before the Fracture saw a public effort to place the region’s emergency rights into one open settlement. The effort was called the **Common Measure**. It was never completed.
+The final months before the Long Fracture saw a public effort to place the region’s emergency rights into one open settlement. The effort was called the **Common Measure**. It was never completed.
 
 ### The Long Fracture — Year 0
 
 At 03:17, a chain of service contracts failed across the basin. Control boards failed, hospitals lost their triage permissions, and rail signals began accepting destinations that had not been entered. The physical disaster was real: floodwater, fires, blackouts, and collapse. The lasting change was political and physical. In its wake, ordinary places could preserve a local rule only by repeatedly paying a cost.
 
-The first survivors called the event the **Fracture**. No single person is confirmed as its sole cause, although the later investigation establishes that the failed Common Measure was the trigger, not a natural disaster or an outside invasion.
+The official historical name is the **Long Fracture**; survivors often shorten it to the **Fracture**. These are two names for the same Year 0 event, not separate disasters. No single person is confirmed as its sole cause, although the later investigation establishes that the failed Common Measure was the trigger, not a natural disaster or an outside invasion.
 
 ### The First Tally — Years 1–3
 
@@ -32,7 +32,7 @@ Early closings were improvised and dangerous. People bought the right to use a w
 
 Guilds, municipal Wardens, and caravan companies fought over the most useful anchor lots. A charter became a weapon, a passport, and a financial asset. Some cities stabilized by limiting charters to public terms. Others sold future labor to underwriters and left ordinary residents with a nominal right they could never exercise.
 
-The Tally never declared a winner. It continued to accept any settlement whose terms were internally coherent, including a settlement designed to benefit one faction.
+The Tally never declared a winner. Outside the founder's emergency process, it continued to accept any consensual settlement whose terms were internally coherent, including a settlement designed to benefit one faction.
 
 ### Present day — Year 17
 
@@ -59,10 +59,12 @@ Activation requires all of the following:
 1. **A named use.** Someone states what change is intended.
 2. **A defined bearer.** The person or group who will physically operate or carry the object.
 3. **A toll path.** The Tally must be able to identify what is paid and when.
-4. **Witnesses.** The people affected, the person operating the lot, and a person able to record the terms must understand the stated limits.
+4. **Witnesses.** At least two independent witnesses must understand and freely accept the disclosed role after full disclosure. The operator and materially affected people must also understand the limits and retain a real chance to refuse; a Custodian's substitution does not count as their consent.
 5. **A term.** The use lasts for a stated duration or until a stated condition ends.
 
 A person can change a term only by opening a new settlement. It is not possible to quietly reinterpret an active charter.
+
+The founder's mark is the sole emergency exception. It can append existing active charters to a visible forced record without fresh independent voluntary witnesses and without a term limit, but that record is not a valid consensual charter. The exception does not create consent, authorize a new use, or remove the recorded toll and backwash. Because a forced record is only an emergency claim, a later valid consensual closing may expressly replace it for the named lots by identifying the override, stating the remedy, and receiving acceptance from at least two fresh independent witnesses.
 
 ### Renewal and change
 
@@ -84,7 +86,7 @@ Backwash can be reduced, transferred, or pooled, but never erased. A public lot 
 
 A person may physically own an inert object. The Tally does not grant ownership of a rule or a person. Activating an anchor without a charter leaves the operator as a **bare claimant**: the Tally assigns the immediate toll to them and may refuse to recognize any later claim.
 
-A valid **charter** grants only a defined use of an object for a stated term. It does not grant ownership, the right to alter the object, the right to compel another person, or the right to resell the underlying rule without a new settlement.
+A valid **charter** grants only a defined use of an object for a stated term. It does not grant ownership, the right to alter the object, the right to compel another person, or the right to resell the underlying rule without a new settlement. A founder-mark forced record is enforced as an emergency claim over already active charters, not as ownership of a lot or a person's valid consent.
 
 A charter must include:
 
@@ -94,7 +96,7 @@ A charter must include:
 - the duration and territory;
 - the toll and the point at which it is paid;
 - the release, return, or destruction condition;
-- a witness and a way to dispute a breach.
+- at least two independent witnesses and a way to dispute a breach.
 
 Money is one valid form of consideration. So are food, labor, care, a route, a skill, a share of future harvest, or a promise that can be checked. The Tally can record a promise; it cannot decide whether the promise was kind or whether the person had meaningful alternatives.
 
