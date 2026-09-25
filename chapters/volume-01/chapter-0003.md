@@ -98,7 +98,7 @@ Mara’s pencil stopped. She had expected him to make the medicine an argument. 
 
 “Where is the shipment now?” she asked.
 
-“East of the underpass. The messenger says the fever cases have one day.”
+“East of the underpass, on this side of the water. The ward is in Ward Nine. The messenger says the fever cases have one day.”
 
 “By whose estimate?”
 
@@ -154,7 +154,7 @@ The word **Tally** entered the room and changed its shape. Nessa looked up from 
 
 “St. Orra records?” Tarin asked from the back room. He had been listening without appearing to listen, which was one of his more useful habits.
 
-“No. The old municipal series from the west bank, before the flood. The records were moved during the first winter.” Mara looked at Adrian. “You said it came from a bus.”
+“No. The old municipal series from the central bank, before the flood. The records were moved during the first winter.” Mara looked at Adrian. “You said it came from a bus.”
 
 “Runner said so.”
 

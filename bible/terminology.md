@@ -47,13 +47,17 @@ The moment when at least two independent witnesses freely accept a disclosed cha
 
 A narrow, previously closed charter that names a finder, an unactivated anchor lot, a receiving bonded depot, a custody term, two witnesses, and a remedy for unclaimed delivery. It authorizes physical custody only, never activation, use, ownership, or a bearer role. Contact is not activation. A missing or incomplete transfer does not make the object safe to move; it leaves the person handling it exposed as a bare claimant.
 
+### Sealed page
+
+A sheet held by the registrar that names a person a charter must identify but may not publish, usually a responsible party drawn from a household that refuses to appear in a public book. The public entry carries the group, count, steward, destination, and remedy instead. A sealed page opens only when the remedy is called. It hides a location, not a duty: the person named keeps the right to refuse care and to challenge the closing, and the bearer's duty is unchanged.
+
 ### Forced record
 
 A visibly marked, mechanically recognized emergency record that the founder's mark attaches to one or more already active charters. It bypasses fresh independent voluntary witnesses and the term limit on a linked settlement; it does not supply consent or make anyone a willing bearer. A valid consensual closing that expressly identifies the override, states its replacement remedy, and receives acceptance from at least two fresh independent witnesses supersedes the forced record for the lots it names.
 
 ### Witness
 
-A person who understands the material terms, acts independently, and freely accepts the stated role after full disclosure. Consensual closings require at least two fresh witnesses. A witness is not a decorative signature. An affected person can refuse, and neither a coerced signature nor the Custodian's emergency substitution creates valid consent.
+A person who understands the material terms, acts independently, and freely accepts the stated role after full disclosure. Consensual closings require at least two fresh witnesses. A witness is not a decorative signature. An affected person can refuse, and neither a coerced signature nor the Custodian's emergency substitution creates valid consent. Where a toll takes the memory of purpose, a witness does not travel on the lot they witness: the toll would take the memory the remedy asks about, so the required pair stays where it can still remember.
 
 ### Toll
 

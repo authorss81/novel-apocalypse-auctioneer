@@ -59,7 +59,7 @@ Activation requires all of the following:
 1. **A named use.** Someone states what change is intended.
 2. **A defined bearer.** The person or group who will physically operate or carry the object.
 3. **A toll path.** The Tally must be able to identify what is paid and when.
-4. **Witnesses.** At least two independent witnesses must understand and freely accept the disclosed role after full disclosure. The operator and materially affected people must also understand the limits and retain a real chance to refuse; a Custodian's substitution does not count as their consent.
+4. **Witnesses.** At least two independent witnesses must understand and freely accept the disclosed role after full disclosure. Where the toll takes the memory of purpose, the required witnesses do not travel on the lot they witness, because the remedy depends on their being able to say later what they accepted. The operator and materially affected people must also understand the limits and retain a real chance to refuse; a Custodian's substitution does not count as their consent.
 5. **A term.** The use lasts for a stated duration or until a stated condition ends.
 
 A person can change a term only by opening a new settlement. It is not possible to quietly reinterpret an active charter.
@@ -101,6 +101,8 @@ A charter must include:
 Money is one valid form of consideration. So are food, labor, care, a route, a skill, a share of future harvest, or a promise that can be checked. The Tally can record a promise; it cannot decide whether the promise was kind or whether the person had meaningful alternatives.
 
 A public lot may place a dangerous object in documented public custody under a stated steward term. The registrar, the seller, and the current public steward must be present to open the case, and the term must be renewed or allowed to expire in public. Custody limits handling; it does not create a new use, ownership right, or bearer role.
+
+A public record may also protect a person it still has to account for. A **sealed page** is a sheet held by the registrar that names a person who must be identified for a charter to be valid but may not be published — usually a responsible party drawn from a household that refuses to appear in a public book. The public entry carries the group, the count, the steward, the destination, and the remedy. The sealed page is opened only if the remedy is called, and the person it names keeps the right to refuse care, challenge the closing, and say so on the record. A sealed page is not a private list: it does not remove the bearer's duty, and it does not become a second registry that anybody can inspect.
 
 ## Geography
 
@@ -161,6 +163,10 @@ Independent caravans, repair crews, and settlement councils. Road Houses keep th
 ### The Unlisted
 
 People who have been erased from official records, refused registration, or disappeared when a toll was assigned to the wrong person. The Unlisted include smugglers, fugitives, people protecting children from state conscription, and communities that remember the cost of being visible. They use paper copies, songs, and trusted witnesses to maintain continuity.
+
+### Closing boards
+
+Small local panels that keep a public lot book beside a working sale floor. A board has a fixed number of seats: a registrar or clerk, the sitting steward, and places held by whoever in the room has no claim on the lot and will take a seat. The unclaimed seats turn over often enough that the board cannot be bought by buying its members. A board can refuse to record a closing, publish a result, call a review, and set or renew a short public custody term. It cannot grant a use, cannot waive a toll, and does not vote on whether people should be brave. Boards are cheap, local, and easy to lose: a board with no unclaimed seats is a private one wearing a public sign.
 
 ### The Quiet Registry
 

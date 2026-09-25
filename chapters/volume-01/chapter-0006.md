@@ -18,7 +18,7 @@ Not a new wall. A service wall, old and low, with a corrugated door that should 
 
 Tarin hit the horn once. The sound was too loud and too close.
 
-Adrian grabbed the map from the inspection block. The Ward Nine bell post was drawn three streets west. The maintenance bay was drawn on Tarin’s newer route, a hazard marked in faded red. The black road had taken the bus to the wrong version of the same place.
+Adrian pulled Tarin’s patched map off the inspection block. The Ward Nine bell post was drawn three streets west. His own small red ring sat inside the driver’s wide one, and the maintenance bay was marked in faded red as a hazard, with the newer road bending around it the way water bends around a stone. The black road had taken the bus to the wrong version of the same place.
 
 “I can bring it back,” Adrian said.
 
@@ -47,7 +47,7 @@ RETURN CLAIM: OPEN. NO VALID SETTLEMENT.
 
 The words blurred. He read them twice, and the second reading was not clearer. That was not a promise of danger. It was evidence that the object was treating his contact as part of the claim. He had become the person the Tally could name when the route failed.
 
-The metal left a metallic taste on his tongue. His right hand went numb from the fingertips to the wrist. When he looked at the map, he could not remember drawing the red circle around the east platform. He knew the lines were important. He did not know why.
+The metal left a metallic taste on his tongue. His right hand went numb from the fingertips to the wrist. When he looked at the patched map, he could not remember drawing the red ring on it. He knew the lines were important. He did not know why.
 
 Mara saw his hand slip. “Sit down.”
 

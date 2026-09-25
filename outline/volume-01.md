@@ -71,6 +71,7 @@ By the end of Volume 01:
 ### Chapters 10–16: The first public road
 
 - Adrian, Mara, Tarin, and two fresh independent witnesses close one bounded public charter. A medicine load and a small school shelter group cross once; the return memory toll is real, and the token's instability is visible.
+- The board then runs a second bounded closing of its own, a return crossing that brings the sheltered children home from the far bank. The return marker has to be re-learned, the token takes more damage, and the children arrive able to name the platform and unable to say why they were sent.
 - A provisional closing board records the crossing, the remedy, and the people who refused to be named; the permanent public lot book is formalized during the aftermath without turning the Unlisted into a hidden exception. The public route is a practical success but not yet a stable Hearth Line.
 - Halloway's counterfeit claim is traced through Orren's stolen records and Lina's courier network. The counterfeit cannot create a valid right, but it can send people into a bare claimant's danger.
 - Selik closes the official bridge more tightly after a false-alarm evacuation. The market must decide whether to wait for a safer official route or accept a bounded public one.

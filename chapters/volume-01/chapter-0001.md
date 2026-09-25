@@ -20,7 +20,7 @@ Adrian leaned close. The lamp smelled of hot dust and old oil. He ran a thumbnai
 
 “Fifteen,” the porter called.
 
-The clinic matron at the front did not raise her bid. She said, “The regulator reads steady.”
+The clinic matron at the front did not raise her bid. She had crossed the river stairs at first light from the Ward Nine fever ward on the far bank, and she said, “The regulator reads steady.”
 
 “It will read steady while the cover is closed.” Adrian tapped the pressure housing with the wooden handle of his ruler. A thin, uneven note came from the left side. Too sharp. Metal under strain made a different sound, one he disliked making. “Threaded neck has a hairline crack. Fuel will weep at the joint once the casing warms. This is not safe for surgery.”
 
@@ -54,7 +54,7 @@ The door burst open.
 
 A messenger stood in the rain, one hand holding a folded clinic slip and the other clamped around a bicycle lamp that had not been lit. His coat was older than the weather. Water ran from the hem and made a dark pool across the sale floor.
 
-“Fever shipment,” he said. “The whole shipment. It’s sitting on the wrong side of St. Orra.”
+“Fever shipment,” he said. “The whole shipment. It came off the Ward Nine road onto the St. Orra side this morning, and the ward that needs it is back across the water. The medicine is on the wrong bank.”
 
 The room’s murmur changed pitch.
 

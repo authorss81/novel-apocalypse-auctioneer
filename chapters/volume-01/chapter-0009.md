@@ -6,7 +6,9 @@ It stood on the eastern wall of Lot 17, where the sale tickets used to hang. Mar
 
 Two lamps hooked above it. Their light caught the wet roof and turned the public record into a small bright island in the dark depot.
 
-The medicine convoy waited outside beneath a canvas cover. Six cold boxes—the two that had crossed and been recovered, and the four that had stayed on the depot rail—had been transferred to a hand cart, and the cart had been tied to the rear of Tarin’s road bus with rope that did not matter as much as everyone pretended. The school shelter group stood under the tram awning: nine children, a steward, and two escorts. The children had been told there would be a road. They had not been told what the road would take.
+Behind the board sat the panel that had painted it: the registrar, the sitting steward, and two places for anyone in the yard with no claim on the lot who cared to take one. The yard seats turned over often enough that nobody could buy the board by buying its members.
+
+The medicine convoy waited outside beneath a canvas cover. Six cold boxes—the two that had crossed and been recovered, and the four that had stayed on the depot rail—had been transferred to a hand cart, and five drivers in blue coats stood with it. The cart had been tied to the rear of Tarin’s road bus with rope that did not matter as much as everyone pretended. The school shelter group waited under the tram awning: nine children and two escorts in blue coats. Alma Dren, their steward, stood apart from them near the board, watching the bus. The children had been told there would be a road. They had not been told what the road would take.
 
 Adrian had told them.
 
@@ -68,7 +70,11 @@ The buyer looked at the school shelter. “A road is not a promise to a committe
 
 The buyer went quiet. For a moment, the rain seemed louder than the crowd.
 
-Mara stepped to the board. “Open the charter.”
+Mara stepped to the board. “The board can refuse to record a closing and it can call a review. It cannot grant a use, and it does not vote on whether people should be brave.”
+
+She set her tablet on the crate beside the lamps.
+
+“Open the charter.”
 
 Adrian placed his page beneath the lamps. The hand holding it trembled. He had rested after the rescue, but rest did not erase the toll echo. It had merely given him enough time to recognize its shape.
 
@@ -84,7 +90,7 @@ He read the terms aloud.
 
 “Toll: every traveler loses the memory of why they are making the journey. Anyone who travels back pays the memory toll again.”
 
-“Term: one activation. It ends when the second of the two named return travelers, Tarin Kest and Dessa Rill, reaches the Ward Nine platform, or at twelve minutes, whichever comes first. If either named return traveler fails to return, the term still ends at twelve minutes and the Warden remedy applies. The school group and the medicine crew remain on the far bank under Alma Dren and Oren Fisk, the clinic porter, who are named as responsible parties. There is no automatic renewal.”
+“Term: one activation. It ends when the second of the two named return travelers, Tarin Kest and Dessa Rill, reaches the Ward Nine platform, or at twelve minutes, whichever comes first. If either named return traveler fails to return, the term still ends at twelve minutes and the Warden remedy applies. The shelter group and four of the five drivers remain on the far bank, where the two escort stewards answer for the nine children and Oren Fisk, the clinic porter, answers for the boxes. There is no automatic renewal.”
 
 “Release: the token returns to the public case, the handoff is entered in the public record, and the board posts the result. No private transfer.”
 
@@ -97,6 +103,24 @@ Mara looked at the shelter steward. “State your name and role.”
 “Alma Dren,” the woman said. “School shelter steward. I have heard the terms. I accept the witness role for the shelter group. I do not accept publication of the household roll.”
 
 The clerk hesitated over the board.
+
+“Are you on the bus?” Mara asked.
+
+“The nine are mine to take over.”
+
+“Then you cannot be one of the two. A witness has to be able to say afterward, in her own words, what she agreed to, and this remedy is carried by the people who agreed to it. The toll takes the memory of why a person is traveling. If you cross, one half of the pair becomes somebody who cannot remember the terms she is being asked to enforce.”
+
+Alma turned to the bus. Adrian watched her count her obligations and arrive, as he had known she would, at the answer that cost her most.
+
+“They are children,” she said. “If the road puts them somewhere else, they need the person who knows where we meant to go.”
+
+“Then name the adults who will be with them.” Mara turned to the board. “Not in the book. On paper, sealed, with me holding it. The escorts can answer on the far bank. You can answer from this one.”
+
+“If I stay, who receives them back?”
+
+“I will,” Mara said, without looking at Adrian. “And you will hear what they say about the crossing when they come home, which is the whole of what a witness is for.”
+
+Alma was quiet long enough for the rain to be heard by everyone. “Then I stay. Put that in front of the nine, so nobody tells them I sent them and then hid.”
 
 Mara spoke first. “Record the steward’s name. Record the group as nine children and the responsible shelter. Record that the children were told the memory toll and may refuse. Do not write the household names.”
 
@@ -116,11 +140,33 @@ A freight driver stepped from the crowd. His coat carried a market-cooperative s
 
 “Ewan Latch,” he said. “I am neither a buyer nor a bearer. I accept the role of independent witness to the written terms and the remedy.”
 
-Alma Dren was not a passenger, did not drive, and did not bear the route. She was the shelter steward, and she accepted only the limited role of confirming that the shelter group had been told the terms and could refuse. The children remained free to reject her witness role through their own refusals. She was not speaking for the medicine convoy, and Ewan was not speaking for Tarin.
+Two women came up from the awning in the same blue coats. One carried the shelter’s roll folded tight in her sleeve. The other carried nothing at all.
 
-Alma Dren and Ewan Latch had not spoken to each other before. They did not need a shared history to make their acceptance independent. They needed the same facts, freely understood, and separate reasons for accepting them.
+“The roll stays shut,” the first one said. “We give you our names and you write them on a page nobody reads out loud.”
 
-Mara read the seven fields again. “Do either of you accept that the route may fail, that the toll may repeat on the return, and that the remedy may not restore memory?”
+“Two pages,” Mara said. “One for me, sealed. One for the school. The book gets the count, the steward, the destination, and the two of you as responsible parties. If anyone asks me who you are, I will say the book does not say.”
+
+“And if the road bends?”
+
+“Then the appeal still has its two witnesses, and your names are in neither the notice nor the gate.” Mara wrote the two names on a sheet, folded it twice, and pressed her seal into the fold. “You keep the other one. Neither of you signs anything in public. A mark will serve.”
+
+They marked the page instead of signing it. The second woman, the one who had come with nothing, kept her eyes on the boy who had stepped back from the bus.
+
+“He refuses,” she said. “Write that he refuses. Write that we do not argue with him.”
+
+“Already written,” Mara said.
+
+The boy came back to the rail. “Alma. If I say no, does your name still stand for us?”
+
+Alma considered him. “My name stands for what I was told and what I agreed to. Not for you. If you refuse, I will say that you refused and that I did not argue.”
+
+“Write the small part too.”
+
+Mara wrote it. Ewan Latch, who had not spoken to Alma and did not need to, said, “I promise a different thing. I promise the terms I signed are the terms on the page, and I will say so in front of the board.”
+
+Mara wrote that as well, under a different line, in a different hand. Two acceptances that did not have to agree with each other in order to be true.
+
+Mara went back down the list, from the lot to the remedy. “Do either of you accept that the route may fail, that the toll may repeat on the return, and that the remedy may not restore memory?”
 
 “Yes,” Alma said.
 
@@ -140,7 +186,7 @@ Orren’s face tightened. “I could be counted if I gave a name.”
 
 “No. A witness is not a signature collected because a person is useful.”
 
-He looked at Adrian. “You asked me to check the record.”
+He turned to Adrian. “You asked me to check the record.”
 
 “I asked you to find the lie. You did.”
 
@@ -166,19 +212,21 @@ Mara repeated it in the record. “The destination and reason are recorded. They
 
 Mara turned to Tarin. “You are the only bearer. Do you accept the role, the memory toll on both legs, the marked return, and the right to stop before you take the token?”
 
-Tarin looked at the bus, then at the school children. “Yes. I accept on those terms. If the route bends, I stop carrying forward and take the marked platform when I can. If I refuse before boarding, the charter does not open.”
+Tarin took in the bus, then the school children. “Yes. I accept on those terms. If the route bends, I stop carrying forward and take the marked platform when I can. If I refuse before boarding, the charter does not open.”
 
 “Recorded,” Mara said. “You may still refuse until the token leaves the case.”
 
-Mara turned to Alma and Oren Fisk, a broad-shouldered clinic porter in a blue coat whose name was written on the cold-chain sheet. “You are named as the responsible parties who remain with the shelter group and the medicine crew on the far bank. Do you accept that duty?”
-
-“Yes,” Alma said.
+Mara turned to Oren Fisk, a broad-shouldered clinic porter in a blue coat whose name was written on the cold-chain sheet, and then to the two escort stewards. “You are the responsible parties who remain on the far bank with the shelter group and the medicine crew. Do you accept that duty?”
 
 “Yes,” Oren said. “I will answer for the boxes, not for the people who refuse.”
 
-Adrian felt the Last Fare’s reading settle into a painful order. Use. Toll. Standing. The three pieces were clear, and each piece carried a boundary he could not cross by wanting it to. The token was unstable. The route might bend. He did not know whether the memory would return in fragments, or whether Dessa would remember the destination but forget the person who needed her to remember it.
+“Yes,” said the escort with the sealed roll. “And for the nine.”
 
-He had read enough to know that certainty was not the same as safety. It was merely a more dangerous kind of uncertainty.
+“Yes,” said the other. “They will not be able to tell anyone why they are there. Answer for them anyway.”
+
+Adrian felt the Last Fare’s reading settle into a painful order. Use. Toll. Standing. Each piece carried a boundary he could not cross by wanting to. The token was unstable. The route might bend. He did not know whether the memory would come back in fragments, or whether Dessa would reach Ward Nine and forget the person who needed her to remember it.
+
+He had read enough to know that certainty was not safety, and that a man who had just made a room full of frightened people a promise would remember having said so.
 
 Mara stepped back. “The charter is open. Anyone who understands the terms may refuse. No one may be added after the bearer takes the case.”
 
@@ -192,7 +240,7 @@ Adrian stepped onto the tram rail. The route began at Lot 17, ran beneath the tr
 
 The depot lamps dimmed. Rain ran sideways across the windows. A dark line opened outside, not a road this time but the space where a road had been agreed to exist.
 
-Mara looked at him. “If you cannot close it, say so.”
+Mara waited. “If you cannot close it, say so.”
 
 “I cannot predict it.”
 
@@ -208,7 +256,7 @@ Mara looked at him. “If you cannot close it, say so.”
 
 The witnesses accepted again after the final disclosure. Alma and Ewan spoke their names. Tarin took the driver’s seat. Dessa climbed aboard and repeated Ward Nine under her breath, the reason attached to the place.
 
-The medicine boxes went into the rear bay. The children boarded with their shoes in their hands. One more passenger refused and stepped away. Adrian marked the refusal on the public board and did not offer a private alternative.
+The medicine boxes went into the rear bay. The children boarded with their shoes in their hands, and there were eight of them where the record said nine. A relief driver off the St. Orra staging line, not one of the convoy, gave back the place that had been held open for him and stepped away. Adrian marked both refusals on the public board and did not offer a private alternative to either.
 
 Tarin closed the bus door.
 
@@ -218,11 +266,13 @@ The token turned in the slot. The dark line outside widened. The bus rolled into
 
 For the first minute, the depot heard only rain.
 
-On the second, the engine note rose and fell as if the bus were traveling over a road remembered from below. A child pressed her forehead to the glass. Another asked her steward where they were going. Alma answered with the same words the record had given her, and the child seemed satisfied for the moment.
+On the second, the engine note rose and fell as if the bus were traveling over a road remembered from below. A child pressed her forehead to the glass. Another asked her escort where they were going. The escort answered in the same words the record had given her, and the child seemed satisfied for the moment.
 
 At the third minute, the road bent. The far bank appeared at the wrong height, as if the river wall had been moved aside by a careless hand. Tarin corrected. The bus climbed through a street that did not exist on any map, then dropped onto a service ramp and found the far platform.
 
-The school children crossed first, guided by their escorts. The medicine crew followed with the cold boxes. Adrian kept his hand on the fare box and felt the route pull against his mind. The memory toll came in a series of small, hard knocks: he could remember the clinic, the children, the term, and the reason for the crossing, but each fact arrived with a gap around it. The gaps widened.
+The school children crossed first, guided by their escorts. The four drivers who were staying followed with the cold boxes, walking backward a step at a time to keep the load level, and one of them held a child’s hand because children on a road like this tended to stop walking.
+
+Adrian stayed on the tram rail with his palm on the fare box. He was not on the bus. He was not the bearer. The road knew the difference, and what it took from him was the echo: the taste of old coins, the yard going flat at the edges of the sound, his right hand going slack inside his own grip. Every term he had read was still in his head. He simply found that holding all of them had become something he did at a distance, the way a man watches a fire from the far side of a street.
 
 Tarin and Dessa returned through the opening. The bus came back toward the old bell post, its lights appearing one by one through the rain. The Ward Nine shelter steward waited beneath the broken canopy.
 
@@ -240,8 +290,10 @@ Dessa frowned.
 
 The route closed before the twelfth minute. The dark line vanished. The token remained in the slot, cracked through one side, with a bright hairline reaching toward its center.
 
-A Warden reached the bus with insulated tongs and lifted the token free. He placed it in the glass case, and Mara recorded the handoff in the public book: **release complete, no private transfer.** Adrian signed beneath her entry. Selik’s Wardens marked the platform. Orren copied the mark. Alma Dren counted the children and did not count the names.
+A Warden reached the bus with insulated tongs and lifted the token free. He placed it in the glass case, and Mara recorded the handoff in the public book: **release complete, no private transfer.** Adrian signed beneath her entry. Selik’s Wardens marked the platform. Orren copied the mark. Alma Dren signed the release under him, having checked it against the record without writing a single name into it.
 
 The medicine had crossed. The school shelter had crossed. The return had ended at the promised point.
+
+Mara counted the toll aloud, in order, so the yard could hear it. Eight children and two escort stewards on the far bank. Four in the medicine crew. Two travelers coming home who could no longer say why they had gone. Sixteen people had paid. One of the nine named children was standing dry against the rail, and the record said only that he had refused and that no one had argued with him. It did not say why. The two who had promised to be able to describe it afterwards were also on this side of the Fault.
 
 The loss was already walking away from the bus.

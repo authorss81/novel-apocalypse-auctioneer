@@ -4,6 +4,8 @@
 
 Write the next ten chapters of *The Apocalypse Auctioneer* as complete, finished scenes in `chapters/volume-01/chapter-0011.md` through `chapter-0020.md`. This is the second prose batch of Volume 01. Do not create an outline in place of prose. Keep the pressure alternating between political work, investigation, recovery, negotiation, and the limited action of a public route. Do not introduce a new System, a new final enemy, a second blank lot, or a permanent solution to the Hearth Line.
 
+The approved chapter cards live in `outline/batches/volume-01-batch-0002.md`. That file is the plan of record. The card text below is a working digest of it. Where they differ, the approved outline wins, and any further deviation gets written into `state/batch-0002-summary.md` when the batch closes rather than back-edited into the plan.
+
 Read before writing:
 
 - `AGENTS.md`
@@ -13,7 +15,7 @@ Read before writing:
 - `outline/ending.md`
 - `outline/volume-01.md`
 - `outline/batches/volume-01-batch-0001.md`
-- `outline/batches/volume-01-batch-0002.md` if it exists
+- `outline/batches/volume-01-batch-0002.md`
 - `state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/chapter-summaries.md`, `state/character-state.md`, `state/batch-0001-summary.md`, and `state/volume-01-summary.md`
 - The complete previous batch, Chapters 1–10, for voice and immediate continuity. Extend backward only if context remains safe.
 
@@ -23,24 +25,35 @@ Convert the first successful but fragile Last Fare crossing into a public servic
 
 ## Starting state
 
-- Year 17 after the Long Fracture. The first public Last Fare crossing is complete, several days ago.
+- Year 17 after the Long Fracture. The first public Last Fare crossing is complete, several days ago. Alder Reach is on the eastern bank of St. Orra; the Ward Nine fever ward, the school shelter's destination, and the city's receiving stations are on the older central bank across the water.
+- "Ward Nine" names a district and a platform on opposite banks. The ward, its clinic lines, and the destination are across the water. The Ward Nine old platform and its one-armed bell post are on the near side, on the Lot 17 apron, which is why the first charter's marked return brought the bus home to Alder Reach rather than to Ward Nine. Tarin's loading spur behind the school shelter is on that near side too. The route crosses; the return lands beside Lot 17.
 - The Last Fare is cracked after two activations and is in a documented public case at Lot 17. It is not freely reusable. Repeated use may strand the route permanently.
 - The Last Fare opens one route across St. Orra for twelve minutes. Every traveler loses the memory of why they are traveling. Anyone who travels back pays again.
 - The route requires a driver who knows pre-Fracture Line Six, a marked return at the Ward Nine bell-post platform, and a passenger who can remember the destination. Tarin Kest is the sole bearer of the first public charter. Dessa Rill was separately named as the return traveler and returned without knowing why she had traveled.
-- Adrian Vale is Stage 1 Reader. He can read use, immediate toll, and standing on one contacted lot, but contact costs him a toll echo: exhaustion, metallic taste, sensory distortion, hand weakness, or memory gaps. He cannot predict, read continuously, transfer or renew a charter, split a use among bearers, or post security. He is not a Binder.
+- Sixteen people paid the toll on that crossing, and one of the nine children named as beneficiaries refused to board. Tarin can still drive the marked route and cannot say why he carried the medicine. Dessa can still name Ward Nine and cannot say why she went. Eight children, two escort stewards, and four of the medicine crew are on the far bank; the stewards accepted duty for nine and answer for the eight that went, and the boy who refused is on this side.
+- Where a toll takes the memory of purpose, a witness does not travel on the lot they witness, because the remedy depends on their being able to say later what they accepted. Alma Dren and Ewan Latch both stayed on the near bank, and the appeal path still has its pair.
+- The public lot board is a constituted four-seat panel: the registrar, the sitting steward, and two rotating seats held by whoever in the yard has no claim on the lot. It can refuse to record a closing and call a review. It cannot grant a use. Lot 17 has a public lot book, a seven-day steward term held by Nessa Pell, a sealed-page rule for responsible parties who must be identified, a protected-name rule for households, and a public appeal path.
+- Adrian Vale is Stage 1 Reader. He can read use, immediate toll, and standing on one contacted lot, but contact costs him a toll echo: exhaustion, metallic taste, sensory distortion, hand weakness, or memory gaps. He cannot predict, read continuously, transfer or renew a charter, split a use among bearers, or post security. He is not a Binder. He has lost no memories as a traveler; the echo is a reading cost, and the Chapter 6 gaps came from the bare-claimant toll he paid as default bearer without ever boarding.
+- Adrian has signed a public undertaking in the lot book: before any next use he will state the full known toll, the return toll, the unresolved terms, and the remedy, and he will not use a private promise to make a public charter appear complete. Chapters 18–19 break that signature. See the flag below.
 - Mara Quill has created a public lot book, public custody, a fresh-witness rule, a remedy/appeal path, and a protected-name channel. She is a collaborator, not Adrian's deputy or romantic resolution.
 - Tarin remembers the road but not why he drove it after the failed activation. He insists on a named return point and a visible return toll. Bryn, his son, is an ongoing personal pressure but not a plot rescue.
 - Orren Pike recovered the original manifest, exposed Halloway Reed's counterfeit, and kept Sela Pike's name out of the public book. He is an uneasy apprentice and record thief, not a converted loyal clerk.
 - Lina Vale remains Unlisted by choice. She and her courier network protect households while helping the public route.
-- Selik Marne's official bridge is lawful, effective, and controlled through named manifests. A supervised review of its terms is pending. He has not become a secret villain and has not been defeated.
+- Selik Marne's official bridge is lawful, effective, and controlled through named manifests. A supervised review of its terms is pending and has been shortened. He has not become a secret villain and has not been defeated.
 - Halloway Reed's counterfeit uses a false salt-loading return and hides a seven-day repair-labor term. His argument that honest labels let wealthier buyers win remains credible. His carriers can still be tempted by a cheap claim.
 - The broken-circle mark appears on the Last Fare, the counterfeit, the original manifest, and an unread regional record. Its origin is unknown. Iven Tallow remains presumed dead from Adrian's point of view. The blank lot's function is still unknown.
+
+## Two beats that must survive
+
+**1. Selik's false-alarm evacuation (Chapter 12).** `outline/volume-01.md` places "Selik closes the official bridge more tightly after a false-alarm evacuation" in Chapters 10–16. A shortened review alone does not earn it. During Mara's review, a gauge faults, the span reports movement, and Selik evacuates the deck with no exceptions. A guardian who had just been granted a provisional berth is turned back with her feverish child. The alarm proves to be a false alarm, a chalked mark or a bent float, and the span is sound. The evacuation is still correct, and it costs the people with the least margin. Selik tightens the manifest in the same breath, and Mara records the false alarm and the evacuation together so the tightening is not free caution. This is what makes Chapters 27–33 work, where Selik argues from the failure for a permanent Warden route.
+
+**2. The breach of a signed public promise (Chapters 18–19).** Adrian's undertaking is already signed and public (Chapter 10). Concealing the return leg is therefore a breach, not a drafting error, and the escalation from Chapter 5 is partial rather than total nondisclosure: he states the memory toll in general terms and conceals the return specifically. Someone must name the breach out loud in Chapter 18, and Adrian must answer with the reasoning that makes a signed promise non-binding — the outward crossing is the emergency, the return term can be written within the hour, and nobody is deceived because nothing has happened yet. That argument has to be plausible enough to be understood and ugly enough that nobody in the room accepts it. It is the shape of his flaw, and it is the volume's most important beat.
 
 ## Pressure and pacing
 
 - Chapters 11–12: recovery and political pressure after the first crossing.
 - Chapters 13–14: counterfeit investigation and the Unlisted boundary under public scrutiny.
-- Chapters 15–16: practical route work, witness training, and the public board's first institutional test.
+- Chapters 15–16: practical route work, witness training, and the public board's first institutional test, which is the closing that brings the eight children home from the far bank.
 - Chapters 17–18: larger medicine crisis, discovery, and the moral temptation to sell a route that appears complete.
 - Chapters 19–20: the first full public auction and its apparent outward success, ending with the return problem visible but not yet fully resolved.
 
@@ -60,7 +73,7 @@ Do not make every chapter an auction, a fight, or a System notice. Use recovery,
 
 **Major turn:** The market cooperative, clinic, and school shelter each arrive with a legitimate need, but their needs cannot all fit in one twelve-minute route. Adrian realizes the Hearth Line is no longer a question of whether the road works; it is a question of who gets to define a fair use.
 
-**Emotional/practical consequence:** Adrian is forced to admit that his public reading can describe a route but cannot rank the people who need it.
+**Emotional/practical consequence:** Adrian is forced to admit that his public reading can describe a route but cannot rank the people who need it. He also catches himself wanting the ranking, and says so, because wanting it is the whole reason the board exists.
 
 **Ending:** A courier brings news that Selik's bridge review has been shortened, while a private buyer has already paid Halloway for the next crossing. The public board must be defended before the medicine arrives.
 
@@ -73,6 +86,8 @@ Do not make every chapter an auction, a fight, or a System notice. Use recovery,
 **Immediate goal:** Turn Selik's supervised bridge review into a real test of whether visibility is the only safe condition.
 
 **Resistance:** Selik has a legitimate record of bridge failures and will not release a manifest rule without evidence. Halloway sends a witness who says disclosure always becomes a weapon against the poor. A feverish guardian and her child need care, and the child's household is not cleanly registered.
+
+**Required beat — false-alarm evacuation:** partway through the review a Warden gauge on the span faults and the span reports movement. Selik evacuates the deck — everyone off, counterweight locked, no exceptions — and the guardian with the provisional berth is turned back with her feverish child. The reading turns out to be a false alarm, a chalked depth mark mistaken for a hairline crack or a gauge with a bent float, and the span is sound. The evacuation was still correct. Selik tightens the manifest requirement in the same breath, because a span that can report a fault it cannot explain is not one he will carry passengers on. Mara records the false alarm and the evacuation together so the tightening cannot pass as free caution.
 
 **Major turn:** Mara finds a bridge record where the manifest was used to identify a missing person after a fault, but also finds that the same rule can expose an Unlisted household. She proposes a supervised group designation, a responsible steward, and a public appeal, rather than either universal naming or silent exclusion.
 
@@ -100,7 +115,7 @@ Do not make every chapter an auction, a fight, or a System notice. Use recovery,
 
 **POV:** Lina Vale.
 
-**Location/time:** A kitchen exchange in Ward Nine, morning; a public complaint board has been copied onto a wall and the school shelter is preparing to move.
+**Location/time:** A kitchen exchange in Alder Reach, morning; a public complaint board has been copied onto a wall. Eight of the shelter's nine children are across the water at Ward Nine and one is here at the yard where he refused to board, and the exchange is deciding what to do about a family in two places.
 
 **Immediate goal:** Protect the shelter's children from the next manifest while securing a route that does not depend on a municipal list.
 
@@ -132,17 +147,19 @@ Do not make every chapter an auction, a fight, or a System notice. Use recovery,
 
 **POV:** Mara Quill.
 
-**Location/time:** Lot 17 and the public board, late afternoon; the first charter is copied into the lot book while a crowd argues about a second opening.
+**Location/time:** Lot 17 and the public board, late afternoon into evening; the first charter is copied into the lot book while a crowd argues about a second opening, and the eight children on the far bank are still waiting on the other side of the Fault.
 
-**Immediate goal:** Establish the public lot book as an actual service with a challenge path, not a ceremonial record written after Adrian's decisions.
+**Immediate goal:** Establish the public lot book as an actual service with a challenge path, not a ceremonial record written after Adrian's decisions — and give the board its first real job by running the second closing, the one that brings the far-bank party home.
 
-**Resistance:** Selik's review has not concluded. Halloway's counterfeit is still cheaper for some families. The Ward Nine cooperative wants priority. Adrian wants to open the route before the next shipment. A public board can become another gate if its rules are too slow or too abstract.
+**Resistance:** Selik's review has not concluded. Halloway's counterfeit is still cheaper for some families. The Ward Nine cooperative wants priority. Adrian wants to open the route before the next shipment. A public board can become another gate if its rules are too slow or too abstract. The return marker from Chapter 15 is not the one the first charter used, so the second closing has to be written rather than copied, and a returning group of children is harder to put on a bus than an outbound one.
 
-**Major turn:** Mara creates a public schedule for proposals: a route request, a disclosed toll, a named bearer, a term, a remedy, two fresh witnesses, and a way for affected people to refuse. She rejects a permanent grant and rejects Adrian's private guarantee. Adrian agrees to make the next proposal public before activation.
+**Required beat — the far-bank return:** the second closing is a return crossing, and it brings the eight children, the two escort stewards, and the four drivers who stayed home from the far bank. They come back able to name the platform and unable to say why they were sent there. The boy who refused stays dry on the near bank for the whole chapter and is the one person who can tell the room what the crossing cost, which is the account the book needs and cannot invent. The stewards answer for the eight out loud. Nobody is quietly written off as accounted for. The token takes more visible damage. Two canon requirements must be honored in the closing itself: the Last Fare needs a driver who knows the route and a passenger who can remember the destination, and Dessa has already lost the memory that made her qualify, so the return charter must name a new remembering passenger and say plainly what that person is being asked to carry. And the eight children have already paid the toll once; nobody may quietly treat a second payment as more of the same, because whether anything is left to take from them is the most interesting fact in the chapter.
 
-**Emotional consequence:** Mara's process begins to work on someone other than Adrian. Adrian experiences the loss of control that comes from making his reading answerable, and finds that the loss is preferable to another private exception.
+**Major turn:** Mara creates a public schedule for proposals: a route request, a disclosed toll, a named bearer, a term, a remedy, two fresh witnesses, and a way for affected people to refuse — and then runs the first proposal through it. She rejects a permanent grant and rejects Adrian's private guarantee. Adrian agrees to make the next proposal public before activation.
 
-**Ending:** The clinic announces a larger shipment than the first one: medicine, repair crews, and a school shelter group must all move within the same crisis window. The public board now has a demand larger than its first charter can honestly carry.
+**Emotional consequence:** Mara's process works on someone other than Adrian for the first time, and she discovers what her own rule costs: eight children come home protected by a category she invented, and not one of them can say what was done to them. She has to choose between a book that hides households and a room where a loss can be heard. Adrian watches her choose the hearing.
+
+**Ending:** Two crossings have worked, and the news travels faster than the token does. A second, larger shelter group arrives asking for the same road, and the clinic announces a shipment larger than the first one: medicine, repair crews, and a school shelter group must all move within the same crisis window. The public board now has a demand larger than its charter can honestly carry.
 
 ### Chapter 0017 — The Larger Shipment
 
@@ -152,7 +169,7 @@ Do not make every chapter an auction, a fight, or a System notice. Use recovery,
 
 **Immediate goal:** Determine whether the larger shipment can be moved safely under one public charter, or whether the community must accept a divided, less satisfying route.
 
-**Resistance:** The shipment is politically irresistible. Selik's official bridge can move some loads but not all. Halloway offers a complete private package that appears faster. The school shelter's children and the Unlisted households need the same access as the clinic. Adrian's hand and memory make a long reading expensive.
+**Resistance:** The shipment is politically irresistible. Selik's official bridge can move some loads but not all. Halloway offers a complete private package that appears faster. A second and larger shelter group — not the eight who came home, but people who saw them come home — needs the same access as the clinic, and so do the Unlisted households. Adrian's hand and memory make a long reading expensive.
 
 **Major turn:** Adrian realizes that waiting for a perfect public process may cost lives, but a private bargain will hide the return cost. He begins drafting terms for a full public auction, asking Tarin, Mara, Orren, Lina, Selik, and the affected groups to make the terms harder to misuse.
 
@@ -164,11 +181,13 @@ Do not make every chapter an auction, a fight, or a System notice. Use recovery,
 
 **POV:** Adrian Vale.
 
-**Location/time:** Lot 17 back office, night; the public board is covered with a new auction sheet and the private workshop inventory is being counted.
+**Location/time:** Lot 17 back office, night; the public board is covered with a new auction sheet and the private workshop inventory is being counted. The second and larger shelter group boards in the yard, not the eight children from the first crossing.
 
 **Immediate goal:** Write terms detailed enough to attract the medicine convoy, repair crews, shelter families, and Wardens while keeping the route inside one activation.
 
 **Resistance:** Every group wants a different bearer or destination. Selik demands a manifest. Halloway offers a private guarantee. Adrian knows the return memory toll is real but cannot prove how the route will handle a larger group. Mara demands that the return leg be named before the sale.
+
+**Required beat — breach of a signed public promise:** Adrian signed in the lot book, in front of the room, that before any next use he would state the full known toll, the return toll, the unresolved terms, and the remedy, and that he would not use a private promise to make a public charter appear complete. Write this as a breach of that signature. Someone says so out loud — Mara, Tarin, or Selik — and Adrian answers with the sentence he tells himself makes a promise non-binding: the outward crossing is the emergency, the return term can be written within the hour, and nobody is being deceived because nothing has happened yet. The reasoning must be plausible enough for a reader to follow and ugly enough that nobody in the room accepts it.
 
 **Major turn:** Adrian treats the return as a technical extension of the outward term and postpones its full disclosure until after the outward crossing. He uses a private workshop guarantee—an inspectable press, a promised repair-crew term, or equivalent inventory—to make the sale appear financially secure without putting the guarantee in the public book. This is a changed decision born of his desire to keep control, not a new power.
 
@@ -182,7 +201,7 @@ Do not make every chapter an auction, a fight, or a System notice. Use recovery,
 
 **Location/time:** Lot 17 sale floor and the St. Orra staging line, dawn; rain, lamps, the public board, and a crowd larger than the room can safely hold.
 
-**Immediate goal:** Close one public charter for the larger shipment and make the outward crossing look like a decisive civic victory.
+**Immediate goal:** Close one public charter for the larger shipment — medicine, repair crews, and a second, larger shelter group, not the eight who already crossed once — and make the outward crossing look like a decisive civic victory.
 
 **Resistance:** The counterfeit is circulating among the crowd. Selik's Wardens are watching for an overclaim. Tarin is the only credible bearer, and the return standing is not fully understood. Unlisted participants fear the manifest. Families are desperate enough to accept terms they have not read. The medicine's cold chain will not wait for perfection.
 
@@ -190,7 +209,7 @@ Do not make every chapter an auction, a fight, or a System notice. Use recovery,
 
 **Emotional consequence:** Adrian experiences the familiar relief of a problem obeying a visible action. He believes he has made a route answerable to the public while still keeping the most dangerous term in his own hands.
 
-**Ending:** The bus enters the route with the medicine convoy, repair crews, and shelter group. The outward side succeeds. The return side does not return on time. Do not reveal the full backwash or Mara's accusation yet; save the reversal for Chapters 23–26.
+**Ending:** The bus enters the route with the medicine convoy, repair crews, and the larger shelter group. The outward side succeeds. The return side does not return on time. Do not reveal the full backwash or Mara's accusation yet; save the reversal for Chapters 23–26.
 
 ### Chapter 0020 — The Late Return
 
@@ -210,13 +229,16 @@ Do not make every chapter an auction, a fight, or a System notice. Use recovery,
 
 ## Required continuity and power limits
 
-- Adrian remains Stage 1 Reader through Chapter 20. Do not let him read continuously, predict the route, identify lies with certainty, split a use among bearers, transfer or renew a charter, or post security.
+- Adrian remains Stage 1 Reader through Chapter 20. Do not let him read continuously, predict the route, identify lies with certainty, split a use among bearers, transfer or renew a charter, or post security. The batch gives him no new ability; what it gives him is a public promise he breaks and a sale that works.
 - Tarin remains the sole bearer unless a later chapter explicitly assigns a Stage 2 split. Never turn Dessa into a second bearer. A passenger's memory is standing, not bearer status.
-- The return memory toll must remain real. Do not erase it, make it a joke, or let a price line cancel it.
-- Keep names of Unlisted households out of public records unless the affected people choose otherwise. A protected name does not remove the bearer's duty or the remedy.
-- Selik's bridge remains a legitimate safety system under review. Halloway's counterfeit remains technically attractive and morally dangerous. Neither antagonist disappears.
+- The return memory toll must remain real. Do not erase it, make it a joke, or let a price line cancel it. It was paid by sixteen people on the first crossing, including the eight children who remain on the far bank, and it must be accounted for in full whenever a crossing is recorded — a crossing's number of travelers is whatever the record says boarded, not whatever the charter hoped for.
+- A witness does not travel on the lot they witness when the toll takes the memory of purpose. Keep that rule if a new charter in this batch needs its appeal path to survive.
+- Keep names of Unlisted households out of public records unless the affected people choose otherwise. A sealed page may name a responsible party who must be identified, and it is opened only if the remedy is called. A protected name does not remove the bearer's duty or the remedy.
+- The public board has four seats and no owner. It can refuse to record a closing and call a review. It cannot grant a use, and it must not be written as a body the reader has never seen seated.
+- Selik's bridge remains a legitimate safety system under review, and Chapter 12's tightening must be earned by the false alarm rather than by his convenience. Halloway's counterfeit remains technically attractive and morally dangerous. Neither antagonist disappears.
 - The broken-circle mark is a clue only. Do not name Iven, the First House, the Common Measure's origin, or the removed signature here.
 - Do not resolve Adrian and Mara romantically. Do not let Orren become a safe apprentice or a magical restoration of Sela. Do not turn Lina's protected absence into a conversion.
+- Do not resolve the missing return group or reveal the full backwash. That reversal is reserved for Chapters 23–26.
 
 ## After writing the batch
 

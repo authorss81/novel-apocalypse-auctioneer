@@ -43,6 +43,8 @@ A valid charter has seven parts. Missing parts create different failures rather 
 
 A charter can be amended only by a new closing. A change hidden in a side promise is not part of the charter unless a witness understands and accepts it.
 
+A witness's function outlives the closing, because a remedy that rests on appeal has to be described afterward by the people who accepted it. A person who travels on the lot they witness therefore cannot be counted in the required pair: the toll is taken from the same memory the appeal asks about. The repair is not to pretend the toll does not apply, but to keep the pair on the side that keeps its memory and to name the people who will answer on the far bank in the record. Where a witness is also a beneficiary's responsible party, the charter must give that duty to a named substitute.
+
 An **inactive custody charter** is a narrow exception to the ordinary use charter. It names an unactivated lot, a finder, a receiving bonded depot, a custody term, two witnesses, and a remedy for unclaimed delivery. It grants physical custody only. It does not authorize a use, create a bearer role, or substitute for a valid closing. Contact with the lot is not activation.
 
 ### Founder override and forced records

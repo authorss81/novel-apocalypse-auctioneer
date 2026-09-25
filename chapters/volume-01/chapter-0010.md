@@ -24,7 +24,7 @@ He drank. The water tasted of metal, though the cup was ordinary.
 
 The token stood in a glass-fronted case near the board. It had been returned to Lot 17 under a documented arrangement. Mara’s red municipal seal crossed the case’s rear hinge. Adrian’s auction stamp marked the front. The case could not be opened without breaking a seal, and breaking the seal would create two records: the public one and the private one someone might try to hide.
 
-The opening rule was written beneath the seal: Mara, Adrian, and the current public steward had to be present. The public board appointed Nessa Pell steward for seven days, renewable by the board. The term made the custody arrangement answerable; it did not make Nessa permanent.
+The opening rule was written beneath the seal: Mara, Adrian, and the current public steward had to be present. The public board appointed Nessa Pell steward for seven days, renewable by the board. The board was four seats — Mara in the registrar’s chair, the sitting steward, and two that morning taken by a tram driver and the woman who sold tea at the tram arch, neither of whom had any claim on the lot. The vote was taken out loud in front of the open book, because a short term that nobody heard granted was not short. The term made the custody arrangement answerable; it did not make Nessa permanent.
 
 The public charter from the crossing lay beneath a sheet of clear waxed paper. The page had been recopied twice. The first copy had blurred where rain had reached it. The second had a small tear repaired with a strip of linen from Orren’s satchel. Neither copy had replaced the original.
 
@@ -38,13 +38,13 @@ Mara opened the book to the first entry.
 
 **BENEFICIARIES:** The medicine convoy. Nine children in the school shelter group. Ward Nine’s waiting clinic line.
 
-**RESPONSIBLE PARTIES:** Alma Dren and Oren Fisk remain with the shelter group and medicine crew on the far bank.
+**RESPONSIBLE PARTIES:** Two escort stewards, named on a sealed page and absent from this book, and Oren Fisk remain with the shelter group and medicine crew on the far bank.
 
 **TOLL:** Each traveler loses the memory of why they are making the journey. Return travelers pay the toll again.
 
 **TERM:** One activation. Ends when the second of the two named return travelers, Tarin Kest and Dessa Rill, reaches the Ward Nine platform, or at twelve minutes, whichever comes first. If either fails to return, the Warden remedy applies. No renewal.
 
-**WITNESSES:** Alma Dren, school shelter steward, limited to confirming disclosure and refusal for the shelter group. Ewan Latch, contracted ward-market freight driver, independent of the buyer, bearer, and medicine purchase.
+**WITNESSES:** Alma Dren, school shelter steward, limited to confirming disclosure and refusal for the shelter group, and remaining on the near bank to hear what the crossing did. Ewan Latch, contracted ward-market freight driver, independent of the buyer, bearer, and medicine purchase. Both witnesses are on this side of the Fault, and neither travels on the lot they witness.
 
 **RELEASE:** The token returns to the public case. The handoff is entered in the book. No private transfer.
 
@@ -52,7 +52,7 @@ Mara opened the book to the first entry.
 
 Below the entry, Mara added a line that was not part of the charter.
 
-**OBSERVED RESULT:** The medicine and shelter group crossed. Tarin Kest and Dessa Rill returned. Dessa Rill did not remember why she returned. The token was damaged. The route was not shown to be repeatable.
+**OBSERVED RESULT:** The medicine and the shelter group crossed once. Sixteen people traveled: eight children, two escort stewards, four in the medicine crew, and two named return travelers. One of the nine children named as a beneficiary refused and did not board, and a relief driver off the St. Orra staging line gave back a place that had been held open for him. The toll was taken on the outward leg from all sixteen, and again from the two who returned. Tarin Kest came back able to drive the marked route and unable to say why he had carried the medicine. Dessa Rill came back able to name Ward Nine and unable to say why she had gone. No memory returned within the observed period. The token was damaged. The route was not shown to be repeatable.
 
 Mara read the line twice before setting down her pencil.
 
@@ -64,7 +64,7 @@ Mara read the line twice before setting down her pencil.
 
 “They become the same when someone uses the result to sell the next crossing.”
 
-A clerk brought in the first group of visitors. Selik Marne came with his bridge inspector, a young Warden named **Nell Sarr**, and a folded public review sheet. He looked at the token in its case, then at Adrian.
+A clerk brought in the first group of visitors. Selik Marne came with his bridge inspector, a young Warden named Nell Sarr, and a folded public review sheet. He looked at the token in its case, then at Adrian.
 
 “The official bridge will be inspected under supervision,” he said.
 
@@ -122,7 +122,7 @@ He left the ledger. Inside were pages of labor schedules, a price for every carr
 
 “That is how you make a market,” Halloway said from the doorway. “You make the lie compete with a longer form.”
 
-Adrian looked after him. “He pays his crew.”
+Adrian watched him out. “He pays his crew.”
 
 “He does,” Mara said. “That is why the problem is not solved by calling him a thief.”
 
@@ -140,7 +140,7 @@ At noon, Lina arrived with a courier carrying three copies of the charter and a 
 
 “Correct.”
 
-Lina looked at the book. “If a public record can be challenged, it must be possible to know who was left out without making them explain themselves in the first place.”
+Lina turned to the book. “If a public record can be challenged, it must be possible to know who was left out without making them explain themselves in the first place.”
 
 “That is a difficult rule to administer.”
 
@@ -148,13 +148,25 @@ Lina looked at the book. “If a public record can be challenged, it must be pos
 
 Mara’s pencil moved. She added a line beneath the observed result:
 
-**NAME DISCLOSURE:** Beneficiary households may refuse public names. The steward and the count remain accountable. A private location is not entered in the public book. The right to refuse does not remove the bearer’s duty or the remedy.
+**NAME DISCLOSURE:** Beneficiary households may refuse public names. The steward and the count remain accountable. A private location is not entered in the public book. A responsible party who must be identified may be named on a sealed page held by the registrar instead of in the book, and the sealed page is opened only if the remedy is called. The right to refuse does not remove the bearer’s duty or the remedy.
 
 Lina read it. “Good.”
 
 “It is not complete.”
 
 “No. It is better than pretending it is.”
+
+Alma Dren had been standing at the back of the room since before Lina came in, and she had not come forward. Mara turned to her across the length of the book.
+
+“You are the one who has to hear this.”
+
+“I heard it at the board,” Alma said. “Eight of the nine are on the far side of a river with two escorts and a clinic crew, and the whole of their reason is sitting in a ledger in this room.”
+
+“And if someone appeals the crossing?”
+
+Alma considered the shelves, the sealed case, the crooked sign above the hinge. “I will say that I told them the toll before they boarded, that one boy refused and not one of us argued with him, and that I stayed on this side because the book needs somebody who still remembers what they agreed to. I will not tell them what it was like to lose it. I was not there.”
+
+Mara wrote that down as a limit rather than a claim. It was the first line in the new book that said plainly what a witness could not do, and it was the reason the two who had not crossed were the two who could still be asked.
 
 Orren arrived after her, carrying the broken-circle copy. He set it beside the old charter and unfolded the page until the incomplete circle sat beside the token’s mark.
 
@@ -166,7 +178,7 @@ Mara bent over it. The heading had been scraped away, but a fragment of a seal r
 
 Orren’s fingers tightened on the page. “In Halloway’s office. The manifest was underneath. It had a margin note about Sela Pike.”
 
-Mara looked up. “Your mother?”
+Mara’s pencil stopped. “Your mother?”
 
 “She is not a part of this lot.”
 
@@ -186,7 +198,7 @@ Orren gave him a hard look. “Don’t turn that into a lesson.”
 
 “I am good at records,” Adrian said. “They are not the same.”
 
-Orren looked at the broken-circle mark. “Then tell me what this record can do.”
+Orren tapped the broken-circle mark. “Then tell me what this record can do.”
 
 “Nothing yet. It can show that the counterfeit was copied from a common form, and that the form reaches beyond the current maps. It cannot tell us who made it, what place it names, or whether the Last Fare and the counterfeits came from the same source.”
 
@@ -242,7 +254,7 @@ She looked down at the rail seam. “Yes. It comes in under the west wall, past 
 
 “I don’t know.” She touched the rain cape’s collar. “I think I did.”
 
-Mara looked at the signal book on the wall. Green meant the span was stable in the current Warden rule. Dessa had kept an older rule, or the toll had rearranged the memory. Mara wrote both possibilities and did not choose between them.
+Mara went to the signal book on the wall. Green meant the span was stable in the current Warden rule. Dessa had kept an older rule, or the toll had rearranged the memory. Mara wrote both possibilities and did not choose between them.
 
 Mara opened the book and wrote the exact words. She did not write *memory loss* in the place where Dessa’s reason had been. She wrote **destination route remembered; purpose absent; no cause assigned**. The line made the loss smaller on the page and larger in the room.
 
