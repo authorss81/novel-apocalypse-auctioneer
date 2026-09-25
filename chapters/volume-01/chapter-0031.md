@@ -38,7 +38,7 @@ The ninth line was this:
 
 And Stenn read it, and put it down, and picked it up, and read it again, and the thing he could not get past was that he could not tell whether it was fair.
 
-He had spent nine years pricing goods. He knew a false weight when he saw one. He knew a short measure. He knew what a tallow factor's greed looked like on a docket, and he had refused four claims in three weeks at the market counter, and he had stood in a yard on the second of last month and said *that is a good claim* out loud about a man who was an hour later at the bottom of nine feet of water, and had been right about it, and had not been thanked then either.
+He had spent nine years pricing goods. He knew a false weight when he saw one. He knew a short measure. He knew what a tallow factor's greed looked like on a docket, and he had refused four claims in three weeks at the market counter, and he had stood in a yard on the second of this month and said *that is a good claim* out loud about a man who was an hour later at the bottom of nine feet of water, and had been right about it, and had not been thanked then either.
 
 He could not tell about this one.
 
@@ -182,7 +182,7 @@ Stenn wrote it down. He wrote the two things on two separate lines and he did no
 
 The room filled again at six, and there was no gate and no marshal and no order read out, and that was the first honest thing about it.
 
-The four seats came in and were named aloud, because they always were now: **Mara Quill** as registrar, which is not a vote and not independence; **Nessa Pell** as the sitting steward, whose seven-day term from the twenty-first runs to the twenty-eighth and has not been an argument in this room yet; **Sabin Tull**, a barrow-hauler with a bad hip and four refusals in nine days; and **Marda Osk**, who sells tea at the tram arch and had no claim on any lot in the district.
+The four seats came in and were named aloud, because they always were now: **Mara Quill** as registrar, which is not a vote and not independence; **Nessa Pell** as the sitting steward, whose seven-day term ran out on the twenty-eighth and has not been renewed since, so that she is the only person in this room holding a key on a term that has expired, and she said that herself at the door and nobody has made an argument of it yet; **Sabin Tull**, a barrow-hauler with a bad hip and four refusals in nine days; and **Marda Osk**, who sells tea at the tram arch and had no claim on any lot in the district.
 
 "We are not doing a board sitting," Mara said, from the crate, with the wax tablet on her knee. "I want that said first because half of these people have been in a board sitting and the last one refused to let a line be struck off a notice board. This is a public room with a person from the ward market's counting house in it, and the man in the room is the one who wrote the column on the wall, and I am going to read his column, and I am going to read it in the order he wrote it, and the first column is called **what the order of the ninth asks**, and it is the only column in the room that is not an opinion."
 

@@ -8,7 +8,7 @@ The lamp was Adrian's, because Adrian had come, and that was the first wrong thi
 
 ---
 
-The party was six. Adrian, and Nessa Pell with a slate and a lamp of her own, and a Warden of about twenty-five with a bicycle and a rope, and a signal hand who had come because the line was a signal line, and two men out of the repair crew who had not been asked to be useful and had come anyway.
+The party was six. Adrian, and Nessa Pell with a slate and a lamp of her own, and a Warden of about twenty-five with a bicycle and a rope and eleven years on the bridge, and a signal hand who had come because the line was a signal line, and two men out of the repair crew who had not been asked to be useful and had come anyway.
 
 And Selik Marne, who came out to the spur at about eight in the morning on the seventh because a walking party was going onto the ballast of his approach and the fourth term of his own search of the nineteenth said that a walking party does not go onto the ballast past the second rail, ever, and which the book of Lot 17 had carried ever since because Adrian had asked him for it in public.
 
@@ -34,13 +34,13 @@ The mark was a small cross, struck with a cold chisel into the head of an iron p
 
 The first place it appeared was the fourth entry of the proposal of the twenty-ninth, which Nessa Pell had read out on the crate in the gate yard of this lot on the twenty-ninth, at about eleven in the morning, before two hundred people, and which said, under BEARER, FOUR: *entered by mark and not by name, the household having refused names and the steward named in the public book as the holder of the count.*
 
-The second place was a strip, and the strip was in a book in a kitchen under a street, and the strip was dated the twenty-ninth, and the strip was Fen Ambrose's, from the far receiving ramp, and the mark on the strip was the same cross.
+The second place was a strip, and the strip was in a book in a kitchen under a street, and the strip was dated the second of this month, and the strip was Fen Ambrose's, made on the far receiving ramp on the Saturday with a bit of soap in a pencil, and the mark on the strip was the same cross.
 
 The third place was the largest. *The published terms of the sixth, sheet four, item three.* And there it was not merely a mark. It was a mark with a job attached to it. Item three said: *THE FOURTH ENTRY, being the far receiving ramp holder, on the far side, at the ramp, for the whole of the time the vehicle is on the far side, and the person who decides that a person arriving is somebody's and not a stranger's. AND THE MARKED LINE AT THE TOP OF THE SERVICE CUT IS HELD BY THE SAME PARTY FOR THE WHOLE OF THE SAME PERIOD, ON THIS BANK, AND NOBODY GOES PAST IT.*
 
 Nobody had written that. Adrian had written it, on the second, at about two in the morning, in the back office, in the middle of a night in which he had also written a clause about the lamp oil.
 
-The fifth place, which Nessa Pell found at about eleven o'clock, standing on the crown of the service cut in the rain with a lamp in her teeth, was a piece of paper that had been nailed to a gate on the fourth street, and which had been there since the second, and which said, in a hand that was not Adrian's and not Nessa's and was small and careful and pressed very hard:
+The fourth place, which Nessa Pell found at about eleven o'clock, standing on the crown of the service cut in the rain with a lamp in her teeth, was a piece of paper that had been nailed to a gate on the fourth street, and which had been there since the second, and which said, in a hand that was not Adrian's and not Nessa's and was small and careful and pressed very hard:
 
 **HELD. ASK AT THE YARDS.**
 
@@ -50,7 +50,7 @@ Those eleven chimneys were the service-cut yards. The Warden's men had put a lan
 
 Somebody had gone round on the second, at about the same hour Adrian had been writing the clause, and had nailed up a paper that said *held, ask at the yards*, and had then gone to six houses and had said, in words that Adrian was now quite sure had been careful and had meant well and had not once been the sentence *may I put your name in a book* — something like *there's a mark in a book and it'd do the yards good to be in it* — and had got six yeses, or five, or four.
 
-And the mark in a book was a household's mark. And the household was a household in the service-cut yards. And the mark had been used, in eleven days, for the far receiving ramp, for the top of the service cut, and possibly for a third thing.
+And the mark in a book was a household's mark. And the household was a household in the service-cut yards. And the mark had been used, inside a fortnight, for the far receiving ramp, for the top of the service cut, and possibly for a third thing.
 
 ---
 
@@ -68,7 +68,7 @@ They found him at about twenty past ten in the morning, and the finding was noth
 
 The man who had been holding the line was a man of about fifty-five, of the service-cut yards, and he was the fourth child of a household of six that had been struck off the rolls in the ninth year for a thing nobody in the record is entitled to know, and which had lived in two blocks the ward market has never had a rate sheet for, and which had, in the flood year, put a lantern up over a bus.
 
-And he was of the household the mark belonged to. So was the man at the chain on the goods-shed floor on the far bank, who had been asked one question by a steward on the Saturday and had said he did not know what the job was, and who is the fourth entry in the proposal of the twenty-ninth, and the two of them did not know it and had never met, and one mark had been given two jobs six days apart by two different people in two different rooms, and that is the whole of what went wrong and it took an hour and ten minutes to read out.
+And he was of the household the mark belonged to. So was the man at the chain on the goods-shed floor on the far bank, who had been asked one question by a steward on the Saturday and had said he did not know what the job was, and who is the fourth entry in the proposal of the twenty-ninth, and the two of them did not know it and had never met, and one mark had been given two jobs by two different people in two different rooms, one of them in the schedule on the twenty-ninth and the other in a schedule written at two in the morning on the second, and neither of the two men ever saw the document that had the other one in it, and that is the whole of what went wrong and it took an hour and ten minutes to read out.
 
 He had not been named. He had not been asked. He had been sent, and he had come, and he had stood in Adrian's yard for twenty minutes on the sixth of this month with a hood up, and he had not said one word, because in twenty minutes in a yard of five hundred people, if a man has not been asked a question, there is nothing for him to say, and the reason nobody asked him a question is that everybody in that yard believed the terms were complete.
 
@@ -160,7 +160,7 @@ The board was seated at about half past four in the yard, all four seats named a
 
 "About an hour, and I am not going to do better than that at this hour," said Nessa Pell. "I do it in six, because I keep the index, and I have kept an index since the fourteenth because Registrar Quill asked me for one, and it is the only piece of administration anybody in this district has ever asked for, and every one of us now depends on it."
 
-It took him an hour and ten minutes. Twenty-three places. Four of them were a household and not a person. Two of them were the same household doing two different jobs in two different documents four days apart, and one of them had a line on it, and *nobody goes past it*.
+It took him an hour and ten minutes. Twenty-three places. Four of them were a household and not a person. Two of them were the same household doing two different jobs in two different documents neither of which knows the other exists, and one of them had a line on it, and *nobody goes past it*.
 
 And at number twenty-three, at about twenty to six in the evening, with his hand going and the sound going flat at the edge, Adrian Vale read out a strip reference that was not a strip he had ever seen, in a document he had never seen, in a book kept by a woman in a kitchen under a street, and said:
 
@@ -202,7 +202,7 @@ Lina Vale had the third thing, and the third thing was the strip itself, and it 
 
 "They are the same cross," Lina said.
 
-"They are the same cross," Bett Ruhl said. "That is what I have been saying for an hour. That is the entire finding. It is not complicated. Two strips, six days apart, two jobs, one household, and the writer's half of one of them is in my book and I did not write it and I have never seen the hand before this evening in my life, and the other one I wrote, and I wrote it in a hurry, and I did not ask."
+"They are the same cross," Bett Ruhl said. "That is what I have been saying for an hour. That is the entire finding. It is not complicated. Two strips, two dates, two jobs, one household, and the writer's half of one of them is in my book and I did not write it and I have never seen the hand before this evening in my life, and the other one I wrote, and I wrote it in a hurry, and I did not ask."
 
 "What was the count on yours," Mara said.
 

@@ -42,7 +42,9 @@ The man looked at the strip, and at the roll, and then he stood up, which took h
 
 "Was anybody told that there was a room?"
 
-"No." He set the chain down. "I have been on this floor since the fourteenth, which is the last of it, when the last of the nineteen went over the footbridge and the plank went after them." There is a fire and a kettle and a bedroll and eleven people and a dog, and the fire is because the goods shed has a draught in it you could sail a boat through, and the kettle is because the shed has no water on it and you carry it up from the tail. That is what I do. And the dog is because a dog is not a person and a dog does not have to be in a roll."
+"No." He set the chain down. "I have been on this floor since the fourteenth, which is the last of it, when the last of the nineteen went over the footbridge and the plank went after them."
+
+He said it the way he said everything else, which is as a list of reasons, and the reasons are the whole of what he has. There is a fire in a drum because the goods shed has a draught in it you could sail a boat through, and a kettle on a ring because the shed has no water on it and you carry it up from the tail, and a bedroll, and a dog, because a dog is not a person and a dog does not have to be in a roll. Eleven people and one dog, and the eleven are the only argument this floor has ever been able to make for itself.
 
 Fen wrote on the tally sheet, and wrote it in full, and read it back to him, which is the whole of her method and the reason nine people had signed things in her presence that they had refused to sign for a registrar.
 
@@ -62,7 +64,7 @@ He was quiet for a long time, and the fire went over, and the dog moved.
 
 "You may say it yourself, and you may say it to whoever put me on this floor, and you may say it to a yard, and nobody in this city will argue with you about it." She put the tally sheet flat on the crate. "What I am not going to do is write *he will not* on a piece of paper and carry it up the stair and tell a room that a bearer has refused, because you have not refused anything. **You have not been asked.** Those are two different things and I have spent nine years learning the difference and there are about four people in this district who can tell it."
 
-And Fen Ambrose, who had counted seventeen children twice in front of witnesses, wrote on the tally sheet in her own hand, and read it back, and the words were these:
+And Fen Ambrose, who had counted the shelter group twice in front of witnesses, wrote on the tally sheet in her own hand, and read it back, and the words were these:
 
 **THE FOURTH ENTRY IS A MAN WHO WAS NOT ASKED. HE HAS NOW BEEN ASKED ONE QUESTION, AT THE FAR RECEIVING RAMP, BY THE STEWARD WHO CARRIED THE MARK, AND HE HAS SAID HE DOES NOT KNOW WHAT THE JOB IS. THIS IS NOT A REFUSAL. NO REFUSAL HAS BEEN GIVEN. THE ENTRY STANDS UNTIL HE IS TOLD WHAT IT IS, IN WORDS, AND DECIDES.**
 
@@ -80,15 +82,15 @@ Then the woman by the kettle asked her a question and Fen sat down on the bedrol
 
 "Who is on your roll?"
 
-"Nobody. I have not got a household. I had one and it is not one." She did not make it smaller than that. "There are eleven people on this floor and four of them are on the school roll, which is the gym's roll and carries the shelter group and about nine people who keep the gym, and two of them are on the clinic's list and one of them is in the exchange's count because a steward writes it down for us, and that leaves four, and the four are me, and two men who have been on this bank since the fourteenth and cannot tell you what they did before it, and a woman with a child, and that child is not in anything at all and has never been."
+"Nobody. I have not got a household. I had one and it is not one." She did not make it smaller than that. "There are eleven people on this floor and four of them are on the school roll, which is the gym's roll and carries the shelter group and about nine people who keep the gym, and two of them are on the clinic's list and one of them is in the exchange's count because a steward writes it down for us, and that leaves four, and the four are me, and two men who have been on this bank since the fourteenth and cannot tell you what they did before it, and a child of about nine who is not in anything at all and has never been, and it is mine."
 
 "How long have you been here."
 
-"Since the fourteenth. The last of them went over the footbridge that morning and the plank went after them and this is the first week anybody has been stuck on this bank with no way across at all."
+"Since the fourteenth. The last of them went over the footbridge that morning and the plank went after them, and there has not been a way across since, and that is the first thing you are going to write down on that sheet and not the numbers."
 
-"Fourteen days." She put her hand flat on the kettle lid, which is a thing Fen has never done and could not have explained. "I have not been on a roll since I was nineteen. And I want to say the next part out loud because you have got a sheet and because you came three hours down a stair, and if I do not say it here I am going to be counted again next week by somebody who is kind about it.
+"Three weeks." She put her hand flat on the kettle lid, which is a thing Fen has never done and could not have explained. "I have not been on a roll since I was nineteen. And I want to say the next part out loud because you have got a sheet and because you came three hours down a stair, and if I do not say it here I am going to be counted again next week by somebody who is kind about it.
 
-"It is not that nobody leaves me out. It is that **every count in this district is a count of households, and I am not in a household, and I have not agreed to be in one, and so I am counted by nobody and I am also not missed.** Those are the same sentence. That is why the four is wrong and not two. You are not four missing. You are four *uncountable*, and I am one of them, and there are three others, and one of them has a child."
+"It is not that nobody leaves me out. It is that **every count in this district is a count of households, and I am not in a household, and I have not agreed to be in one, and so I am counted by nobody and I am also not missed.** Those are the same sentence. That is why the four is wrong and not two. You are not four missing. You are four *uncountable*, and I am one of them, and there are three others, and the smallest of the three is nine, and it is mine, and it is the one thing on this floor that this district has never once had a line for."
 
 Fen Ambrose sat on a bedroll on a goods-shed floor on the far side of a river and discovered that the argument she had been making for nine years had a hole in it the shape of a person, and that the hole had been there the whole time, and that she had spent nine years saying *do not write the school shelter group and mean everyone under a roof* to a district in which **the school shelter group means households and everybody knew it and it was the only vocabulary there was.**
 

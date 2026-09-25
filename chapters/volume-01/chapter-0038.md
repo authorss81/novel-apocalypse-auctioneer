@@ -2,7 +2,7 @@
 
 The trouble with a closing that opens nothing, Adrian Vale discovered on the sixth of the month at about eleven in the morning, is that every person in the yard can see at a glance that there is nothing to close.
 
-The token was in its case in the office behind him. The case was locked. Its custody term was renewed in the yard on the twenty-ninth, on Nessa Pell's own request and on the record, and had been renewed before that on the twenty-first, and the sitting steward renews it every seven days in public in about eleven seconds, and the object inside the case was cracked through the plate and might never open again and nobody had said otherwise in public since the nineteenth.
+The token was in its case in the office behind him. The case was locked. Its custody term was renewed in the yard on the twenty-ninth, on Nessa Pell's own request and on the record, and had been renewed before that on the twenty-first and had run out on the twenty-eighth and stood unrenewed for a month, and the sitting steward renews it in public in about eleven seconds when she thinks of it, and thinking of it is her job and nobody else's. The object inside the case was cracked through the plate and might never open again and nobody had said otherwise in public since the nineteenth.
 
 There was no vehicle on the apron. The bus was a wreck out past the underpass inside the ring on Tarin's road map and had been since the flood year and was not coming, and the only bus in Alder Reach that had been under the Fault was standing in a service yard four streets west of this depot with its doors open and nobody in the driver's seat, and it came out of that yard by itself after eleven hours and forty minutes, and nobody in this city has ever said what that is.
 
@@ -14,7 +14,7 @@ Then he came back and did the thing that was available to him, which was the onl
 
 "I am going to say the awkward part first," he said, "because if I say it at the end it will sound like a defence and it is not a defence, it is the situation.
 
-"There is no token in this yard. There is no bus. There is no road. The crossing at St. Orra is shut to everything including a box and including a cylinder, and the certificate is suspended by two people who are not me, and the only footway this district had went into the service cut on the twelfth with four children on the deck. **I cannot open anything today. I have said that in this yard in four different weeks and I am saying it in the first minute because there are five hundred people here and about a third of them have come to watch a bus.**
+"There is no token in this yard. There is no bus. There is no road. The crossing at St. Orra is shut to everything including a box and including a cylinder, and the certificate is suspended by two people who are not me, and the only footway this district had went into the service cut on the twelfth with four children on the deck. **I cannot open anything today. I have said that in this yard four times, to four different rooms, and I am saying it in the first minute because there are five hundred people here and about a third of them have come to watch a bus.**
 
 "What I have got is seven sheets of paper and I am going to close them. That is what I have got and I am telling you what it is before anybody in this yard has to work it out, because I have learned what happens to a room when it finds out at the end."
 
@@ -66,7 +66,7 @@ Item one: a route request, with use, destination and count. The use is **one rou
 
 Item two: the toll, in the words the travellers will hear, read aloud by Nessa Pell from a step, twice, at eleven in the morning and again at four in the afternoon, and it is the memory of the purpose of the journey, charged to each traveller on each crossing, and a returning traveller pays again, and the ninth line is in the record in the author's words because the ninth line is the only sentence anybody in this district has written that says what a second payment is not.
 
-Item three: the bearers. Four entries, as they stood on the twenty-ninth, with Tarin Kest's refusal in the same line as his entry, and Renn Fisk, and Dessa Rill entered as a remembering passenger and *not a bearer*, and a mark.
+Item three: the bearers. Four entries, as they stood on the twenty-ninth, with Tarin Kest's refusal in the same line as his entry, and Renn Fisk, and Dessa Rill entered as a remembering passenger and *not a bearer*, and a mark. And then, at the bottom of the item, in the plainest words anybody could get onto a page in a tram depot with five hundred people in it, a sentence Adrian Vale had written at two in the morning on the second of this month in the back office and had not looked at since, and which the yard had argued about for four hours without once arguing about the right thing: **AND THE MARKED LINE AT THE TOP OF THE SERVICE CUT IS HELD BY THE SAME PARTY FOR THE WHOLE OF THE SAME PERIOD, ON THIS BANK, AND NOBODY GOES PAST IT.**
 
 Item four: the return crew, a rotation of three on foot from the far receiving ramp to the near apron, drawn by lot, who do not travel on the lot they witness.
 
@@ -166,19 +166,23 @@ The reader was a woman of about fifty named Rutt, who had been a signal clerk be
 
 "No. I am sorry. I cannot go on with this as a reading, because I have got to the end of the third item and there are four bearers and I can only find three, and one of the three says over his own signature that he was entered over a refusal given in the same room.
 
-"And the fourth is a mark."
+"And the fourth is a mark.
 
-There were nine people at the counter at half past six in the evening on the sixth of this month, and one of them was Ivo Stenn, and he came out of the back office and read the fourth item twice, and then he did a thing that is now the standing practice of the ward market's counter and which took him about four seconds to think of and the rest of the year to be sorry about.
+"And there is one more sentence under the mark and I have read it four times and I am not going to read it out loud in a counter until somebody has told me what it wants, because it says *the same party*, and the party it means is a mark, and this one item has that mark holding a ramp on one bank and a line on the other, and I am a reader and not a fool, and I am not reading a sentence I cannot say who is holding what."
 
-He sent a boy up to Lot 17 with the sheet and a slip, and the slip said: **THE FOURTH BEARER. WHERE IS HE. AND WHO ASKED HIM.**
+There were nine people at the counter at half past six in the evening on the sixth of this month, and one of them was Ivo Stenn, and he came out of the back office and read the third item twice, and then he did a thing that is now the standing practice of the ward market's counter and which took him about four seconds to think of and the rest of the year to be sorry about.
+
+He sent a boy up to Lot 17 with the sheet and a slip, and the slip said: **THE FOURTH BEARER. WHERE IS HE. AND WHO ASKED HIM. AND THE SENTENCE UNDER HIM.**
 
 The board was seated again at about nine, all four seats named aloud, because it always was, and Nessa Pell had a lamp and a slate and the published record on the crate in front of her, and she had the charter's own seventh item in front of her, which was the item that requires **two fresh witnesses who have heard the whole of it**, and the whole of it included a fourth bearer entered as a mark.
 
 "Here is the finding," she said, "and I am going to say it in the shortest words in this book.
 
-"**The fourth entry cannot be performed as written. A mark is not a person and the book has no form of agreement for a mark. The person it stands for is on a goods-shed floor on the far side of a river, and he was asked one question three days ago by the steward who carried the mark, and he said he did not know what the job was, and the entry says the entry stands until he is told what it is, in words, and decides — and he has not been told and he has not decided and nobody checked.**
+"**The fourth entry cannot be performed as written. A mark is not a person and the book has no form of agreement for a mark. The person it stands for is on a goods-shed floor on the far side of a river, and he was asked one question four days ago by the steward who carried the mark, and he said he did not know what the job was, and the entry says the entry stands until he is told what it is, in words, and decides — and he has not been told and he has not decided and nobody checked.**
 
 "And the second finding, which is worse, and which Mr. Ambrose found with a bit of soap in a pencil and a three-hour stair, and which is in the beneficiary count of this very document: the count is wrong by a household, because a protected household in the service-cut yards west of this depot was counted by its steward instead of by itself, and the count was published before this record was made, and the record was made on top of it, and nobody in this yard knew there was a household in it.
+
+"And the third finding is in the same item as the first one and it is the one this yard is going to be arguing about for a month. **Item three does not stop at the fourth entry. It commits the fourth entry to a place. It says that the marked line at the top of the service cut is held by the same party for the whole of the same period, on this bank, and that nobody goes past it. This board has published a term about a place. Nobody in this yard has been to that place, nobody has asked whether there is a line on it, and nobody has read what the last four words of that sentence mean. A place is not a person, and a term about a place cannot be performed by anybody who has not stood on it.**
 
 "**The board cannot grant a use. It cannot waive a toll. It does not audit a security. It cannot strike a line off a notice board. It can refuse to record a closing, publish a result, call a review, uphold a challenge in part, and set or renew the short public custody term.**
 
@@ -192,7 +196,7 @@ The board was seated again at about nine, all four seats named aloud, because it
 
 She put her hand flat on the crate.
 
-"**I have held this book for eleven years. I have never once had a document in front of me that was complete, checked, and about nothing, and I have spent eleven years believing that those three things go together. They do not. What I have got in front of me is a document that is complete and checked and about nothing, and it took a reader at a counter on the terraces eleven hours to find the one line in it that could not be performed, and that line is the fourth bearer, and the fourth bearer is a man, and he was standing in a yard on the sixth of this month for about twenty minutes and nobody asked him a single question, and that is not because anybody wished him harm.**
+"**I have held this book for eleven years. I have never once had a document in front of me that was complete, checked, and about nothing, and I have spent eleven years believing that those three things go together. They do not. What I have got in front of me is a document that is complete and checked and about nothing, and it took a reader at a counter on the terraces an hour and ten minutes to find the two things in it that cannot be performed, and both of them are in the same item, and one of them is a mark and the other one is a place, and this yard had five hundred people in it and not one of them had been to either.**
 
 "That is because a schedule says the terms are complete. And a schedule that says the terms are complete is the ninth thing that is not in the charter, and it is the tenth, and it will be in every one of them, and it is going to keep being in them until somebody with a bad shoulder and a good eye walks out to the top of a service cut and asks the people who live there what they are holding."
 

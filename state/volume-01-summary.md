@@ -31,7 +31,7 @@ Chapters 1–40 are complete. Alder Reach has crossed St. Orra three times with 
 - **The claim-comparison table** and **disclosure that travels to the person** both exist; the second is built so that no courier is ever in a room where a reading happened.
 - **A person is accounted for by a count, not by a household.** Four lines, entered on the second, and the volume's real constitution.
 - **A mark is a refusal, not a person, and may not carry a job.** Nessa Pell's index of every use of a mark since the fourteenth is the only piece of administration anybody asked for and everything now depends on it.
-- **The ward market's paper levy** — four coppers a quarter for eleven years for paper that does not exist — now funds the warden's inspection and a public reader at a counter at about forty-one coppers a quarter.
+- **The ward market's paper levy** — four coppers a quarter for eleven years for paper that does not exist — has been proposed to fund the warden's inspection and a public reader at a counter at about forty-one coppers a quarter, **and the vote has not happened.**
 
 ## Active threats and promises
 

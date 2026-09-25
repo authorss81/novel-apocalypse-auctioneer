@@ -75,7 +75,7 @@ Seats in this batch: **Nessa Pell** as sitting steward (her seven-day term from 
 ## Ivo Stenn
 
 - Ward market freight clerk of six years and cooperative secretary of two, the man who says no to people without examining it.
-- **This batch gave him an institutional conclusion he did not want and cannot act on by himself: a man who cannot examine a claim cannot fund a public process either.** He discovered an eleven-year paper levy producing no paper, funded the warden's inspection and a public reader at the counter out of it at about forty-one coppers a quarter, and ended the chapter unable to tell whether a ninth line is fair — two days after telling a room that the district's problem was a road, in a district where there has never been a road.
+- **This batch gave him an institutional conclusion he did not want and cannot act on by himself: a man who cannot examine a claim cannot fund a public process either.** He discovered an eleven-year paper levy producing no paper, proposed the warden's inspection and a public reader at the counter out of it at about forty-one coppers a quarter, **which the ward market has still not voted and which he cannot fund until it does**, and ended the chapter unable to tell whether a ninth line is fair — two days after telling a room that the district's problem was a road, in a district where there has never been a road.
 - **He told Stenn, in a counting room and for the first time in public shape, that what he wants is a permanent office**, and Selik told him the two unexplained things in two sentences and would not put them in the same one. **Stenn wrote them on two separate lines and did not join them.**
 
 ## Nessa Pell

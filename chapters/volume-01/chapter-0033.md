@@ -40,7 +40,9 @@ And Selik said the other thing, in the same four minutes, before anybody had arr
 
 "And a bus failed three hundred yards from my abutment on the morning of the nineteenth, and a man put a list of nine things that bus did not have on a public wall, and that is a third thing, and it is the reason anybody is reading anything anybody has said about me this month, and it is not the reason the certificate is off the wall.
 
-"**Three things. I have spent nine days refusing to let the first two be the same sentence, and I have spent nine days refusing to let the second and the third be the same sentence either, and I am refusing now, in front of three hundred people, and I will put the refusal in the minutes if Mr. Quill will read it out.**" I am the man who caused the sentence, and the yard is to have that in the right order, because I have got a record of winning arguments and I intend to be careful with it."
+"**Three things. I have spent nine days refusing to let the first two be the same sentence, and I have spent nine days refusing to let the second and the third be the same sentence either, and I am refusing now, in front of three hundred people, and I will put the refusal in the minutes if Mr. Quill will read it out.**"
+
+"I am the man who caused the sentence," Selik said, "and the yard is to have that in the right order, because I have got a record of winning arguments and I intend to be careful with it."
 
 Nobody cheered, which he had expected, and which he had wanted.
 

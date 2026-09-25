@@ -8,7 +8,7 @@ She had a sick child at home and she washed at the river stairs and she was on t
 
 "I would rather you said the whole of it in the yard than gave me a sentence to write down."
 
-"Then I will say the whole of it, and it will take a quarter of an hour, and you will not be able to make it a sentence." Rell Bode put her basket down and did not sit on it. "On the fourteenth of last month I stood in a yard and asked a question, and it was this: a remedy that works by pointing at a person is not a remedy for a person who refused a name. And Registrar Quill wrote one, and it is called the no-name remedy, and it is a hearing, and then the book says *called, and not discharged*, and it says why.
+"Then I will say the whole of it, and it will take a quarter of an hour, and you will not be able to make it a sentence." Rell Bode put her basket down and did not sit on it. "On the fourteenth I stood in a yard and asked a question, and it was this: a remedy that works by pointing at a person is not a remedy for a person who refused a name. And Registrar Quill wrote one, and it is called the no-name remedy, and it is a hearing, and then the book says *called, and not discharged*, and it says why.
 
 "And it is a good answer. It is the best thing anybody in this district has written, and I am not going to stand here and take it back. And it has failed once and it failed in public and it cost a child, and everybody in this yard knows what a loud failure costs, because we have all been reading about it for three weeks.
 
@@ -140,7 +140,7 @@ Then Lina Vale said, "Registrar. You have said in a yard that this will not work
 
 And Mara Quill said it, standing in a kitchen under a street, to eleven people, two of whom were not clerks:
 
-"**The people nearest the fault boundary are the ones nobody counted. I know who they are. They are in the service-cut yards west of the depot, in the two blocks the ward market has never had a rate sheet for, and I have known that since the fourteenth of last month and I have not written it down, because the moment I write it down I am proposing a count of them, and proposing a count of them is what I was warned about in a yard by a woman with a basket.**
+"**The people nearest the fault boundary are the ones nobody counted. I know who they are. They are in the service-cut yards west of the depot, in the two blocks the ward market has never had a rate sheet for, and I have known that since the fourteenth and I have not written it down, because the moment I write it down I am proposing a count of them, and proposing a count of them is what I was warned about in a yard by a woman with a basket.**
 
 "**So the remedy fails on a group I could name this afternoon if I let myself, and I am not going to let myself, and the entry in the book is going to say *not discharged* and the reason it gives is going to be the protected category, and that reason is going to be true and it is going to be incomplete, and in a year somebody is going to read that entry and think the district did not know.**
 

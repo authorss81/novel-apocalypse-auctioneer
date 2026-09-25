@@ -184,7 +184,7 @@ They did it because the only thing worse than a bad system is a person who has u
 
 The eleven rounds were walked by people who were already walking them: the second clerk of the ward market with her handcart, who had been turning up at gates and abutments since the nineteenth asking which of two things she was doing; two lamp-trimmers; a signal hand; four market traders who had agreed for four coppers each and thought they were being hired; the fever ward's own laundry woman, who was the only person on the list who went into that district regularly and was therefore the only person who was ever going to be near a household in it; and Bett Ruhl, twice.
 
-The reader was Wenna Keel, on a nine-day term with a seven-day term if anybody wanted to pay for the other two, because the alternative was a seventeen-year-old and a sixty-one-year-old, and the reason that term existed at all is that Bett Ruhl refused to have it any other way.
+The reader was Wenna Keel, on a nine-day term with a seven-day term if anybody wanted to pay for the other two, because the alternative was a sixteen-year-old and a sixty-one-year-old, and the reason that term existed at all is that Bett Ruhl refused to have it any other way.
 
 Tove Alard set the whole thing in type on the eighteenth of the month, four hundred and eighty copies on the back of ward market claim stock, and the two things she printed on the front were the address a courier could be given and the words **READ TWICE OUT LOUD. THE NINTH LINE IS THE ONE.** and the third thing she printed, which she argued for for two days and which she is going to be asked about in a yard in a year:
 
@@ -214,7 +214,7 @@ The steward's hand is not in this book and was not asked for. What can be said i
 
 The claim was a fair claim. It had no fold in it and there was nothing wrong with the ninth line and the ninth line was read out twice, and the woman who carried it home said afterwards, to nobody, that she had not known the ninth line was the one, and that the paper had said there were two, and that she had gone down the terraces and the stairs eleven years in the belief that the ninth line was a formality at the end like the word *sincerely* at the end of a letter.
 
-And the thing she said next is the thing that is the argument against the market's money being better spent on a room, and the thing that made the ward market's money better spent on a room, and it is why the paper levy in this district went up from four coppers a quarter to forty-one:
+And the thing she said next is the thing that is the argument against the market's money being better spent on a room, and the thing that made the ward market's money better spent on a room, and it is why the paper levy in this district is going up from four coppers a quarter to forty-one:
 
 "That is the third time this year they have taken something off us for a thing I cannot see. The market took it in the spring. The Warden's office took it after the bridge shut. And now you have come up my stairs at midnight with a lamp and told me the ninth line is the one, and you were right, and I would like to know what the money was for, and I want to know before the next quarter, and I am not going to hold the next quarter against you, because I have never held a quarter against anybody in my life, and I am going to pay it, and I would like somebody to say, out loud, in this room, what it is for."
 

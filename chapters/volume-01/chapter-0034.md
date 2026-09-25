@@ -4,7 +4,7 @@ Mara Quill had run a process exactly once in eight years, and it had been a hear
 
 She had audited processes. That was the work. She arrived at a thing somebody else had built, and she read it, and she wrote down the parts of it that could not be defended, and she said so in a room, and the room either fixed them or did not, and she went home.
 
-On the morning of the twenty-sixth she stood in the school gym on the terraces with a slate and forty-one names written on it, and she discovered that she did not know how to start, and that the reason she did not know was that she had spent eight years believing that knowing how to start was a thing a registrar learned in order to audit other people's starting.
+On the morning of the twenty-sixth she stood in the school gym on the terraces with a slate and forty-two names written on it, and she discovered that she did not know how to start, and that the reason she did not know was that she had spent eight years believing that knowing how to start was a thing a registrar learned in order to audit other people's starting.
 
 "Rule one," she said, to about ninety people in a gym that smelled of floor polish and forty years of boys, "and I have put it on the wall in letters two feet high because I know myself. **Nothing is written in this room that is not read back out loud to the people who will pay it.** Rule two: anybody may leave at any point and nobody will ask them why, and anybody who leaves has not agreed to anything. Rule three: I am going to keep time and I am going to be worse at it than usual today, because I have a habit of letting a room find its own pace and this room does not yet have one. Somebody shout at me."
 
@@ -42,7 +42,7 @@ She put it on the crate in front of the registrar and she did it the way she had
 
 "Seventeen," she said. "That is what is in the gym tonight. Seventeen, and the name of the shelter group is nineteen, and it has been nineteen since the fourteenth, and I have been going round the wards saying the shelter group and meaning seventeen, and every person in this room who has written the shelter group this month has written nineteen, and the difference is two children who went to a sister on the far side of the river on the second and whose mother signed for them and whose names are on a strip under a flour barrel somewhere in Ward Nine."
 
-Nineteen people looked at a crate.
+About ninety people looked at a crate.
 
 "Write *the school shelter group*," Fen said, "and mean everyone under a roof, and you will get the number wrong and the error will always fall on the household that counted honestly. I said that on the seventeenth in a yard and I was talking about a charter, and it turns out it is a thing about everything. I am not here to be difficult. I am here because I have counted seventeen twice in front of witnesses and the count in the book is to be seventeen, and because the mother who signed for those two is in this room and has not been asked whether she wants to be."
 
@@ -150,19 +150,19 @@ Then the shelter's steward asked whether a person who paid the memory toll on th
 
 "No," Mara said. "It is not a separate sale. It is the same use and a second toll on the same lot, and a toll that is charged per traveller per leg does not care what anybody has read, and the only way it is not the same ticket is if somebody stands at the far end and says the words out loud again before the case opens for the way home. That is what the ninth line is for. That is what Mr. Vale's sentence is actually *for*."
 
-And then Teo stood up at the back, and he had not spoken all afternoon, and he had written a complaint on a notice board three weeks ago that was still up, and he was the youngest person in that gym who had ever refused a crossing and the only one who had ever written one down.
+And then Teo stood up at the back, and he had not spoken all afternoon, and he had written a complaint on a notice board a week ago that was still up, and he was the youngest person in that gym who had ever refused a crossing and the only one who had ever written one down.
 
 "I have got a question," he said, "and it is not about the terms, and I have been sitting here for three hours waiting to see whether anybody was going to ask it, and you are not going to, so I am going to."
 
 "Go on," Mara said.
 
-"Mr. Vale." He turned round. "You said in this yard a fortnight ago that the token is cracked through the plate and you do not know if it opens again. Say it here."
+"Mr. Vale." He turned round. "You said in this yard a week ago that the token is cracked through the plate and you do not know if it opens again. Say it here."
 
 "It is cracked through the plate. I do not know if it opens again. Repeated use may strand the route permanently. That is what the book says and that is what I said."
 
 "Right." Teo nodded. "Then here is the question and nobody in this book has ever asked it, and I have been in three hearings about it and none of them asked it, and I have asked it of the man who reads things for a living and he did not have an answer.
 
-"If it never opens. Not if it opens next month, not if it opens at the spring. **If it never opens.** Then every term on that slate is a thing we made for a road that is not going to be there, and the people who are going to be told that are not the ninety people in this gym, they are the four thousand households who have just been charged forty-one coppers a quarter by Mr. Stenn for the inspection, and the traders on the terraces who have turned up with a list of eleven claims, and the woman at the market counter who does not know what the four coppers is for.
+"If it never opens. Not if it opens next month, not if it opens at the spring. **If it never opens.** Then every term on that slate is a thing we made for a road that is not going to be there, and the people who are going to be told that are not the ninety people in this gym, they are the four thousand households who are going to be charged forty-one coppers a quarter by Mr. Stenn for the inspection, if the market votes it, and the traders on the terraces who have turned up with a list of eleven claims, and the woman at the market counter who does not know what the four coppers is for.
 
 "And a man on the upper terraces is going to stand there every single day and tell them it is coming. That is his trade. He is not lying. He has never lied. So if the road never opens, then the only man in this city who can tell a household that a road is coming is the man who wants to sell them one, and he will have been right to be selling it, and every one of us in this room will have built a very careful machine whose only remaining use is to help him.
 
@@ -186,4 +186,4 @@ Then the board sat, with all four of its seats named aloud because they always w
 
 **CALL A REVIEW**, said Sabin Tull, and Marda Osk seconded, and Nessa Pell proposed it and Mara Quill did not vote because the registrar is not a vote.
 
-The review was set for the day the ward market voted on the paper levy, which was the day Selik Marne's own order would be reviewed, which was the day a hundred and forty people were going to be in a yard for a rate, and nobody in that school gym had any idea what they had just done, and Teo did, and went home and told his cousin, who was the child who had refused a crossing on the nineteenth and was eleven years old and had said nobody had explained the toll to her, and who said, "Then somebody should be there," and went and asked for a place at the rate meeting and was given one because it was a public meeting and she was an affected person and nobody had ever yet thought of a reason to refuse her.
+The review was set for the day the ward market votes on the paper levy, which was the day Selik Marne's own order would be reviewed, which was the day a hundred and forty people were going to be in a yard for a rate, and nobody in that school gym had any idea what they had just done, and Teo did, and went home and told his cousin, who was the child who had refused a crossing on the nineteenth and was eleven years old and had said nobody had explained the toll to her, and who said, "Then somebody should be there," and went and asked for a place at the rate meeting and was given one because it was a public meeting and she was an affected person and nobody had ever yet thought of a reason to refuse her.

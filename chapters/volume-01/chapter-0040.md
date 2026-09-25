@@ -14,7 +14,7 @@ Lina Vale answered it in her own words, standing at the wall, with Bett Ruhl on 
 
 "Two books about six people," Lina said. "The first is Lot 17's, and it says four, and it says *household, four, giving and receiving, one member absent from the municipal record since the ninth year and by choice*, and that is a sentence that tells anybody who knows this district everything about a household, and it was written by me, and I wrote it in a hurry, and I did not ask.
 
-"And the second is my own book under my third barrel, and it is a strip, and it says four, and it was written by a man I have never met with a chisel in his hand, and he was not writing a strip. **He was writing a job.** He wrote *held* on it and put a cross on it and nailed a copy to a gate, and that is not a strip, and it went into a book that a woman in a kitchen reads out loud, and neither of us knew what it was for about eleven days.
+"And the second is my own book under my third barrel, and it is a strip, and it says four, and it was written by a man I have never met with a chisel in his hand, and he was not writing a strip. **He was writing a job.** He wrote *held* on it and put a cross on it and nailed a copy to a gate, and that is not a strip, and it went into a book that a woman in a kitchen reads out loud, and neither of us knew what it was for in nine days.
 
 "Both books are wrong by two. Not differently wrong. **The same two.** Six people, and a man counted a household because asking six people how many of them there are takes an evening he did not have, and I counted in a hurry and did not ask, and neither of us did a crime, and one of us put a man in a hospital with a mark that was a man's refusal of a name.
 
@@ -36,6 +36,8 @@ The pool was published before the hearing and published again after it, and the 
 
 **Published after, at about eleven, from the counts as two of them stand when anybody is asked to state them and the third book is opened in the room:** thirty-five. **And the difference entered as a finding about the counting: NONE. And the reason there is no difference is that in the four hours between the two publications, a strip-chain was matched out loud in a room with two people in it who are not clerks, and the matching found the two numbers that differ, and the two numbers were put in the same entry, and both of them are now the count.**
 
+**AND BESIDE THAT, IN THE REGISTRAR'S OWN HAND, BECAUSE THE REMEDY'S OWN RULE ABOUT A DIFFERENCE WAS CARRIED OUT FOR THE FIRST TIME IN ELEVEN YEARS AND IT HAS NOTHING TO DO: THE RULE SAYS THAT IF THE TWO PUBLICATIONS ARE THE SAME THEN THE HEARING HAS SOMETHING TO WORK ON, AND IF THEY ARE NOT THE SAME THEN THE DIFFERENCE IS THE FINDING. THE TWO PUBLICATIONS ARE THE SAME. THE HEARING HAS SOMETHING TO WORK ON. AND THE WORK WAS DONE BEFORE THE HEARING AND NOT IN IT, BY A WOMAN WITH A BASKET AND A COOK WITH A BAD HIP AND A WOMAN WITH THIRTY-ONE KEYS, AND THE REGISTRAR RECORDS THAT THE DESIGN'S OTHER HALF WAS BUILT FOR A FINDING AND THE FINDING ARRIVED EARLY AND OUT OF ORDER, AND THAT A REMEDY WHICH WORKS BY COUNTING WAS DISARMED THIS MORNING BY A KITCHEN.**
+
 **THE TOTAL IS THIRTY-FIVE, AND THE ENTRY SAYS THIRTY-FIVE, AND THE THIRTY-FIVE IS MADE OF TWO DIFFERENT COUNTS OF THE SAME PEOPLE, AND EVERY PERSON IN THIS ENTRY CAN BE FOUND, AND THE ONLY REASON THEY WERE NOT FOUND BEFORE IS THAT TWO BOOKS EXISTED.**
 
 Then the pool was not drawn on, and the reason it was not drawn on was entered: **no person came forward who could say what they lost, because no crossing has been performed under this remedy and there has been nothing to lose, and the remedy of the fourth of this month was called on the twelfth on a charter that has never opened, and the registrar states that she does not know whether that is a mercy or an absurdity and has entered both words.**
@@ -48,9 +50,9 @@ The remedy was then not discharged, and the reason was entered, and the reason w
 
 ---
 
-Rell Bode asked for the floor and was given it, and she had come with a basket and no chair, and she said the thing she had come to say, and she was entitled to say it, and it is the only argument in this yard that Mara Quill is going to try to answer, and she is going to get half of it.
+Rell Bode asked for the floor and was given it, and she was at the back with her basket sitting on the flagstones beside her and nobody fetched her a chair, and she said the thing she had come to say, and she was entitled to say it, and it is the only argument in this yard that Mara Quill is going to try to answer, and she is going to get half of it.
 
-"You have read it out," Rell Bode said. "All of it, twice, in a yard, in the rain, and it is the best record anybody in this city has ever kept of anything going wrong, and I want to say the other thing, and I am the only person in this yard who is entitled to, because I asked for it on the fourteenth of last month and nobody has ever done anything about it.
+"You have read it out," Rell Bode said. "All of it, twice, in a yard, in the rain, and it is the best record anybody in this city has ever kept of anything going wrong, and I want to say the other thing, and I am the only person in this yard who is entitled to, because I asked for it on the fourteenth and nobody has ever done anything about it.
 
 "**A book that records its failures loudly is a book that will be used against the people in it.**"
 
@@ -80,7 +82,7 @@ The trader from the terraces said, from the rail, "Then I want to read it."
 
 The rewrite took the rest of the day, and it was five sentences long, and every one of them had been fought over for a month by somebody.
 
-Adrian Vale put it on the crate at about two in the afternoon and the yard argued it for two hours, and at about half past four, with the board seated and the fourth sentence still going at the rail, Adrian Vale asked for the floor.
+Adrian Vale put it on the crate at about two in the afternoon and the yard argued it for two hours, and the board came in and sat while it was still going, and the fourth sentence had been at the rail for the better part of forty minutes and had a trader and a barrow-hauler and a signal hand taking turns at it and none of them agreeing.
 
 **ONE. THE USE, TOLL, TERM, RELEASE CONDITION, AND APPEAL PATH ARE WRITTEN IN ONE PLACE, IN THIS ORDER, ON ONE SHEET, AND ANYBODY MAY HAVE THE SHEET READ ALOUD TO THEM, AND NO PART OF IT IS IN ANOTHER DOCUMENT.**
 
@@ -104,7 +106,7 @@ And at about half past four in the afternoon, in the middle of that, with the bo
 
 "I have got something to post and I am going to do it badly and in daylight, and the board is to stop me if I am doing it wrong, because you have four seats and two of you can tell me things I do not know.
 
-"**I am a Stage 1 Reader. I cannot post security. I have said that in this yard five times since the twenty-ninth and I have said it in the same entry as a payment on the twenty-ninth so that a later clerk could not read a payment as a posted asset, and that rule is the reason I am standing here, because a thing I cannot do is now the thing I most need to have done.**
+"**I am a Stage 1 Reader. I cannot post security. I have said that in this yard five times in the last month and I have said it in the same entry as a payment on the twenty-ninth so that a later clerk could not read a payment as a posted asset, and that rule is the reason I am standing here, because a thing I cannot do is now the thing I most need to have done.**
 
 "So I am not posting security. What I am doing is putting four things into the custody of this lot, in this book, on a consequence I will write down and abide by, and I am going to say what makes it different from a payment, and I am going to say it before anybody asks, because last time I did it the other way round.
 
@@ -126,11 +128,11 @@ He read the three sets of figures, and Nessa Pell read them onto the slate in he
 
 "And the reason I am doing it, in daylight, in a yard, with four hundred people, and it is not heroism, and the yard is to hear that from me rather than work it out.
 
-"**On the nineteenth I entered the security of a charter in a private undertaking with my stamp on it, and put one line in the public book saying the entry would follow the return term. The entry did not follow the return term. A child died.** And on the twenty-ninth I entered a payment on a claim nobody had stated to me, at a figure I set, with the difference between it and the claim entered as uncomputed and not as nil, because a nil would be a number I chose. Those are two different documents and I have spent a month being unable to tell them apart in my own head, and the only reason I can now is that one of them is in this book and the other one is not." And on the sixth of this month I wrote a clause at two in the morning that put a man on a ballast, and the ballast went a foot, and a man is in a room in the lower terrace with an ankle that will turn on wet ground for the rest of his life, and the whole of the reason that happened is that I am the only man in this city who has ever been asked to hold something for the public and has never once had anything anybody could take off him.
+"**On the nineteenth I entered the security of a charter in a private undertaking with my stamp on it, and put one line in the public book saying the entry would follow the return term. The entry did not follow the return term. A child died.** And on the twenty-ninth I entered a payment on a claim nobody had stated to me, at a figure I set, with the difference between it and the claim entered as uncomputed and not as nil, because a nil would be a number I chose. Those are two different documents and I have spent a month being unable to tell them apart in my own head, and the only reason I can now is that one of them is in this book and the other one is not. And on the second of this month I wrote a clause at two in the morning that put a man on a ballast, and I published it on the sixth without reading it again, and the ballast went a foot, and a man is in a room in the lower terrace with an ankle that will turn on wet ground for the rest of his life, and the whole of the reason that happened is that I am the only man in this city who has ever been asked to hold something for the public and has never once had anything anybody could take off him.**
 
 "And I want it in the entry in this form, because it is the form that is true: **Mr. Vale was told the rule, and has obeyed it, and has done the next thing instead, and the next thing is not a power and has no name in this book.** I am not posting it because I have become something else. **I am doing it because I have run out of ways to hurt people by accident and this is the last one that is mine to give away.** And the yard is to notice that the man who is hurt is not in this book by name, and that I cannot help him, and that the four things on that sheet will not help him either, and I am not going to stand here and pretend that what I am handing over is the price of his ankle. It is not. It is the price of a habit, and habits are cheaper than ankles, and anybody who tells you the two are the same has never had to look at a person."
 
-Before the board was asked, it renewed the steward's term. The custody of the token ran from the fifth of this month for seven days and expired on the twelfth, and on the twelfth it was renewed, in public, on the sitting steward's own request, on the record, on the ground that a term that expires in a crisis is a term that can be ended by anybody who is uncomfortable. It is the fourth renewal since the twenty-first of last month, and Nessa Pell said out loud in the yard that she was going to keep asking for it, and that anybody who thought four renewals in three weeks was a sign of anything had not read the entry from the twenty-first.
+Before the board was asked, it renewed the steward's term. The custody of the token ran from the fifth of this month for seven days and expired on the twelfth, and on the twelfth it was renewed, in public, on the sitting steward's own request, on the record, on the ground that a term that expires in a crisis is a term that can be ended by anybody who is uncomfortable. It is the fourth renewal since the twenty-first, and the twenty-first's own term ran out on the twenty-eighth and stood unrenewed for a month, and Nessa Pell said out loud in the yard that she was going to keep asking for it, and that anybody who thought four renewals in seven weeks was a sign of anything had not read the entry from the twenty-first, which is the entry that says she did not have to.
 
 Nessa Pell entered it, and then the board did the thing it does, and it did it in nine seconds, all four seats named aloud: Sabin Tull moved it, Marda Osk seconded it, Nessa Pell said she would hold it as the sitting steward whether it carried or not, and Mara Quill did not vote because the registrar is not a vote.
 
@@ -144,7 +146,7 @@ Nessa Pell entered it, and then the board did the thing it does, and it did it i
 
 ---
 
-Mara Quill read the book out in one sitting, from the eighteenth of last month to the twelfth of this month, in the yard, at about half past five, with the board seated and all four seats named, and it took three hours and ten minutes and about six hundred people stayed.
+Mara Quill read the book out in one sitting, from the eighteenth to the twelfth of this month, in the yard, at about half past five, with the board seated and all four seats named, and it took three hours and ten minutes and about six hundred people stayed.
 
 She read the whole of the nineteenth. The sheet with the RETURN field in it, and the deferral line, and the six objections, and the four that were not answered, and the two refusals with their times — Tarin Kest at four o'clock on the afternoon of the eighteenth, Selik Marne at twenty past four the same afternoon, and the registrar declining to enter an interval, because the interval is a number a room picks and the refusals are a record two men made.
 
@@ -156,9 +158,9 @@ She read the four documents that changed, including her own, and she read the li
 
 She read the twenty-ninth, with the six hundred and twenty-nine coppers and the one thousand one hundred and nineteen, and the difference entered as uncomputed and not as nil.
 
-She read the twenty-two letters — eleven from the queue, eleven from outside it, four names in common — because those are the ninth of last month and they belong in the reading.
+She read the twenty-two letters — eleven from the queue, eleven from outside it, four names in common — because those are the ninth, and the ninth belongs in the reading, and if you leave a day out of a thing that took a month to happen then the day out is the part somebody will use.
 
-She read the twenty-ninth of this month, the proposal of the split, with Tarin Kest's refusal in the same line as his entry, and the mark.
+She read the twenty-ninth of last month, the proposal of the split, with Tarin Kest's refusal in the same line as his entry, and the mark.
 
 She read the published terms of the sixth, all eight items, and the suspension in the first hour of the making.
 
@@ -185,17 +187,17 @@ Nessa Pell entered it in the ledger without being asked, because she enters ever
 
 The traders of Alder Reach read the entries of this month, all of them, in the weeks after, and about a third of them went to the terraces, and that is the number in the entry.
 
-The book is in nine copies and on eleven boards and it is read out in kitchens, and a reader with a lamp comes to the ward market counter four days a week and reads out loud whatever anybody brings him, out of a rate of forty-one coppers a quarter, and the day-rate of the reader is entered at nine coppers with the lie in it in the reader's own line.
+The book is in nine copies and on eleven boards and it is read out in kitchens, and a reader with a lamp comes to the ward market counter four days a week and reads out loud whatever anybody brings him, out of a paper levy that four coppers a quarter did not pay for and forty-one might, **and that the ward market has not voted on yet**, and the day-rate of the reader is entered at nine coppers with the lie in it in the reader's own line.
 
 And it is the first thing in Alder Reach that a stranger could take cold, with no help from anybody, and argue two entirely separate things from.
 
 The first: that a public route across St. Orra is possible, and that eight terms written by eight different frightened people in five weeks add up to a road, and that a man with a lamp can say out loud in a market what every person in this city has agreed to and has not agreed to, and that no man on any terrace in this city can take that away by writing nine flat lines.
 
-The second: that the man who wrote the schedule put a person on a rail, and that the person is not in the book by name, and that a mark was a man's refusal of a name and was used three times for two jobs in six days by three people who each thought they were helping, and that the same man on the same day put a thousand five hundred and thirty-six coppers into the custody of a market and called it a habit and not a payment.
+The second: that the man who wrote the schedule put a person on a rail, and that the person is not in the book by name, and that a mark was a man's refusal of a name and was given two jobs in four documents by three people who each thought they were helping, and that the same man on the same day put a thousand five hundred and thirty-six coppers into the custody of a market and called it a habit and not a payment.
 
 Both of those are true, and they are in the same book, and they are in the same hand about half the time, and there is no separate drawer for either of them.
 
-Adrian Vale signed the entry as a person who had been told the rule and had obeyed it anyway, and gave the reason out loud in a yard of six hundred people, and it was not heroism, and the yard wrote it down as not heroism because Nessa Pell writes down what people are.
+Adrian Vale signed the entry as a person who had been told the rule and had obeyed it anyway, and gave the reason out loud in a yard of four hundred people, and it was not heroism, and the yard wrote it down as not heroism because Nessa Pell writes down what people are.
 
 And Mara Quill and Adrian Vale did not say one word to each other about the fact that they were now further apart in law than they had ever been — she held a book he could not post into, and he had signed a thing the book had no name for — and closer in practice than they had ever been, in a yard at a quarter to nine at night in the rain, passing a slate backwards and forwards across a crate while ninety people listened to a book be read out loud from beginning to end.
 
