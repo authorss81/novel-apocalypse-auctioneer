@@ -4,7 +4,7 @@ Chapter range: 1–50
 
 ## Central pressure
 
-The St. Orra Fault has cut Alder Reach off from medicine, seed, and the repair crews that keep its neighborhoods alive. The **Last Fare**, a brass transit token found in a stranded bus, can open one route across the Fault for twelve minutes. Every traveler loses the memory of why they are going somewhere, and repeated use may strand the route permanently.
+The St. Orra Fault has cut Alder Reach off from medicine and from the Salt Verge's seed shipments, and with them from the repair crews that keep its neighborhoods alive. The **Last Fare**, a brass transit token found in a stranded bus, can open one route across the Fault for twelve minutes. Every traveler loses the memory of why they are going somewhere, and repeated use may strand the route permanently.
 
 Adrian Vale must turn that dangerous possibility into a public **Hearth Line** without turning temporary access into a private road, a permanent charter, or a way for the Wardens, brokers, or the Unlisted to be made visible without choice. Selik Marne controls the safest official crossing and believes strict control is the only way to prevent another mass failure. Halloway Reed offers faster private access by selling claims whose tolls are hidden or incomplete. The immediate question is practical—can medicine, children, and supplies cross?—but the deeper question is whether Adrian's market can be publicly accountable when every useful answer imposes a real loss.
 
@@ -75,7 +75,7 @@ By the end of Volume 01:
 - Halloway's counterfeit claim is traced through Orren's stolen records and Lina's courier network. The counterfeit cannot create a valid right, but it can send people into a bare claimant's danger.
 - Selik closes the official bridge more tightly after a false-alarm evacuation. The market must decide whether to wait for a safer official route or accept a bounded public one.
 
-### Chapters 17–25: The sale that appears to save everyone
+### Chapters 17–26: The sale that appears to save everyone
 
 - A larger medicine crisis makes the Hearth Line politically irresistible. Adrian believes he can control one known risk and organizes the first full auction that combines medicine and repair crews; a larger school shelter's return or second passage becomes the moral test of the terms.
 - He discloses the route's memory toll in general terms but conceals the fact that returning travelers—and especially the return driver—will bear it again. He also uses a private workshop guarantee to make the sale appear secure without putting that security in the public book.
@@ -83,7 +83,7 @@ By the end of Volume 01:
 - Several returners are diverted into a dangerous false destination. Backwash exposes Adrian's private security and makes the public ask why he could describe every benefit but not the cost.
 - Mara stops the route and challenges Adrian's resemblance to Iven: not because Iven is proven to be alive, but because Adrian is making the same emergency exception he has made private and calls it temporary.
 
-### Chapters 26–33: Backwash becomes a political fact
+### Chapters 27–33: Backwash becomes a political fact
 
 - Adrian helps recover the lost travelers, pays a real portion of the backwash, and publishes the failed terms. His reputation and inventory take the loss; the route does not become a private monopoly.
 - Selik uses the failure to close the official bridge for an extended inspection and argues that only a permanent Warden route is safe. Adrian must show that a public route can be safer than a private exception without pretending the public route is costless.
@@ -97,7 +97,7 @@ By the end of Volume 01:
 - Mara forces a rewrite in which the route's use, toll, term, release condition, and appeal path are visible; affected people can refuse; and no one may treat a successful crossing as a transferable ownership right.
 - Adrian posts a real, inspectable asset from Lot 17—the depot inspection press and a named repair-crew term—as security, distinct from the memory toll. He writes the first bounded charter he can be held to. The Reader stage becomes Binder through changed work, not a reward.
 
-### Chapters 43–50: The First Hammer
+### Chapters 43–50: The First Hammer (volume climax at 46–50)
 
 - The final public auction sells one defined use of the Last Fare, not the token or the rule. The medicine convoy and a larger school shelter group are named beneficiaries; Tarin and a rotating return crew are bearers; fresh witnesses accept the full toll; the term expires and requires a new closing.
 - Selik's Wardens, Halloway's brokers, and frightened residents try to turn the auction into a permanent grant or a private gate. Adrian refuses both and uses the public remedy rather than a hidden security.

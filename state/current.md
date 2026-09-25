@@ -1,14 +1,16 @@
 # Current State
 
-Current phase: bootstrap
+Current phase: outline (Volume 01 and Batch 0001 cards complete; next phase is batch planning)
 
 Current volume: 1
 
-Current batch: 0
+Current batch: 1 (planned, Chapters 1–10; no prose written)
 
 Last completed chapter: none
 
 Last batch summary: none
+
+Next batch to write: `outline/batches/volume-01-batch-0001.md`, Chapters 1–10. Beat structure is beginning (1–2), escalation (3–4), midpoint (5–6), climax (7–9), aftermath (10). Volume 01 runs Chapters 1–50 with its midpoint reversal at 23–26 and its climax at 46–50, so five further batches remain after this one.
 
 Story time: Year 17 after the Long Fracture; no prose events have occurred yet.
 

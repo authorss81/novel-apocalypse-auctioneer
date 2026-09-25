@@ -6,6 +6,21 @@ Chapter range: 1–10
 
 Beat structure: **Beginning (Chapters 1–2) → Escalation (3–4) → Midpoint (5–6) → Climax (7–9) → Aftermath (10)**
 
+## Pressure rotation
+
+- **Ch 1 — character work and discovery:** an ordinary sale, then an object that cannot be priced.
+- **Ch 2 — controlled experimentation:** testing a reading against a paper map and paying a physical cost.
+- **Ch 3 — political and procedural pressure:** a municipal audit that seals the object Adrian wants to use.
+- **Ch 4 — negotiation and moral pressure:** a competent monopoly that saves lives and excludes people by paperwork.
+- **Ch 5 — action and failure:** a bare activation that solves the immediate problem and creates a worse one.
+- **Ch 6 — action, cost, and recovery:** rescue, settlement, and the first promise Adrian intends to keep.
+- **Ch 7 — political and relationship work:** a public process, a refusal, and the Unlisted boundary.
+- **Ch 8 — investigation:** a counterfeit claim, a stolen record, and the first mystery clue.
+- **Ch 9 — action under public terms:** one charter closes and the route opens exactly once.
+- **Ch 10 — aftermath and emotional payoff:** the lot book, the limits of the win, and quiet professional trust.
+
+No two consecutive chapters use the same pressure. Only Chapters 5, 6, and 9 are physical action chapters, and each is separated from the next by a political or investigative chapter.
+
 ## Batch goal
 
 Give Adrian an immediate, physical reason to value the Last Fare; let his first attempt fail because he acts as a bare claimant and hides the cost of return; then make him choose a witnessed, publicly recorded route crossing. By the end of the batch, the Hearth Line has crossed once under terms that people can inspect, but it is fragile, expensive, and not yet a stable public service.
@@ -82,7 +97,7 @@ Chapter 10 establishes the public lot book, the temporary nature of the charter,
 
 **Immediate goal:** Finish an ordinary surplus sale of clinic equipment and tram parts so Lot 17 can pay its next repair bill and keep its promised delivery to Ward Nine.
 
-**Resistance:** A frightened buyer wants Adrian to call a cracked piece of salvage “serviceable,” while a messenger at the door says the fever shipment in St. Orra is stuck behind a closed crossing. Adrian cannot keep the sale orderly if the crowd begins competing for the same scarce route.
+**Resistance:** A frightened buyer wants Adrian to call a cracked piece of salvage “serviceable,” while a messenger at the door says the fever shipment is stuck behind the St. Orra crossing and the official bridge will not take it. Adrian cannot keep the sale orderly if the crowd begins competing for the same scarce route.
 
 **Information revealed:** A salvage runner, Orren Pike, slips a brass transit token and a torn bus manifest under the sale table. Adrian recognizes the token's municipal stamp and the shape of its rim, but not its current rule. When he touches it, a short internal inscription appears: the object can open one route, but the terms are incomplete.
 
@@ -114,7 +129,7 @@ Chapter 10 establishes the public lot book, the temporary nature of the charter,
 
 **Emotional change:** Adrian's fear of becoming the default bearer becomes a reason to keep working rather than a reason to hide. He feels the first painful usefulness of a reading he cannot fully control.
 
-**Power or resource change:** Adrian receives an unstable precursor to a three-part reading: the use, immediate toll, and some standing are visible, but the return relationship remains incomplete. The physical toll echo is real, and this is not yet a stable Stage 1 capacity; he cannot read continuously or predict the result.
+**Power or resource change:** Adrian receives an unstable precursor to a three-part reading: the use, immediate toll, and some standing are visible, but the return relationship remains incomplete. The physical cost is a warning, not yet the **toll echo** of an earned Stage 1 reading; it tells him contact hurts, not that he has a reliable capacity. He cannot read continuously or predict the result.
 
 **Continuity fact to preserve:** “Memory of purpose” is the Last Fare's toll. The route's return point and standing are separate requirements, not optional details. No traveler has yet boarded.
 
@@ -278,7 +293,11 @@ Chapter 10 establishes the public lot book, the temporary nature of the charter,
 
 **Information revealed:** Adrian can now state the Last Fare's use, immediate toll, and standing, but he must also state what he cannot know: whether every return will land correctly, whether the token will hold for the full term, and how the memory toll will change each traveler. The Tally accepts a bounded charter when the terms and witnesses are complete; it does not promise safety.
 
-**Action or decision:** Adrian and Mara define the lot's cracked condition, one route across St. Orra, the Ward Nine return platform, the bearer, beneficiaries, toll, term, release condition, witnesses, and remedy in public. The term is one activation ending when the last traveler reaches the Ward Nine platform or at twelve minutes, whichever comes first; the release condition is the token's return to the public case and the public board's notice, with no automatic renewal. The toll is paid at activation and again when a traveler returns; the return guide must remember the destination before the first crossing. Tarin drives with a named return guide, and two fresh independent witnesses—a school shelter steward who is not a passenger and a Route House witness who is not the buyer or bearer—accept their roles after full disclosure. Orren checks the record but is not counted among the required witnesses after agreeing not to list the Unlisted shelter. At dawn, Halloway's counterfeit buyer attempts a private crossing; Selik's Wardens detain the buyer and separate the carriers from the counterfeit token, while the carriers refuse to move after Orren reads the hidden addendum aloud. Mara's challenge records the invalidity, but the panic remains. Mara records rather than substituting herself for the witnesses. Adrian stops the bidding when a passenger refuses and does not promise that the road is safe.
+**Action or decision:** Before the board opens, Halloway's counterfeit buyer tries to use the copied claim at a private crossing on the far side of the staging line. Selik's Wardens detain the buyer and separate the carriers from the counterfeit token, and the carriers refuse to move once Orren reads the hidden addendum aloud. Mara records the invalidity instead of substituting herself for the witnesses. The panic it causes is the reason the crowd cannot simply vote the danger away.
+
+Adrian and Mara then define the charter in public: the token's cracked condition, one route across St. Orra, the Ward Nine return platform, Tarin as the single named bearer, the medicine convoy and the school shelter group as beneficiaries, the toll, the term, the release condition, the witnesses, and the remedy. The term is one activation ending when the last traveler reaches the platform or at twelve minutes, whichever comes first; the release condition is the token's return to the public case and the board's public notice, with no automatic renewal. The toll is paid at activation and again by anyone who travels back, and one named return traveler must still remember the destination before the first crossing — that is the lot's standing requirement, not a second bearer.
+
+Two fresh independent witnesses accept their roles after full disclosure: a school shelter steward who is not a passenger, and a Road House supply driver who is neither buyer nor bearer. Orren checks the written record but is not counted as a witness, because he agreed not to list the Unlisted shelter. Adrian stops the bidding when a passenger refuses to board, and he does not promise that the road is safe.
 
 **Emotional change:** Adrian lets go of the fantasy that a correct reading lets him control the room. Mara's trust is visible in the fact that she allows him to proceed while retaining the right to stop him. He experiences relief when the route opens, then terror when a returning passenger forgets the purpose of the trip.
 
@@ -290,7 +309,7 @@ Chapter 10 establishes the public lot book, the temporary nature of the charter,
 
 **Next-chapter pull:** The public board must record who crossed, what was lost, and how the next attempt can be challenged. A returned passenger knows the road but not why they are walking it.
 
-### Chapter 00010 — The Public Lot Book
+### Chapter 0010 — The Public Lot Book
 
 **POV:** Mara Quill
 
