@@ -70,7 +70,7 @@ Halloway Reed looked at him for a moment, and then said, "That is the first thin
 
 **And then the case was opened, and Adrian Vale closed a charter, which is a thing he is allowed to do, and it is worth saying what he is allowed to do on this particular morning, because a yard of nine hundred people believed he could do considerably more.**
 
-"I am a Stage 1 reader," he said, at the crate, at about ten past eleven. "I can close one charter with one bearer, a short term and a visible toll. I cannot split a use among bearers. I cannot transfer one. I cannot renew one. I cannot post security, and if you see the word *security* anywhere in this morning's paper it is a mistake.
+"I am a Stage 1 reader," he said, at the crate, at about ten past eleven. "I can close one charter with one bearer, a short term and a visible toll. I cannot split a use among bearers. I cannot transfer one. I cannot renew one. I cannot post security, and if you see the word *security* used this morning as though it were a thing this charter had, it is a mistake.
 
 "**This is one charter. One bearer. One activation. One term with an end written on it. And I am the only person in this city who is going to stand here and close it, and nobody else can, and I am not going to be thanked for it, and I want that in the record as the reason and not as modesty.**"
 
@@ -148,7 +148,7 @@ Mara Quill did not vote. She is the registrar and not a vote and not independent
 
 **The tenth hand of the signal crew**, who said, before he accepted anything, that he was the tenth and not one of the nine and that nobody was to put him in a count because he was reading the counts, and that he had found four wrong numbers in five weeks and that three of them were in wardens' documents, and that this morning's number of twenty-six was the first one in five weeks he could not put on his page and that he had said so out loud on a staging line at six in the morning and would say it again on this rail.
 
-"I accept the role. I have read all of it and the toll was read to me in the words of the ninth line and I have heard the release condition and I have heard it twice. **I am the tenth hand and not one of the nine. My nine have been home since the fourteenth. I am not travelling. And if that count of twenty-four is short of what the people on the ground say it is, I will stand at this rail and say so, and I will not be argued with.**"
+"I accept the role. I have read all of it and the toll was read to me in the words of the ninth line and I have heard the release condition and I have heard it twice. **I am the tenth hand and not one of the nine. My nine have been home over the footbridge since the eleventh and the twelfth. I am not travelling. And if that count of twenty-four is short of what the people on the ground say it is, I will stand at this rail and say so, and I will not be argued with.**"
 
 **Ferrin Usk**, copper merchant, a stall in the ward market and eleven years of standing in it, and a man who voted against a rate on the thirteenth and read a held-asset entry aloud in a counting room and asked a question about a sentence that this city has no practice for, and who came to this yard that morning having bought no place from Halloway Reed, and said so.
 

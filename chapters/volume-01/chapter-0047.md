@@ -1,6 +1,6 @@
 # Chapter 47: The Term
 
-Adrian Vale stood on the tram apron outside the rail from about ten past five in the afternoon until about forty minutes to six, and about nine hundred people stood in a yard in the rain watching him stand there, and he had nothing to do for the whole of it.
+Adrian Vale stood on the tram apron outside the rail from about ten past five in the afternoon until about twenty minutes to six, and about nine hundred people stood in a yard in the rain watching him stand there, and he had nothing to do for the whole of it.
 
 He had done this for four weeks inside his own head and he had got very good at it. A term with an end on it means that somebody has to be the person who watches the end arrive, and a man who watches an end arrive does not get to look busy. He stood with his hands at his sides and watched the empty gate and thought about salvage, and about eleven minutes after the vehicle went out of the gate somebody in the second row put a hand on the rail.
 
@@ -42,7 +42,7 @@ And the last one was not shouted. It was said at the volume of a person who has 
 
 "**If the road is held past the term, the case closes.** That is written on the twelfth of this month in five sentences and one of them is mine, and I wrote it, and I said in this yard at the time that it was the fourth of the five and that the fourth was going to be the one that got used, and I was right, and every person in this yard is to notice that I was right about my own sentence.
 
-"**A person who says the word has the right to stop it.** Not the bearer. Not the board. Not me. A person. Any person standing in this yard. And that is in this book and I did not write it that way — Mrs. Bode wrote the sentence and I entered it.
+"**A person who says the word has the right to stop it.** Not the bearer. Not the board. Not me. A person. Any person standing at this rail. And that is in this book and I did not write it that way — Mrs. Bode wrote the sentence and I entered it.
 
 "And **there is no second use this afternoon.** A second use is not a longer first use. A second use is a second closing, and a second closing is a proposal and two fresh witnesses and a board seated with four seats named, and it takes about six hours, and I have been doing it since ten o'clock this morning.
 
@@ -76,7 +76,7 @@ Adrian knew the cart. He had walked past it twice.
 
 The cart had been on the apron since about four o'clock in the afternoon. It carried **a hundred and seventy pounds of coal in a handcart and eleven sacks of seed**, and the coal was for eleven households on the far bank who have had none since the middle of the month, and the seed was for a household at the foot of the receiving ramp that had nothing planted and had asked a chandler on this side to find out what seed cost on the other side.
 
-"**It goes on the road at about a quarter past five**," Treft said, "if the road is held four minutes, and the road is not going to be held, and so it is going to sit in my yard behind a coal shed until Monday, and coal is not seed, Mr. Vale, and the seed will be a fortnight late whatever I do with it, and eleven households on the far side are going to be cold on Monday night and they will not be cold because of anything anybody in this yard did today.
+"**It goes on the road at about a quarter past five**," Treft said, "if the road is held four minutes, and the road is not going to be held, and so it is going to sit in my yard behind a coal shed until Monday, and coal is not seed, Mr. Vale, and the seed will be a fortnight late whatever I do with it, and eleven households on the far side are going to be cold on Monday night and they will not be cold because of anything anybody here did today.
 
 "And I am not going to stand here and be a martyr about it. I would have made a very good thing out of four minutes and I would have paid eleven coppers to Mr. Reed for a place and I did not, and that is the only reason I am standing here with a cart instead of sitting down, and you can all check it with him, and he will tell you the truth because it is printed on page two.
 
@@ -109,9 +109,19 @@ Nessa Pell entered it, without being asked, because she enters every reading and
 
 **And then the bus came down.**
 
-Tarin Kest had it at the second rail east of the bell post at about ten past five, under the lamp, where the ballast drops, and he stopped it there, on the stamped plate, with the arm of the bell post standing four yards further along pointing down the spur where a hand had turned it, and the second rail joint held, and the lamp was lit because a lamp is lit on a return point and Tarin had asked for it and the ward market had paid for the oil.
+Tarin Kest had it at the second rail east of the bell post at about twenty past five, under the lamp, where the ballast drops, and he stopped it there, on the stamped plate, with the arm of the bell post standing four yards further along pointing down the spur where a hand had turned it, and the second rail joint held, and the lamp was lit because a lamp is lit on a return point and Tarin had asked for it and the ward market had paid for the oil.
 
 The vehicle came down out of St. Orra at an angle that no drawing in this city has ever got right, and it came down slowly, and it did not stop anywhere else, and it stopped on the stamped plate, which is the whole content of a named pair: **a place, an approach, and the person able to hold them.**
+
+**And at about twenty-two minutes past five the road shut, and it shut the way a term shuts, which is to say that almost nothing happened and everybody in the yard found out about it from a book.**
+
+The lamp on the second rail stayed lit. The bus sat on the stamped plate with its engine running and the cover shut over the route-control slot, and the Fault between the two banks of the St. Orra went back to being the place a bus came out of once, in April, for no reason anybody has ever given. The object had reported at a quarter past five that it did not know whether the route would close at twelve minutes or before it, and it closed at twelve minutes, and it did that inside a vehicle, out of sight, with the cover over the slot, and the only thing in Alder Reach that could have told anybody what it was doing was in there and not answering.
+
+Adrian Vale did not announce it. He put two fingers on the open page on the crate and turned the page round so that the yard could see the line already written on it, and Nessa Pell read the entry out in the voice she uses for tolls, because this is a toll of a kind and there is no other voice for one:
+
+> **THE TERM EXPIRED AT TWELVE MINUTES AND NOT BEFORE IT. THE VEHICLE WAS ON THE STAMPED PLATE AT THE SECOND RAIL EAST OF THE BELL POST AT ABOUT TWENTY MINUTES PAST FIVE AND STOPPED NOWHERE ELSE. AND THE OBJECT IS INSIDE IT. AND THE OBJECT HAS NOT COME BACK, AND NOBODY HAS SAID ANYWHERE IN THIS BOOK THAT IT WOULD COME BACK AT TWELVE MINUTES, AND THE RELEASE CONDITION SAYS IT COMES BACK AT THE CLOSING, AND BOTH OF THOSE ARE TRUE, AND THE YARD IS TO HAVE BOTH, AND A CLERK IS TO ENTER THE TIME.**
+
+And the yard did not make a sound about that either, because it had spent five weeks being told that a limit was the only thing in this district anybody could check, and the limit had just been checked, by a clock, in front of nine hundred people, and nobody had been brave about it and nobody had to be.
 
 And the release condition was read at the closing by Bett Ruhl, who cannot read, and who said so before she started, and who had asked for it to be read a third time on the sixth of this month and had it read a third time.
 
@@ -149,7 +159,7 @@ She came off the bus at about half past five carrying a canvas bag that had been
 
 ---
 
-**And then, at about forty minutes to six, the token came back to the public case of Lot 17, on its own, without the bus, and the wax was broken again, and nobody in that yard said anything for about a minute and a half.**
+**And then, at about twenty minutes to six, the token came back to the public case of Lot 17, on its own, without the bus, and the wax was broken again, and nobody in that yard said anything for about a minute and a half.**
 
 Nobody had any idea how. The bus was on the near apron with its engine running and Tarin Kest in the driver's seat and the route-control cover shut and the slot empty, and a brass token that is cracked through the plate came onto the crate in the middle of a yard of about nine hundred people, and Nessa Pell had it covered with a cloth before anybody had finished getting near it, which is what she did on the nineteenth of last month and is in the book from that day.
 

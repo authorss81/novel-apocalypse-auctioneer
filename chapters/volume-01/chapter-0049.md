@@ -58,7 +58,7 @@ Ossie Prent had trimmed wicks at the arcades for nineteen years and had trimmed 
 
 "**A room.** Not a case. A room, and an entry in the book, and somebody who goes and looks and writes down what they saw and puts their name on it, and not on a Tuesday but at an hour when the person it belongs to could be looked at by whoever wanted to."
 
-**And the board, which has four seats and no owner and can neither grant a use nor waive a toll nor audit a security nor strike a line, said that it could not make a room out of a tram depot, and could not employ anybody, and could not fund an inspection, and could do exactly two things, which were to set a term and to renew it, and to publish a result.**
+**And the board, which has four seats and no owner and can neither grant a use nor waive a toll nor audit a security nor strike a line, said that it could not make a room out of a tram depot, and could not employ anybody, and could not fund an inspection, and could do exactly three things, which were to set a term, to renew it, and to publish a result.**
 
 And it published a result, on the twenty-first of this month, in the yard, all four seats named aloud, and this is what the result is, and it is the last instrument this district built this month, and the next one anybody builds will be the one somebody else builds:
 
@@ -72,7 +72,7 @@ And it published a result, on the twenty-first of this month, in the yard, all f
 >
 > **A ROTATION. The steward's key does not stay. It is held for a stated term by a person named in this book, it is handed on in this book, and the handing-on is a thing in the book and not a thing that happens in a corridor. The board cannot create the rotation and has been asked for it by the sitting steward and cannot do it, and the minute says so, and the request stands.**
 >
-> **AND A READER. On the days the case is open, a reader of the ward market counter describes the object, in the yard, to anybody who turns up, in words the asker did not bring, and describes it again to anybody else who asks, and the ward market's reader is the person who does it, and the ward market's reader is paid out of the paper levy at forty-one coppers a quarter, and the ward market voted that rate on the thirteenth of this month and the rate is in force and the reading is in the reader's line and the lie in it is written in the reader's line too.**
+> **AND A READER. On the days the case is open, a reader of the ward market counter describes the object, in the yard, to anybody who turns up, in words the asker did not bring, and describes it again to anybody else who asks, and the ward market's reader is the person who does it, and the ward market's reader is paid out of the paper levy at eleven coppers a quarter, which is what the market voted for her on the thirteenth of this month and not what a day of it is worth, and the rate is in force and the reading is in the reader's line and the lie in it is written in the reader's line too.**
 
 ---
 
@@ -118,7 +118,7 @@ And she picked it up, which nobody in that yard had expected, and weighed it in 
 
 "It is warm," she said. "It has been in a case in a locked office since Wednesday and it is warm, and I am not going to tell this yard what that means because I do not know, and I have been careful for thirty-one years and I am not going to stop being careful at four o'clock in the afternoon in front of four hundred people."
 
-"And on any day anybody turns up at that counter," Rutt said, "and asks what the object is, I will describe it, again, in the words they did not bring. **And if two people are ever told two different things about it by two different people, they come to that counter, and I will weigh it in front of them, and that is the whole of the service and it is not much and it is not nothing and it is paid for at nine coppers a day with the lie in it in my own line.**"
+"And on any day anybody turns up at that counter," Rutt said, "and asks what the object is, I will describe it, again, in the words they did not bring. **And if two people are ever told two different things about it by two different people, they come to that counter, and I will weigh it in front of them, and that is the whole of the service and it is not much and it is not nothing, and it is paid for at eleven coppers a quarter, and the lie in my own line is that eleven is what the market voted on the thirteenth and not what a day of standing in the rain being lied to is worth.**"
 
 **And the case was closed, and locked, and put back on the shelf behind the office window where about four hundred people could see it through the glass, which is where it has been since the ninth of last month, and the clerk went home at about five, and the yard emptied, and the board entered the custody in the book, published it in nine copies, and nailed a copy to the eleven boards, and the entry in the book ends with a sentence which is the last line of the twenty-first and is not the last line of anything:**
 

@@ -44,7 +44,7 @@ The yard had been waiting five weeks for a sale. What it got was a man in a waxe
 
 He let that sit, because the yard had heard it before and there is nothing new to say about it and everybody knew it.
 
-"That line says no to the boxes. I wrote a proposal on the twenty-ninth with four bearers in it and a clause at two in the morning in it that put a man on a rail, and I have spent a fortnight being the man who says the awkward part, and I am going to say it now: **I am not going to be the man who quietly reinterprets his own clause to save a delivery.** Nobody in this yard should let me. If I do it this afternoon, somebody in this yard ought to stand up and stop me, and I would like it minuted that I asked for that.
+"That line says no to the boxes. I wrote a proposal on the twenty-ninth with four bearers in it and a clause at two in the morning in it that put a man on a rail, and I have spent a fortnight being the man who says the awkward part, and I am going to say it now: **I am not going to be the man who quietly reinterprets his own clause to save a delivery.** Nobody in this yard should let me. If I do it this afternoon, somebody is to stand up and stop me, and it is not to wait for me to ask for it.
 
 "So there are four things on this crate and the yard is going to choose one, and I am not going to choose."
 
@@ -64,9 +64,9 @@ Renn Fisk had been standing at the front of the crowd with his arms folded for a
 
 "**A box that is not cold within six hours is a box of soup.** Not bad soup. Soup. There is no way to argue a person out of soup who is in a fever ward, because a fever ward is not an argument, it is a body, and the body is what it is whatever is in the crate.
 
-"So I am not going to pretend to be reasonable about this. I have lost four tolls and a barrow's worth of cold and I have never once said what a toll was for and I am not going to stand in this yard and be gracious about a clause a woman wrote out of a forged page. **I want the boxes on the bus.**"
+"So I am not going to pretend to be reasonable about this. I have lost four tolls and a barrow's worth of cold and I have never once said what a toll was for and I am not going to stand here and be gracious about a clause a woman wrote out of a forged page. **I want the boxes on the bus.**"
 
-**"I want the boxes on the bus," Marda Osk said, "and so does half this yard, and Mr. Fisk is right about the soup, and I have voted for the eighth line and I would vote for it again, and I am going to be the one who says the thing nobody wants said, which is that the four things on that crate are not four ways of doing this. They are three ways of failing and one way of doing it, and everybody in this yard can work out which one, and the reason the man who wrote two of them cannot say it out loud is that he wrote them."
+**"I want the boxes on the bus," Marda Osk said, "and so does half this yard, and Mr. Fisk is right about the soup, and I have voted for the eighth line and I would vote for it again, and I am going to be the one who says the thing nobody wants said, which is that the four things on that crate are not four ways of doing this. They are three ways of failing and one way of doing it, and everybody in the yard can work out which one, and the reason the man who wrote two of them cannot say it out loud is that he wrote them."
 
 Nobody in the yard argued with Marda Osk, which is a thing that happens about twice a month.
 
@@ -84,7 +84,7 @@ Then Nessa Pell stood up, and she had the slate, and she does not stand up.
 
 "That is the price. Six people who were going to travel with two hands are going to travel with none, and one of them is thirty-one years old and has a bad shoulder on the left from the third year, and the matron knows that, and the matron is on the other bank, and the matron has not been asked and I am not asking her in a yard."
 
-"Then it is not the reading," said the tenth hand of the signal crew, from the back, with his page in his hand. "It is the reading with the cost written at the front of it, and the cost is that six of eight is a number somebody chose, and nobody in this yard chose it, and there is a man in this yard with a bad left shoulder and I do not know his name because I count and not names."
+"Then it is not the reading," said the tenth hand of the signal crew, from the back, with his page in his hand. "It is the reading with the cost written at the front of it, and the cost is that six of eight is a number somebody chose, and nobody standing here chose it, and there is a man in this yard with a bad left shoulder and I do not know his name because I count and not names."
 
 "Mr. Fisk," said Nessa Pell. "Is your left shoulder the one that took it?"
 
@@ -116,7 +116,7 @@ He did it in about thirty minutes, standing at a rail, with a sheet on the crate
 
 "**The toll, in the words you are going to hear, and I am going to read it twice, and the second time a clerk is going to read it off a slate in the yard, and anybody who cannot read can come and stand at the front.**
 
-"**You will come back knowing the way and not knowing why you went.** Not what you were afraid of. Not the name of the person you were going to. Why you went. And it does not come back. And nobody in this yard can put it back, and I have stood in this yard and told this district what a toll is eleven times this month, and I am telling you now that I have known three people who have paid it twice, and **I cannot tell you what the second one takes, because the object has never said, and I am not going to guess at it in a yard of six hundred people.**"
+"**You will come back knowing the way and not knowing why you went.** Not what you were afraid of. Not the name of the person you were going to. Why you went. And it does not come back. And nobody in this yard can put it back, and I have stood on this crate and told this district what a toll is eleven times this month, and I am telling you now that I have known three people who have paid it twice, and **I cannot tell you what the second one takes, because the object has never said, and I am not going to guess at it in a yard of six hundred people.**"
 
 He read it again himself, in the same words, and Nessa Pell read it off the slate, and there were people at the rail who had come to hear a number and had got a sentence instead and looked as though they had been short-changed.
 
@@ -162,7 +162,7 @@ And the child of eleven sat down, and Teo sat down, and about four hundred peopl
 
 **Which it did not.**
 
-"**Twenty-four," Adrian Vale said, to about six hundred people, at about ten past five in the afternoon, with the count on the crate and the window still open and about eight hours to run in it. "Twenty-six offered. Twenty-four travelling. Two declines in the book and neither of them is struck and neither of them is a hole, and the sale has not stopped, and that has not happened in this yard before in five weeks, and I want to say why it has not happened and it is not to do with me.
+"**Twenty-four," Adrian Vale said, to about six hundred people, at about ten past five in the afternoon, with the count on the crate and the window still open and about eight hours to run in it. "Twenty-six offered. Twenty-four travelling. Two declines in the book and neither of them is struck and neither of them is a hole, and the sale has not stopped, and that has not happened here in five weeks, and I want to say why it has not happened and it is not to do with me.
 
 "It is because the terms were all read out before the counting. A month ago the counting came first and the terms came afterwards out of a private undertaking, and that is the order that killed a child. **The order is the whole of the instrument.** The order is the ninth thing that was not in the charter of the nineteenth and it is the first thing in this one and it is in the yard now in capitals, and anybody who wants to check it can come and read the crate."
 

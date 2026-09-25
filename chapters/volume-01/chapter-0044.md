@@ -44,9 +44,9 @@ Mara Quill looked at the sheet for a while and did not pick it up, and the reaso
 
 **What Mara Quill did about it, at about nine in the morning on the sixteenth, with about four hundred people in the yard and the board seated with all four seats named aloud, was the thing that made the next three days possible and it took her eleven minutes to say and about four hours to survive.**
 
-"The object is in a locked case in the office behind that door," she said, "in this lot's public custody, under a seven-day term renewed four times in public, and **nobody in this yard owns it and it belongs to nobody and no man in this yard can be given it and no man in this yard can be made to take it.** That is what a public custody is. So the question is not *may he ask*. He may ask. He is the reader and it is his hand and the cost is his and I have no standing to stop him.
+"The object is in a locked case in the office behind that door," she said, "in this lot's public custody, under a seven-day term renewed four times in public, and **nobody in this yard owns it and it belongs to nobody and no man in Alder Reach can be given it and no man in this yard can be made to take it.** That is what a public custody is. So the question is not *may he ask*. He may ask. He is the reader and it is his hand and the cost is his and I have no standing to stop him.
 
-"**The question is what the question is going to be, and the answer is that we do not know yet, and we are going to find out in this yard, in public, and the first thing we are going to do is write down what it may not be.**
+"**The question is what the question is going to be, and the answer is that we do not know yet, and we are going to find out here, in public, and the first thing we are going to do is write down what it may not be.**
 
 "Because the failure mode of this is enormous and I want the yard to hear me say it plainly, because I am the person who is about to do it.
 
@@ -111,7 +111,7 @@ He stood there for about four seconds.
 
 "**I expect the object to tell us nothing.** That is what I expect. I have been a reader for seventeen years and six answers have come off it and every one of them was short and none of them was any use, and the sixth one was *the object was not asked* and it was the most accurate thing anybody has said about this lot in five weeks. **I do not expect a thing about the road. I expect the object to hand back a sentence, and the sentence to cost me about twenty minutes, and the sentence to be in a book that people can be hurt with, and that is to be minuted before I ask.**
 
-"And I want to say the other half. I want the road. I have wanted the road for five weeks and I have said so in this yard, and if you think a man who wants a road is the wrong man to ask it, then you have got about nine seconds to say so and I will stand down and somebody else can put it and I will read it out for them."
+"And I want to say the other half. I want the road. I have wanted the road for five weeks and I have said so out loud, and if you think a man who wants a road is the wrong man to ask it, then you have got about nine seconds to say so and I will stand down and somebody else can put it and I will read it out for them."
 
 Nobody said anything for about nine seconds, and the tenth hand of the signal crew said, from the back, with his page in his hand:
 
@@ -163,7 +163,7 @@ And Rell Bode, who had come from the river stairs with a basket and had been at 
 
 **AND THE BOARD RECORDS, BECAUSE IT IS TRUE AND BECAUSE NOBODY ELSE WILL: THAT IS A DEFENCE, AND IT IS A GOOD ONE, AND IT IS THIN, AND THE DAY A PROCESS GOES SIX WEEKS ON SIX ANSWERS THAT WERE NEVER ASKED FOR IS A DAY THE ANSWERS LOOK LIKE THE FOUNDATIONS OF SOMETHING TO EVERYBODY EXCEPT THE PEOPLE WHO BUILT IT, AND THE BOARD IS FOUR PEOPLE AND IS THE ONLY INSTRUMENT IN THIS DISTRICT THAT KEEPS ITS OWN COUNTS.**
 
-Then Sabin Tull said, "That is the best thing this board has ever written and I am the man who has been in this yard every day of it, and I am going to say the rest of it, which is that it is also a very good way of not looking at it. **Reading is not a promise and we never leaned on it. Fine. And a boy of seventeen leaned on it, and Marda Osk leaned on it when she wrote the eighth line out of a counterfeit's second page, and I seconded it, and if that answer was not a promise then the second page of a forgery is not a promise either, and about two hundred people in this district have bought something this month on the strength of it.**"
+Then Sabin Tull said, "That is the best thing this board has ever written and I am the man who has stood on that crate every day of it, and I am going to say the rest of it, which is that it is also a very good way of not looking at it. **Reading is not a promise and we never leaned on it. Fine. And a boy of seventeen leaned on it, and Marda Osk leaned on it when she wrote the eighth line out of a counterfeit's second page, and I seconded it, and if that answer was not a promise then the second page of a forgery is not a promise either, and about two hundred people in this district have bought something this month on the strength of it.**"
 
 Nobody had an answer to that and the board entered it as an objection with no answer, which is one of the things this board is for.
 

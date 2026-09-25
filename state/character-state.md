@@ -29,7 +29,7 @@ Four seats and no owner. It can refuse to record a closing, publish a result, ca
 
 ## Tarin Kest
 
-- **Age/role:** 43; mechanic, route keeper, founder of the Needle Road House. **He drove the fifth activation, out and down, and stopped it on the stamped plate under the lamp, and came home with six tolls and no reason.**
+- **Age/role:** 43; mechanic, route keeper, founder of the Needle Road House. **He drove the fifth activation, out and down, and stopped it on the stamped plate under the lamp, and came home with eight tolls and no reason.**
 - **The far-side condition is now his instrument and it is bigger than Selik's.** He extended it to everyone on the route who is not driving it, on the ground that a charter with one condition in it and twenty-three people who have none is a charter about one man — **and Selik Marne accepted the extension in a yard and added three terms of his own to it**, which is the first time in the volume that the two of them have agreed on anything, and Tarin named Selik as the person who keeps the terms in the book.
 - **The cost of being the bearer, said out loud, at ten past seven in the morning, on a line, to three hundred people rather than nine hundred in a crowd:** every frightened person in this district now has exactly one address, and it is him, and he is going to be asked all day by people he likes to keep the road open, and **the moment he is the man who says no to the road being longer, the road is his and it is a queue with a timetable.**
 - **His standing finding at the end of the volume: the timetable he warned the district about has got a committee, and he does not know whether that is better, and he says so in front of six hundred people.** That sentence is the volume's most honest institutional finding and it is his.
@@ -92,12 +92,12 @@ Four seats and no owner. It can refuse to record a closing, publish a result, ca
 
 ## Rutt
 
-- About fifty. A signal clerk before her shoulder went. **The reader at the ward market counter, four days a week, at nine coppers a day with the lie in it in her own line.**
+- About fifty. A signal clerk before her shoulder went. **The reader at the ward market counter, four days a week, at eleven coppers a quarter — which is what the ward market voted for her on the thirteenth and not what a day of it is worth, and she has written that difference in her own line and knows it is the lie in it.**
 - **She stopped reading a published document aloud on the sixth of this month and found the fourth bearer.** On the sixteenth she was a fresh witness on the question put to the brass and read out the part she did not understand before she accepted. On the twenty-first **she described the object in a yard instead of reading the entry about it, and weighed it, and put her thumb in the break at the rim, and said it was warm and that she is not going to tell a yard of four hundred people what that means because she does not know.** On the twenty-sixth she read the whole entry of the crossing at the counter and in the yard, and the rule of the counter is now standing: if anybody has told you a different number, bring it and she will read it out again in the words you did not bring.
 
 ## The tenth hand of the signal crew (the counter)
 
-- Still unnamed. Still the tenth and not one of the nine, and all nine have been home since the twelfth of last month.
+- Still unnamed. Still the tenth and not one of the nine, and all nine have been home over the footbridge since the eleventh and the twelfth of this month, and on the eighteenth he said so in a yard and named the eleventh and the twelfth and not the fourteenth.
 - **He has now driven the crossing.** He is a fresh witness on the charter, and the last thing he asks is *if the count is short of what the people on the ground say it is, I will stand at this rail and say so and I will not be argued with.*
 - **His page is now the most important piece of administration in the district and it has a known flaw**: the number twenty-six, with two noes in it, is the first thing in five weeks he cannot put on it, because a number that came out of a refusal is a different instrument from a number somebody said out loud. **He told a yard of about four hundred people at six in the morning that he was telling them so it would be said by the man who found it.**
 - **He asked the registrar to keep two facts in two lines and she agreed, and no document in Lot 17's book joins the bus that came out of a yard by itself to anything.** He argued with Selik Marne's rule in a yard on the twelfth and the rule held and the argument is in the minutes.
