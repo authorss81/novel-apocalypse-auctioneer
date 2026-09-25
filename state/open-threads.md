@@ -5,7 +5,7 @@ No in-story event has occurred yet. These are the author-facing promises that be
 ## Volume 01 entry threads
 
 - **St. Orra and the Hearth Line:** reopen medicine and supply routes without turning temporary access into private control.
-- **The Last Fare:** its twelve-minute use and memory toll must be tested in public, not explained only in author-facing material.
+- **The Last Fare:** its twelve-minute use and memory toll must be tested in public, not explained only in author-facing material. Its standing must keep the named bearer separate from the return passenger who remembers the destination.
 - **Adrian and Mara:** begin with an audit, distrust around hidden security, and one clear professional disagreement; do not start the romance already resolved.
 - **Halloway Reed and Selik Marne:** counterfeit exploitation and a legitimate monopoly must offer different routes through the opening crisis.
 - **Unlisted households:** route, shelter, and repair records can expose people even when no dangerous lot names them directly, making omission an immediate political issue.

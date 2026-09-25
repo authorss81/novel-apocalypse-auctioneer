@@ -65,9 +65,9 @@ Chapter 10 establishes the public lot book, the temporary nature of the charter,
 
 ## Required power changes
 
-- Adrian moves from **Stage 0 practical broker** to the first unstable steps of **Stage 1 Reader** through contact, failure, a promise to an affected person, and a physical toll echo.
+- Adrian moves from **Stage 0 practical broker** to **Stage 1 Reader** through an unstable contact precursor, a failed activation, a promise to an affected person, and the toll echo of his first real reading.
 - He can read the Last Fare's use, immediate toll, and standing after contact or reliable history, but only one lot at a time and with rest. He cannot predict the route's result or operate it without witnesses.
-- The first public crossing in Chapter 9 is a simple, short charter possible at Stage 1. It does **not** make him a Binder; Mara supplies the formal structure, and Adrian has not yet written and secured a full charter himself.
+- The first public crossing in Chapter 9 is a simple, one-bearer, short-term charter with a visible toll, which Stage 1 allows Adrian to write and close under Mara's disclosure procedure. It does **not** make him a Binder: he cannot yet split a use among bearers, transfer or renew it, or secure a more complex charter alone.
 - The batch must leave him with a visible cost: fatigue or sensory disturbance after reading, loss of a useful inventory item as settlement, and a damaged relationship with Mara.
 
 ## Required world reveals
@@ -97,7 +97,7 @@ Chapter 10 establishes the public lot book, the temporary nature of the charter,
 
 **Immediate goal:** Finish an ordinary surplus sale of clinic equipment and tram parts so Lot 17 can pay its next repair bill and keep its promised delivery to Ward Nine.
 
-**Resistance:** A frightened buyer wants Adrian to call a cracked piece of salvage “serviceable,” while a messenger at the door says the fever shipment is stuck behind the St. Orra crossing and the official bridge will not take it. Adrian cannot keep the sale orderly if the crowd begins competing for the same scarce route.
+**Resistance:** A frightened buyer wants Adrian to call a cracked piece of salvage “serviceable,” while a messenger at the door says the fever shipment is stuck behind the closed St. Orra crossing. Adrian cannot keep the sale orderly if the crowd begins competing for the same scarce route.
 
 **Information revealed:** A salvage runner, Orren Pike, slips a brass transit token and a torn bus manifest under the sale table. Adrian recognizes the token's municipal stamp and the shape of its rim, but not its current rule. When he touches it, a short internal inscription appears: the object can open one route, but the terms are incomplete.
 
@@ -121,11 +121,11 @@ Chapter 10 establishes the public lot book, the temporary nature of the charter,
 
 **Immediate goal:** Determine what the Last Fare does, identify a possible driver and return point, and avoid making a public claim he cannot support.
 
-**Resistance:** Repeated contact gives Adrian a physical toll echo—dizziness, a metallic taste, and a short memory blur. The route map is incomplete, the bus itself is still beyond the Fault, and Tarin refuses to trust a road that may erase the reason for using it.
+**Resistance:** Repeated contact gives Adrian a physical warning—dizziness, a metallic taste, and a short memory blur. The bus was dragged to the far side of the Fault before the cut, so it cannot be reached for a direct check, and the near-bank map ends at the old platform. Tarin refuses to trust a road that may erase the reason for using it.
 
 **Information revealed:** The Tally's incomplete notice gives most of the bounded facts: one route across St. Orra for twelve minutes; every traveler loses the memory of why they are going; the route needs a driver who knows it, a return point, and a passenger who can remember the destination. The relationship between the return point and the standing remains unsettled, and a further warning says repeated use may strand the route. It gives no answer about fairness or safety.
 
-**Action or decision:** Adrian tests the token against a paper map without activating it, writes down each unknown, and asks Tarin to locate the stranded bus and identify a driver. He chooses not to sell the object or ask an uninformed crowd to vote on its use.
+**Action or decision:** Adrian tests the token against a paper map without activating it, writes down each unknown, and asks Tarin to trace the pre-Fracture bus route and identify a driver who knows it. He chooses not to sell the object or ask an uninformed crowd to vote on its use.
 
 **Emotional change:** Adrian's fear of becoming the default bearer becomes a reason to keep working rather than a reason to hide. He feels the first painful usefulness of a reading he cannot fully control.
 
@@ -193,21 +193,21 @@ Chapter 10 establishes the public lot book, the temporary nature of the charter,
 
 **Immediate goal:** Open the Last Fare long enough to move the first fever medicine across before the convoy's supplies spoil.
 
-**Resistance:** Once the route and memory toll are explained, no passenger accepts the full charter. Tarin agrees to drive the outward leg after Adrian describes only the outward memory cost and implies the return will be handled later; he does not know that returning will require another toll. Mara refuses to close a charter with a missing return point. Halloway's broker offers a private guarantee that omits the memory cost. Adrian's only alternatives are delay, Selik's manifest-controlled crossing, or action without a valid closing.
+**Resistance:** Once the route and memory toll are explained, no passenger accepts the full charter. Tarin agrees to drive both the outward and return legs after Adrian describes only the outward memory cost and implies the return will be handled later; he does not know that returning will require another toll. Mara refuses to close a charter with a missing return point. Halloway's broker offers a private guarantee that omits the memory cost. Adrian's only alternatives are delay, Selik's manifest-controlled crossing, or action without a valid closing.
 
 **Information revealed:** The Tally does not grant use merely because someone touches the token. Without a valid charter, Adrian would be a bare claimant and the immediate toll would fall on him. The return leg is part of the route's danger, not a harmless administrative detail.
 
-**Action or decision:** Adrian describes the outward trip and its memory toll but treats the return as though it were covered by the same bargain; Tarin and the other travelers are not told the full cost or given a real chance to refuse. With Mara watching, Adrian breaks the municipal audit seal and activates the token without a completed closing. He believes he can carry the immediate toll himself for twelve minutes. The route opens, and the medicine convoy begins to move.
+**Action or decision:** Adrian describes the outward trip and its memory toll, asks Tarin to take both legs, but treats the return as though it were covered by the same bargain; Tarin and the other travelers are not told the full cost or given a real chance to refuse. With Mara watching, Adrian breaks the municipal audit seal and activates the token without a completed closing. He believes he can carry the immediate toll himself for twelve minutes. The route opens, and the medicine convoy begins to move.
 
 **Emotional change:** Urgance wins over procedure. Adrian feels the terrible relief of a problem obeying a visible action, followed immediately by the fear that he has made himself the only person who can pay for it.
 
 **Power or resource change:** Adrian remains Stage 0 and becomes a bare claimant. He has no witnesses, no remedy, and no public security. The Tally can enforce the route's immediate toll but cannot make his private assumption into consent.
 
-**Continuity fact to preserve:** The Last Fare's use is not ownership and cannot be safely transferred through a private side promise. Tarin is the volunteer driver for the outward leg, but his consent is incomplete because Adrian concealed the return toll. The medicine convoy is the only beneficiary in this failed activation; the school shelter is still waiting.
+**Continuity fact to preserve:** The Last Fare's use is not ownership and cannot be safely transferred through a private side promise. Tarin is the volunteer driver for both the outward and return legs, but his consent is incomplete because Adrian concealed the return toll. The medicine convoy is the only beneficiary in this failed activation; the school shelter is still waiting.
 
 **Ending type:** decision
 
-**Next-chapter pull:** A returning driver emerges from the Fault asking why he is on the road, and the route's false destination begins to take shape.
+**Next-chapter pull:** Tarin emerges from the Fault on the return leg, asking why he is on the road, and the route's false destination begins to take shape.
 
 ### Chapter 0006 — The Memory After the Return
 
@@ -215,7 +215,7 @@ Chapter 10 establishes the public lot book, the temporary nature of the charter,
 
 **Location/time:** St. Orra crossing and the Ward Nine edge, afternoon; the twelve-minute opening is collapsing while people search for the missing return group.
 
-**Immediate goal:** Retrieve the separated medicine driver and convoy escorts, stop the route before more people are diverted, and settle the claim created by his bare activation.
+**Immediate goal:** Retrieve Tarin, the medicine-bus driver, and the convoy escorts, stop the route before more people are diverted, and settle the claim created by his bare activation.
 
 **Resistance:** The returning group has lost the memory of its purpose and is drawn toward a false destination. Adrian's body pays a fraction of the memory toll as exhaustion, sensory loss, and a frightening blank in his own recent memory. Backwash spills into a nearby public record, and the route cannot be made safe by simply closing the depot.
 
@@ -295,19 +295,19 @@ Chapter 10 establishes the public lot book, the temporary nature of the charter,
 
 **Action or decision:** Before the board opens, Halloway's counterfeit buyer tries to use the copied claim at a private crossing on the far side of the staging line. Selik's Wardens detain the buyer and separate the carriers from the counterfeit token, and the carriers refuse to move once Orren reads the hidden addendum aloud. Mara records the invalidity instead of substituting herself for the witnesses. The panic it causes is the reason the crowd cannot simply vote the danger away.
 
-Adrian and Mara then define the charter in public: the token's cracked condition, one route across St. Orra, the Ward Nine return platform, Tarin as the single named bearer, the medicine convoy and the school shelter group as beneficiaries, the toll, the term, the release condition, the witnesses, and the remedy. The term is one activation ending when the last traveler reaches the platform or at twelve minutes, whichever comes first; the release condition is the token's return to the public case and the board's public notice, with no automatic renewal. The toll is paid at activation and again by anyone who travels back, and one named return traveler must still remember the destination before the first crossing — that is the lot's standing requirement, not a second bearer.
+Mara reads the required fields and remedy into the record, and Adrian writes the simple one-bearer closing under her procedure: the token's cracked condition, one route across St. Orra, the Ward Nine return platform, Tarin as the single named bearer, the medicine convoy and the school shelter group as beneficiaries, the toll, the term, the release condition, the witnesses, and the remedy. The term is one activation ending when the last traveler reaches the platform or at twelve minutes, whichever comes first; the release condition is the token's return to the public case and the board's public notice, with no automatic renewal. The toll is paid at activation and again by anyone who travels back. Dessa Rill, a medicine-convoy driver riding as a passenger, is separately named as the return traveler whose standing requires her to remember Ward Nine before the first crossing; she is not a second bearer or a witness.
 
 Two fresh independent witnesses accept their roles after full disclosure: a school shelter steward who is not a passenger, and a Road House supply driver who is neither buyer nor bearer. Orren checks the written record but is not counted as a witness, because he agreed not to list the Unlisted shelter. Adrian stops the bidding when a passenger refuses to board, and he does not promise that the road is safe.
 
-**Emotional change:** Adrian lets go of the fantasy that a correct reading lets him control the room. Mara's trust is visible in the fact that she allows him to proceed while retaining the right to stop him. He experiences relief when the route opens, then terror when a returning passenger forgets the purpose of the trip.
+**Emotional change:** Adrian lets go of the fantasy that a correct reading lets him control the room. Mara's trust is visible in the fact that she allows him to proceed while retaining the right to stop him. He experiences relief when the route opens, then terror when Dessa forgets the purpose of the trip.
 
 **Power or resource change:** Adrian completes his first stable Stage 1 public charter. He gains a provisional closing board and a practical one-use success, plus evidence that witnesses can correct a reading; he does not become a Binder. The toll echo remains, and a hairline strain in the token limits how often it can safely be used.
 
-**Continuity fact to preserve:** The crossing is a charter, not ownership of the Last Fare or the Hearth Line. It expires at the Ward Nine platform or twelve minutes and requires fresh consent for another activation. A small school shelter group and the medicine convoy cross; the return memory loss is real.
+**Continuity fact to preserve:** The crossing is a charter, not ownership of the Last Fare or the Hearth Line. It expires at the Ward Nine platform or twelve minutes and requires fresh consent for another activation. A small school shelter group and the medicine convoy cross; Dessa returns without the memory of why she traveled, making the return loss concrete.
 
 **Ending type:** earned hook
 
-**Next-chapter pull:** The public board must record who crossed, what was lost, and how the next attempt can be challenged. A returned passenger knows the road but not why they are walking it.
+**Next-chapter pull:** The public board must record who crossed, what was lost, and how the next attempt can be challenged. Dessa knows the road but not why she is walking it.
 
 ### Chapter 0010 — The Public Lot Book
 
@@ -338,7 +338,7 @@ Two fresh independent witnesses accept their roles after full disclosure: a scho
 The next batch should open with the public lot board under pressure rather than with a new object. Preserve these facts:
 
 - The Last Fare has already been used once without a valid charter and once under a witnessed public charter; it is strained, not freely reusable, and its final damage is still ahead.
-- The first public crossing saved a medicine load and a small school shelter group, but returning travelers lost the memory of their purpose and the route remains physically dangerous.
+- The first public crossing saved a medicine load and a small school shelter group, but returning travelers lost the memory of their purpose and the route remains physically dangerous. Tarin is the sole bearer; Dessa Rill is the separately named return passenger whose standing carries the destination memory.
 - Adrian has Stage 1 limits: one contacted lot, a physical toll echo, no prediction, and no authority without fresh witnesses and a real remedy.
 - Mara is a collaborator, not Adrian's deputy or romantic resolution; Lina and the Unlisted have a protected right to refuse names.
 - Halloway's counterfeit and Selik's bridge control are unresolved pressures. Do not make either antagonist disappear.

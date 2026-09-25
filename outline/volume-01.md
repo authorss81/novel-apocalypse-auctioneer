@@ -38,7 +38,7 @@ By the end of Volume 01:
 
 ### Starting power level
 
-- **Stage 0: practical broker.** Adrian can describe and negotiate an ordinary lot, but cannot safely activate a Fault object. The first contact with the Last Fare will produce an incomplete, unstable precursor to a reading and a physical toll echo; Stage 1 is earned only after the first failure, a promise to an affected person, and a physical cost.
+- **Stage 0: practical broker.** Adrian can describe and negotiate an ordinary lot, but cannot safely activate a Fault object. The first contact with the Last Fare will produce an incomplete, unstable precursor to a reading and a physical warning, not a stable Reader capacity; Stage 1 is earned only after the first failure, a promise to an affected person, and the toll echo of a real reading.
 
 ## Major locations
 
@@ -68,7 +68,7 @@ By the end of Volume 01:
 - In desperation, Adrian activates the token without a valid closing. The route opens, several travelers reach false destinations, and the unpaid toll spills into nearby records. He loses physical ground to the toll echo, becomes the default bearer, and earns the first honest lesson of Stage 1: the Tally records consequences but does not make a concealed cost fair.
 - Recovery begins with a public complaint, an exact account of who was affected, and the discovery that Halloway is selling a counterfeit version of the same promise.
 
-### Chapters 9–16: The first public road
+### Chapters 10–16: The first public road
 
 - Adrian, Mara, Tarin, and two fresh independent witnesses close one bounded public charter. A medicine load and a small school shelter group cross once; the return memory toll is real, and the token's instability is visible.
 - A provisional closing board records the crossing, the remedy, and the people who refused to be named; the permanent public lot book is formalized during the aftermath without turning the Unlisted into a hidden exception. The public route is a practical success but not yet a stable Hearth Line.
@@ -151,8 +151,8 @@ The final activation is a real victory with a real cost: the medicine convoy and
 ## Power progression
 
 - **Stage 0 to Stage 1 — Reader:** Adrian's first failed bare-claimant activation, physical toll echo, and promise to an affected person make the three-part reading usable but costly. He can read one contacted lot at a time, cannot predict the result, and can become the default bearer if he overreaches.
-- **Stage 1 practice:** Mara's corrections, Tarin's route knowledge, Orren's documents, and the Unlisted boundary teach him that other people can carry, witness, and revise a reading.
-- **Stage 1 to Stage 2 — Binder:** after the failed public auction, Adrian works with Mara to rewrite terms, posts Lot 17's inspection press and repair-crew term as distinct security, and writes a bounded charter himself. He still cannot create consent or make a permanent right out of a temporary one.
+- **Stage 1 practice:** Mara's corrections, Tarin's route knowledge, Orren's documents, and the Unlisted boundary teach him that other people can carry, witness, and revise a reading. Within that structure, Adrian can compose and close a simple, one-bearer, short-term charter with a visible toll, but cannot yet split a use among bearers, transfer it, renew it, or secure a complex charter alone.
+- **Stage 1 to Stage 2 — Binder:** after the failed public auction, Adrian works with Mara to rewrite terms, posts Lot 17's inspection press and repair-crew term as distinct security, and independently secures a more complex bounded charter. He still cannot create consent or make a permanent right out of a temporary one.
 
 ## Mystery progression
 

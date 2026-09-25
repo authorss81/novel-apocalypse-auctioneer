@@ -22,7 +22,14 @@ Canon baseline is established for the pre-chapter story. No prose events have oc
 - A founder-mark forced record is mechanically enforced but is not consent. It bypasses exactly the fresh-independent-witness and linked-term safeguards and cannot add a new use. A valid consensual closing that expressly identifies the override, states the replacement remedy, and receives acceptance from at least two fresh independent witnesses supersedes it for the named lots.
 - A one-time toll is consumed when due. Security is forfeited only on breach. If one pool of holdings funds both, the closing must identify the exact consumed asset and a distinct security asset; no other person may be conscripted.
 - Adrian grows through the fixed seven-stage progression. Reading requires history or contact, and every stage leaves the prior cost active.
+- Stage 1 permits a full three-part reading and a simple one-bearer, short-term charter with a visible toll. Multi-bearer splits, transfers, renewals, and security-backed public terms remain Stage 2 work.
+- The Last Fare requires a named driver, a return point, and a named passenger whose standing is to remember the destination; the passenger is a condition on the use, not a second bearer unless a later Stage 2 charter explicitly assigns one.
 - Overdraft counts enforceable recognition-backed claims, including emergency lots for which Adrian made his recognition shared security under a public mandate. Political authority alone does not cause it.
+
+## Planned Batch 0001 constraints
+
+- The failed activation assigns Tarin both the outward and return legs; the incomplete disclosure is what makes his consent invalid.
+- The public charter keeps Tarin as the sole bearer and names Dessa Rill separately as the return passenger whose memory supplies the lot's standing. She is not a witness or a second bearer.
 
 ## Fixed ending constraints
 
