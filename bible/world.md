@@ -104,6 +104,43 @@ A public lot may place a dangerous object in documented public custody under a s
 
 A public record may also protect a person it still has to account for. A **sealed page** is a sheet held by the registrar that names a person who must be identified for a charter to be valid but may not be published — usually a responsible party drawn from a household that refuses to appear in a public book. The public entry carries the group, the count, the steward, the destination, and the remedy. The sealed page is opened only if the remedy is called, and the person it names keeps the right to refuse care, challenge the closing, and say so on the record. A sealed page is not a private list: it does not remove the bearer's duty, and it does not become a second registry that anybody can inspect.
 
+## Public lot operating rules established at Lot 17
+
+These are local, ordinary, and transferable. They were built under pressure by a registrar and an auctioneer and are not ancient law, and a community that wants a different set can write one — provided it writes one in public.
+
+### The proposal schedule
+
+A closing cannot be recorded from a document that was made at three in the morning. A **proposal schedule** is the standing list of what must be entered in the public lot book *in advance* of any activation. At Lot 17 the schedule has seven items:
+
+1. a route request naming the use, the destination, and the count;
+2. the toll, disclosed in the words that will be read aloud to the people who are about to pay it;
+3. a named bearer, and a named remembering passenger where the use requires one, together with what that passenger is being asked to carry;
+4. a term with a stated end;
+5. a remedy that works for a person the record cannot point at;
+6. two fresh witnesses who have heard the whole of it and who are not travelling on it;
+7. a way for affected people to refuse, in public, without giving a reason, and the closing of that window only when the case is physically opened.
+
+A proposal that is not in the book is not a proposal. The board can refuse to record a closing on that ground alone, and it does not need any new power to do it.
+
+### The no-name remedy
+
+A remedy works by pointing at a person: this use was done to this person, here is what it cost, here is who answers. Where the affected person has refused to be named, that pointer is also the harm, so the remedy cannot be reached by opening a sealed page.
+
+A **no-name remedy** is an alternative that works without finding anybody. It is a public hearing at which the affected people are asked what they can say, in a room, with witnesses, and the record then states that the remedy was called, that it was **not discharged**, and why. The failure is written down where anybody can read it, and it is written down as a failure of the remedy rather than as a fact about the people it failed. The protected category is named in the record as the reason the remedy could not be discharged, without the household being named.
+
+This is expensive on purpose. It is a worse record than a completed one, and it is a truer one, and its purpose is to make the failing visible and repeated rather than hidden and once. A person who refuses a name still receives care, shelter, and medicine, and still has the same right to stop a closing as anybody else.
+
+### The named-pair return point
+
+A return point is not a landmark. It is a **named pair**: a place and an approach, written together, with the person who can hold them. "The second rail east of the bell post, under the lamp, where the ballast drops and the plate is stamped, in the bus of Tarin Kest, coming down from the far bank" is a return point. "The bell post" is not, because a post stands on the ground and a person with a spanner and an hour can move it.
+
+A route that bends in a place the driver cannot see from the return point also needs a **far-side condition**: a written statement of what the driver is authorised to do when the far side is not the road he left on, including when to stop the vehicle and when to walk back. A charter that names a return point without naming the far-side condition has named half a pair.
+
+### Counting the toll by leg
+
+The memory toll is charged to each traveler on each crossing, not to a crossing. A record must therefore count travelers and tolls separately, and must count them by leg, because the two legs of a single activation are usually not the same size. A typical return activation at Lot 17 carried sixteen distinct people and took eighteen tolls: two on the outward leg, all sixteen on the way home. Any record that states a number of crossings instead of a number of tolls is wrong.
+
+
 ## Geography
 
 ### Alder Reach
@@ -112,10 +149,11 @@ A river city built on layered floodworks and old tram tunnels. The center is par
 
 Important locations:
 
-- **Lot 17:** Adrian's converted tram depot and auction room.
+- **Lot 17:** Adrian's converted tram depot and auction room. The public lot book, the four-seat board, the proposal schedule, the no-name remedy, and the documented public custody of the Last Fare all live here. The public board is a constituted four-seat panel: the registrar, the sitting steward, and two rotating seats held by whoever in the yard has no claim on the lot.
 - **Ward Nine:** a dense residential district of kitchens, small workshops, and suspended walkways. It sits on the older central bank, across the water from Lot 17. The name also belongs to the **Ward Nine old platform**, which is on the *near* eastern bank on the Lot 17 apron. See the bank geography below.
 - **The two banks of St. Orra:** the **eastern** bank carries Lot 17, the St. Orra staging yard, the tram apron, the old school gym, the Ward Nine *old platform* and its one-armed bell post, and the east platform of old Line Six. The **older central** bank carries the Ward Nine district, its fever ward, the clinic receiving stations, and the far receiving ramps. The Fault of St. Orra runs between them. Reach the far side by Selik's official span, the river stairs, or the old footbridge over the service cut. Medicine that has to be delivered starts stranded on the wrong bank.
 - **St. Orra Underpass:** the first major Fault; the Last Fare is found in a stranded bus.
+- **Selik Marne's official span:** the lawful crossing. A **gauge fault** in which a bent float in the sump chamber reported a movement the span did not make caused a full deck evacuation; the span was sound, the evacuation was correct, and the housing was rebuilt and certified by two people outside the Warden administration. The crossing now runs under a **tightened manifest**: a named responsible party physically present at the near abutment for the whole crossing, a second adult name for any child under twelve, the certified gauge housing before any passenger crossing including a supervised cargo exception, and halved supervised slots. It moves four small cargo boxes a day and refuses any group that will not enter a roll.
 - **The Brass Verdict Hall:** a municipal chamber where charter disputes are heard.
 - **Hearth Line:** the proposed cross-fault bus and freight route.
 

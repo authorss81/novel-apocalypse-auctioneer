@@ -87,6 +87,8 @@ Examples:
 - The Hearth Bell needs a shelter with a public entrance and a keeper willing to remove its record afterward.
 - A door lot may recognize a keyholder, a resident, or a person carrying a particular debt.
 
+Where the toll takes the memory of purpose, the driver cannot be trusted to retrieve a destination from memory at the far end of the Fault, because what survives the toll is the place and the skill while the reason is gone. A return point must therefore carry the load memory cannot: it is a **named pair** of a place, an approach, and the person able to hold them, and the charter must also state a **far-side condition** covering what the bearer is authorized to do when the far side is not the road he left on. A landmark alone is not standing, because a landmark can be moved by a person with a spanner, and a person who has forgotten why he is driving cannot notice.
+
 Standing is not a character level. A person can have standing for one lot and none for another.
 
 ## What Adrian can read

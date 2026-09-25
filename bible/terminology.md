@@ -49,7 +49,23 @@ A narrow, previously closed charter that names a finder, an unactivated anchor l
 
 ### Sealed page
 
-A sheet held by the registrar that names a person a charter must identify but may not publish, usually a responsible party drawn from a household that refuses to appear in a public book. The public entry carries the group, count, steward, destination, and remedy instead. A sealed page opens only when the remedy is called. It hides a location, not a duty: the person named keeps the right to refuse care and to challenge the closing, and the bearer's duty is unchanged.
+A sheet held by the registrar that names a person a charter must identify but may not publish, usually a responsible party drawn from a household that refuses to appear in a public book. The public entry carries the group, count, steward, destination, and remedy instead. A sealed page opens only when the remedy is called. It hides a location, not a duty: the person named keeps the right to refuse care and to challenge the closing, and the bearer's duty is unchanged. A sealed page alone is therefore not a remedy, because opening it is the harm the page was built to prevent.
+
+### Proposal schedule
+
+The standing list of what must be entered in a public lot book *in advance* of any activation. At Lot 17: a route request with use, destination, and count; the toll in the words the travelers will hear; a named bearer and, where the use requires one, a named remembering passenger and what that passenger carries; a term with a stated end; a remedy that works for a person the record cannot point at; two fresh witnesses who heard the whole of it and are not travelling on it; and a public way to refuse that closes only when the case is opened. A document made in a back office at night is not a proposal.
+
+### No-name remedy
+
+An alternative remedy for a crossing whose affected people have refused to be named. It is a public hearing in which the affected people are asked what they can say, after which the record states that the remedy was called and **not discharged**, and why. The failure is entered as a failure of the remedy and not as a fact about the people it failed. It is deliberately worse than a completed record, so that the failing repeats in public instead of being settled once in a drawer.
+
+### Named-pair return point
+
+A return point stated as a place *and* an approach *and* the person able to hold them — for example a stamped rail joint under a lamp, in a named driver's bus, coming down from the far bank. A landmark alone is not a return point, because anybody can move a post. A charter that names a return point without a **far-side condition** (what the driver is authorised to do when the far side is not the road he left on) has named half a pair.
+
+### Toll count by leg
+
+The memory toll is charged to each traveler on each crossing. Records must state travelers and tolls separately and count them leg by leg, because the two legs of one activation are usually different sizes: the return crossing at Lot 17 carried sixteen distinct people and took eighteen tolls.
 
 ### Forced record
 
