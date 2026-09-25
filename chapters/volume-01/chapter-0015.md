@@ -134,7 +134,7 @@ Tarin had gone very still on his stool. "Say that again."
 
 "She has lost her reason and kept her rules," Adrian said. "And the rules she kept are old ones, and the new ones are in a book in this city with my name beside the entry."
 
-He understood, then, why Dessa could not be the passenger again. Not because she had forgotten. Because what she had left was a set of instructions for a city she was not in, delivered by a person with no idea what they were for, and a route held open by a passenger's memory is a route held open by whatever the passenger still believes is true.
+He understood, then, why Dessa could not be the passenger again. Not because she had forgotten. Because what she had left was a set of instructions for a city she was not in, delivered by a person with no idea what they were for, and a route held open by a passenger's memory is a route held open by whatever the passenger still believes is true. The thing he did not say was that nothing she had left was a belief about the river: whatever had made her dangerous to hold a route had gone out with the reason. He watched it go past him and did not pick it up, because picking it up would have meant an argument he did not have the hour for, and because it was his objection and not Tarin's, and he had never once in his life put an objection of his own in front of a yard.
 
 "She can ride," Tarin said. "She can ride and be counted and pay what everybody pays. She cannot hold the destination for anybody."
 

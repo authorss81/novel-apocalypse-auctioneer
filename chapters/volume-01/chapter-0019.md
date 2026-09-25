@@ -40,7 +40,7 @@ A barrow-hauler called Gerta Lund had come in off the terraces with a claim fold
 
 "The fold," she said. "Somebody show me where the fold is."
 
-A hundred and forty people in this room and a hundred and forty at the glass had a piece of paper that had been folded inside a fold, and every one of them now had a hand inside a coat.
+Nobody in the room knew who the person beside them was carrying a claim for, and a great many hands went into coats all at once, and the room got very quiet about it.
 
 "There," said a voice near the door. Sabin Tull came up the aisle with his coat open, holding a printed sheet in one hand and a chocked barrow's worth of nothing in the other. "Same plate. Same miscut r. Third page."
 
@@ -66,7 +66,7 @@ Halloway Reed was standing by his wagon with his arms folded and had said nothin
 
 "Reed," Adrian said. "You have been standing there for four minutes with your mouth shut. Say something."
 
-"I will say this." Halloway came forward and unrolled his own sheet on the crate, next to Adrian's, so that the yard could see both. "My claim carries a labor term of fifteen days on the road and the carriage. It falls on me and not on the carrier. It is written on the first page, not folded inside anything. I will read it aloud now, because Mr. Vale has been very fair to me in front of a hundred and forty people, and fairness is a thing that costs money, and I would rather be read fairly than be excused."
+"I will say this." Halloway came forward and unrolled his own sheet on the crate, next to Adrian's, so that the yard could see both. "My claim carries a labor term of fifteen days on the road and the carriage. It falls on me and not on the carrier. It is written on the first page, not folded inside anything. I will read it aloud now, because Mr. Vale has been very fair to me in front of two hundred people, and fairness is a thing that costs money, and I would rather be read fairly than be excused."
 
 He read it. It was longer than the counterfeit's and worse in three places, and he read all of it, and then he said, "And it is a private claim, and it is not the public one, and the man selling the fold is not me, and if anybody in this yard is carrying one of mine and has not read the first page, they are carrying my term and not the other man's, and I would like that to be said by somebody other than me."
 
@@ -82,7 +82,7 @@ Nobody bid with coin. The ward market had offered a great deal of money by dark 
 
 "Entered," Nessa said.
 
-"The Needle Tramway signal crew and the ward-market riggers," said a grey man with a signal case. "Nine of us, the boy included. We cross to the ramp and we walk the mile and a half to the cut with the daylight we have got. In payment: nine hands, one full season, on the signal line and the river-wall lamps, at the road rate, and our own tools, which go and come by the Warden's flag."
+"The Needle Tramway signal crew and the ward-market riggers," said a grey man with a signal case. "Nine of us, and the boy counts himself twice, and Adrian has checked it three times. We cross to the ramp and we walk the mile and a half to the cut with the daylight we have got. In payment: nine hands, one full season, on the signal line and the river-wall lamps, at the road rate, and our own tools, which go and come by the Warden's flag."
 
 "Entered."
 
@@ -98,7 +98,7 @@ Nobody bid with coin. The ward market had offered a great deal of money by dark 
 
 "Entered," Nessa said.
 
-Nobody offered money. Adrian looked around the room at four hundred and ten people who had come to watch a man sell a road, and understood that he had been afraid of the wrong morning twice in three days, because this was not a sale, it was a *closing*, and there was no bidding in it at all. There was a set of obligations that everybody present could be shown, and the only thing anybody could object to was whether the set was honest.
+Nobody offered money. Adrian looked at the two hundred inside, the hundred and forty at the glass, and the hundred standing behind them in the wet yard with no floor under them, and understood that he had been afraid of the wrong morning twice in three days, because this was not a sale, it was a *closing*, and there was no bidding in it at all. There was a set of obligations that everybody present could be shown, and the only thing anybody could object to was whether the set was honest.
 
 He wrote the five posts into the sheet in the order they had been given, and he read the sheet's SECURITY line.
 
@@ -140,7 +140,7 @@ Nessa Pell read it twice, slowly, to two hundred people inside and a hundred and
 
 ---
 
-It was at this point, with the crowd quiet and the sheet on the crate and the two doors chained to a quarter, that Adrian did the thing he had not gone into the morning planning to do, and he did it because Mara had said the return condition would be written in the yard and he had a fair idea that it would not be, and because he wanted the case open, and because thirty-one people were standing in the cold about to get on a bus.
+It was at this point, with the crowd quiet and the sheet on the crate and the two doors chained to a quarter, that Adrian did the thing he had not gone into the morning planning to do, and he did it because Mara had said the return condition would be written in the yard and he had a fair idea that it would not be, and because he wanted the case open, and because twenty-nine people were standing in the cold about to get on a bus.
 
 "Before the case," he said. "The two people this toll falls on hardest, and the yard is entitled to know it, so I am going to say it in the open rather than have it in a drawer. Tarin Kest has paid this toll five times. He paid it on the failed crossing in the flood, and twice on the first public charter, and twice on the return last Tuesday. If he goes out and comes back today he will have paid it seven times. Dessa Rill has paid it five times and will have paid it seven."
 
@@ -170,7 +170,7 @@ Mara Quill did not say anything. She wrote, and Adrian could not see what she wr
 
 Then Tarin took his cap off and put it back on.
 
-"But I am the bearer because there is nobody else, and a woman with a signal case has a crew that will be on that bus whether I am driving or not, and a matron has fourteen lids that are warm, and eleven children are in a yard in the cold." He looked at the yard, not at Adrian. "I will drive it if the board records that the return is unwritten and that I said so before the door opened, and if the return term is read out and entered before the token leaves the case, or if the board refuses to open the case and the medicine waits and the book says the medicine waited. One or the other. Those are the two honest things. Pick one and I will stand behind it, and if you pick neither, then the road runs without a bearer and everybody on it is a bare claimant, and I will not do that, and you know that too."
+"But I am the bearer because there is nobody else, and a man with a signal case has a crew that will be on that bus whether I am driving or not, and a matron has fourteen lids that are warm, and eleven children are in a yard in the cold." He looked at the yard, not at Adrian. "I will drive it if the board records that the return is unwritten and that I said so before the door opened, and if the return term is read out and entered before the token leaves the case, or if the board refuses to open the case and the medicine waits and the book says the medicine waited. One or the other. Those are the two honest things. Pick one and I will stand behind it, and if you pick neither, then the road runs without a bearer and everybody on it is a bare claimant, and I will not do that, and you know that too."
 
 The yard understood what had been offered. Either the charter went out with a hole in it and Tarin on record about the hole, or it went out with the hole written in, or it did not go out at all.
 
@@ -186,13 +186,13 @@ Adrian looked at the sheet. The sheet was the best document he had ever written,
 
 ---
 
-The case was opened at ten past seven in front of two hundred and forty people and a hundred and forty at the glass.
+The two witnesses were sworn at ten past seven in front of two hundred people and a hundred and forty at the glass.
 
 Ilma Trent and Bevon Rahl accepted the witness roles separately and said different things, which was in the rule and which Adrian had never been grateful for until he watched it happen: Ilma said she had heard the whole of it and would say so again in front of anybody, and Bevon said he had heard the whole of it and was a small-cargo man with a bad shoulder who wanted it noted that a signal crew going out for a season is a man going out for a season, and he was not sure a bridge with a man on it was different from a bridge without.
 
 The refusal window was read out with a time, and the board checked it, and Adrian stood on the rail with his hands in his pockets and did not touch the glass.
 
-Two people refused and neither was argued with: a repair hand whose sister was in the fever ward and who had decided to walk to the far bank by the old footbridge, which Selik's Wardens forbade and then, unusually, permitted, with a marshal and a lamp; and one of the eleven children, who was Teo's cousin and was eleven years old and who said, when Mara asked whether anybody had explained the toll to her, that nobody had, and that she was not going, and that Teo had told her you could.
+Two people said no, and one of them had never been in the count. A repair hand whose sister was in the fever ward had decided to walk to the far bank by the old footbridge, which Selik's Wardens forbade and then, unusually, permitted, with a marshal and a lamp. And one of the eleven children, who was Teo's cousin and was eleven years old, said, when Mara asked whether anybody had explained the toll to her, that nobody had, and that she was not going, and that Teo had told her you could.
 
 "Recorded," Nessa Pell said. "Passenger refusal received. It does not cancel the charter for the people who remain."
 
@@ -200,9 +200,23 @@ Two people refused and neither was argued with: a repair hand whose sister was i
 
 The count was read out by Nessa Pell in the yard and the room was quiet enough to hear the numbers.
 
-"Five of the medicine crew, named. Nine of the signal crew and riggers, named. Eleven children of the school shelter group. Three escort stewards, named by mark, their names on two sealed sheets and not in this book. Tarin Kest as bearer. That is twenty-nine people."
+"Five of the medicine crew, named. Nine of the signal crew and riggers, named. Ten children of the school shelter group, out of the eleven the steward offered, and the one who refused is not in this number. Three escort stewards, named by mark, their names on two sealed sheets and not in this book. Tarin Kest as bearer. That is twenty-eight people, and that is everybody who is going."
 
-"And Dessa Rill as the remembering passenger," Mara said, "who is one of the five and is named in that capacity. State your role."
+"State the passenger," Tarin said. He had come forward once already and he did not go back. "Dessa Rill. She is one of the five, and I am putting her in that seat."
+
+Mara's pencil did not move. "Mr. Kest. Mr. Vale gave me that sentence in his own words when I asked him why the passenger could not be Dessa Rill, and I wrote it down in the place where I keep the things I am not supposed to forget. It is three days old. The room should hear it from you before it hears it from me."
+
+"I said it on a bench," Tarin said, "with the woman it was about standing there to hear it, and that is the part of it I would like written down. I am changing it here, in front of two hundred people, because it should be changed in front of two hundred people and not on a bench. She cannot hold a place she has a reason for. She has no reason left. There is nothing in her to be wrong about where the river is, and a person with nothing left is not the same as a person who knows the way. If I am wrong, the wrong is mine and not Mr. Vale's and not the registrar's, because the registrar only wrote it down and I am the one who has just said it out loud. I put her in that seat and I would like somebody to write that down too, and that I was asked and that nobody stopped me."
+
+Adrian found that he had nothing to say to that at all. The objection had been his in the way it was always his: correct, cheap, and made in a room instead of in a yard. He had not put it to Tarin on the bench, and he had handed the whole of it to Mara Quill three days later because she had asked him a direct question about it, and it was in a book now for no reason except that a registrar had asked, and he had not read the entry.
+
+"Registrar's entry, and recorded twice," Mara said, "because a change of a driver's mind is a thing that has to be readable after it, and because the bearer has asked for the liability to be written down in his own name. Mr. Rahl, you gave your word on the whole of it at ten past seven."
+
+"I did," Bevon Rahl said. "I want it noted that the count has been read since I gave my word, and that the man driving has changed his mind about who holds the place, and that I am still content to witness the whole of it, and that I would like it read back to me before the token leaves that case." He had a bad shoulder and he lifted it. "A bridge with a man on it is different from a bridge without. I would like the book to hold both of those sentences."
+
+Nessa Pell read back the count, the passenger, and the toll, at his request, and Bevon Rahl said it was right, and the board checked the clock against the refusal window and found the window still open.
+
+"And Dessa Rill," Mara said, "state your role."
 
 "Ward Nine," Dessa Rill said. "The clinic line on the far bank, the school house, the receiving ramp. I am the passenger whose standing gives the route a destination. I am not a second bearer and I am not a witness."
 
@@ -221,46 +235,54 @@ TOLL: EACH TRAVELER LOSES THE REASON FOR THE JOURNEY.
 CONDITION: CRACKED THROUGH THE PLATE. RETURN CONDITION NOT IN THIS RECORD.
 ```
 
-He read it out, including the last line, and there was no sound in the yard at all, and Mara wrote **the reader's own record states that the return is not in the charter** in the public book in front of two hundred and forty people, and Adrian signed beneath it, and the wax on the case broke, and Tarin put the token in the slot above the old fare box, and the metal teeth took it as though the bus had been waiting for it since the day it was built.
+He read it out, including the last line, and there was no sound in the yard at all, and Mara wrote **the reader's own record states that the return is not in the charter** in the public book in front of two hundred people, and Adrian signed beneath it, and the wax on the case broke, and Tarin put the token in the slot above the old fare box, and the metal teeth took it as though the bus had been waiting for it since the day it was built.
 
 ---
 
 The bus went out at seven twenty-five.
 
-Adrian did not travel. He stood on the tram rail with his hand on the fare box the way he had stood on the first crossing, and what came up through him was the echo, old coins and flat sound and a right hand going slack in its own grip, and he held on and watched the black line open in the rain and watched twenty-nine people go into it, and none of them was him, and this time he understood exactly what that meant and did not like it.
+Adrian did not travel. He stood on the tram rail with his hand on the fare box the way he had stood on the first crossing, and what came up through him was the echo, old coins and flat sound and a right hand going slack in its own grip, and he held on and watched the black line open in the rain and watched twenty-eight people go into it, and none of them was him, and this time he understood exactly what that meant and did not like it.
 
 The route opened. It went up out of the depot and under the west wall and found the Fault, and the engine note changed the way it changes, into a sound of an engine heard from a distance.
 
-Nell Sarr and a white flag went out to the marked spur in a handcart at a quarter past seven, which meant the flag was up eleven minutes before it was needed, which was the entire point of having a Warden at all.
+Nell Sarr and a white flag went out to the marked spur in a handcart at a quarter past seven, which meant the flag was up ten minutes before it was needed, which was the entire point of having a Warden at all.
 
-At nine minutes the bus was on the far side. The yard could see it through the opening the way you see a room through a door, and the four hundred and ten people in the yard saw a receiving ramp with a roof of stacked loading boards and one lamp under it, and a handcart, and a woman who had been standing under that lamp for three hours because Dessa Rill had said on Tuesday that she would be bringing the next team across if the first load held.
+At nine minutes the bus was on the far side. The yard could see it through the opening the way you see a room through a door, and every person who had come to watch saw a receiving ramp with a roof of stacked loading boards and one lamp under it, and a handcart, and a woman who had been standing under that lamp since before the lamps on this side were lit, because Dessa Rill had said on Tuesday that she would be bringing the next team across if the first load held.
 
-The clinic crew went down the ramp and the cold boxes came off the tail, and every lid was called out loud on the far side by four sets of hands and called back across the opening, and a man in a signal case on this bank with a copied page in his satchel wrote down every number they called and read the list over the noise to make certain it was fourteen, and then the lids went onto a barrow, and the ward got them.
+The clinic crew went down the ramp and the cold boxes came off the tail, and every lid was called out loud on the far side by four sets of hands and called back across the opening, and a signal hand who was not going, standing on this bank with a copied page in his satchel, wrote down every number they called and read the list back over the noise to make certain it was fourteen, and then the lids went onto a barrow, and the ward got them.
 
 The nine signal hands went up the ramp with their tools and started walking the mile and a half, and their foreman looked back once, at the bus, and then went on.
 
-The eleven children went off the bus and down the ramp and across the yard of the far school house, and three women in grey canvas coats went with them, and Fen Ambrose, who was not on the bus, was on the far side of the river at eight forty in the morning because she had taken a river stairs down at seven with a lantern and a list and had walked four hundred yards to be standing on the ramp when they came off, which was the single most competent thing anybody had done all week and which was in nobody's charter.
+The ten children went off the bus and down the ramp and across the yard of the far school house, and three women in grey canvas coats went with them, and Fen Ambrose, who was not on the bus, was on the far side of the river before the bus was, because she had taken a river stairs down at seven with a lantern and a list and had walked four hundred yards to be standing on the ramp when they came off, which was the single most competent thing anybody had done all week and which was in nobody's charter.
 
-She did the arithmetic on the ramp in about nine seconds and Adrian was told about it afterwards, in a yard, in the rain, by a man in a signal case, and it went like this. Six of the eleven went in to the school house with two of the stewards, because it was a building she did not hold and there was a woman in it she had not met. Five of the eleven got back on the bus, and all three stewards got back on the bus, and Fen Ambrose stood on the ramp and watched them go, because a steward who travels is not a steward and because the duty she had accepted was to answer for eleven and there is no way to answer for eleven from the far bank.
+She did the arithmetic on the ramp in about nine seconds and Adrian was told about it afterwards, in a yard, in the rain, by the signal hand who was not going, and it went like this. Four of the children went in to the school house with two of the stewards, because it was a building she did not hold and there was a woman in it she had not met, and a bed in it was worth more to a nine-year-old than a bus. The other six got back on the bus with the third steward, and Fen Ambrose stood on the ramp and watched them go, because a steward who travels is not a steward and because the duty she had accepted was to answer for eleven and there is no way to answer for eleven from the far bank.
 
 The bus turned around on the far side at nine minutes past, which left three minutes of the term.
 
 Adrian had not believed it would turn. He had said in public that it would, and he had said it in the yard, and he had not believed it, and the relief of watching the wheels come round came up out of him so hard that he had to put his hand on the rail.
 
-He had also not written down who was on it. That was the shape of the evening, and he did not learn the shape of it until nine minutes later, when the route closed.
+He had also not written down who was on it, and there was no field in the charter in which to have written it down, and that was the shape of the morning. He did not understand the shape of it until three minutes later, when the route closed in front of him.
 
-The dark line narrowed. The rain came back at the volume it had before. The route closed at twelve minutes, in front of the yard, with the token still in the slot, and the bus did not come out of it.
+The dark line narrowed. The rain came back at the volume it had before. The route closed at twelve minutes, in front of the yard, with the token still in the slot above the old fare box, and the bus did not come out of it.
+
+Then the token came back.
+
+It came back the fourth time it had ever come back and the first time it had ever come back alone: up out of nothing, onto the board in Lot 17, with the wax already broken off it and Nessa Pell's hand flat on it, and Adrian across the room before he knew he had moved. It had been inside a Fault for the whole of the term and it was on a table in a public lot, and nobody in that yard could say how a thing gets out of a Fault and onto a table, and the registrar wrote the smallest sentence she could find and underlined it twice: **token returned at the closing; means not established.**
+
+Then she said the thing that made the rest of the morning what it was going to be, out loud, in front of everybody, because she was going to have to say it anyway.
+
+"The object is home," Mara Quill said, "and the bus is not. Every one of you is going to want those two facts in the other order, and I am telling you now, in this yard, while it is raining, that you are not going to get them in that order from me, or from him, or from anything in that case."
 
 Then the yard began to count.
 
-Nine minutes passed. Ten. A Warden on the marked spur with a white flag came down the marked line of the loading spur on foot, at a run, and came into the yard and said that the bus was not on the marked spur.
+The count went up the numbers and nobody said them out loud. At thirteen, a Warden on the marked spur with a white flag came down the marked line of the loading spur on foot, at a run, and came into the yard and said that the bus was not on the marked spur.
 
 Nessa Pell looked at the clock on the wall, which had been the depot's clock since before the Fracture and which nobody had wound in a month.
 
-"Fourteen minutes," she said. "The term is fifteen, by the wall, by the joint."
+"Fourteen minutes on the depot clock," she said, "and the river wall and the joint say fifteen, so I have a minute. I would like everybody in this yard to understand that a minute on that clock is not a minute on the road."
 
 The yard stood in the rain and did not move, and the two lamps over the board made the record into its small bright island, and at the bottom of the page, in Mara Quill's flat hand, above the reader's own signature, the board's page said: **the return is unwritten.**
 
-On the far bank of St. Orra, twenty people were standing at a receiving ramp and a school yard: five of the medicine crew, nine signal hands, and six children with two of the stewards.
+On the far bank of St. Orra, nineteen people were standing at a receiving ramp and a school yard: four of the medicine crew, nine signal hands, and four children with two of the stewards.
 
 And between the two banks, in the rain, on a road none of them could see, nine people were on a bus that had turned around once and had not come back on time.

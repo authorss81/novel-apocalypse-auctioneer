@@ -11,7 +11,7 @@ Four seats and no owner: Mara Quill as registrar, the sitting steward, and two r
 - **What this batch gave him, and it is not a power:** a broken public undertaking, a private asset nobody else can inspect, and a sale that worked. He has no new ability and no posted security. He cannot post security at all, which is exactly why he reached for a promise instead.
 - **Current want:** keep the Hearth Line alive as a public service rather than let it become either a private gate or a memory. He also wants, badly and without admitting it, to be the man the room turns to — and he has now been shown what that looks like from the outside, by Mara, by Tarin, and by his own hand at four in the morning.
 - **Current need:** to be reachable by something other than his own character. The undertaking was supposed to be that thing and it turned out to be a promise he could break.
-- **Flaw in action, named in public:** he ranks faster and better than anybody in the room, he gave the ranking away in Chapter 11, and he took it back in Chapter 17 because the room needed a man to say the order. He wrote a good charter at three in the morning with the stove going and could not see that the one field that was missing was the one he was going to ask twenty-nine people to pay in.
+- **Flaw in action, named in public:** he ranks faster and better than anybody in the room, he gave the ranking away in Chapter 11, and he took it back in Chapter 17 because the room needed a man to say the order. He wrote a good charter at three in the morning with the stove going and could not see that the one field that was missing was the one he was going to ask twenty-eight people to pay in.
 - **Cost paid:** fourteen cold boxes crossed and the ward has them. Nine people are unaccounted for. The ward market has withdrawn. A repair-crew foreman was told in a room that the press stood behind a season's wages and has learned in a yard that there is no security in the book. A public complaint against a charter he was not on is on his own notice wall in a nine-year-old's hand.
 - **Authority:** one witnessed charter closed and suspended, no security posted, no mandate, and a signed undertaking he has broken in his own handwriting. He can read a lot and he can make a room believe a route, and that is all he has.
 - **Relationship state:** Mara can no longer reach him through the process he helped build. Tarin is missing. Orren warned him in writing and was ignored. Lina wants him in the room and does not trust him. Selik regards him with respect and has made his undertaking public property.
@@ -22,16 +22,16 @@ Four seats and no owner: Mara Quill as registrar, the sitting steward, and two r
 - **What this batch gave her:** a rule book that works. Seven items entered in advance, a remedy that works for a person the record cannot point at, and a board that has now acted twice without her casting a deciding vote. She also discovered what her own rule costs: eight children came home protected by a category she invented, and not one of them can say what was done to them.
 - **Current want:** make the breach of Adrian's undertaking enforceable by somebody other than her own memory of what he promised.
 - **Current need:** accept that an imperfect public process can be more just than a private exception, and act before certainty when waiting creates harm. She acted before certainty in Chapter 12 and again in Chapter 16 and has been right both times, and she has no idea whether that is luck.
-- **Cost:** she offered the sealed page, understood that it is a deferred seizure, and said so in a room instead of quietly keeping it. She held a hearing instead of opening a page, and wrote down that her own remedy failed. She cannot reach Adrian through the undertaking, and she suspended the road herself and knows the price of that in six children and two stewards standing on a far bank.
+- **Cost:** she offered the sealed page, understood that it is a deferred seizure, and said so in a room instead of quietly keeping it. She held a hearing instead of opening a page, and wrote down that her own remedy failed. She cannot reach Adrian through the undertaking, and she suspended the road herself and knows the price of that in four children and two stewards standing on a far bank.
 - **Relationship with Adrian:** professional trust with a fracture in it. She objects on the record at every reading of his sheet and does not stop. No romantic resolution and no softening.
 
 ## Tarin Kest
 
 - **Age/role:** 43; mechanic, route keeper, and founder of the Needle Road House.
-- **Current state: missing.** On the Chapter 19 bus with Dessa Rill, three escort stewards, and five shelter children; not at the marked platform at the end of the term and not found by one o'clock.
+- **Current state: missing.** On the Chapter 19 bus with Dessa Rill, one escort steward, and six of the ten shelter children who boarded; not at the marked platform at the end of the term and not found by one o'clock.
 - **What he taught and it is now canon:** standing is a relationship between a person, a route, and a return point, and a return point is a named pair — a place, an approach, and the person who can hold them — plus a far-side condition. A post on the ground is a landmark, not a return point, because a post can be moved by a person with a spanner.
 - **Current want before he went missing:** keep roads moving, protect Bryn, and refuse any route that bends without a written condition.
-- **Relationship with Adrian:** he refused Adrian's charter in a yard in front of two hundred people and then owned his own part in the six-day postponement rather than letting Adrian be the one who finally said it out loud. He also told Adrian he is the only bearer he *has* and not the only bearer there can be, which is a professional limit rather than a grievance.
+- **Relationship with Adrian:** he refused Adrian's charter in a yard in front of two hundred people and then owned his own part in the three-day postponement rather than letting Adrian be the one who finally said it out loud. He also told Adrian he is the only bearer he *has* and not the only bearer there can be, which is a professional limit rather than a grievance.
 - **Bryn:** one page, one refusal, and the reason given is that wanting it is not allowed.
 
 ## Orren Pike
@@ -63,14 +63,14 @@ Four seats and no owner: Mara Quill as registrar, the sitting steward, and two r
 
 - **Age/role:** Counterfeit broker and operator of a mixed salvage crew.
 - **Current state:** the counterfeit is a printing plate carrying identical miscut type across three brokers — Ossie Prent, Jory Slade, Hask Vell — in three parts of the city. He has conceded in public that he sold the first one, that he rents the room to the three, that he cannot shut it down, and that he would rather it be in the book than found later and described as clever.
-- **His new offer:** a complete private package on a **fifteen-day labor term falling on him**, written on the first page, in public, with his warehouse as the thing the book can have if he does not perform. He read his own longer clause in the Chapter 19 yard in front of two hundred and forty people and did not flinch.
+- **His new offer:** a complete private package on a **fifteen-day labor term falling on him**, written on the first page, in public, with his warehouse as the thing the book can have if he does not perform. He read his own longer clause in the Chapter 19 yard in front of two hundred people and did not flinch.
 - **His argument, which is still right:** certainty is a reason you do not have to look at, and it is sold to whoever cannot afford to examine one. He told Adrian in Chapter 17 that the public board will be sold to the people who can afford certainty by a fair process with no dishonest act in it.
 - **Relationship with Adrian and Mara:** a dangerous competitor, not a defeated villain. His problem is that disclosure is organized as a service he can provide more cheaply than the market can govern.
 
 ## Dessa Rill
 
-- **Role:** Medicine-convoy driver and separately named return traveler.
-- **Current state: missing.** On the Chapter 19 bus. She has paid the memory toll five times and would have paid it twice more on the return. She remembered Ward Nine and lost the reason four separate times, and in Chapter 15 it emerged that what she kept was an *old* rule for a city she is not in — green is the water, red is lamps — which is why she cannot be the remembering passenger. In Chapter 19 she asked to be given a place to go rather than a reason to go.
+- **Role:** Medicine-convoy driver, and the named remembering passenger on the Chapter 19 outward leg.
+- **Current state: missing.** On the Chapter 19 bus. She has paid the memory toll five times and would have paid it twice more on the return. She remembered Ward Nine and lost the reason four separate times, and in Chapter 15 it emerged that what she kept was an *old* rule for a city she is not in — green is the water, red is lamps. **Chapter 15 ruled, on a bench with the woman it was about standing there to hear it, that she could not be the remembering passenger, and Chapter 19 has Tarin name her himself and then reverse that ruling in the yard, on the record and twice,** adding that it should have been said in front of two hundred people then: she cannot hold a place she has a reason for, and she has no reason left, and there is nothing in her to be wrong about where the river is, and if he is wrong the wrong is his and not Mr. Vale's and not the registrar's, because the registrar only wrote it down. Adrian saw the gap in Chapter 15 and did not make it to Tarin; he handed the whole of it to Mara Quill three days later only because she asked him a direct question, and it was in a book for no reason except that a registrar had asked. In Chapter 19 she asked to be given a place to go rather than a reason to go, and said she would rather be a door than a mourner.
 
 ## Alma Dren and Ewan Latch
 
@@ -80,13 +80,13 @@ Four seats and no owner: Mara Quill as registrar, the sitting steward, and two r
 
 ## The two escort stewards
 
-- **Roles:** two adults in grey canvas coats from the school shelter, unnamed in the public book and named on two sealed sheets — one held by Mara, one kept by the school. They accepted duty for nine children in Chapter 9 and kept the school roll for eleven days across the water without being asked. In Chapter 16 they answered for eight out of nine aloud and said the ninth was on this side and was not argued with. **They are on the missing bus.**
+- **Roles:** two adults in grey canvas coats from the school shelter, unnamed in the public book and named on two sealed sheets — one held by Mara, one kept by the school. They accepted duty for nine children in Chapter 9 and kept the school roll for eleven days across the water without being asked. In Chapter 16 they answered for eight out of nine aloud and said the ninth was on this side and was not argued with. In Chapter 19 there were three of them on the outward leg; **one is on the missing bus and two are on the far bank**.
 - **Function:** they make the protected-name channel administrable rather than a loophole. Neither may be published, and both can be reached if the remedy is called.
 
 ## Fen Ambrose
 
 - **Role:** the school shelter's second steward, responsible for the eleven children of the Chapter 19 charter.
-- **What she did:** walked down a river stair at seven in the morning to be standing on the far receiving ramp when they came off, and decided on the ramp that five children and all three stewards would get back on the bus because a steward who travels is not a steward. She is the reason the missing return party is nine rather than two, and she did it outside anybody's charter.
+- **What she did:** walked down a river stair at seven in the morning, before the bus was there, to be standing on the far receiving ramp when they came off, and did the arithmetic on the ramp in about nine seconds: four children in to the school house with two of the stewards, six children back on the bus with the third, because a steward who travels is not a steward. She is the reason the missing return party is nine rather than two, and she did it outside anybody's charter.
 - **Her warning in Chapter 17:** do not write *the school shelter group* and mean *all children under a roof the school holds*, or the count becomes a lie and the shelter's own discretion becomes the manifest.
 
 ## Wenna Keel

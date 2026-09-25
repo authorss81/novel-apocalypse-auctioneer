@@ -72,6 +72,18 @@ Using an anchor lot changes its conditions. A route may become shorter but requi
 
 The Tally records the current terms. It does not guarantee that the object will obey the same terms after a person dies, leaves, or changes their mind.
 
+### Where the object is during a use, and what happens at the closing
+
+An anchor lot that operates a vehicle or a place is carried or seated **in the thing itself** for the duration of the use. The Last Fare is a bus token: it goes into the route-control slot above the old fare box inside the vehicle, and the vehicle takes it into the Fault. A reader standing in a lot on the near bank is reading a copy of conditions, not holding the object.
+
+**At the closing, an anchor returns to the custody it was chartered out of, whether or not the vehicle or the people come back.** In Chapters 9 and 16 the token returned in the bus, because the bus returned. In Chapter 19 the route closed with the bus still inside the Fault and the token arrived on the public board at Lot 17 anyway, with the wax already broken, and the registrar entered *token returned at the closing; means not established*.
+
+Three consequences the book must keep:
+
+1. **A returned object is not a returned bus.** The token coming home is not a rescue, is not evidence that anybody is alive, and must never be written as one.
+2. **The object cannot be used to reach the people it left behind.** It returns to the lot that chartered it, not to wherever the vehicle went. A yard can be holding the whole of a road's power and still be unable to move anybody.
+3. **Nobody in Alder Reach can say how it travels.** The registrar's entry is that the means is not established, and the unanswered question is a standing mystery, not a defect to be patched.
+
 ### Removal and destruction
 
 An anchor can be moved from its Fault only through a valid charter. A narrow, previously closed **inactive custody charter** is the exception for an unopened object: it names the finder, the receiving bonded depot, the custody term, two witnesses, and a remedy for an unclaimed delivery. It grants physical custody only and never authorizes activation. If such a transfer is missing, incomplete, or unrecorded, moving the object leaves the new custodian exposed as a bare claimant. It can be destroyed, but destruction does not cancel the rule. It removes the visible handle and usually produces a **blind change**: the affected rule continues in an uncontrolled form, or the local service disappears. This is why experienced communities destroy an anchor only after building a replacement or accepting the loss.
