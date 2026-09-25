@@ -1,0 +1,39 @@
+name: novel-batch
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [novel_tick]
+  schedule:
+    - cron: '*/30 * * * *'
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: novel-${{ github.repository }}-writer
+  cancel-in-progress: false
+
+env:
+  OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
+  GH_TOKEN: ${{ github.token }}
+  NOVEL_MODEL: opencode/space-bunny-free
+  NOVEL_FALLBACK_MODELS: opencode/muse-spark-1.3-contributor-free,opencode/muse-spark-1.2-contributor-free,opencode/nemotron-3-ultra-free,opencode/nemotron-3.5-lightning-free,opencode/mimo-v2.6-flash-free,opencode/ling-3.0-flash-fin-free
+
+jobs:
+  run-batch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install OpenCode
+        run: curl -fsSL https://opencode.ai/install | bash
+      - name: Record available models
+        run: opencode models | tee logs/models.log
+      - name: Run next novel batch
+        run: bash scripts/novel_runner.sh

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "opencode/space-bunny-free",
+  "small_model": "opencode/space-bunny-free",
+  "default_agent": "novel-writer",
+  "share": "disabled",
+  "autoupdate": "notify",
+  "snapshot": true,
+  "instructions": ["AGENTS.md"],
+  "provider": {
+    "opencode-zen": {
+      "options": {
+        "apiKey": "{env:OPENCODE_API_KEY}",
+        "baseURL": "https://opencode.ai/zen/v1"
+      }
+    }
+  }
+}
