@@ -46,7 +46,7 @@ So two people counted a fence along the north wall and got thirty-one and thirty
 
 Then the sheet, and it was not reprinted, and a man of about thirty-four who mends fencing put the second of the four printed things next to the third of the five terms of a house thirty-four miles east in different words, and did not reprint either of them, and a clerk of nineteen years entered that the two have been next to each other in a yard before and that a clerk of nineteen years has said the two are two houses and are not joined and that saying it again is not a third time and is not a column.
 
-The second of the four printed things says that the named person shall not be below fifteen, and the boy is nine, and the second of the five terms of a house thirty-four miles east says that the named person will not be asked whether they will stand.
+The second of the four printed things says that the named person shall not be below fifteen, and the boy is nine, and the third of the five terms of a house thirty-four miles east says that the named person will not be asked whether they will stand.
 
 Nobody argued. A man of fifty-six said that this district has had both of those sentences in front of it for a month and has spent the month on the fourth of the four printed things and on the fourth of the five terms, and that the two sentences about a child are the two nobody has read out loud, **and that a sheet which says a named person shall not be below fifteen and carries the name of a person of nine has been broken by the hand that wrote the name and not by the person it names.**
 

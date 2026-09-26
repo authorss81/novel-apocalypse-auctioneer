@@ -42,7 +42,7 @@ A clerk of nineteen years entered that a name cannot be taken off a figure by th
 
 A man of fifty-six said that a man in a yard who carries a figure of twenty-one years and a man in a box who carries five years on a receipt thirty-four miles east are the two ends of the same problem and that the two figures are five and twenty-one and are not added, and that there is no rate in this basin that turns a year into coppers and there never has been. A clerk of nineteen years entered that neither moved and that she was not asked to add them and is not going to.
 
-Nothing was said for about nine seconds. A man of about thirty-four who mends fencing said that the man of about thirty-one has now been in this yard on nine of the last ten days and that a man who digs loam nine days in ten has been in it on about nine of the last ten as well, and that neither of them is anybody's keeper.
+Nothing was said for about nine seconds. A man of about thirty-four who mends fencing said that the man of about thirty-one has now been in this yard on six of the last ten days and that a man who digs loam nine days in ten has been in it on nine of the last ten as well, and that neither of them is anybody's keeper.
 
 A clerk of nineteen years entered that the two of them are two people in two trades about half a mile apart and that they are not one of the five near-identical figures at the west end of this line and are not merged with any of them, and that the two occasions are not a column and are not added to the count of not-askings about anybody in particular.
 
@@ -86,7 +86,7 @@ The counts were read out at about four in the afternoon, and a man of fifty-six 
 
 "**The count of things this district does not have is five. The count of instruments it has built and not named is six. The count of documents nobody owns is three. The count of protected things is five. The count of conditions with no end on it is four. The count of unentered days since the twenty-fourth of November is eighty-eight.**"
 
-A man of about thirty-four who mends fencing said that the fifth thing this district does not have is a way of saying that a toll lands on a place, and that a tank coming down to about four days, a head race standing with no term on it, a line a house keeps for itself under nine holdings, and a figure a route keeper is holding for four households are four of the five, **and that four of five is not a rate and that the fifth one is still out there and that nobody in this district has found it and is not looking.**
+A man of about thirty-four who mends fencing said that a way of saying that a toll lands on a place is one of the five things this district does not have, and that a tank coming down to about four days, a head race standing with no term on it, a line a house keeps for itself under nine holdings, and a figure a route keeper is holding for four households have the shape of it, **and that four things with the shape of a thing is not four of the five and that a resemblance put against a list has not moved the list and that nobody in this district has said which of the five is still out there.**
 
 A clerk of nineteen years entered that the four of those are resemblances and not findings and that she was asked to say whether the four of them are the same thing and said no in four seconds, **and that the refusals to join two things stand at thirteen and her own count stands at twelve and that neither moved on any of the eleven days this yard reaches.**
 

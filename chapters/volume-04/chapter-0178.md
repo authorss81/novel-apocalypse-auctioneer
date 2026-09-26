@@ -8,11 +8,11 @@ The building is one room and a stove and four shelves, and the woman of fifty-ei
 
 Nobody took that up. A man of fifty-six said afterwards in the yard that a page in a man's own book is thinner than a minute and is not the same thing, and that a clerk of nineteen years entered that the record of the eighteenth of the second month is the page the man of about fifty-five keeps, **and that a man of fifty-five has been writing days into a finger's width of space since the fourth of the second month and has said that he is not going to be asked about it and was not asked about it.**
 
-Then the man who came, and he came on the seventeenth of the second month, about four in the afternoon, and he was looking for a man of about forty-one, and the man of about fifty-five did not have to look in a drawer.
+Then the man who came, and he came on the eighteenth of the second month, about four in the afternoon, and he was looking for a man of about forty-one, and the man of about fifty-five did not have to look in a drawer.
 
 Nobody in the building said anything for about nine seconds. The man of about fifty-five said that the man of about forty-one was in this building on the fourteenth of the second month and slept two nights and went on the sixteenth, **and that he knew it because he had written it in the space, and that a man who looks for a person in nine years of names in four pages has never once found one and that a man who looks in eleven days has found him in a drawer.**
 
-A man of fifty-six said that the eleven minutes a clerk of nineteen years counted in a yard yesterday were the minutes a boy of nine stood in a yard, and that this is a different eleven and that the two are not a column, **and that a man who has been keeping a page for nine years with about forty names on it and no day against any of them can now tell a stranger which of the forty was here on the fourteenth of the second month, and can say nothing at all about the thirteenth.**
+A man of fifty-six said that the eleven minutes a clerk of nineteen years counted in a yard on the sixteenth were the minutes a boy of nine stood in a yard, and that this is a different eleven and that the two are not a column, **and that a man who has been keeping a page for nine years with about forty names on it and no day against any of them can now tell a stranger which of the forty was here on the fourteenth of the second month, and can say nothing at all about the thirteenth.**
 
 A clerk of nineteen years entered that the man of about fifty-five gave the day out of his own book without being asked for it and that she is not going to put a number on that, **and that the days before the fourth of the second month are not in the page and are not in any other page and are not in any book in this district, and that about forty names on that page are forty absences and that a day which is absent is not a day of zero and cannot be given to anybody.**
 
@@ -34,7 +34,7 @@ A man of about fifty-six said that a woman of about fifty-eight who carries wate
 
 Then the two of them who came in on the eighteenth of the second month at about eleven in the morning, which is a day he could name and a day he could not name the end of, and he wrote the day in the space in front of them and did not say anything while he wrote it.
 
-A man of fifty-six asked him, in the six things, what happens to the day when they go, and he said that nothing happens to it, and gave the reason in a sentence that is in the minute in her own words, and a man of about nineteen counted it and got thirty-five.
+A man of fifty-six asked him, in the six things, what happens to the day when they go, and he said that nothing happens to it, and gave the reason in a sentence that is in the minute in his own words, and a man of about nineteen counted it and got thirty-five.
 
 "**The page says a person comes in on a day. It does not say a person goes out on one, and I did not write the heading, and I wrote it in the fourth year.**"
 
@@ -100,7 +100,7 @@ The cost of the day came out of the man the figure of twenty-one years is agains
 
 The lane did not argue with it and a clerk of nineteen years entered that he said the second half before he was asked for it and that she is not going to put a number on it, **and that a man who has been given a new capacity by a rule that arrived in a lane on the second of the second month has said the right thing about it in sixteen days and that saying the right thing is not a rule and is not written down.**
 
-A man of about thirty-four who mends fencing said that a man who says do not use that is a man who has understood an instrument better than anybody in this district, **and that the district's rule arrived in a lane six days after a day in a space was refused entry as a seventh instrument, and that the two of those are not joined and the rule is not to be retired to make a question go away.**
+A man of about thirty-four who mends fencing said that a man who says do not use that is a man who has understood an instrument better than anybody in this district, **and that the district's rule arrived in a lane sixteen days after a day in a space was refused entry as a seventh instrument, and that the two of those are not joined and the rule is not to be retired to make a question go away.**
 
 Then the interval, done in the lane at about half past two in the afternoon on the eighteenth of the second month by a man of fifty-six who had walked nine yards out from the middle of it before he came down, and a clerk of nineteen years was not there and has the figure.
 
@@ -110,7 +110,7 @@ A woman of about thirty-three who takes in washing at the second channel came do
 
 A clerk of nineteen years entered that a woman who can name six of about nine people she has seen in a room for nine years has done better than the page and worse than the page, **and that a memory is not a record and a record is not a memory, and that the tank is the only thing in this building that has been keeping a true count for nine years and it is not keeping it now.**
 
-A man of fifty-six said that the eleventh of the second month was forty-eight and forty-nine and that today is forty-one and forty-two, and that a district which has said a pair of figures seven times in eight days has said it seven times and that seven is a count and not a column, **and that the eleventh of the second month was three hundred and sixty-five days after the train came and that a man of seventeen wrote that figure in an index in a hand that is not a clerk's hand.**
+A man of fifty-six said that the eleventh of the second month was forty-eight and forty-nine and that today is forty-one and forty-two, and that a district which has said a pair of figures six times in eight days has said it six times and that six is a count and not a column, **and that the eleventh of the second month was three hundred and sixty-five days after the train came and that a man of seventeen wrote that figure in an index in a hand that is not a clerk's hand.**
 
 A clerk of nineteen years entered that the count of unentered days since the twenty-fourth of November is eighty-six and is a count of days and not a column, **and that the count of protected things is five and the count of conditions with no end on it is four, and that a tank coming down to about four days is not one of the four and is not one of the five and is not a column.**
 

@@ -88,7 +88,7 @@ The yard let it stand. A clerk of nineteen years entered that the fifth of the f
 
 ---
 
-A man of about thirty-four who digs loam asked, in the six things, at about half past one in the afternoon, what the fourth line of the offer actually is, and a man of fifty-six said that nobody in this district knows and has never known, and that it is on a table three hundred and thirty miles or thirty-four miles away and has never been read out loud here.
+A man of about thirty-four who digs loam asked, in the six things, at about half past one in the afternoon, what the fourth line of the offer actually is, and a man of fifty-six said that nobody in this district knows and has never known, and that it is on a table thirty-four miles away and has never been read out loud here.
 
 A clerk of nineteen years entered that the fourth line is not entered, and that a thing nobody in this district can state is not a thing this district can carry, **and that a woman whose name is in no register in the west bank has offered four lines three times and has had none of them taken and none of them refused, and that a person who has offered a thing three times and not had it taken is a person and not a house and is not joined to a house.**
 

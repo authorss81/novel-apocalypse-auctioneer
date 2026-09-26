@@ -84,7 +84,7 @@ A woman of fifty-eight who carries water and does not read figures came up the l
 
 A clerk of nineteen years entered that she was not asked about the tank and that the not-asking is entered and the count is where it was, **and that a woman who says a thing is not to be written where a house can read it has said the same sentence as a man of fifty-six in this yard and neither of them is going to have it written down.**
 
-On the fourteenth of February they went out to the farm four miles out past the loams, where the lane stops being metalled, and the sluice at the low end of the second field was still open, and the water going through it is not counted by anybody, and there was nobody at the farm and there has not been anybody at the farm.
+Then the sluice at the low end of the second field, and it was still open, and the water going through it is not counted by anybody, and a man of about thirty-four who mends fencing said that an uncounted sluice is the only instrument in this district that nobody has ever had to be given a term to, and that there was nobody at the farm and there has not been anybody at the farm since the thirtieth of December.
 
 A man of fifty-six said the two things out loud in the yard on the evening of the fourteenth and a clerk of nineteen years entered both of them in one line and did not join them, **and that the tank at the back of the flood shelter at the sluice end of a lane off the lower terrace was full on the fourteenth of the second month, and that the fourth holding of the nine on a sheet nailed in a shed eleven miles up a road had not taken a drop, and that the two of those facts have now been entered in one line more than once and that she is not going to say how many times and that the number is not a column.**
 

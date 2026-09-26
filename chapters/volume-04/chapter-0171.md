@@ -18,7 +18,7 @@ A man of about thirty-four who mends fencing said that a house which will tell a
 
 A clerk of nineteen years entered that a house that says what it does not keep is saying what it does not know, and that a document which says what it does not know is honest, and that this district entered the same finding about a sheet in the fourth week of December, **and that the two findings are about two houses and are not joined, and that the resemblance is entered and is not added to anything.**
 
-**AND ON THE TENTH OF THE SECOND MONTH A MAN BEHIND A COUNTER THIRTY-FOUR MILES EAST ANSWERED THE QUESTION WHAT A SLUICE IS ON A HOUSE'S SHEET BY SAYING THAT THE HOUSE KEEPS NINE HOLDINGS AND A TENTH LINE AND THAT THERE IS NO ELEVENTH THING ON A SHEET.**
+**AND ON THE NINTH OF THE SECOND MONTH A MAN BEHIND A COUNTER THIRTY-FOUR MILES EAST ANSWERED THE QUESTION WHAT A SLUICE IS ON A HOUSE'S SHEET BY SAYING THAT THE HOUSE KEEPS NINE HOLDINGS AND A TENTH LINE AND THAT THERE IS NO ELEVENTH THING ON A SHEET.**
 
 ---
 
@@ -42,13 +42,13 @@ A man of about nineteen who walked in from the road counted that and got forty-s
 
 A clerk of nineteen years entered that the woman was not asked and was not asked twice and was not asked why, and that the not-asking is entered and the count is where it was, **and that a person who is in no register in the west bank has now said one thing out loud in this district's business and has not been asked a question about it, and that the two facts are two facts and neither is a column.**
 
-**AND ON THE TENTH OF THE SECOND MONTH A WOMAN OF ABOUT THIRTY-FIVE AT THE FAR END OF A COUNTER THIRTY-FOUR MILES EAST SAID THAT THE ELEVENTH OF THE SECOND MONTH IS A DAY THIS HOUSE HAS NOT NAMED AND THAT SHE IS NOT GOING TO NAME IT, AND SHE WAS NOT ASKED FOR IT, AND THE RECORD SAYS NOT ASKED.**
+**AND ON THE NINTH OF THE SECOND MONTH A WOMAN OF ABOUT THIRTY-FIVE AT THE FAR END OF A COUNTER THIRTY-FOUR MILES EAST SAID THAT THE ELEVENTH OF THE SECOND MONTH IS A DAY THIS HOUSE HAS NOT NAMED AND THAT SHE IS NOT GOING TO NAME IT, AND SHE WAS NOT ASKED FOR IT, AND THE RECORD SAYS NOT ASKED.**
 
 ---
 
 The third thing on the page was not a sentence anybody had said to him and he wrote that on the page himself.
 
-He wrote that he asked the man of about thirty-five whether the house had ever named the eleventh of the second month in anything, and that he did not ask it in a way that could be refused, and that he asked it in the middle of a conversation about a sluice, and that the man behind the counter answered it, and that the answer took about four seconds.
+He wrote that he asked the man of about thirty at the counter whether the house had ever named the eleventh of the second month in anything, and that he did not ask it in a way that could be refused, and that he asked it in the middle of a conversation about a sluice, and that the man behind the counter answered it, and that the answer took about four seconds.
 
 The page says the answer was that the house does not name days and that days are named by the people who owe them, and a clerk of nineteen years entered that a house which does not name days is a house which has arranged for somebody else to name them, and that somebody else is not the house, **and that a sheet of four printed things in a pocket on the tide has a day in a corner in a hand that is not the mother's and not the counter's and not the house's, and that the hand has not been looked at by anybody in this district, and that the two are not joined.**
 

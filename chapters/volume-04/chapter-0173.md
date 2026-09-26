@@ -2,7 +2,7 @@
 
 ---
 
-The twelfth of the second month was the day a second household at the sluice end of the loams said no, and the man of about forty-eight who keeps a tally for six households came down the bank with the tally under his arm at about ten in the morning, and there was no clerk on the road and no minute, and what came back was a page in his own hand which a clerk of nineteen years read out in the yard at about two because a page is read out.
+The eleventh of the second month was the day a second household at the sluice end of the loams said no, and the man of about forty-eight who keeps a tally for six households came down the bank with the tally under his arm at about ten in the morning, and there was no clerk on the road and no minute, and what came back was a page in his own hand which a clerk of nineteen years read out in the yard at about two on the twelfth because a page is read out.
 
 The tally is a board of about eighteen inches by twelve and it is a tally and not a board, and it has six headings on it and four or five names under each in a hand that is not a clerk's hand, and there is no column anywhere on it for a person who is not in a household.
 
@@ -12,7 +12,7 @@ The second household said no on the eleventh of the second month and said it in 
 
 "**We will take the water. We will not put a name in a column for a season we have not been in yet.**"
 
-Before anybody argued with it, the man of about forty-eight who keeps the tally said the other half of where the sheet comes from, and it is on the page in his own hand, and that a man of about thirty-one who digs loam asked him for it in the five things and was answered.
+Before anybody argued with it, the man of about forty-eight who keeps the tally said the other half of where the sheet comes from, and it is on the page in his own hand, and that a man of about thirty-four who digs loam asked him for it in the five things and was answered.
 
 He said that the sheets come down at the end of a month on a cart with the seed and a man puts them down at the head of the lane and goes, and that nobody stays, and that in nine weeks he has walked them to five of the six households himself.
 
@@ -68,7 +68,7 @@ A clerk of nineteen years entered that he said the second half before anybody as
 
 Nobody took that up. A man of about thirty-four who mends fencing said that this district has spent four months arguing about the people it can name and has one person it cannot reach, and that the one person it cannot reach is the only one who has just declined to be made an exception, **and that a man who declines to be an exception is a person and not a category, and that the five protected things in this district are a passage twice, a loss once, a failure of a remedy once and a refusal to be asked again once, and that none of the five is him.**
 
-A man of fifty-six said that the six of the four conditions with no end on it are not protected things and are never to be entered in that tally, **and that a condition with no end on it is a different class of thing from a protected thing and that the two counts have not been added to each other in eleven weeks and are not going to be added by a man in a cart.**
+A man of fifty-six said that the four conditions with no end on it are not protected things and are never to be entered in that tally, **and that a condition with no end on it is a different class of thing from a protected thing and that the two counts have not been added to each other in eleven weeks and are not going to be added by a man in a cart.**
 
 **AND THE SIXTH HOUSEHOLD ON A TALLY UNDER A MAN'S ARM IS A MAN WHO LIVES IN A CART, AND HE SAID THAT HE HAS HAD NINE YEARS OF NOT BEING ON A PIECE OF PAPER AND IS NOT GOING TO ASK FOR WRITING DOWN FOR IT, AND HE IS NOT ONE OF THE FIVE PROTECTED THINGS.**
 

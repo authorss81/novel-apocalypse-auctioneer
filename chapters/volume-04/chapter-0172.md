@@ -116,7 +116,7 @@ The room did not argue with that and a clerk of nineteen years entered that the 
 
 A man of about thirty-four who digs loam said that a building that can say who was in it and on what day is a building that can be asked, and that a building that can be asked can be refused, and that nobody in this district has thought about what a building says when it is asked.
 
-So a building four miles down a lane has been writing days for a week, and two of the six are the same day, **and the days before the fourth of the second month are not in that page and are not in any other page and are not in any book in this district, and a man of about thirty-four who digs loam said that a building that can be asked can be refused and that nobody here has thought about what a building says when it is asked.**
+So a building four miles down a lane has been writing days for a week, and two of the six are the same day, **and a woman stood at the end of that lane on the ninth and did not go in, and a building that can be asked about a person is a building that can be told no, and this district has not asked it one thing.**
 
 ---
 

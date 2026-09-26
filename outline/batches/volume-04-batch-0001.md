@@ -167,7 +167,7 @@
 - **A man of about thirty-four who mends fencing** — asks the questions in yards.
 - **A man of about thirty-four who digs loam and does nine days of it in ten** — came back on the twelfth of January; in none of the counts.
 - **A man of about nineteen who walked in from the road** — counts the words, is entered as not speaking for a room four times, **was asked for the first time in this block, and is nobody's keeper and is not to be turned into one.**
-- **A man of fifty-eight who carries water and does not read figures** — the bucket. Carries to about ninety houses; the figure was said by her and has not been checked.
+- **A woman of fifty-eight who carries water and does not read figures** — the bucket. Carries to about ninety houses; the figure was said by her and has not been checked. **She is a woman throughout Volume 04 and this line said a man while its own second half said her; corrected by the review of Batch 0003.**
 - **A woman of about fifty who is the water at the ninth place** — **is not to be asked twice** about the first of the four posted securities.
 - **A man of seventeen** — keeps the index with the train's day-count and the rule under the sixth. **Unpaid, unasked, nobody's keeper. Nobody is to use that rule up on somebody else's account.**
 - **A clerk of nineteen years** — Lot 17's clerk, the entry, the not-asking, the unruled line, and the refusal to write a fifth date. **A clerk is a person and not a rule.**
