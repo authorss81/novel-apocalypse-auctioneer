@@ -72,7 +72,7 @@ She said so out loud on the afternoon of the fourteenth, in a counting room, wit
 
 The registrar is the registrar and not a vote and not independent, and she has refused six times to join two things, and on the seventh she gave a different reason, and she noticed that she had given a different reason, and she said that out loud as well, and the minute has both of those in it in her own hand.
 
-"**I have held these apart six times and I am holding them apart a seventh, and I am going to say why I have said the same sentence six times before I say the new one, and the reason is that I have begun to be asked about it, and that has not happened in nine weeks and I am not going to do it in a hurry.**
+"**I have held these apart six times and I am holding them apart a seventh, and I am going to say why I have said the same sentence six times before I say the new one, and the reason is that I have begun to be asked about it, and that has not happened in nine weeks and I am not going to do it in a hurry.**"
 
 "**The sentence has not changed because the paper has not changed. Two things that arrived separately stay in two lines until somebody puts a thing on the paper that joins them, and nobody has put a thing on the paper, and on the day somebody does I will join them in about four seconds and it will be the fastest thing I have ever done in this room.**"
 
