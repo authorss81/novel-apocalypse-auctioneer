@@ -35,9 +35,9 @@ A man of fifty-six said that the line could be left blank and a man of about thi
 
 A woman of thirty-eight who has been in the second channel four years was asked on the thirtieth whether she wanted one of these notices, and she said she would take one on the first of April and not before, and the clerk of nineteen years asked why and she gave the reason in forty-four words and the clerk counted them and got forty-four both times.
 
-"**Give me that in the first week of April and I will hand it in the same morning. Give it to me now and I carry it eleven weeks and somebody in my house asks me about it every day of the eleven weeks.**"
+"**Give me that in the first week of April and I will hand it in the same morning. Give it to me now and I carry it twenty-two weeks and somebody in my house asks me about it every day of the twenty-two weeks.**"
 
-A man of fifty-six entered that this is the second time in two days that a person in a frame has said the notice is eleven weeks too early, and that the clause on the twenty-sixth does not carry a date for giving the notice, and that two people who are the people it is written for have now said so separately and neither of them was asked by the other.
+A man of fifty-six entered that this is the second time in two days that a person in a frame has said the notice is twenty-two weeks too early, and that he had said a hundred and fifty-one days on the twenty-sixth and that the woman of thirty-eight had said twenty-two weeks on the thirtieth, and that the two figures are in two minutes and are not joined, and that the clause on the twenty-sixth does not carry a date for giving the notice, and that two people who are the people it is written for have now said so separately and neither of them was asked by the other.
 
 
 ---

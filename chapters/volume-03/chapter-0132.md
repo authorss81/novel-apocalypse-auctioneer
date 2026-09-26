@@ -78,7 +78,7 @@ A man of about thirty-four who digs loam and does nine days of it in ten asked h
 
 Nobody in the room disagreed with her and about four people wrote it down at home, and a clerk of nineteen years wanted to put it in the column for things that are not findings and did not, and did not give the reason this time, and entered that she had not given it and had wanted to.
 
-A man of fifty-six then put a clause on the table and it is in the minute in his own words and the clerk counted it and got forty-one and read it back and he said it was right **and the clause is a right and not an instrument and it is the first thing anybody in this district has ever written down that a person may use against a thing that has already happened to them.**
+A man of fifty-six then put a clause on the table and it is in the minute in his own words and the clerk counted it and got eighty-two and read it back and he said it was right **and the clause is a right and not an instrument and it is the first thing anybody in this district has ever written down that a person may use against a thing that has already happened to them.**
 
 > **A PERSON WHO HAS STOOD IN A FRAME IN THIS SEASON MAY SAY, ON ANY DAY BEFORE THE FIRST OF APRIL, THAT THEY WILL NOT STAND IN THAT FRAME AGAIN. THE NOTICE IS GOOD FROM THE DAY IT IS GIVEN AND NOT THE DAY BEFORE. IT IS NOT A RELEASE AND IT IS NOT A CONSENT AND IT DOES NOT GIVE BACK A YEAR. NOBODY MAY ASK THE PERSON WHY. THE NOTICE IS GOOD WHETHER OR NOT THE FRAME IS RUN AGAIN.**
 
@@ -88,11 +88,11 @@ A woman of thirty-eight in the second channel said the third change and the reas
 
 "You have all written *before the first of April* as if it were an early date. It is the last date. A person told in the last week of March has got one week, and a week is not enough to leave a job you have done since you were nine."
 
-A man of fifty-six said the arithmetic out loud and it is twenty-five words and it is in the minute: eleven weeks from the first of November to the first of April, and eleven weeks in a house where somebody is going to ask why.
+A man of fifty-six said the arithmetic out loud and it is thirty-four words and it is in the minute: a hundred and fifty-one days from the first of November to the first of April, and twenty-one weeks and four days, and twenty-one weeks in a house where somebody is going to ask why.
 
-A woman of fifty-eight who carries water and does not read figures was asked what the eleven weeks are and she gave the other half in thirty-four words **and the clerk of nineteen years wrote them down in her own hand and did not join them to the arithmetic.**
+A woman of fifty-eight who carries water and does not read figures was asked what the days are and she gave the other half in thirty-four words **and the clerk of nineteen years wrote them down in her own hand and did not join them to the arithmetic.**
 
-"**It is the time it takes the wrong person to find out. That is all a notice is. It is eleven weeks for somebody to come and ask me why I am not wanted.**"
+"**It is the time it takes the wrong person to find out. That is all a notice is. It is five months for somebody to come and ask me why I am not wanted.**"
 
 Nobody said she was wrong, and a man of fifty-six entered that the clause did not carry a date for giving the notice. **A right with no date for using it is a right a person will use in the last week, and the person it is written for is the person it will be used by, and that is the finding and not a criticism of anybody.**
 
@@ -106,7 +106,7 @@ The clause does not say what the year was.
 
 A clerk of nineteen years said that out loud and a man of fifty-six said that the four of September had spent four hours making a figure and had not been able to put it on a form in a way the person it belonged to could check, and that the first form anybody had made for a year said nothing about the year on purpose, and that a man who cannot remember a year can still say that he will not do it again.
 
-AND ON THE TWENTY-SECOND OF OCTOBER A ROOM WITH NO OFFICER AND NO CLERK AND NO NAME ON ITS DOOR PUT A RIGHT TO WITHDRAW ON A TABLE AND CHANGED IT FOUR TIMES **AND A WOMAN WHO HAS DONE IT ELEVEN YEARS SAID THAT A WORKER WHO SAYS NO ON THE LAST DAY OF A SEASON IS A WORKER WHO HAS ALREADY PAID, AND THE YEAR WENT OUT OF HER IN THE THIRD WEEK AND THE NO COMES ON THE LAST DAY.**
+AND ON THE TWENTY-SIXTH OF OCTOBER A ROOM WITH NO OFFICER AND NO CLERK AND NO NAME ON ITS DOOR PUT A RIGHT TO WITHDRAW ON A TABLE AND CHANGED IT FOUR TIMES **AND A WOMAN WHO HAS DONE IT ELEVEN YEARS SAID THAT A WORKER WHO SAYS NO ON THE LAST DAY OF A SEASON IS A WORKER WHO HAS ALREADY PAID, AND THE YEAR WENT OUT OF HER IN THE THIRD WEEK AND THE NO COMES ON THE LAST DAY.**
 
 AND THE CLAUSE SAYS A PERSON MAY SAY BEFORE THE FIRST OF APRIL THAT THEY WILL NOT STAND IN THAT FRAME AGAIN **AND IT IS GOOD FROM THE DAY IT IS GIVEN, AND IT IS NOT A RELEASE AND IT IS NOT A CONSENT AND IT DOES NOT GIVE BACK A YEAR, AND IT DOES NOT SAY WHAT THE YEAR WAS, AND A MAN OF TWENTY-SIX ASKED FOR THAT.**
 
@@ -156,4 +156,4 @@ A man of fifty-six said that the room had two dates and no instrument to move an
 
 It was not struck and a clerk of nineteen years entered that it was not struck and why.
 
-**AND ON THE TWENTY-SECOND OF OCTOBER A CLAUSE WENT ON A TABLE IN A ROOM THAT HAS NO OFFICER, AND A MAN OF ABOUT THIRTY-FOUR WHO DIGS LOAM ASKED WHICH WAY THE DOOR IN IT OPENS, AND THE MINUTE SAYS OUTWARDS, AND A WOMAN OF ABOUT THIRTY-THREE WHO TAKES IN WASHING AT THE SECOND CHANNEL SAID THAT THE DAY THE NAME COMES OFF AND THE DAY THE YEAR IS RENEWED ARE THE SAME DAY, AND NOBODY ASKED HER WHY, AND NOT ASKED IS IN THE COUNT AND THE COUNT DID NOT MOVE.**
+**AND ON THE TWENTY-SIXTH OF OCTOBER A CLAUSE WENT ON A TABLE IN A ROOM THAT HAS NO OFFICER, AND A MAN OF ABOUT THIRTY-FOUR WHO DIGS LOAM ASKED WHICH WAY THE DOOR IN IT OPENS, AND THE MINUTE SAYS OUTWARDS, AND A WOMAN OF ABOUT THIRTY-THREE WHO TAKES IN WASHING AT THE SECOND CHANNEL SAID THAT THE DAY THE NAME COMES OFF AND THE DAY THE YEAR IS RENEWED ARE THE SAME DAY, AND NOBODY ASKED HER WHY, AND NOT ASKED IS IN THE COUNT AND THE COUNT DID NOT MOVE.**

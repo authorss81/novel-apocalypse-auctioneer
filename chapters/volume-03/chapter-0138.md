@@ -48,13 +48,13 @@ It was from a man of about forty-four who has the second cut **and it is one lin
 
 A man of thirty-four who mends fencing said that four seasons is a figure and that the figure is a figure and that it is going on the page in a room where about nineteen people are sitting, and that nobody in the room has asked the man a single question about any of it, and that a man who was entered as not asked on the twenty-seventh of October has, on the eleventh of November, without being asked, put a figure in a column.
 
-A clerk of nineteen years said the thing that had to be said and said it in six words, and a man of about nineteen who walked in from the road counted them and got nine.
+A clerk of nineteen years said the thing that had to be said and said it in six words, and a man of about nineteen who walked in from the road counted them and got six.
 
 "**The sixth column cannot say this.**"
 
 The sixth column is headed WHETHER THEY WERE IN THE ROOM. It says YES five times, it says NOT ASKED once, and it says nothing said twice, and the cell belonging to a man of about forty-four who has the second cut was the one that said NOT ASKED and had said it since the twenty-seventh of October.
 
-Nobody ruled anything and nobody struck anything and a man of about thirty-four who digs loam sat down at the table, and a clerk of nineteen years entered that he sat down, and that he did not say anything for about nineteen minutes, and that in the nineteenth minute he said the finding and that he said it in thirty-seven words and that she counted them and got nineteen.
+Nobody ruled anything and nobody struck anything and a man of about thirty-four who digs loam sat down at the table, and a clerk of nineteen years entered that he sat down, and that he did not say anything for about nineteen minutes, and that in the nineteenth minute he said the finding and that he said it in thirty-seven words and that she counted them and got thirty-seven.
 
 "**A person who was not asked has now put a figure in a book. The column has one word for not asked and none for asked-then-wrote. The page cannot say it and the page is not wrong.**"
 
@@ -71,7 +71,7 @@ A man of about thirty-four who digs loam said no in four seconds and the nine wo
 
 "**It goes in the minute or it goes nowhere.**"
 
-A man of thirty-four who mends fencing asked him what the difference was between a minute and a form and he said it in fifty-four words and a man of about nineteen who walked in from the road counted them and got thirty-one, and a clerk of nineteen years did not count and he said count them anyway.
+A man of thirty-four who mends fencing asked him what the difference was between a minute and a form and he said it in fifty-four words and a man of about nineteen who walked in from the road counted them and got fifty-four, and a clerk of nineteen years did not count and he said count them anyway.
 
 "**A minute is a room. A form is a yard. Everything a person says in a room is theirs to say and everything a person puts on a yard is theirs to take away, and I have been taken away from twice in three weeks and one of them was a bed of brine.**"
 
@@ -100,11 +100,13 @@ Nobody argued with the underline and a reader at the counter said that she had r
 
 A man of fifty-six said on the twelfth, in four minutes and without being asked, that a person who writes first has done the one thing eleven weeks of asking has not managed, and that the room's whole method has been to ask people things and that the man of about forty-four who has the second cut has beaten it by not being asked, and that a method which can be beaten by a man writing one line on his own is a method and not a system, and that he said this in a room and did not say what should be done about it.
 
-Nobody said what should be done about it and a woman of thirty-three who takes in washing at the second channel said the other half **and it is in the minute in her own words, and it is twenty-three words, and a man of about nineteen who walked in from the road counted them and got nineteen.**
+Nobody said what should be done about it and a woman of thirty-three who takes in washing at the second channel said the other half **and it is in the minute in her own words, and it is twenty-three words, and a man of about nineteen who walked in from the road counted them and got twenty-three.**
 
 "**He wrote it because he wanted it in a book. Ask him nothing and he will keep writing and nobody will know why.**"
 
-A man of thirty-four who mends fencing said that the sentence was the answer to the count of not-askings and that the count of not-askings was four and had a standing refusal in it and belonged to a woman of forty-five who is not a name in this book, and that a man of about forty-four who has the second cut is a different person and that a count is a column and not a bucket, and that a clerk of nineteen years entered that she had wanted to put the man of forty-four into the count of not-askings and had not, and gave the reason in twenty-six words, and the man of thirty-four said the same twenty-six words in a yard in September.
+A man of thirty-four who mends fencing said that the sentence was the answer to the count of not-askings and that the count of not-askings was four and had a standing refusal in it and belonged to a woman of forty-five who is not a name in this book.
+
+He said that a man of about forty-four who has the second cut is a different person and that a count is a column and not a bucket, **and that a clerk of nineteen years entered that she had wanted to put the man of forty-four into the count of not-askings and had not, and gave the reason in twenty-six words, and the man of thirty-four said twenty-two words in a yard in September that were not the twenty-six, and a clerk of nineteen years entered both and did not join them.**
 
 "**It is a finding and it is about a person, and a column for things that are not findings is for things a person got wrong.**"
 

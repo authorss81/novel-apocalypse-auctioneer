@@ -14,9 +14,9 @@ Nobody asked her and she said it anyway, and then said she was sorry, and a cler
 
 On the sixteenth of November the twenty-one years were read out at the ward market counter for the third time in eleven weeks and the reader at the counter read them out twice afterwards because the rule of the counter is that a document goes out twice, and a clerk of nineteen years was in the room and was not asked to read them and was not asked and entered that she had not been asked and that not asked is in the count.
 
-The entry of the nineteenth of October is unchanged and carries the date the word steward stops in the same line as the name **which is the thirty-first of March, and on the sixteenth of November a clerk of nineteen years entered the reason the other half of that word has not been finished, and the reason is twenty words and she did not count them and a man of about nineteen who walked in from the road counted them and got nineteen.**
+The entry of the nineteenth of October is unchanged and carries the date the word steward stops in the same line as the name **which is the thirty-first of March, and on the sixteenth of November a clerk of nineteen years entered the reason the other half of that word has not been finished, and the reason is nineteen words and she did not count them and a man of about nineteen who walked in from the road counted them and got nineteen.**
 
-"**The first half is a word in a book. The second half is a season. The season has not started.**"
+"**The first half is a word in a book. The second half is a season and has not started.**"
 
 Nobody argued with that and a man of fifty-six said that this is the fourth time in eleven weeks that a room has said the same shape of sentence and that a shape of sentence is not a rule and is not a finding and is not in the column for things that are not findings, and that it is in the book on the sixteenth of November because a clerk of nineteen years put it there and that is the only reason it is anywhere.
 
@@ -28,7 +28,7 @@ A man of about twenty-six who is at the third channel and has been in a bed of b
 
 On the eighteenth of November the room dealt with the letter, and the man of about thirty-four who digs loam made two entries and one of them was to leave a cell alone.
 
-The four seasons went into the third column of the eleventh row. The sixth column of the eleventh row still says NOT ASKED, and it was left as it was, and a man of fifty-six asked why and the man of about thirty-four who digs loam gave the reason in fifty-one words and a clerk of nineteen years did not count them and a man of about nineteen who walked in from the road counted them and got thirty-one.
+The four seasons went into the third column of the eleventh row. The sixth column of the eleventh row still says NOT ASKED, and it was left as it was, and a man of fifty-six asked why and the man of about thirty-four who digs loam gave the reason in fifty-one words and a clerk of nineteen years did not count them and a man of about nineteen who walked in from the road counted them and got fifty-one.
 
 "**He wrote it on the eleventh and nobody asked him. The column is for what this district asked. If I change the cell now then the page says we asked, and we did not, and a page that lies about an asking is the form with no column on it again.**"
 
@@ -50,7 +50,7 @@ Nobody asked her and a clerk of nineteen years entered that nobody asked her and
 
 ---
 
-A woman of thirty-eight who has been in the second channel four years was asked on the nineteenth of November, in the six things, what she will do on the first of April, and she said it in thirty-six words and a man of about nineteen who walked in from the road counted them and got fifty-one and a clerk of nineteen years did not count and said so and he said count them anyway.
+A woman of thirty-eight who has been in the second channel four years was asked on the nineteenth of November, in the six things, what she will do on the first of April, and she said it in thirty-six words and a man of about nineteen who walked in from the road counted them and got thirty-six and a clerk of nineteen years did not count and said so and he said count them anyway.
 
 "I will be told before the first of April that I am in it, or I will not stand in it, and I do not want it in writing and I do not want a form."
 
@@ -84,7 +84,7 @@ Nobody joined them and a man of thirty-four who mends fencing entered that the c
 
 The line under the eleventh row was still under the eleventh row on the twenty-first of November, and the man of about thirty-four who digs loam had been asked about it four times in five days by three different people and had said the same nine words four times. **A clerk of nineteen years entered that a person who is asked the same question four times and gives the same answer four times has either one answer or is saying a thing he has been asked to say, and that she does not know which and did not ask, and that this is the first time she has entered that sentence about anybody other than the boy of nineteen at the fourth place.**
 
-The nine words were that a line is a place on a page where the next person starts.
+The nine words were that a line is a place the next person starts.
 
 Nobody argued with that and about four people wrote it down at home, and a man of thirty-eight said that a line under the last filled row of a page ruled to thirty-one rows is a promise made by a man with a spade to a stranger four years away, and that a promise with no name on it is the only kind of promise this district has ever made on a page, and that a clerk of nineteen years entered that and entered that the man the figure of twenty-one years is against did not say it, and that she entered it because she thought it ought to be in the book and was not asked by anybody to enter it.
 

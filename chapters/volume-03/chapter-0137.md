@@ -67,7 +67,7 @@ And then a man of thirty-four who mends fencing asked him, in that yard, in fron
 
 The reason a security was wanted is that a notice which is not on a guild form can be taken away by whoever holds the paper, and a security is the only thing he has that stops a person taking a piece of paper away, and a man of fifty-six said that a security is a thing a stranger can go and look at and that is the whole of what a security has ever been in this district.
 
-He could have posted it. It is the fifth of his five powers and there is no rule against it and nobody in that yard had standing to stop him **and a man of thirty-four who mends fencing stopped him anyway, and the words he used were Adrian's own words from the ninth of October and the clerk of nineteen years entered that they were the same forty-eight words in the same order and that he had heard them said to him and had not argued then either.**
+He could have posted it. It is the fifth of his five powers and there is no rule against it and nobody in that yard had standing to stop him **and a man of thirty-four who mends fencing stopped him anyway, and the words he used were Adrian's own words from the ninth of October and the clerk of nineteen years entered that they were the same nine words in the same order and that he had heard them said to him and had not argued then either.**
 
 "**A power is a thing you can do to a document and not to a person, and the day somebody asks me to do one of mine to a person is the day I hand the five of them in and go and stand in a frame myself.**"
 
@@ -77,7 +77,7 @@ The man of twenty-six said the other half in that yard and he said it about nine
 
 "**You will not post it because you cannot pay for a year, and I am not able to tell you what one costs, and we are both stood in this yard saying the same thing from opposite ends.**"
 
-**AND ON THE SEVENTH OF NOVEMBER THE MAN WHO CAN BE FOUND WAS ASKED TO POST A SECURITY ON A WITHDRAWAL NOTICE AND COULD HAVE AND DID NOT, AND A MAN OF THIRTY-FOUR WHO MENDS FENCING STOPPED HIM WITH THE NINETEEN WORDS HE SAID ON THE NINTH OF OCTOBER, AND A MAN OF FIFTY-SIX SAID THAT A SENTENCE A MAN SAYS OUT LOUD AGAINST HIS OWN ADVANTAGE IN FRONT OF NINETEEN PEOPLE IS THE ONLY KIND OF RULE THIS DISTRICT HAS EVER HAD THAT ANYBODY BELIEVED, AND THAT IT IS NOT WRITTEN DOWN AND HE WOULD NOT HAVE IT WRITTEN DOWN.**
+**AND ON THE SEVENTH OF NOVEMBER THE MAN WHO CAN BE FOUND WAS ASKED TO POST A SECURITY ON A WITHDRAWAL NOTICE AND COULD HAVE AND DID NOT, AND A MAN OF THIRTY-FOUR WHO MENDS FENCING STOPPED HIM WITH THE NINE WORDS HE SAID ON THE NINTH OF OCTOBER, AND A MAN OF FIFTY-SIX SAID THAT A SENTENCE A MAN SAYS OUT LOUD AGAINST HIS OWN ADVANTAGE IN FRONT OF NINETEEN PEOPLE IS THE ONLY KIND OF RULE THIS DISTRICT HAS EVER HAD THAT ANYBODY BELIEVED, AND THAT IT IS NOT WRITTEN DOWN AND HE WOULD NOT HAVE IT WRITTEN DOWN.**
 
 ---
 
@@ -123,7 +123,7 @@ Nobody was asked about it and the man of twenty-six was thirty-four miles east b
 
 The finding of the seventh of November is that a ledger cell can be empty on purpose and the page cannot say so **and that nine copies of a page went out on nine hands and none of the nine carried the reason, and that a man of twenty-six stood in a yard on the seventh of November and heard his own row read out and the third cell of it was blank and had been blank for eleven days, and he said that the finding was fine with him and that he had not known it was fine until somebody else said it in a yard.**
 
-Nobody argued with him about being fine and a clerk of nineteen years entered that she wanted to write *he is fine with it* on the page and did not, and gave the reason in twenty-six words, which is the sentence a man of thirty-four who mends fencing said in a yard in September and has now said three times in eleven weeks, and which is not the sentence in front of her and has never been.
+Nobody argued with him about being fine and a clerk of nineteen years entered that she wanted to write *he is fine with it* on the page and did not, and gave the reason in twenty-two words, which is the sentence a man of thirty-four who mends fencing said in a yard in September and has now said three times in eleven weeks, and which is not the sentence in front of her and has never been.
 
 "**It is what he said and it is not what he meant and I cannot tell the difference and neither can he.**"
 

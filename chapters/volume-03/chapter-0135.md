@@ -124,6 +124,8 @@ A stranger who had been in that yard on the twenty-ninth and had taken a copy co
 
 Nobody answered him for about nineteen seconds and a man of thirty-four who mends fencing said the answer in seven words and the stranger said the man was right and then said a second thing, and the second thing is in the minute and a clerk of nineteen years entered that it is the first time a stranger has agreed with anybody in a room in eleven weeks.
 
+"**It lets you hold it. Nothing else.**"
+
 "**That is the first thing anybody has said in a room in two months that I have not already had a copy of.**"
 
 Nobody said anything about that.

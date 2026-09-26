@@ -40,7 +40,7 @@ On the twenty-third of October a man of fifty-six who is a secretary of a cooper
 
 "**A sheet with twenty-one years on it is not a ledger, and a ledger is a different thing.**"
 
-Then he said what a ledger is and the clerk counted it and got thirty-one, and he asked her to stop counting, and she stopped, and the minute says that he was the first person in ten weeks who had asked a clerk of nineteen years to stop doing the thing she is good at.
+Then he said what a ledger is and the clerk counted it and got twenty-three, and he asked her to stop counting, and she stopped, and the minute says that he was the first person in ten weeks who had asked a clerk of nineteen years to stop doing the thing she is good at.
 
 "**What a loom took, from whom, in what year, in a column anybody can go and look at. Not the money. The year.**"
 

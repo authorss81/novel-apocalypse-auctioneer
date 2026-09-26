@@ -50,7 +50,7 @@ Nobody called it ugly. **A man of fifty-six said that a ledger with a column hea
 
 And the eleventh row was ruled and empty at four o'clock in the afternoon and it was the only one of the eleven that anybody in the room argued about for longer than nine minutes **and what is in it is a word in the last column and nothing else in any of the other five.**
 
-A woman of thirty-eight in the second channel knows the man of about forty-four who has the second cut, and she has told the room he exists, and she would not enter a figure for him, and when a clerk of nineteen years asked her in the six things she gave the reason in nineteen words and the clerk counted them and got nineteen.
+A woman of thirty-eight in the second channel knows the man of about forty-four who has the second cut, and she has told the room he exists, and she would not enter a figure for him, and when a clerk of nineteen years asked her in the six things she gave the reason in forty-six words and the clerk counted them twice and got forty-six both times.
 
 > **I KNOW HOW MANY SEASONS HE HAS DONE AND I AM NOT WRITING IT DOWN BECAUSE HE HAS NOT BEEN ASKED AND A STRANGER READS FIVE COLUMNS AND THINKS A MAN AND HE IS A MAN AND HE IS NOT A MAN WHO HAS BEEN ASKED.**
 
@@ -80,24 +80,23 @@ The man of fifty-six said that was fair and that he wanted it entered that he ha
 
 **AND ON THE TWENTY-SEVENTH OF OCTOBER THE THIRD COLUMN OF A LEDGER OF YEARS WAS NOT TOTALLED, AND A MAN OF FIFTY-SIX ASKED FOR IT TO BE TOTALLED AND A CLERK OF NINETEEN YEARS REFUSED IN FOUR WORDS AND THEN IN NINETEEN, AND THE REASON WAS THAT A COLUMN OF YEARS IS NOT A COLUMN OF MONEY AND A YEAR DOES NOT GO TWICE, AND THE FIGURE OF TWENTY-ONE YEARS IS IN A MARKET'S OWN BOOK AGAINST ONE NAME AND IS NOT THE SUM OF THIS PAGE, AND THE TWO ARE IN TWO BOOKS AND THERE IS NO RATE.**
 
-
 ---
 
-The third column was the one a man of fifty-six tried to total at about half past three in the afternoon, and the clerk of nineteen years would not let him, and the minute says the room went quiet for nine seconds and that four people later said it was the quietest nine seconds of the four hours.
+The second column was the one that took the shortest and it is the column headed WHICH FRAME, and four of the six had it filled inside about four minutes, and then nobody in the room could check a word of it. **A clerk of nineteen years entered that there is no book in this district with the frames in it, and that the four who counted on the second of October wrote the names in their own words, and that their words are the only list there is.**
 
-He wanted the sum of the third column entered under the eleven rows.
+A man of fifty-six asked whether the frames had numbers on them and was told that they had been asked for numbers and had been given names instead, and a clerk of nineteen years entered the reason, which is that a name is a thing a person can answer to and a number is a thing a person has to go and look up, and that on the second of October four people in a room decided that six people who dig loam would rather answer to a name.
 
-She refused in seventeen words and then gave a reason in nineteen **and the reason is the standing reason and it did not move, and a man of thirty-four who mends fencing said that he had heard it in September and had not heard a better one since.**
+A woman of about thirty-three who takes in washing at the second channel said that the cut she works is the yard's second cut and the lower cut at the sluice, and that both of those are true, and that about four people in this district have said the sluice one out loud inside a month, and that a column with one cell in it has to take one of the two, and that taking one of the two is choosing.
 
-"**A column of years is not a column of money and a year does not go twice.**"
+"**A column with one cell in it is not a place to put two names. It is a place where somebody has already picked.**"
 
-A man of fifty-six said that the twenty-one years in the market's own book is a figure and is against his name until the thirty-first of March, and that the third column of this page is a set of years, and that if the two were the same figure then one of them was wrong, and that the clerk entered that the twenty-one was made in a room by four people on the second of October and that this page was made by six people in four hours and that the two are in two books and there is no rate.
+A man of thirty-four who mends fencing took the clerk's pen and wrote both of them into the one cell with a stroke between them, and said that he was not going to be the man who picked, and a clerk of nineteen years entered that she had written the yard name first and had not thought about the sluice name, and that thinking about it took about nine minutes and produced one stroke, and that she entered the stroke because a clerk who leaves a mark off the page has entered a mark and not a name.
 
-The clerk of nineteen years said that she had wanted to write the word *floor* under the twenty-one for about nine minutes on the second of October and had not, and that the man of fifty-six had said then that it was a floor and not the total, and that a clerk who has been told a thing by a person in a room may put that person's sentence in her own book, and that putting a word of her own under a figure in his is a different thing and is not the same.
+A man of about thirty-four who digs loam said that his cut is the long frame and that there is no other name for it on this flat, and that this is the only row on the page with one word in the second column and that the one word is right, and that a man who has one name for a cut is a man who knows where he is, and that this is not the same as knowing which year it was, and that the page has a column for that and it is not this one.
 
-The man of fifty-six said that was fair and that he wanted it entered that he had been refused and had not argued, and the clerk entered that, and entered that a man who is refused in a room and does not argue is not a man who agrees, and that the two are not joined.
+The woman of thirty-eight in the second channel said that she is in the second column twice, because her cut is the second cut and the frame above it, and that a person who has stood in two frames in one season is not two people and is not a woman counted twice, and a clerk of nineteen years entered that the page has eleven rows and no column for a person who stood in two places, and that the stroke is the whole of the answer.
 
-**AND ON THE TWENTY-SEVENTH OF OCTOBER THE THIRD COLUMN OF A LEDGER OF YEARS WAS NOT TOTALLED, AND A MAN OF FIFTY-SIX ASKED FOR IT TO BE TOTALLED AND A CLERK OF NINETEEN YEARS REFUSED IN FOUR WORDS AND THEN IN NINETEEN, AND THE REASON WAS THAT A COLUMN OF YEARS IS NOT A COLUMN OF MONEY AND A YEAR DOES NOT GO TWICE, AND THE FIGURE OF TWENTY-ONE YEARS IS IN A MARKET'S OWN BOOK AGAINST ONE NAME AND IS NOT THE SUM OF THIS PAGE, AND THE TWO ARE IN TWO BOOKS AND THERE IS NO RATE.**
+**AND ON THE TWENTY-SEVENTH OF OCTOBER THE SECOND COLUMN OF THE PAGE WAS FILLED IN ABOUT FOUR MINUTES AND NOT ONE WORD OF IT COULD BE CHECKED, BECAUSE THE FOUR WHO COUNTED ON THE SECOND OF OCTOBER NAMED THE FRAMES INSTEAD OF NUMBERING THEM, AND ONE CELL IN THAT COLUMN HOLDS TWO NAMES WITH A STROKE BETWEEN THEM, AND A CLERK OF NINETEEN YEARS ENTERED THE STROKE BECAUSE A CLERK WHO LEAVES A MARK OFF THE PAGE HAS ENTERED A MARK AND NOT A NAME.**
 
 
 ---
