@@ -11,7 +11,7 @@ Volume 01 is complete at Chapter 50. **Volume 02 Batch 0001 (Chapters 51–60), 
 - `outline/volume-02.md` — the whole file, and especially **the Chapters 81–90 block, which this batch is, and the Chapters 91–100 block, which is the batch after this one and must not be spent here.**
 - `outline/batches/volume-02-batch-0001.md`, `volume-02-batch-0002.md` and **`volume-02-batch-0003.md` — the three canon contracts. Every number in them is load-bearing. Read all three.**
 - `state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`
-- `state/volume-02-batch-0003-summary.md` — including **Plan deviations**, **Review-pass flags** and **What the next batch inherits**
+- `state/volume-02-batch-0003-summary.md` — including **Plan deviations**, **Review-pass flags**, **Review repairs applied** and **What the next batch inherits**
 - The last entries of `state/chapter-summaries.md`
 - **Chapters 61–80 in full.** Chapters 71–80 immediately, for voice and for everything that happened ten days ago; 61–70 for what the boundary and the draft and the walk were.
 
@@ -84,6 +84,46 @@ Plain language. **At most one System panel in the whole batch**, and it should b
 
 **The measured register of Batch 0003, which is the baseline and which the next audit will compare against:** *in the yard* 15, *in a yard* 15, *at the rail* 10, *on the rail* 0. **The hedge-plus-integer was cut: *about nine* and *about eleven* together are 47, against 92 for the same two phrases in Batch 0002, and the honest total across ten chapters is 130 instances of *about* plus a figure.** The widest hedge in Batch 0003 is *about four* at 47, so the hedge has spread rather than thinned and it must spread further, not deepen. **The largest tic in Batch 0003 is *I would like* at 40, up from 3, which is a documented district register used by characters when they are asking for something to be entered, and the instruction to the next batch is to keep it in mouths and off the page.** *steady*, *breathed* and *nodded* 0. **Count these at the end of the batch and put the real counts in the summary, not an estimate.**
 
+## Markdown integrity — this is a hard check, not a preference
+
+**Batch 0003 shipped with 34 broken emphasis paragraphs and every one of them was reader-visible: the `**` renders as two literal asterisks and the sentence it was marking renders unbolded. Twelve were speeches that left the emphasis open, including four of the five paragraphs of the speech Petrus Nye reads out at the rail in Chapter 72, and twenty were narration paragraphs carrying a stray `**` with no opener, plus one blockquote. All thirty-three inside Batch 0003 have been repaired and Chapter 70's one was closed in the same pass. This is the one thing that must not happen again, because it multiplies silently across ten chapters and no earlier audit looked for it.**
+
+**The rule: emphasis cannot cross a blank line.** Every paragraph, and every blockquote paragraph, **that you write in Chapters 81 to 90** must contain an **even** number of `**`, opening before it closes.
+
+- **A speech that runs over more than one paragraph must open and close the emphasis in every chunk.** This is the volume's established form and it is already correct in most of Chapters 71 to 80: each chunk is `"**text.**`, so each renders bold, and the speech reads as one bolded passage. Do not write one chunk that opens `"**` and leaves it open for the next paragraph.
+- **The closing quotation mark belongs to the last chunk of a speech, not to every chunk.** Across the volume 107 mid-speech chunks close with `**` and no quotation mark and 64 with `**"`; the four-chunk speech opening Chapter 79 shows the pattern at 13, 15, 17 and 19. **A mid-speech chunk written as `"**text.**"` reads as two separate quotations and is wrong.** Follow whatever your neighbouring chunks do, and do not add a quotation mark the speaker's neighbours do not have.
+- **Emphasis cannot nest, so a second pair of markers inside a bold chunk is the same bug seen from the other side.** The last chunk of Nye's speech in Chapter 72 carried one around *It is that nobody was ever asked to be anywhere on it*, and that one sentence was the only thing in the speech that rendered **plain**. **A paragraph of dialogue with four or more markers in it is either an attribution — `"**a,**" he said, "**b.**"` — or a mistake.**
+- **Narration carries its finding in bold with a plain lead-in.** The opener belongs at the start of the finding, inside the paragraph, not at the start of the paragraph: `And the finding under that is that **the reading-back is not a courtesy.**` A stray trailing `**` on a paragraph that has no opener is the same bug seen from the other side.
+- **Check before the batch is saved, not after.** This is the whole check, and it needs no judgement:
+
+```bash
+python3 - <<'PY'
+import glob,re
+for f in sorted(glob.glob('chapters/volume-02/chapter-00[89][0-9].md')):
+    for blk in re.split(r'\n\s*\n', '\n'.join(open(f).read().split('\n')[1:])):
+        s=blk.strip()
+        if s and s!='---' and len(re.findall(r'\*\*',s))%2:
+            print("ODD:",f,"::",s[:100])
+PY
+```
+
+**Seven defects from earlier batches are carried, unfixed, and are outside the current phase:** `chapter-0058.md:23`, `chapter-0064.md:85`, `chapter-0066.md:100`, `chapter-0066.md:102`, `chapter-0067.md:137`, `chapter-0067.md:145`, `chapter-0068.md:85`, and `chapter-0070.md:15` and `chapter-0070.md:23` carry two of the nested kind described above. `chapter-0070.md:109` had a plain stray and it was closed in the Batch 0003 review repair, changing no word. **Chapters 51 to 69 are canon and are not to be rewritten for this. Do not add an eighth, and do not treat these as licence.**
+
+**Run the check scoped to your own chapters** so the seven carried hits do not read as new failures, and note that the count of odd paragraphs in the whole of Volume 02 is exactly seven and must still be exactly seven when the batch is saved:
+
+## Emphasis density and paragraph shape — the two craft calls
+
+Neither of these is a defect and neither is a licence to re-prose the batch. Both are measured, and the measurement is what the next audit will compare against.
+
+- **Emphasis.** Chapter 70 renders at 69 per cent of its words inside `**` and the ten chapters of Batch 0003 render at 50, 33, 57, 66, 52, 63, 53, 40, 46 and 48 — **three of them above 60, and those are the ones to watch.** **Half a chapter in bold stops marking anything.** **These are the first honest figures in the volume: the earlier ones were taken through files whose markers did not balance, and a stray `**` desynchronises every pair after it, so the earlier numbers under-counted and mean nothing.** Measure with the same method and do not compare across the repair. The convention that keeps it meaningful: **bold is the words of a document, a wall, a printed sheet, a finding as it is entered, or a sentence somebody has gone out of their way to say.** Plain narration is plain. **Do not bold a whole narration paragraph** — bold the finding inside it, and leave the lead-in plain, as `chapter-0071.md:143` and `chapter-0078.md:51` now do. Target under half a chapter's words inside `**`, and report the real number per chapter in the summary.
+- **Paragraph shape.** 443 of 682 non-quote paragraphs in Batch 0003 are a single sentence, which is above the house guideline of two to six, and the batch oscillates between one-sentence lines and long walls. **The one-sentence documentary register is this book's voice and it is not to be sanded off** — Chapter 79 and the reading-back scenes depend on it, and 46 of those paragraphs run past ninety-five words. **What to fix is only the tail of the distribution: break any single-sentence paragraph longer than about 130 words at its last clean conjunction, the way `chapter-0080.md:129` was broken at *a line is an order and not a length*, and leave a paragraph break rather than a rewrite.** Aiming to bring one-sentence paragraphs nearer to half the paragraphs than to two-thirds is enough. **Do not pad, do not merge, and do not re-stage a scene to hit a number.**
+
+## Relative dates — resolve them, and do not resolve these three
+
+**A relative date inside a direct quotation is a defect**, because the book the speaker is quoting from has a date on it. Two were found and repaired in Batch 0003: Chapter 78 had Adrian say he went out of the city *on the seventeenth of the month before last*, which from the twenty-seventh of April is **the seventeenth of February of this year** — seventeen years after the Long Fracture, before the flood year — and is now written that way, and Chapter 71 had a three-way stack — *on the night before last* beside *on the eighteenth of last month* — where the answer is now **the eighteenth of last month**, which is also the evening Teo means when he says she is sorry about the eighteen. **In this batch, no character quotes a relative date. If a document is being read out, it carries a day and a month.**
+
+**Three expressions in Chapter 71 are deliberately left unresolved and must not be pinned by anybody:** the sixth of the month before last, twice, and the twenty-second of the month before last, once. Chapter 71 is dated the sixth of April, so the arithmetic gives **February**, and **Volume 02 opens on the first of March and contains no February scene at all**. Nothing in the canon is anchored to either date, so no later batch may attach an event to them, contradict them, or use them to date anything. **Quote no month rather than guess one.**
+
 ## Numbers that were wrong in earlier batches and are now fixed — do not reintroduce them
 
 - **The train stood thirty-nine days on the twenty-second of March, fifty-five on the seventh of April, and eighty-one on the third of May.** Forty-six is the twenty-ninth of March. Forty-seven is the thirtieth. Fifty-one is the third of April. **Never carry a figure forward.**
@@ -115,7 +155,7 @@ Plain language. **At most one System panel in the whole batch**, and it should b
 
 ## After the chapters
 
-1. Write `state/volume-02-batch-0004-summary.md`, including a **Plan deviations** section and a **What the next batch inherits** section. **Count the tics and the headers and put the real numbers in the review-pass flags. Batch 0003's review learned that a repair claim in a state file is a claim about prose and it has to be checkable; where it cannot be, it is worse than no claim.**
+1. Write `state/volume-02-batch-0004-summary.md`, including a **Plan deviations** section and a **What the next batch inherits** section. **Count the tics and the headers and put the real numbers in the review-pass flags. Batch 0003's review learned that a repair claim in a state file is a claim about prose and it has to be checkable; where it cannot be, it is worse than no claim.** **Add a markdown-integrity line to the review-pass flags: the number of paragraphs with an odd count of `**` in the batch, which must be zero, and the per-chapter percentage of words inside `**`.**
 2. Append to `state/chapter-summaries.md` (Chapters 81–90), and update `state/current.md`, `state/continuity.md`, `state/open-threads.md`, and `state/character-state.md`.
 3. Update `NOVEL_SPEC.md`'s Status block to name the next phase accurately.
 4. Write `outline/batches/volume-02-batch-0004.md`, the canon card, after the batch and not before it.

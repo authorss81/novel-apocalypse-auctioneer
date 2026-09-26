@@ -144,15 +144,15 @@ Then:
 
 "**And I am going to say one other thing, and I am not going to stand here and tell you to put that certificate in the fire, and I would like the minute to say that I was asked what I thought of it and that I answered.**
 
-"**A man has spent twelve years and two hundred and forty lots learning how to look at an iron and this morning he found nothing, and what he found nothing at is the only good news anybody has had about this railway in four weeks. That is a true sentence and it is in his own hand and it is worth more than anything on the eleven boards.
+"**A man has spent twelve years and two hundred and forty lots learning how to look at an iron and this morning he found nothing, and what he found nothing at is the only good news anybody has had about this railway in four weeks. That is a true sentence and it is in his own hand and it is worth more than anything on the eleven boards.**
 
-"**And a certificate is not a safety instrument. Neither is a timetable. Neither is the standing order that this district voted against by seven to three on the twenty-fifth of last month, and I have said for nine years that the standing order is a better paper than either of them, and I am not going to vary that this morning. I have said *that is not enough* every published day for eight years and I am not going to stop on the fourteenth of this month because a Guild clerk in a good coat told a yard the truth.
+"**And a certificate is not a safety instrument. Neither is a timetable. Neither is the standing order that this district voted against by seven to three on the twenty-fifth of last month, and I have said for nine years that the standing order is a better paper than either of them, and I am not going to vary that this morning. I have said *that is not enough* every published day for eight years and I am not going to stop on the fourteenth of this month because a Guild clerk in a good coat told a yard the truth.**
 
 "**And one more, and it is the half of it that matters: he is the first man in nine years to put a document on the wall of that yard that says where the toll lands, and he did it by accident, and he has told me he is not going to explain how he knew to do it until the seventeenth, and I have not asked him and I am not going to ask him.**"
 
 And on the seventeenth of April, at the counter, in front of about thirty people, Garnet Sill did explain, and it took him about four minutes, and it is in the book because Rutt wrote it down and Nessa Pell compared the hand.
 
-"**A man from the Guild goes into a village to certify an iron and he asks the woman holding it whether anybody has ever been sold anything here, and she says no, and he writes down no, and then he asks her who has, and she says you, on Tuesday, you were here Tuesday, and you asked me a question about water, and it is the first question anybody has asked me about water, and she says it as a complaint and he hears it as a complaint.
+"**A man from the Guild goes into a village to certify an iron and he asks the woman holding it whether anybody has ever been sold anything here, and she says no, and he writes down no, and then he asks her who has, and she says you, on Tuesday, you were here Tuesday, and you asked me a question about water, and it is the first question anybody has asked me about water, and she says it as a complaint and he hears it as a complaint.**
 
 "**And that is it. That is the whole of my twelve years. You go into a place to look at a thing and the place asks you a question and the place is the only party in the room with nothing to sell.**
 

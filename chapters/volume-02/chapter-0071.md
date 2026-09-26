@@ -70,7 +70,7 @@ And then a woman of about fifty-two who had come in off the tram line, who had b
 
 "**I'll take it. I've got a stall and I've four days and nobody to leave it with, and I want that written down, because that is the reason and not that I am brave. I don't read figures and I'll have the reader read them to me at the counter, same as him.**"
 
-The entry says that the asking was done by the tenth hand of the signal crew and written down by Nessa Pell, and that it took nine minutes from the asking to the answer, and that the board did not name anybody and was not asked to and could not have been, and that a rotation is only real when it turns, and that this is the first turn of that key in this district that anybody could call a turn and not a weather.**
+The entry says that **the asking was done by the tenth hand of the signal crew and written down by Nessa Pell, and that it took nine minutes from the asking to the answer, and that the board did not name anybody and was not asked to and could not have been, and that a rotation is only real when it turns, and that this is the first turn of that key in this district that anybody could call a turn and not a weather.**
 
 ---
 
@@ -84,7 +84,7 @@ The man of thirty-eight was the eleventh on it. He stood at the back with his ha
 
 "**Then it was worth saying,**" he said, and went to work.
 
-And the finding under that, entered by Nessa Pell in the minute of the seventh, is that the reading-back is not a courtesy and is not for the person who said no, and is for the person who did not hear them, and that a refusal made in a crowd is not heard by a crowd, it is heard by the eleven people nearest it, and that this district has had three refusals in six weeks in a book and has never once read them out.**
+And the finding under that, entered by Nessa Pell in the minute of the seventh, is that **the reading-back is not a courtesy and is not for the person who said no, and is for the person who did not hear them, and that a refusal made in a crowd is not heard by a crowd, it is heard by the eleven people nearest it, and that this district has had three refusals in six weeks in a book and has never once read them out.**
 
 ---
 
@@ -122,7 +122,7 @@ The yard went quiet in the way a yard of sixty people goes quiet, and the boy of
 
 "And when did she last have it in her hand?" said the tenth hand.
 
-"**On the night before last. She says she had it out on the bench because the wedge end was catching on something and she was going to look at the wire loop, and she put it back, and she knows the words she used, which were *that'll do till the end of the month.* She said them in the hut, on the eighteenth of last month, and there is nobody in this district who can check that except her, and it is going in the book as her own account of her own hand and not as a fact about a hut.**
+"**On the eighteenth of last month. She says she had it out on the bench because the wedge end was catching on something and she was going to look at the wire loop, and she put it back, and she knows the words she used, which were *that'll do till the end of the month*, and she said them in the hut that night, and there is nobody in this district who can check that except her, and it is going in the book as her own account of her own hand and not as a fact about a hut.**"
 
 "**And she didn't send for anybody for eleven hours. She looked for it until about five o'clock and then she said out loud that if it was gone then it was gone, and she'd tell them herself, and she gave me this and a piece of paper with the frame on it that she copied out, and she said don't run.**"
 
@@ -142,6 +142,6 @@ Nessa Pell wrote all of it down, including the bit about the eleven hours and th
 
 And the boy of fifteen did not get a cup of anything and did not ask, and the tenth hand wrote his name against the entry as the person who brought it, in his own hand, with the finding that **he was not asked and he came, and not asked is in the count.**
 
-The finding that is under all of it, written by the tenth hand at about nine o'clock at night on a bench in the yard with a lamp beside him, is that a custody with no case in it has one hole in it and the hole is the size of the distance between a thing and the person who is holding it, and this district built that custody on purpose to be worse than a case, and it worked, and nobody has a name for the fault because there was no case to lose the key from.**
+The finding that is under all of it, written by the tenth hand at about nine o'clock at night on a bench in the yard with a lamp beside him, is that **a custody with no case in it has one hole in it and the hole is the size of the distance between a thing and the person who is holding it, and this district built that custody on purpose to be worse than a case, and it worked, and nobody has a name for the fault because there was no case to lose the key from.**
 
 **And the last line of the entry is that the next thing anybody has to do is to walk to the fourth place, and that the fourth place is four hours on foot from the ninth place with four changesovers in it, and that the walk there and back is nine hours in this weather.**

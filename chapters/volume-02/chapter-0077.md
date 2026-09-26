@@ -20,7 +20,7 @@ The first link is on the seventh of this month, in a book in the water office, i
 
 ---
 
-What the office actually gave him is in a printed notice with four lines in it, and the yard has it, and the four lines are the whole of the bargain, and there is not one word in them that anybody in this district likes except the man they were written for.**
+What the office actually gave him is in a printed notice with four lines in it, and the yard has it, and the four lines are the whole of the bargain, and **there is not one word in them that anybody in this district likes except the man they were written for.**
 
 The post is one month, from the twenty-fifth of April. **The post is renewed by the office and nobody is asked.** The bench, the lamp, the chalk and the oil are eleven coppers a quarter out of the Harrow works rate. The man is not paid out of that rate, and the notice says in its own third line that an administration does not put a man's wage in a rate, and the finding printed under the notice is that the third line is the whole of the district's five-week argument in one sentence and it is true and it is why the district lost the vote by seven to three on the twenty-fifth of last month, and that the man who wrote it wrote it because he agrees with it.
 
@@ -46,7 +46,7 @@ Nobody argued with her and the tenth hand entered it and the entry says that it 
 
 "**I have been told what this district thinks of my office since I came up here on the twenty-fourth to look at the floor,**" said Corvin Sallow, from the bench, with the folding rule still in his hand. "**I have been told it by about forty people and none of them was rude, which is worse. So I am going to say the four things I can say, and then I am going to go and wash, because there is one stove between three of us.**
 
-"**One. This hut has a frame in it and the bracket is empty and the iron is four hours away on a bench in another hut, and this office considers that place unsafe, and this office considers this place unsafe, and there is no reading of that sentence in which the office is wrong.
+"**One. This hut has a frame in it and the bracket is empty and the iron is four hours away on a bench in another hut, and this office considers that place unsafe, and this office considers this place unsafe, and there is no reading of that sentence in which the office is wrong.**"
 
 "**Two. I am not here because the office has decided that a village needs a keeper. The office has decided that a section of a railway with no keeper on it is a section of a railway that cannot be reported, and that is a fact about iron and not about people, and I would like it entered that I heard that sentence for the first time in a bed room in Alder Reach and not from a man in this district.**"
 
@@ -122,11 +122,11 @@ The first is that on the morning of the twenty-sixth Corvin Sallow walked the se
 
 He had measured it with a tape. It is **ninety-four yards**, and it is the twelfth, and it is the same place the keeper's twelve and the tenth hand's eleven have been arguing about since the twenty-ninth of last month, and nobody struck a number. **The keeper's figure is about ninety and the tenth hand's is about ninety and Sallow's is ninety-four, and the three are in the book side by side, and Orren Pike entered the fourth as a fourth and not as a correction, and the index now has twelve stalls in it and the line book has eleven, and the reason for the difference is that the line book is a book of signals.**
 
-The standing instruction of the thirtieth of last month — that somebody walks every yard of this line and not the fourth place to the ninth — has been carried out for ninety-four yards by a bridge officer on his second morning, because he was told to walk the section twice a day, and nobody asked him to, and he is not going to be asked to, and the finding is that a thing gets done in this district when it is somebody else's ordinary work, and that this is the second time in eleven weeks and both times it has been an accident.**
+The standing instruction of the thirtieth of last month — that somebody walks every yard of this line and not the fourth place to the ninth — has been carried out for ninety-four yards by a bridge officer on his second morning, because he was told to walk the section twice a day, and nobody asked him to, and he is not going to be asked to, and **the finding is that a thing gets done in this district when it is somebody else's ordinary work, and that this is the second time in eleven weeks and both times it has been an accident.**
 
 ---
 
-On the evening of the twenty-sixth, in the last hour of light, two women taught a man of thirty-nine the two things this district has that he did not have, and both of them made it a condition, and neither of the conditions was a condition of a term, and the finding is that the district has now collected a shelfful of sentences that begin *and I would like it entered that*, and that nearly all of them are a refusal of a courtesy, and that one of them is an instruction.**
+On the evening of the twenty-sixth, in the last hour of light, two women taught a man of thirty-nine the two things this district has that he did not have, and both of them made it a condition, and neither of the conditions was a condition of a term, and **the finding is that the district has now collected a shelfful of sentences that begin *and I would like it entered that*, and that nearly all of them are a refusal of a courtesy, and that one of them is an instruction.**
 
 Sef Anyard did hers at the frame, with the empty bracket, with two fingers on the pale rectangle and off again, and it took about four minutes and she did not use a single word from an instrument.
 

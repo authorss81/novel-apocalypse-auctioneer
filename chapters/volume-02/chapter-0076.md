@@ -114,7 +114,7 @@ And Tarin Kest looked at a boy of seventeen for long enough that the room got un
 
 ---
 
-And then a book came out of the water office in a satchel on the afternoon of the twenty-second and it did the thing nobody expected, and the thing it did was to prove that the engine had a payer after all, and to make the district's refusal of a rate on a line look the way it actually looks.**
+And then a book came out of the water office in a satchel on the afternoon of the twenty-second and **it did the thing nobody expected, and the thing it did was to prove that the engine had a payer after all, and to make the district's refusal of a rate on a line look the way it actually looks.**
 
 Petrus Nye had sent it up himself and he came up the bank with it in a satchel against his chest, in the rain, on the second day, and he had walked five and a quarter hours to hand a book to three people in a kitchen and then walked five and a quarter hours back and was in the counting office in Alder Reach at about ten at night.
 
@@ -160,7 +160,7 @@ It is half a sheet. It has a heading in the office's own type and no seal and no
 >
 > **THE ADMINISTRATION CONSIDERS THAT PLACE UNSAFE. IT HAS SAID SO IN A YARD ELEVEN TIMES IN EIGHT YEARS AND IT IS GOING TO PUT A MAN IN IT.**
 
-The finding of the twenty-second is that the yard read those four lines in about four minutes and came out with three positions and no fourth, and the three are in the book in the words of the people who held them, and the registrar entered that all three are correct and that the document is the safest thing anybody in this district has published in a month, and that the district's objection to it is not to the safety.**
+The finding of the twenty-second is that the yard read those four lines in about four minutes and came out with three positions and no fourth, and the three are in the book in the words of the people who held them, and **the registrar entered that all three are correct and that the document is the safest thing anybody in this district has published in a month, and that the district's objection to it is not to the safety.**
 
 "It is the third paragraph," said Ivo Stenn. "**One month, renewed by this office, and nobody is asked. We have spent a month writing down that a rotation is only real when it turns, and a term that renews itself is not a rotation, it is a bar with a man behind it, and the man is the best signalman in this city and the bar is the office that shut a bridge and got seven to three.**"
 

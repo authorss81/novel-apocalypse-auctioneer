@@ -14,7 +14,7 @@ The party had been on the viaduct for five hours and it was four of the Road Hou
 
 First: the ballast had gone about thirty yards west of the engine house. The cess had become a channel and there was a foot of brown water in it and the drain under the four-foot had stopped. Second: the sump had taken gravel off the shoulder above it and the pump was throwing water over the lip of the brick house instead of down the outfall, and the outfall was the thing the water had to be able to reach, and the outfall was eleven feet above a nine-foot flood. Third: the engine had been running at a fault since the second of April and had been getting hotter, and the only man who knew it was hot was the man who put his hand on the pipe every evening at six.
 
-And the fourth thing is the one the whole afternoon turns on, and nobody found it, because it is not a fault: Gilman Trew has been keeping that engine for nine years and he has been paid for it out of the float of a firm that gave the lease up on the thirtieth of last month.**
+And the fourth thing is the one the whole afternoon turns on, and nobody found it, because it is not a fault: **Gilman Trew has been keeping that engine for nine years and he has been paid for it out of the float of a firm that gave the lease up on the thirtieth of last month.**
 
 There is a fifth thing, and it is the reason there was no first, second or third in any week before this one, and it is the oldest thing at the Harrow end and it is a hole in the ground.
 

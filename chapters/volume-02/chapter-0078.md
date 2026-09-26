@@ -16,7 +16,7 @@ The five things are on a wall in the counting room of the ward market. They are 
 
 "**Nobody has read it since the eleventh of March,**" said the tenth hand. "**And I am going to say the rest of it and then I am going to stop, because it is not mine to ask and it is being asked. Mr Vale: it is an hour. You will read it on a bench. The boy is in the room and he is nineteen and he is not on a roll and nobody is going to ask him anything. How you say no is by not going, and no reason is owed, and I am not going to argue with you if you say no and neither is anybody else on this wall.**"
 
-And then the sixth thing, which has no name, and it was done by the reader at the counter, who is on her fourth day of four and who came up on the tram line at a quarter to six as she does every day she is on it, and about nine people did not know she was in the yard.**
+And then the sixth thing, which has no name, and it was done by the reader at the counter, who is on her fourth day of four and who came up on the tram line at a quarter to six as she does every day she is on it, and **about nine people did not know she was in the yard.**
 
 "The question that has been asked," said Rutt, "is this, in my words, and I am not the one asking it and I am not the one being asked, and my job is to say what it is so that the entry in about a fortnight is the question and not somebody's memory of one. **Is the reader willing to read a lot he has read once, on a bench, in a hut, for an hour, and to pay whatever it costs, and to be held to the toll of it in a public book, on a day anybody can name?** That is the question. Does anybody want it said differently, now, while it can be."
 
@@ -32,7 +32,7 @@ And the finding under that is in Nessa Pell's hand and it is that **a reader who
 
 ---
 
-And before any of them went up the bank he asked the keeper, in person, on the shoulder at the fourth place, on the morning of the twenty-seventh, whether she wished to speak before he started and not after, because that is what she asked for on the eleventh of last month and it is in the book with an hour on it, and he asked it at about nine o'clock and she said yes, and she had one thing ready, and she said it in about eleven seconds and it is the reason for everything that happened in that hut.**
+And before any of them went up the bank he asked the keeper, in person, on the shoulder at the fourth place, on the morning of the twenty-seventh, whether she wished to speak before he started and not after, because that is what she asked for on the eleventh of last month and it is in the book with an hour on it, and he asked it at about nine o'clock and she said yes, and she had one thing ready, and **she said it in about eleven seconds and it is the reason for everything that happened in that hut.**
 
 "**The iron is not in my hut,**" said Sef Anyard. "**It has not been in my hut since the sixth of this month and I have known that since the sixth, and there is nothing in the room you are going to sit in except a frame with a hole in it and a bench and a stove. So you are going to sit in a hut four hours from the place the lot is in and read it, and that is a thing this district has never done, and I would like it entered that I said so and was not argued with.**
 
@@ -48,7 +48,7 @@ And before any of them went up the bank he asked the keeper, in person, on the s
 
 And then they went up the bank, all four of them, at about half past four in the morning, and it is five and a quarter hours with four changeovers in it and they did all four, and they were in that hut by about ten.
 
-And then the thing said one sentence at about ten past one in the afternoon, before the hour started, in the same words it said the other time, and it is the third thing anybody in this district has ever read off a lot in a room with a person in it, and it is the first time the thing has said anything before the hour instead of after it, and Rutt wrote it down as it came and Nessa Pell compared the two pages on the twenty-eighth and the two are the same in every word, and that is entered as a finding and not as a comfort.**
+And then the thing said one sentence at about ten past one in the afternoon, before the hour started, in the same words it said the other time, and it is the third thing anybody in this district has ever read off a lot in a room with a person in it, and it is the first time the thing has said anything before the hour instead of after it, and Rutt wrote it down as it came and Nessa Pell compared the two pages on the twenty-eighth and **the two are the same in every word, and that is entered as a finding and not as a comfort.**
 
 > **A LOT MAY BE READ TWICE. A READING IS AN HOUR AND A COST, AND THE COST IS A PART OF THE TOLL THE LOT CHARGES, AND IT IS THE SAME TOLL EVERY TIME.**
 >
@@ -104,7 +104,7 @@ He could not remember which gate he had gone out of.
 
 That is the whole of it and it took four minutes to find out and it took the rest of the morning to be entered, and the entry is in his own hand at the top of the page and the registrar did not touch it.
 
-"**I went out of this city on the seventeenth of the month before last at six in the morning to look at a pumping engine and I have got the entry in my own book in front of me and it says the west gate, and there is no west gate. I know there are two ways out of Alder Reach and I have walked both of them hundreds of times, and one of them is not there, and I did not lose a direction this time like I did in March. I lost the way I went out of the door of my own city.**
+"**I went out of this city on the seventeenth of February at six in the morning to look at a pumping engine and I have got the entry in my own book in front of me and it says the west gate, and there is no west gate. I know there are two ways out of Alder Reach and I have walked both of them hundreds of times, and one of them is not there, and I did not lose a direction this time like I did in March. I lost the way I went out of the door of my own city.**
 
 "**I have been in this district for seven weeks, and I have not been home, and there is nothing at the other end of it except my own front step, and I would like it entered that the loss is exact and that it is about a departure and that a departure is what this thing charges, and that in March it took a direction off me and today it took a way out, and both of those are the same sentence and the sentence is the toll.**"
 
@@ -114,7 +114,7 @@ And the finding printed under it, in the tenth hand's hand, and it is the findin
 
 ---
 
-And the last thing about the reading is not about him, and it is the part the district cannot use, and it is on the same page in a clerk's hand.**
+And the last thing about the reading is not about him, and **it is the part the district cannot use, and it is on the same page in a clerk's hand.**
 
 The interval has gone up three times. After the reading of the eleventh of March the limit entered was not before the eighteenth. After the twenty-fifth of March, on a day the limit permitted, the next permitted hour was not before the fifth of this month. **After the twenty-seventh of this month the limit entered is not before the eleventh of next month. Seven days, then eleven, then fourteen.**
 
@@ -142,7 +142,7 @@ Beneath it are four questions, in a school hand, and they are Teo's, and he wrot
 
 And under the four, in Nessa Pell's hand, and she wrote it and then read it out in a yard and then asked whether she was allowed to keep it on the wall, and the answer was that the wall does not require permission and never has, and that this is the fifth time she has been told that and the fifth time she has asked.
 
-> **ENTERED THE TWENTY-EIGHTH OF THIS MONTH BY NESSA PELL, CLERK OF NINETEEN YEARS, WHO REFUSED TO ENTER IT FOR A MONTH. THE BOY IS TEO, FIFTEEN, AT THE FIGURE ONE MILE AND THREE QUARTERS, AND HE ASKED ON HIS OWN BEHALF AND ON BEHALF OF THIRTY-ONE PEOPLE, AND THE FIRST THREE ARE ONE QUESTION IN FOUR PARTS AND THE FOURTH IS A DIFFERENT QUESTION AND IS ALSO HIS.
+> **ENTERED THE TWENTY-EIGHTH OF THIS MONTH BY NESSA PELL, CLERK OF NINETEEN YEARS, WHO REFUSED TO ENTER IT FOR A MONTH. THE BOY IS TEO, FIFTEEN, AT THE FIGURE ONE MILE AND THREE QUARTERS, AND HE ASKED ON HIS OWN BEHALF AND ON BEHALF OF THIRTY-ONE PEOPLE, AND THE FIRST THREE ARE ONE QUESTION IN FOUR PARTS AND THE FOURTH IS A DIFFERENT QUESTION AND IS ALSO HIS.**
 >
 > **I HAVE NEVER PUT A QUESTION IN THIS BOOK BECAUSE A QUESTION IS A THING SOMEBODY IS OWED, AND IF I PUT ONE IN THEN I AM THE CLERK WHO PUT IT IN, AND A CLERK CANNOT BE OWED ANYTHING, AND I WOULD RATHER IT WAS ON A WALL WHERE IT IS NOBODY'S.**
 

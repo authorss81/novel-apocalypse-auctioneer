@@ -96,9 +96,9 @@ And Nevin Roke, from the doorway of the hut, in a voice nobody had been listenin
 
 ---
 
-**And the woman at the column, who is the water, said the thing that made the problem, and she said it to four people in a doorway on the eighth of this month and it is in the book in her words, and it is the first thing she has said since the twenty-ninth of last month, and she had not been asked.**
+**And the woman at the column, who is the water, said the thing that made the problem, and she said it to four people in a doorway on the eighth of this month and it is in the book in her words, and it is the first thing she has said since the twenty-ninth of last month, and she had not been asked.**"
 
-"**You are all standing in my hut talking about a lever,**" she said. "**So I will tell you what your word has been doing since it was laid.
+"**You are all standing in my hut talking about a lever,**" she said. "**So I will tell you what your word has been doing since it was laid.**
 
 "**It has been said five times in the ten days. It stopped the haulier twice, because he comes up this bank twice a week and he was on the line with a barrow both times, and he put the barrow down on the ballast and stood on the bank for about a minute and a half and then went up, and he was not angry, and he has come up the bank since. It stopped a man with a barrow and a dog on the second day, and the dog did not understand it at all. And it stopped a boy with a handcart on the third day, and that one is a boy of about eleven and he cried, and his mother took him home.**"
 
@@ -146,14 +146,14 @@ He did not say anything about it to anybody in this district and it was in the w
 
 And at about half past four that afternoon a man of thirty-four from the bridge office stood at the rail at the fourth place with a lamp and a book and read all of it out in the ordinary way to about nine people, and then he said the thing that is in his own book and that the board asked him for and that took about four minutes.
 
-"**I have been in this hut since ten o'clock this morning and I have written down one thing and I have been asked for a second thing and I am going to say the second thing and then I am going to go back to a bridge.
+"**I have been in this hut since ten o'clock this morning and I have written down one thing and I have been asked for a second thing and I am going to say the second thing and then I am going to go back to a bridge.**
 
-"**There is no keeper in this hut and there has not been one since the flood year and the reason there has not been one is that there is nothing coming from this end, and that is written on the flood sheet and it is correct. And I have been in this hut for six and a half hours today and there is a boy asleep in it, and that is not on the flood sheet, and he is nineteen, and he was here before the water came, and the reason he is here is that the hut is dry and nobody has ever told him he is allowed to be.
+"**There is no keeper in this hut and there has not been one since the flood year and the reason there has not been one is that there is nothing coming from this end, and that is written on the flood sheet and it is correct. And I have been in this hut for six and a half hours today and there is a boy asleep in it, and that is not on the flood sheet, and he is nineteen, and he was here before the water came, and the reason he is here is that the hut is dry and nobody has ever told him he is allowed to be.**
 
-"**So I have two things to say and they are both about a hut and neither of them is about a lever.
+"**So I have two things to say and they are both about a hut and neither of them is about a lever.**
 
-"**One: a hut with a door and a stove and a chimney that draws is a place a person can be, and this district has one of them that nobody has counted, and the man who found him is the man who is paid to look at nameplates.
+"**One: a hut with a door and a stove and a chimney that draws is a place a person can be, and this district has one of them that nobody has counted, and the man who found him is the man who is paid to look at nameplates.**
 
-"**Two: the reason this line has gone wrong in the last nine years is not a stall and it is not a Fault and it is not the ground. **It is that nobody was ever asked to be anywhere on it.** And I am a bridge clerk, and I have been paid to be a careful man about one river for six years, and the safest thing I have ever done in this job was write down the day the water came. And I am not going to stand in a hut and pretend that I am the answer to that, because I am not, and I am going to walk back up this bank in this rain tonight and I will be in a counting room in Alder Reach at about ten o'clock, and I would like the book to say that I asked to go back and was not refused.**"
+"**Two: the reason this line has gone wrong in the last nine years is not a stall and it is not a Fault and it is not the ground. It is that nobody was ever asked to be anywhere on it. And I am a bridge clerk, and I have been paid to be a careful man about one river for six years, and the safest thing I have ever done in this job was write down the day the water came. And I am not going to stand in a hut and pretend that I am the answer to that, because I am not, and I am going to walk back up this bank in this rain tonight and I will be in a counting room in Alder Reach at about ten o'clock, and I would like the book to say that I asked to go back and was not refused.**"
 
 Nessa Pell entered all of it, including that he asked, and the finding under it is that the first man this district has sent to look at a railway in nine years asked to go back within six and a half hours, and that this is not entered as a complaint and is entered as a fact about a man and not about a bridge office.

@@ -86,7 +86,7 @@ And Rutt, who is a reader at a counter at eleven coppers a quarter for four days
 
 The man of forty said, "**Then I'll take the two back and I'll go and look at the west end, because a man who cannot tell me three things but will tell me all three that he does not know is a man I can do business with, and I have been on this road since I was nine.**"
 
-And Abner Skell went and looked at the west end, on the sixteenth, at about ten in the morning, and nobody sent him and nobody offered to show him the way, and he asked one person on the terrace where the railway was and the person said east and then said that he would not go, and Skell went.**
+And Abner Skell went and looked at the west end, on the sixteenth, at about ten in the morning, and **nobody sent him and nobody offered to show him the way**, and he asked one person on the terrace where the railway was and the person said east and then said that he would not go, and Skell went.
 
 He got to the fourth place at about two in the afternoon and could not have told anybody which place it was, and he says so, and the reason he says so is the finding of the two days.
 
@@ -100,7 +100,7 @@ He said that last part three times in the yard on the seventeenth and nobody wro
 
 "**And I have been in this city two days and I have learned three things and none of them was about a price, and I have carried lime over four counties for nineteen years and I could not tell you one of them about a road.**"
 
-And what a man of sixty-one learned on a viaduct on the sixteenth of April is in the book because he said it in a yard and Rutt wrote it down and it is nine lines long, and four of the nine lines are about lamps.**
+And what a man of sixty-one learned on a viaduct on the sixteenth of April is in the book because he said it in a yard and Rutt wrote it down and it is nine lines long, and **four of the nine lines are about lamps.**
 
 > **FOUR HUTS. FOUR PLATES WITH FIGURES ON THEM I COULD NOT READ. FOUR BENCHES. FOUR STOVES. THE SAME TWO HOLES IN EVERY ROOF. I HAVE BEEN A MAN WHO NOTICES A THING FOR FORTY YEARS AND I COULD NOT TELL ONE FROM ANOTHER, AND I HAVE BEEN CARRYING LIME OVER FOUR COUNTIES FOR NINETEEN YEARS, AND NOBODY EVER ASKED ME WHETHER I COULD TELL ONE HUT FROM ANOTHER, AND THE ANSWER IS NO.**
 
@@ -116,11 +116,11 @@ He came to see the two lines under the column. He stood in front of the wall wit
 
 "Then it is settled," said Stenn, "**and the sheet is four coppers and the market's is nothing, and the district's position of the twenty-sixth of last month is on a wall, and the market has nothing to add to it.**"
 
-"**You have not understood what I said,**" said Halloway Reed, "**and I am going to say the rest of it and it is about a fortnight and not about a sheet, and then I am going back to the arch.
+"**You have not understood what I said,**" said Halloway Reed, "**and I am going to say the rest of it and it is about a fortnight and not about a sheet, and then I am going back to the arch.**"
 
-"**I am right about four things. One of them is the column, and the column is the one I have just given away. I am right about days. I am right about speed. And I am right about the morning a public road fails, when a book does not open a door and the only purchasable thing is speed. That is four, and I have said so, and it is printed on the arch in the same type as the price and nobody prints that.
+"**I am right about four things. One of them is the column, and the column is the one I have just given away. I am right about days. I am right about speed. And I am right about the morning a public road fails, when a book does not open a door and the only purchasable thing is speed. That is four, and I have said so, and it is printed on the arch in the same type as the price and nobody prints that.**"
 
-"**And I am wrong about one thing, and it is the thing you found on the twenty-sixth, and I have printed it myself at the foot of my own sheet in my own type. It says that a place on my timetable costs four coppers and what it actually costs is a place you cannot name losing the memory of its own departures, and I have printed that and I have not changed my price, and I am not going to.
+"**And I am wrong about one thing, and it is the thing you found on the twenty-sixth, and I have printed it myself at the foot of my own sheet in my own type. It says that a place on my timetable costs four coppers and what it actually costs is a place you cannot name losing the memory of its own departures, and I have printed that and I have not changed my price, and I am not going to.**"
 
 "**And here is the whole of what I came to say, and it is not about a sheet. A column with nothing in it is worth more than a column with four coppers in it until about the fourth day. And after the fourth day a column with four coppers in it is worth more, because on the fifth day a man needs to be somewhere. And I have both of those columns on one sheet and the market has one, and I have not worked out which of us is right, and I have had fourteen days and I have had nothing but the days.**"
 
@@ -134,7 +134,7 @@ And the entry says that the four of them are the first strangers this district h
 
 ---
 
-And the answer came on the seventeenth of April, in a counting room, in about eleven minutes, and it was two lines of type under a column that is still empty, and the two lines have a date and an hour on them, and the date is the seventeenth of this month and the hour is about eleven in the morning, and they are the first hour anybody in this district has ever printed.**
+And the answer came on the seventeenth of April, in a counting room, in about eleven minutes, and it was two lines of type under a column that is still empty, and the two lines have a date and an hour on them, and **the date is the seventeenth of this month and the hour is about eleven in the morning, and they are the first hour anybody in this district has ever printed.**
 
 The market printed a second line under the toll column and it reads, in the same type as everything else:
 

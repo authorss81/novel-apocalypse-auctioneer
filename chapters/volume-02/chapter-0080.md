@@ -32,7 +32,7 @@ And the sentence the registrar wrote under the four, at about half past eleven i
 
 ---
 
-At ten o'clock on the first of this month, at the ward market counter, a reader read the whole of the twenty-ninth of last month out loud in the ordinary voice, and it took eleven minutes, and about seventy people stood there, and it was the first time that counter has read out a set of answers instead of a list of refusals, and the finding is in her hand and it is four lines long.**
+At ten o'clock on the first of this month, at the ward market counter, a reader read the whole of the twenty-ninth of last month out loud in the ordinary voice, and it took eleven minutes, and about seventy people stood there, and it was the first time that counter has read out a set of answers instead of a list of refusals, and **the finding is in her hand and it is four lines long.**
 
 "**It is harder,**" said Rutt, afterwards, when she was asked about it and had not expected to be. "**A refusal is a thing somebody did. I can read nineteen of them out in four minutes and I have done it and they are all the same shape. An answer is a thing somebody gave, and giving does not have a shape, and about half of it was a woman explaining how a place works to four people who have been wrong about it for a month, and I read that out in a clerk's voice in a market and about nine people did not look at the sheet at all, and the ninth was a boy of fifteen who had read it before I did.**"
 
@@ -62,7 +62,7 @@ And the reason the whole of that is in the book on the second is that a chandler
 
 ---
 
-The ninth can of oil in the fortnight went up the bank on the first of this month, and it is entered, and the entry is the last line in the twenty-ninth of April's sheet and it was put there by the trader and not by a clerk.**
+The ninth can of oil in the fortnight went up the bank on the first of this month, and it is entered, and **the entry is the last line in the twenty-ninth of April's sheet and it was put there by the trader and not by a clerk.**
 
 Nine cans, at seven coppers, is sixty-three coppers, and it went on a cart belonging to a firm that gave up a lease on the thirtieth of last month and is standing in a shed off a yard in a city nine miles east, and it went on the trade of a stall on the lower terrace that now carries a column with one line in it, and the trader put her own name against the sixty-three and did not ask for it to be put anywhere else, and the finding under her line is nine words long and it is hers.
 
@@ -104,7 +104,7 @@ And he noticed that she had written it, and he did not ask, and the entry says t
 
 ---
 
-The last two things in this month's book are a number and a morning, and they are on the third of this month, and the first is a train and the second is a word.**
+The last two things in this month's book are a number and a morning, and they are on the third of this month, and **the first is a train and the second is a word.**
 
 The train on the siding arrived on the eleventh of February and on the third of this month it had stood **eighty-one days**, and the figure is in the index in a boy's hand, and beside it there are now three dates on one line, and nobody has put them in a column.
 
@@ -126,4 +126,6 @@ A man of thirty-nine said a nine-word sentence, in a room with a woman of fifty 
 
 "**That is a person,**" she said. "**And I told him I would not tell you, so I am not telling you, and I am telling the reader of this, and the reader of this is anybody who comes up this bank, and that is now the only way anybody finds out, and I have decided to allow it, and it is a thing with no end on it and I have four of them.**"
 
-And on a bench in that hut the casting still has a clean pale rectangle in the grease and the rust where the iron stood for five years, and a mark on the corner of the frame about the size of a thumbnail where it caught, and a crack in the lime putty about four feet long, and a floor eleven inches out of level at the left-hand end, and the frame is empty, and the iron is on another bench four hours up the bank with a boy of nineteen asleep beside it who is not anybody's keeper, and between the two of them there is no signal in the ground and no instrument that can report anything, and a line is an order and not a length, and **the fifth thing is still unnamed, and the column is still empty, and the word is still good, and the term runs to the twenty-ninth of this month, and the woman who was asked about it said yes, and she said it in a room, and somebody has to go up there again.**
+And on a bench in that hut the casting still has a clean pale rectangle in the grease and the rust where the iron stood for five years, and a mark on the corner of the frame about the size of a thumbnail where it caught, and a crack in the lime putty about four feet long, and a floor eleven inches out of level at the left-hand end, and the frame is empty, and the iron is on another bench four hours up the bank with a boy of nineteen asleep beside it who is not anybody's keeper, and between the two of them there is no signal in the ground and no instrument that can report anything, and a line is an order and not a length.
+
+And **the fifth thing is still unnamed, and the column is still empty, and the word is still good, and the term runs to the twenty-ninth of this month, and the woman who was asked about it said yes, and she said it in a room, and somebody has to go up there again.**
