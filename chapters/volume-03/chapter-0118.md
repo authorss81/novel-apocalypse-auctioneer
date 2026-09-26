@@ -1,8 +1,8 @@
 # Chapter 118: A Price and a Body
 
-He asked her on the twelfth of September in nine minutes, in the five things, standing up, in daylight, in front of nineteen people, of whom nine were from the west bank and ten were from households on this side, and he did it in a channel about two hundred yards off the second one and she was in it, and he asked her from the bank and she did not come out.
+He asked her on the twelfth of September in nine minutes, in the five things, standing up, in daylight, in front of nineteen people, of whom nine were from the west bank and ten were from households on this side, and the room is a shed with an open side that looks at the third channel about two hundred yards off, and she came out of the channel into it twenty minutes before it began, and she did not sit down at any point in the nine minutes.
 
-Ressa Karrow is thirty-one and she is in her second year and she has been in the third channel since the first of April, and the asking was made in a room with a roof on it because a man of thirty-four who mends fencing said that a thing that is going to be refused should be refused somewhere with a floor, and a clerk of nineteen seconds corrected him and the minute says the clerk said it and not the man.
+Ressa Karrow is thirty-one and she is in her second year and she has been in the third channel since the first of April, and the asking was made in a room with a roof on it because a man of thirty-four who mends fencing said that a thing that is going to be refused should be refused somewhere with a floor, and a clerk of nineteen years corrected him and the minute says the clerk said it and not the man.
 
 "What is the job."
 
@@ -52,11 +52,11 @@ Nobody in that room said anything and the clerk of nineteen years wrote it down 
 
 "Read it again."
 
-The clerk read it again. Then the woman of thirty-one said the second sentence, and it is nine words long.
+The clerk read it again. Then the woman of thirty-one said the second sentence, and it is eleven words long.
 
 "**The price is not the thing. The body is the thing.**"
 
-A man of fifty-six who is a secretary of a cooperative of nine households said afterwards, in four minutes, that the first sentence was nine words longer than anything he had heard in two years of selling salt into a market on the other bank, and that the second sentence was the whole of the answer and the first one was the reason the second one was believable.
+A man of fifty-six who is a secretary of a cooperative of nine households said afterwards, in four minutes, that the first sentence was forty-nine words long and that he had not heard a sentence of that length in two years of selling salt into a market on the other bank, and that the second sentence was the whole of the answer and the first one was the reason the second one was believable.
 
 **AND ON THE TWELFTH OF SEPTEMBER A MAN OFFERED A PRICE FOUR TIMES, IN FOUR MINUTES, AND A WOMAN REFUSED FOUR TIMES IN THE SAME FOUR SENTENCES, AND THE FINDING IS THAT AN ITEM'S PRICE CANNOT SEPARATE THE PERSON WHOSE BODY MAKES IT WORK, AND THAT THE PRICE WAS NEVER THE THING AND HE KNEW IT WAS NOT THE THING ON THE EIGHTH OF SEPTEMBER.**
 
@@ -68,7 +68,7 @@ And then he did the thing that about nineteen people in that room had not expect
 
 "**I wrote the terms because a man who cannot close a thing is allowed to write what it would take, and because I wanted to see the whole of it on one page, and because about nineteen people crossed a river on the first of September to find out and I am the only one of them who can put a thing on paper, and I would rather hand you a page that says no than a page that says a number.**"
 
-Nobody in that room argued with that and the guild inspector of forty-four, who came thirty-four miles on the tenth and who had been in the room for an hour, said the one sentence that is in the minute and it is nineteen words long.
+Nobody in that room argued with that and the guild inspector of forty-four, who came thirty-four miles on the tenth and who had been in the room for an hour, said the one sentence that is in the minute and it is thirty words long.
 
 "**I have certified four hundred lots and I have never been in a room where the man offering had already said the answer out loud before the price was named.**"
 
@@ -93,11 +93,11 @@ She answered the six in nine minutes and she did not use the same four sentences
 
 "**Then somebody will be, and that is the whole of the sentence, and I do not know one of their faces.**"
 
-Nobody in that room argued and the man of thirty-eight said one sentence at the end and it is nine words long and it is in the minute in his own words and it is the whole of what he did on the far bank of a river in nine days.
+Nobody in that room argued and the man of thirty-eight said one sentence at the end and it is thirteen words long and it is in the minute in his own words and it is the whole of what he did on the far bank of a river in nine days.
 
 "**Then I have nothing to sell and I knew it on the fourth.**"
 
-And a man of fifty-six who is a secretary of a cooperative of nine households was asked afterwards by the clerk of nineteen years what a man with four powers was doing writing a sale of a loom, and he gave a reason that is nineteen words long and it is the last thing he said on the subject and he has not said it again.
+And a man of fifty-six who is a secretary of a cooperative of nine households was asked afterwards by the clerk of nineteen years what a man with four powers was doing writing a sale of a loom, and he gave a reason that is forty-nine words long and it is the last thing he said on the subject and he has not said it again.
 
 "**He is an auctioneer and this is the only thing anybody has put in front of him in nine weeks that he could not price, and I do not think that is a failure and I think the district is going to have to learn to live with it.**"
 
@@ -105,7 +105,7 @@ And a man of fifty-six who is a secretary of a cooperative of nine households wa
 
 On the thirteenth of September the man who drives salt came into the room where the terms were lying on a table and he asked to see them, and a clerk of nineteen years handed them to him, and he read both pages in eleven minutes standing up, and he is a man who does not read figures and the clerk read the second page aloud to him in the ordinary voice because the rule of a counter is that a document goes out twice.
 
-He said nothing about the terms and he said one thing about the price, and it is in the minute in his own words and it is nine words long.
+He said nothing about the terms and he said one thing about the price, and it is in the minute in his own words and it is twelve words long.
 
 "**Nine coppers a pound is what I have paid for two years.**"
 
@@ -117,7 +117,7 @@ He said nothing about the terms and he said one thing about the price, and it is
 
 "**Now a woman has said four sentences in a field and the price is the wrong thing and I can say it without it being about me.**"
 
-The entry of the thirteenth of September says that a man of forty-five who drives salt, who came eleven miles twice in two years and then nine tons on a cart, said nine words about a price in a room and that nobody argued with him, and that the nine words were the price this district has been paying at its own counter for two years, and that a district with four thousand and one households has been buying its salt at nine coppers a pound from about four pounds a week and has never once asked what a ton of it costs anybody.
+The entry of the thirteenth of September says that a man of forty-five who drives salt, who came eleven miles twice in two years and then nine tons on a cart, said twelve words about a price in a room and that nobody argued with him, and that the twelve words were the price this district has been paying at its own counter for two years, and that a district with four thousand and one households has been buying its salt at nine coppers a pound from about four pounds a week and has never once asked what a ton of it costs anybody.
 
 **AND THE FINDING OF THE THIRTEENTH OF SEPTEMBER IS THAT THE PRICE OF A LOOM WAS WORKED OUT OFF THE PRICE OF SALT, AND THE PRICE OF SALT WAS LEARNED FROM A HAULIER, AND THE HAULIER HAD BEEN SILENT ON PURPOSE FOR FOUR DAYS SO THAT A STRANGER COULD DO THE DIFFICULT PART, AND NONE OF THE THREE OF THEM KNEW THAT WAS WHAT WAS HAPPENING.**
 
@@ -136,13 +136,13 @@ And on the fourteenth of September a man of thirty-four who mends fencing asked 
 
 "**She is not a bearer and she is not in it and she is not a line in it and I have not written her name on either page, and a man of fifty-six told me on the eleventh that I had written a sale with no worker in it, and he is right, and I am going to have to go back to a district that has four thousand and one households and explain that the only thing anybody in this district cannot do is the one thing I am for.**"
 
-A woman of fifty-six who keeps the only pair on the west bank had said a sentence on the third of July in a field and four people were in the room, and nobody connected the two out loud and the clerk of nineteen years entered the two in one line and did not join them and entered the fact that she had not joined them.
+A woman of fifty-one who keeps the only pair on the west bank had said a sentence on the third of July in a field and four people were in the room, and nobody connected the two out loud and the clerk of nineteen years entered the two in one line and did not join them and entered the fact that she had not joined them.
 
-Then the man who drives salt said the last thing of the fourteenth of September and it is in the minute in his own words and it is nineteen words long, and he said it to the man of thirty-eight and not to the room, and the room heard it.
+Then the man who drives salt said the last thing of the fourteenth of September and it is in the minute in his own words and it is forty-five words long, and he said it to the man of thirty-eight and not to the room, and the room heard it.
 
 "**You came thirty-four miles to find out who signs for a ton, and you have found out that a woman of thirty-one is the signature, and I want to know what the district you come from is going to do on the first of October.**"
 
-And a clerk of nineteen years said that the first of October was the last day of a responsibility held by a man of thirty-eight, and that it was a term and not a quarter, and that it was a number and not a person, and that a term is not a quarter because a quarter comes round again by itself and a term does not.
+And a clerk of nineteen years said that the thirtieth of September was the last day of a responsibility held by a man of thirty-eight, and that it was a term and not a quarter, and that it was a number and not a person, and that a term is not a quarter because a quarter comes round again by itself and a term does not.
 
 "And who ends it."
 
@@ -150,7 +150,7 @@ And a clerk of nineteen years said that the first of October was the last day of
 
 The man of thirty-eight said nothing about that and the minute says he said nothing about it, and says that a man of thirty-four who mends fencing said afterwards that a man who has said nothing about a figure for four days is a man who has worked out that the figure and the person are not going to be in the same place on the same day, and that this district has spent nine weeks finding that out one subject at a time and this is the first time two of them have been in the same sentence.
 
-**AND THE FOURTEENTH OF SEPTEMBER ENDED WITH A PAGE IN A FOLDER WITH NO NAME ON IT, A MAN THIRTY-FOUR MILES FROM HOME WHO HAD SPENT NINE DAYS FINDING OUT THAT HE COULD NOT DO THE ONE THING HE IS, AND A PARTY OF NINE WHO WERE GOING TO BE NINE HUNDRED MILES FROM A COUNTER ON THE FIRST OF OCTOBER, AND NONE OF THE THREE THINGS WAS A FINDING AND ALL THREE WERE ENTERED.**
+**AND THE FOURTEENTH OF SEPTEMBER ENDED WITH A PAGE IN A FOLDER WITH NO NAME ON IT, A MAN THIRTY-FOUR MILES FROM HOME WHO HAD SPENT NINE DAYS FINDING OUT THAT HE COULD NOT DO THE ONE THING HE IS, AND A PARTY OF TEN WHO WERE THIRTY-FOUR MILES FROM A COUNTER AND WENT BACK TO THIRTY-FOUR ON THE FIRST OF OCTOBER, AND NONE OF THE THREE THINGS WAS A FINDING AND ALL THREE WERE ENTERED.**
 
 And on the fourteenth of September a man of thirty-one who is a signalman of the west bank's own crew walked one person to the second cart across about two hundred yards of bank and did not let go of her arm until she was on the step, and the minute says he did it in four minutes and that she did not ask him to and that he did not offer and that neither of them said anything about the thirtieth of last month, and that a man of thirty-nine had walked a man in the rain on that day and had written down that the man said the word which four times and could not finish any of the sentences.
 
@@ -170,7 +170,7 @@ The man of thirty-four who mends fencing did not take the sheet back and he did 
 
 **AND ON THE FOURTEENTH OF SEPTEMBER A SHEET WENT TO A MAN WITH A FORM OF TWENTY-NINE COLUMNS, AND THE SHEET HAS FOUR SIGNATURES ON IT AND FOUR OF THE FOUR ARE PERSONS, AND ONE OF THE FOUR WAS NOT IN THE ROOM, AND THE FORM HAS NO COLUMN FOR THAT, AND HE CERTIFIED IT ON THE FIFTEENTH IN ABOUT NINE MINUTES, AND NOBODY ON EITHER BANK HAD ASKED HIM NOT TO.**
 
-And a man of twenty-six who has been in a bed of brine for a year and a half signed the sheet with a mark, and his mark is his own and it is how he signs and it has been how he signs since he was about nine, and the clerk of nineteen years entered that and then entered the rule, and the rule has been in this district since the seventh of March and it is nine words long.
+And a man of twenty-six who has been in a bed of brine for a year and a half signed the sheet with a mark, and his mark is his own and it is how he signs and it has been how he signs since he was about nine, and the clerk of nineteen years entered that and then entered the rule, and the rule has been in this district since the seventh of March and it is thirty-eight words long.
 
 A mark is a person's refusal of a name. A mark is not a person. **And a mark may not be used as a bearer, a holder, a witness, a responsible party, or a person who is asked.**
 

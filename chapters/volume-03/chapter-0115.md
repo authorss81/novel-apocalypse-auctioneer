@@ -39,7 +39,7 @@ And a paperer of thirty-eight who comes up that bank once a month for four house
 
 "And where is the fourth place."
 
-"**Two miles west of a platform you have been standing on since the first of August, and four hundred miles from here by the road, and it has not been true since the twenty-ninth of June.**"
+"**Two miles west of the ninth place, and thirty-four miles from here by the road, and it has not been true since the twenty-ninth of June.**"
 
 Nobody in that cart argued with her and four people did not know what she was talking about and one of them was a signalman of thirty-one from the west bank who said so in nine words and then said the rest of it.
 
@@ -49,7 +49,7 @@ A clerk of nineteen years entered on the second of September that a printed shee
 
 ---
 
-The second of September was the crossing, and the crossing took four hours and nineteen people were on the near bank and nine on the far one, and nothing happened on it and the finding of the second of September is that the most dangerous thing ten people did in three days was a thing nobody wrote about.
+The second of September was the crossing, and the crossing took four hours and nineteen people were on the near bank and ten on the far one, and nothing happened on it and the finding of the second of September is that the most dangerous thing ten people did in three days was a thing nobody wrote about.
 
 The pan ground is not pans. It is loam, laid out in rectangles, with a channel cut at the head of each rectangle and a bed at the low end of it, and the water comes in at the top and is walked down by a person's judgement and not by a fall, and the salt comes out of the water whole in the bed and nowhere else.
 
@@ -91,7 +91,7 @@ What Halla Dree said was this, and she said it without getting out of the frame 
 
 "**It is a job. You are on your feet from before it is light and the frame turns when the wind is right and you stop it when the wind is wrong, and your hands are cold for nine hours and your back is not yours after the fourth day. You do not watch a loom. A loom is the only thing in this basin that does the work and it will not do it for you and it will not stop for you. The bed fills and you empty it or the salt goes back into the water. You eat standing up. You sleep four hours. And when the season turns you are not asked whether you will do it again and you are told, and the telling comes the same way the wind comes.**"
 
-The man of thirty-eight was in the party and did not say anything for eleven minutes, and then he said the only question he asked in three days, and it is in the minute in his own words and it is nineteen words long.
+The man of thirty-eight was in the party and did not say anything for eleven minutes, and then he said the only question he asked in three days, and it is in the minute in his own words and it is four words long.
 
 "**What do you lose.**"
 
@@ -118,9 +118,9 @@ And on the fourth, after she had said the thing about a year, Ressa Karrow was a
 
 "**I would like the year back. That is not the same as being paid and I want the two of them kept apart in whatever you write down, because a person who says she would like a year back has said something about a year and a person who says she would like money has said something about a market, and this bank is not a market and the year does not come back whether anybody is paying or not.**"
 
-The clerk of nineteen years wrote that down and read it back and got one word wrong and was corrected in four seconds by the man of thirty-six, and the clerk entered that this is the sixth time in nine weeks that a person has corrected a document by saying what they needed in it, and that all six were said by people who were not clerks and none of the six were paid for saying it.
+The clerk of nineteen years wrote that down and read it back and got one word wrong and was corrected in four seconds by the man of fifty-six, and the clerk entered that this is the sixth time in nine weeks that a person has corrected a document by saying what they needed in it, and that all six were said by people who were not clerks and none of the six were paid for saying it.
 
-A licensed valuer of twelve years was not in the party and nobody explained why, and a man of thirty-four who mends fencing was asked it on the second evening and gave a reason that is nineteen words long and is the whole of what the valuer is for in this district's books.
+A licensed valuer of twelve years was not in the party and nobody explained why, and a man of thirty-four who mends fencing was asked it on the second evening and gave a reason that is fifty-five words long and is the whole of what the valuer is for in this district's books.
 
 "**A lot is a thing somebody can be shown and a loom cannot be shown and it can only be stood in, and a man with a certificate has to be able to write a column, and there is no column, and he would have had to stand in a channel and get a year.**"
 
@@ -142,13 +142,13 @@ Nobody on either bank answered him and a man of fifty-six who is a secretary of 
 
 "**It is written down on this bank. Not one line of it is on yours. And I have been a secretary for two years and I have nine households and nineteen names and I have never once been asked by anybody on that bank to write down what a year costs that is not a copper, and I have not written one, and I am telling you that on the fourth of September and not after, because you are the first person from that side of the water who asked a question instead of a price.**"
 
-Then the man who drives salt said the thing that ends the fourth of September, and it is nine words long and it is a question and not an answer, and it is in the minute in his own words.
+Then the man who drives salt said the thing that ends the fourth of September, and it is twelve words long and it is a question and not an answer, and it is in the minute in his own words.
 
 "**Then who do I write this on, when it is a place.**"
 
 
 On the first of September the train on the siding stood two hundred and two days, and on the fourth it stood two hundred and five, and a boy of seventeen wrote both figures in his own hand in an index at Alder Reach and struck none of the old ones, and about nine people at the ninth mile of the raised plank road had said in a yard that a district of four thousand and one households is not a district and has never been one, and the boy wrote the two figures under that sentence because it was the only thing in nine weeks he had wanted to write down and nobody had asked him to.
 
-A clerk of nineteen years was in the party and she entered on the fifth of September, in a cart thirty-four miles from a counter, that the fifth of the five dates in the index is the twenty-ninth of last month, which was the twenty-ninth of August, and that the party was nine hundred miles from the only person who writes those figures down, and that she entered it because a line with no name against it is a column and not a payment, and that a figure in a book can be read by a stranger and carried to a door, and that the stranger in this case is nine hundred miles away and does not know it yet.
+A clerk of nineteen years was in the party and she entered on the fifth of September, in a cart thirty-four miles from a counter, that the fifth of the five dates in the index is the twenty-ninth of last month, which was the twenty-ninth of August, and that the party was thirty-four miles from the only person who writes those figures down, and that she entered it because a line with no name against it is a column and not a payment, and that a figure in a book can be read by a stranger and carried to a door, and that the stranger in this case is thirty-four miles away and does not know it yet.
 
 And the finding of the fourth of September is that a person who stands in a thing all day and is not paid to be anywhere else and writes nothing down has now been described four times in nine weeks by four people who have never met, and **the district has joined none of the four, and a clerk of nineteen years entered that a fourth description of one thing is a coincidence and is not a finding until somebody puts a thing on the paper that joins them, and that the fourth of the four is about two hundred yards from a channel and there is no boy in this party.**

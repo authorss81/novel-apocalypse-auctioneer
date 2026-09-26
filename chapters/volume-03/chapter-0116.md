@@ -46,7 +46,7 @@ He is the reason the party has anything at all to write down, and he is fifty-tw
 
 "**I am all right for the thing I do now. I am not all right for the thing I did, and I do not know how to say that in nine words, and this district has a great many nine words in it.**"
 
-**AND ON THE SIXTH OF SEPTEMBER A PARTY OF TEN HAD FOUR DESCRIPTIONS OF A LOOM FROM FOUR PEOPLE WHO HAD NEVER MET EACH OTHER AND HAD NEVER MET ANYBODY FROM THE WEST BANK, AND NONE OF THE FOUR DESCRIBED A THING, AND ALL FOUR DESCRIBED A JOB, AND A CLERK OF NINETEEN YEARS ENTERED THAT THIS IS THE FIFTH TIME IN NINE WEEKS THAT SOMEBODY HAS DESCRIBED SOMETHING IN THEIR OWN WORDS AND IT HAS NOT BEEN JOINED TO ANYTHING, AND THAT A FIFTH IS STILL NOT A FINDING.**
+**AND ON THE SIXTH AND THE SEVENTH OF SEPTEMBER A PARTY OF TEN HAD FOUR DESCRIPTIONS OF A LOOM FROM FOUR PEOPLE WHO HAD NEVER MET EACH OTHER AND HAD NEVER MET ANYBODY FROM THE WEST BANK, AND NONE OF THE FOUR DESCRIBED A THING, AND ALL FOUR DESCRIBED A JOB, AND A CLERK OF NINETEEN YEARS ENTERED THAT THIS IS THE FIFTH TIME IN NINE WEEKS THAT SOMEBODY HAS DESCRIBED SOMETHING IN THEIR OWN WORDS AND IT HAS NOT BEEN JOINED TO ANYTHING, AND THAT A FIFTH IS STILL NOT A FINDING.**
 
 ---
 
@@ -79,7 +79,7 @@ Nobody in that field said anything, and the man of thirty-four who mends fencing
 
 **AND ON THE SEVENTH OF SEPTEMBER A DISTRICT ON ONE BANK OF A RIVER ARITHMETICED ITSELF FOR THE FIRST TIME IN NINE WEEKS, AND THE ARITHMETIC WAS DONE OUT LOUD IN A CART BY A PERSON WHO IS NOT A CLERK, AND THE NUMBER IS IN THE PARTY'S MINUTE AND NOT IN ANY BOOK ON THE WEST BANK.**
 
-The salt man was asked on the seventh, in four minutes, about his own two pans, and he answered in nine seconds and the answer is nine words long and it is not what anybody expected.
+The salt man was asked on the seventh, in four minutes, about his own two pans, and he answered in nine seconds and the answer is twenty-nine words long and it is not what anybody expected.
 
 "**They are under four feet of river and they have been since the flood year and I have not tried to get them and I am not going to.**"
 
@@ -101,7 +101,7 @@ And the minute says that a secretary of a cooperative on the far bank of a river
 
 And on the evening of the seventh the party of ten sat on a bank and read out what they had, and it took an hour and a half, and the clerk of nineteen years read it out and nineteen people from the west bank read it out afterwards in four places, and the finding of the seventh of September is that **four people had described a loom in their own words and not one of them had said what it was for, and that the party of ten had gone thirty miles to find out and had come back with four descriptions of a job and a number of pans and a sentence about a year that is not a seller's.**
 
-And the man of thirty-four who mends fencing said the last thing of the day and it is in the minute in his own words and it is nineteen words long, and it is the sentence the rest of this week turns on, and neither of the two men who has said it knows that the other one has said it.
+And the man of thirty-four who mends fencing said the last thing of the day and it is in the minute in his own words and it is fifty-three words long, and it is the sentence the rest of this week turns on, and neither of the two men who has said it knows that the other one has said it.
 
 "**A district that can price a thing and cannot name a person has just spent four days learning that the thing is the easy half, and four of us have been treating the other half as the problem since the eighth of March, and it is not the problem, it is the floor.**"
 
@@ -129,7 +129,7 @@ Nobody in that field said anything and a man of fifty-two who came out of a chan
 
 "What happens to the person who does it."
 
-"He said nothing at all for eleven seconds and then he said it, and it is in the minute in his own words and it is nineteen words long."
+"He said nothing at all for eleven seconds and then he said it, and it is in the minute in his own words and it is fifty-three words long."
 
 "**That I will not be able to say which way the river is going for an hour and will have to be walked to a cart, and that a man of thirty-nine did that for me in the rain on the thirtieth of last month and would not let go of my arm.**"
 
@@ -161,7 +161,7 @@ The secretary of the cooperative of nine households asked him whether a question
 
 **THE FINDING OF THE SIXTH OF SEPTEMBER IS THAT A READER WHO SPENT AN HOUR HERE WOULD HAVE SPENT A PIECE OF A PERSON HE HAS MET TWICE, AND THE REFUSAL WAS ENTERED BY A CLERK OF NINETEEN YEARS IN A CART ON THE SEVENTH AND READ OUT TWICE, AND THE LEDGER ON THE WEST BANK IS ONE FOR APRIL AND NONE FOR MAY AND ONE FOR THE TWENTY-NINTH OF JUNE AND THERE IS STILL NO DATE IN IT FOR THE NEXT ONE.**
 
-And Ivo Stenn read out his own sheet on the seventh, in a cart, in the morning, in the ordinary voice, and it is the same nine words it has been after every one of the six and it is the seventh.
+And Ivo Stenn read out his own sheet on the seventh, in a cart, in the morning, in the ordinary voice, and it is the same nineteen words it has been after every one of the six and it is the seventh.
 
 "The intervals go up on use and I will not defend it and I will not call it anything else."
 

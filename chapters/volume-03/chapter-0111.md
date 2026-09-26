@@ -22,7 +22,7 @@ Nobody argued with the valuer and the minute says nobody argued with him, and sa
 
 The ward market bought a hundred and ten pounds of it on the nineteenth, at nine coppers a pound, and the sum is nine hundred and ninety coppers, and it went into the market's own book on a line of its own with a date on it and the name of the man who sold it in the seller's own hand.
 
-> **SALT, ONE HUNDRED AND TEN POUNDS, AT NINE COPERS A POUND. NINE HUNDRED AND NINETY COPPERS. BOUGHT OF A MAN WHO DRIVES SALT, ON THE NINETEENTH OF AUGUST, IN A LANE. THE FIGURE IS ON A LINE OF ITS OWN AND IS NOT THE NINE HUNDRED AND SIX OF A QUARTER AND IS NOT THE EIGHT HUNDRED AND NINETY-FOUR THAT IS CARRIED.**
+> **SALT, ONE HUNDRED AND TEN POUNDS, AT NINE COPPERS A POUND. NINE HUNDRED AND NINETY COPPERS. BOUGHT OF A MAN WHO DRIVES SALT, ON THE NINETEENTH OF AUGUST, IN A LANE. THE FIGURE IS ON A LINE OF ITS OWN AND IS NOT THE NINE HUNDRED AND SIX OF A QUARTER AND IS NOT THE EIGHT HUNDRED AND NINETY-FOUR THAT IS CARRIED.**
 
 A clerk of nineteen years entered the sum in four minutes and read the entry back, and the reading-back was done by the man who does not read figures, which is **the sixth time in nine weeks that the two of them have done it for each other,** and neither of them has suggested that it should stop.
 
@@ -72,7 +72,7 @@ She read the question out twice, which is the rule of the counter and not her ow
 
 > **WHO SIGNS FOR A TON THAT COMES TO A PLACE. ASKED BY A MAN WHO DRIVES SALT IN A LANE ON THE THIRTEENTH OF AUGUST AND ENTERED ON THE EIGHTEENTH OF AUGUST. NOT ANSWERED.**
 
-The clerk asked her whether that was a refusal and she said it was not, and the reason she gave is in the minute and it is nineteen words long.
+The clerk asked her whether that was a refusal and she said it was not, and the reason she gave is in the minute and it is thirty-seven words long.
 
 "**A refusal is a thing somebody said no to. A question is a thing nobody has answered yet, and this district has eleven refusals in it and no questions, and that is the worse of the two.**"
 
@@ -90,7 +90,7 @@ It was promised on the eighth and it went up on the twentieth, and the reason it
 
 **THE FIFTH BOARD IS AT THE EAST END AND IT IS NOT ON THE LINE OF THE TOLL, AND FIVE BOARDS EXIST AND ONE OF THEM IS WHERE THE TOLL LANDED AND FOUR OF THEM ARE SOMEWHERE ELSE, AND ONE OF THE FOUR IS A PLACE WHERE A CART STOPPED.**
 
-The man who drives salt had asked for it on the seventeenth. He had not asked for a board, because he did not know that a board could be had; he had asked the keeper of the fourth board for a fifth board that would take a ton, and the keeper had understood him, and the answer was no, and the reason is in the minute in the keeper's own words and is nine words long, and **the board at the east end has now got a reason and the board at the ninth place has not, and neither of them has been asked for one.**
+The man who drives salt had asked for it on the seventeenth. He had not asked for a board, because he did not know that a board could be had; he had asked the keeper of the fourth board for a fifth board that would take a ton, and the keeper had understood him, and the answer was no, and the reason is in the minute in the keeper's own words and is thirty-five words long, and **the board at the east end has now got a reason and the board at the ninth place has not, and neither of them has been asked for one.**
 
 "**A board says where a toll landed. A ton is not a toll and a ton does not land anywhere, and a board that takes a ton is a rate, and I keep a board.**"
 
@@ -122,7 +122,7 @@ It is that thirty miles east there is a thing that makes the salt, and the makin
 
 He did not say all of that in the lane. He said the first half of it, and a man of thirty-four who mends fencing wrote the second half down in a yard on the twenty-first and read it out, and the salt man said it was right and had not said it, and the minute records both of those and records that nobody argued with either.
 
-A boy of seventeen who is paid four coppers a quarter for an index and who is not Adrian Vale's apprentice asked one question at the end of it, and it is in the minute in the boy's own words and it is eleven words long, and it is the fourth time in nine weeks he has asked a question in public and been right about it.
+A boy of seventeen who is paid four coppers a quarter for an index and who is not Adrian Vale's apprentice asked one question at the end of it, and it is in the minute in the boy's own words and it is nineteen words long, and it is the fourth time in nine weeks he has asked a question in public and been right about it.
 
 "**What happens to the salt if the water on the pans goes down and nobody can put it back.**"
 
@@ -132,13 +132,9 @@ And then a woman of fifty who is the water at the ninth place said the thing tha
 
 "**Nine tons of salt is not a shortage in this district. Nine tons of salt is a district that has stopped being able to say where a thing goes, and it has been that since about the eighth of March, and the salt is only the first thing that has come up the lane and stood still.**"
 
-"**What happens to the salt if the water on the pans goes down and nobody can put it back.**"
-
-Nobody in the lane knew, and the man who drives salt said he had been walking eleven miles twice a year for two years asking that question in a different form, and that nobody in this district had ever asked it in that form at all, and that a boy of seventeen had asked it in nine words in a lane full of salt.
-
 ---
 
-And on the evening of the twentieth a man of fifty-one who keeps the only pair on that line came down the bank for the second time in a month and stood at the end of a platform in the lane and looked at nine tons of salt for eleven minutes and **said nothing at all about it,** and then said one sentence, and the sentence is in the minute.
+And on the evening of the twentieth a woman of fifty-one who keeps the only pair on that line came down the bank for the second time in a month and stood at the end of a platform in the lane and looked at nine tons of salt for eleven minutes and **said nothing at all about it,** and then said one sentence, and the sentence is in the minute.
 
 "**Nine tons of salt is not a thing this district can hold and a pair is not a thing that holds it either, and I have come down here to say that I am the only pair at that place and I am not going thirty miles east and leave it.**"
 

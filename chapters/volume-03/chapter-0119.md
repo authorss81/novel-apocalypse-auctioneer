@@ -10,9 +10,9 @@ He read it out twice before he signed it and the clerk of nineteen years read it
 
 Nobody in that room argued with him and nineteen people were in it and a man of thirty-eight who is a Binder was in it and said nothing at all, and the minute says he said nothing at all and that the clerk of nineteen years entered that she noticed.
 
-**AND THE FINDING OF THE FIFTEENTH OF SEPTEMBER IS THAT A FORM WITH TWENTY-NINE COLUMNS HAS FOUR COLUMNS FOR TWO PEOPLE, AND THAT A CONSENT SHEET WITH FIVE NAMES ON IT HAS ONE COLUMN FOR CONSENT SET WIDE ENOUGH FOR FIVE, AND THAT NEITHER OF THOSE IS A FAULT IN ANYBODY, AND THAT THE ONLY THING MISSING FROM BOTH IS A COLUMN FOR WHETHER A PERSON WAS IN THE ROOM.**
+**AND THE FINDING OF THE FIFTEENTH OF SEPTEMBER IS THAT A FORM WITH TWENTY-NINE COLUMNS HAS FOUR COLUMNS FOR TWO PEOPLE, AND THAT A CONSENT SHEET WITH FOUR NAMES ON IT HAS ONE COLUMN FOR CONSENT SET WIDE ENOUGH FOR FIVE, AND THAT NEITHER OF THOSE IS A FAULT IN ANYBODY, AND THAT THE ONLY THING MISSING FROM BOTH IS A COLUMN FOR WHETHER A PERSON WAS IN THE ROOM.**
 
-The inspector was asked it by a man of thirty-four who mends fencing, in four minutes, and he gave the answer that is now the entry of the fifteenth of September and it took him nine seconds and it is nineteen words long.
+The inspector was asked it by a man of thirty-four who mends fencing, in four minutes, and he gave the answer that is now the entry of the fifteenth of September and it took him nine seconds and it is fifty-six words long.
 
 "**A signature has always meant the person was in the room. That is what a signature is. And I have certified four hundred lots on it and it has been true every time, and nobody in sixteen years has ever needed the column because nobody has ever handed me a signature from two days' walk away.**"
 
@@ -20,7 +20,7 @@ The inspector was asked it by a man of thirty-four who mends fencing, in four mi
 
 "**This one is not a forgery. That is the thing I would like written first, before anything else, in four words, on the front. Nobody has forged anything. Four people were asked. Four people answered. One of the four was not in the room, and she told me on the fourteenth that she was not in the room and she told me she understood it in four minutes and she is not taking it back, and I certified it anyway because my form asks me whether they consented and they did.**"
 
-Nobody in that room said anything about that and a woman of fifty-six who keeps the only pair on the west bank was not in it and has not been told and the count of not-askings did not move.
+Nobody in that room said anything about that and a woman of fifty-one who keeps the only pair on the west bank was not in it and has not been told and the count of not-askings did not move.
 
 Then the man of thirty-eight said the thing he had come to say and he said it in eleven seconds and the clerk entered it in her own hand and the minute says it is the fifth thing he has said in nine weeks that is about a limit and it is different from the other four.
 
@@ -48,7 +48,7 @@ Nobody in that room argued with her and the clerk of nineteen years wrote all th
 
 "**I could, and I did not, and here is the fourth reason and it is the one I would like anybody to argue with. If I enter a consent and then put a line under it, then in four years a stranger will take that page cold and see a consent and a line, and he will read the consent, because people read the top of a page, and the line will be underneath it where I put it because I wanted it to be a good place for it.**"
 
-A man of thirty-four who mends fencing was in that room and he said the other half, and it is in the minute in his own words and it is nine words long.
+A man of thirty-four who mends fencing was in that room and he said the other half, and it is in the minute in his own words and it is ten words long.
 
 "**Then the page goes in and the line goes on.**"
 
@@ -61,7 +61,7 @@ Nobody in that room argued and the entry of the sixteenth of September says that
 
 ---
 
-The clerk of nineteen years was gone for two days and the party of nine was down to nine, and the finding of the eighteenth of September is that a district with four thousand and one households can lose a member of its own party to a document and cannot be told about it for two days, and that nobody on the far bank knew she had gone and nobody on this bank knew when she was coming back.
+The clerk of nineteen years was gone for two days and the party of ten was down to nine, and the finding of the eighteenth of September is that a district with four thousand and one households can lose a member of its own party to a document and cannot be told about it for two days, and that nobody on the far bank knew she had gone and nobody on this bank knew when she was coming back.
 
 She went over the raised plank road on the morning of the sixteenth with a certified copy in a bag and a sheet of her own in a second bag, and a man of thirty-one who is a signalman of the west bank's own crew walked as far as the ninth mile with her and came back at about four in the afternoon, and the minute says he walked her there and came back and did not go further, and that he had said on the tenth of September that he would walk one person and had said it in four words.
 
@@ -99,13 +99,13 @@ Nobody in that bank said anything about it and the clerk of nineteen years came 
 
 "**They are nineteen lines about a thing that does not exist yet. If I enter them, then in four years a stranger will read nineteen lines about a thing that does not exist yet and he will think it does.**"
 
-And the registrar read the nineteen lines on the twentieth of September, in a counting room over a chandler's shop, in front of nineteen people, and entered them, and the entry says that the nineteen lines are in the public lot book in nine copies on eleven boards and that they are not a finding and that the district has four things it does not have and six instruments it has built and not named and one document that has become wrong for a reason nobody caused, and that the nineteen lines are the seventh of the four and are not to be added to the six.
+And the registrar read the nineteen lines on the twentieth of September, in a counting room over a chandler's shop, in front of nineteen people, and entered them, and the entry says that the nineteen lines are in the public lot book in nine copies on eleven boards and that they are not a finding and that the district has four things it does not have and six instruments it has built and not named and one document that has become wrong for a reason nobody caused, and that the nineteen lines are not one of the four and not one of the six and not the one, and are not to be added to any of them.
 
 ---
 
 And on the eighteenth the man of thirty-one walked the man of thirty-four who mends fencing back to the carts because he had been in a room for two days and had not eaten, and the minute says the walk took four minutes and that neither of them said anything about the thirtieth of last month and that neither of them said anything at all, and that the man of thirty-one has not written a word in a book since the sixteenth of July and has been asked it four times in nine weeks and has said four times that a man is not a column.
 
-And the line book at the east end has nine hundred and six movements in it and one more, and the one more is the twenty-ninth of June, and there is nothing in it for the twenty-ninth of August because nothing moved, and the boy of seventeen measured the stall for the sixth time in the fourth month of this year and it has not moved and the party of nine was nine hundred miles from the tape when he did it.
+And the line book at the east end has nine hundred and six movements in it and one more, and the one more is the twenty-ninth of June, and there is nothing in it for the twenty-ninth of August because nothing moved, and the boy of seventeen measured the stall for the sixth time on the eighteenth of this month and it has not moved, and the party of ten was thirty-four miles from the tape when he did it, and the minute says the boy gave that as the reason for measuring it on that day.
 
 
 ---
@@ -114,19 +114,19 @@ And on the eighteenth of September a man of fifty-two who came out of a channel 
 
 "**Because it is the first thing I have said out loud about selling and it is going to be in a book on the other side of a river and I would like it in a hand that a woman of thirty-one can recognise.**"
 
-What he said was this, and it is nineteen words long.
+What he said was this, and it is thirty-four words long.
 
 "**I have two valid certificates in a drawer and neither is wrong, and I have no way to sell the frame and no way to fill my own pans, and the difference is me.**"
 
-Nobody argued and the man of thirty-six who is a secretary of a cooperative of nine households said afterwards that the sentence had been in that bank for two years in nine houses and that a man had finally said it in a room with a form on the table, and that the form was not the reason and the room was.
+Nobody argued and the man of fifty-six who is a secretary of a cooperative of nine households said afterwards that the sentence had been in that bank for two years in nine houses and that a man had finally said it in a room with a form on the table, and that the form was not the reason and the room was.
 
 **AND THE FINDING OF THE EIGHTEENTH OF SEPTEMBER IS THAT THE THING WHICH STOPS A SALE OUT HERE IS NOT THE PRICE AND NOT THE CERTIFICATE AND NOT A MARK, AND THAT IT IS A PERSON WHO SAYS OUT LOUD THAT THE THING IS HIM, AND THAT FOUR PEOPLE HAVE NOW SAID IT IN FOUR WEEKS AND NONE OF THE FOUR WERE ASKED.**
 
 And then the man of thirty-eight did the last thing he did on the far bank of the river, and it was in nine minutes, and the clerk of nineteen years entered it and the minute says it is the last entry of the party's time there and that it is nineteen lines and that the tenth hand read it out twice before it was agreed to.
 
-> **A LOOM IS NOT A THING THIS DISTRICT CAN BUY, AND THE REASON IS NOT THE PRICE. A LOOM IS A THING, A USE, A BEARER, A TOLL, A TERM, A RELEASE AND A REMEDY, AND SIX OF THE SEVEN CAN BE WRITTEN DOWN AND THE SEVENTH IS A PERSON. THE PRICE WAS TWO THOUSAND COPPERS AND IT WAS A FIGURE DONE IN ELEVEN SECONDS OFF THE PRICE OF SALT, AND THE PERSON SAID NO FOUR TIMES IN FOUR SENTENCES, AND THE MAN KNEW ON THE EIGHTH OF SEPTEMBER AND WROTE THE TERMS ANYWAY, AND THE TERMS ARE IN A FOLDER WITH NO NAME ON IT.**
+> **A LOOM IS NOT A THING THIS DISTRICT CAN BUY, AND THE REASON IS NOT THE PRICE. A LOOM IS A THING, A USE, A TOLL, A TERM, A RELEASE AND A REMEDY, AND THOSE SIX CAN BE WRITTEN DOWN, AND THE SEVENTH OF THE SEVEN IS THE BEARER, AND A BEARER IS A PERSON, AND THE PAGE HAS A NAME IN THAT LINE AND A NAME IS NOT A PERSON. THE PRICE WAS TWO THOUSAND COPPERS AND IT WAS A FIGURE DONE IN ELEVEN SECONDS OFF THE PRICE OF SALT, AND THE PERSON SAID NO FOUR TIMES IN FOUR SENTENCES, AND THE MAN KNEW ON THE EIGHTH OF SEPTEMBER AND WROTE THE TERMS ANYWAY, AND THE TERMS ARE IN A FOLDER WITH NO NAME ON IT.**
 
-And then a man of thirty-four who mends fencing added one line to it in his own hand and the line is nineteen words long and the clerk of nineteen years did not take it out and the registrar read it on the twentieth and entered it under the nineteen and not above them.
+And then a man of thirty-four who mends fencing added one line to it in his own hand and the line is forty-two words long and the clerk of nineteen years did not take it out and the registrar read it on the twentieth and entered it under the nineteen and not above them.
 
 "**AND A DISTRICT THAT BUILT SIX INSTRUMENTS IT CANNOT NAME IN NINE WEEKS HAS NOW MET ONE IT CANNOT PRICE, AND NEITHER OF THOSE IS THE OFFICE, AND I AM NOT ALLOWED TO WRITE THE WORD AND I AM NOT GOING TO.**"
 

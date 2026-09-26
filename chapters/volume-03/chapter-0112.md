@@ -10,7 +10,7 @@ The five things are what the job is, how long it is, what it costs, what happens
 
 Four people were not asked, and the entry of the twenty-third says four, and it says why each of the four was not asked, and one of the four reasons is a man of thirty-four writing a name into a list.
 
-A man of fifty-one who keeps the only pair on the line at the ninth place was asked in the lane on the twentieth and said no in the order she has used since the twenty-ninth of March, which is the condition, then the word, then the answer, and the condition was that somebody is on that platform at night whether she is on it or not.
+A woman of fifty-one who keeps the only pair on the line at the ninth place was asked in the lane on the twentieth and said no in the order she has used since the twenty-ninth of March, which is the condition, then the word, then the answer, and the condition was that somebody is on that platform at night whether she is on it or not.
 
 "A woman of fifty who is the water at that place was written into the list of people who had been asked on the twenty-first," said the clerk of nineteen years, "**and she had not been asked, and I found it at half past four in the afternoon, and it was corrected in four minutes and it is entered as not asked, and not asked is not a no and she has not said no and she has not said yes and I am not going to ask her today.**"
 
@@ -38,7 +38,7 @@ A woman of forty-four who keeps a Road House on the tide walked with him about f
 
 ---
 
-The man who could write the terms of the party was not asked to write them, and he said so in four seconds when he was asked, and the reason he gave is in the minute in his own words and is nineteen words long.
+The man who could write the terms of the party was not asked to write them, and he said so in four seconds when he was asked, and the reason he gave is in the minute in his own words and is eighty-three words long.
 
 "**I can write the terms of a thing two people have agreed to. Nine people in a cart is not a thing two people have agreed to, it is a thing nine people have each agreed to separately, and those are nine agreements and not one, and I would be writing a document about nineteen people in a form I made up last night, and I have said in public that a form is a thing made before anybody has agreed to anything.**"
 
@@ -96,7 +96,7 @@ The man who sells nothing and has a use printed a sheet on the twenty-third, at 
 
 > **NINE PEOPLE ARE GOING THIRTY MILES EAST ON THE FIRST OF SEPTEMBER AND BACK WHEN THEY COME BACK. NOBODY KNOWS WHEN THEY COME BACK. THIS DISTRICT HAS NO COLUMN FOR A DAY THAT IS NOT YET, AND THE SHEET IS PRINTED IN THE SAME TYPE AS EVERYTHING ELSE.**
 
-He charged twelve for it and not four, and a man of thirty-four who mends fencing asked him why in nine seconds and he gave the answer in the ordinary voice and it is nine words long.
+He charged twelve for it and not four, and a man of thirty-four who mends fencing asked him why in nine seconds and he gave the answer in the ordinary voice and it is sixteen words long.
 
 "**Because it has a date on it and a distance on it and mine cost four.**"
 
@@ -142,7 +142,7 @@ Nobody argued with it and the clerk of nineteen years entered that a boy of seve
 
 **AND ON THE TWENTY-FOURTH OF AUGUST THE PARTY WAS NINE AND THE TOLL WAS NIL AND THE TERMS SAID SO, AND THE FINDING OF THE TWENTY-FOURTH IS THAT A PARTY OF NINE PEOPLE GOING SOMEWHERE TOGETHER IS NOT AN INSTRUMENT AND IS NOT A JOB AND IS NOT A CHARTER, AND THAT IT IS THE FIRST THING IN NINE WEEKS THAT WENT OUT OF THIS DISTRICT WITH NO COLUMN ANYWHERE FOR IT.**
 
-The train on the siding had stood a hundred and ninety days on the twentieth of August and a hundred and ninety-one on the twenty-second and a hundred and ninety-four on the twenty-four, and the fifth of the five dates in a boy's index is the twenty-ninth of this month and the boy of seventeen wrote the twenty-fourth down on the twenty-fourth and did not write a sixth date, and a clerk asked him about that on the twenty-fourth and he said that there was not a sixth date because there was not a sixth thing, and the minute says he said it in nine words and that nobody argued.
+The train on the siding had stood a hundred and ninety days on the twentieth of August and a hundred and ninety-two on the twenty-second and a hundred and ninety-four on the twenty-four, and the fifth of the five dates in a boy's index is the twenty-ninth of this month and the boy of seventeen wrote the twenty-fourth down on the twenty-fourth and did not write a sixth date, and a clerk asked him about that on the twenty-fourth and he said that there was not a sixth date because there was not a sixth thing, and the minute says he said it in nine words and that nobody argued.
 
 Two miles west, at the fourth place, a sheet is still nailed to a wall that says in its own printed type that a train stops there once a month in the dark, and there has not been one since the twenty-ninth of June.
 
@@ -150,6 +150,6 @@ A paperer of thirty-eight read that sheet aloud on the twenty-second to nine peo
 
 **A DOCUMENT WHICH HAS BECOME WRONG FOR A REASON NOBODY CAUSED IS A DOCUMENT NOBODY OWNS, AND IT FITS IN NEITHER OF THE TWO LISTS THIS DISTRICT KEEPS, AND THE LIST IT IS NOT ON IS THE LIST OF THE SIX INSTRUMENTS THIS DISTRICT HAS BUILT AND NOT NAMED, AND A BOY OF SEVENTEEN WROTE THAT DOWN ON THE TWENTY-SECOND AND ADDED NO FINDING UNDER IT.**
 
-And the reading ledger was read out at the ward market counter on the twenty-third in the ordinary voice, as it is read out, and it is one for April, none for May, one for the twenty-ninth of last month, and the number of departures left is one, and there is no date in it for the next one.
+And the reading ledger was read out at the ward market counter on the twenty-third in the ordinary voice, as it is read out, and it is one for April, none for May, one for the twenty-ninth of June, and the number of departures left is one, and there is no date in it for the next one.
 
-Ivo Stenn was going thirty miles east and read it out himself before he read out his own separate sheet, which says in nine words that the intervals go up on use and that he will not defend that and will not call it anything else, and which is read out at the counter after every refusal, and there has not been a refusal since the sixteenth of July.
+Ivo Stenn was going thirty miles east and read it out himself before he read out his own separate sheet, which says in nineteen words that the intervals go up on use and that he will not defend that and will not call it anything else, and which is read out at the counter after every refusal, and there has not been a refusal since the sixteenth of July.

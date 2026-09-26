@@ -4,7 +4,9 @@ A sheet went up on eleven walls and on three toll boards and on the board of ele
 
 "**Because it has two things on it and I have never printed two things on one sheet in this district before, and one of them is a thing ending and the other one is a thing nobody is allowed to end.**"
 
-The two things are on it in the same type as everything else, and the heading is four words long, and the fourth word is a day.
+The two things are on it in the same type as everything else, and there is a heading over the whole of it, and the heading is four words long and the second word is a day.
+
+> **THE TWENTY-NINTH OF AUGUST**
 
 > **ON THE TWENTY-NINTH OF AUGUST THE TERM OF THE BOUNDARY AT THE WEST END ENDS, AND IT IS ASKED FROM TWO ROOMS, AND NEITHER ROOM HAS AGREED TO END ANYTHING. ON THE SAME DAY SOMEBODY WILL HAVE TO DECIDE WHETHER THE IRON COMES OUT OF THE BRACKET. NOBODY IN ALDER REACH IS ALLOWED TO DECIDE IT. THE DATE IS THE ONLY THING ON THIS SHEET THAT ANYBODY CAN ARGUUE WITH.**
 
@@ -28,7 +30,7 @@ The five are the twenty-ninth of April asked, the twenty-fifth of May, the twent
 
 "**Nothing happens on the thirtieth, and that is the first sentence about a day anybody has written in nine weeks that I have not had to argue anybody out of.**"
 
-Nobody in that room argued with him, and a clerk of nineteen years asked him whether he wanted the entry in his own hand and he said yes, and the reason he gave is nine words long and is the third time in nine weeks he has given a reason in that shape.
+Nobody in that room argued with him, and a clerk of nineteen years asked him whether he wanted the entry in his own hand and he said yes, and the reason he gave is thirty-five words long and is the third time in nine weeks he has given a reason in that shape.
 
 "**Because it is about the line and the line is mine, and the man who mends fencing was right that a column is for things that go the same way and these five do not.**"
 
@@ -48,7 +50,7 @@ The third was put by a man of thirty-one who is a signalman of the district's ow
 
 Nobody in that yard had an answer to it, and nineteen people looked at a sheet on a wall that said a thing nobody is allowed to decide is decided by a date, and that sheet is four coppers and went up on the second of this month.
 
-A woman of fifty-one who keeps the only pair on that line was in the yard and she said the thing that is now the entry of the twenty-sixth of August, and it is eleven words long, and she said it in the doorway of a shed and did not come in.
+A woman of fifty-one who keeps the only pair on that line was in the yard and she said the thing that is now the entry of the twenty-sixth of August, and it is twenty-four words long, and she said it in the doorway of a shed and did not come in.
 
 "**A thing nobody is allowed to decide is decided by a date, and a date decides it, and that is all it ever did.**"
 
@@ -62,7 +64,7 @@ Nobody voted on that either, and the minute says nobody voted on that either, an
 
 ---
 
-And then nobody went east, and that is the other half of the twenty-sixth, and the reason is in the minute in the man who drives salt's own words and it is nineteen words long.
+And then nobody went east, and that is the other half of the twenty-sixth, and the reason is in the minute in the man who drives salt's own words and it is seventy-three words long.
 
 "**I have been ready since the third of this month. I am not going thirty miles east in the four days before the day this district has been waiting nine weeks for, because if the river is on the planks on the second of September I lose a season of salt, and I would rather lose a season of salt than have a party of nine miss the one day they came for.**"
 
@@ -93,13 +95,13 @@ Nobody argued with her and a woman of fifty who is the water at the ninth place,
 
 "**I have been asked that question six times and I have given the same two sentences six times and I would like it entered that on the sixth time I noticed I was not listening to the first half of it, and that this is a fact about me and not about the question.**"
 
-The clerk entered that and entered it in the minute and not in the book, because the minute is for the district and the book is for a stranger, and the reason she gives is nineteen words long and it is about the difference between the two.
+The clerk entered that and entered it in the minute and not in the book, because the minute is for the district and the book is for a stranger, and the reason she gives is thirty-four words long and it is about the difference between the two.
 
 "**A stranger in four years wants to know what this district was sure of. He does not want to know what a woman of fifty was doing with her attention on the sixth time.**"
 
 ---
 
-And on the evening of the twenty-seventh, in a lane, a man of thirty-four who mends fencing asked a man of thirty-eight whether he would decide the bracket on the twenty-ninth, and he said no before the question had finished, and the reason is in the minute in his own words and is nineteen words long.
+And on the evening of the twenty-seventh, in a lane, a man of thirty-four who mends fencing asked a man of thirty-eight whether he would decide the bracket on the twenty-ninth, and he said no before the question had finished, and the reason is in the minute in his own words and is seventy words long.
 
 "**I am not one of the four bearers, I am not a keeper of a board and I am not on the committee, and the line on page one saying I am not one of the four bearers is still true of me in the ninth week, and I would like that line read out on the twenty-ninth in a room so that a stranger knows it was not forgotten.**"
 
@@ -121,7 +123,7 @@ Nobody asked him what it was.
 
 "**It is that all four of them asked, and nobody has asked the iron, and the iron does not care, and that is going to be the finding on the twenty-ninth and I would like it written down on the twenty-eighth so that it is not a surprise to anybody.**"
 
-And the clerk of nineteen years asked him whether he wanted that written as a finding, and he said no, and gave the reason in nine words, and the reason is the reason he gave on the ninth of this month when he asked for his own sentence about an office to be struck.
+And the clerk of nineteen years asked him whether he wanted that written as a finding, and he said no, and gave the reason in forty words, and the reason is the reason he gave on the ninth of this month when he asked for his own sentence about an office to be struck.
 
 "**I have been wrong about money three times and I do not know what a bracket is, and a thing I do not know about is not a finding and it is in the column for things that are not findings and not in the book.**"
 
@@ -131,7 +133,7 @@ And the registrar entered it in the column for things that are not findings, whi
 
 A stranger took a copy of the notice off the board of eleven in the yard of Lot 17 on the afternoon of the twenty-seventh, in a minute, and did not ask anybody anything, and nobody stopped him, and the minute says nobody stopped him and says that the notice has been taken cold four times in nine weeks by four different people and that three of the four came back.
 
-He came back on the twenty-eighth and asked one question at the counter, and it is five words long.
+He came back on the twenty-eighth and asked one question at the counter, and it is seven words long.
 
 "Who is allowed to take it out."
 
@@ -162,7 +164,7 @@ Nobody argued and the entry of the twenty-eighth of August says that five toll b
 
 **THE FIFTH INSTRUMENT IS STILL UNNAMED AND STILL UNOWNED, AND A THING THAT LANDS ON A PLACE IS A PLACE, A DAY, AND EITHER AN AMOUNT OR THE FACT THAT THE PLACE CANNOT SAY ONE, AND THE FIFTH LINE IN THAT COLUMN IS RULED AND EMPTY, AND THE KEEPER SAYS THE FIFTH LINE IS GOING TO STAY EMPTY AND HE IS NOT THE FIFTH DAY AND HE HAS SAID SO IN PUBLIC TWICE.**
 
-And then the keeper of the board said the other half of it, and it is nineteen words long and it is about a boy and not about a board, and the boy was not in the room and has not been asked it.
+And then the keeper of the board said the other half of it, and it is eighty-four words long and it is about a boy and not about a board, and the boy was not in the room and has not been asked it.
 
 "**There is a boy at the fourth place who has been standing in the same spot every day since the ninth of last month writing nothing down, and I found out about that in a yard a fortnight ago from three people who had not spoken to each other, and nobody has asked him for a year and nobody has paid him, and I am not going to be the fourth person in nine weeks to describe that instrument and join none of them.**"
 

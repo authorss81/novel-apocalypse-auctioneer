@@ -84,7 +84,7 @@ And the finding of the fourteenth of August is that a person in a public book is
 
 And the reading ledger was read out at the ward market counter on the afternoon of the fourteenth of this month after the figure, and it is one for April, none for May, one for the twenty-ninth of last month, and the number of departures left is one, and the refusals are six.
 
-Ivo Stenn's separate sheet was read out after the ledger, in his own hand, in the ordinary voice, and it is nine words long and it has been read out after every one of the six.
+Ivo Stenn's separate sheet was read out after the ledger, in his own hand, in the ordinary voice, and it is nineteen words long and it has been read out after every one of the six.
 
 "The intervals go up on use and I will not defend it and I will not call it anything else."
 

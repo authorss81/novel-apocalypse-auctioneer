@@ -4,7 +4,7 @@ The iron was in the bracket at nine in the morning on the twenty-ninth of August
 
 The iron is the length of a forearm and it weighs four pounds and one ounce and **the ninth place is the only frame on the line that it fits,** and the bracket is four feet off the ground at the end of the platform, and the platform is thirty feet long and there is a lamp on a post cut out of a green pipe and a rail along the back edge and a hole in the ground that is not a mark.
 
-Nobody threw the points. Nobody put a hand on a lever. A mechanic of forty-three brought **a bar about ten feet long** to the end of the platform at about eleven in the morning and stood with it for two hours and did not put it in, and four people asked him why at intervals and he gave the same answer each time and it is nine words long.
+Nobody threw the points. Nobody put a hand on a lever. A mechanic of forty-three brought **a bar about ten feet long** to the end of the platform at about eleven in the morning and stood with it for two hours and did not put it in, and four people asked him why at intervals and he gave the same answer each time and it is eighteen words long.
 
 "**Nobody in this yard can say no to me, so it is not a thing I can do.**"
 
@@ -45,7 +45,7 @@ The mechanic of forty-three said one more thing on the platform on the twenty-ni
 
 Nobody in that yard said anything and nineteen people said something afterwards and the minute says that about nineteen people said something afterwards and that the nine were not the same nine.
 
-And a man of fifty-eight who carries water and does not read figures stood at the front of the platform for most of the day and said one thing at about eleven in the morning, and the minute puts it in his own words and it is nineteen words long.
+And a man of fifty-eight who carries water and does not read figures stood at the front of the platform for most of the day and said one thing at about eleven in the morning, and the minute puts it in his own words and it is forty-five words long.
 
 "**A thing nobody asked is not a thing nobody can do, and I have been on this bank since about six in the morning and nobody has asked me to do anything, and I would like it entered that I was here and not asked.**"
 
@@ -53,7 +53,7 @@ And that was entered, and not asked is entered as not asked and not as a refusal
 
 A stranger was on the platform twice, at about ten in the morning and again at about three in the afternoon, and he did not ask anybody anything either time and stood about nine feet off and watched, and four people noticed him and nobody spoke to him, and the minute says nobody spoke to him and that this is the second time in nine weeks that a stranger has stood in a public place and been left alone and that both times he came back and asked one question afterwards.
 
-He came back at half past four and asked the man who keeps the fourth toll board a question that is nine words long, and the board keeper wrote it down and did not answer it and wrote it on the bottom line in chalk, and it is the twenty-ninth sentence on that board and the second one that is somebody else's question.
+He came back at half past four and asked the man who keeps the fourth toll board a question that is eight words long, and the board keeper wrote it down and did not answer it and wrote it on the bottom line in chalk, and it is the twenty-ninth sentence on that board and the second one that is somebody else's question.
 
 "**WHICH OF THESE THINGS COST SOMEBODY A YEAR.**"
 
@@ -65,7 +65,7 @@ He had a book in his coat with a rubber band on it and the band had perished and
 
 FRAME TURNED. NOTHING SENT.
 
-He came down the two miles afterwards to the ninth place in the rain, at about six in the evening, and nineteen people were still on the platform, and he was not asked anything and he stood at the back for an hour and a half and then asked one question, and it is in the minute in his own words and it is nine words long.
+He came down the two miles afterwards to the ninth place in the rain, at about six in the evening, and nineteen people were still on the platform, and he was not asked anything and he stood at the back for an hour and a half and then asked one question, and it is in the minute in his own words and it is thirteen words long.
 
 "**Is the man going to try it again on the twenty-ninth of September.**"
 
@@ -128,11 +128,7 @@ The folder has no name on it and she wrote not a finding on the top of it in her
 
 **THE FINDING OF THE THIRTY-FIRST OF AUGUST IS THAT A SHEET ABOUT A DAY COMES DOWN AFTER ABOUT FOUR DAYS AND A SHEET ABOUT A DISTANCE AND NINE PEOPLE STAYS UP UNTIL SOMEBODY UNKNOWS IT, AND THIS DISTRICT HAS GOT ONE OF EACH AND THE ONE ABOUT A DAY IS IN A FOLDER WITH NO NAME ON IT.**
 
-The cart went at about six in the morning on the first of September with eight on it and a second cart went at about nine with two on it, and the man who drives salt had said that the two carts go together or not at all and that the party of nine became eight and a man of thirty-one, and that is nine on the ground and the sheet says nine and nobody in this district has yet worked out whether that makes the sheet right or wrong.
-
-The river was off the planks. A haulier of forty had said in a yard on the twenty-third that the water is on the planks or it is not and that this is the whole of the risk, and on the second of September it was not, and nineteen people were at the ninth mile of the raised plank road to see two carts and ten people go over ground that has not carried a wheel since the flood year.
-
-And on the morning of the thirtieth of August, a boy of seventeen wrote the hundred and ninety-ninth day in his index and did not write a sixth date, and the train had stood two hundred days, and a hundred and ninety-nine is a figure nobody had said out loud in nine weeks and the boy said it in a yard in the ordinary voice and nineteen people wrote it down.
+And on the morning of the thirtieth of August, a boy of seventeen wrote two hundred days in his index and did not write a sixth date, and the train had stood two hundred days, and a hundred and ninety-nine was the day before and is a figure nobody had said out loud in nine weeks, and the boy said the round one out loud in a yard in the ordinary voice and nineteen people wrote it down.
 
 The standing order that somebody walks every yard of the line is discharged and not satisfied, and it is a fact about an instrument and not about the ground, and the Harrow end cannot report itself, and there is a plinth on the embankment thirty yards east of the engine house with the bolt-holes in it and a cap of lead over them, and a ground signal was refused again in four seconds in the fourth month of this year for a reason that is nine words long and has not changed.
 
@@ -148,7 +144,7 @@ And then on the evening of the thirty-first of August a woman of fifty who is th
 
 The clerk of nineteen years said the count was at four with one standing refusal and that it was a column and not a bucket, and the woman of fifty said yes to that, and the entry of the thirty-first of August says that the count did not move and that the woman of forty-five was not asked for anything on the thirty-first of August and is in the count as not asked.
 
-The party of nine became eight, and a man of thirty-one who is a signalman of the district's own crew was put on the second cart, and the finding of the thirty-first of August is that **a document about people said nine and eight went, and the sheet is nailed to a board in a yard and a stranger took a copy of it cold on the twenty-seventh, and the man who prints it has been asked for a correction and has declined one.**
+The party of nine became eight, and a man of thirty-one who is a signalman of the district's own crew and one other man who is not on the sheet at all went on the second cart, and the finding of the thirty-first of August is that **a document about people said nine and eight went, and ten went, and neither of the two that were added was on it, and the sheet is nailed to a board in a yard and a stranger took a copy of it cold on the twenty-seventh, and the man who prints it has been asked for a correction and has declined one.**
 
 "And why."
 
