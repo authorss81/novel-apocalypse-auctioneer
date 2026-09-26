@@ -1579,3 +1579,114 @@ Written after the block and read by the Volume 04 writer before it drafts. Every
 - **The fourth line of the offer.** Not read out loud, and a man of fifty-six has said the reason twice and a clerk of nineteen years has refused to enter it either way.
 - **The aggregate unpaid toll as a list.** Not recited in this block, and Batch 0003's recitation in Chapter 172 was the last time it is to be said as a list.
 - **The count of the second half said before being asked.** No ordinal used anywhere in this block, and the count of entries carrying a finding since the eighteenth of December is not referred to at all.
+
+## Volume 04 Batch 0005 (Chapters 191 to 200) — character movement, and the volume close
+
+**This block closes Volume 04 at Chapter 200. It is the last character record of the volume and a Volume 05 writer reads it after `state/volume-04-roll-summary.md`.**
+
+### Adrian — the man the figure of twenty-one years is against
+
+- **UNDERWRITER BEGAN, on the twenty-seventh of the third month, and it is entered on the thirtieth, and it cost four things on the page.** He put his own name at the back of a public book against the tolls of a water route kept by a route keeper and worked at a scale by four things. **He said in fifty-seven words that he cannot tell anybody what a toll is in coppers because nobody has established one, and that what he is offering is a day and his name.** A clerk of nineteen years entered that a person at the back of a book is not a bearer of a toll, is not a keeper of a route, is not a security and is not one of the five.
+- **He is no longer shielded from their consequences and said so himself in forty-one words: it stops at me, and that is what a person at the back of a book is for, and I did not know that when I said the words on the twenty-seventh and I would not have said them if I had.**
+- **He is findable.** A man of fifty-six said in forty-six words that he could not pool them a fortnight ago and could not be found either, and that a man who cannot be found cannot be called in, and that this was not a protection and it was the same thing as a protection.
+- **His hand is on a page in a drawer in a building with a door on it, and a house read it on the thirtieth, and he said in a yard on the thirty-first that he is not going to be a man who says he did not know what a page is and that he has known what a page is since the fifteenth of the second month.**
+- **He did not answer a question.** On the twenty-eighth, in a room with no clerk in it, the registrar asked him to say the rest of it and he did not, and gave a reason instead: he knew it, she had said it out loud on the twelfth of the third month in front of nine people, nobody has asked her about it since, and he was not going to be the man who asks. **A clerk of nineteen years entered that he was asked a question in a room and did not answer it, and that she was not asked a second question.**
+- **The figure of twenty-one years came off on the thirty-first of March in the same line as the date, and he had nothing to do with it and it was not because he asked.** Nothing was written in its place.
+- **He is going to the counter on the second of the next month to tell a woman of about forty-four that the house's own counter takes a name off a sheet.** He said he would and a clerk entered that he was not asked why and is not going to be. **He did the same walk in the second month and came back with nothing in his hands.**
+- **Still not spent: one departure. Still standing: nine refusals to read. Still standing: the four sheets of the charter cannot be certified and the guild inspector's nine lines saying so are in a letter thirty-four miles away. Still standing: the farm four miles out is unsold and the transfer has no named holder and he cannot close one. Still standing: the origin of the Common Measure, Iven, the blank lot, and the romance.**
+- **Still his limits, and the list is not restated a fifth time in this block:** he does not maintain a public lot, does not coordinate more than one bearer, does not arrange a dispute hearing, and does not make the consequences of an object visible to a whole settlement. **What he did in this block was stand at the back of a book, which is a thing a man can do to a document and not to a person, and that is what the power is.**
+
+### Mara Quill — the registrar of this district's records office
+
+- **She agreed on the twenty-eighth of the third month to hold a book, in thirty-one words, and then asked him in thirty words to say the rest of it: you have said three things and there is a fourth one and I am not going to hold a book with a hole in it.**
+- **On the thirtieth a house's eighth sheet said that the tolls of a water route are fastened to a person at the back of a book and that the name at the back of it is the name of the person who holds the book. She read the sheet twice.**
+- **She refused in forty-five words to enter whose hand is on the page, and gave the reason: a hand is not a person and this office has not printed a person since it was opened. A refusal with a reason, and it is the register's load-bearing instrument.**
+- **She said the rest of it in fifty words in front of about nine people: a book a stranger can walk up to is a place a house can look for a man, and I said that sentence in a yard on the twelfth of the third month, and you knew it when you asked me for the book, and you did not say it.** He answered in twenty-six words. **Nothing after that is an answer, a declaration or a settlement.**
+- **A clerk of nineteen years entered that what was said between them is in a minute in her own words and is not a document this district can produce and was not produced on the thirtieth and is not going to be.**
+- **She said her own instrument sentence a fourth time in five months in Chapter 193 and gave a reason for the fourth, and she did not say it a fifth time.** The registrar's own count of refusals to join two things stands at twelve. The refusals to join two things stand at thirteen. **Neither moved on any of the days from the twenty-fourth to the thirty-first of the third month.**
+- **The romance is fractured and unresolved at Chapter 200 and a fracture is not a resolution.**
+
+### The man of about thirty-four who digs loam and does nine days of it in ten
+
+- **He opened the sluice on the night of the thirteenth of the third month on his own account, told nine people about it, and was not asked to be sorry.** His water emptied a butt four hundred yards away on the seventeenth. The house called the claim on the twenty-fourth because of it.
+- **He said the plainest sentence in the volume on the twenty-seventh, in fifty-eight words: then we open the sluice and the claim stands and the water comes, and the man of about fifty-five gets a tank and the boy of nine loses a place, and those two are not a choice anybody put to us, they are a choice the house put to us, and we are going to take the water.**
+- **He disagreed with the block's System panel in fifteen words on the twelfth — the second time in this district that a character has disagreed with a panel on the page.**
+- **He said in fifty-two words that a route keeper gave this district a day to open and a day to shut and not a number, and a number is what we wanted and a day is what we needed.**
+- **He said in fifty-two words on the twenty-fourth that a yard which cannot name a building cannot say where a toll lands on a place.** He counted the spaces in a page with his own eyes and said a page is about forty and is not a figure anybody can rule anything else on. **He said in forty-eight words on the thirty-first of March that the court can hear a figure and write it down and that is all it can do, and that a thing nobody can argue with is a thing a court cannot touch.**
+- **He said in Chapter 200 that he would rather be carrying a yoke, and he carried one.** He is in no count of any kind.
+
+### The man of fifty-six who does count for a living
+
+- **He wrote the list of the five on the back of a page in the ward market's own book in a hand anybody can read, in about fifty minutes, and said in thirty-five words that a man who reads out for a living wrote one out in the second month and cannot write, that he does the writing and does not read it and will not be asked to.**
+- **He read the list out himself on the twenty-second and read all four sheets of the charter out in a court on the thirty-first of March, and refused the fifth thing and gave no reason.**
+- **He said in twenty-one words in Chapter 195 that he was not going to do the arithmetic about the man the figure of twenty-one years is against's own name, and that a man who cannot see a figure about himself is a man who is not going to be told one by anybody in this district.**
+- **He gave the interval out loud in six of the last ten chapters and said in Chapter 200 that the tail of it has been said out loud eight times in four months by a man who does the counting for a living, and that a man who kept nine years of days in his head has just done it differently from every one of those eight.**
+- **He said in forty-six words that the shield is the first thing that goes off a power.** He is not an officer of anything, not a friend and not thanked, and he stopped walking about nine yards from the middle of a yard in none of these ten chapters.
+
+### The man of about thirty-one who mends a dray at a forge end off Salt Row
+
+- **He is the fifth of the five posted securities and he has been on a page in this district for nine years, and a house thirty-four miles east holds a receipt saying the person giving that security was discharged with the thing in the fourteenth year, and the two figures of five years and nine years are not joined and neither can be got off the other.**
+- **He read the list of the five out in a yard on the twenty-first of the third month, including the line with his own name on it, and said in forty-three words that a name on a page is a claim on the person and not on the house, and that he had been told that in this yard before and had not believed it.**
+- **He asked in twenty-five words for the list to be read out on the day the water goes up and said he was not going to be asked to stand at a sluice. It was read out twice on the twenty-ninth and he stood at the back with his hands in his pockets and said in twenty-eight words that he is not at the sluice and never said he would be.**
+- **He did the whole of the days out loud in a yard on the thirty-first of March, in two runs of words with the sums under the figures, deriving four hundred and thirteen from the eleventh of February, because a man of about thirty-four who mends fencing asked him when a train comes.**
+- **He watched the figure of twenty-one years come off in the same line as the date and said in fifty-six words that he did not ask for it, could not have stopped it, and is not going to say thank you for a calendar.**
+- **He is not a bearer, not a keeper, not a security and not in any count.**
+
+### The man of about fifty-five who keeps the flood shelter
+
+- **He asked a man in a lane and not a yard for a sluice, and the man said yes, and they agreed in the lane that nobody would know and that he would not be thanked in front of anybody.** He said in eighteen words that he will write the day and will not write the name.
+- **His tank came up to the shoulder of the stone on the twenty-fourth of the third month, the first time since the first of the second month, and the crack is still in it and is still weeping, and he has still not put a fifth mend in it and is not going to.** He said in forty-one words that he wanted the water to come out of the ground by itself since the fourth year and that it came down a channel and he is not going to be a man who is pleased about it in a lane.
+- **He refused two households in Chapter 194 with the reason that it is not his building and it is not his page and he has never turned anybody away in nine years. The shelter has denied nobody entry at any time in nine years.**
+- **The fourth page filled at about forty spaces on the twentieth of the third month. The fifth has eleven days in it and a ruled column about a finger wide and no heading at all, and he was asked whether he wants it and said he did not know.** A day written in a space in a page in a building is still not a seventh instrument.
+- **He came out and looked at a yoke on the stones and neither of them said anything.** He is not its bearer and is not going to be entered as one.
+
+### The woman of fifty-eight who carries water
+
+- **Her round of about ninety houses ended on the twenty-fourth of the third month because a water came down a channel, and she put the yoke down on the stones at the top of the hill and did not pick it up again.**
+- **She was asked, in the six things, in front of about nine people, on the twenty-third, for the first time in nine years, whether she wants to stop her round, and she said no in ten words: I will not stop. Ask me on the day.** Nobody put a second thing to her and the not-asking is entered.
+- **She said in thirty-three words on the twenty-second that if the water keeps coming then nobody will be carrying anything up that hill in April and the whole of the round goes and there is no round, and in thirty-three words: then I will be a woman with nothing to do and I will still be here, and I have been here nine years, and you can write that down or you can not.**
+- **She was asked for one yoke-load as a toll on the thirtieth and said in twenty-six words that she has been on that hill for nine years for nothing and will show anybody the page.** A man of fifty-six said the two asks are not joined and are not added and that the second of them has a page and the first of them does not.
+- **She is not a protected thing, not a condition with no end on it, not one of the five, and not in any count.**
+
+### The man of about thirty at the counter at the second reservoir
+
+- **He came down the eleven mile road ten times in eight weeks and brought four sheets, and said in thirty-nine words, unasked, that the only thing his house has ever been able to look at is a column.** A man of about thirty-four who digs loam said a house that has said that in a yard has told this district what its instrument is.
+- **He said there are two flood shelters at the sluice end and he has never said there was one, and named the second one in fifty-two words, and the second one turned out to be a brick building kept by a woman of about thirty-eight who has never once asked him for anything.**
+- **He said in thirty-four words on the twenty-seventh that a water route and the claim cannot both stand, and offered the price: put the sluice back in the ground and the claim stands off until the last day of the month, and the tank at the top of your lane is at nothing inside a week.** The last day of the third month has now passed.
+- **He has refused six questions with no reason, five of them about the ninth of the nine holdings, which is the one nobody in this district can account for.** Six are six and are not a column and are not added to the thirteen. **He is a clerk of a house and is not a friend of this district and is not to be promoted into one.**
+
+### The woman of about thirty-eight who keeps a brick building at the sluice end
+
+- **She said her butt is at nine days and it is hers and she would like it full before the first of April and nobody has to tell her how, and the butt went out in one night on the seventeenth and the channel has been running past her back wall ever since.**
+- **She denied two households entry in her own lane on the eighteenth in fifty-three words: that place is mine and it is the only place I have and it is the only place on that sheet, and if I let two households into it I have three claims on one place and a place with three claims on it is a place a house can take off me.**
+- **She refused in twenty-six words to tell a clerk of a house where her wall is, because if she tells him where my wall is then my wall is on his sheet.** A refusal with a reason.
+- **She was asked on the thirty-first of March, in the six things, whether the claim that passed was against her place, and said she had been told it was a place at the sluice and had not been told it was hers, and that she is not going to be asked a second thing about it in a yard on the morning the court was sitting.** A person who keeps a building is not its bearer, is not a keeper of a claim, is not a party to a claim and cannot be held to one.
+
+### The man of about twenty-three who sells nothing and copies for nothing
+
+- **He gave the only copy of a house's sheet to a records office on the sixteenth of the third month and said in twenty-one words: I gave it up. Nobody took it. Put both of those down and put down which one of them is true.** He said the distinction is the whole of what a person can have when there is no money in the district.
+- **He was found at the end of a lane by a man with a slate because a book in this district describes him and does not have to have his name in it, and he read the sheet on the wall out loud to four people who cannot read and said in forty-six words: the day at the bottom of it is the twenty-ninth of December, it is not on the sheet you were given, I have got no way to make them take it off and I am not going to stand here and tell you that I have.**
+- **In Chapter 200 he put the stub about the size of a coin on a table and said in fifty-two words that the counter a house keeps at the end of a road takes a name off a sheet, will not ask why, and costs nobody anything, and that the next time it is open is the second of the next month.** He was refused eleven coppers a week for the third time in a yard on the same day and said he is not going to ask in a room and is going to keep asking.
+- **He is not a clerk, not a keeper, not a security and not anybody's, and the only copy of that sheet in this district is in a drawer in a building with a door on it.**
+
+### The boy of nine
+
+- **He was in the yard of Lot Seventeen on the tenth of the third month and was not asked a first thing and was not asked a second thing, and his name is not in the minute and the minute says a boy of nine.**
+- **On the twenty-fourth of the third month a man of about thirty-four who mends fencing asked the volume's open question in front of about nine people and he answered it in twenty words: nobody put my name on that board and I would not want them to, and a board is for dates.** A clerk of nineteen years entered that a person who answers a question is not a clerk of anything and is not on a list and was not asked a second thing.
+- **Nobody has ever told him or his mother that the house's own counter takes a name off a sheet, and the man the figure of twenty-one years is against has undertaken to go and tell her on the second of the next month.** His name cannot be taken off the figure by him.
+
+### Other figures moved in this block, each named with its trade and its place
+
+- **A woman of about thirty-four who keeps a goat at the third house up the lane from the scale** — said in fifty-eight words that she refused a sheet in the second month, signed nothing, and is in this water with her name not written on anything, and told the man the figure of twenty-one years is against to say what she owes and she will pay it.
+- **A man of about thirty-four who mends fencing at a forge end and in doorways** — the register's standing questioner; asked the question about the board four times in four yards, read the list of the five out twice as the man of about thirty-one asked, asked when a train comes, and is not a clerk of anything.
+- **Tarin Kest, a route keeper and a Binder's counterparty** — gave two days and no figure in thirty-four words, refused in thirteen words to be a bearer of the road and said nobody asked him to, and stood on a bank above a sluice for about two hours in Chapter 198 saying nothing. He is not a bearer of the road and is not going to be asked to be one.
+- **The woman of about thirty-six who keeps a scale at the sluice end** — named the toll in forty-two words, a yoke-load on a day a route keeper names, and said she weighs about nine sacks a day and has never once been asked what a yoke-load weighs. **She is still not asked what a season weighs and is still going to want it.**
+- **The man of about thirty-eight who deals in second-hand paper on a lane off the lower terrace** — entered before he speaks as not speaking for the room, and said a man who trades in what a page is worth cannot tell anybody what a night on a floor is worth, and that there is no instrument for that either.
+- **The man of about forty-four who drives a cart for a house** — asked nothing by anybody in this district in nineteen days and not again.
+- **The man of about forty-eight who keeps a tally for six households** — was not asked anything about the list of the five and has still not been told what to do about three households.
+- **A man of about nineteen who walked in from the road** — counted sixty-two word-count claims in this block and is the only reason the block's figures are checkable. He is nobody's keeper and is not to be turned into one.
+- **The man from a tram arch** — printed his eighth sheet, nailed it to the wall of the yard of Lot Seventeen, said he has not checked it and will not, said four coppers for a sheet about one thing and twelve for a sheet about two things, and said that a man who nails a sheet to a wall and then says it is not his has made a wall into a keeper.
+
+### Untouched in this block, to be left untouched
+
+**Selik Marne is in none of Volume 04's fifty chapters and nothing required him. The woman of forty-five was not named, not asked and not referred to. Hester Vail and Nera Voss are both absent from Chapters 191 to 200. The five near-identical figures at the west end — Pell Anselm, the trader of fifty-one, the woman of the column, Sef Anyard, and the woman of forty-five — appear nowhere in this block and were not merged with each other or with anything new. The iron, the Last Fare, the blank lot, Iven, the origin of the Common Measure, the market stalls, the first channel's failure, the four gaps, the nineteen lines, the two impressions, the two lines, the four lines of the broken circle, the signal's memory pattern, the sentence in the column for things that are not findings, the pan that cannot report itself, the place that cannot report itself, and the mark on the iron were not touched, read or referred to.**

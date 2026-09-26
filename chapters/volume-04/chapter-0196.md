@@ -4,7 +4,7 @@
 
 The list of the five was written on the twenty-first of the third month at about ten in the morning in the yard of Lot Seventeen on the back of the page in the ward market's own book, and a clerk of nineteen years entered that it is on the back and not in the book and that the two inches at the foot of the page is not a line and was not ruled.
 
-A man of about thirty-four who mends fencing asked who was going to write it, and a man of fifty-six said that he was, and gave the reason himself in a sentence that a man of about nineteen counted and got twenty-nine.
+A man of about thirty-four who mends fencing asked who was going to write it, and a man of fifty-six said that he was, and gave the reason himself in a sentence that a man of about nineteen counted and got thirty-five.
 
 "**A man who reads out for a living wrote one out in the second month and cannot write. I do the writing and I do not read it and I will not be asked to.**"
 
@@ -44,7 +44,7 @@ Nobody said the opposite. A man of about thirty-four who digs loam said that the
 
 The woman of about thirty-eight who keeps the brick building was not in that lane and was not sent for, and a clerk of nineteen years entered that she was not asked what she was going to do about the four of them and is not going to be asked, **and that a person who keeps a building is not its bearer and is not a keeper of it and is not a party to a claim on a place in it and is not going to be entered as one.**
 
-The man of about fifty-five who keeps the flood shelter at the top of the other lane said one thing about it at about four in the afternoon and a man of about nineteen counted it and got thirty-one.
+The man of about fifty-five who keeps the flood shelter at the top of the other lane said one thing about it at about four in the afternoon and a man of about nineteen counted it and got forty-three.
 
 "**I have a stove and four shelves and about nine days of water in my butt and eleven beds and no page for the four of them, and I am not going to say the word no a second time in my life.**"
 
@@ -52,9 +52,9 @@ The man of about fifty-five who keeps the flood shelter at the top of the other 
 
 ---
 
-They asked him in the six things at about half past eleven in the morning and he had not been sent for, and a clerk of nineteen years entered that he came and that nobody sent for him.
+They asked him in the six things at about half past eleven in the morning and nobody had sent for him, and a clerk of nineteen years entered that no one in that yard brought him.
 
-A man of about thirty-four who mends fencing said the question out loud in front of about nine people, and a man of about nineteen counted it and got twenty-eight, and it is in the minute in his own words.
+A man of about thirty-four who mends fencing said the question out loud in front of about nine people, and a man of about nineteen counted it and got twenty-five, and it is in the minute in his own words.
 
 "**You said in a yard on the tenth of the third month that the list is not written. It is written. Will you read it.**"
 
@@ -62,7 +62,7 @@ A man of about thirty-one who mends a dray at a forge end off Salt Row looked at
 
 Nobody in that yard interrupted him. A man of fifty-six said that a man who has refused four times in a yard and said no to the fifth thing a list of that kind requires is now standing in a yard reading his own name off a page, **and that the second half of that came out of him before anybody asked him for it and that a clerk is not going to put a number on it.**
 
-Then he said the other thing, and he said it to the yard and not to the man of about thirty-four who mends fencing, and a man of about nineteen counted it and got thirty-three.
+Then he said the other thing, and he said it to the yard and not to the man of about thirty-four who mends fencing, and a man of about nineteen counted it and got forty-three.
 
 "**A name on a page is a claim on the person and not on the house. I have been told that in this yard before and I have not believed it and I have now got it in a hand anybody can read.**"
 
@@ -70,7 +70,7 @@ A clerk of nineteen years entered that a man who has been on a page in this dist
 
 Nobody took that up. A man of fifty-six said that nobody in that yard was going to ask him about the two figures and that a clerk had already refused that in a room in the second month and was not going to be asked again, **and that a man who is a person cannot be a security and has never been able to be and that a page with a man on it is a page with a person in a column and not a bearer column and the two are not the same and have never been.**
 
-A man of about forty-eight who keeps a tally for six households was at the back of that yard and had not been sent for, and a clerk of nineteen years entered that he came and that nobody sent for him and that he was not asked anything about the list.
+A man of about forty-eight who keeps a tally for six households was at the back of that yard and was at the back of that yard unasked, and a clerk of nineteen years entered that nobody sent him and that nobody put anything to him about the list.
 
 A man of about thirty-four who mends fencing asked him, in the six things, whether the six households at the sluice end of the loams knew there was a list, and the man of about forty-eight said that they did not and that a man who keeps a tally for six households is not a way of telling six households anything, **and that he has said what he is going to do about three of them and has not said it and that the three are not asked again and have not refused and are not going to be asked again by anybody in this yard.**
 
@@ -90,7 +90,7 @@ A man of fifty-six said that the only one of the five a stranger can walk up and
 
 A clerk of nineteen years entered that a man who has looked at a thing once in four months has looked at it and that a thing looked at is not a finding, **and that the third of the five is a food agreement and a food agreement is not a security for a water and that the two of those are not joined and are not going to be joined by a yard.**
 
-Then the registrar of this district's records office said it, and she said it in the ordinary voice of a person who has said a version of it before, and a man of about nineteen counted it and got thirty-eight, and a clerk of nineteen years entered that it is in the minute in her own words.
+Then the registrar of this district's records office said it, and she said it in the ordinary voice of a person who has said a version of it before, and a man of about nineteen counted it and got fifty-two, and a clerk of nineteen years entered that it is in the minute in her own words.
 
 "**An office may print a house and may not print a person. A book with a name at the back of it is a book with a person at the back of it, and a person at the back of a book is not a person who has agreed to be there.**"
 
@@ -106,7 +106,7 @@ It was not contradicted. The man the figure of twenty-one years is against said 
 
 The twenty-second was the room and nothing else, and the man of fifty-six read the list out loud himself at about eleven in the morning, and a clerk of nineteen years entered that he read it and that she did not ask him to and that a man who writes a list and reads it in a yard two days later is a man and not a clerk.
 
-A man of about thirty-four who mends fencing asked the man of about thirty-one what he wanted done with it, and the man of about thirty-one said the thing before anybody asked him, and a man of about nineteen counted it and got thirty-seven.
+A man of about thirty-four who mends fencing asked the man of about thirty-one what he wanted done with it, and the man of about thirty-one said the thing before anybody asked him, and a man of about nineteen counted it and got forty-two.
 
 "**I want it read out in a yard on the day the water goes up and I want the man of about thirty-four who reads things to read it and I am not going to be asked to be at the sluice.**"
 
@@ -124,7 +124,7 @@ Nobody argued with that. A man of fifty-six said that a woman of fifty-eight has
 
 A clerk of nineteen years entered that the woman of fifty-eight was not asked about the round and that the not-asking is entered and the count is where it was, **and that a woman of fifty-eight whose round ends because a sluice went up is not a protected thing and is not a condition with no end on it and is not one of the five and is not one of the four and is not going into any of the counts.**
 
-The woman of fifty-eight said the other half of it and she said it to the man of about thirty-four who digs loam and not to the yard, and a man of about nineteen counted it and got thirty-four.
+The woman of fifty-eight said the other half of it and she said it to the man of about thirty-four who digs loam and not to the yard, and a man of about nineteen counted it and got thirty-three.
 
 "**Then I will be a woman with nothing to do and I will still be here, and I have been here nine years, and you can write that down or you can not.**"
 

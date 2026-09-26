@@ -1443,3 +1443,82 @@ The canon card's emphasis percentages are each a tenth of a point above a plain 
 ### What this repair did not do
 
 **It did not answer the next question.** The vanished city has a current lease renewal and its leaseholder is Cael Orin, and that is Batch 0005's to open and not this block's to touch. **It did not resolve the romance, Iven's identity, the blank lot's function, the origin of the Common Measure, the office, or the three unexplained things of Volume 01. It did not add a sixth protected thing, did not retire the rule that a mark may not carry a job, and did not let a mark solve a bearer problem. It did not join any of the pairs of things the canon card forbids joining, and it did not move a single date.** The one thing it deliberately left alone is the twenty-nine-word overlap between Chapter 187's closing narration and its closing all-caps record, because the all-caps record is the volume's signature and restating the finding is what it is for.
+
+---
+
+## Volume 04 Batch 0005 (Chapters 191 to 200) — continuity established, and the volume closed
+
+**This block closes Volume 04 at Chapter 200. The roll is `state/volume-04-roll-summary.md` and it is the first document a Volume 05 writer should read. The canon card for these ten chapters is `outline/batches/volume-04-batch-0005.md`.**
+
+### The calendar, derived and closed
+
+**The train arrived on the eleventh of February and the last day this volume reaches is the thirty-first of the third month of the eighteenth year after the Long Fracture, on which the train on the siding had stood four hundred and thirteen days.** The derivation is spoken out loud in Chapter 200 by the man of about thirty-one who mends a dray, in two runs of words with the sums under the figures, and it is: from the eleventh of February, seventeen days remain in that month after the eleventh; March, April, May, June, July and August come to 31 + 30 + 31 + 30 + 31 + 31 = 184 between them, and 17 + 184 = 201 at the thirty-first of August; September adds thirty, October thirty-one, November thirty and December thirty-one, and 201 + 122 = 323 at the thirty-first of December; the first of January is 324; January is thirty-one, February is twenty-eight and March is thirty-one, which is 90, and 324 + 90 = 413 at the last day of March. **The first of April is 414 and is one day past the end of this volume.**
+
+**February in this year has twenty-eight days, and Chapter 186 stands on the twenty-eighth as the last day of the month. A count that uses thirty-one for February is wrong.** One draft figure in this block's own checkpoint chapters was wrong for exactly that reason and is disclosed in the batch record.
+
+**The month turned three times in Volume 04 and no more: the first of January in Chapter 155, the first of February in Chapter 167, and the first of the third month in Chapter 187. The block 191 to 200 ends on the thirty-first of March and does not cross into April, so it contains no month turn.** The next month turn in this district's business is the first of April, in Volume 05.
+
+**Volume 04 dates in full:** 151 the twenty-fourth of December; 152 the twenty-fifth and the twenty-sixth; 153 the twenty-seventh and the twenty-eighth; 154 the twenty-ninth and the thirtieth; 155 the thirty-first of December and the first of January; 156 the second and the third of January; 157 the fourth; 158 the sixth to the eighth; 159 the ninth; 160 the tenth and the twelfth; 161 the fourteenth; 162 the fifteenth and the sixteenth; 163 the seventeenth and the eighteenth; 164 the nineteenth to the twenty-first; 165 the twenty-fourth and the twenty-fifth; 166 the twenty-ninth and the thirtieth; 167 the first of February; 168 the second to the fifth; 169 the sixth to the eighth; 170 the ninth of February; 171 the tenth; 172 the eleventh of the second month; 173 the twelfth; 174 the thirteenth and the fourteenth; 175 the fifteenth; 176 the sixteenth; 177 the seventeenth; 178 the eighteenth; 179 the nineteenth; 180 the twentieth; 181 the twenty-first; 182 the twenty-second and the twenty-third; 183 the twenty-fourth; 184 the twenty-fifth and the twenty-sixth; 185 the twenty-seventh; 186 the twenty-eighth, the last day of the month; 187 the first of the third month, on which the month turns; 188 the second and the third; 189 the fourth and the fifth; 190 the sixth to the tenth; 191 the eleventh; 192 the twelfth to the fourteenth; 193 the fifteenth; 194 the seventeenth and the eighteenth; 195 the nineteenth and the twentieth; 196 the twenty-first and the twenty-second; 197 the twenty-third and the twenty-fourth; 198 the twenty-fourth, twenty-fifth and twenty-sixth; 199 the twenty-seventh to the thirtieth; **200 the thirty-first of the third month.**
+
+### The figures this volume closed, and how to carry them
+
+- **The figure of twenty-one years came off the fourth line of the fourth sheet of the charter on the thirty-first of March, in the same line as the date, and the entry ran to that date.** A man of fifty-six said in the yard that nobody did anything at all and that the whole of what happened was a clerk reading a line, **and that the name did not come off because a man asked and did not come off because anybody was let out of anything and came off because a date arrived.** Nothing was written in its place, and a clerk of nineteen years entered that no figure can be entered against a man in this district on that day because no figure has been established, **and that a figure that has not been established is not a blank, it is the absence of one.**
+- **The aggregate unpaid toll is still twenty-one years** — four, two, eleven and four, with a year and a half on a line of its own that is not added, two people in a column as not known and not asked, and one frame that took nothing — **and it is a floor and not a total. It was recited as a list once in the whole volume, in Chapter 172, and that was the last time.**
+- **The train on the siding: four hundred and thirteen days on the last day of Volume 04.**
+- **The board outside the room has carried the twenty-fourth of December for ninety-seven days and has not been washed**, it has four dates on it and no fifth, and the seventh line at the ninth place is ruled and empty. The board-day convention the volume fixed is 7 + 31 + 28 + the day of the third month.
+- **Six refusals with no reason a clerk of a house has given in this district's business.** Six are six and are not a column and are not added to the thirteen.
+- **The unentered days since the twenty-fourth of November stand at one hundred and twenty-seven on the thirty-first of the third month**, on the convention that the count is the days after the twenty-fourth of November up to and including the day named. **The next figure is 96 plus the day of the fourth month, and it must be derived and not carried.**
+- **A tank within a hand's breadth of the lip, the first time since the first of the second month, with the crack still in it and still weeping, and no fifth mend.**
+- **Eleven days in a fifth page in a building four miles down a lane, under a column about a finger wide, with no heading at all.** A day written in a space in a page in a building is still not a seventh instrument.
+- **A court of five sheets, nine hands, three readings at a counter, entered by a clerk of the ward market, which may write a thing down and may not take a year off a person and may not give one back, and which cannot send for anybody.**
+- **A pool of tolls in which a toll is one yoke-load on a day a route keeper names, and a yoke-load is a job and not a figure and is not on any page.**
+
+### The counts that did not move in this block and that a Volume 05 writer may not move
+
+**Things this district does not have: five**, being a way of saying what a toll lands on a place, a column that is a place, an office, a station with nobody at it, and a way to pay a person who is not in a household. **The toll is the fifth of them, and it was named out loud in Chapter 199 by the woman who keeps the scale and the count did not move.**
+
+**Instruments this district has built and not named: six**, being a rehearsal, a platform, a rail, a correction, a question and a security. **Batch 0005 built no instrument and refused four new candidates on the page: a list of five on the back of a page, a pool of tolls, a court of five sheets, and a page in a drawer with a hand on it.**
+
+**Documents nobody owns: three**, and no fourth was made in this block. A stub a person is holding is a document somebody owns and is not a fourth.
+
+**Protected things: five**, being a passage twice, a loss once, a failure of a remedy once and a refusal to be asked again once. **No sixth was added in this block and none may be added in the next.**
+
+**Conditions with no end on it: four.** A different class of thing and never to be entered in the protected tally.
+
+**Refusals to join two things: thirteen. The registrar's own count: twelve.** Neither moved on any day from the twenty-fourth to the thirty-first of the third month that this block reaches.
+
+**Refusals to read: nine**, unchanged. The departure is unspent. There is still no date in the ledger for the next reading. **The fourth line of the offer is not read out anywhere in Volume 04, and in Chapter 200 it is named as not before the court and the man of fifty-six refused and gave no reason and was not asked for one.** Ivo Stenn's separate sheet is nineteen words as called and twenty as printed, both figures are canon, and neither was repaired.
+
+**Boards: five. Lines full: six. A seventh ruled and empty.** Nobody wrote on a board in Chapters 181 to 200 and the count of uses of a board did not move in this volume.
+
+**The count of the second half said before being asked: no ordinal is used anywhere in Volume 04**, and it is referred to as a count that has not been looked at since the twenty-ninth of December. The five printed figures from Batches 0001 and 0002 do not reconcile and reconciling or striking the ordinal is a review decision and not a writer's.
+
+**The count of entries carrying a finding in them since the eighteenth of December: no total is asserted anywhere in Volume 04**, and it was entered once in Chapter 200 as not stated and not looked at.
+
+**Not-askings about the woman of forty-five: she was not named, not asked and not referred to in any of Volume 04's fifty chapters, and the count was not touched or quoted.**
+
+### The two things this block leaves a Volume 05 writer holding
+
+**A pool of tolls with a man at the back of the book, and a fracture between him and the registrar of this district's records office that is not resolved.** She said in fifty words in a yard on the thirtieth of the third month that he knew it when he asked her for the book and did not say it. He said in twenty-six words that he knew it, did not say it, and was not going to stand in a room and tell her that makes it a different thing. **A fracture is not a resolution and a Volume 05 writer must not read the fracture as one.**
+
+**A page in a drawer in a building with a door on it, with a man's hand on it, that a house has already read.**
+
+### What this block did not do
+
+**It did not answer the next question.** The vanished city's current lease renewal and its leaseholder, Cael Orin, are not touched, not referred to and not foreshadowed. **It did not resolve the romance, Iven, the blank lot's function, the origin of the Common Measure, the office, or the three unexplained things of Volume 01. It did not name a place on any document, it did not promote Nera Voss from a house to a person, it did not add a tenth refusal to read, and it did not cross into the first of April.**
+
+### Corrections carried by the Volume 04 Batch 0005 writer phase
+
+**The prose was repaired in place. No chapter was restarted, no scene was removed, no beat was moved and no count was added or struck.**
+
+- **Thirty-seven false word-count figures in Chapters 191 to 197 were repaired**, and every one of the block's sixty-two word-count claims now reproduces. The detector's number table was run past sixty, it was proved against a planted false figure before the block was saved, and the sweep was run twice and read both times. **Two claims survive the sweep by hand: Chapter 192's forty-eight words is a verified back-reference to the printed speech in Chapter 183, which is exactly forty-eight words; and Chapter 200's twenty-nine words is the carried canon figure on the face of the third form of the withdrawal notice, which is printed in Chapter 196's list of the five and in Volume 03.**
+- **A weekday name in Chapter 191 and two relative months inside quoted documents in Chapter 197 were repaired.** A search for the seven weekday names across Chapters 191 to 200 now returns zero, and a search for *this month*, *last month*, *next month* and *the month before last* returns zero inside any quoted block.
+- **Four date figures were repaired:** Chapter 193's board figure eighty to eighty-two, Chapter 194's board figure eighty-three to eighty-four, Chapter 194's train figure three hundred and ninety-nine to four hundred, and Chapter 200's board figure a hundred and twenty-eight to ninety-seven. **All four were checked against 383 on the first of the third month and against the board convention of 7 + 31 + 28 + the day of the third month, and all four now reproduce.**
+- **Two meta words in Chapter 200 were repaired** — *volume* and *block* — and a case-insensitive search for the four words outside a title line now returns zero.
+- **Thirty-one cross-chapter verbatim runs of twenty-five words or more were varied in the prose, the longest fifty-one, and the block now has none.** The first occurrence of each register formula was kept and the later ones varied. **Two exact-duplicate paragraphs were reworded in the later chapter.** The duplicate-paragraph scan over all two hundred chapters returns fourteen groups at twenty-five words and twenty at fifteen, and **none of the thirty-four involves Chapters 191 to 200.**
+- **The connective family of the register's stock forms was brought down from 117 to 98** by twenty-five substitutions in Chapters 199 and 200, using Batch 0004's own canon carriers, and *did not move* was cut to zero in all three of the chapters written after the checkpoint.
+- **The prompt's own formula for the next unentered-days figure is wrong and was not inherited.** The prompt gives six plus thirty-one plus thirty-one plus thirty-one; **February has twenty-eight days, so the tail is 6 + 31 + 31 + 28 = 96, and the figure is 96 plus the day.** It is one hundred and twenty on the twenty-fourth of the third month and one hundred and twenty-seven on the thirty-first.
+
+### One count error found outside this block, disclosed and not repaired
+
+**Chapter 163, in Volume 04 Batch 0001, says at line 109 that "this district has five instruments it has built and not named." The canon count is six** — a rehearsal, a platform, a rail, a correction, a question and a security — **and the count of six is carried in the Batch 0001 record, in the Batch 0001 canon card, in this file and in `outline/batches/volume-04-batch-0005.md`.** **Chapter 163 is canon prose in a closed and reviewed block and this writer phase did not edit it, on the same principle that Chapter 169's all-caps restatement saying forty where the canon says forty-one is left in place and pointed at rather than silently rewritten. A Volume 05 writer must not inherit "five instruments" from Chapter 163: the count is six.** The repair belongs to the volume-close phase or to a review of Batch 0001, and both should say which.

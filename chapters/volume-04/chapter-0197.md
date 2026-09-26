@@ -4,13 +4,13 @@
 
 The man of about thirty at the counter came down the eleven mile road for the eighth time in eight weeks and he came on the twenty-third of the third month at about half past ten in the morning, and a clerk of nineteen years entered that he came and that nobody sent for him.
 
-He put a second sheet on the trestle table in the yard of Lot Seventeen face up and a clerk of nineteen years read it out because a sheet is read out, and it took her about a minute and nobody interrupted her.
+A second sheet was put on the trestle table in the yard of Lot Seventeen with its face upward, and a clerk of nineteen years read it, because that is what is done with a sheet, and nobody in that yard interrupted her.
 
-> **THE CLAIM NAMED IN THE THIRD OF THE FOUR PRINTED THINGS IS CALLED IN ON THE TWENTY-FOURTH OF THIS MONTH IN RESPECT OF ANY HOUSEHOLD AT THE SLUICE END OF THE LOAMS.**
+> **THE CLAIM NAMED IN THE THIRD OF THE FOUR PRINTED THINGS IS CALLED IN ON THE TWENTY-FOURTH OF THE THIRD MONTH IN RESPECT OF ANY HOUSEHOLD AT THE SLUICE END OF THE LOAMS.**
 >
 > **THE REASON GIVEN IS A CHANGE IN THE WATER NAMED IN THE ROTA AND THE HOUSE SAYS THAT THE WATER IN THE ROTA HAS NOT BEEN WHERE THE ROTA NAMED IT.**
 
-A man of about thirty-four who digs loam said the whole of the answer to that before anybody asked him for it, and a man of about nineteen counted it and got twenty-nine, and it went in the minute in his own words.
+A man of about thirty-four who digs loam said the whole of the answer to that before anybody asked him for it, and a man of about nineteen counted it and got thirty-six, and it went in the minute in its own words.
 
 "**The water in the rota went where a sluice on a farm sent it, and a man opened that sluice on the night of the thirteenth on his own account and told nine people about it.**"
 
@@ -44,7 +44,7 @@ A man of about thirty-four who digs loam said that he has now asked in four yard
 
 ---
 
-Then the arithmetic, and it was done in a yard at about one in the afternoon and the man of fifty-six would not do it and said so in one sentence of his own that a man of about nineteen counted and got twenty-four.
+Then the arithmetic, and it was done in a yard at about one in the afternoon and the man of fifty-six would not do it and said so in one sentence of his own that a man of about nineteen counted and got thirty-nine.
 
 "**I am not doing that sum. He put his name at the back of a book on the nineteenth and he has not asked me what happens to it and I am not going to hand it to him.**"
 
@@ -72,7 +72,7 @@ They asked her at about three in the afternoon and it was the man of fifty-six w
 
 The woman of fifty-eight who carries water and does not read figures was at the top of the hill at about three and had her yoke on her shoulder when he came up, and a man of about thirty-four who mends fencing had said in the second month that nobody in that yard was going to ask her a second time about anything.
 
-He said the question out loud and in the six things and in front of about nine people, and she said the answer before he had finished it, and a man of about nineteen counted it and got eighteen.
+He said the question out loud and in the six things and in front of about nine people, and she said the answer before he had finished it, and a man of about nineteen counted it and got ten.
 
 "**No. I will not stop. Ask me on the day.**"
 
@@ -80,7 +80,7 @@ Nobody in that yard said anything about it for a moment. A man of fifty-six said
 
 A clerk of nineteen years entered that she was asked once on the twenty-third of the third month and answered once and that nobody put a second thing to her, **and that the record says asked and answered and not asked why, and that a man who asks a question in the six things in front of nine people is a man who has asked it in public and that is a different act from asking.**
 
-The man of about thirty-four who digs loam said the other half of it in the ordinary voice of a man saying a thing he does not want to say, and a clerk of nineteen years entered that he said the second half before the asking and that she is not going to put a number on it.
+The man of about thirty-four who digs loam said the other half of it in the ordinary voice of a man saying a thing he does not want to say, and a clerk of nineteen years entered that the second half of it came out in front of the question and that she is not going to put a number on how many times that has happened.
 
 "**A sluice goes up at six in the morning and if the water comes there is nobody going up that hill in April, and she has just been asked whether she wants to stop and she has said no, and both of those are true and one of them is going to happen.**"
 
@@ -90,7 +90,7 @@ A clerk of nineteen years entered that the count of things this district does no
 
 Then the sheet, and the man of fifty-six wrote it out and a clerk of nineteen years read it out and he had not been asked to write it and she entered that he was not asked and that she is not going to ask him why he did it in a wet afternoon.
 
-> **A WATER ROUTE FOR THE SLUICE END. THE TWENTY-FOURTH AND THE TWENTY-SIXTH OF THIS MONTH AND AFTER THAT ON THE DAYS A ROUTE KEEPER NAMES.**
+> **A WATER ROUTE FOR THE SLUICE END. THE TWENTY-FOURTH AND THE TWENTY-SIXTH OF THE THIRD MONTH AND AFTER THAT ON THE DAYS A ROUTE KEEPER NAMES.**
 >
 > **THE SLUICE IS OPENED AT SIX IN THE MORNING AND SHUT AT SIX IN THE EVENING BY THE MAN WHO PUTS HIS SHOULDER UNDER IT AND BY NOBODY ELSE.**
 >
@@ -104,7 +104,7 @@ Then the sheet, and the man of fifty-six wrote it out and a clerk of nineteen ye
 >
 > **IF THE WATER DOES NOT COME, THIS SHEET DOES NOT SAY WHAT ANYBODY OWES ANYBODY, AND THE REASON IS THAT NOBODY HAS ESTABLISHED IT.**
 
-A man of about thirty-four who mends fencing asked who was going to be the person at the back of a public book, and a clerk of nineteen years said that the man the figure of twenty-one years is against said on the nineteenth that he was going to stand behind a route and that nothing has been said since, **and that a sheet with the name left off it is a sheet with the whole of it left off it and that is a hole and not a term.**
+A man of about thirty-four who mends fencing asked who was going to be the person at the back of a public book, and a clerk of nineteen years said that on the nineteenth the man the figure of twenty-one years is against undertook to stand behind a route and that nothing has come of it since, **and that a sheet with the name left off it is a sheet with the whole of it left off it and that is a hole and not a term.**
 
 A man of fifty-six said that the seventh of the seven lines is a hole and that this is the first thing this district has ever written on the face of a document instead of underneath it, **and that a document which says what it does not know is honest and a document which says what it will not say is a door, and that this district found that out on the twenty-seventh of December and has not written one since.**
 
@@ -116,7 +116,7 @@ A clerk of nineteen years entered that a sheet is not an instrument and is not a
 
 ---
 
-They went out to the farm at about five in the morning on the twenty-fourth of the third month and the party was the man the figure of twenty-one years is against, a man of fifty-six, a clerk of nineteen years, the man of about thirty-four who digs loam, the man of about thirty-four who mends fencing and the man of about thirty-one who mends a dray, and there was no road book and nothing was entered on the way and all of them said so.
+They went out to the farm at about five in the morning on the twenty-fourth of the third month and six of them went: the man the figure of twenty-one years is against, a man of fifty-six, a clerk of nineteen years, the man who digs loam, the fencing man, and the man of about thirty-one who mends a dray, and there was no road book and nothing was entered on the way and all of them said so.
 
 The lane is not metalled for about sixty yards and the last part of it goes to mud about a foot deep and it had been raining since about two, and the man of about thirty-four who digs loam went in first with a bar and a lamp and the chain was off the gate and the gate was open again.
 
@@ -124,7 +124,7 @@ The other half of the twenty-third was at the brick building and nobody in this 
 
 The man of about twenty and the woman of about forty-one were in that yard for about three hours out of the wet and the man of about twenty-nine and the woman of about twenty-six and the three others were not, and a clerk of nineteen years entered that nobody asked either household about the other three hours and that she is not going to ask.
 
-A man of about thirty-four who mends fencing asked her, in the six things, why the yard and not the building, and she said it in one sentence that a man of about nineteen counted and got twenty-four.
+A man of about thirty-four who mends fencing asked her, in the six things, why the yard and not the building, and she said it in one sentence that a man of about nineteen counted and got twenty-nine.
 
 "**There is no claim on a yard and there is a claim on a place, and I am not going to be the one who gives them a place.**"
 
@@ -134,9 +134,9 @@ A clerk of nineteen years entered that the woman of about thirty-eight was not a
 
 A man of about fifty-six said that a gate with a new chain on it and the chain off is two facts about a gate and is not a fact about a person, **and that the man who walks the field about twice a month has not been seen and was not seen this morning and that nobody is going to keep saying his name.**
 
-A man of about thirty-four who mends fencing asked whether anybody was going to be at the sluice who was not going to be standing at it, and Tarin Kest said that he was going to be standing at it and that he was not going to be asked to be anything else, **and that a route keeper who keeps a road is not a bearer of the road and was not asked to be one and is not going to be asked to be one and that he has said that in three yards now.**
+A man of about thirty-four who mends fencing asked whether anybody was going to be at the sluice who was not going to be standing at it, and Tarin Kest said that he was going to be standing at it and that he was not going to be asked to be anything else, **and that a route keeper is nobody's stand-in on a road and was never asked to be one and would refuse the asking, and that he has now said so in three yards.**
 
-The man of about thirty-one said his half of it at the sluice lip with his hands in his pockets and did not go past the post, and a man of about nineteen counted it and got twenty-six.
+The man of about thirty-one said his half of it at the sluice lip with his hands in his pockets and did not go past the post, and a man of about nineteen counted it and got thirty-seven.
 
 "**I am here because I asked to be read out and not because I was asked to be here. I am going to stand at this post and I am not going to be asked to move.**"
 

@@ -14,7 +14,7 @@ The house is four rooms and there is a stove in the front one and about eleven i
 
 A man of about fifty-six said that the legal owner of that farm has not been at the crossing in about four years and that the man of about forty-three who buys standing seed-crop offered two thousand four hundred coppers and a cart of meal for the standing crop and the sluice on the twenty-ninth of December and went west on the thirtieth and has not come back, **and that nobody has sent for him and the not-sending is entered and the count is where it was.**
 
-A man of about thirty-four who mends fencing asked whether anybody was going to send for him now, and a man of fifty-six said that they were not, and gave the reason in a sentence that is in the minute in his own words, and a man of about nineteen counted it and got thirty.
+A man of about thirty-four who mends fencing asked whether anybody was going to send for him now, and a man of fifty-six said that they were not, and gave the reason in a sentence that is in the minute in his own words, and a man of about nineteen counted it and got forty.
 
 "**He has a price and a date and he has had them since the twenty-ninth of December and he has not come, and a man with a price and a date does not need a yard to send for him.**"
 
@@ -26,7 +26,7 @@ The four fields are sown and the loam is about a foot deep in the wet, and they 
 
 He said that the sluice will put about nine days into the tank at the back of the building at the top of the lane in about nine hours, and that the fourth of the nine holdings is the top field of this farm and has not taken a drop since the first of the second month, **and that a figure of nine days and a figure of nine hours are two figures about two pieces of water and are not a sum and have never been added.**
 
-A man of about thirty-four who mends fencing asked the man of fifty-six whether the district was going to open it again, and a man of fifty-six said that the district is not going to open anything, and then said the other half of it, and a clerk of nineteen years entered that the second half came out ahead of the asking and that she is not going to put a number on it.
+A man of about thirty-four who mends fencing asked the man of fifty-six whether the district was going to open it again, and a man of fifty-six said that the district is not going to open anything, and then said the other half of it, and a clerk of nineteen years entered that the second half arrived before the asking and that she is not going to put a number on the order of the two.
 
 "**A man opened it at night and did it on his own account and he has told us about nine times since and I am not going to be the man who turns that into a decision. A decision is a thing with a man in the room who did not want it.**"
 
@@ -34,7 +34,7 @@ Nobody took that up. A man of about thirty-four who digs loam said that the dist
 
 Then the coops, and they were at the sluice end of the loams by about eleven in the morning, and there were about fourteen people at the scale, and the woman of about thirty-six who keeps a scale there and has stood at it nine years weighed two sacks of seed and put them on a barrow and did not read the paper that came with them.
 
-A man of about thirty-four who mends fencing asked her, in the six things, what the district should be asking a coop about, and she said the answer before he had finished the question and a clerk of nineteen years entered that the second half came out ahead of the asking and that she is not going to put a number on it.
+A man of about thirty-four who mends fencing asked her, in the six things, what the district should be asking a coop about, and she said the answer before he had finished the question and a clerk of nineteen years entered it in the order it was said and that she is not going to put a number on the order.
 
 "**Ask us what we will not put up with. That is what a coop is for. You have never once asked us that and you have asked us what we weigh.**"
 
@@ -62,13 +62,13 @@ A man of fifty-six said that the man who digs loam has now said the second half 
 
 It was not contradicted. Tarin Kest said that he was not going to say the figure in a yard on the nineteenth of the third month and that he said on the second of the third month that he had never said he would say it after, **and that he has said a schedule out loud twice today and that a schedule is not a figure and a figure is not a schedule and the two of them are not joined and the two of them have never been joined in this district.**
 
-Nobody took that up. A man of about thirty-four who mends fencing asked him whether he was a bearer of the road, and Tarin Kest said no in about two seconds and gave the reason in eight words that a man of about nineteen counted and got eight.
+Nobody took that up. A man of about thirty-four who mends fencing asked him whether he was a bearer of the road, and Tarin Kest said no in about two seconds and gave the reason in thirteen words that a man of about nineteen counted and got thirteen.
 
 "**I keep it. I do not stand in it. Nobody asked me to.**"
 
 A clerk of nineteen years entered that a route keeper is a Binder's counterparty and is not an apprentice and is not a bearer of the road and was not asked to be one and is not going to be asked to be one, **and that a man who keeps a road is not a party to what the road does and is not entered as one and is not going to be, and that two days and two dates are not a security and are not a bearer.**
 
-Then the man of about thirty-four who digs loam said the other half of it, and it was the plainest thing anybody said that day, and a man of about nineteen counted it and got forty-four.
+Then the man of about thirty-four who digs loam said the other half of it, and it was the plainest thing anybody said that day, and a man of about nineteen counted it and got fifty-two.
 
 "**A route keeper has given this district the only thing it has ever asked one for twice. He has given it a day to open and a day to shut and he has not given it a number, and a number is what we wanted and a day is what we needed.**"
 
@@ -86,7 +86,7 @@ Nobody said anything for about nine seconds. A man of about thirty-four who digs
 
 A man of fifty-six said that there are two people who can be held to a book in this district and that one of them is the man the figure of twenty-one years is against, **and that a man who is going to put his own name at the back of a book has not done the arithmetic about what happens to his name, and that I have watched him not do the arithmetic four times this month.**
 
-A man of about thirty-four who mends fencing asked what the arithmetic was, and a man of fifty-six said that he was not going to do it for him and that a man who cannot see a figure about himself is a man who is not going to be told one by anybody in this district, **and that a rule spoken out loud by the man it costs him is not a rule and is not written down and he would not have it written down.**
+A man of about thirty-four who mends fencing asked what the arithmetic was, and a man of fifty-six said that he was not going to do it for him and that a man who cannot see a figure about himself is a man who is not going to be told one by anybody in this district, **and that a thing said aloud by the man it takes from is a thing and not a standing order and is not going on a page anywhere.**
 
 Then the man of about thirty-four who digs loam said the last thing, and he said it standing up in the mud at the low corner of a field with a chain on a gate behind him, and a clerk of nineteen years entered that about fourteen people heard it and that she was not asked to write the arranging down as anything.
 
@@ -96,13 +96,13 @@ Then the man of about thirty-four who digs loam said the last thing, and he said
 
 ---
 
-The interval and the last of the day, and the man of fifty-six said it at about half past four in the afternoon by the gate and a clerk of nineteen years stood close enough to take it down.
+The interval and the last of the day, and the man of fifty-six put it into the air at about half past four in the afternoon by the gate, and a clerk of nineteen years had a hand near enough to catch it.
 
 "**The thirty-first of March is twelve days off this day and the first of April is thirteen, and the twenty-fourth is the day a man with a schedule says a sluice goes up, and there is no instrument in this district that can say whether it went up.**"
 
 A clerk of nineteen years entered that the count of unentered days since the twenty-fourth of November is a figure she keeps and does not read out and is not a column, **and that the board outside the room has carried the twenty-fourth of December for eighty-five days and that nobody wrote on it on the nineteenth of the third month, and that the count of boards is five and the count of lines is six and the seventh line at the ninth place is ruled and empty.**
 
-The woman of about thirty-six who keeps a scale was asked nothing on the way back and said one thing at the top of the lane that nobody asked her for, and a man of about nineteen counted it and got twenty-nine.
+The woman of about thirty-six who keeps a scale was asked nothing on the way back and said one thing at the top of the lane that nobody asked her for, and a man of about nineteen counted it and got twenty-six.
 
 "**You have still not asked me what a season weighs and I am going to keep wanting that until somebody tells me it cannot be done.**"
 

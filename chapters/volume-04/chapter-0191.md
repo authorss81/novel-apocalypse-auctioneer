@@ -6,11 +6,11 @@ He came up the bank at about seven in the morning on the eleventh of the third m
 
 The mark in charcoal on the board against the wall for the eleventh is a finger below the mark for the tenth, and the man of about fifty-five said the figure himself and asked nobody to check it, and a clerk of nineteen years entered that she was not asked to check it and is not going to ask him again.
 
-A man of about thirty-four who digs loam put his hand flat on the stone and said that it is cold all the way down and colder at the top than it was on Saturday, and that a tank with a cold top on a hill in the third month is a tank with a day and a half in it, **and that the number is a thing you find out with a hand and is not a rate and has nobody standing under it.**
+A man of about thirty-four who digs loam put his hand flat on the stone and said that it is cold all the way down and colder at the top than it was the day before, and that a tank with a cold top on a hill in the third month is a tank with a day and a half in it, **and that the number is a thing you find out with a hand and is not a rate and has nobody standing under it.**
 
 Nothing in the lane said anything about the figure for a moment. A man of fifty-six came down the bank afterwards and said that **a tank down to about a day and a half is a figure and not a term, and that the fourth holding of the nine on a sheet nailed in a shed eleven miles up a road has now not taken a drop of anything for a month and a half.**
 
-A clerk of nineteen years entered the two of those in one line and did not join them, **and entered that she has entered both of them in one line more than once and is not going to say how many times and that the number is not a column, and that a tank four miles down a lane and a holding eleven miles up a road are two pieces of water and are not one subject.**
+A clerk of nineteen years entered the two of those in one line and did not join them, **and entered that she has put both of them in one line more than once and is not going to say how many times, because the number is not a column and a number on it would make it one, and that a tank four miles down a lane and a holding eleven miles up a road are two pieces of water and are not one subject and never have been.**
 
 The man of about fifty-five said the other thing then, and he said it to the man of about thirty-four who digs loam and not to the lane, and a clerk of nineteen years entered that nobody asked him for it and that she is not going to ask him why he said it in a lane at seven in the morning.
 
@@ -18,7 +18,7 @@ The man of about fifty-five said the other thing then, and he said it to the man
 
 Nobody argued with that. A man of about fifty-six said that a man who has wanted a thing for nine years and has said it once in front of two people on a wet morning has done the whole of what this district is built out of, **and that what the district is built out of is a sentence said out loud in a room, and that a sentence said out loud is not a rule and is not written down and he would not have it written down.**
 
-The man who digs loam said the answer to it himself, and he said it before anybody asked him, and a man of about nineteen who walked in from the road counted it and got thirty-one.
+The man who digs loam said the answer to it himself, and he said it before anybody asked him, and a man of about nineteen who walked in from the road counted it and got thirty-four.
 
 "**There is no way for the water to come out of the ground by itself. There is a sluice four miles out past the loams and I can open it in about nine hours.**"
 
@@ -30,7 +30,7 @@ A clerk of nineteen years entered that the man of about fifty-five asked a man i
 
 Nobody took that up. The man who digs loam said that he would open it on the night of the thirteenth and shut it at about four in the morning, and that he would go alone, and that if anybody came out to the farm to watch him he would shut it and go home, **and that a man who opens a thing at night and shuts it at night is not a bearer of it in the morning and is not a keeper of it and is not a security and is not going into any of the three counts.**
 
-The man of about fifty-five said the rest of it, and he said it while he was putting the yoke back on its nail, and a man of about nineteen counted it and got forty-four.
+The man of about fifty-five said the rest of it, and he said it while he was putting the yoke back on its nail, and a man of about nineteen counted it and got thirty-two.
 
 "**You will do it and nobody will know and I will not thank you in front of anybody, and that is the arrangement and I am not going to improve on it.**"
 
@@ -82,7 +82,7 @@ The man who digs loam said that the man of fifty-six has now said that sentence 
 
 A clerk of nineteen years entered that nobody wrote on a board on the eleventh of the third month, and that the boards number five and the lines number six, **and that the seventh line at the ninth place is ruled and empty, and that a month is not a reason to put a fifth date on anything and she was not asked for one and did not offer.**
 
-The man of about thirty-four who mends fencing asked one question in the six things at about half past four in the afternoon, and nobody answered it, and it went into the minute with nobody's name against it, and it is in his own words and a man of about nineteen counted it and got twenty-nine.
+The man of about thirty-four who mends fencing asked one question in the six things at about half past four in the afternoon, and nobody answered it, and it went into the minute with nobody's name against it, and it is in his own words and a man of about nineteen counted it and got forty-two.
 
 "**The tank is at about a day and a half and a boy's name is in a column, and neither of them is on a board, and the board has four dates on it and the last one is a spent one.**"
 
@@ -100,7 +100,7 @@ He said that he has been keeping the building nine years and that in nine years 
 
 A clerk of nineteen years entered that she was not asked about it and that she is not going to ask him what a man wanted.
 
-A man of about twenty-three who sells nothing and copies for nothing came up the bank at about half past four with his hands empty and had not been sent for, and a clerk of nineteen years entered that he came and that nobody sent for him and that she is not going to ask him why he came.
+A man of about twenty-three who sells nothing and copies for nothing came up the bank at about half past four with his hands empty and had not been sent for, and a clerk of nineteen years entered that nobody sent him and that she is not going to ask him for his reason.
 
 He said that he has not been paid eleven coppers a week since the twenty-second of the second month and that he is not going to ask for it again in a yard, and that he wanted to say out loud that he is not going to stop asking for it anywhere, **and that a man who says he is not going to ask in a room is a man who has told the room where he is going to ask, and that he does not know where that is yet and neither does anybody else.**
 
@@ -110,7 +110,7 @@ Nothing was said against that. A man of about thirty-four who digs loam said tha
 
 A clerk of nineteen years entered that the eleven coppers were refused twice and that the second refusal has the same reason behind it as the first, **and that neither refusal was asked to be refused, and that a person who has not asked has not refused and cannot be counted either way and the record says asked and answered and not asked why.**
 
-The man of about thirty-four who digs loam said the other half of what the man of about fifty-five had wanted, and a man of about nineteen counted it and got thirty-eight, and it went in the minute in his own words.
+The man of about thirty-four who digs loam said the other half of what the man of about fifty-five had wanted, and a man of about nineteen counted it and got forty-eight, and it went in the minute in his own words.
 
 "**A man who keeps a building for nine years and asks nobody is not a man who does not need anybody. He is a man who has found out what asking costs, and the sluice is the first thing he has asked for that anybody can give him.**"
 

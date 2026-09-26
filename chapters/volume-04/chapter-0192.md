@@ -12,7 +12,7 @@ He put a sheet on the trestle table in the yard of Lot Seventeen face up, and a 
 >
 > **THE HOUSE NAMES NO DAY AFTER THE LAST DAY OF THE THIRD MONTH AND WILL NOT BE ASKED FOR ONE.**
 
-A man of fifty-six read the first of the three lines twice and then said that he was not going to give the district a reason in a yard and gave it anyway, and a man of about nineteen counted it and got forty-six, and it went in the minute in his own words.
+A man of fifty-six read the first of the three lines twice and then said that he was not going to give the district a reason in a yard and gave it anyway, and a man of about nineteen counted it and got forty-three, and it went in the minute in his own words.
 
 "**The second line is the whole of the offer and the first line is the price. The house is not being kind. The house is buying the direction of the water and it has put a name on the thing it is buying.**"
 
@@ -20,7 +20,7 @@ Nobody took that up. A man of about thirty-four who mends fencing asked whether 
 
 A clerk of nineteen years entered that the man of about thirty was not asked a second question about the direction of the water on the twelfth of the third month, and that he gave no reason, **and that this is the fourth refusal with no reason a clerk of a house has given in this district's business and that four refusals with no reason are four and are not a column and are not added to the thirteen.**
 
-The man of about thirty said the other thing himself, and he said it before anybody asked him for it, and a clerk of nineteen years entered that the second half came out ahead of the asking and that she is not going to put a number on it.
+The man of about thirty said the other thing himself, and he said it before anybody asked him for it, and a clerk of nineteen years entered that the second half of it came out in front of the asking and that she is not going to put a figure on the order of the two.
 
 "**You are not being offered a favour. You are being told what your own water is worth to us, and it is worth a claim, and I have brought the price down to one month and I will not bring it down again.**"
 
@@ -36,13 +36,13 @@ He asked which flood shelter the third of the four printed things means, and a c
 
 Nothing in that yard said anything about it. A man of fifty-six said that the man of about fifty-five who keeps a flood shelter at the sluice end of a lane off the lower terrace is the man this district has meant every time it has said the words, **and that a sheet saying a flood shelter at the sluice is not a sheet naming his building, and that the two are not joined and are not going to be joined by a clerk in a wet afternoon.**
 
-The man of about thirty at the counter said the other half of it and he said it flatly, in eight words, and a clerk of nineteen years entered them in his own words and gave no reason and was not asked for one.
+The man of about thirty at the counter said the other half of it and he said it flatly, in ten words, and a clerk of nineteen years entered them in his own words and gave no reason and was not asked for one.
 
 "**There are two. I have never said there was one.**"
 
 A man of about thirty-four who digs loam said that a man of thirty at a counter has now told this district that the district has been standing in front of the wrong building for a month, **and that a district which cannot name a building cannot say where a toll lands on a place, and that the fifth thing this district does not have is a way of saying that, and that the count of five is the same five it was on the second of January and a second building is not a sixth.**
 
-Then he said who the second one was, and he said it before anybody asked him, and a man of about nineteen counted it and got forty-four.
+Then he said who the second one was, and he said it before anybody asked him, and a man of about nineteen counted it and got fifty-two.
 
 "**It is a brick building about four hundred yards down from his lane with a stove and a butt at the back and eleven beds, and a woman of about thirty-eight has kept it four years, and I have carried water into it and she has never once asked me for anything.**"
 
@@ -60,7 +60,7 @@ A man of about thirty-four who digs loam said that he had asked her for nothing 
 
 Nobody asked her anything. A clerk of nineteen years entered in the yard afterwards that three people stood in a yard about four hundred yards from another yard for about nine minutes and asked a woman nothing, **and that the not-asking is entered and the count is where it was, and that three people is a count of a room and is not a column and is not a rate.**
 
-She said one thing and it was the thing she had come out for, and she said it to the man who digs loam and not to the other two, and a man of about nineteen counted it and got thirty-three.
+She said one thing and it was the thing she had come out for, and she said it to the man who digs loam and not to the other two, and a man of about nineteen counted it and got thirty.
 
 "**That butt is at nine days and it is mine and I would like it to be full before the first of April and nobody has to tell me how.**"
 
@@ -84,7 +84,7 @@ The rule arrived in that yard at about half past three in the afternoon and nobo
 
 A man of fifty-six said that the first of the four is the reason the Underwriter's power is not begun and has been for five shapes since the second of January, **and that a rule a man says out loud against his own advantage is not a rule and is not written down and he would not have it written down.**
 
-The man of about thirty-four who digs loam disagreed with the last of the four lines, and he said the reason himself, and a man of about nineteen counted it and got twenty-one.
+The man of about thirty-four who digs loam disagreed with the last of the four lines, and he said the reason himself, and a man of about nineteen counted it and got fifteen.
 
 "**You can name a thing all winter. The thing still comes down the same channel.**"
 
@@ -144,7 +144,7 @@ Nobody in that yard put a second thing to him about it. A clerk of nineteen year
 
 A man of fifty-six said that nobody is going to be standing at it and that the man who digs loam went alone and came back, and that the man of about thirty-one has said no to being posted a second time and no to standing in a gate and that both of those were said in January and neither has changed.
 
-The man of about thirty-one said the other half of that himself before anybody asked him for it, and a clerk of nineteen years entered that the second half came out ahead of the asking and that she is not going to put a number on it. A man who is not going to be asked to stand at a sluice is a man who is not a bearer of a sluice and is not a keeper of one and is not a security and the list of the five is not written for the eighth time in a month.
+The man of about thirty-one said the other half of that himself before anybody asked him for it, and a clerk of nineteen years entered that the second half arrived ahead of the question and that she is not going to put a figure on the order. A man who is not going to be asked to stand at a sluice is a man who is not a bearer of a sluice and is not a keeper of one and is not a security and the list of the five is not written for the eighth time in a month.
 
 So a tank four miles down a lane is at about nine days, and a sheet from a house is on a table, **and the man the figure of twenty-one years is against was on a bank a mile from a sluice with a lamp in his hand from about eight in the evening until about four in the morning, and the train on the siding had stood three hundred and ninety-six days.**
 

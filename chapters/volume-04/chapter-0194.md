@@ -4,11 +4,11 @@
 
 She found it at about seven in the morning on the seventeenth of the third month and she did not have to go into the building to find it, because the butt is against the back wall and the lid was off it and there was about a foot of water in the bottom of it and none of it was rain.
 
-A man of about thirty-four who digs loam was on the lane at about half past seven and he had not been sent for and a clerk of nineteen years entered that he came and that nobody sent for him and that she is not going to ask him why he came at that hour.
+A man of about thirty-four who digs loam was on the lane at about half past seven without being fetched, and a clerk of nineteen years entered that nobody sent him and that she is not going to ask him for his reason at that hour.
 
 He said that the channel four miles out past the loams is standing about two feet deep in about nine hundred yards of its length, and that a channel that has not carried water since the first of the second month is carrying it now, **and that nine hundred yards of standing water in a channel that goes past a butt is a backwash and that the word for it in this district is a word about a river and not about a thing anybody did.**
 
-The woman of about thirty-eight who keeps the brick building said the other half of it and she said it from the top of the steps with her hands wet, and a man of about nineteen counted it and got forty-one.
+The woman of about thirty-eight who keeps the brick building said the other half of it and she said it from the top of the steps with her hands wet, and a man of about nineteen counted it and got thirty-three.
 
 "**I have had a butt at nine days since the twelfth and it went out in one night, and I did not lose it in the night, it was here in the morning.**"
 
@@ -32,7 +32,7 @@ A clerk of nineteen years entered that about forty people are in that building a
 
 The man from the tram arch was in the yard of Lot Seventeen at about eleven in the morning on the seventeenth with a sheet and a box of nails and he was not sent for, and a clerk of nineteen years entered that he came and that nobody sent for him.
 
-A man of about thirty-four who mends fencing asked him how many sheets he had printed and he said seven, in two months and a half, and gave the two rates himself in a sentence that a man of about nineteen counted and got twenty-four.
+A man of about thirty-four who mends fencing asked him how many sheets he had printed and he said seven, in two months and a half, and gave the two rates himself in a sentence that a man of about nineteen counted and got twenty-three.
 
 "**Four coppers for a sheet about one thing and twelve for a sheet about two things, and this one is about two things.**"
 
@@ -52,7 +52,7 @@ Nobody said anything for a moment. A man of about thirty-four who digs loam said
 
 It was not contradicted. A man of fifty-six said that the sheet is accurate, and that every figure on it is right, and that the day named is the day named, **and that a sheet with no wrong figure on it is a sheet nobody in this district can call a lie, and that a district that can only answer a lie has already lost the argument about the truth.**
 
-Then the man of about thirty-four who mends fencing asked him, in the six things, in front of about nine people, whether anybody had checked the sheet, and he said no and gave the reason himself and a man of about nineteen counted it and got twenty-nine.
+Then the man of about thirty-four who mends fencing asked him, in the six things, in front of about nine people, whether anybody had checked the sheet, and he said no and gave the reason himself and a man of about nineteen counted it and got thirty.
 
 "**I have not checked it and I will not check it, and a man who prints what a house gives him does not get to say the house was wrong.**"
 
@@ -72,7 +72,7 @@ She denied them on the eighteenth of the third month at about eight in the morni
 
 The first household is five people and the man of them is about twenty-nine and the woman of them is about twenty-six, and the second household is a man of about twenty and a woman of about forty-one, and none of the four has a name in any book this district keeps and the four are not four addresses.
 
-A man of about thirty-four who mends fencing asked her, in the six things, in front of everybody, why, and she gave the reason and gave it before he had finished the question and a clerk of nineteen years entered that the second half came out ahead of the asking and that she is not going to put a number on it.
+A man of about thirty-four who mends fencing asked her, in the six things, in front of everybody, why, and she gave the reason and gave it before he had finished the question and a clerk of nineteen years entered that she wrote the second half down first and then the question, and that she is not going to put a number on it.
 
 "**That place is mine and it is the only place I have and it is the only place on that sheet, and if I let two households into it I have three claims on one place and a place with three claims on it is a place a house can take off me.**"
 
@@ -80,7 +80,7 @@ Nobody in that lane said the opposite. A man of fifty-six said that a person who
 
 A man of about thirty-four who digs loam asked whether anybody was going to tell the man of about twenty and the woman of about forty-one what the reason was, and a clerk of nineteen years said that she had said it in a lane in front of about fourteen people and that it is in the minute in her own words, **and that a reason said in a lane is a reason and is not a notice and is not a finding and is not a thing two households can act on this morning.**
 
-The man of about fifty-five who keeps the flood shelter came down his own lane at about half past eight and looked at the fourteen people and did not go to the brick gate, and a man of about thirty-four who mends fencing asked him whether he would take them in, and he said no in about two seconds and gave the reason himself and a man of about nineteen counted it and got twenty-two.
+The man of about fifty-five who keeps the flood shelter came down his own lane at about half past eight and looked at the fourteen people and did not go to the brick gate, and a man of about thirty-four who mends fencing asked him whether he would take them in, and he said no in about two seconds and gave the reason himself and a man of about nineteen counted it and got twenty-one.
 
 "**It is not my building and it is not my page and I have never turned anybody away in nine years.**"
 
@@ -102,7 +102,7 @@ The afternoon of the eighteenth was the sheet on the wall, and about nine people
 
 A man of about thirty-four who digs loam said that the sheet names a day the family's sheet does not and hands a place to a house without naming a family, and that those are two breaches and not one, **and that a person who has been told about a breach in a lane and cannot read is a person who has been told about a breach in a lane and has nothing in her hand to put in front of anybody else.**
 
-The man of about twenty-three who sells nothing and copies for nothing came down the lane at about ten in the morning with nothing in his hands and had not been sent for, and a clerk of nineteen years entered that he came and that nobody sent for him and that she was not asked why he came.
+The man of about twenty-three who sells nothing and copies for nothing came down the lane at about ten in the morning with nothing in his hands and had not been sent for, and a clerk of nineteen years entered that nobody sent him and that nobody in this district put a question to him about coming.
 
 He read the sheet on the wall out loud to the man of about twenty and the woman of about forty-one and to the man of about twenty-nine and the woman of about twenty-six, and he read it the way he reads out a document, which is one run of words with a stop at the end of each of them, and nobody interrupted him and the four of them did not stop him.
 
@@ -114,7 +114,7 @@ The man of about thirty-four who digs loam asked him whether he was going to kee
 
 A clerk of nineteen years entered that no second question was put to him and that the not-asking is entered and the count is where it was, **and that a man who will read a sheet out in a lane and will not write down what he read is a man doing the only kind of public work this district has, and is not paid for it and is not a keeper of it and the count of six did not move on the eighteenth of the third month.**
 
-Then he said the thing he had come for, to the four of them and not to the yard, and a man of about nineteen counted it and got thirty-nine.
+Then he said the thing he had come for, to the four of them and not to the yard, and a man of about nineteen counted it and got forty-six.
 
 "**The day at the bottom of it is the twenty-ninth of December. It is not on the sheet you were given. I have got no way to make them take it off and I am not going to stand here and tell you that I have.**"
 
@@ -126,14 +126,14 @@ A man of about thirty-four who digs loam said that a sheet at about four feet by
 
 A man of about thirty-four who mends fencing asked, in the six things, whether anybody was going to say any of this on a board, and a clerk of nineteen years said no in about two seconds and gave no reason, **and that a board is not an instrument and a sheet nailed to a wall is not a board, and that the fifth thing this district does not have is still the fifth and is not going to be named this morning.**
 
-A man of fifty-six gave the interval out loud at about half past four in the afternoon and a clerk of nineteen years stood close enough to write it down, and the sum went under the figure the way it always goes.
+The interval was said out loud at about half past four in the afternoon by a man of fifty-six, and a clerk of nineteen years had a pencil out by then, and the sum went under the figure the way it goes.
 
 "**The thirty-first of March is thirteen days off this day and the first of April is fourteen, and the day at the foot of the sheet on the wall is the twenty-ninth of December and was seventy-nine days ago.**"
 
-A clerk of nineteen years entered that nobody wrote on a board on the seventeenth or the eighteenth of the third month, and that the board outside the room has carried the twenty-fourth of December for eighty-three days, **and that the boards number five and the lines number six and the seventh line at the ninth place is ruled and empty, and that a sheet nailed to a wall is not a board and the count of five did not move.**
+A clerk of nineteen years entered that nobody wrote on a board on the seventeenth or the eighteenth of the third month, and that the board outside the room has carried the twenty-fourth of December for eighty-four days, **and that five boards and six full lines are what this district has, and that the seventh line at the ninth place is ruled and empty, and that a sheet nailed to a wall is not a board and the count of five did not move.**
 
 The man the figure of twenty-one years is against looked at the sheet for about nine seconds and then said that he was not going to read it out in a yard and that there is no version of this district in which he does, **and that a man who has read a sheet out four times in a month has not become a clerk and is not going to be one, and the refusals to read are nine and were nine this morning.**
 
 The man of about twenty-nine in the first of the two households was still in the lane at about five in the afternoon and nobody spoke to him, and a clerk of nineteen years entered that nobody spoke to him and that the not-asking is entered and the count is where it was, **and that a household which has been denied a place and is standing in a lane at five in the afternoon is a household which has not been asked anything and has not refused anything and cannot be counted either way.**
 
-**AND ON THE EIGHTEENTH OF THE THIRD MONTH THE THIRTY-FIRST OF MARCH IS THIRTEEN DAYS AWAY AND THE DAY AT THE FOOT OF A SHEET NAILLED TO A WALL IS THE TWENTY-NINTH OF DECEMBER, AND TWO HOUSEHOLDS ARE STILL IN A LANE, AND THE TRAIN ON THE SIDING HAD STOOD THREE HUNDRED AND NINETY-NINE DAYS.**
+**AND ON THE EIGHTEENTH OF THE THIRD MONTH THE THIRTY-FIRST OF MARCH IS THIRTEEN DAYS AWAY AND THE DAY AT THE FOOT OF A SHEET NAILLED TO A WALL IS THE TWENTY-NINTH OF DECEMBER, AND TWO HOUSEHOLDS ARE STILL IN A LANE, AND THE TRAIN ON THE SIDING HAD STOOD FOUR HUNDRED DAYS.**
