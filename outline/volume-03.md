@@ -90,9 +90,13 @@ The memory ledger is built: what a loom takes, from whom, in what year, in a col
 
 The crop survives. The Salt Loom charter closes with rotating workers, a visible ledger, and a withdrawal right, and the closing is done by people who are not Adrian and entered by people who are not Adrian. **Alder Reach and the Salt Verge sign a food agreement and the agreement is witnessed by two people who will be somewhere else when the reason is read out.** The instrument that says what a toll lands on a place gets used four times in anger in the last ten chapters and still has no name and no owner. **Nera Voss's ledger shows the same memory tolls in a city that is not on any map this basin has.**
 
-## Midpoint reversal — Chapters 121–126
+## Midpoint reversal — written in Chapters 117–118, not 121–126
+
+**This beat was allocated to Chapters 121 to 126 and it was spent early, in Chapters 117 and 118, because the Batch 0002 phase prompt is the later and the narrower instruction and it placed the attempt to buy a loom and the refusal inside the 111-to-120 block. The prose is canon and the chapter numbers in the heading above are corrected to say where the beat is, not to move it.** Nothing about the reversal is deferred and nothing about it is to be written a second time in 121 to 130.
 
 Adrian attempts to buy a loom outright — a single purchaser, a single price, a single security, his own signature at the bottom — **and the worker who bears the memory refuses, and is right, and the refusal is not about the price.** An item's price cannot separate the person whose body makes it work. Everything the district has built for nine weeks assumes a place can be charged and a person can be asked, and this object requires both at once and offers neither.
+
+**What Chapters 121 to 130 inherit from the 121-to-130 block above, and it is the part of that block this reversal did not spend:** the first channel to fail, a food convoy choosing between a public loom and a private one, the aggregate unpaid toll as one number against Adrian's name, a worker council forming out of four things a loom-worker wrote down and would not sign, Nera Voss's first agent, and the romance moving one sentence without resolving.
 
 ## Volume climax — Chapters 146–150
 

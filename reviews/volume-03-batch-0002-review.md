@@ -26,7 +26,7 @@ Every one is now a figure that reproduces under a stated method, and every super
 | Chapter 115 against the band | a hundred and seventy-three over | **inside the band at 4,415** |
 | Emphasis, Chapters 114 / 117 / 118 | 36.4 / 45.7 / 46.6 | 38.0 / 46.9 / 46.4 |
 | Literal-shape nesting detector | fourteen | **three**, all named |
-| Quoted blocks | twenty-one in twenty-one blocks | **nineteen in nineteen paragraphs**, holding twenty-three `>` lines |
+| Quoted blocks | twenty-one in twenty-one blocks | **nineteen in nineteen paragraphs**, holding twenty-seven `>` lines |
 | Paragraph shape | 318 of 353, ninety point one | **317 of 351, ninety point three** |
 | Other two denominators | 586 of 711; 540 of 665 | **574 of 698; 528 of 652** |
 | Longest single-sentence narration | 122 in Chapter 116 | **122, a tie in Chapters 116 and 118** |
@@ -60,3 +60,19 @@ Every one is now a figure that reproduces under a stated method, and every super
 ## Belongs to the pipeline owner, not the writer
 
 `state/phase-ledger.json` is controller-owned by Actions and is not a writer file, so it still reads `phase-000-bootstrap` / `planned` / `attempts 0` after 120 chapters. Treat that as a pipeline gap rather than as story state.
+
+## Fix pass — a third audit, and what it found
+
+Run after the second audit above, as a writer phase, over the ten files and the four state files that carried the flags. **No chapter was edited and no plot beat was moved. Every measurement that bears on the prose reproduces, and the longest single-sentence narration paragraph in the batch is still 122 words, a tie in Chapters 116 and 118.** The prose needed nothing.
+
+**What this pass found is that four claims in the flags were still not checkable as written, which is the same failure the second audit found and it had survived the correction because the correction was applied to the numbers and not to the sentences around them.**
+
+- **The `>` line count was four short, and the cause is the kind of mistake worth naming once.** The line said the nineteen blocks hold twenty-three `>` lines, seventeen of them single-line blocks and two runs, and then described the runs as *a two-line block in Chapter 112 and the four-line panel in Chapter 116*. **Chapter 112's run is three lines and Chapter 116's is seven, of which four are the panel, so a panel was counted as a block and a third line went missing in the same sentence.** The nineteen blocks hold **twenty-seven** `>` lines. Corrected in the summary, in `state/continuity.md`, in the canon card and in the Batch 0003 prompt.
+- **The two false positives of the day-of-month search were named wrongly.** A search for a one- or two-digit number not followed by *of* returns zero hits, and what it flags is **Lot 17** in Chapter 117, once in the terms and once in the security. The line named *the third channel* in Chapters 117 and 119 and *the seventh of the seven* in Chapter 119 and then called them "two flags" while naming three. Those three belong to a **different** search — an ordinal word not followed by *of* and a month — and both searches are now stated with what each raises, and the total is five names, none of which is a day of a month.
+- **The list of days inside a quoted block was not the list.** The line said *every* day inside a quoted block carries its month and then named five of them, in Chapters 117 and 119. Days also sit inside quoted blocks in Chapters 111, 112, 113, 114 and 120, and Chapter 119's own fifteenth of September was missing from the chapter it named. **The headline claim held; the evidence under it did not.** The whole list is now in the batch summary, in `state/continuity.md` and in the canon card.
+- ***This month* was carried as eleven and is twelve.** *Last month* at eleven is right. The count is 1 + 1 + 8 + 1 + 0 + 0 + 0 + 0 + 1 + 0 by chapter, and all twelve are in prose and none is in a quoted block, which is the register the line describes.
+- **The case-insensitive *about* figure of 278 was doing a job the sentence did not describe.** 278 is the case-insensitive count of the word *about* standing alone; 241 is *about* followed by a word, and the case-insensitive form of **that** measure is 272. Two different measures were sharing one sentence, which is how the earlier figure came to be out by eighty in the first place. **All four are now named as 241, 272, 247 and 278, in all four files, so a check runs the one it means.** The yard counts are also now marked as counted without regard to case, since *In the yard* with a capital returns nothing and the eight is a case-insensitive figure.
+
+**The one outstanding request in this review is now done.** `outline/volume-03.md` had the midpoint reversal at Chapters 121 to 126, and the batch spent it in Chapters 117 and 118. The heading now says where the beat is, a paragraph records that the prose is canon and the correction moves nothing, and the unspent part of the 121-to-130 block is listed: the first channel to fail, the food convoy's choice, the aggregate unpaid toll as one number against Adrian's name, the worker council out of four unsigned things, and Nera Voss's first agent.
+
+**Left alone on purpose.** `state/phase-ledger.json` is controller-owned. The ten odd paragraphs in Volume 01 are carried and canon. The *forged* consent in `outline/series.md` and `outline/volume-03.md` is corrected by a later outline pass and not here, as this review says it should be — **though it is worth naming that the two lines are now the only places in the repository that describe a forging, and the twenty chapters of prose say four people were asked, four answered, and one of the four was in another town.**
