@@ -18,7 +18,7 @@ He wrote two things on it, and **the second of them is the reason the sheet is n
 
 Nobody at the ninth mile could read it, and the man of thirty-four who mends fencing read it out in the ordinary voice, twice, because the rule of a counter is that a document goes out twice, and the second time he read it slower and stopped at the second sheet and asked the cart driver whether the man of fifty-six had said that out loud or whether the cart driver had heard him, and the cart driver said he had not been on the flat, he had been on the road, and the man of thirty-four said the sentence out loud again anyway.
 
-The back of the sheet was a mason of about fifty, and he had come out for loam and did not find any, and he walked to the cut because a mason cannot help it, and what he said there is in the party's minute in his own words and it is nineteen words long.
+The back of the sheet was a mason of about fifty, and he had come out for loam and did not find any, and he walked to the cut because a mason cannot help it, and what he said there is in the party's minute in his own words, and the clerk counted it twice and got nineteen both times.
 
 "**The sill is a foot of loam laid by a man who is dead, and your flood year put nine feet of river over the whole flat in one season, and a foot of loam does not come back.**"
 
@@ -62,9 +62,9 @@ The salt man did not go, and gave the reason in nine words, and it is in the min
 
 "**My two pans are under four feet of river and have been since the flood year, and I have not got a cart free before the twelfth of October.**"
 
-And the man of thirty-eight said the thing he had come to say about his own figure, and he said it standing at the tail-board with the sheet on the stake behind him, and it is in the minute in his own words and it is twenty-nine words long.
+And the man of thirty-eight said the thing he had come to say about his own figure, and he said it standing at the tail-board with the sheet on the stake behind him, and it is in the minute in his own words, and the clerk wrote the number of it in the margin because the clerk counts.
 
-"**I am holding a hundred and eighty-three coppers that nobody is owed until the thirtieth of this month, and I am not going to spend nine days of it on a cart that is going to look at numbers that are not mine.**"
+"**I am holding a hundred and eighty-three coppers that nobody is owed until the thirtieth of this month, and I am not going to set nine days of a cart on looking at numbers that are not mine.**"
 
 Nobody argued with that, and a man of thirty-four who mends fencing said afterwards that the finding of the twenty-second of September is that **the party of nine is going east for the first time without the man who has spent nine weeks pricing everything in front of him, and that this is a thing that has happened to him and not a thing he did.**
 

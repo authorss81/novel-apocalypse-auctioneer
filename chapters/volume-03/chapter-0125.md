@@ -138,7 +138,7 @@ A man of fifty-six who is a secretary of a cooperative of nine households said t
 
 He said that this district has now sent two parties east in a month and the man who started the first one was not on the second one, and that nobody had told him that, and that it was going to be told to him on the twelfth of October by a person who was not him.
 
-The man of thirty-eight said the last thing of the second of October to nineteen people and it is in the minute in his own words and it is forty-nine words long, and he said it before he knew there was going to be a rule in the room, and the clerk entered the order in which the two happened because the clerk is the only person in that room who was keeping order.
+The man of thirty-eight said the last thing of the second of October to nineteen people and it is in the minute in his own words, and the clerk entered that it ran to forty-nine and that she had put the number in beside the sentence because a sentence that long should have its length on the page, and he said it before he knew there was going to be a rule in the room, and the clerk entered the order in which the two happened because the clerk is the only person in that room who was keeping order.
 
 "**A figure of one hundred and eighty-three coppers is a page in the market's own book with no name against it and a figure of twenty-one years is a line in a minute with my name against it, and the two are in two books and neither is in the other's and I am not going to stand here and add them, because one of them is money and the other one is not and there is no rate.**"
 

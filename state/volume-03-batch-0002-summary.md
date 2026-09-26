@@ -8,7 +8,7 @@
 
 **The twenty-ninth of August is the volume's reversal of a rule it made four weeks earlier.** Batch 0001's finding was that a thing nobody is allowed to decide is decided by a date, and it was printed on a four-copper sheet on the second of August and was in every way correct. On the twenty-ninth the date arrived, a mechanic of about forty-three stood on a platform for two hours with a ten-foot bar and nobody in the yard had standing to say no to him, and he put the bar down, and the finding is that **a date is not a decision; a date is the last day somebody can do something, and after that the thing is simply still there.** The rule has never been wrong, because the only two dates that have arrived in nine weeks have not had to decide anything. A rule that has never been tested is not a rule.
 
-**And there is now no date in this district after the twenty-ninth of August except two, and both of them belong to other people.** A boy of seventeenth's index carries five dates on one line and no names against them, and on the twenty-fifth of August he ruled a line under the fifth of them in his own hand, and the finding is that a district that runs out of dates is in the same position as one that never had any, and it takes about nine weeks to tell the two apart.
+**And there is now no date in this district after the twenty-ninth of August except two, and both of them belong to other people.** A boy of seventeen's index carries five dates on one line and no names against them, and on the twenty-fifth of August he ruled a line under the fifth of them in his own hand, and the finding is that a district that runs out of dates is in the same position as one that never had any, and it takes about nine weeks to tell the two apart.
 
 ## Inherits
 

@@ -28,9 +28,9 @@ She did not ask for the four things to be read out and she did not ask to be int
 
 "**Nothing to you. That is not a courtesy and I am going to spend four minutes taking it off the table so that nobody in this room has to wonder about it later.**"
 
-For two days before the eleventh of October she was on the flat and nobody asked her anything and nobody spoke to her about what she had come for.
+For the two days before the eleventh of October she was on the far bank, four miles off this flat and a mile short of the head of the water, at a house that is not in this district and is not on any paper this district holds, and nobody on this flat asked her anything and nobody spoke to her about what she had come for.
 
-The clerk of nineteen years entered that on the ninth and the tenth of October there were about nine people on that flat who had heard that a guarantee house had a person on it and had not gone and looked.
+The clerk of nineteen years entered that on the ninth and the tenth of October, which were the two days before she came over the raised plank road, there were about nine people on this flat who had heard that a guarantee house had a person coming to it, and had not gone and looked to see whether the person had come.
 
 She entered that a woman of fifty-eight who carries water had looked and had said nine words about it, and that the nine words were that the water was up that day and that she had more work and that a person who is going to be handed the figure of twenty-one years ought to be somebody who has carried water.
 
@@ -46,7 +46,7 @@ Then she put the first ledger on the table and opened it, and the clerk of ninet
 
 "**The three have names in them and I am not going to read them out and I am going to tell you why, which is that I have been asked this three times in eleven years and the answer I gave the third time was that I would rather have a blank column than a name a person cannot take out. Make of that what you like. I have been called honest and I have been called careful and I have never once been called both.**"
 
-And a woman of about fifty-eight who carries water asked her, on the second day, a question about the wage, and the question is in the minute in the woman's own words and it is nineteen words long, and the answer is in the minute in the agent's own words and it is thirty-one words long.
+And a woman of about fifty-eight who carries water asked her, on the second day, a question about the wage, and the question is in the minute in the woman's own words, and the clerk entered that it was nineteen words and that the woman of fifty-eight who carries water had counted them herself on her fingers under the table, and the answer is in the minute in the agent's own words and it ran to thirty-one.
 
 "**What does the clerk do all day.**"
 
@@ -84,7 +84,7 @@ Nobody in that room said anything for nineteen seconds, and a woman of forty-fou
 
 **AND THE ROOM DID NOT SAY YES AND DID NOT SAY NO, AND THE ENTRY OF THE ELEVENTH OF OCTOBER SAYS THAT A ROOM OF ABOUT NINETEEN PEOPLE, FOUR OF WHOM STAND IN FRAMES, WAS ASKED WHETHER IT WOULD GIVE A GUARANTEE HOUSE A COPY OF EVERY LEDGER IT KEEPS AND A FIRST REFUSAL ON THE PERSON WHO STANDS IN THE FRAME, AND THAT IT WAS ASKED BY THE PERSON WHO OFFERED AND NOT BY ANYBODY ELSE, AND THAT NOTHING WAS DECIDED, AND THAT A DECISION WAS NOT REQUIRED ON THE DAY.**
 
-And a man of about thirty-one who runs a cart of meal out of a lane in Alder Reach had come over the road with a party on the second of October and was still on the flat on the eleventh, and he asked her one question on the second day, and the question is in the minute in his own words and it is nineteen words long.
+And a man of about thirty-one who runs a cart of meal out of a lane in Alder Reach had come over the road with a party on the second of October and was still on the flat on the eleventh, and he asked her one question on the second day, and the question is in the minute in his own words, and the agent answered it three words early, which the clerk entered.
 
 "**What is it worth to you.**"
 
@@ -96,7 +96,7 @@ And a man of about thirty-one who runs a cart of meal out of a lane in Alder Rea
 
 A man of fifty-six who is a secretary of a cooperative of nine households said that he had counted three, and the agent said that he had, and that he was welcome to, and that a man who counts is a man she can work with and that is not an insult.
 
-Then she said the other thing, and she said it at four in the afternoon with her hands flat on the closed ledger, and the clerk of nineteen years entered the whole of it and read it back and got nothing wrong, and it is the reason the ledger in this batch is not on any document in this district.
+Then she said the other thing, and she said it at four in the afternoon with her hands flat on the closed ledger, and the clerk of nineteen years entered the whole of it and read it back and got nothing wrong, and it is the reason the ledger is not on any document in this district.
 
 "**I will tell you where the sixteen came from and I am not going to tell you the name of the place, and I want both halves of that sentence in your book in that order.**"
 
@@ -120,7 +120,7 @@ And the finding of the eleventh and the twelfth of October is also **that a guar
 
 **AND THE FINDING OF THE ELEVENTH OF OCTOBER IS THAT A GUARANTEE HOUSE OFFERED THIS DISTRICT SOMETHING IT HAS NOT BEEN OFFERED BEFORE, WHICH IS A CLERK WITH A WAGE AND A DAY OFF, AND THE PRICE WAS NOT THE CLERK, AND THE FINDING IS ALSO THAT A PERSON WHO HAS BEEN OFFERED SOMETHING HONEST BY SOMEONE WHO SAYS IT IS HONEST HAS BEEN OFFERED A THING SHE CANNOT REFUSE WITHOUT LOOKING UNGRACEFUL, AND THAT THIS DISTRICT HAS BEEN UNGRACEFUL FOUR TIMES IN TEN WEEKS AND HAS NOT ONCE NOTICED.**
 
-And a man of about thirty-three who takes in washing at the second channel was not in the room on the second day and has not been asked why, and not asked is in the count, and the count is a column and not a bucket.
+And a woman of about thirty-three who takes in washing at the second channel was not in the room on the second day and has not been asked why, and not asked is in the count, and the count is a column and not a bucket.
 
 And a clerk of nineteen years asked one question of her own on the second day, and the minute says it was the only question in three days that was not about a figure, and the question is in the minute in the clerk's own hand.
 
@@ -134,10 +134,10 @@ And a clerk of nineteen years asked one question of her own on the second day, a
 
 And the clerk of nineteen years wrote both of them down after she had gone, at nine in the evening on the fourteenth, and the minute says she wrote them from memory and that a clerk of nineteen years is not supposed to write things down after a room has broken up and that she had done it and that she had entered that she had done it.
 
-And on the twelfth, the thirteenth and the fourteenth of October the agent sat in the room and answered questions for nine hours in total and answered every one of them, and the clerk of nineteen years counted the questions at the end of the third day and the count is one hundred and forty-one, and the minute says that a man of fifty-six who is a secretary of a cooperative of nine households asked the last one and it was a question about a woman's ninth year and the agent answered it in nine words and the room wrote the nine words down.
+And on the twelfth, the thirteenth and the fourteenth of October the agent sat in the room about nine hours a day and answered every question that was put to her, and the room did not get through them faster than that, and the clerk of nineteen years counted the questions at the end of the third day and the count is one hundred and forty-one, and the minute says that a man of fifty-six who is a secretary of a cooperative of nine households asked the last one and it was a question about a woman's ninth year and the agent answered it in nine words and the room wrote the nine words down.
 
 Nobody in this district has ever asked a stranger anything about a woman's ninth year, and the clerk entered that, and entered that the woman of forty-four who has done it eleven years and who has no ninth year heard the nine words and did not say that she had no ninth year, and the minute says she did not say it and that a man of thirty-four who mends fencing noticed that she did not say it and did not ask her about it.
 
-A man of about thirty-three who takes in washing at the second channel was asked on the thirteenth whether she wanted the woman to carry the ledger away, and she said that she did not know what the woman was carrying, and the agent said that she was carrying nothing at all and that the ledger was still on the table, and the woman said that was the first thing anybody had said in ten weeks that was about a table.
+A woman of about thirty-three who takes in washing at the second channel was asked on the thirteenth whether she wanted the agent to carry the ledger away, and she said that she did not know what the agent was carrying, and the agent said that she was carrying nothing at all and that the ledger was still on the table, and the woman said that was the first thing anybody had said in ten weeks that was about a table.
 
 **AND THE THING THAT WAS LEFT BEHIND ON THE FOURTEENTH OF OCTOBER WAS A SHEET WITH A FIRM ON IT AND THREE THINGS WRITTEN ON IT IN A HAND THAT WAS NOT A CLERK'S, AND THE SHEET WENT WEST ON A CART ON THE FIFTEENTH OF OCTOBER, AND A MAN OF THIRTY-EIGHT READ IT ON THE SEVENTEENTH AT THE FOURTH PLACE AND IS WRITING FOUR WORDS UNDER IT THAT ARE NOT IN ANY BOOK, AND HE HAS SAID THEM ONCE, TO HIMSELF, IN A ROOM OVER A SHOP, AND THEY WERE: WE ALREADY HAVE IT.**

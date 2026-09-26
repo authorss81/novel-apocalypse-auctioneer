@@ -22,7 +22,7 @@ He came off the raised plank road at the ninth mile on the seventeenth and read 
 
 **Nobody in that room could say what a board was for**, and about four people said so out loud, and a man of thirty-four who mends fencing asked three people what the thing was called and got three answers and entered all three and chose none.
 
-A man of about fifty-one who keeps a stall on the lower terrace and who supplies the Harrow engine's oil out of her own till said it was a place where people put things they could not say out loud. A woman of about fifty who is the water at the ninth place said it was a notice. A haulier of about forty said it was a **bill**, and then said that a bill is a thing a person posts and a notice is a thing a person reads and a place where people put things they cannot say out loud is a **confessional**, and that he had said the word once in his life and had not known it was a word.
+A woman of about fifty-one who keeps a stall on the lower terrace and who supplies the Harrow engine's oil out of her own till said it was a place where people put things they could not say out loud. A woman of about fifty who is the water at the ninth place said it was a notice. A haulier of about forty said it was a **bill**, and then said that a bill is a thing a person posts and a notice is a thing a person reads and a place where people put things they cannot say out loud is a **confessional**, and that he had said the word once in his life and had not known it was a word.
 
 The man of sixty-one with a frame stayed for nineteen minutes after he had written his line and did not sit down, and a clerk of nineteen years stood near him and did not ask him what the line was and entered twice that she had not asked him.
 
@@ -50,7 +50,7 @@ The second is a woman of fifty-eight who carries water and does not read figures
 
 **The third is a man of sixty-one with a frame who walks two miles twice a month and who has never been in that room**, and he came on the eighteenth and wrote a line in a hand that shakes and did not say what it was, and the clerk entered that he did not say and that nobody asked him.
 
-The fourth is a woman of about thirty-three who takes in washing at the second channel, and the clerk of nineteen years read her line out and it is nineteen words long and it is about the first channel and about the twelfth of September and about the day not being known.
+The fourth is a woman of about thirty-three who takes in washing at the second channel, and the clerk of nineteen years read her line out, and it came to nineteen words, and it is about the first channel and about the twelfth of September and about the day not being known.
 
 The fifth is the boy of nineteen, and it is the same nine words he has said three times about a train, and the minute says he said them and that the clerk entered that he is not a keeper and is not paid and was not asked and did not stop, and that **the count of conditions with no end on it is four and the count of protected things is five and neither moved and the boy is in neither.**
 
@@ -76,7 +76,7 @@ He came to the ninth place to take a load of meal to a household that had asked 
 
 "**What does that stop me doing.**"
 
-Nobody answered him for nine seconds, and a woman of about fifty who is the water at the ninth place said the answer and it is in the minute in her own words and it is nineteen words long.
+Nobody answered him for nine seconds, and a woman of about fifty who is the water at the ninth place said the answer and it is in the minute in her own words, and it was nineteen words and it was the shortest thing she said all week, and nobody told her that.
 
 "**It does not stop you doing anything. It is a notice. I wrote two of the six and I am telling you that it does not stop you and I am telling you in a street and not in a room.**"
 

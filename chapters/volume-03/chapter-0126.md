@@ -54,7 +54,7 @@ A man of fifty-six who is a secretary of a cooperative of nine households looked
 
 ---
 
-**AND THE ROMANCE MOVED ONE SENTENCE ACROSS A ROOM ON THE SEVENTH OF OCTOBER AND WAS ANSWERED IN ONE SENTENCE AND FOUR SECONDS, AND IT IS NOT THE CONVERSATION, AND THE VOLUME DOES NOT SAY SO, AND A CLERK OF NINETEEN YEARS UNDERLINED NOTHING FOR THE FIRST TIME IN TEN WEEKS AND A READER AT A COUNTER HAS ASKED TWICE WHICH LINE SHE UNDERLINED THE LAST TIME AND HAS NOT BEEN TOLD.**
+**AND THE SENTENCE CROSSED THE ROOM ON THE SEVENTH OF OCTOBER AND WAS ANSWERED IN ONE SENTENCE AND FOUR SECONDS, AND ABOUT NINETEEN PEOPLE HEARD BOTH AND NOT ONE OF THEM ENTERED EITHER AS ANYTHING BUT A SENTENCE AND A SENTENCE, AND THE REGISTRAR DID NOT SAY IT WAS ANYTHING ELSE, AND A CLERK OF NINETEEN YEARS UNDERLINED NOTHING FOR THE FIRST TIME IN TEN WEEKS AND A READER AT A COUNTER HAS ASKED TWICE WHICH LINE SHE UNDERLINED THE LAST TIME AND HAS NOT BEEN TOLD.**
 
 ---
 
@@ -70,7 +70,7 @@ Then a woman of about thirty-six who keeps a stall of chalk and oil on a cart wr
 
 ---
 
-And then the two lost days were put to the room, because the clerk of nineteen years had carried the figure from the flat in a book and had not put it anywhere, and the man of fifty-six did the arithmetic in four minutes and the minute has it in his own words and it is fifty-one words long.
+And then the two lost days were put to the room, because the clerk of nineteen years had carried the figure from the flat in a book and had not put it anywhere, and the man of fifty-six did the arithmetic in four minutes, and the minute has it in his own words, and it came to fifty-one words and he stopped in the middle of the last one to make sure, and then went on.
 
 "**The season was to start on the first of October and it did not, and the loss is two days of six months, which is a figure I could put in a book and which would be a lie. What the two days did was move a fortnight, because nine households had built a fortnight around a date that was written on a sheet in a folder with no name on it, and there is no column in any book in this basin for a plan, and a plan is not a person and a plan is not a household and a plan is not a year.**"
 
@@ -80,7 +80,7 @@ And then the two lost days were put to the room, because the clerk of nineteen y
 
 And a woman of about forty-four who keeps a Road House on the tide heard the word fortnight and asked one question, and the clerk entered the two descriptions of the two women of forty-four in one line and did not join them, and the question was whether the five tolls at the west end were going to be asked again, and the answer was that they had been asked again on the twenty-ninth of September from two rooms by two people who are not on either bank.
 
-She said the other half and it is in the minute in her own words and it is nineteen words long, and it is about her cellar and it is not about the boundary.
+She said the other half and it is in the minute in her own words and it took nineteen words, and it is about her cellar and it is not about the boundary.
 
 "**I have eleven pounds of salt in that cellar and I counted them on the second of October and I have eleven pounds on the seventh, and nobody has taken any and nobody has put any in, and that is what two days is.**"
 
@@ -122,7 +122,7 @@ And then a woman of fifty-eight who carries water and does not read figures was 
 
 A man of fifty-six who is a secretary of a cooperative of nine households wrote that down in his own hand and read it back to her and she told him that he had got the last bit wrong, and he had got the word *knock* wrong, and she told him what it should have been, and he wrote it again, and the clerk of nineteen years entered that four people corrected a document in ten weeks by saying what they needed in it and that three of the four have been women and that nobody has asked why.
 
-The last thing of the seventh of October was said by the registrar to nineteen people, and it is nineteen words long, and it is in the minute in her own hand, and she has refused twelve times in nine weeks and this is not one of the twelve times.
+The last thing of the seventh of October was said by the registrar to nineteen people, and it was nineteen words and she did not take longer over it than over a figure, and it is in the minute in her own hand, and she has refused twelve times in nine weeks and this is not one of the twelve times.
 
 "**I have twelve refusals in this book and all twelve of them are mine, and I have never once been asked which one of the twelve I would decide differently, and I am not going to be asked now, and that is a decision and not a wall.**"
 

@@ -50,9 +50,9 @@ Author-facing promises at the close of **Volume 03 Batch 0003 (Chapters 121–13
 
 - **THE THREE UNEXPLAINED THINGS OF VOLUME 01 ARE NOT JOINED TO EACH OTHER AND NOT JOINED TO THE LINE'S STALLS.** A bus that came out of a Fault by itself; the pilot line's deviation; the foot of the crown of the service cut. **The line's stalls are not on this list, and the four gaps in four books are not on this list, the form that has no thirtieth column is not on this list, the Harrow end that cannot report itself is not on this list, the pan on the far bank with nobody in it is not on this list, the certificate with no column for attendance is not on this list, the sills of the failed channel are not on this list, and the five boards are not on this list.**
 
-## Volume 03 Batch 0002 threads — Batch 0003 has inherited and spent these
+## Volume 03 Batch 0002 threads — inherited and spent by Batch 0003
 
-## Volume 03 Batch 0002 threads — these are what Batch 0003 inherits
+**Empty, and that is the record.** Every thread Batch 0002 handed over was taken up and closed in Batch 0003, and the closings are written out in `state/volume-03-batch-0003-summary.md` under *Inherits*. Batch 0004 inherits nothing out of this section.
 
 ## Volume 03 Batch 0001 threads — these are what Batch 0002 inherits
 

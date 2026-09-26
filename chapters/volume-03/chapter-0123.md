@@ -10,7 +10,7 @@ The channel that had fed it was a hole. The masonry that had keyed the frame int
 
 ---
 
-The first thing anybody said on the far bank was said by a woman of forty-four who has done it eleven years and who was standing outside a room over a shop with four sheets of paper in her hand, and she said it to the man of thirty-four who mends fencing and not to the party, and it is in the minute in her own words and it is thirty-one words long.
+The first thing anybody said on the far bank was said by a woman of forty-four who has done it eleven years and who was standing outside a room over a shop with four sheets of paper in her hand, and she said it to the man of thirty-four who mends fencing and not to the party, and it is in the minute in her own words, and the clerk entered that it was thirty-one words and that the woman of forty-four did not know it was being counted.
 
 "**Four things have happened to four people on this flat since the eighth of March and I have written them down and I am not going to sign them, and I would like a room and about nineteen people in it on the twenty-eighth, and I would like the man who came in the cart to be in it and not at the front of it.**"
 
@@ -141,7 +141,7 @@ The last thing of the twenty-eighth was said by the man of thirty-eight in nine 
 "**The four things are the first instrument this district has built that I cannot carry to a door, and it is four sheets of paper with no heading on them and a woman who will not sign them, and I have looked at it for nine minutes and I have understood about one quarter of it, and I would like that entered under my own name and not above it.**"
 ---
 
-In the evening the party camped on the rise above the second pan and the clerk of nineteen years wrote the day's minute by lantern light on the back of a leaf of the field book because the other forty-one pages had a channel on them, and a man of about thirty-three who takes in washing at the second channel sat on the cart tail and watched her do it and asked her one question about the fourth of the four things, and the clerk entered that the question was asked and that the answer was given.
+In the evening the party camped on the rise above the second pan and the clerk of nineteen years wrote the day's minute by lantern light on the back of a leaf of the field book because the other forty-one pages had a channel on them, and a woman of about thirty-three who takes in washing at the second channel sat on the cart tail and watched her do it and asked her one question about the fourth of the four things, and the clerk entered that the question was asked and that the answer was given.
 
 "**Is the child going to start again.**"
 

@@ -44,7 +44,7 @@ A woman of about forty-four who keeps a Road House on the tide and who lends her
 
 "**I have eleven pounds of salt in a cellar and I am going to feed a yard of about nine people and the six things cost a week and the week is the twelfth of October and by the twelfth of October I have no meal.**"
 
-Then a haulier of about forty who had said the whole of the risk in four minutes in August and had been right said the second voice, and it is nineteen words long.
+Then a haulier of about forty who had said the whole of the risk in four minutes in August and had been right said the second voice, and it took him nineteen words and he did not stop in the middle of it.
 
 "**You are not choosing between two looms. You are choosing between a thing a man will do on his own and a thing four people have to be asked about, and the second one costs more and gives you the year.**"
 
@@ -100,7 +100,7 @@ Nobody in that room said anything and a man of thirty-four who mends fencing wro
 
 ---
 
-Then the man of thirty-eight did the thing he was not asked to do, and it is in the minute in his own words and it is fifty-one words long, and it was nineteen seconds after the two thousand had been agreed and before anybody had left the room.
+Then the man of thirty-eight did the thing he was not asked to do, and it is in the minute in his own words, and the clerk of nineteen years entered the length of it beside it and got fifty-one and then got it again, and it was nineteen seconds after the two thousand had been agreed and before anybody had left the room.
 
 "**I want to say the number I did in eleven seconds and I want it said in this room and not in a book. I set a price on a loom on the eighth of September off the price of salt at nine coppers a pound, and I did it in eleven seconds, and the clerk of nineteen years has entered that a man of fifty-six told me I had written a sale with no worker in it, and he was right, and the entry of that is under the terms and not above them, and I have not taken it out.**"
 

@@ -2,7 +2,9 @@
 
 ---
 
-The two rooms on the twenty-ninth of September were a counting room over a chandler's shop and a room at the ninth place with a lamp on a post cut out of a green pipe, and the registrar was in the first of them and the two named people who hold the boundary were in the second of them, and the man of thirty-four who mends fencing and the clerk of nineteen years were thirty-four miles east on a flat between two rivers and were in neither, and the minute of the twenty-ninth says so and says it first.
+The two rooms on the twenty-ninth of September were a counting room over a chandler's shop and a room at the ninth place with a lamp on a post cut out of a green pipe, and the registrar was in the first of them and the two named people who hold the boundary were in the second of them.
+
+At the hour that minute was written, which was about eleven, the man of thirty-four who mends fencing and the clerk of nineteen years were thirty-four miles east on a flat between two rivers and were in neither, and the minute of the twenty-ninth says so and says it first, and it gives the hour and it does not give the hour for any other day.
 
 The chandler whose shop the counting room is over is a man of about thirty-four called Pell Anselm and he keeps a counter of oil on Ash Row and a stall in front of it, and he is not one of the two named people and is not a keeper of anything, and on the twenty-ninth of September he let nine people who were not his customers into a room over his shop and did not charge them and did not stand in the doorway, and a man of about thirty-four who mends fencing was told this on the third of October and entered it and did not ask him about it.
 
@@ -18,7 +20,7 @@ The term was stated and it is in the register in the registrar's own hand and it
 
 "**The hole in the ground is not a mark and it is not a mark today either, and I would like the register to say that the two people who hold this boundary are two people and not a keeper, and that a mark is cut and that is laid, and that a hole is a hole in either month.**"
 
-A woman of about forty-four who keeps a stall on the lower terrace and who supplies the Harrow engine's oil out of her own till was in the second room and said one thing at about the eleven minute, and it is in the minute, and she is not the woman of forty-four who has done it eleven years and the two descriptions are in one line and are not joined.
+A woman of about fifty-one who keeps a stall on the lower terrace and who supplies the Harrow engine's oil out of her own till was in the second room and said one thing at about the eleven minute, and it is in the minute, and she is not the woman of forty-four who has done it eleven years, and she is not the woman of about forty-four who keeps a Road House on the tide, and all three descriptions are in one line and are not joined.
 
 "**You have both been asked the same question for a month and neither of you has asked the other one anything, and I am not going to be the person who makes you, and I would like it entered that I noticed.**"
 
@@ -90,7 +92,7 @@ The bed was full. That is the thing nobody expected, and a man of fifty-six who 
 
 A woman of thirty-eight in the second channel was in the second channel and could not leave it, because leaving it is the whole of what she does and the man of fifty-six said so in a cart on the seventh of September. A woman of thirty-one stood beside the third frame for about an hour and then sat down on the bank, and the minute says she sat down at eleven in the morning and did not get up until about one.
 
-She said one thing, and it is in the minute in her own words, and it is nineteen words long.
+She said one thing, and it is in the minute in her own words, and it is nineteen words, and she had it off her in one go and did not stop to be asked whether she wanted it taken down.
 
 "**I have been here since the first of April and I am going to be paid in salt for a season that has not started, and nobody has told me not to come, and I came.**"
 
@@ -122,7 +124,7 @@ The stranger wrote the four words *what happens on the second* on the back of hi
 
 ---
 
-And the man who does not read figures was asked one question on the thirtieth by a woman of about fifty who is the water at the ninth place, and he answered it, and the answer is in the minute in his own words and it is thirty-nine words long.
+And the man who does not read figures was asked one question on the thirtieth by a woman of about fifty who is the water at the ninth place, and he answered it, and the answer is in the minute in his own words and the clerk entered the length of it, which was thirty-nine, and entered that she had counted it and then uncounted it and got thirty-eight and had left thirty-nine in.
 
 "**You read four numbers and you did not read the fifth.**"
 
