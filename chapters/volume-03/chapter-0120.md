@@ -73,7 +73,9 @@ And then the man of thirty-eight said the only thing he said in that room, and i
 
 Nobody in that room argued and the registrar said yes, and the minute says she said yes in four seconds, and that **a woman of fifty-one who keeps a stall on the lower terrace, who supplies the Harrow engine's oil out of her own till, said nothing at all and has asked twice that it be said that nobody asked her either, and that nobody asked her on the twentieth of September either,** and says that she then said something else in four seconds that the clerk entered and that about four people in the room heard and that the clerk has entered under it and not above it because people read the top of a page.
 
-And nobody asked her why she keeps two lines apart, and the minute says nobody asked her why, and that this is the third time in nine weeks that nobody has, and that the twelfth refusal of the sixteenth of September was a refusal of her own instrument and not of a question about the office, and that the count of not-askings about the woman of fifty-one is five with two standing refusals, and that a man of thirty-four who mends fencing has said in public that a registrar who is asked why eleven times and answers once is a registrar who has worked out what the question is for, and that this is the first time in nine weeks that anybody has said so in a room she was standing in.
+And nobody asked her why she keeps two lines apart, and the minute says nobody asked her why, and that this is the third time in nine weeks that nobody has, and that the twelfth refusal of the sixteenth of September was a refusal of her own instrument and not of a question about the office, and that the count of not-askings about the woman of fifty-one is five with two standing refusals.
+
+And a man of thirty-four who mends fencing has said in public that a registrar who is asked why eleven times and answers once is a registrar who has worked out what the question is for, and that this is the first time in nine weeks that anybody has said so in a room she was standing in.
 
 ---
 
