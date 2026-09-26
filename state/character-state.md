@@ -766,3 +766,98 @@ Everything above this line is Volume 01 and Volume 02 Batches 0001 and 0002. Thi
 ## Iven Tallow
 
 **Still presumed dead from Adrian's point of view. Nothing in Batch 0005 touches him and nothing should.** The blank lot is untouched and was not put on the crate and was not read. **Volume 02 named neither the Common Measure's origin, nor the First House, nor the removed signature, and Volume 03 must not either.**
+
+---
+
+# After Chapter 0110 — Volume 03 Batch 0001
+
+Everything above this line is the Volume 02 record. This is the live state.
+
+## Adrian Vale
+
+- **Still a Binder, and this batch did not promote him.** He may write a bounded charter, split a use among bearers, close a transfer, make a lot portable or renewable under a stated term, and post a security. **He may not maintain a public lot, coordinate more than one bearer, arrange a dispute hearing, or make the consequences of an object visible to a whole settlement, and this district has no public lot, four bearers and no hearing.** He said all of it again in a yard on the sixteenth of July and again at a counter on the fourteenth of August.
+- **He refused to read for the sixth time, on the sixteenth of July, in front of about two hundred people, and the reason he gave in public is eleven words: there was no good of reading it tonight.** He asked for it to be written in those words and not in any others, because if he gives a better reason then somebody will use the better reason on a day when there is a reason and there will not be one. **A refusal to read is a reading and is entered, and it is neither cowardice nor discipline, and the cost of the sixth was that nobody in the district had anything that was going to come out of a reading.**
+- **The permitted hour opened on the fifteenth of July and went by unused.** About twenty people waited in a counting room from about nine in the morning until about four in the afternoon, and nobody asked him and he did not offer. He gave one sentence about it: **you did not ask me and I did not offer, and neither of those is a thing I did, and the reason is that there was nothing to read for, and not that there was something to read for and I was tired.** There is now no date in the ledger for the next reading and nobody is going to put one in until somebody has a reason.
+- **He has one departure left and it is in reserve.** It has not been spent and the volume's loom chapters have it available.
+- **He said no twice, in public, to being asked what an office was for, and he was cited for it afterwards.** A man who carries water said in a counting room on the ninth of August that a public office is a thing that takes the weight for a person who cannot carry it, and three people agreed, and Adrian was told about the sentence and **asked for his own limit to be entered under it, saying that a thing a man can do is not evidence about a thing a man cannot do, and that this district has been eaten alive for nine weeks by figures that are evidence about the present being read as evidence about the past, and that he is the figure this week.** It was entered under the sentence and not above it, because people read the top of a page.
+- **He was given one responsibility and it is the only thing he has been given in this batch.** He will read the figure of one hundred and eighty-three coppers out at the ward market counter once in every quarter until it moves. **To the thirtieth of September, and it is a term and not a quarter, and anybody in the room may end it in a sentence and none of them needs his permission.** It did not go to the market. He was asked what it cost and he said the last departure he has, in front of about thirty people who had been told the figure in a yard two days before. He said in nine words that nobody is sent to look for anything: **I am going to stand at a counter and read a number, and a man who reads a number is not a man anybody can be sent to a place.**
+- **He met Elias Rooke on the twenty-ninth of July for about half an hour and had never met him.** He said in about nine seconds that he had said no in a counting room on the eighteenth of last month before he had met the man, and asked for the entry to be on the page where he is wrong and not where he is right. Nobody said anything about it being a moment.
+- **What he has not done and must not do in Batch 0002:** decide whether the iron comes out of the bracket, be promoted again, have a panel, read the iron to answer the office, name a place, resolve the romance in a word, or make himself the address of a figure he cannot move.
+
+## The registrar
+
+- **The registrar, not named in this batch, is the registrar and not a vote and not independent.** She refused eleven times in ten chapters. On the seventh she gave a **different** reason and noticed that she had, and said so out loud. The new reason has two halves: **a shape is not an answer, and the only thing standing between a stranger and a system is a line that says the four of them arrived separately**; and **the second reason is the page, it is a wall, and a column is the only thing I have ever been able to offer anybody, and a column is not a protection.**
+- **She was asked why she holds two lines apart, by a woman of about sixty with a stick, and she answered in about nine seconds, and the answer is about the reader in four years and not about the office:** *I am protecting the person who reads it. In four years he will not believe me, because I am a person and the page is a page, and he will be right, and the rightness of that is the whole of what I have got.* **It was entered in the column for things that are not findings.**
+- **On the ninth of August she entered the half she has never said: the four answers did not arrive separately, they arrived in four rooms on the same day about two hours apart, and that is the opposite of separate.** It is the first thing she has entered in nine weeks that nobody asked her to enter.
+- **She refused to strike a man's sentence about an office, and the reason is not the reason she gives every time:** *if I strike this then the only thing left in four years is four gaps in four books and no sentence at all, and in about four years somebody will put the four gaps side by side and that is a system and there is no sentence anywhere on the page to stop him. And the answer is not to be struck.*
+- **She wrote the hundred and eighty-three into the market's own book and entered that a line with no name against it is a column and not a payment, and that the district has instead built a place where an absence can be read in public, and that she does not know which of those two things they have done.**
+
+## The tenth hand
+
+- Unnamed, and a seat and not a person. **He stopped the room twice in this batch.** Once on the joining of three weights: **three things in this district take a weight and none of them is an office, and not one of them has ever carried anything for a person who could not carry it themselves, and that is the difference between the four answers and what we have actually built.** Once on a heading: **that is a title, and a title says the answer is already known, and a title is what you print at the top of a board in a yard.** He entered under the office sentence that a limit of Adrian's is not a history of anybody's. **He counted about sixty people who were not in a household in a yard on the sixteenth of July and would not give the number to the room and gave it to the clerk and would not say.**
+- **He asked to be asked in a room.** He has said since the tenth of July that he will only do a thing properly if he is asked in a room, and nobody asked him until the third of August, and the entry says that a request to be asked in a room is a condition with no end on it and is not a term, and that the count of conditions with no end on it is four and is a different kind of thing from the count of five and is never added to it.
+
+## Elias Rooke, sixty-one, the fourth bearer
+
+- **He came twice a month on the twenty-ninth of July and stood in a frame for about an hour and did not put his hand on the lever, and the finding is that his standing was tested by not using it.** He wrote the four words in his own book and the entry is the only one of nine hundred with a date on it that is not the day it was written on. He said: **the standing is for the day it is needed. There has not been one.**
+- **He has met Adrian once, for about half an hour, and has said so out loud.**
+- He is not a bearer and holds no week and his only standing is the ending. **A man who cannot be replaced has not been worked out and that is entered as not known and not as a delay**, and the clerk of nineteen years entered in August that reading it is not the same as doing anything about it.
+
+## Corvin Sallow, thirty-nine, the keeper of the fourth toll board
+
+- **A signalman of a bridge administration, not a bearer, not paid, and he has said since the eighth of last month that keeping a board is not holding a pair.**
+- **He started on the fourth day of August.** A column with nothing in it is worth more than a column with a price in it for about four days, and the fourth day is the day the keeper starts, and he had known since April and had never said it out loud, **because a keeper who says out loud that he is going to start on a day is a keeper who has put himself in a position, and a man who is not paid and is not a bearer and is nobody's keeper has about one position left.**
+- **He refused to give a copy of the three lines, because a thing with an owner is a mark and a mark may not carry a job.** A woman of fifty-one who keeps the only pair said, in nine words, that that is why it works: it is not his.
+- **He wrote another man's question on his own board on the thirteenth of August with no standing to do it**, and gave his reason in nine words: *I have no standing and I have got a piece of chalk and four feet of board and nobody has told me to stop.*
+- The column has four lines and the fifth is ruled and empty, and a fifth board has been promised.
+
+## The woman of the column, about fifty, the water at the ninth place
+
+- **Said yes for a fifth month, in the same two sentences and in the same order, and said why she says the bad one first, in nine words: I say the bad one first so that the person writing it down cannot forget it.** She was asked from a counting room and answered in her own doorway, and **a person answered where she lives is a person who was not brought to the answer.**
+- She is the woman who proposed the shape of the two rooms on the twenty-ninth of last month, and she asked for the room to be on the notice in the same size as her own name on it, in nineteen words.
+- She is the water at the ninth place, has stood in her own doorway for eleven years, and the river has been coming up on her column for a year.
+
+## Sef Anyard, fifty-one, keeper of the only pair at the ninth place
+
+- **Said yes for a fifth month in her own order: the condition, then the word, then the yes.** **She came down the bank for the first time in eleven years** to be asked in a yard on the tide, and the reason she gave is that the question had a day on it and a question with a day on it is a question a person can answer from four hours away. **She corrected one word in the reading-back, about a drainage cut, and it is the fifth time in nine weeks a person has corrected a document by saying what they needed in it.** She said, in nine words, that the instrument works because it is not his.
+
+## Ivo Stenn, ward market freight clerk of six years
+
+- **He asked his first question in nine weeks, in a counting room, and got it corrected four times by a clerk of nineteen years and twice by a man who does not read figures.** He said the reason in the minute: *I have spent six years writing things that other people agreed to, and I have never once written down a question for this district, and I want it entered that I did not know it was a different thing to do and that it took me the first nine minutes to stop sounding like a rate.*
+- **He wrote the harder half of the market's refusal about the hundred and eighty-three, and the market's own figure for holding a figure in a public book is nine words: a figure in a book can be read by a stranger, a figure in a book can be carried to a door.**
+- He read out his own separate sheet after the sixth refusal and said the intervals go up on use and he will not defend that and will not call it anything else.
+
+## The man who drives salt, about forty-five
+
+- **Came eleven miles on the second of August with nine pounds of salt in a sack, and stood in a public yard for about two hours before anybody spoke to him, because a person from outside this district standing in a public place for two hours is invisible.** He said what the salt was before anybody asked him.
+- **Came back on the thirteenth with two men and about nine tons on a cart, and asked a keeper of a board nine words: who do I write this on, when it is a place.** His second sentence was that he wanted to know who signs for a ton and had never in thirty years thought that it was a question anybody could answer. **He is the volume's forward pull and he is not a loom and no loom has been priced.**
+
+## The boy of nineteen at the fourth place
+
+- **Has been at the fourth place since the ninth of last month, every day, unpaid, unasked, and said so out loud in a yard on the seventh of August: there is one, I have been doing it for a month and nobody noticed for a month.** He says he is nobody's keeper and has said it four times. **He is not to be turned into a keeper by this volume, and the count of conditions with no end on it is four and is a different kind of thing from the count of five.**
+- The fourth place got nothing in July. A correction is owed by a road and there was no road, and the man who sells nothing declined to print one.
+
+## A man of fifty-eight who carries water and does not read figures, one of the four households at the ninth place
+
+- **He said the sentence closest to an answer to the office question in nine seconds on the ninth of August, and asked for it to be struck, and it was not struck.** He had been in the room an hour and said why: *I have been wrong about a rate sheet three times and I have worked out that a man who has been wrong three times about money has no business being the man who says what an office is, and I have said it anyway, and both of those are true.*
+- He still has the tin under a bed and has not counted it again because he was afraid of counting it wrong. He has paid for the water out of a tin for nineteen years and did not know the tin was not the water.
+
+## Orren Pike, seventeen
+
+- Wrote a week down properly in a room on the third of August, the first time he had been asked to do so, and has asked to be asked again. He measured the stall for the fourth time. He carries five dates on one line with no names against them and has been asked three times whether that is an oversight and has said three times that it is not, and the reason he gave on the third is that **a column is for things that go the same way and these five do not.**
+
+## Selik Marne
+
+- **Not on the twenty-ninth of July's asking and says so in his own hand.** At a rail in Alder Reach on the twenty-eighth, on a published day, with about nineteen people, he said the sentence he says on published days and then added one sentence, which is the first thing he has ever added after it, and it is in the minute. His span is still shut. He was not thanked and did not ask to be thanked.
+
+## The registrar's column for things that are not findings
+
+- **It has six things in it in nine weeks and it is the only column in the public lot book that the clerk of nineteen years has ever wanted and the one nobody has ever voted to have.** The six are: a sentence a person said out loud and did not want; a number a boy of seventeen counted and will not say; a question asked by a stranger at a door; a correction nobody owed; a sheet a person took cold; **and a sentence a man who carries water said in a room and would like taken out.**
+- **Her reason for the column, in her own words: a book of findings only tells a stranger in four years what this district was sure of, and a book of findings and a column of things that were not sure of tells him what this district was prepared to be wrong about, and the second of those is the more useful of the two and it is the one nobody builds.**
+
+## Untouched and to be left untouched
+
+- **The blank lot and Iven.** Nothing in this batch touches them and nothing should. Iven remains presumed dead from Adrian's point of view.
+- **The romance.** A slate went past in a kitchen under the Ward Nine tram line at about a quarter to seven in the morning on the fifteenth of August, the fourth time, and neither of them said a word, and seven people have now seen that kitchen, and she is still not going to ask. **Not asked is in the count.**
+- **The protected category.** Closed at five, untouched in this batch, and no sixth was added.
+- **The woman of forty-five.** Not asked for anything, not named, and the count of not-askings stands at four with one standing refusal.

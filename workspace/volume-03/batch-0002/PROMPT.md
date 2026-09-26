@@ -1,0 +1,145 @@
+# Volume 03 Batch 0002: The Loom and the Water
+
+You are the novel writer for **The Apocalypse Auctioneer**, **Volume 03 (*The Hearth Commons*)**, and this phase writes **Batch 0002, Chapters 111–120**, into `chapters/volume-03/`. **Volume 03 Batch 0001 (Chapters 101–110) is complete and canon. Volume 02 is closed at Chapter 100 and nothing may be created after it inside Volume 02.**
+
+## Read before writing
+
+- **`outline/batches/volume-03-batch-0001.md` FIRST.** It is the canon card for the ten chapters immediately before yours and it holds every number and every shape you must not re-derive.
+- **`state/volume-03-batch-0001-summary.md`**, for the chapter-by-chapter record, the Plan deviations and the Review-pass flags.
+- **`outline/volume-03.md`**, the volume outline, written at the start of this volume. **Chapters 111–120 are its second block: a man from the salt pans, the looms described by the people who work them and not by a reading, Adrian's attempt to buy one outright and the refusal, and a guild certificate that is valid and cannot be struck.**
+- `NOVEL_SPEC.md`, `AGENTS.md`, `outline/series.md`, `outline/ending.md`
+- `state/volume-02-summary.md`, `state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`
+- **Chapters 101–110 in full.** They are the ten chapters immediately before yours. If the verified context budget safely allows it, read Chapters 91–100 as well.
+
+## Chapter range and the calendar
+
+**Ten chapters, 111–120. The month is August. Last month is July. The month before last is June.** The batch opens **on or after the seventeenth of August**, which is where Chapter 110 closed, and it **must contain the twenty-ninth of August** and **must reach into September**, because the thirtieth of September is the end of the term of the one responsibility Adrian holds.
+
+- 111–112: the 17th to the 24th of August
+- 113–114: the 25th to the 31st of August
+- 115–116: the first to the 7th of September
+- 117–118: the 8th to the 14th of September
+- 119–120: the 15th to the 21st of September, or a single date inside August or September
+
+**If you turn the month, say so in the summary and be consistent.** The new month after August is September. **Do not turn the month twice in one batch and do not turn it early.** A natural turn is between Chapters 114 and 115, because the twenty-ninth of August is a hard date and the batch should be able to spend the days after it.
+
+**Any figure that depends on a date must be recomputed from it. The stabled train arrived on the eleventh of February and it has stood a hundred and eighty-six days on the sixteenth of August. Derive every such figure from the eleventh of February; never carry one forward. Any date-dependent figure you inherit from Batch 0001 must be re-derived, not copied:** the train's day-count, the boundary's term, the notice's four things, the hundred and eighty-three, the four minutes of the boundary's askings, and the five dates on one line.
+
+**No weekday is attached to any date.** Four habits survive and only four: Halloway Reed's printed **Monday**, a haulier's habit the woman at the column describes as *twice a week*, a lamp-man who will not start on a Saturday, and a hypothetical bearer who fails on a Tuesday. **Do not build a week out of those four and do not give a date a weekday. Do not add a fifth.** If a document needs a day of the week, the district does not have a calendar, and the printed timetable already says so on its face and gives the reason.
+
+## The batch goal, seeded from the volume's own next-volume question
+
+**Volume 03's central pressure, from `outline/volume-03.md`: the Salt Verge's salt looms can restore irrigation and preserve seed, but each loom consumes a year of a worker's memory and binds them to a channel. A loom-worker at the end of a season can tell you what the water was doing and cannot tell you what last year was.**
+
+**A place that has a railway and five toll boards and a charter that ended on a date has not yet found a way to say what a toll lands on a place, and the first large thing anybody in this district will be asked to do with a dangerous object since the ninth of March is put to a person whose body makes it work.**
+
+**This batch spends, and what it must not:**
+
+- **The man who drives salt and about nine tons of salt that came into Alder Reach on a cart on the thirteenth of August and stopped.** He asked a keeper of a board nine words — *who do I write this on, when it is a place* — and three people in that lane said afterwards that the question is about a rate and a place and an office at once, and the registrar has not been told yet. **The batch must go near that question and must not answer it.**
+- **The Salt Verge**, thirty miles east, across a river that came up nine feet in the flood year and has not gone down. Ninety pans. Two have gone to salt on their own and a third has been doing it since before the hauler came west. **Nobody from the Verge has ever been up that bank and nobody from this district has ever been east of the about four thousand and one households.**
+- **The looms, described by the people who work them, in their own words, and not by a reading.** The object does not hold places, will not name one, and repeats itself when asked for more. **A loom is described the way a person describes a job and not the way a thing is described.**
+- **Adrian's attempt to buy a loom outright, and the refusal.** A single purchaser, a single price, a single security, his own signature at the bottom — **and the worker who bears the memory refuses, and the reason is not about the price.** This is the volume's midpoint reversal and the prompt's hardest beat. **He is a Binder; he may not make a lot portable by buying a person, and the batch must show the limit of his four powers here rather than asserting it.**
+- **A guild inspector who certifies a consent that four people signed and one person did not attend.** The certificate is valid. **The registrar cannot strike it, and the registrar's own instrument is the thing that fails, and she says so in a room and nobody argues with her.**
+- **The twenty-ninth of August**, the next day this district owns, and it is about one thing: **whether the iron comes out of the bracket, and there is no one in Alder Reach who is allowed to decide it.** The batch must reach that date. **It must not be resolved by Adrian deciding it. He is not one of the four bearers, not a keeper of a board and not on the committee.**
+- **The first of October**, when the term of the hundred and eighty-three ends. **The batch may reach toward it and may not reach it.**
+- **The office.** Four gaps, about seven places, four answers, four documents, one sentence in the column for things that are not findings, and eleven refusals behind it. **It is not answered in this batch and no batch may answer it by a guess, an inference, a document that turns up, or a person who remembers.**
+- **A person who stands somewhere every day and writes nothing down for a year**, described three times in one week by three people who did not know about each other, and joined none of the times. The boy of nineteen at the fourth place has been doing it since the ninth of last month, unpaid and unasked. **He is nobody's keeper and he says so four times and this volume must not turn him into one.**
+- **A document that has become wrong for a reason nobody caused is a document nobody owns**, and it fits in neither of the two lists this district keeps. The timetable at the fourth place still says a train once a month in the dark.
+
+## Power discipline — this is the part that will be checked
+
+**Adrian is a Binder for the whole of this batch and must not be promoted again.** The series rule is that a Stage 2 Binder writes bounded charters, splits uses, closes transfers, and posts security, and that binding **cannot create consent**: a person who materially refuses cannot be counted as a willing witness, a person who has not been asked has not refused and cannot be counted either way and the record must say *not asked*, and **a remembering passenger is a condition on the use and not a bearer.**
+
+- **He has one departure left and he has not spent it.** The permitted hour opened on the fifteenth of July and went by unused, and there is no date in the ledger for the next reading. **If he reads, it must cost that one departure and it must not come back, and the panel must not say the same thing Chapter 103's panel said.**
+- **Six refusals to read are on the record across Volumes 02 and 03 and none of them is written as cowardice or as discipline, and the intervals have gone up on use and Ivo Stenn will not defend that and will not call it anything else.**
+- **Do not use the echo as a generic cost.** The echo of an origin toll is a loss of spatial sense: a man who has it cannot tell which way a river is going, cannot hold a pair, and must be walked to a door by somebody who can. Corvin Sallow did that once, in the rain, on the thirtieth of June, and wrote down that the man said the word *which* four times and could not finish any of the sentences.
+- **Do not let the object name a place.** It does not hold places, will not name one, and repeats itself when asked for more. It said ELEVEN USES in March and ELEVEN USES in April and it said THE BRACKET IS CUT FOR IT AND THE BRACKET WILL TAKE IT on the twenty-ninth of June. **It did not name the ninth place and the ninth place was named by a decision and not by a reading, and that distinction is the whole of what Volume 02 is about.**
+- **A loom's toll is a year of a worker's memory, and the worker's body makes it work. That is a different kind of cost from memory of departure and it may not be quietly converted into one.** A person bound to a channel is not a bearer and may not be entered as one.
+
+## The System
+
+Plain language. **At most one System panel in the whole batch**, and it should come at the climax of a scene and be a rule, a warning, or a choice the protagonist must still act on. **Chapter 103's panel is the one already spent in this volume and its contents are not to be repeated**: it said that a reading costs about an hour and a cost, that an origin takes memory of departure, that he has paid it three times and has one left, that the iron does not hold places and will not name one and will not say what an office was for, and that a refusal is a reading and is entered and is not a finding and is not nothing, and that he still has to walk out of the room and live in the district he did not read for. **Its register is: a rule, a number, a refusal, and a consequence he has to act on.**
+
+Every other blockquote in these chapters is a page in a public book, a clause read off a board, a toll board, a rate sheet, a printed timetable, an inspection certificate, a minute, a market minute with a count in it, a security schedule, a register's own column heading, a guild certificate, or a quotation somebody says out loud — and the register distinguishes them by their framing, not by typography. Do not use real software terms.
+
+## The register Volume 03 Batch 0001 measured, which is the baseline for this audit
+
+**These figures were measured from Chapters 101 to 110 after the repairs. Where a number is given it is a word-boundary count over the ten chapter files and it is the number to compare against, not the number that was there before.**
+
+**Length is the honest success and should stay it.** Chapters 101 to 110 came in at **3,802 to 4,666 words per chapter, 39,982 in the batch**, against a 4,000–5,400 per-chapter target. **All ten are inside or within one per cent of the 3,800-to-4,600 band.** Aim for 3,800 to 4,600 per chapter and do not pad to reach a number; the answer is scenes, not adjectives.
+
+**Emphasis per chapter in Volume 03 Batch 0001: 49.5, 44.5, 37.5, 41.7, 37.2, 35.7, 40.1, 37.2, 42.6 and 35.0 per cent.** No chapter was below thirty-five and all ten were inside the 35 to 50 band. **Aim for thirty-five to fifty, and note that the measured method is a split of the body on the `**` marker and a word count of the odd-indexed segments.** A regex that pairs markers reported a different figure on this batch and did not reproduce; the split method is the one to use.
+
+**Headers: the measurable figure is the count of paragraphs that open with `**` and close with `**`, and in Chapters 101 to 110 that is 4, 5, 5, 4, 6, 5, 5, 5, 5 and 6 — fifty in the batch.** Every chapter opened on something other than the bolded header. **Aim for four or five. Do again.** **At least one chapter should turn on a conversation rather than a record**, and in Batch 0001 three did: 103, 106 and 109.
+
+**Paragraph shape: the per-chapter percentages of single-sentence non-quote paragraphs were 55.2, 53.7, 53.4, 44.9, 71.4, 53.8, 54.2, 63.1, 58.6 and 59.5, which is fifty-four in a hundred across the batch, against Batch 0005's sixty-two.** The one-sentence documentary register is this book's voice and is not to be sanded off, and **the two ends of that range were one chapter each and are named in the summary rather than smoothed.** **The longest single-sentence paragraph in Chapters 101 to 110 is 124 words and none ran past a hundred and thirty** — break at the last clean conjunction and leave a paragraph break rather than a rewrite.
+
+**Tics, counted by word boundary and reproducible. _In the yard_ 12 and _in a yard_ 24, against 6 and 14 in Batch 0005. _At the rail_ 2 and _on the rail_ 0. _About nine_ 37 and _about eleven_ 24, together 61 against 37 in Batch 0005 — this is the figure that went the wrong way last batch and has gone further the wrong way, and it is disclosed rather than explained. _About_ plus a number word is 327 and _about_ plus any word is 514, and the two methods are not like for like because the prose writes its numbers as words, so state the method when you quote a figure. Thirty hedges were moved on the writing pass and the remainder is the district's own arithmetic. _I would like_ 31 and every one of them is in a mouth. _held_ 8 and is structural. _steady_ 0, _breathed_ 0, _nodded_ 0, _literacy_ 0.**
+
+**Meta language: zero instances** of _this chapter_, _the volume_, _the batch_, _in this volume_, or a chapter number outside a title line. **Four were found on the writing pass and cut. Check again.**
+
+**Markdown integrity is the hard check.** Every paragraph and every blockquote paragraph you write must contain an even number of the bold markers. Also check for doubled horizontal rules, which render to a reader as a stray line. **A speech running over paragraphs opens and closes in every chunk and the closing quotation mark goes only on the last chunk.** The check is a script and it must be run before the batch is saved:
+
+```bash
+python3 - <<'PY'
+import glob,re
+for f in sorted(glob.glob('chapters/volume-03/chapter-01[12][0-9].md')):
+    n=int(re.search(r'chapter-(\d+)',f).group(1))
+    if not 111<=n<=120: continue
+    raw=open(f).read()
+    for blk in re.split(r'\n\s*\n', '\n'.join(raw.split('\n')[1:])):
+        s=blk.strip()
+        if s and s!='---' and len(re.findall(r'\*\*',s))%2:
+            print("ODD:",f,"::",s[:100])
+    d=len(re.findall(r'(?m)^---$\n^$\n^---$',raw))
+    if d: print("DOUBLED SEPARATOR:",f,d)
+PY
+```
+
+**Seven defects from earlier batches are carried, unfixed, and are outside the current phase:** `chapter-0058.md:23`, `chapter-0064.md:85`, `chapter-0066.md:100`, `chapter-0066.md:102`, `chapter-0067.md:137`, `chapter-0067.md:145`, `chapter-0068.md:85`, and `chapter-0070.md:15` and `chapter-0070.md:23` carry two of the nested kind. **Chapters 51 to 100 are canon and are not to be rewritten for this. Do not add an eighth.** Run the check scoped to your own chapters so the seven carried hits do not read as new failures, and note that **the count of odd paragraphs in the whole of Volume 02 is exactly seven and must still be exactly seven, and that the count in Chapters 101 to 110 is zero and must stay zero.**
+
+**Also run the nesting check**, because a count of odd paragraphs will never see it. **Use the test that was settled in the Batch 0004 repair and do not use the naive one:** a real nesting is a paragraph whose bold markers do not pair, and **a detector for the literal shape returns hits on complete bold spans and is not a test** — in Batch 0001 it returned one hit on a complete span in Chapter 103 that was not a nesting. **Report the pairing scan's figure, and if you also run the literal-shape detector, say what its hits are.**
+
+## Relative dates — the rule is about documents, and the batch's own habit is what breaks it
+
+**No character quotes a relative date inside a document, and no quoted document that carries a date at all carries it without a month.** In Chapters 101 to 110 there are **thirty blockquote paragraphs — a run of `>` lines closed off by a bare `>` — in twenty-eight contiguous blocks, and the two are different measurements.** A search of all thirty for *this month*, *last month*, *next month* and *the month before last* returns **zero**, and a search for a day of the month in a blockquote not followed by *of* returns **zero**. **One breach was made on the writing pass and repaired:** a request in a keeper's hand read *the twenty-second of last month* and *the twenty-ninth of this month* and it now reads *the twenty-second of June* and *the twenty-ninth of July*. **Do not write the broader claim that every quoted document carries a day and a month. It is in no state file now, it does not check out, and a claim about prose that cannot be checked is worse than no claim.** Narration, on the other hand, uses a relative month freely and that is the register, not a defect. The risk is that a relative month in narration quietly becomes a document, so **a relative month may not cross from narration into a blockquote, and any day you put inside a blockquote takes its month. Quote a day and a month or quote neither.**
+
+**Three expressions in Chapter 71 are deliberately left unresolved and must not be pinned by anybody:** the sixth of the month before last, twice, and the twenty-second of the month before last, once. Chapter 71 is dated the sixth of April, so the arithmetic gives **February**, and **no volume contains a February scene at all**. Nothing in the canon is anchored to either date, so no later batch may attach an event to them, contradict them, or use them to date anything. **Quote no month rather than guess one.**
+
+## Numbers that were closed in Batch 0001 — do not reintroduce or re-derive them wrongly
+
+- **The train arrived on the eleventh of February.** It has stood **a hundred and eighty-four days on the fourteenth of August and a hundred and eighty-six on the sixteenth.** Recompute from the eleventh of February; do not carry a figure forward.
+- **The two hundred coppers at the ninth place are one sum and it is: six on a sign, eleven on a bound copy of the line book, and a hundred and eighty-three on nothing.** Six plus eleven is seventeen and two hundred less seventeen is a hundred and eighty-three. **The four coppers for the bushel of white paint are on a line of their own and are NOT out of the two hundred, and nobody has found out whose they are.** **A hundred and eighty-three is canon in every file and is not to be moved, and the answer to it is not to be struck.**
+- **The rate sheet's occupancy is eleven, seven, nine, four — thirty-one people — and the woman of sixty-one's house holds four. Twenty-five yeses is not the number of people**, because four households is a count and a person is a count and the two are not added anywhere in this district's books.
+- **A run of five hundred costs 906, the printed-matter column buys twelve coppers a quarter, and 906 − 12 = 894, which is the gap carried on the chandler's trade.** Not 444, not 888, and not 369. **The sum is 906 − 12 and not 906 − 120.** The thirty unassigned coppers a quarter are a separate column, are where the sheet is paid out of, and come to a hundred and twenty a year, which is a fifth of one sheet. **906 is canon in Chapters 70, 74 and 80 and is not to be moved.** **The district now has two twelves in one month: this one, and the twelve coppers a correction cost, three places at four — and a third this batch may add, entered as a third and not merged with either.**
+- **The line rate of fourteen leaves thirty of the fifty unassigned, and the thirty has now paid a paperer eleven coppers for a reading.**
+- **The walk is five and a quarter hours in ordinary weather with four changeovers. A rehearsal's total is not to be carried forward as the district's; recompute any total from its halves.** No rehearsal was held in Batch 0001, and there have been four in this line's history: the twenty-second of March, the twenty-first of May, the twenty-first of June and the twenty-seventh of June. **Do not number a thing a fifth.**
+- **Stenn's column dates from the twenty-first of February.**
+- **The boundary's term ran from the twenty-ninth of June to the twenty-ninth of July and is now running to the twenty-ninth of August.** The four askings are fifty-one, thirty-nine, forty-four and thirty-one minutes. **An office that lets a term lapse has not ended anything; it has stopped saying when.** Two terms, two different days, one line.
+- **The printing quotation of nine hundred coppers was made on the fourteenth of March. Quote the fourteenth of March, or quote no month.**
+- **The notice about the four things that ended cost four coppers and the correction about three places cost twelve.** **A sheet is a sheet and a date is not a rate, and this district owns no press and has bought runs.**
+
+## Guardrails
+
+- **Do not name Sarrow Water on a document.** The name exists in this district's working speech and must not be written onto a document by any batch, and above all not by a reading. **The ninth place is what the documents say.**
+- **Do not find or explain the office.** It is in five places and no register, eleven trades could not state its function, four answers were not joined, four gaps are not one, four documents mention no office, one sentence is in the column for things that are not findings, and the question is in a public book dated the fifth of July. **Answering it is not this batch's job and may not be done by a guess, an inference, a document that turns up, or a person who remembers.**
+- **Do not join the two lines, the two impressions, the four lines of the broken circle, the signal's memory pattern, the four gaps, or the sentence in the column for things that are not findings to the mark on the iron.** Twelve refusals now stand after this batch if you refuse again, and a registrar has been asked why she holds two lines apart and answered about the reader in four years and not about the office. **Do not have anybody ask her why in order to get an answer to the office.**
+- **Do not let the stalls become a new unexplained mystery.** They are the basin's own documented Fracture symptom and the district has a name for them. **The west end's inability to report itself is a fact about instruments, the water office's form list is a fact about a form list, the signal's memory pattern is a fact about sixty-one copies of a column kept in drawers, the four gaps are a fact about four books, and the Harrow end's missing ground signal is a fact about a plinth with bolt-holes in it.** None of them is a mystery about the ground and none is joined to any other.
+- **Do not resolve:** the romance, Iven's identity, the blank lot's function, the origin of the Common Measure, the office, or the three unexplained things of Volume 01.
+- **Do not have a public market built out of one reader.** The proof of the last two volumes is that the timetable, the toll boards, the securities, the count at the ninth place, the vote, the charter, the boundary and the figure of a hundred and eighty-three are all held by people who are not Adrian. **The twenty-ninth of August must be asked by somebody who is not Adrian and entered by somebody who is not Adrian, and the refusal at the loom must be the worker's and not Adrian's finding about the worker.**
+- **Selik is a wary ally and not a friend.** His span is still shut, his office is answered and lost, he says *that is not enough* on published days, nobody believes he will stop and he does not stop. **He is not on the twenty-ninth of August's asking and must not be put on it.**
+- **The woman of forty-five is not a name in the book and must not become one.** She was asked in March and in the middle of June and said no twice, and she is not asked for a third time. **Not asked is in the count and the count stands at four, with one standing refusal, and a column is a column and not a bucket.** **The count does not go to five because somebody was asleep, and a clerk has already refused that once in writing.**
+- **The protected category is not a bucket, and the count is closed at five.** A passage twice, a loss once, a failure of a remedy once, a refusal to be asked again once. **Do not add a sixth.** The four conditions with no end on it are a different class of thing and must never be entered in that tally. **No new one was added in Batch 0001; do not add one here unless the chapter earns it, and if you do, say so in the summary.**
+- **A mark may not carry a job, and the boundary was built around that rule and not in defiance of it. Do not retire the rule and do not make a mark carry a job. A line of stones is not a mark, because a mark is cut and that is laid, and that hole is recorded and not covered.** In Batch 0001 the rule was applied by a man to his own instrument, and it is now the reason the toll instrument has no owner.
+- **The fifth instrument — a way of saying that a toll lands on a place — is still unnamed and unowned**, with three lines in a column at the ninth place, the same three in chalk at the fourth place, a fifth place promised and four lines written by the eighth of August. **Mind the two counts: five is the number of instruments this district DOES NOT HAVE, and the toll is the fifth of those five; six is the number of instruments it has BUILT and not named, and they are a rehearsal, a platform, a rail, a correction, a question and a security. They are not the same list, and there is now a seventh thing that belongs to neither: a document that has become wrong for a reason nobody caused.**
+- **No metric and no twenty-four-hour clock.** Feet, inches, yards, miles and quarters, pounds and ounces, degrees, coppers, pints, and the twelve-hour clock.
+- **Five near-identical figures live at the west end of this line and a chapter may not merge them:** the chandler **Pell Anselm**, about thirty-four, a counter of oil on Ash Row and a stall in front of it; the **trader of fifty-one** on the lower terrace, who supplies the Harrow engine's oil out of her own till; the **woman of the column**, about fifty, who is the water at the ninth place; **Sef Anyard**, fifty-one, who keeps the only pair; and the **woman of forty-five**, who is not a name in the book. A cordwainer of about forty-eight in a doorway at the west end of Alder Reach is a sixth and belongs to none of them. **Give them a trade, a doorway or a stall in the same paragraph and never let a pronoun carry the identification alone.**
+- **The boy of nineteen at the fourth place is nobody's keeper, says so four times, is unpaid and unasked, and this volume must not turn him into a keeper.** His conditions have no end on them and are not a term, and the count of conditions with no end on it is four and is a different class of thing from the count of five.
+
+## After the chapters
+
+1. Write `state/volume-03-batch-0002-summary.md`, including a **Plan deviations** section and an **Inherits** section. **Count the tics and the headers and put the real numbers in the review-pass flags**, and use the split method for emphasis and say that you used it. Batch 0004's review learned that a repair claim in a state file is a claim about prose and it has to be checkable; where it cannot be, it is worse than no claim. **Add a markdown-integrity line to the review-pass flags: the number of paragraphs with an odd count of `**` in the batch, which must be zero, the nesting count, which must be zero, and the per-chapter percentage of words inside `**`.**
+2. Append to `state/chapter-summaries.md` (Chapters 111–120), and update `state/current.md`, `state/continuity.md`, `state/open-threads.md`, and `state/character-state.md`.
+3. Update `NOVEL_SPEC.md`'s Status block to name the next phase accurately.
+4. Write `outline/batches/volume-03-batch-0002.md`, the canon card, **after** the batch and not before it.
+5. **Inspect `outline/volume-03.md`.** Create exactly one directory `workspace/volume-03/batch-0003/` with a detailed `PROMPT.md` for Chapters 121–130. **Do not create more than the next phase. Do not edit controller, workflow, agent, or dispatcher files, and do not touch `state/phase-ledger.json`.**
