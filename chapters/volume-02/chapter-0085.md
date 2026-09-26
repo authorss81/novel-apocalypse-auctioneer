@@ -6,7 +6,7 @@ It cost four coppers. The standing failure that the line of chalk cannot be seen
 
 Somebody asked a chandler. That is the whole of the finding and it is the fourth time this district has had it.
 
-The two men who pushed the cart up were the lamp-man of forty-one and a chandler of about thirty-four named Pell Anselm, who has a counter of oil on Ash Row and a stall in front of it, and they took five and a quarter hours with four changeovers in it. He came back down the same day because he had a stall to open and lost a day of it. Nobody paid either of them, and the entry says that the paint was bought out of the two hundred coppers the ninth place paid on the seventh, and that of the two hundred, four coppers have now been spent on a sign and eleven on a bound copy of a line book and four on a bushel of white paint.
+The two men who pushed the cart up were the lamp-man of forty-one and a chandler of about thirty-four named Pell Anselm, who has a counter of oil on Ash Row and a stall in front of it, and they took five and a quarter hours with four changeovers in it. He came back down the same day because he had a stall to open and lost a day of it. Nobody paid either of them, and the entry says that of the two hundred coppers the ninth place paid on the seventh, six coppers have been spent on a sign and eleven on a bound copy of a line book and a hundred and eighty-three of it has not gone on anything, **and that the four coppers for the bushel are on a line of their own and are not out of the two hundred, and that nobody has yet found out whose they are.**
 
 ---
 

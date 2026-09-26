@@ -30,7 +30,7 @@ And the finding of the fifth of this month is that a signal remembers a shape an
 
 And on the evening of the fifth, in a counting room in Alder Reach, a registrar entered a question in the public lot book as a question, with a date on it, and **it is the first question this district has ever entered as an open question, and the finding of the fifth is that a question in a public book is the only kind of sentence in it that nobody can answer wrong.**
 
-> **WHAT IS A PUBLIC OFFICE THAT A SIGNAL CAN REMEMBERS AND A BASIN CANNOT FIND, AND WHAT WAS IT FOR. ENTERED ON THE FIFTH OF THIS MONTH. FOUR PEOPLE HAVE LOOKED FOR IT IN A REGISTER IN TWO HOURS AND ELEVEN TRADES HAVE FAILED TO STATE WHAT IT DID. THE NAME IS ON THREE BOARDS AND FIVE HUNDRED SHEETS AND IN FIVE REGISTERS AND IN NONE OF THEM. THE NAME IS NOT JOINED TO THE SHAPE ON THE FLOOR OF THIS ROOM AND THE TWO LINES ARE HELD APART AND THE REASON IS ON A SEPARATE PAGE.**
+> **WHAT IS A PUBLIC OFFICE THAT A SIGNAL CAN REMEMBERS AND A BASIN CANNOT FIND, AND WHAT WAS IT FOR. ENTERED ON THE FIFTH OF JULY. FOUR PEOPLE HAVE LOOKED FOR IT IN A REGISTER IN TWO HOURS AND ELEVEN TRADES HAVE FAILED TO STATE WHAT IT DID. THE NAME IS ON THREE BOARDS AND FIVE HUNDRED SHEETS AND IN FIVE REGISTERS AND IN NONE OF THEM. THE NAME IS NOT JOINED TO THE SHAPE ON THE FLOOR OF THIS ROOM AND THE TWO LINES ARE HELD APART AND THE REASON IS ON A SEPARATE PAGE.**
 >
 > **NOBODY IN THIS DISTRICT IS TO ANSWER THIS IN A GUESS. A GUESS ENTERED IN A PUBLIC BOOK IS A THING A STRANGER CAN TAKE COLD IN FOUR YEARS, AND THIS DISTRICT HAS HAD ENOUGH OF THOSE.**
 
@@ -96,7 +96,7 @@ The rain had stopped about two days before and had not come back. **There were a
 
 The lamp was lit by whoever was standing on the platform, and the day was the day, and the day is written in chalk, and a chalk line is not a mark.
 
-**Five things this district has built and cannot name, and on the seventh of this month it has five and not four.** The finding is that a name is the last thing an instrument gets and not the first, and that this district has built four of the five out of people and dates and books and has not named one of them. The wall in a counting room still has six questions on it under a heading that says NOT ANSWERED, and about thirty-one people, and nobody knows what any of them is owed.
+**Six things this district has built and cannot name, and the sixth of them went into a public book on the fifth of this month, and not one of the six has been given a name.** A rehearsal, a platform, a rail, a correction, a question and a security, and the finding is that a name is the last thing an instrument gets and not the first, and that all six of them were made out of people and dates and books. **The wall in a counting room still has five questions on it under a heading that says NOT ANSWERED, and a sixth that has no name and is not on the wall, and nobody knows what any of them is owed.**
 
 Adrian stood on the ballast at the far end of it, at about twenty to five in the afternoon, **not holding anything, and the only thing he had posted was a day a week and three bound copies of a book,** and the day was written in chalk on the board, and the twenty-ninth of this month was written in chalk on the kerb rail, and both of those were things a stranger could read in the dark by putting a hand out.
 

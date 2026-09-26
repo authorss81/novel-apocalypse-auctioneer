@@ -64,7 +64,7 @@ And there is a thing about the twenty minutes between the closing and the throw 
 
 "I had been told no four times and I did it once, **and I wanted two minutes of not being asked anything, and I have not had that since the eighth of March, and there is a man on that bank who has had it every day of his life for nineteen years and I understand now what it is for.**"
 
- The minute says in his own words that he noticed the moment and could not say what he had noticed, and the clerk wrote *the stage is not a moment* in the margin and underlined it twice, and he asked for both underlines to stay.
+The minute says in his own words that he noticed the moment and could not say what he had noticed, and the clerk wrote *the stage is not a moment* in the margin and underlined it twice, and he asked for both underlines to stay.
 
 ---
 
@@ -75,8 +75,6 @@ Nine vehicles standing for a hundred and thirty-eight days came out of a siding 
 The engine had not been steamed since the flood year and a man of sixty-eight had it ready at about nine o'clock, and the first thing anybody heard was not the engine. It was eleven men on a shoulder shouting one word at each other over the sound of rain on a platform, and then it was the engine.
 
 The ninth vehicle cleared the points at about twenty minutes to twelve, and **the boy of seventeen wrote the time down, and it is the only time in nine hundred and six movements in that line book that the ninth vehicle is the ninth vehicle, and the finding of the thirtieth is that a line book has had a column for the number of a vehicle since the flood year and nobody had ever had a reason to write in it.**
-
-PLACEHOLDER_NINTH
 
 The train went east and stopped at the fourth place at about ten past midnight, where there is a toll board and no platform and no station, and four people got off it onto a shoulder in the dark, and three of them had asked to be put down there and one of them had not been asked and is in the count as not asked.
 
@@ -140,7 +138,7 @@ The keeper of the book of departures is fifty-one and has been eleven feet above
 
 One hundred and forty-one out of one hundred and forty-one was what this place could produce at eight o'clock the evening before. One hundred and forty out of one hundred and forty-two is what it can produce now. **The one it cannot produce is the one they made, and neither of the two women knows that anything has happened, and the difference between those two facts is the whole of what a toll on a place is.**
 
-Thirty-one people were on that platform or in that room or on that shoulder, and not one of them can say afterwards what the nine vehicles looked like going round, and two of them were on the ballast at the far end of the platform with their faces turned and were looking straight at it.
+Forty people were on that platform or in that room or on that shoulder, and not one of them can say afterwards what the nine vehicles looked like going round, and two of them were on the ballast at the far end of the platform with their faces turned and were looking straight at it.
 
 And there is one more thing about the toll and it is in the book in two hands and neither hand is his.
 

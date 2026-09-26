@@ -40,7 +40,7 @@ Nobody argued with him and the minute enters that nobody argued with him, and th
 
 The first timetable this district printed runs from the ninth of this month to the twenty-third, and every day on it is a day on which nothing was going to happen. It carries the ninth place and the east end. It does not carry the fourth place, and the reason on the sheet is not a decision. The reason is that a station needs somebody at it, and there is nobody at the fourth place, and a keeper of a board is not a person anybody can be sent to.
 
-A board went up there on the ninth of last month. It has a keeper on it, and a woman who goes once a month for her own trade, and a boy of nineteen who has said four times in three rooms that he is nobody's keeper and who has a piece of cast iron four feet from the end of a bench.
+A board went up there on the ninth of last month. It has a keeper on it, and a woman who goes once a month for her own trade, and a boy of nineteen who has said four times in three rooms that he is nobody's keeper and who had a piece of cast iron four feet from the end of a bench on the day the board went up, **and who has not had one there since the twenty-second of this month, when it went down that bank in a rope to the hut at the ninth place and he held one end of the rope and did not go in.**
 
 So the fourth place has a toll board and no station, and a train that reaches three stations will put people down on a shoulder two miles west of a platform with nobody standing on it. **The finding of the thirtieth is that a station with nobody at it is the fourth thing this district does not have, and that it has now got a name for the other three.**
 
@@ -54,7 +54,7 @@ And the same hour produced the other thing nobody had asked about, which is that
 
 **And then the rate sheet was read out in the front room of the second house before any question was asked of anybody, and it took nine minutes, and nobody in that room had ever heard a rate sheet read out in the room it was made for.**
 
-It is the ward market's rate sheet for a place with four households on it. Fifty coppers a quarter over four thousand and one households. Fourteen of the fifty is the line. Six is printed matter. Thirty of the fifty has never been assigned to anything. Two hundred coppers a quarter was collected at this place on the seventh of last month out of a pail of change by a man who does not read figures and who was given the figure and not the reason. Four of it went on lettering, eleven on a bound copy of the line book, four on a bushel of white paint, and a hundred and eighty-three on nothing.
+It is the ward market's rate sheet for a place with four households on it. Fifty coppers a quarter over four thousand and one households. Fourteen of the fifty is the line. Six is printed matter. Thirty of the fifty has never been assigned to anything. Two hundred coppers a quarter was collected at this place on the seventh of last month out of a pail of change by a man who does not read figures and who was given the figure and not the reason. **Six of it went on lettering, eleven on a bound copy of the line book, and a hundred and eighty-three on nothing.**
 
 **The hundred and eighty-three on nothing was the sentence that stopped the room, and it was not the figure and it was not the two hundred, and the finding of the twenty-ninth is that a district will sit in a front room at eleven at night and be made silent by an amount of money that went nowhere.**
 
@@ -82,15 +82,15 @@ The asking took forty-four minutes and nineteen of them were the sixth question,
 
 The first asking was fifty-one minutes with eleven of them the fifth thing, done by a signalman of the tenth hand who cannot be paid and who walked five and a quarter hours up a bank to do it.
 
-The second was thirty-nine minutes with nine of them the fifth thing, done by a clerk of the ward market who said in a room in May that it would not be her again. It has not been her. She has said since that a clerk is a person and a person can be replaced and that is the point of her.
+The second was thirty-nine minutes with nine of them, done by a clerk of the ward market who said in a room in May that it would not be her again. It has not been her. She has said since that a clerk is a person and a person can be replaced and that is the point of her.
 
-The third was forty-four minutes with nineteen of them the fifth thing, done by a paperer of about thirty-eight whose whole trade is being handed other people's documents without being asked for them.
+The third was forty-four minutes with nineteen of them the sixth question, done by a paperer of about thirty-eight whose whole trade is being handed other people's documents without being asked for them.
 
 > **WHAT A PERSON OUGHT TO KNOW. THE SIXTH QUESTION HAS NO NAME AND IS NOT ON THE WALL AND BELONGS TO A CLERK OF NINETEEN YEARS.**
 >
 > **ONE. THAT THE TOLL ON THIS LINE IS THE ORIGIN AND THE ORIGIN IS A PLACE AND NOT A PERSON. TWO. THAT ONE HUNDRED AND FORTY-ONE MOVEMENTS IN NINE HUNDRED AND SIX HAVE NAMED THIS PLACE AS THE ORIGIN HELD. THREE. THAT A TOLL ON A PLACE TAKES MEMORY OF DEPARTURE AND NOBODY IN THIS DISTRICT HAS EVER PAID IT IN COPPER. FOUR. THAT NOBODY IN THIS ROOM CAN STATE WHAT ONE OF THOSE HUNDRED AND FORTY-ONE IS, INCLUDING THE WOMAN WHO KEEPS THE BOOK, BECAUSE SHE WAS ELEVEN FEET ABOVE THE WATER AT THE TIME. FIVE. THAT THE WORD BEING ASKED ABOUT ENDS ON THE TWENTY-NINTH OF JULY AND NOT ON A FEELING. SIX. THAT A PERSON MAY ANSWER NO TWICE AND BE ASKED TWICE, AND THAT A NO IS A COLUMN AND NOT A DOOR.**
 
-The five things on the wall are how a person is asked whether they will do a job. The sixth is what a person ought to know before they say yes, and nobody has ever given it a name. Jessa Olwin read the six questions off the back of a sheet in her own trade and read them slowly, and the room said that was the first time anybody had read them aloud. **The reason the fifth thing took nineteen minutes is that this is the first of the three askings in which the two people being asked knew what the line costs.**
+The five things on the wall are how a person is asked whether they will do a job. The sixth is what a person ought to know before they say yes, and nobody has ever given it a name. Jessa Olwin read the six questions off the back of a sheet in her own trade and read them slowly, and the room said that was the first time anybody had read them aloud. **The reason the sixth question took nineteen minutes is that this is the first of the three askings in which the two people being asked knew what the line costs.**
 
 The woman at the column said one sentence in the middle of it, and it is the reason she is the water and has been for eleven years.
 
