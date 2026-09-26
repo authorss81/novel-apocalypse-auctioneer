@@ -2,7 +2,7 @@
 
 At about ten in the morning on the seventh of this month a man with a lamp walked the length of nine vehicles standing on a siding four and a half hours up a bank, counting buffers, and the count came to nine, and it took him about forty minutes, and nobody had asked him to do it.
 
-His name is Gilman Trew and he is sixty-eight and he keeps an oil engine in a brick house about eleven feet above the flood at the Harrow end, and his job is an engine, and he is not a signal hand and has never been one, and the reason he counted the buffers is that a man who has been keeping a pump for nine years knows that nine vehicles standing in one place for a hundred and eighteen days is nine vehicles leaning.
+His name is Gilman Trew and he is sixty-eight and he keeps an oil engine in a brick house about eleven feet above the flood at the Harrow end, and his job is an engine, and he is not a signal hand and has never been one, and the reason he counted the buffers is that a man who has been keeping a pump for nine years knows that nine vehicles standing in one place for a hundred and sixteen days is nine vehicles leaning.
 
 He did not say that they were leaning. He said the count, and then he said that the fifth vehicle is about half an inch nearer the column than it was in the fourth year, and that a rail on a siding settles, and that **it is not a fault and it is not a stall and it is not a mystery, and he would like whoever is writing the book to write down that a man of sixty-eight said it was not a mystery before anybody asked him whether it was.**
 
@@ -44,7 +44,7 @@ It is the only thing in this district that throws those points, and the ninth pl
 
 "I will not carry it again," said the boy. "I said so in a yard and I am saying it on a bench. **I will hold it while somebody else ties a rope on it and I will not be the one who goes in the hut, and if anybody tries to make me be the one who goes in the hut they are going to have to do it in front of a keeper and a board.**"
 
-The keeper of that hut is fifty-one and has held the only pair on that line for eleven years and she said the thing about the bracket before anybody asked her, in nine words, standing in her own doorway with her arms folded.
+**The hut at the fourth place has no keeper and has not had one in nine years, and that is the only reason the iron is under a coat on a bench with a book on top of it.** Four hours back down that bank, at the ninth place, the woman who keeps the only pair on this line is fifty-one, and she said the thing about the bracket before anybody asked her, in nine words, standing in her own doorway with her arms folded.
 
 "The bracket was cut in the ninth year," she said, "**and I have had it empty for five years, and I have never once asked anybody to fill it, and I want that written down before anybody decides I have been sitting on it.**"
 

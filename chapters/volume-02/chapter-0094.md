@@ -40,7 +40,7 @@ The east end is eleven minutes' walk from the ward market counter. **Nobody had 
 
 "He will say yes," said the woman of fifty-one. "He has said yes four times in eleven weeks and he has never once been asked about his own hand, and if you ask him he will tell you the standing objection before you have finished the question and he will be right."
 
-He did. His name is not in this chapter's first half because he is not the fourth bearer and his name is on the sheet in the fourth line, and **he is the second of the three, and the first week on the rotation is still the keeper's, and the order of the weeks was settled in May on the back of a mechanic's pencil on a trade's invoice and has not been touched since.**
+He did. His name is not on this page because he is not the fourth bearer and his name is in the fourth line of the sheet, and **he is the second of the three, and the first week on the rotation is still the keeper's, and the order of the weeks was settled in May on the back of a mechanic's pencil on a trade's invoice and has not been touched since.**
 
 He is a man of about thirty-one and he is a signalman of the district's own crew and he walked up the bank four times between the fourteenth and the seventeenth to be in on this, and he was not paid for any of it and did not ask.
 
@@ -110,7 +110,7 @@ And the sheet they wrote on the seventeenth of this month is the fourth line of 
 >
 > **HE IS NOT AN OFFICER AND HE IS NOT IN A ROOM WITH A DOOR ON IT AND HE IS NOT THE MAN WHO DRAFTED ANYTHING. HE LIVES ELEVEN MILES FROM THE NEAREST FRAME THAT ANYBODY IN THIS DISTRICT CAN POINT AT, AND HE HAS BEEN THERE NINETEEN YEARS, AND THE FINDING IS THAT THE DISTRICT COULD NOT NAME HIM BECAUSE NOBODY HAD EVER WALKED TWO MILES.**
 >
-> **AND THE MAN WHO POSTED THE SECURITY ON THE TWENTY-SIXTH OF JUNE IS A PERSON THE FOURTH BEARER HAS NEVER MET.**
+> **AND THE MAN WHO POSTED THE SECURITY THIS CHARTER IS FOR IS A PERSON THE FOURTH BEARER HAS NEVER MET.**
 
 ---
 

@@ -50,7 +50,7 @@ The eleven coppers the market pays a quarter for the bench, the lamp, the chalk 
 
 It is thirty feet long and nine feet of face. It is about a hundred and forty sleepers laid on the ballast and levelled, and boards on top, and a kerb of old rail on the front edge, and it is two feet above the shoulder so that a person can get off it and get back on the path, and at the west end of it there is a lamp on a post that was cut out of a green pipe lying across a cess at the third changeover.
 
-**Nobody laid a stone. Nobody put a mark in the ground. **The platform has four feet of face and thirty feet of length and no mark on it of any kind, and the finding is that a platform is not a mark and a mark may not carry a job, and a platform is not asked to do any job at all except stop being the place where a thing stops, and that is the whole of what the rule was for.****
+**Nobody laid a stone. Nobody put a mark in the ground.** The platform has four feet of face and thirty feet of length and no mark on it of any kind, and the finding is that a platform is not a mark and a mark may not carry a job, and a platform is not asked to do any job at all except stop being the place where a thing stops, and **that is the whole of what the rule was for.**
 
 The man who posted it said one thing about it on the evening of the twenty-first, in a yard, to about thirty people, and it is in the minute in his own words.
 
@@ -84,11 +84,11 @@ The hour and a half was spent on a cart, a rope and a barrow, and it found out t
 
 And on the afternoon of the twenty-second of this month, at about four o'clock, four pounds of cast iron went up a bank for the second time in this year, and the second time it went in a rope with a lever handle through the loop at the wedged end, and the boy of nineteen held one end of the rope and did not go in the hut.
 
-He said beforehand that he would hold it and would not be the one who went in, and he said it in a yard in Alder Reach on the nineteenth and it is in the minute, and **he held it for about four hours and forty minutes and did not go in, and the keeper of that hut, who is fifty-one and has held the only pair on that line for eleven years, carried it in herself with two men on a board.**
+He said beforehand that he would hold it and would not be the one who went in, and he said it in a yard in Alder Reach on the nineteenth and it is in the minute, and **he held it for about four hours and forty minutes and did not go in.** The keeper of that hut, who is fifty-one and has held the only pair on that line for eleven years, carried it in herself with two men on a board and set it down on the bench under the window in a bag. **She was asked that night whether she wanted it in the bracket, and said she would put it in on a night, and asked her what night, and nobody in that hut could name one, because the fourth bearer had not been named until the seventeenth and there was nothing on any sheet in this district that said which night anything was going to happen on.**
 
 The line is five and a quarter hours with four changeovers. **It took six hours and a quarter in the rain, and the figure is in the boy's index on the twenty-second of this month, and beside it, on the same line, are the eleven hours the party came back in May, and the five and a quarter the tenth hand wrote down in March, and the four and three-quarters that four people believed for a fortnight, and none of the five has been struck, and the entry says that a district which has been wrong five times about a walk and right once is not a district that should be asked for a correction.**
 
-The train on the siding had stood a hundred and thirty-one days on the twenty-second of this month. It is nine vehicles and it came in on its own wheels with a man in the cab who said it was stabled, and it has not moved, and on the twenty-second of this month there was a piece of cast iron in a bag on a bench in a hut at the fourth place, four hours up a bank, and the bracket at the ninth place was still empty.
+The train on the siding had stood a hundred and thirty-one days on the twenty-second of this month. It is nine vehicles and it came in on its own wheels with a man in the cab who said it was stabled, and it has not moved, and **on the evening of the twenty-second of this month there was a piece of cast iron in a bag on a bench under the window of the hut at the ninth place, four hours back down the bank, and the bracket in the frame was still empty, and it stayed empty for the seven days that followed it.**
 
 ---
 
@@ -100,7 +100,7 @@ He is Selik Marne. He is argued with and never defeated and never converted and 
 
 "That is all true," said the tenth hand, from about nine feet away.
 
-"**And it is not the finding, and I have had it for a fortnight, and I have been waiting for somebody to build something so that I could say it about a real thing instead of a plan.** The finding is that a platform is a place a thing stops and a person is not a thing, and this district has spent nine weeks being careful about that difference and has in two days built thirty feet of board that a person has to get off. The reason nobody stopped it is that the woman of the column said come and stand on it any day, and she was asked whether she wanted thirty feet of board and she was not asked whether a man of sixty-one could find it in the dark."
+"**And it is not the finding, and I have had it for a fortnight, and I have been waiting for somebody to build something so that I could say it about a real thing instead of a plan.** The finding is that a platform is a place a thing stops and a person is not a thing. This district has spent nine weeks being careful about that difference and has in two days built thirty feet of board that a person has to get off. The reason nobody stopped it is that the woman of the column said come and stand on it any day, and she was asked whether she wanted thirty feet of board and she was not asked whether a man of sixty-one could find it in the dark."
 
 Nobody argued with him and the minute enters that nobody argued with him and that the reason was that he had been right about a drop in the dark in April and had been laughed at in May, and the entry says that a man who has been laughed at once for a correct thing is not a man who can be hurried.
 
