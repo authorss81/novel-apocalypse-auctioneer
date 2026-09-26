@@ -10,14 +10,14 @@ The first withdrawal notice in this district was filled in on the thirtieth of O
 The form itself was settled on the twenty-eighth and it is a single sheet. **It is in the minute in the hand of a man of about thirty-eight who deals in second-hand paper, who wrote it out twice and would not sign it, and a clerk of nineteen years entered that a man who writes a form and will not sign it is a man who has been in this district eleven weeks.**
 
 > **A PERSON WHO HAS STOOD IN A FRAME IN THIS SEASON MAY GIVE NOTICE ON ANY DAY BEFORE THE FIRST OF APRIL THAT THEY WILL NOT STAND IN THAT FRAME AGAIN.**
-> >
-> > **SEASON WITHDRAWN FROM: ______________**
-> >
-> > **FRAME: ______________**
-> >
-> > **DATE GIVEN: ______________**
-> >
-> > **THE NOTICE IS GOOD FROM THE DAY IT IS GIVEN. IT IS NOT A RELEASE AND IT IS NOT A CONSENT AND IT DOES NOT GIVE BACK A YEAR. NOBODY MAY ASK THE PERSON WHY.**
+>
+> **SEASON WITHDRAWN FROM: ______________**
+>
+> **FRAME: ______________**
+>
+> **DATE GIVEN: ______________**
+>
+> **THE NOTICE IS GOOD FROM THE DAY IT IS GIVEN. IT IS NOT A RELEASE AND IT IS NOT A CONSENT AND IT DOES NOT GIVE BACK A YEAR. NOBODY MAY ASK THE PERSON WHY.**
 
 The line at the top is the whole of the argument and it took about four hours on the twenty-eighth and about nine minutes on the thirtieth **and a man of thirty-four who mends fencing said that four hours is one day and a half in this district and that nobody has ever been charged for the difference.**
 

@@ -11,14 +11,14 @@ He wanted it at the top. A man of thirty-four who mends fencing said the top is 
 So it went in the middle and a man of fifty-six said that a document with the important part in the middle is a document that a person has to stay for, and that this district is very good at keeping people and has never once had to keep anybody, and that the two are not the same and are not joined.
 
 > **A PERSON WHO HAS STOOD IN A FRAME IN THIS SEASON MAY GIVE NOTICE ON ANY DAY BEFORE THE FIRST OF APRIL THAT THEY WILL NOT STAND IN THAT FRAME AGAIN. THE NOTICE IS GOOD FROM THE DAY IT IS GIVEN. IT IS NOT A RELEASE AND IT IS NOT A CONSENT AND IT DOES NOT GIVE BACK A YEAR. NOBODY MAY ASK THE PERSON WHY.**
-> >
-> > **PERSON: ______________**
-> >
-> > **FRAME: ______________**
-> >
-> > **DATE GIVEN: ______________**
-> >
-> > **THE SEASON IS NOT NAMED ON THIS SHEET. THE SEASON IS A LENGTH OF TIME AND THE NOTICE IS ABOUT A FRAME.**
+>
+> **PERSON: ______________**
+>
+> **FRAME: ______________**
+>
+> **DATE GIVEN: ______________**
+>
+> **THE SEASON IS NOT NAMED ON THIS SHEET. THE SEASON IS A LENGTH OF TIME AND THE NOTICE IS ABOUT A FRAME.**
 
 Nobody read the last line aloud in a room where about nineteen people were sitting until a man of about thirty-eight who deals in second-hand paper read it aloud himself and said that it was the first line of a form in eleven weeks that he had not known was there when he was handed the form, and that he had handed forms to people for nineteen years and had never once written a line about what a form was not.
 

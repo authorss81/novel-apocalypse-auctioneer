@@ -29,14 +29,14 @@ He took the pen out of the clerk's hand, which is not his hand and not his pen a
 And then a rule arrived there at about eleven in the morning on the seventh of November, and nobody standing there had asked for it, and the man of thirty-eight did not ask for it and is the only person on this line who could have got one by asking.
 
 > **A LEDGER IS A RECORD OF WHAT A THING DID. IT IS NOT A REMEDY AND IT IS NOT A PRICE AND IT IS NOT A CLAIM.**
-> >
-> > **A YEAR ENTERED IN A LEDGER IS ENTERED ONCE. WHICH COLUMN IT IS IN DOES NOT DECIDE WHEN IT WENT.**
-> >
-> > **A RIGHT TO WITHDRAW IS A DOOR IN ONE DIRECTION AND IT DOES NOT REACH BACKWARDS.**
-> >
-> > **A PERSON WHO HAS NOT BEEN ASKED HAS NOT WITHDRAWN. YOU MAY NOT ENTER A PERSON AS HAVING WITHDRAWN, THERE IS NO COLUMN FOR IT, AND YOU MAY NOT MAKE ONE IN FRONT OF A STRANGER.**
-> >
-> > **THE MAN YOU NAMED IS NOT A ROW. HE IS THE PLACE A PERSON LOOKS WHEN THEY WANT TO ASK WHO OWNS THE YEARS.**
+>
+> **A YEAR ENTERED IN A LEDGER IS ENTERED ONCE. WHICH COLUMN IT IS IN DOES NOT DECIDE WHEN IT WENT.**
+>
+> **A RIGHT TO WITHDRAW IS A DOOR IN ONE DIRECTION AND IT DOES NOT REACH BACKWARDS.**
+>
+> **A PERSON WHO HAS NOT BEEN ASKED HAS NOT WITHDRAWN. YOU MAY NOT ENTER A PERSON AS HAVING WITHDRAWN, THERE IS NO COLUMN FOR IT, AND YOU MAY NOT MAKE ONE IN FRONT OF A STRANGER.**
+>
+> **THE MAN YOU NAMED IS NOT A ROW. HE IS THE PLACE A PERSON LOOKS WHEN THEY WANT TO ASK WHO OWNS THE YEARS.**
 
 A clerk of nineteen years asked what an address is and the rule did not say, and a man of thirty-eight said it in forty words and the minute has it in his own words, and the man of twenty-six was standing nine feet away when he said it and was not asked whether he agreed.
 
