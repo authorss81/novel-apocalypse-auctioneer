@@ -4,23 +4,23 @@ A drover of about sixty-one stood at the wall of the River and Carriage notice b
 
 He is called Abner Skell. He came into the district on the fourteenth with eleven tons of lime out of the uplands, which is a load of about four days' work and a road that does not come back this way again until the twenty-first. He is not a trade, he is not on a roll, he is not a household in this district and he has never been asked anything by anybody in this city. The door was held for him by a chandler, as it is held for anybody who asks.
 
-He had been in the city nine hours. He had eaten once. And he was standing in front of two pieces of paper trying to work out which of them was telling the truth.
+He had been in the city since about six in the morning. He had eaten once. And he was standing in front of two pieces of paper trying to work out which of them was telling the truth.
 
 ---
 
 **And the first thing anybody in Alder Reach found out about a stranger holding two sheets is that nobody in this city knew what day the fifteenth of this month was, and that all three people he asked gave him a different answer, and that two of them were wrong.**
 
-The ward market's sheet had gone out on the fifth, five hundred copies, one to each ward, one to the notice board of the River and Carriage, one to the tram arch, and it had a day against every train and no weekday anywhere on it, because the district does not have a calendar and had never needed one.
+The ward market's sheet had gone out on the fifth, five hundred copies, one to each of the eleven boards, one to the notice board of the River and Carriage, one to the tram arch, and the rest to the wards and the counters, and it had a day against every train and no weekday anywhere on it, because the district does not have a calendar and had never needed one.
 
 Halloway Reed's sheet was dated **MONDAY THE FIFTEENTH OF THIS MONTH** across the top in the same size of type as the price, and the secretary of the ward market read the date out in the counting room on the fifteenth at about ten in the morning and asked the room what Monday was, and the room found out.
 
-"The chapel at the west end has a calendar on the wall and a woman of forty-five in that place has counted forty-six days off it in six weeks and got every one of them right," said Ivo Stenn, "**and I have been in that chapel once and I did not look at it, and I have been a clerk of this market for six years and I can tell you what the market's half-year is worth and I cannot tell you what day today is.**"
+"The chapel at the west end has a calendar on a wall and a sexton of about sixty-eight in that place has counted forty-six days off it in six weeks and got every one of them right," said Ivo Stenn, "**and I have been in that chapel once and I did not look at it, and I have been a clerk of this market for six years and I can tell you what the market's half-year is worth and I cannot tell you what day today is.**"
 
 "**I make it Monday,**" said a chandler.
 
 "**I make it the day before the day the haulier comes up the bank,**" said a haulier, "**and that is not a day and I have just heard myself say it and I am not taking it back.**"
 
-"**Then the fifteenth is the fifteenth,**" said Stenn, "**and a man on a tram arch has printed a day on it, and the market printed the same thing on the third of last month without knowing there was a question, and both sheets are in this city and the day is on one of them and not on the other, and that is the whole of the difference and I am putting it in the minute and I am not going to be able to sleep.**"
+"**Then the fifteenth is the fifteenth,**" said Stenn, "**and a man on a tram arch has printed a day on it, and the market printed the same thing on the third of this month without knowing there was a question, and both sheets are in this city and the day is on one of them and not on the other, and that is the whole of the difference and I am putting it in the minute and I am not going to be able to sleep.**"
 
 ---
 
@@ -62,13 +62,13 @@ The woman with the stick said, "**And what happens to a person who reads it.**"
 
 "**There is a printed line at the bottom of the middle one. It says the train at the west end has stood fifty-one days and cannot be moved east, and that the west end is held by two named people until the twenty-ninth of this month, and that a timetable is not a promise and this one knows it. It is at the foot of the page in the same type as the price. I have had it read to me four times and it is the only sentence either man printed that is about a person.**
 
-"**So: the middle one is telling you that it will not be able to help you on a day, and the other one is telling you that it will be able to help you for four coppers. And I have been in this city nine hours, and I do not know which of those is a lie, and I know which one I would want to be standing at.**"
+"**So: the middle one is telling you that it will not be able to help you on a day, and the other one is telling you that it will be able to help you for four coppers. And I have been in this city since six in the morning, and I do not know which of those is a lie, and I know which one I would want to be standing at.**"
 
 ---
 
-**And what she wanted to be standing at took the district four days to be able to say, and the four days are the batch's argument about strangers, and the count is four, and it is entered.**
+**And what she wanted to be standing at took the district two days to be able to say, and the count of strangers is four, and it is entered, and nobody in Alder Reach has a column for it.**
 
-Nobody in the district had ever asked what a stranger does with a printed sheet, and the reason nobody had asked is that for eleven years this city printed nothing. The first thing this market has printed since the flood year went up on eleven boards on the fifth of last month and the second went up on the fifteenth of this month and a man in a good coat on a tram arch printed a third in between, and in five days four people who are not in this district came to the ward market counter and asked one question, and Rutt read the same answer to all four of them, and the answer is at the bottom of a sheet.
+Nobody in the district had ever asked what a stranger does with a printed sheet, and the reason nobody had asked is that for eleven years this city printed nothing. The first thing this market has printed since the flood year went up on eleven boards on the fifth of this month, and a man in a good coat on a tram arch put one up on the fifteenth, and by that afternoon there were two sheets in this city and a man of sixty-one holding both of them, and in one afternoon four people who are not in this district came to the ward market counter and asked one question, and Rutt read the same answer to all four of them, and the answer is at the bottom of a sheet.
 
 "**What do I do with this,**" said the first, a man with a load of slate.
 
@@ -80,15 +80,15 @@ And the fourth was a man of about forty who had already bought two places at fou
 
 "**I have paid eight coppers and I have got a piece of paper and the piece of paper does not say when the train goes, and it does not say whether it is going, and it does not say what happens to me if I stand on a platform and it does not come. Can anybody tell me those three things.**"
 
-And Rutt, who is a reader at a counter at eleven coppers a quarter for four days a week and whose term has no clause for a shoulder, said the thing that is in the book in her own words and that is the finding of the batch on strangers.
+And Rutt, who is a reader at a counter at eleven coppers a quarter for four days a week and whose term has no clause for a shoulder, said the thing that is in the book in her own words and that is the finding of the whole afternoon about strangers.
 
 "**No,**" she said. "**And I will read you the whole of both sheets, in order, including the bottom, and I will read them twice, and I will do that for anybody who comes to that counter for the rest of the time I have got, and I want it entered that I have said no four times in one afternoon and that three of the four were disappointed and one of them was not, and that the one who was not is the one I would have given my own name to.**"
 
-the man of forty said, "**Then I'll take the two back and I'll go and look at the west end, because a man who cannot tell me three things but will tell me all three that he does not know is a man I can do business with, and I have been on this road since I was nine.**"
+The man of forty said, "**Then I'll take the two back and I'll go and look at the west end, because a man who cannot tell me three things but will tell me all three that he does not know is a man I can do business with, and I have been on this road since I was nine.**"
 
 And Abner Skell went and looked at the west end, on the sixteenth, at about ten in the morning, and nobody sent him and nobody offered to show him the way, and he asked one person on the terrace where the railway was and the person said east and then said that he would not go, and Skell went.**
 
-He got to the fourth place at about two in the afternoon and could not have told anybody which place it was, and he says so, and the reason he says so is the finding of the whole of this chapter.
+He got to the fourth place at about two in the afternoon and could not have told anybody which place it was, and he says so, and the reason he says so is the finding of the two days.
 
 "**I have stood at the first, the second and the third as well, coming up, and I could not tell one from another and I have been a man who notices a thing for forty years. They are four huts on a brick wall with a lamp on a post outside each one and a plate under each lamp with a figure on it, and I could not read the figures, and there is a bench in each one and a stove in each one and the same two holes in each roof.**
 
@@ -138,7 +138,7 @@ And the answer came on the seventeenth of April, in a counting room, in about el
 
 The market printed a second line under the toll column and it reads, in the same type as everything else:
 
-> **THIS COLUMN IS EMPTY ON THE SEVENTEENTH OF THIS MONTH AT ELEVEN IN THE MORNING. IT WILL STAY EMPTY UNTIL SOMEBODY IN THIS DISTRICT CAN STATE THE AMOUNT OF AN ORIGIN, AND NOBODY CAN, AND THAT IS NOT A SECRET AND IT IS A GAP. THE OTHER SHEET HAS FOUR COPPERS IN THE SAME PLACE AND FOUR COPPERS IS A PRICE AND A PRICE IS AN ANSWER, AND WE ARE NOT SAYING THE OTHER SHEET IS WRONG. WE ARE SAYING THAT A STRANGER CAN TELL WHICH OF THE TWO HOLES IS A HOLE, AND ON THE THIRD OF LAST MONTH HE COULD NOT, AND THE ONLY THING THAT HAS CHANGED IN THIS CITY IN A FORTNIGHT IS THAT SOMEBODY PRINTED A DATE AND AN HOUR UNDER AN EMPTY COLUMN.**
+> **THIS COLUMN IS EMPTY ON THE SEVENTEENTH OF THIS MONTH AT ELEVEN IN THE MORNING. IT WILL STAY EMPTY UNTIL SOMEBODY IN THIS DISTRICT CAN STATE THE AMOUNT OF AN ORIGIN, AND NOBODY CAN, AND THAT IS NOT A SECRET AND IT IS A GAP. THE OTHER SHEET HAS FOUR COPPERS IN THE SAME PLACE AND FOUR COPPERS IS A PRICE AND A PRICE IS AN ANSWER, AND WE ARE NOT SAYING THE OTHER SHEET IS WRONG. WE ARE SAYING THAT A STRANGER CAN TELL WHICH OF THE TWO HOLES IS A HOLE, AND ON THE THIRD OF THIS MONTH HE COULD NOT, AND THE ONLY THING THAT HAS CHANGED IN THIS CITY IN A FORTNIGHT IS THAT SOMEBODY PRINTED A DATE AND AN HOUR UNDER AN EMPTY COLUMN.**
 
 And the arch printed the same two lines, one underneath his own four coppers, in the same type, with a line above them that says **AND I HAVE PRINTED THIS BECAUSE THE MARKET PRINTED IT FIRST AND I HAVE SAID SO ON THE ARCH AND I AM NOT GOING TO BE THANKED FOR IT IN A STREET.**
 
@@ -156,4 +156,4 @@ And the arch printed the same two lines, one underneath his own four coppers, in
 
 "**I am not going to write down how many times he has said it. A count of how many times a man has said a thing is a measure of him and not of the thing, and this district has spent six weeks being the best counter of things in the basin, and it is the first time I have understood that there is a thing you get better at by refusing to count it.**"
 
-**And the last thing on the seventeenth of April is a number and it is four, and it is the number of strangers who came to that counter in five days, and it is the first number anybody in Alder Reach has ever entered about people who were not asked anything, were not on a roll, and did not have to pay a rate, and the entry says in its own words that the district has been counting its own for six weeks and has now been counted by four.**
+**And the last thing on the seventeenth of April is a number and it is four, and it is the number of strangers who came to that counter in one afternoon, and it is the first number anybody in Alder Reach has ever entered about people who were not asked anything, were not on a roll, and did not have to pay a rate, and the entry says in its own words that the district has been counting its own for six weeks and has now been counted by four.**

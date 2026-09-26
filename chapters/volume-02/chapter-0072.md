@@ -1,6 +1,6 @@
 # Chapter 72: A Hut Four
 
-At about seven in the morning on the seventh of this month a boy of nineteen was woken up on a bench in a signal hut at the fourth place by a man holding a lamp, and there was a cast-iron interlocking tongue lying along the length of the bench beside his head, about the length of a forearm and four pounds of it, one end cut to a wedge worn to a shine and a red signal-wire loop through a hole at the other, and it had not been there when he went to sleep.
+At about ten past ten in the morning on the seventh of this month a boy of nineteen was woken up on a bench in a signal hut at the fourth place by a man holding a lamp, and there was a cast-iron interlocking tongue lying along the length of the bench beside his head, about the length of a forearm and four pounds of it, one end cut to a wedge worn to a shine and a red signal-wire loop through a hole at the other, and it had not been there when he went to sleep.
 
 The rain had come through the roof of that hut in four places for as long as anybody could remember and it had come through two of them all night. There is a stove in the corner of it with a door that shuts and a chimney that draws, and there is a bench bolted to the floor along the back wall, and there is a lamp on a post outside the door with a nameplate under it that says **HARROW**, and the nameplate is the thing and not the place, and there has been no keeper in that hut since the flood year because there is nothing coming from that end.
 
@@ -10,7 +10,7 @@ He was not a signal hand. He has never held a pair. He did not know what the thi
 
 ---
 
-The three people who came up that morning left Alder Reach at about half past four and got to the fourth place at about ten past seven, and it is four hours on foot with four changeovers in it and they did all four, and it took them five and a quarter because they were carrying a lamp and Rutt could not manage the step down of two feet six inches at the eighth with a lamp in her hand.
+The three people who came up that morning left Alder Reach at about half past four in the morning and got to the fourth place at about ten to ten, and it is four hours on foot with four changeovers in it and they did all four, and it took them five and a quarter because they were carrying a lamp and Rutt could not manage the step down of two feet six inches at the eighth with a lamp in her hand. **They did not walk back. It is nine hours there and back in that weather and there is a stove in that hut and a boy asleep in it, and they were there two nights, and the finding about the two nights is entered and it is that nobody had thought to send anybody to that hut in four years and two of them went and stayed.**
 
 The man from the water office was Petrus Nye, thirty-four, a bridge clerk of six years who has never been west of the second place in his life and who had been at the fourth place once, on a bicycle, in the flood year, to look at a nameplate.
 
@@ -22,7 +22,7 @@ The tenth hand came because the fourth place is on a curve and the ballast on th
 
 **They found the boy and the iron and about four other things in about eleven minutes, and the order they found them in is the order they are in.**
 
-Nye put the lamp on the bench and the boy woke up and said something that nobody has repeated, and then the boy said the next thing, which was that the iron had been on the bench when he came in off the bank on the night before last and he had put it inside his coat because the roof was going and it was cold and it had been in the hut when he got back from the water office at about nine.
+Nye put the lamp on the bench and the boy woke up and said something that nobody has repeated, and then the boy said the next thing, which was that the iron had been on the bench when he came in off the bank on the night before, and that he had put it on the bench himself, and that the roof was going in two places and it was cold, and that it was not on the frame when he got in at about nine because there is no frame.
 
 "And where did you get it," said the tenth hand.
 
@@ -52,9 +52,9 @@ Nevin Roke looked at the floor of the hut for a while.
 
 ---
 
-**And they did the thing that this district does, which is to write down what they can stand behind, and about four minutes of that is the whole of the fourteenth part of the results and the rest of it is what the book could not say.**
+**And they did the thing that this district does, which is to write down what they can stand behind, and about four minutes of that is the whole of the entry for the seventh and the rest of it is what the book could not say.**
 
-Orren Pike got the first entry into the copy at about twenty past seven and then stopped with the pen above the page, and the reason he stopped is the most useful thing anybody in Alder Reach did all morning.
+Orren Pike got the first entry into the copy at about half past ten and then stopped with the pen above the page, and the reason he stopped is the most useful thing anybody in Alder Reach did all morning.
 
 "**I can't put the date on it,**" he said. "**I want to write the sixth of April because that's when it turned up on the bench. But she says it was on the ballast at half past eight on the sixth, and if I put the sixth then it looks like it was there on the sixth and it was, and if I put the seventh then it looks like nobody knows when it came and nobody does.**"
 
@@ -80,7 +80,7 @@ The Harrow Tongue is the only thing on the near section that throws the points. 
 
 "**Yes.**
 
-"**And the train is on a siding a mile and three quarters from here with no iron in the frame, and it cannot go east, and it cannot go west, and it has stood fifty-five days.**"
+"**And the train is on a siding four hours on foot from here with no iron in the frame, and it cannot go east, and it cannot go west, and it has stood fifty-five days.**"
 
 "And the boundary," said Rutt.
 
@@ -96,15 +96,15 @@ And Nevin Roke, from the doorway of the hut, in a voice nobody had been listenin
 
 ---
 
-**And the woman at the column, who is the water, said the thing that made the batch's problem, and she said it to four people in a doorway on the eighth of this month and it is in the book in her words, and it is the first thing she has said in nine days, and she had not been asked.**
+**And the woman at the column, who is the water, said the thing that made the problem, and she said it to four people in a doorway on the eighth of this month and it is in the book in her words, and it is the first thing she has said since the twenty-ninth of last month, and she had not been asked.**
 
-"**You are all standing in my hut talking about a lever,**" she said. "**So I will tell you what your word has been doing since the Friday.
+"**You are all standing in my hut talking about a lever,**" she said. "**So I will tell you what your word has been doing since it was laid.
 
-"**It has been said five times. It stopped the haulier twice, because he was on the line with a barrow and he put the barrow down on the ballast and stood on the bank for about a minute and a half and then went up, and he was not angry, and he has come up the bank since. It stopped a man with a barrow and a dog on the Saturday, and the dog did not understand it at all. And it stopped a boy with a handcart on the Sunday, and that one is a boy of about eleven and he cried, and his mother took him home.**"
+"**It has been said five times in the ten days. It stopped the haulier twice, because he comes up this bank twice a week and he was on the line with a barrow both times, and he put the barrow down on the ballast and stood on the bank for about a minute and a half and then went up, and he was not angry, and he has come up the bank since. It stopped a man with a barrow and a dog on the second day, and the dog did not understand it at all. And it stopped a boy with a handcart on the third day, and that one is a boy of about eleven and he cried, and his mother took him home.**"
 
 "Then it is doing something," said the tenth hand.
 
-"**It is doing the only thing it can do, which is stopping people, and it is not a railway instrument and it has not been a railway instrument since Friday morning, and none of the three of you noticed, because all three of you were in this room looking for a lever.**"
+"**It is doing the only thing it can do, which is stopping people, and it is not a railway instrument and it has not been a railway instrument since the morning it went, and none of the three of you noticed, because all three of you were in this room looking for a lever.**"
 
 Nobody argued with her. **And the finding the district published about it two days later is in her words and it is not softened, and the part that matters is the part where she says that a word which was written about a train has quietly become a word about people, and that the two women who hold it have not been asked about that and are not going to be asked about that, because a word is a word and it does not need its authors to agree with it any more.**
 
@@ -122,7 +122,7 @@ Sef Anyard stood in front of it for about a minute and a half without touching i
 
 "And now somebody has."
 
-"**Now somebody has, and there is nothing in the bracket, and I would like it entered that the two of us stood in this room on the tenth of this month and looked at an empty bracket and neither of us said anything for about a minute and a half, and that the minute and a half is in the book, because I have been in this hut for eleven years and a thing has not been in that bracket since the Friday and I have not slept properly since the Friday, and the reason I have not slept is that I keep getting up and looking at it, and that is what a thing you are responsible for does to you, and I want it written down as a cost and not as a symptom.**"
+"**Now somebody has, and there is nothing in the bracket, and I would like it entered that the two of us stood in this room on the tenth of this month and looked at an empty bracket and neither of us said anything for about a minute and a half, and that the minute and a half is in the book, because I have been in this hut for eleven years and a thing has not been in that bracket since the sixth and I have not slept properly since the sixth, and the reason I have not slept is that I keep getting up and looking at it, and that is what a thing you are responsible for does to you, and I want it written down as a cost and not as a symptom.**"
 
 That went in the book in her words, and it is the first entry anybody at Lot 17 has ever entered at the request of the person it is about, and Nessa Pell wrote a note under it saying that she had been asked whether she wished it entered, and that she had said yes, and that the asking had an hour on it.
 
@@ -146,14 +146,14 @@ He did not say anything about it to anybody in this district and it was in the w
 
 And at about half past four that afternoon a man of thirty-four from the bridge office stood at the rail at the fourth place with a lamp and a book and read all of it out in the ordinary way to about nine people, and then he said the thing that is in his own book and that the board asked him for and that took about four minutes.
 
-"**I have been in this hut since eight o'clock this morning and I have written down one thing and I have been asked for a second thing and I am going to say the second thing and then I am going to go back to a bridge.
+"**I have been in this hut since ten o'clock this morning and I have written down one thing and I have been asked for a second thing and I am going to say the second thing and then I am going to go back to a bridge.
 
-"**There is no keeper in this hut and there has not been one since the flood year and the reason there has not been one is that there is nothing coming from this end, and that is written on the flood sheet and it is correct. And I have been in this hut for eight hours today and there is a boy asleep in it, and that is not on the flood sheet, and he is nineteen, and he was here before the water came, and the reason he is here is that the hut is dry and nobody has ever told him he is allowed to be.
+"**There is no keeper in this hut and there has not been one since the flood year and the reason there has not been one is that there is nothing coming from this end, and that is written on the flood sheet and it is correct. And I have been in this hut for six and a half hours today and there is a boy asleep in it, and that is not on the flood sheet, and he is nineteen, and he was here before the water came, and the reason he is here is that the hut is dry and nobody has ever told him he is allowed to be.
 
 "**So I have two things to say and they are both about a hut and neither of them is about a lever.
 
 "**One: a hut with a door and a stove and a chimney that draws is a place a person can be, and this district has one of them that nobody has counted, and the man who found him is the man who is paid to look at nameplates.
 
-"**Two: the reason this line has gone wrong in the last nine years is not a stall and it is not a Fault and it is not the ground. **It is that nobody was ever asked to be anywhere on it.** And I am a bridge clerk, and I have been paid to be a careful man about one river for six years, and the safest thing I have ever done in this job was write down the day the water came. And I am not going to stand in a hut and pretend that I am the answer to that, because I am not, and I am going back to the water office at seven o'clock and I would like the book to say that I asked to go back and was not refused.**"
+"**Two: the reason this line has gone wrong in the last nine years is not a stall and it is not a Fault and it is not the ground. **It is that nobody was ever asked to be anywhere on it.** And I am a bridge clerk, and I have been paid to be a careful man about one river for six years, and the safest thing I have ever done in this job was write down the day the water came. And I am not going to stand in a hut and pretend that I am the answer to that, because I am not, and I am going to walk back up this bank in this rain tonight and I will be in a counting room in Alder Reach at about ten o'clock, and I would like the book to say that I asked to go back and was not refused.**"
 
-Nessa Pell entered all of it, including that he asked, and the finding under it is that the first man this district has sent to look at a railway in nine years asked to go back within eight hours, and that this is not entered as a complaint and is entered as a fact about a man and not about a bridge office.
+Nessa Pell entered all of it, including that he asked, and the finding under it is that the first man this district has sent to look at a railway in nine years asked to go back within six and a half hours, and that this is not entered as a complaint and is entered as a fact about a man and not about a bridge office.

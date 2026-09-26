@@ -2,7 +2,7 @@
 
 The man from the Valuers' Guild set his case on the crate in the yard of Lot 17 at about ten past two in the afternoon on the fourteenth of this month and opened it, and inside it there were nine sheets of a printed form with a column ruled down each of them, and he had already filled in eight, and every box on all eight had a tick in it, and he put the ninth sheet down on top of them, and the tick at the top of the ninth was the only one in his case that had been made that afternoon.
 
-He is called Garnet Sill. He is forty-one, he has held a guild licence for twelve years, and he has certified about two hundred and six lots in that time and has found nine of them with anything wrong on them, and he can tell you what the eight of the nine were without looking them up.
+He is called Garnet Sill. He is forty-one, he has held a guild licence for twelve years, and he has certified about two hundred and forty lots in that time and has found nine of them with anything wrong on them, and he can tell you what the eight of the nine were without looking them up.
 
 **The thing about his visit, and the thing that is in the water office's book and the ward market's minute and the notice board of the River and Carriage, is that he came twelve miles to certify an iron that was not in the county, on his own fee, on two days' notice, off his own book, and nobody in Alder Reach asked him to.**
 
@@ -14,7 +14,7 @@ Garnet Sill read that last line out in the yard on the fourteenth of this month 
 
 ---
 
-He went up the bank on the twelfth, twice on the thirteenth, and once on the fourteenth, and he walked the four changeovers in good boots and said out loud, on the shoulder at the eighth, the sentence that is in his own report: **"A man of fifty-four in good boots needs both hands and a woman of forty-five in walking shoes would not come this way in the rain at all, and the difference between those two facts is about nine inches of shoulder and it is the whole of what is wrong with this railway."**
+He went up the bank on the twelfth, twice on the thirteenth, and once on the fourteenth, and he walked the four changeovers in good boots and said out loud, on the shoulder at the eighth, the sentence that is in his own report: **"A man of forty-one in good boots needs both hands and a woman of forty-five in walking shoes would not come this way in the rain at all, and the difference between those two facts is about nine inches of shoulder and it is the whole of what is wrong with this railway."**
 
 At the ninth place he did not examine an object. He examined a custody, and he said so before he began, in the form's own words, because the form has a box for it and he filled the box in.
 
@@ -22,7 +22,7 @@ At the ninth place he did not examine an object. He examined a custody, and he s
 > **CONDITION OF THE CUSTODY: A CAST FRAME WITH TWO LEVERS AND A QUADRANT; A BRACKET AT SHOULDER HEIGHT, EMPTY; A CLEAN PALE RECTANGLE IN THE GREASE AND THE RUST WHERE A THING FOUR INCHES WIDE STOOD AGAINST THE FRAME FOR FIVE YEARS; A MARK ON THE CASTING ABOUT THE SIZE OF A THUMBNAIL WHERE A CORNER CAUGHT; THE FLOOR OF THE HUT ELEVEN INCHES OUT OF LEVEL AT THE LEFT-HAND END OF THE BENCH WITH A CRACK IN THE LIME PUTTY ABOUT FOUR FEET LONG, MEASURED BY OTHERS AND NOT BY ME.**
 > **HOLDER: A PERSON WHO IS NOT AN OFFICER, A SEAT, OR A MEMBER OF ANY BODY, WHO ANSWERS TO NOBODY HERE, WHO HOLDS THE CUSTODY AND WHO MAY END IT WHENEVER SHE LIKES AND NOBODY IN THE COUNTY CAN STOP HER.**
 
-And then he walked to the fourth place on the fourteenth and examined the iron on the bench, and the iron was there, and it had not moved, and he did what he has done two hundred and six times.
+And then he walked to the fourth place on the fourteenth and examined the iron on the bench, and the iron was there, and it had not moved, and he did what he has done two hundred and forty times.
 
 He put it in his hand. He weighed it against a spring balance he carries, four pounds and one ounce. He looked at the wedge end, which is worn to a shine, and at the red signal-wire loop through the hole at the other end, which was cut loose in the fourth year when the thing was taken out of the flooded interchange and has not been used as a loop since. He looked for a second piece of iron married to it, a second wire, an added tongue, a filed-off number, a maker's mark with a number beside it that ought not to be there. He ran a thumb along the casting where a thin plate can be let in and covered.
 
@@ -52,7 +52,7 @@ He put the certificate face down on the bench and asked Sef Anyard a question th
 
 "**And you have no case. And a custody that is better than nothing is still not a case, and a custody with no hole in it is a custody with no way of knowing.**"
 
-"**Write it,**" she said, "**and write that I have known that for eleven years and did not write it down anywhere, and that I did not write it down because there was not one person in nine miles who could have asked me about it and not made me into something, and that the reason there is not one person now is that this is the eleventh of April and not the first.**"
+"**Write it,**" she said, "**and write that I have known that for eleven years and did not write it down anywhere, and that I did not write it down because there was not one person in nine miles who could have asked me about it and not made me into something, and that the reason there is not one person now is that you are a man from a guild standing in my hut with a form, and that I am not going to say in front of forty people why there was not one of you in March, and you may write down that she did not say.**"
 
 He wrote it, and it is on the back of the certificate under the finding about the standing line, and it is the only entry in a licensed document in this district that is about a person and was written at that person's request.
 
@@ -76,7 +76,7 @@ She looked at him for about four seconds and then said, "**That is the first tim
 
 "**I have to tell you two things and they are not the same shape, and I have been trying all the way up the bank to find a way of making them the same shape and I cannot, and a man who cannot find a way of making two true things the same shape should not be allowed to be asked.**
 
-"**First. The lot is clean.** Not cleanish. Clean. I mean that in the guild sense and the guild sense is exact: there is no concealed toll, no concealed term, no concealed party, no side promise, no forge, no second piece, no person entered as a person who is not a person, no term longer than the term, and no use that is not the use. I have been able to certify two hundred and six lots and I have found nine with something on them and this is not one of the nine. **Whatever is wrong with this iron, it is not that anybody has cheated anybody with it.**
+"**First. The lot is clean.** Not cleanish. Clean. I mean that in the guild sense and the guild sense is exact: there is no concealed toll, no concealed term, no concealed party, no side promise, no forge, no second piece, no person entered as a person who is not a person, no term longer than the term, and no use that is not the use. I have been able to certify two hundred and forty lots and I have found nine with something on them and this is not one of the nine. **Whatever is wrong with this iron, it is not that anybody has cheated anybody with it.**
 
 "**Second. It cannot be sold to a village.**"
 
@@ -144,7 +144,7 @@ Then:
 
 "**And I am going to say one other thing, and I am not going to stand here and tell you to put that certificate in the fire, and I would like the minute to say that I was asked what I thought of it and that I answered.**
 
-"**A man has spent twelve years and two hundred and six lots learning how to look at an iron and this morning he found nothing, and what he found nothing at is the only good news anybody has had about this railway in four weeks. That is a true sentence and it is in his own hand and it is worth more than anything on the eleven boards.
+"**A man has spent twelve years and two hundred and forty lots learning how to look at an iron and this morning he found nothing, and what he found nothing at is the only good news anybody has had about this railway in four weeks. That is a true sentence and it is in his own hand and it is worth more than anything on the eleven boards.
 
 "**And a certificate is not a safety instrument. Neither is a timetable. Neither is the standing order that this district voted against by seven to three on the twenty-fifth of last month, and I have said for nine years that the standing order is a better paper than either of them, and I am not going to vary that this morning. I have said *that is not enough* every published day for eight years and I am not going to stop on the fourteenth of this month because a Guild clerk in a good coat told a yard the truth.
 
@@ -156,4 +156,4 @@ And on the seventeenth of April, at the counter, in front of about thirty people
 
 "**And that is it. That is the whole of my twelve years. You go into a place to look at a thing and the place asks you a question and the place is the only party in the room with nothing to sell.**
 
-"**And I am going to say the unprofessional part, because I am told this yard has room for one. I have certified two hundred and six lots and in every single one of them the thing that was wrong was in a column, and not one column in this guild, or in this basin that I have seen, is a place.**"
+"**And I am going to say the unprofessional part, because I am told this yard has room for one. I have certified two hundred and forty lots and in every single one of them the thing that was wrong was in a column, and not one column in this guild, or in this basin that I have seen, is a place.**"

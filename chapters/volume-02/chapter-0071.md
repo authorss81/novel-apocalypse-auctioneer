@@ -1,10 +1,10 @@
 # Chapter 71: Nine Minutes
 
-The man off the lower terrace put the key to the case of Lot 17 on the crate in the yard at a quarter to four in the afternoon on the fifth of this month, squared it against the edge of his own hand the way a man does a thing he has done four hundred thousand times, and asked whether anybody was going to come and get it, and nobody was, because it was the day his term ran out and the board had not asked him a second time and he had not been asked whether he wanted a second time either.
+The man off the lower terrace put the key to the case of Lot 17 on the crate in the yard at a quarter to four in the afternoon on the sixth of this month, squared it against the edge of his own hand the way a man does a thing he has done four hundred thousand times, and asked whether anybody was going to come and get it, and nobody was, because it was the day his term ran out and the board had not asked him a second time and he had not been asked whether he wanted a second time either.
 
 He is about fifty-six. He has kept a chandler's second counter for thirty-one years. He asked in writing on the second that he does not read figures and that a reader at a counter is the only person who may read anything to him, and he asked for four days, and he got all three.
 
-**His term began on the second of this month at about ten past two in the afternoon and it runs to midnight on the sixth, and it is the sixth, not the fifth, that he has come on, and he has come a day early, and he has come early on purpose, and the reason is the only thing in this chapter that anybody in this district did not already know.**
+**His term began on the second of this month at about ten past two in the afternoon and it runs to midnight on the sixth, and it is the sixth, not the fifth, that he has come on, and he has come a day early, and he has come early on purpose, and the reason is the only thing on that day that anybody in this district did not already know.**
 
 "I want to ask a question," he said, "**and I want it asked in front of people, because I have been in three kitchens in this city and Bett Ruhl has been one of them and nobody has ever mentioned it and I am not mentioning it. I want to ask it in this yard.**"
 
@@ -44,9 +44,9 @@ It began because the board could not do it. The board of the public lot at Lot 1
 
 The tenth hand read the job first, in the yard, out loud, to about sixty people who had come in off the terraces because there was a key on a crate.
 
-"A key to a case. Four days. You open it when you are told it is open and you are in the room when it is open and you write down what you find. That is the whole job and it is four days long and it runs from the day after tomorrow at four o'clock in the afternoon to midnight on the sixth day after."
+"A key to a case. Four days. You open it when you are told it is open and you are in the room when it is open and you write down what you find. That is the whole job and it is four days long and **it begins at midnight tonight, the minute the man in front of you walks off, and it ends at midnight on the fourth night from tonight.**"
 
-"How long is that in days," said somebody at the back, and the tenth hand said **four**, and somebody else said **six**, and a chandler at the side of the yard said **"he means four. He has said four days four times now. Four."**
+"How long is that in days," said somebody at the back, and the tenth hand said **four**, and somebody else said **"five, there's tonight,"** and a chandler at the side of the yard said **"Four. He has said four days four times now. Four. And there is no hour tonight in which nobody holds it and there is no hour tonight in which two people hold it, and that is the first time in six weeks that either of those has been true, and it is because he came a day early and it was not an accident."**
 
 How you say no. "**You say no by not taking the key. That is all. There is no form. You do not have to give a reason and nobody is going to ask you for one, and if somebody asks you for one afterwards it goes in the book against them and not against you.**"
 
@@ -68,23 +68,23 @@ Somebody in the yard started to say something and he went on without stopping.
 
 And then a woman of about fifty-two who had come in off the tram line, who had been in the yard for the whole of it and had not been at the front, said **"I'll take it,"** and everybody turned round, and she said it four times because nobody believed it the first one.
 
-"**I'll take it. I've got a stall and nobody in it on a Tuesday. I don't read figures and I'll have the reader read them to me at the counter, same as him.**"
+"**I'll take it. I've got a stall and I've four days and nobody to leave it with, and I want that written down, because that is the reason and not that I am brave. I don't read figures and I'll have the reader read them to me at the counter, same as him.**"
 
-**And the entry says that the asking was done by the tenth hand of the signal crew and written down by Nessa Pell, and that it took nine minutes from the asking to the answer, and that the board did not name anybody and was not asked to and could not have been, and that a rotation is only real when it turns, and that this is the first turn of that key in this district that anybody could call a turn and not a weather.**
+The entry says that the asking was done by the tenth hand of the signal crew and written down by Nessa Pell, and that it took nine minutes from the asking to the answer, and that the board did not name anybody and was not asked to and could not have been, and that a rotation is only real when it turns, and that this is the first turn of that key in this district that anybody could call a turn and not a weather.**
 
 ---
 
-And then it was read out, which is the fifth of the five things, and nobody had thought of that part because nobody had ever done it before.
+And then it was read out, and it is not one of the five things on that slate and it is not the sixth one either, and it is the thing that happens afterwards, and nobody had thought of that part because nobody had ever done it before.
 
 Rutt reads at the ward market counter four days a week, at eleven coppers a quarter, and the term has no clause for a shoulder, and she had been in this yard since about a quarter to six the same morning and she was still there at half past four because a woman of about fifty-two who has a stall had just agreed to hold a drawer for four days and somebody had to read the list of who had said no back to the people who had said no.
 
-**Twenty-two names went on the sheet and nineteen of them had said no, in a yard, in daylight, out loud, and every one of the nineteen had said it to about sixty people, and Rutt read all nineteen out at six the next morning at the counter in the ordinary voice, with the reason where the reason had been given and with the word NO in front of each one, and it took about four minutes, and about forty people stood at that counter and listened to a woman of about fifty read out a list of people who had refused to hold a drawer.**
+**Twenty-two names went on the sheet and nineteen of them had said no, in a yard, in daylight, out loud, and every one of the nineteen had said it to about sixty people, and the other three had said they would ask somebody at home, and asking somebody at home is not a no and the sheet says which is which, and Rutt read all nineteen out at six the next morning at the counter in the ordinary voice, with the reason where the reason had been given and with the word NO in front of each one, and it took about four minutes, and about forty people stood at that counter and listened to a woman of about fifty read out a list of people who had refused to hold a drawer.**
 
 The man of thirty-eight was the eleventh on it. He stood at the back with his hands in his pockets and heard his own reason come back at him in a clerk's voice, word for word, the way he had said it, and he did not move, and afterward he asked one question at the counter, which was whether the reason was in the book, and Rutt said that it was in the book and on the wall and in the counter's own book of read-alouds, and that the three copies were the same three words and the book was the one that counted, and that if anybody changed it in one of them the difference would be found.
 
 "**Then it was worth saying,**" he said, and went to work.
 
-**And the finding under that, entered by Nessa Pell in the minute of the sixth, is that the reading-back is not a courtesy and is not for the person who said no, and is for the person who did not hear them, and that a refusal made in a crowd is not heard by a crowd, it is heard by the eleven people nearest it, and that this district has had three refusals in six weeks in a book and has never once read them out.**
+And the finding under that, entered by Nessa Pell in the minute of the seventh, is that the reading-back is not a courtesy and is not for the person who said no, and is for the person who did not hear them, and that a refusal made in a crowd is not heard by a crowd, it is heard by the eleven people nearest it, and that this district has had three refusals in six weeks in a book and has never once read them out.**
 
 ---
 
@@ -106,7 +106,7 @@ Adrian Vale, who had been at the back of the yard the whole time and who has not
 
 She said that in the ordinary voice and about nine people did not laugh and about thirty did, and the tenth hand wrote it into the minute exactly, including that she had said no to a thing nobody had asked her for, and the finding under that is that the district has had six things for six weeks and has been sitting on the sixth one, **and the sixth one is a woman of nineteen years' standing in a room with a pen, and she is not a power and she is not on the board and she cannot be named onto anything, and the reason is that she does not need to be named, because a clerk is a job and a job is a thing somebody gives you every morning.**
 
-Nobody had a name for the sixth thing. It goes on the wall on the sixth of this month with the other five and with no name on it, and it is the sixth of the six and the board has six things it needs and has had five for six weeks, **and the finding printed under all six is that THE BOARD CANNOT ASK A PERSON WHETHER THEY WILL DO A JOB. THE YARD CAN. AND THE DIFFERENCE BETWEEN THOSE TWO THINGS IS THE WHOLE OF WHAT HAS GONE WRONG IN THIS DISTRICT SINCE THE EIGHTH OF LAST MONTH AND NOBODY HAS SAID IT OUT LOUD, INCLUDING ME, AND I HAVE SAID THE OTHER HALF OF IT FOURTEEN TIMES.**
+Nobody had a name for the sixth thing. It goes on the wall on the seventh of this month with the other five and with no name on it, and the reading-back is a seventh thing that nobody had a name for either and it is not on the wall, and the reason it is not on the wall is that you cannot describe to a person in advance what it is to hear your own no come back at you in a clerk's voice, and it will be done anyway, and the finding printed under the wall on the seventh of this month is that THE BOARD CANNOT ASK A PERSON WHETHER THEY WILL DO A JOB. THE YARD CAN. AND THE DIFFERENCE BETWEEN THOSE TWO THINGS IS THE WHOLE OF WHAT HAS GONE WRONG IN THIS DISTRICT SINCE THE EIGHTH OF LAST MONTH AND NOBODY HAS SAID IT OUT LOUD, INCLUDING ME, AND I HAVE SAID THE OTHER HALF OF IT FOURTEEN TIMES.
 
 ---
 
@@ -142,6 +142,6 @@ Nessa Pell wrote all of it down, including the bit about the eleven hours and th
 
 And the boy of fifteen did not get a cup of anything and did not ask, and the tenth hand wrote his name against the entry as the person who brought it, in his own hand, with the finding that **he was not asked and he came, and not asked is in the count.**
 
-**And the finding that is under all of it, written by the tenth hand at about nine o'clock at night on a bench in the yard with a lamp beside him, is that a custody with no case in it has one hole in it and the hole is the size of the distance between a thing and the person who is holding it, and this district built that custody on purpose to be worse than a case, and it worked, and nobody has a name for the fault because there was no case to lose the key from.**
+The finding that is under all of it, written by the tenth hand at about nine o'clock at night on a bench in the yard with a lamp beside him, is that a custody with no case in it has one hole in it and the hole is the size of the distance between a thing and the person who is holding it, and this district built that custody on purpose to be worse than a case, and it worked, and nobody has a name for the fault because there was no case to lose the key from.**
 
 **And the last line of the entry is that the next thing anybody has to do is to walk to the fourth place, and that the fourth place is four hours on foot from the ninth place with four changesovers in it, and that the walk there and back is nine hours in this weather.**

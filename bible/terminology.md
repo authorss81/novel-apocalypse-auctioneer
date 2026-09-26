@@ -278,6 +278,23 @@ An unsettled place in the Tally where a new charter can be written. Iven gave Ad
 - Do not use game jargon such as NPC, player, skill tree, quest, stat, mana, cooldown, or respawn. If a survivor uses a game-like word, it should be character-specific and treated as a metaphor, not a world rule.
 - Do not describe the Tally as good or evil without a character's specific reason. It follows recorded conditions and can enforce an immoral bargain.
 
+## Volume 02 Batch 0003 terms (Canon — established in Chapters 71–80)
+
+- **A job is asked in five things.** What it is, in sentences somebody who has never done it can understand, and not in the word the office would use; how long, with an hour on it; how you say no, and that no reason is owed and that nobody will ask for one afterwards; who answers for you while you are saying it; and where you stand when you answer. **The method is on a wall in the counting room of the ward market and it is not a board power.**
+- **The sixth thing.** A person in the room who is not the one being asked and is not the one asking, whose job is to say what the question was, so that the entry carries the question and not somebody's memory of one. **It has no name, it is not a power, and it is not on the board.** It belongs to a clerk with a pen.
+- **The reading-back.** Reading a list of refusals or answers out loud afterwards, in the ordinary voice, so that a person who said no and was not heard knows they were heard. **It is for the person who did not hear, not for the person who spoke.** It is not on the wall, because you cannot describe to a person in advance what it is to hear your own no come back at you in a clerk's voice.
+- **A yard asked and a yard got a yes, and a yard is not a board.** The third line on the notice board under the two lapses of March.
+- **A custody whose keeper is entered as nobody is not a custody. It is a place where a thing is.**
+- **A holder who is not at the custody is a holder who is not there.** A custody may be ended by the person who holds it and by nobody sent to find out whether it is ended.
+- **A condition with no end on it.** Not a charter, not the fifth thing, not a term, not a price, not a signature. **It cannot be ended by anybody including the person who made it, except by her saying so.** The fourth kind of thing this district has built.
+- **A line of stones is not a mark, because a mark is cut and that is laid.**
+- **A job is something somebody gives you.** A person who says no to a thing has not been given it and is not an officer.
+- **NOT ANSWERED**, as the heading a public book may carry over a set of questions that nobody is obliged to answer.
+- **A failure that is entered is not fixed, it is known.**
+- **A place that reports every morning is a place nobody goes to.**
+- **Three times is a favour and four times is a rate.** Said by a trader whose stall's name is at the foot of three printed sheets.
+- **The pumping engine, the Harrow works, the works rate, the lease hook, held by nobody, a lease that names a firm, a person who can hold a signal, a bearer is a person, an office is not a person, a slot is not a person, the sixth-foot walk, the four changeovers, the line book is a book of signals, the original column, the origin column.** All are canon and are used in the ordinary way.
+
 ## Tally display style
 
 A display may use short lines and plain nouns:

@@ -256,6 +256,18 @@ A faction uses emergency law to turn a temporary charter into an inheritable rig
 
 No rival has Adrian's exact reading ability, and no rival lacks a way to counter his work. The final conflict is about who gets to define and maintain the market, not whether one character has the largest personal power.
 
+## Stage 1 Reader — established by the second reading (Canon, Chapter 78)
+
+These are the rules the object itself states, in a hut, before the hour, and they are printed in the public lot book whole. They constrain every later batch.
+
+- **A lot may be read twice.** A reading is an hour and a cost, and **the cost is a part of the toll the lot charges, and it is the same toll every time.** It is not smaller because the reader is better at it, and the finding of the twenty-eighth of April is that **he has paid it twice and got a piece of it each time and the second piece is smaller.**
+- **A certificate that says a lot is clean is not a reading.** It has cost nobody an hour and **it cannot be wrong about the toll, because it has no column for the toll.**
+- **A holder who is not at the custody is a holder who is not there.** A custody may be ended by the person who holds it. It may not be ended by a person sent to find out whether it is ended.
+- **A reader may not read a document nobody has handled, may not read a person, and may not ask a lot where the toll lands.** If he asks it for more, he is given what he has already been given.
+- **None of it is an answer.** It is the shape of the thing being attempted.
+- **The limit after a reading is published and the intervals between permitted hours go up on use: seven days, then eleven, then fourteen.** A refusal to read is a reading too and is entered with no cost and no time. **It is neither cowardice nor discipline, and no batch may write it as either.**
+- **A toll on a place takes memory of departure.** On the eleventh of March the origin toll took the reader's sense of which way a river went, for about fifty minutes. **On the twenty-seventh of April it took the memory of which gate he went out of his own city by, and there is no west gate.** The cost is specific to the lot's toll and is never to be used as a generic cost.
+
 ## What the power can never do
 
 It cannot:
