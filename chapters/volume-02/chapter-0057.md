@@ -28,9 +28,9 @@ He had not got to the vote, because a chandler of about fifty called Hessa Krell
 
 "**That is the place nine miles out where the line stops, Mrs. Krell, and it is the only place on that line where a person is on a shift, and if I put a bushel of chalk anywhere else then the ninth place does not get it.**"
 
-"And I am to pay nine coppers a quarter for a lamp in a hut nine miles out," said Mrs. Krell, "and I have got four hundred and eleven households behind me and not one of them walks nine miles to look at a signal, and Tell me what the people at the counter are going to say to me."
+"And I am to pay nine coppers a quarter for a lamp in a hut nine miles out," said Mrs. Krell, "and I have got four thousand and one households behind me and not one of them walks nine miles to look at a signal, and I want to know what the people at the counter are going to say to me."
 
-"They are going to say nothing at all," said Stenn, "**because you and I both know that the answer to your question is that this is not a service for your street, and it is the first entry in this market's book that is not a service for anybody's street, and I have put it to you anyway, and Enter the reason before anybody votes.**"
+"They are going to say nothing at all," said Stenn, "**because you and I both know that the answer to your question is that this is not a service for your street, and it is the first entry in this market's book that is not a service for anybody's street, and I have put it to you anyway, and put the reason in before anybody votes.**"
 
 "Enter it," said Marda Osk, who had come and had not expected to be there.
 
@@ -38,7 +38,7 @@ He had not got to the vote, because a chandler of about fifty called Hessa Krell
 
 ---
 
-**The trade that said yes was the hauliers', and it took them about four minutes, and the reason they said yes is the only reason in this chapter that anybody will remember.**
+**The trade that said yes was the hauliers', and it took them about four minutes, and the reason they said yes is the only reason anybody in that room will remember.**
 
 "**You are asking us to pay nine coppers for the lamp at the place where we park our stock.**"
 
@@ -96,7 +96,7 @@ Osgood Trill's page had come to the market, because the line book is public and 
 
 "It is not a word," said Stenn. "**And it is the first thing anybody has written down about this that is a sentence with a thing in it on both sides, and it is the reason I have got a number to put in front of this room and it is not a word at all.**
 
-"**Nine vehicles. Twenty days. That is what is in the yard, and that is not four hundred and eleven households' money, that is one siding and one village and a bank, and the number that matters today is twenty, and the number that mattered on the sixth was thirty-four yards.**"
+"**Nine vehicles. Thirty days. That is what is in the yard, and that is not four thousand and one households' money, that is one siding and one village and a bank, and the number that matters today is thirty, and the number that mattered on the sixth was thirty-four yards.**"
 
 ---
 

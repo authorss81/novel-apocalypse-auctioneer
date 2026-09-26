@@ -13,6 +13,6 @@ A practical auctioneer auctions the rights to use objects that nobody can sell s
 
 ## Ending
 The market becomes transparent public infrastructure rather than a private throne.
-
 ## Status
-Scaffold, bible, series outline, ending outline, and Volume 01 outline are complete. Volume 01 Batches 0001 (Chapters 1–10), 0002 (Chapters 11–20), 0003 (Chapters 21–30), and 0004 (Chapters 31–40) have been written. The next planned phase is Batch 0005 (Chapters 41–50), the witnessed public climax and the volume close; its prompt is `workspace/volume-01/batch-0005/PROMPT.md`.
+
+Scaffold, bible, series outline, ending outline, Volume 01 outline and Volume 02 outline are complete. **Volume 01 (Chapters 1–50) is finished, five batches.** **Volume 02 Batch 0001 (Chapters 51–60) is written, reviewed and repaired, and Volume 02's opening ten chapters are canon.** The next planned phase is **Volume 02 Batch 0002 (Chapters 61–70)**, which contains the walk of the twenty-ninth; its prompt is `workspace/volume-02/batch-0002/PROMPT.md`. The canon contract for the batch just closed — the calendar, the closed numbers, the key rotation and the walk's roster — is `outline/batches/volume-02-batch-0001.md`, and the running state is `state/current.md`.

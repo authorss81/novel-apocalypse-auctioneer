@@ -1,12 +1,12 @@
 # Chapter 60: A Result, Published
 
-The board sat at about eleven in the morning on the twenty-first of this month in the yard of Lot 17 with all four seats named aloud — Mara Quill as registrar and not a vote, Nessa Pell as sitting steward, Sabin Tull and Marda Osk in the two unclaimed places — and the one item of business was the fifth of the five things it could do, which is publish a result, and it took two hours and fifty minutes, and it is the longest single entry in the history of that book, and the registrar wrote all of it herself, and she read it out at a ward market counter on the morning of the twenty-second in the words people did not bring with them, and then she read the whole of it again in a yard in the afternoon, and about four hundred people stood in a bad yard in a warm rain and listened to a woman read out the worst week of the district's public life.
+The board sat at about eleven in the morning on the twenty-first of this month in the yard of Lot 17 with all four seats named aloud — Mara Quill as registrar and not a vote, Nessa Pell as sitting steward, Sabin Tull and Marda Osk in the two unclaimed places — and the one item of business was the second of the five things it could do, which is publish a result, and it took two hours and fifty minutes, and it is the longest single entry in the history of that book, and the registrar wrote all of it herself, and she read it out at a ward market counter on the morning of the twenty-second in the words people did not bring with them, and then she read the whole of it again in a yard in the afternoon, and about four hundred people stood in a bad yard in a warm rain and listened to a woman read out the worst week of the district's public life.
 
-It is entered in nine parts and the parts are numbered, and the numbering is hers and not the book's, and she has said that in four years somebody will find the numbering and think it was always there.
+It is entered in eleven parts and the parts are numbered, and the numbering is hers and not the book's, and she has said that in four years somebody will find the numbering and think it was always there.
 
 > **PUBLISHED BY THE BOARD OF THE PUBLIC LOT AT LOT 17, ON THE TWENTY-FIRST OF THIS MONTH. THIS RECORD CONFERS NO USE, AUTHORIZES NOBODY TO MOVE ANYTHING, AND SEATS NOTHING.**
 >
-> **1. THE LOT.** A cast-iron interlocking tongue, taken out of the flooded Harrow interchange in the fourth year, nine years in use, five in the hut at the ninth place. It is read as one use: send one vehicle back along the section it came from, one movement, one way. **It is not a charter and no charter may be made on it, and the board has no power to make one and has said so.**
+> **1. THE LOT.** A cast-iron interlocking tongue, taken out of the flooded Harrow interchange in the fourth year, thirteen years in use, five in the hut at the ninth place. It is read as one use: send one vehicle back along the section it came from, one movement, one way. **It is not a charter and no charter may be made on it, and the board has no power to make one and has said so.**
 >
 > **2. THE TOLL.** The origin. **The object does not hold places and will not name one, and asked for more it repeats itself, and that is entered as a finding and not as a conclusion.**
 >
@@ -30,7 +30,7 @@ It is entered in nine parts and the parts are numbered, and the numbering is her
 
 ---
 
-**And the thing that took the other fifty minutes of that morning was not in the nine parts, because the board cannot do it, and it is the first real gap in this district's constitution and it was found in a yard in about eleven minutes by a woman who has been thinking about it for a fortnight and had nobody to think at.**
+**And the thing that took the other fifty minutes of that morning was not in the eleven parts, because the board cannot do it, and it is the first real gap in this district's constitution and it was found in a yard in about eleven minutes by a woman who has been thinking about it for a fortnight and had nobody to think at.**
 
 "Stop," said Nessa Pell, at about ten past twelve. "**One. We have published a result about an object that is not in a case. And the five things I can do are all about a case.**
 
@@ -48,7 +48,7 @@ It is entered in nine parts and the parts are numbered, and the numbering is her
 
 "**The answer is that a lot in daily use by a person who lives with it is a custody that cannot expire, and a custody that cannot expire is a hiding place with a form on it.** That is a sentence I wrote in a book in the third week of last month about a different object, and it is the exact same failure, and I did not see it for a month because it was in a case and a case looks like custody and a bench in a hut does not."
 
-**And what the board published on the afternoon of the twenty-first, in a page added after the nine parts and numbered ten, is the first remote custody in the history of the district, and it is worse on purpose, and it says so.**
+**And what the board published on the afternoon of the twenty-first, in a page added after the first nine and numbered ten, is the first remote custody in the history of the district, and it is worse on purpose, and it says so.**
 
 > **10. A LOT IN DAILY USE: A REMOTE CUSTODY.**
 >
@@ -64,15 +64,15 @@ It is entered in nine parts and the parts are numbered, and the numbering is her
 
 ---
 
-**And then Mara Quill read the last page of the day, and it is the only page of the ten that nobody in the yard argued about, and it is a list, and it is the volume's debt.**
+**And then Mara Quill read the last page of the day, and it is the only page of the eleven that nobody in the yard argued about, and it is a list, and it is what the district owes.**
 
 > **11. WHAT THIS DISTRICT HAS NO INSTRUMENT FOR. Entered not as a finding and not as an excuse, and each line has a date, and a name against four of them.**
 >
 > **A COLUMN FOR A PLACE. A charter has a lot, a use, a bearer, a toll, a term and a remedy, and all six of them point at a person or an object, and a place is none of those, and one hundred and forty-one movements have found that out.**
 >
-> **A RATE SHEET FOR GROUND NOBODY HAS CLAIMED. Two blocks west of the depot are in no ward, and the ninth place is in no ward and is nine miles further, and a market cannot levy a household it has not met. **I. STENN, the fourteenth. A FORTNIGHT.**
+> **A RATE SHEET FOR GROUND NOBODY HAS CLAIMED.** Two blocks west of the depot are in no ward, and the ninth place is in no ward and is nine miles further, and a market cannot levy a household it has not met. **I. STENN, the fourteenth. A FORTNIGHT.**
 >
-> **A WAY OF SAYING WHAT IS NOT GOING TO HAPPEN. The counter can read a claim aloud and cannot read an absence, because there is nothing printed about one. Found out at the counter on the thirteenth of this month by a woman of sixty with a stick. **RUTT, asked on the twenty-first and said yes, and was told she had been put in a book.**
+> **A WAY OF SAYING WHAT IS NOT GOING TO HAPPEN.** The counter can read a claim aloud and cannot read an absence, because there is nothing printed about one. Found out at the counter on the thirteenth of this month by a woman of sixty with a stick. **RUTT, asked on the twenty-first and said yes, and was told she had been put in a book.**
 >
 > **A COST FOR A REFUSAL. Every instrument in this district lets a person say no and assumes the cost of it lands on the person who asked, and nobody in this basin has ever costed where the thing goes next, and the first time anybody tried it on the eighteenth of this month the answer was that saying no would have put nine vehicles on a village's wall.**
 >
@@ -84,7 +84,7 @@ It is entered in nine parts and the parts are numbered, and the numbering is her
 
 > **THE WEST END IS TO BE WALKED ON THE TWENTY-NINTH OF THIS MONTH.**
 >
-> **FROM THE FOURTH PLACE TO THE NINTH, ON FOOT, ON THE BALLAST, IN DAYLIGHT, AND NOBODY PAST THE SECOND RAIL ON A STRAIGHT AND NOBODY INSIDE THE FOUR-FOOT ON A CURVE. FOUR PEOPLE GO: T. KEST, THE TENTH HAND OF THE SIGNAL CREW, S. MARNE, AND A PERSON OF THE NINTH PLACE WHO HAS ASKED TO GO AND HAS NOT BEEN ASKED YET FOR WHAT SHE IS GOING FOR WHEN SHE GETS THERE.**
+> **FROM THE FOURTH PLACE TO THE NINTH, ON FOOT, ON THE BALLAST, IN DAYLIGHT, AND NOBODY PAST THE SECOND RAIL ON A STRAIGHT AND NOBODY INSIDE THE FOUR-FOOT ON A CURVE. FOUR PEOPLE GO: T. KEST, THE TENTH HAND OF THE SIGNAL CREW, I. STENN, WHO SAID IN A YARD ON THE EIGHTEENTH THAT A RATE SHEET STARTS WITH SOMEBODY WALKING ONTO THE GROUND AND COUNTING, AND A PERSON OF THE NINTH PLACE WHO HAS ASKED TO GO AND HAS NOT BEEN ASKED YET FOR WHAT SHE IS GOING FOR WHEN SHE GETS THERE.**
 >
 > **THE STALL AT THE NINTH PLACE IS TO BE MEASURED. THE ONE AT THE FOURTH IS TO BE MEASURED AGAIN. THE COUNTS ARE TO BE TAKEN GOING AND COMING.**
 >
@@ -94,7 +94,7 @@ It is entered in nine parts and the parts are numbered, and the numbering is her
 
 "Read that last line again," said somebody.
 
-And Bett Ruhl read it again, and about four hundred people in a bad yard in a warm rain listened to a woman who cannot read say the words *it is the first date this district has given anybody* twice, and Adrian Vale, who was at the back with a notebook he had not written in, said out loud, to nobody in particular, that this was the answer to a boy's question in a school gym six weeks ago and it was a bad answer and it was the only one available, and Mara Quill, who heard him, said nothing at all, and neither of them said anything else to the other one either then or afterwards.
+And Bett Ruhl read it again, and about four hundred people in a bad yard in a warm rain listened to a woman who cannot read say the words *it is the first date this district has given anybody* twice, and Adrian Vale, who was at the back with a notebook he had not written in, said out loud, to nobody in particular, that this was the answer to a boy's question in a school gym on the twenty-sixth of the month before last and it was a bad answer and it was the only one available. And then he said the other half of it, which is that he is not on the walk, and that the sheet on the wall says the twelfth stall is to be measured by somebody who is not the reader, **and that the tenth hand has already entered in this book that he will not walk a line with a man who cannot tell where the river is, and that a man who has been that man once does not get to be the counter on the second occasion.** And Mara Quill, who heard him, said nothing at all, and neither of them said anything else to the other one either then or afterwards.
 
 ---
 
@@ -102,7 +102,7 @@ And Bett Ruhl read it again, and about four hundred people in a bad yard in a wa
 
 She came about forty feet forward. She was the woman of forty-five from the ninth place who had said on the fifteenth that she would say no, and she had said it to four people on a bank, and this was the first time she had said anything to anybody in Alder Reach.
 
-"I have not said it to you yet because I am not saying it to a room. I am saying it to a walk." She had her hands in the front of her cardigan. "**I have been in this yard since about half past three and I have listened to a woman read out a page and a half about my road, and there are four things in it and three of them are about me and I have not corrected one of them, and I am not going to correct them here.**
+"I have not said it to you yet because I am not saying it to a room. I am saying it to a walk." She had her hands in the front of her cardigan. "**I have come into this yard in the last hour and I have listened to a woman read out a page and a half about my road, and there are four things in it and three of them are about me and I have not corrected one of them, and I am not going to correct them here.**
 
 "Here is what I am going for. I am going to walk out to that siding with four men and I am going to stand on the ground where the bank is, **and I am going to be the person who says the word, if it needs saying, in front of the signal.** And I know what that means. It means that the man who throws the lever has to stop and wait, and everybody behind us waits, and I do not know who those people are and they are not in this book either.
 
@@ -116,7 +116,7 @@ There was a silence in that yard that the tenth hand of the signal crew noted, l
 
 **And it went on the sheet, and it is on the second version, and the second version was nailed up at about ten past six in the evening and Rutt read it at the counter at six the next morning and again at nine, and about a hundred and forty people heard it in two days, and it is the shortest clause in the whole of the public lot book and it is the only one that was dictated by a person who cannot be named and is not a clerk.**
 
-And nobody asked her name, and the entry says she was not asked and that not asked is in the count, and the count of the twenty-first is in the book with a no in it, and **it is the second time in two months that a published count in Alder Reach has carried a refusal, and the tenth hand has stopped trying to find a column for numbers of that kind and has started a page of his own for them, which is not a column and is not public and is a piece of paper in a coat.**
+And nobody asked her name, and the entry says she was not asked and that not asked is in the count, and the count of the twenty-first is in the book with a no in it, and **it is the second time in three days that a published count in Alder Reach has carried a refusal, and the tenth hand has stopped trying to find a column for numbers of that kind and has started a page of his own for them, which is not a column and is not public and is a piece of paper in a coat.**
 
 ---
 
@@ -133,6 +133,8 @@ He did it on the tram arch in about forty minutes, at four coppers, honestly, wi
 **And the last item in the yard on the twenty-first was a key, and it took nine minutes, and it is entered because the book keeps a rotation and a rotation is only real when it turns.**
 
 Wren Ostler had held the key to the public case of Lot 17 for four days from the twelfth of this month, and her term expired at midnight on the sixteenth, and the renewal was to be on the fifteenth, and the person holding it on the seventeenth was to be named on the fifteenth, and **a name was in the book on the fifteenth at about ten in the evening, and it is Mrs Halder, and she was asked, and she said yes, and she said one condition, and the board entered the condition because a holder with a condition is a holder and a holder with no condition is a position.**
+
+And the entry above hers, in the same hand, is the four days nobody held at all, and it is in the book because a rotation that is only real when it turns has to have the gap in it printed. **The board set the term on the second with a renewal on the fifth, and on the fifth it had asked nobody, and it did not name anybody on the sixth either, and so the seventh came and there was no holder, and the case stood shut in a locked office on a term that had run out on the sixth at midnight, and the object inside it sat on a lapsed term for four days.** It is entered as a lapse and not as a theft, because nobody took anything and nobody was in a position to take anything, and it cost this district four days of a set of books that a stranger could not open, and it is the first lapse in the history of the public lot book and it is the first thing the standing instruction has ever actually cost anybody. And Nessa Pell wrote the sentence under it in the ordinary way, and the sentence is the one Hester Vane said to a ward market counter on the second with three conditions and a disclaimer, **and it is that a name in a book is not a promise to turn up, and that the board asked nobody, and that not asked is in the count.**
 
 "**I will not hold it alone,**" she said. "**I will open the case on the day and I will be in the room on the day, and I want a second person in the room every single time, and I do not care who it is, and if there is nobody then I do not open it and I write down that I did not open it.**"
 

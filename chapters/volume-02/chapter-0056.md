@@ -18,7 +18,7 @@ The sheet went into a sleeve. The sleeve has a number on it and the sheet has a 
 
 And here is the reading, in the book's own words, in the form it was given, and it is five lines and a finding and the finding is the whole of the trouble:
 
-> **LOT: THE HARROW TONGUE. CAST IRON. TAKEN OUT OF THE FLOODED HARROW INTERCHANGE IN THE FOURTH YEAR. USED NINE YEARS. IN THIS HUT FIVE.**
+> **LOT: THE HARROW TONGUE. CAST IRON. TAKEN OUT OF THE FLOODED HARROW INTERCHANGE IN THE FOURTH YEAR. USED THIRTEEN YEARS. IN THIS HUT FIVE.**
 >
 > **USE: SEND ONE VEHICLE BACK ALONG THE SECTION IT CAME FROM. ONE MOVEMENT. ONE WAY. THE USE IS NOT GIVEN BACK.**
 >
@@ -34,21 +34,21 @@ The ledger entry above it is in Nessa Pell's hand and it is the first reading en
 
 ---
 
-**And then the yard asked what the origin was, and four people in about eleven minutes gave four different answers, and Adrian Vale refused to choose between them in a yard of about six hundred people on the twelfth of this month, and the reason he gave is the sentence this volume is built on.**
+**And then the yard asked what the origin was, and three people in about nine minutes gave three different answers, and a fourth arrived from the floor, and Adrian Vale refused to choose between any of them in a yard of about six hundred people on the twelfth of this month, and the reason he gave is the sentence this district has been arguing about for five weeks and has never once said in a yard.**
 
-"It is four things," he said. "And I have read the object and the object says one word and I am not going to supply the rest of it, and I would like the yard to understand exactly how strange it is that a man who has spent seventeen years putting numbers on things is standing here refusing to do the only useful thing he is capable of.
+"It is three things," he said. "And I have read the object and the object says one word and I am not going to supply the rest of it, and I would like the yard to understand exactly how strange it is that a man who has spent seventeen years putting numbers on things is standing here refusing to do the only useful thing he is capable of.
 
 "**One. The origin is the place the vehicle is standing.** That is what the man who came out from Alder Reach told Sef Anyard in her first year on a page, and she has had his writing in her book ever since, and it is the answer that the mechanics give you and it is the answer that makes the book work, because then a train at Sarrow Water costs Sarrow Water, and Sarrow Water is a place a person can be sent to.
 
 "**Two. The origin is the first place the vehicle was entered into the line's book.** That is a signalman's answer and it is the right answer if you are a signal and it is a different answer if you are a village.
 
-"**Three. The origin is the settlement whose hut knows about the vehicle.** That is not anybody's answer and it is mine, and I want it struck, and it cannot be struck, so I am going to say it and let the room decide whether I am a clever man or a man who has found a fourth possibility and does not like it.
+"**Three. The origin is the settlement whose hut knows about the vehicle.** That is not anybody's answer and it is mine, and I want it struck, and it cannot be struck, so I am going to say it and let the room decide whether I am a clever man or a man who has found a fourth possibility and does not like it."
 
-"And **four. The origin is the origin, and the object is telling the truth, and I cannot read it further, and there is no more of it.**"
+And then he stopped, and the yard noticed that he had stopped, and waited for a fourth, and there was not going to be one from him.
 
-The yard argued for about forty minutes and it argued well, and two people came up with better answers than any of the four, and one of those was a carter of about fifty who said that in his trade the origin of a thing is the place you can trace it back to and if you cannot trace it back then it has not got one, and that the object had just told them a train with no origin, and that this was not a riddle and was an inventory.
+The yard argued for about forty minutes and it argued well, and two people came up with better answers than any of the three, and one of those was a carter of about fifty who said that in his trade the origin of a thing is the place you can trace it back to and if you cannot trace it back then it has not got one, and that the object had just told them a train with no origin, and that this was not a riddle and was an inventory.
 
-"**Then that is the answer and it is the fourth one, and it is not one of mine, and it is worse than all three of mine,**" Adrian said. "Because it means the toll does not land on the place the train is standing in. **It lands on the place the train can be traced back to. And a thing that cannot be traced back is a thing with no origin, and the only way a place is going to get a train with no origin is if the place put it there.**"
+"**Then that is the fourth one, and it is not one of mine, and it is worse than all three of mine,**" Adrian said. "Because it means the toll does not land on the place the train is standing in. **It lands on the place the train can be traced back to. And a thing that cannot be traced back is a thing with no origin, and the only way a place is going to get a train with no origin is if the place put it there.**"
 
 "And who put that train there?" said the tenth hand, from the rail.
 
@@ -106,7 +106,7 @@ He wrote it down. It took him nine minutes to be able to hold a pencil properly 
 
 ---
 
-**And the thing that everybody argued about on the twelfth was not the reading, and it is entered first in the day's book because it came first, and it is the reason there is no charter and no proposal and no closing in this volume up to the thirteenth of this month, and it is about a satchel.**
+**And the thing that everybody argued about on the twelfth was not the reading, and it is entered first in the day's book because it came first, and it is the reason there is no charter and no proposal and no closing anywhere in this district on the twelfth of this month, and it is about a satchel.**
 
 A satchel was a reasonable idea. The object is a piece of cast iron about the length of a forearm and it weighs about four pounds and it can be carried in one hand, and if it were in the case in the office behind the sale floor then it would be inspectable on stated days and describable at a counter by a reader, and the whole of the arrangement the district has spent five weeks building would apply to it, and nobody would have to walk nine miles ever again.
 
@@ -142,7 +142,7 @@ There is a long entry about that and it is the first time the board has had to s
 
 "I have walked this line eleven times since the nineteenth and I have counted it every time," he said. "**I am not going to walk it tonight with a man who cannot tell where the river is, and then have a book that says two people walked it.** That is not caution. That is the whole of what a count is. **A count with a man in it who cannot see is not a smaller count. It is a different number.**"
 
-And the boy of nineteen walked the last four miles with a man who asked him, twice, which way east was, and who got it right the second time both times, and who said at the gate of the yard at about a quarter to ten at night, in a yard that was empty, to a boy of nineteen who was unpaid:
+And the boy of seventeen walked the last four miles with a man who asked him, twice, which way east was, and who got it right the second time both times, and who said at the gate of the yard at about a quarter to ten at night, in a yard that was empty, to a boy of seventeen who was unpaid:
 
 "Mr. Pike. I have been in this business seventeen years and I have never once had a person walk me home who was paid nothing and who did not want anything off me, and I have thought about it about four times in the last ten minutes and I have not got anywhere, and you noticed, and so did I."
 

@@ -8,7 +8,7 @@ It was an absence.
 
 The public lot book lies on a table under eleven boards. The foot of the page for the twenty-sixth carried the entry she has written in her own hand about a crossing performed once, and a custody term, and a name, and four words. Above all of that, in the margin of the twenty-sixth, in Hester Vane's own block capitals, there was a line that said:
 
-> **MY TERM IS SEVEN DAYS FROM THE TWENTY-SIXTH AT ABOUT ELEVEN IN THE MORNING AND IT EXPIRES AT MIDNIGHT ON THE THIRD. THE HOUR IS PUBLISHED. THE PERSON HOLDING IT ON THE DAY IT EXPIRES IS TO BE NAMED IN THIS BOOK BEFORE IT IS HELD OR IT IS NOT HELD.**
+> **MY TERM IS SIX DAYS FROM THE TWENTY-SIXTH AT ABOUT ELEVEN IN THE MORNING AND IT EXPIRES AT MIDNIGHT ON THE THIRD. THE HOUR IS PUBLISHED. THE PERSON HOLDING IT ON THE DAY IT EXPIRES IS TO BE NAMED IN THIS BOOK BEFORE IT IS HELD OR IT IS NOT HELD.**
 
 And below that line there was nothing at all.
 
@@ -24,7 +24,7 @@ Mara Quill as registrar, not a vote. Nessa Pell as sitting steward, with a key i
 
 "There are five things this board can do," Sabin Tull said, reading them off the wall where they had been painted in the fourth week and never taken down. "Refuse to record a closing. Publish a result. Call a review. Uphold a challenge in part. Set or renew a short public custody term. And it cannot name a person."
 
-"It can name a holder," Nessa said. "It named Hester Vane in under a minute and read her qualifications out loud to four hundred people and she said them in her own words and then took the key. That is inside the fifth thing. Setting a term means somebody holds it."
+"It can name a holder," Nessa said. "It named Hester Vane in under a minute and read her qualifications out loud to sixty people and she said them in her own words and then took the key. That is inside the fifth thing. Setting a term means somebody holds it."
 
 "Then somebody has to be in the book before the term, and the book is empty, and the board has to sit down tomorrow and do the same thing again, and on the third it will be midnight and there will be nothing to sit on." Sabin Tull put his hands flat on the table. "I want it understood that the board is not refusing. The board is sitting here with five powers and the one it needs is a sixth, and the sixth is *ask a person whether they will do a job*, and no board in this city has ever had that power, and if it did have that power then every board in this city would be a hiring office."
 
@@ -134,7 +134,7 @@ And the key changed hands at about ten past eleven on the second, in the open, o
 
 "Then it is a fair objection," said Nessa Pell, "and answer it in the room rather than in the minutes, because a minute is where objections go to be right with nobody present."
 
-"**Then here is the answer and it is not mine, it is the book.** The object is in a case in a room with a door on it, and the key opens a door, and the door is not the dangerous part. The dangerous part is the nine days in five weeks that it stood open on the table while a hundred people looked at a crack in a piece of brass and nobody wrote down how long for. **You are not protecting a key. You are protecting the right of anybody to look at a thing without a schedule.** And that is worth a great deal more than my argument, and I have been losing it for nine years and Tell me who taught you to say it."
+"**Then here is the answer and it is not mine, it is the book.** The object is in a case in a room with a door on it, and the key opens a door, and the door is not the dangerous part. The dangerous part is the nine days in five weeks that it stood open on the table while a hundred people looked at a crack in a piece of brass and nobody wrote down how long for. **You are not protecting a key. You are protecting the right of anybody to look at a thing without a schedule.** And that is worth a great deal more than my argument, and I have been losing it for nine years and you did not teach me to say it, Hester Vane did, and I am going to tell you that to your face while you are standing in my yard."
 
 "Hester Vane taught it to me," said Nessa Pell, "on the twenty-sixth, in about thirty seconds, and she did it by talking about a count, and I have been a clerk for nineteen years and I did not have that sentence before she said it."
 

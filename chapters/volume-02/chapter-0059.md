@@ -22,9 +22,9 @@ And on the crate, a slate, in Nessa Pell's hand, with a count on it: **THE NINTH
 
 "You can tell me a date?"
 
-"**I cannot tell you a date and I have not read anything since the eighteenth of last month, and I am not going to read anything today.** And I would like the yard to hear the reason, and the reason is that I have been not-reading for twenty-five days because every time I put my hand on that piece of iron I get four lines that say the toll is the origin and not a word about whose, and **if I read it again I will get a better four lines, and a better four lines will make me feel as though I know something, and I do not know something, and I have been selling the feeling for five weeks and I am not going to do it in front of a village.**"
+"**I cannot tell you a date and I have not read anything since the eleventh of this month, and I am not going to read anything today.** And I would like the yard to hear the reason, and the reason is that I have had six days of it, and six days is not long enough for me to have learned anything and it is long enough for me to have stopped. Every time I put my hand on that piece of iron I get five lines that say the toll is the origin and not a word about whose, and **if I read it again I will get better five lines, and better five lines will make me feel as though I know something, and I do not know something, and I have been selling the feeling for five weeks and I am not going to do it in front of a village.**"
 
-"**Nineteen minutes**," said Nessa Pell, from the table, and put the two figures in the ledger, and did not say anything else about it, and the entry reads: *THE READER'S LIMIT, ENTERED AS THE EIGHTEENTH. HE DID NOT READ. NO COST. NO TIME. THE ENTRY IS OF A NON-EVENT AND IS ENTERED AS ONE.*
+"**Nineteen minutes**," said Nessa Pell, from the table, and wrote the figure in the ledger, and did not say anything else about it, and the entry reads: *THE READER'S LIMIT, ENTERED AS THE EIGHTEENTH. HE DID NOT READ. NO COST. NO TIME. THE ENTRY IS OF A NON-EVENT AND IS ENTERED AS ONE.*
 
 ---
 
@@ -54,9 +54,9 @@ Somebody said, "Then ask them."
 
 ---
 
-**And the third, and it is the one that cost him the most, and it is the sentence the volume is named for, and it came at about eleven o'clock in the morning in a yard of about five hundred people in Alder Reach, and it is in the book in his own hand and it is the only entry in the volume anybody has copied out.**
+**And the third, and it is the one that cost him the most, and it is the sentence a stranger will find on this page in four years, and it came at about eleven o'clock in the morning in a yard of about five hundred people in Alder Reach, and it is in the book in his own hand and it is the only entry anybody in this district has ever copied out.**
 
-"The third thing is ours," he said. "And it is the best thing anybody in this district has written since the flood year, and it is four lines long, and a woman on a river stair fought for it against a room of six hundred, and I was in the room and I voted for it.
+"The third thing is ours," he said. "And it is the best thing anybody in this district has written since the flood year, and it is four lines long, and every one of the four is mine. **I wrote them at a table in a kitchen under the Ward Nine tram line at about eleven at night with a candle on it, and a yard of about six hundred agreed to them in the rain, and I was in the room and I voted for them.**"
 
 "**A person is accounted for by a count and a destination and a remedy, and is not accounted for by a household.**
 
@@ -66,7 +66,7 @@ He turned round and put his hand on it without touching it.
 
 "**Four houses. Thirty-one people. A chapel. And the reason the count says four is that our form asks for a household, and thirty-one people on a bank filled it in like a household, because that is what the form is.** A village entered as a household is precisely the thing that rule was written to stop being true of people. A household can be counted, and closed, and asked for its consent by one person, and the one person is a man with a pen.
 
-"**So the district's central institutional gain is the reason a village is invisible, and I want it entered in those words, and I want the woman who found it entered as the one who found it, and she found it on the fifteenth of this month on a bank nine miles west standing in the rain with her arms folded.**"
+"**So the district's central institutional gain is the reason a village is invisible, and I want it entered in those words, and I want the woman who found it entered as the one who found it, and she found it on the fifteenth of this month on a bank nine miles west standing in the rain with her arms folded.** And she was not in the room when I wrote the four lines, and she is the reason they are being taken apart in front of five hundred people this morning."
 
 The yard was very quiet for about nine seconds.
 
@@ -90,11 +90,11 @@ The yard was very quiet for about nine seconds.
 >
 > **AND THE SHORTFALL IS ENTERED AS UNCOMPUTED AND NOT AS NIL, BECAUSE THE CLAIM HAS NEVER BEEN STATED BY ANYBODY, AND A NIL WOULD BE A NUMBER THE PAYER CHOSE.**
 
-The yard read the three figures out and one woman at the back said the only thing anybody said about it, which was that a thousand coppers is eleven weeks of the ward market's levy off every household in a quarter, and Ivo Stenn, who was in the room, said yes, and that it was a quarter of the new rate's whole take, and that the market would have to be told and would be told, and Adrian said that was the correct order of the two things and that the market must be told before the money moved and not after.
+The yard read the three figures out and one woman at the back said the only thing anybody said about it, which was that a thousand coppers is twenty-seven days of the river stair that Fen Ambrose had put a figure on four days ago, and Ivo Stenn, who was in the room, said yes, and then said the harder half of it, which was that it is **six-tenths of one per cent of everything the new rate takes in a quarter**, and that the market would have to be told and would be told, and Adrian said that was the correct order of the two things and that the market must be told before the money moved and not after.
 
 ---
 
-**And at about twenty past ten in the morning somebody in that yard said the word on behalf of Sarrow Water, and the district discovered that the only instrument it is proud of is the thing that would do the harm.**
+**And at about ten past eleven in the morning somebody in that yard said the word on behalf of Sarrow Water, and the district discovered that the only instrument it is proud of is the thing that would do the harm.**
 
 It was a trader of about forty, off the top terrace, who had come in for nothing in particular, and he stood up in the fourth row and said it in a voice that shook and then steadied, and he said it four times, and the four times are in the book.
 
@@ -108,7 +108,7 @@ And about four hundred people in that yard agreed with him out loud, and Nessa P
 
 "If Sarrow Water refuses the siding, the trains have nowhere to stand. The Alder Reach yards have been full since the flood year. The west end is under water. **And the only other place on that line a train can stand is the embankment, which is above the bank, and the bank is theirs, and there is a drain off the top of that bank at the sixth place that has been going straight onto the ballast since before the Fracture.**
 
-"So the one act everybody in this yard has spent five weeks making holy — a place saying the word — **is the act that puts nine vehicles on top of the woman of seventy's wall.** And that is not a flaw in the village and it is not a flaw in her and it is not a flaw in the word. **It is a flaw in every instrument in this district, and all of them were built by people who assumed that saying no would be free, and saying no has never once been free, and it has never been free because nobody ever costed where the thing goes next.**"
+"So the one act everybody in this yard has spent five weeks making holy — a place saying the word — **is the act that puts nine vehicles on top of the wall behind that column, and there is a man of seventy who looks at it every evening and has seen a bank go before and it went in a night.** And that is not a flaw in the village and it is not a flaw in him and it is not a flaw in the word. **It is a flaw in every instrument in this district, and all of them were built by people who assumed that saying no would be free, and saying no has never once been free, and it has never been free because nobody ever costed where the thing goes next.**"
 
 "**Then cost it**," said the trader.
 
@@ -130,7 +130,7 @@ Nobody argued with him about whether it was safe. Everybody in that yard had spe
 
 "And it is safe," said Adrian.
 
-"**It is the safest thing available and it is permanent, and those are two different facts and this yard has spent a month learning to tell them apart.**" Selik Marne took his hat off and held it. "That siding is the only stabling on this line. Your Road House yard is full. There are nine vehicles in it and a bank behind them that a woman of seventy looks at every evening. **If I close the west end, the nine vehicles stay on the bank for ever, and the bank is the thing the woman is afraid of.**
+"**It is the safest thing available and it is permanent, and those are two different facts and this yard has spent a month learning to tell them apart.**" Selik Marne took his hat off and held it. "That siding is the only stabling on this line. Your Road House yard is full. There are nine vehicles in it and a bank behind them that a man of seventy looks at every evening. **If I close the west end, the nine vehicles stay on the bank for ever, and the bank is the thing the man is afraid of.**
 
 "So I have come here this morning to tell this yard that the safest thing anybody in this basin can do is to leave nine wagons on a village's hard ground permanently, and that I am right about it, and that **being right is the thing I have never once in nine years been able to explain to anybody.**"
 
@@ -148,15 +148,15 @@ And it worked. It worked completely and in about eleven minutes, because the mac
 
 > **THE ROUTE-KEEPER REMEDY WAS CALLED ON THE EIGHTEENTH OF THIS MONTH AND WAS DISCHARGED IN ELEVEN MINUTES FOR THE NINE VEHICLES, AND WAS NOT DISCHARGED FOR THIRTY-ONE PEOPLE, AND THE REASON IT COULD NOT BE ENTERED IS THE REASON THIS ENTRY IS THE FINDING: THERE IS NO CHARTER, AND THEREFORE NO BREACH, AND THEREFORE NOTHING TO REMEDY, AND THE ONLY THING THAT HAS HAPPENED AT THE NINTH PLACE IN NINE YEARS IS AN OBJECT WORKING AS IT WORKS.**
 
-**And the board then did the fifth of the five things it can do, which is publish a result, and it published one in about four minutes, and it is the shortest entry in the book and the heaviest.**
+**And the board then did the second of the five things it can do, which is publish a result, and it published one in about four minutes, and it is the shortest entry in the book and the heaviest.**
 
 > **PUBLISHED THE EIGHTEENTH OF THIS MONTH, ALL FOUR SEATS NAMED ALOUD, BY THE BOARD, WHICH CANNOT GRANT A USE:**
 >
 > **NO CHARTER, NO TERMS-CLOSING, NO PAYMENT, AND NO READING MAY BE ATTACHED TO THE HARROW TONGUE UNTIL THE PLACE ITS TOLL NAMES HAS BEEN ASKED. AND THE TOLL IS THE ORIGIN, AND THE ORIGIN IS A PLACE, AND THE READER CANNOT NAME IT, AND THE BOARD HAS NO POWER TO MAKE A READER NAME IT, AND THEREFORE THE LOT IS STOPPED BY A ROOM OF FOUR SEATS WITH NO OWNER, AND NOT BY THE READER, AND THE READER ASKED FOR IT TO BE STOPPED BY THE BOARD AND WAS REFUSED THE FIRST TIME AND ACCEPTED THE SECOND TIME IN THE SAME MINUTE.**
 
-And the yard read that out twice, and about nine hundred people in this district heard it by the fourteenth, and the last line of the day is the one the tenth hand wrote in the margin of his page, and it is not a number and it is not an instrument:
+And the yard read that out twice, and by the twenty-second about nine hundred people in this district had heard it, and the last line of the day is the one the tenth hand wrote in the margin of his page, and it is not a number and it is not an instrument:
 
-> *He did not read. Twenty-five days. And I have been keeping a column for things I could not put anywhere, and there are two in it now, and this one is not a number either, and it is a man not doing the thing he is good at in front of five hundred people, and putting that in a column is the only thing I have got.*
+> *He did not read. Six days. And I have been keeping a column for things I could not put anywhere, and there are two in it now, and this one is not a number either, and it is a man not doing the thing he is good at in front of five hundred people, and putting that in a column is the only thing I have got.*
 
 ---
 
@@ -166,7 +166,7 @@ Mara Quill put the payment in front of the ward market before the money moved, a
 
 "It is three times in nine days."
 
-"**And in nine weeks it will be four times, and the reason it is a column is that a market is a column with three figures in it, and you have made it one.**" He wrote the three figures on his own paper in his own hand and signed the paper, and then he said the thing he is going to keep saying about this entry for the next four years, and it is in the minute:
+"**And in another nine days it will be four times, and the reason it is a column is that a market is a column with three figures in it, and you have made it one.**" He wrote the three figures on his own paper in his own hand and signed the paper, and then he said the thing he is going to keep saying about this entry for the next four years, and it is in the minute:
 
 "I am the freight clerk of a market and I have just been handed the business of a village nine miles west that is not in any of my books, and I am not going to be the man who loses it, so I am going to do the only thing I know how to do, which is make a rate sheet for a place, and a rate sheet starts with somebody walking onto the ground and counting, and **there is no rate on any sheet in this city for a household I have not met.**"
 
@@ -176,5 +176,5 @@ At about half past two the tenth hand of the signal crew came back through the g
 
 > **THE STALL AT THE FOURTH PLACE MEASURED THREE HUNDRED AND FORTY-FOUR YARDS ON THE NINTH. IT MEASURED THREE HUNDRED AND SIXTY-ONE YARDS ON THE EIGHTEENTH OF THIS MONTH, ON AN AFTERNOON WHEN NOTHING WENT THROUGH IT, AND I WENT AND LOOKED AT IT TWICE AND ASKED A MAN AT THE EIGHTH PLACE, WHO SAID HE HAD NOT SEEN IT MOVE, AND I BELIEVE HIM, AND I HAVE ALSO PUT THE TWO FIGURES ON THIS PAGE BESIDE EACH OTHER, AND NOBODY CAN TELL ME WHICH OF THEM IS THE LIE.**
 
-And the yard was empty, and the wall had three sheets on it and a hole where a fourth would go, and the eleventh stall in a hut nine miles west is a floor a woman stands on every day of her life, and the twelfth was measured on the seventh of this month and has not been measured since, and there is a date in this book on which somebody has to go and measure it, and that date is the twenty-ninth, and it is announced in a yard on the twenty-first by a registrar with her hand shaking slightly and about four hundred people in it, **and it is the first date this district has ever given anybody for anything, and the sheet it is on says on its face that it is a date a person could be wrong about, and that phrase is on the sheet and not in a footnote.**
+And the yard was empty, and the wall had three sheets on it and a hole where a fourth would go, and the twelfth stall is a floor a woman stands on every day of her life, and it was measured on the seventh of this month and has not been measured since, and there is a date in this book on which somebody has to go and measure it, **and there is not one yet, and that is the first thing in five weeks this district has not been able to write down.**
 

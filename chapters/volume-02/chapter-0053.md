@@ -148,9 +148,9 @@ Selik Marne looked at him for a moment with an expression that nobody in that ro
 
 "Mr. Vale," he said. "Then say the other thing, which is that the sentence in the fourth page has a **duration of the need** in it with no end, and that the Warden's own span has been shut since the twenty-first of the month before last and there is no word in this order for what happens to a duty when the thing it is duty for is shut."
 
-**And Nessa Pell answered that, and it is the reason this chapter is in the book at all, and she answered it without moving, standing by a table in a room with a door on it with her hands at her sides:**
+**And Nessa Pell answered that, and it is the reason that answer is in the book at all, and she answered it without moving, standing by a table in a room with a door on it with her hands at her sides:**
 
-"Because nobody has written the sentence, and because we have spent five weeks building an instrument for it and it is called a **standing term**, and it is seven days and it is renewed in public and it expires whether anybody remembers it or not, and **a duty with no end is the only thing in this basin that has never been in a book with a date on it, and Note that the entire difficulty of this bundle of paper is that nobody wrote down what happens on Thursday.**"
+"Because nobody has written the sentence, and because we have spent five weeks building an instrument for it and it is called a **standing term**, and it is seven days and it is renewed in public and it expires whether anybody remembers it or not, and **a duty with no end is the only thing in this basin that has never been in a book with a date on it, and the whole of the difficulty of that bundle of paper is that nobody wrote down what happens on Thursday.**"
 
 And she said the last part with no particular weight at all, and it went in the minute, and Selik Marne read it twice, and then he took the bundles himself and carried them down the staircase himself, and **the room with a door on it was locked at about ten past twelve and the plate was taken off the door and put in the bundle, and there is a line in the book at the foot of the fifth which says that the room is now a room and the door has no plate on it and nothing else about it has changed.**
 
@@ -162,7 +162,7 @@ And she said the last part with no particular weight at all, and it went in the 
 
 "Four bundles and a press copy and a plate."
 
-"Then it is five." She was carrying a toolbox and did not offer to help. "**I am going to say one thing to you on this landing and then I am going to go and fit a housing, Warden Marne, because the replacement housing is four weeks off and I am doing it in a shed, and Put in the minutes that I am doing it in a shed and not in a room with a door on it.**
+"Then it is five." She was carrying a toolbox and did not offer to help. "**I am going to say one thing to you on this landing and then I am going to go and fit a housing, Warden Marne, because the replacement housing is four weeks off and I am doing it in a shed, and I want whatever gets written down to say shed and not a room with a door on it.**
 
 "Your department has a paper. I have read it — Markham lent it me on the nineteenth, which is the day you sent her up at two o'clock with two words on a slip, and I have been angrier about it since than about the pilot line, and I have not said so, and I am saying so now because you have come down a staircase carrying paper in front of a registrar and a reader and let these three know that a fitter has read it.
 

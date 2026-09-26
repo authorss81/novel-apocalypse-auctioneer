@@ -134,7 +134,7 @@ The relationship moves from mentorship to rivalry to public accountability. Iven
 ### Volume 02: The Borrowed Road — Chapters 51–100
 
 - **Central pressure:** the Needle Tramway's signals begin moving Faults along the rail line. A reversal signal can save a stranded train but makes the train forget its origin.
-- **Starting state:** the Hearth Line is open; Alder Reach depends on Adrian's lot; Selik wants a permanent Wardens' monopoly.
+- **Starting state:** the Hearth Line exists and is finite and has been performed once; Alder Reach depends on Adrian's lot; Selik's permanent office is tabled and alive and the district does not want it. **This is the Volume 01 closing state and it is canonical for Volume 02 — the Hearth Line is not open and Selik is not asking for a monopoly.**
 - **Major locations:** signal huts, elevated rail stations, Tarin's Road House, the flooded Harrow interchange.
 - **Major factions:** Road Houses, Wardens, signal keepers, Guild inspectors, and Selik's bridge administration.
 - **Midpoint reversal:** Adrian's reading is technically correct, but the route's memory toll is borne by families in a village the train does not stop at. He must admit that a destination can be a victim too.

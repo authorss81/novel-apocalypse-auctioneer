@@ -58,11 +58,11 @@ Nobody answered him, and about four people looked at one another, and a man of a
 
 "Then how do they come from it if it's under the water," said Teo.
 
-And about half the people at that place laughed, and it was not unkind, and it is entered in the book as a fact about the place and not as a fact about the boy, and the reason it is entered is that **a question that is obviously absurd to everybody standing in a place is very often the shape of a question that nobody standing in it has ever been able to ask properly, and this district learned that on the sixteenth of last month in a school gym, and it learned it from a boy who had been asked twice and refused twice.**
+And about half the people at that place laughed, and it was not unkind, and it is entered in the book as a fact about the place and not as a fact about the boy, and the reason it is entered is that **a question that is obviously absurd to everybody standing in a place is very often the shape of a question that nobody standing in it has ever been able to ask properly, and this district learned that on the twenty-sixth of the month before last in a school gym, and it learned it from a boy who had been asked twice and refused twice.**
 
 ---
 
-**And the count, and it is the number this chapter is for, and it was taken by the person who asked the question and not by a clerk, and it is entered with the reason underneath.**
+**And the count, and it is the number the day turned on, and it was taken by the person who asked the question and not by a clerk, and it is entered with the reason underneath.**
 
 He asked thirty-one people two questions, and the first was *where do the trains come from* and the second was **has anybody ever gone from here on a train, ever**, and he asked the second one eleven times because the first one is a question about a railway and the second one is a question about people, and eleven people needed it asked twice, and one of them was a woman of about forty-five who said the first time, "Gone where?" and he said, "**Anywhere. On a train. Ever. Since before the water came.**"
 
@@ -87,7 +87,7 @@ The twenty-three people who answered no gave reasons, and Teo wrote all twenty-t
 
 ---
 
-**And then somebody did the count, because that is what this district does, and the count is the reason the whole of this chapter had to happen.**
+**And then somebody did the count, because that is what this district does, and the count is the reason the walk had to happen at all.**
 
 It was Rutt and it took her about four minutes and it was done out loud, standing on the bank, with the thirty-one answering and Teo writing, and it is entered in the ordinary form, and here it is whole:
 

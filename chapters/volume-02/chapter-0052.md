@@ -40,7 +40,7 @@ So on the morning of the third of this month there were two lamps at the top, wh
 
 **The first two went down at about a quarter past five in the morning and the count was taken going up.**
 
-There is not much to say about a two-hundred-and-sixty-one-step stair three times, which is the sentence every person who has done it says to you beforehand and the only sentence that is true, and the reason it is true is that the stairs do the work and the doing of the work is the same every time. The wall on the east side is nine feet high at the top and about four at the hundred-and-fortieth step, where the stair turns behind it and comes out thirty yards along. Below the turn it is a cut with a river at the bottom of it and a smell of cold stone and, from about the eightieth step down, a smell of something sweet that nobody has ever satisfactorily explained. There is a kink at a hundred and ninety that puts a person's weight wrong and every person who has done it knows the kink and nobody has ever named it. There are eleven places on that stair where a person can stand off the steps and put a hand out and let somebody go by, and they were made for that, and there is no writing on the wall about it, and on the fourth of this month about four people leaned on three of them.
+There is not much to say about a two-hundred-and-sixty-one-step stair three times, which is the sentence every person who has done it says to you beforehand and the only sentence that is true, and the reason it is true is that the stairs do the work and the doing of the work is the same every time. The wall on the east side is about four feet high at the top, where the lamp-hook is, and it is nine feet high at the hundred-and-fortieth step, where the stair turns behind it and comes out thirty yards along. Below the turn it is a cut with a river at the bottom of it and a smell of cold stone and, from about the eightieth step down, a smell of something sweet that nobody has ever satisfactorily explained. There is a kink at a hundred and ninety that puts a person's weight wrong and every person who has done it knows the kink and nobody has ever named it. There are eleven places on that stair where a person can stand off the steps and put a hand out and let somebody go by, and they were made for that, and there is no writing on the wall about it, and on the fourth of this month about four people leaned on three of them.
 
 The first two went down at a quarter past five and were at the bottom at about half past eight, and the fog that morning came up off the water at about the hundredth step and stayed to the top, so that the people above could not see anybody coming up for the last hour and a half and the people coming up could not see the wall until they were on it. That is the whole of the difficulty of a stair, and it is not the light. **It is that the top of a stair in fog is a place where you cannot tell a person from the last twenty feet of nothing.**
 
@@ -78,7 +78,7 @@ And the number of voices was seventeen, and the number of figures that came out 
 
 The plan's step read: *anybody who does not wish to be counted will be asked.* And there was no hour on it, and the hour was the whole thing, and the hour was missing because a plan is a thing that can be given a date and asking is not a date. Nobody had asked because there was nobody whose job it was to ask, and the whole of the district's last five weeks of argument about who counts whom had been conducted by people who were free, on a good day, in a room, with time in it.
 
-**So the count that was published in the morning on the fourth of this month was seventeen, and it was right, and one of the seventeen was standing at the top of a ramp in the dark two hundred and sixty-one steps below with a blanket over her shoulders and no idea that anybody was counting her at all.**
+**So the count that was published in the morning on the fourth of this month was seventeen, and it was right, and one of the seventeen lines on that roll stood for a house with two people in it, and the other one of them was standing at the top of a ramp in the dark two hundred and sixty-one steps below with a blanket over her shoulders and no idea that anybody was counting her at all.**
 
 ---
 
@@ -134,7 +134,7 @@ Nobody has paid the eleven coppers. It is entered as unpaid and not as nil, and 
 
 ---
 
-**And at about four in the afternoon on the fourth, on a goods-shed floor on the far bank, with the count at eighteen and the plan signed and the second lamp still unpaid for, Fen Ambrose was asked where the water comes from.**
+**And at about four in the afternoon on the fourth, on a goods-shed floor on the far bank, with the count at seventeen and the addition to it not made yet, and the second lamp still unpaid for, Fen Ambrose was asked where the water comes from.**
 
 It was the woman who had said yes, and she asked it because they had been talking about the eleven and the dog and the floor and the fact that a floor with eleven people on it and no crossing has one tap, and that the tap works, and that it has worked every day since the plank went into the service cut.
 
@@ -144,7 +144,7 @@ It was the woman who had said yes, and she asked it because they had been talkin
 
 "Who is the road house?"
 
-"That," said the woman, "is on a paper in Alder Reach and not in this room, and I have been on this floor since the thirteenth and I have not asked anybody for nine days, and I am asking you now because you are the first person who has come down here since the plank went and asked me a question I could answer no to."
+"That," said the woman, "is on a paper in Alder Reach and not in this room, and I have been on this floor since the thirteenth of the month before last and I have not asked anybody for three weeks, and I am asking you now because you are the first person who has come down here since the plank went and asked me a question I could answer no to."
 
 Fen Ambrose wrote it down on the sheet, in the margin, in her own hand, and she did not know then what it was worth and she has never been sure, and the margin of that sheet is in the book with the number on the sleeve and the number on the sheet, and the entry at the foot of the page in the registrar's hand reads:
 

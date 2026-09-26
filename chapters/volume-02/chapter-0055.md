@@ -2,9 +2,9 @@
 
 Tarin Kest was a mechanic and a route keeper and the founder of the Needle Road House, and on the morning of the ninth of this month he walked nine miles west along his own railway with a reader and a signal hand, and he told them about the lease before they were two miles out, and he told them about it in the plainest words he had, and neither of them said anything about it for another two miles, and he spent those two miles working out that they were not going to, and that was the worst two miles of his year.
 
-"There is a siding at the ninth place," he said, on the embankment, at about half past nine in the morning, with the river on his right and the whole of Alder Reach in the wrong direction behind him. "It is on a nine-year lease and it is a lease and not a charter, because there was nothing to charter. I signed it in the fourth year in about eleven minutes in a room in the ward market district, and I was thirty-four and I had nineteen vehicles and nowhere to put them.
+"There is a siding at the ninth place," he said, on the embankment, at about half past nine in the morning, with the river on his right and the whole of Alder Reach in the wrong direction behind him. "It is on a nine-year lease and it is a lease and not a charter, because there was nothing to charter. I signed it in the ninth year in about eleven minutes in a room in the ward market district, and I was thirty-four and I had nineteen vehicles and nowhere to put them.
 
-"And here is the other half of it, and I have been carrying this for a year and I would rather say it on a ballast than in a room. **The lease runs out in the fourth month of next year. I have not renewed it. I have not told the other side it runs out. I have not told anybody it runs out, and there is a woman on that column who has never been told either.**
+"And here is the other half of it, and I have been carrying this a long time and I would rather say it on a ballast than in a room. **The lease runs out in the fourth month of next year. I have not renewed it. I have not told the other side it runs out. I have not told anybody it runs out, and there is a woman on that column who has never been told either.**
 
 "And I have not renewed it and I am not going to renew it, and if you want to know why, it is because the day I renew it is the day a village becomes a thing in a road house's business, and the day I stop is the day a train on a siding is a thing on a piece of somebody's ground. And I have worked that out about three weeks ago and I have been sick about it since, and I have not been able to think about it because there is a wall on a bank and I have known about the wall for nine years and I have not once been in the same room as the woman who has known about it for nine years."
 
@@ -16,15 +16,15 @@ Tarin Kest was a mechanic and a route keeper and the founder of the Needle Road 
 
 The tenth hand got there first, because he walks lines at the speed of a man who is counting, and he went out to the ballast edge and stood at the place where the ground stops and stood at the place where it starts again, and came back and wrote two numbers on the back of his hand and did not wipe them off.
 
-"Three hundred and ten yards," he said. "And I have got eleven stalls on that column and I have just walked two ends of the same one, so **the line has got ten on it, and there is an eleventh somewhere on this section that I cannot place and have never been able to place, and there is a twelfth in a hut nine miles on that the book does not have at all.**"
+"Three hundred and ten yards," he said. "And I have got eleven stalls on that column and I have just walked two ends of the same one, so **the line has got ten on it and the eleventh entry is one stall entered twice, and the woman who lives in a hut nine miles on says twelve, and I say eleven, and we are counting the same ground and neither of us has been to the other end of the same one.**"
 
-"Which means," said Tarin, "that of the eleven sections between the twelve places on this section of the line, four are entered as stalls, and a fifth is a floor in a hut nine miles on, and there is an eleventh out there somewhere that is in a column and on no map I have got."
+"Which means," said Tarin, "that of the eleven sections between the twelve places on this section of the line, **one is entered as a stall, and it is the one we are standing in, and nine more are out there in a column and on no map I have got, and one of those nine is a floor in a hut nine miles on instead of a length of line.**"
 
 "And the four-foot is soft in nine places between here and the first place and there is a drain off the top of the bank at the sixth that goes straight onto the ballast and has been doing it since before the Fracture," said the tenth hand. "**A railway is a drain. A railway is the worst drain in a district and it is on the same ground as everything else and it has been taking the water off this bank for sixty years and nobody in this city has ever once thought about where it goes.**"
 
 ---
 
-**And the arithmetic they did in the next hour is the arithmetic the whole of this book is standing on, and Tarin Kest did it with a stick in the ballast and it took eleven minutes.**
+**And the arithmetic they did in the next hour is the arithmetic this line is standing on, and Tarin Kest did it with a stick in the ballast and it took eleven minutes.**
 
 "A line is not a length," he said. "That is what a railway man says and I have never been able to say why and now I can say it, and it is because **a line is an order.** You cannot ask how long this line is, because the answer changes depending on what is standing on it, and the only true question is *in what order*, and you answer that from the east, because from the east you know what has to come first.
 
@@ -48,11 +48,11 @@ He had the page out and he had it on his knee and he had a piece of chalk and he
 
 "**And the line book cannot see a person.**" He said it the way he says things, which is as though he had been chewing on it for three days. "Every other book in this city counts people. Yours counts lots and tolls and charters. Mara's counts pages and names. The board's counts terms. **The line book counts signals, and it is the only instrument anybody has ever been handed for free, and it is the one that cannot tell us whether anybody was on the train.**
 
-"So I have got a train on the ninth place, nine vehicles, standing twenty days, and it is a very good number, and I cannot put it on this page, because **that page is a page of people, and a train is not a person, and if I put a train on it then a stranger who takes this page cold will think a train is a thing this district counts, and it is the only thing on my page that I know is not a place a train could be.**"
+"So I have got a train on the ninth place, nine vehicles, standing twenty-six days, and it is a very good number, and I cannot put it on this page, because **that page is a page of people, and a train is not a person, and if I put a train on it then a stranger who takes this page cold will think a train is a thing this district counts, and it is the only thing on my page that I know is not a place a train could be.**"
 
 "Write it in a second column and say what it is," said Adrian.
 
-"I have written it in a second column and I have called the column *rolling stock standing* and it has four entries in it and **one of the four is a lease and not a vehicle**, and I have entered the lease as *not a vehicle, held in the Road House name, on a nine-year lease signed in the fourth year and expiring in the fourth month of next year, at a place the line does not serve, and the holder of the lease is standing on this ballast and has not been asked, and the other side of the lease has not been told either.*"
+"I have written it in a second column and I have called the column *rolling stock standing* and it has four entries in it and **one of the four is a lease and not a vehicle**, and I have entered the lease as *not a vehicle, held in the Road House name, on a nine-year lease signed in the ninth year and expiring in the fourth month of next year, at a place the line does not serve, and the holder of the lease is standing on this ballast and has not been asked, and the other side of the lease has not been told either.*"
 
 ---
 
@@ -60,7 +60,7 @@ He had the page out and he had it on his knee and he had a piece of chalk and he
 
 The fourth place is on the last of the embankment before the line comes down onto the bank, and at the fourth place the line curves, and the curve is tight enough that a man standing on the outside of it can see the inside of it, and the inside of a curve is where the ballast is highest and where a train's overhang comes closest to a man standing up.
 
-"Nobody past the second rail, ever," said the tenth hand, out of his own memory, in the voice of a man reading a minute. "**Argued in a yard on the twelfth by me, and it held, and it is in Lot 17's terms as well as on his spur, and the twelfth of the month before last is entered in the minutes of a bridge review as the day that rule was argued with and held.**"
+"Nobody past the second rail, ever," said the tenth hand, out of his own memory, in the voice of a man reading a minute. "**Argued in a yard on the twelfth by me, and it held, and it is in Lot 17's terms as well as on his spur, and the twelfth of last month is entered in the minutes of a bridge review as the day that rule was argued with and held.**"
 
 "Argued it again," said Tarin.
 
@@ -82,9 +82,9 @@ And he wrote it out on the back of his hand, which is a thing he does not do, an
 
 ---
 
-**And then there was a train, and it was not a thing anybody arranged, and it is the reason this chapter is not four hours of walking.**
+**And then there was a train, and it was not a thing anybody arranged, and it is the reason the morning was not four hours of walking.**
 
-An eastbound empty came out of Alder Reach at about ten to twelve and it was eight vehicles and nobody in the cab who could be reached, because the cab was locked and the man inside was a Road House man named Osgood Trill who had a signal and a lamp and no way of answering anybody, and he came out of the third place at about twenty past eleven, and by the time the three men on the bank had heard it the whole thing was happening in three hundred yards of stall with a lamp on it and no way to ask it a question.
+An eastbound empty came out of Alder Reach at about twenty past eleven and it was eight vehicles and nobody in the cab who could be reached, because the cab was locked and the man inside was a Road House man named Osgood Trill who had a signal and a lamp and no way of answering anybody, and he came out of the third place at about ten to twelve, and by the time the three men on the bank had heard it the whole thing was happening in three hundred yards of stall with a lamp on it and no way to ask it a question.
 
 They got off the four-foot. Tarin Kest got a hand on the back of the tenth hand and put him behind the cess ditch and Adrian went down flat on the ballast because there is nowhere else to go, and the eight vehicles went through the stall, and the stall is three hundred and ten yards, and a loaded-free train at a walk does about eleven yards a second, so it was in there about twenty-eight seconds, and for twenty-eight seconds a lamp came along a line about two feet outside a man's boot.
 
@@ -100,7 +100,7 @@ Then the tenth hand went and got his chalk out and walked back down the ballast 
 
 "Somebody will say it is the measuring." He wrote both figures on the back of his hand under the other two. "**A stall gets longer when a train goes through it. I have known that since the third year and I have never once put it in a column, because there is no column for it, and because I did not want to be the man who says a railway gets worse every time anybody uses it.**
 
-"And that is the whole of the line, Mr. Kest. **The line is not eleven places long. The line is an order and it is getting worse as it is used, and every single instrument in this district is a count of what there is, and none of them is a count of what is left.**"
+"And that is the whole of the line, Mr. Kest. **The line is not a list of places. The line is an order and it is getting worse as it is used, and every single instrument in this district is a count of what there is, and none of them is a count of what is left.**"
 
 Osgood Trill brought the empty back east at about half past two and came past the fourth place with his lamp and he was a man of about thirty and he was white, and Tarin Kest stood in the cess and said one question at him across thirty feet of ballast and got an answer that is in the book in the man's own words and which is four lines long and which is the reason the eleventh reversal is going to be hard to sell:
 
@@ -110,7 +110,7 @@ Osgood Trill brought the empty back east at about half past two and came past th
 
 ---
 
-**And on the way back east, at about a quarter past three, Tarin Kest was asked a question by a boy of nineteen that has been sitting in the Road House for nine years and that nobody has ever asked out loud.**
+**And on the way back east, at about a quarter past three, Tarin Kest was asked a question by a boy of seventeen that has been sitting in the Road House for nine years and that nobody has ever asked out loud.**
 
 "Who staffs the span?" Orren Pike asked him. "If it is reopened. Because the order says one office and the office has a clerk and the clerk is not a signal hand and he cannot throw a lever, and **if the road is going to be run from Alder Reach by people who cannot hold a pair then the road is a schedule and a schedule is a queue.**
 
@@ -146,7 +146,7 @@ And the woman said, to Tarin Kest, standing at a column with two pails on the gr
 
 "I've thirty-one people at this place and I've had them eleven years and there's four houses and a chapel and no shop and no platform and no road you can take a barrow up except the one they use.
 
-"**And that train has been on my hard ground for twenty days.** And it is nine vehicles long and it is the only nine vehicles of hard ground for two mile, and I have watched my father-in-law look at it every evening since the eleventh and not say anything, because he is a man of seventy and he has seen a bank go before and it went in a night.
+"**And that train has been on my hard ground for twenty-six days.** And it is nine vehicles long and it is the only nine vehicles of hard ground for two mile, and I have watched my father-in-law look at it every evening since the eleventh and not say anything, because he is a man of seventy and he has seen a bank go before and it went in a night.
 
 "So if you have come about the train then I have a question and it is the only one I have got, and I have had it since the twelfth, and nobody has come up the bank to ask me it."
 
@@ -158,7 +158,7 @@ Tarin Kest, who is forty-three and has driven a bridge lot's worth of road acros
 
 "I do not know," he said. "**And I want to say what I do know, and I want you to have both.**
 
-"I know that it cannot go east without being turned, and I know that turning it costs a thing that nobody in Alder Reach can tell you what it is, and I know that the cost has been taken off this line nineteen times since the water came. **And I know that in every one of those nineteen times this place was not asked, and I know that I signed the paper that put it on your hard ground, and I have not said that to anybody before this morning and I have been carrying it for nine years and it weighs about what you would think it weighs.**"
+"I know that it cannot go east without being turned, and I know that turning it costs a thing that nobody in Alder Reach can tell you what it is, and I know that the cost has been taken off this line nineteen times since the water came. **And I know that in every one of those nineteen times this place was not asked, and I know that I signed the paper that put it on your hard ground, and I have not said that to anybody before this morning and I have been carrying it for eight years and it weighs about what you would think it weighs.**"
 
 The woman looked at him for a moment. Then she said: "You'll want to know if we mind."
 
@@ -176,4 +176,4 @@ Tarin said one thing, at about the fourth place, on the way back, and he said it
 
 "**And I have been thinking about it for a month and it is half of the truth and I have been the half.** A road is a thing people bring children to see. **A railway is a thing that takes them away, and it takes them at a time somebody else has written down, and it does not need anybody to be in a bad yard at six in the morning to do it. And I have spent nine years being the first and I have never once asked anybody in this district to be the second**, and the second is the only half of this that anybody ends up on."
 
-And the fourth place went past on the left with its lamp not lit, and the stall went past on the right, three hundred and ten yards of it, and Tarin Kest looked at it for about as long as a man looks at a thing he is going to have to write a name against in a book in about three weeks.
+And the fourth place went past on the left with its lamp not lit, and the stall went past on the right, three hundred and forty-four yards of it, or three hundred and ten, or both, and Tarin Kest looked at it for about as long as a man looks at a thing he is going to have to write a name against in a book in about three weeks.
