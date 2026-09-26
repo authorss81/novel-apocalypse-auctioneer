@@ -98,7 +98,7 @@ Tarin Kest did not say anything to that, which was how Adrian knew it had landed
 
 Adrian read his own draft on the twenty-ninth, in daylight, in the yard, with about two hundred people at the rail, and the reading cost him an hour, and Nessa Pell entered it: a reading, the fifth entered in this month, and the last she expected to enter this month.
 
-He did not touch the brass. The token was in its case in the office behind him under a seven-day custody term that had lapsed on the twenty-eighth and had stood unrenewed for a month because nobody had thought to renew it, and which Nessa Pell renewed that morning in eleven seconds, on her own request, on the record, with the reason that a term that expires in a crisis is a term that can be ended by anybody who is uncomfortable.
+He did not touch the brass. The token was in its case in the office behind him under a seven-day custody term that had lapsed on the twenty-eighth and had stood unrenewed for a day and a bit because nobody had thought to renew it, and which Nessa Pell renewed that morning in eleven seconds, on her own request, on the record, with the reason that a term that expires in a crisis is a term that can be ended by anybody who is uncomfortable.
 
 He put two fingers on his own draft on the crate, and the writing came, and it was short.
 

@@ -117,6 +117,42 @@ The standing record of a person's refusal of a name: a cross struck into iron, a
 
 A question asked aloud, in public, of an anchor lot, once, by a person who holds no claim on it, with its limits written into the public record **before** the question is asked, and with the object **not asked to agree to anything**. It is a reading, it costs what a reading costs, and it is entered in the ledger with its duration and its limit. A reply given without a question is not a promise.
 
+### The Harrow Tongue
+
+Cast-iron interlocking tongue from the flooded Harrow interchange, fourth year, in daily use in a signal hut. **Use:** send one vehicle back along the section it came from, one movement, one way, and the use is not given back. **Toll:** the origin. **Standing:** a person who can hold a signal. **The object does not hold places and will not name one; asked for more it repeats itself.** Do not make it a route key, a permanent claim, or a substitute for consent.
+
+### The origin
+
+The toll of the Harrow Tongue, and the word the object will not define. Four readings are on the public page and none is adopted: the place the vehicle is standing; the first place it was entered into the line's book; the settlement whose hut knows about it; and the plain reading that a thing which cannot be traced back has not got one. **A destination can be a victim too** is the sentence Volume 02 turns on, and it means a toll's destination can be a place the vehicle never reaches.
+
+### Stall
+
+A length of line where the ground has stopped agreeing with itself. A train can stand in one and a driver in one can name the lamp and not the length of line. **A stall gets longer when a train goes through it.** A stall is not one of the three unexplained things and is a documented Fracture symptom; the name is a signal hand's, not the district's invention.
+
+### A reading with no lot
+
+A record of a reading taken of an object the board has no authority over, entered with the sheet, the sleeve number, the reader, the hour, the duration, and the two people who compared the hand. It is not evidence, not a relic, not a charter, and confers nothing. It is the terms-closing with the lot taken out.
+
+### A lot in daily use: the remote custody
+
+A custody of an object that is in a person's daily use, with no case, no counter and no key. The keeper is named, is not an officer, is asked whether she wishes to keep it, and is asked again on a stated day. The condition is published in full and may be measured by anybody who walks out. **It is entered as deliberately a worse record than a case, and it is worse on purpose.**
+
+### A name in a book is a handle
+
+A name in a public book is not a person and not a promise. It is a handle somebody can be found by, and it is the first instrument in the district's history that exists so that a person can be found on a stated day. **Being named is not a promise to turn up**, and a name is entered only after the person is asked, with the asking and its time entered.
+
+### A step in a plan that asks a question is not a step until it has an hour and a person
+
+The only institutional rule in the district that has ever worked, and the reason the word for scarcity and the word for consent both failed until somebody was given a clock.
+
+### A rule that transfers is a habit with a new address
+
+Selik Marne's *nobody past the second rail, ever* carried from a bridge to a railway. The second rail on a straight is four feet from a man; on a curve it is a foot and a half with the ballast at his chest. The rule is the same and the distance is not, and the finding of using it on new ground is written down rather than discovered in a casualty.
+
+### The scarcity word is a direction and not a queue
+
+Five words proposed and none adopted (*first come*, *by need*, *by standing*, *next out*, *traffic*). There is one word and two shapes of scarcity, and the shape of the word is the problem. A scarcer direction with nobody standing at its end cannot be named by a district that only has words for doors.
+
 ### Lot with a condition
 
 A damaged object in a public case, entered as a lot whose **condition is the whole of the entry** and is written in the book's own words so that anybody may measure it, compare it, and argue with it. Not a relic, not a souvenir, and not evidence — evidence requires a stated claim, and Lot 17's claims are unstated and uncomputed. A relic is a thing you look at; a lot is a thing you check.
@@ -190,6 +226,10 @@ An unsettled place in the Tally where a new charter can be written. Iven gave Ad
 - **Alder Reach:** the river city where the story begins.
 - **Lot 17:** Adrian's converted tram depot and first auction room.
 - **Ward Nine:** a dense residential district in Alder Reach, on the older central bank across the water from Lot 17. The name also belongs to the **Ward Nine old platform** on the near eastern bank, on the Lot 17 apron.
+- **The Needle Tramway:** elevated rail and signal network. Near section: twelve places between Alder Reach and the flooded end at Harrow, the first four up on viaduct and then embankment, the rest at ground level. **Sarrow Water is the ninth place**: a siding, a metered water column, a signal hut, a chapel, four houses, thirty-one people, no platform, no rate sheet, and no passenger stop in nine years. The line book is at the east end and counts movements, not passengers. The west end went under nine feet in the flood year and is dead.
+- **Sarrow Water:** a village nine miles west on the Needle, on a bank eleven feet above the river, and the ninth place on the line. **It is a place and not a household, and the district's count form has been counting it as four houses and a chapel for nine years.** Its siding is held on a nine-year lease signed by Tarin Kest in the fourth year, expiring in the fourth month of next year, unrenewed and untold. Its water column is metred to the Needle Road House.
+- **The service-cut yards:** four streets west of the depot, two blocks in no ward, the foot of the river stairs, the ground nearest the fault boundary, and the reason a three-column entry's middle column says *no sheet*.
+- **The river stairs:** two hundred and sixty-one steps, about three hours each way in daylight, one person at a time, a turn at a hundred and forty steps, fog at about eight feet, and therefore a count taken on a voice.
 - **Loading spur / marked spur:** the near-side track behind the old school shelter running up to the Ward Nine old platform and its one-armed bell post. A charter that names this place calls it the *marked spur*. Same place; keep the two apart from the two below.
 - **Maintenance spur / maintenance bay:** two different things that share a name, and the confusion is deliberate. The **pre-Fracture maintenance bay** was a transfer point for emergency crews on Line Six, beyond the river wall on the way up through Ward Nine, never on a public map. The **maintenance spur** is where a bent route actually delivered the bus in Chapter 6: on the near side, a few streets west of the depot, where the Wardens could wade to it. It is the near-side wrong version of the same place. Not a public place and not a return point.
 - **Old salt-loading ramp:** the counterfeit's false return point, on the far side, flooded before the Fracture. Anyone who follows it arrives at a flooded maintenance trench. It is not the Ward Nine old platform and must never be written as one.

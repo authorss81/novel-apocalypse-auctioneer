@@ -288,6 +288,79 @@ The last institutional failure of Volume 01 and the seed of Volume 02. A short p
 
 Declared and bounded, and used twice in Volume 01's last chapters. The object cannot be read at range and cannot be read by contact while it is inside a vehicle inside a Fault. But **a closing that is in progress writes on the open page of the public book**, which is a physical ledger, and a reader who has handled that page and knows its history reads it as he reads any other record. It returned four lines and cost an hour and it is entered in the ledger in the ordinary way with its duration and its limit, and **it did not tell anybody anything they could act on except that the term was in danger, which is what it is for.**
 
+### A lot in daily use: the remote custody
+
+Volume 02's first new instrument, and it is **deliberately a worse record than a case.** A public lot may place a dangerous object in documented public custody with a term, a holder named before the key is held, and inspection on stated days by anybody. That works because a case is a gap: the object is in a building and not in anybody's hands. **A lot in daily use by a person who lives with it is a custody that cannot be inspected, cannot be described at a counter, and cannot expire — and a custody that cannot expire is a hiding place with a form on it.** The remote custody, as entered for the Harrow Tongue:
+
+- **The keeper is named, is not an officer of any board, is not a seat, and answers to nobody.** She has been asked whether she wishes to hold it and the answer is recorded with the hour, and she is asked again on a stated day and the answer is recorded whatever it is, **including no.**
+- **The condition is the whole of the entry and is published in full**, and any part of it may be measured by anybody who walks out and looks.
+- **There is no case, no counter, and no key.** The description is given by the keeper, by hand, in the hut, to anybody who comes, and it cannot be given by a reader at a counter four days a week because the thing is nine miles away. **That is entered as a standing failure and not as good practice.**
+- **The term is the keeper's and not the board's, and the board has no power to end it and says so.**
+- The whole entry says, in its own words, that it is a worse record than a case, that a case can be checked by a stranger, that this cannot be checked without walking nine miles, **and that the nine miles is the point.**
+
+### A reading with no lot
+
+Where a board's five powers are all about a thing in its own building, and the thing is not in the building and is not a lot in that building's book, the board can still record the reading and nothing else. It is entered with the sheet it was taken on, the sleeve number matching the sheet number, the person who took it, the hour, the duration, and the two people who compared the hand against his hand before it went in. Its first line, which may not be read two ways, is that **it is not evidence, because evidence is a thing connected to a claim; it is not a relic, because nobody is going to look at it; and it is not a charter, because there is nothing to seat.** It is the terms-closing with the lot taken out of it, and it is the first instrument in the district's history that is about a thing and not about anybody.
+
+### A name in a book is a handle, and a handle is not a promise
+
+The standing instruction that a term's holder be named in the book before the key is held was kept for the first time in Volume 02, and keeping it produced three findings:
+
+- **The board asks before it names, and the asking is entered with its time.** A name written in a room is not a name anybody has agreed to.
+- **A name in a book is a handle.** A name in a book is not a promise and it is not a person; it is a handle somebody can be found by, and a term is a period of time, and the two together mean that on a stated day there is a place a person is expected to be, and if they are not there it can be said out loud whether they were late or whether they stopped coming. **Every other thing in the public lot book is there so that a person can be found. This is the first thing in it that is there so that a person can be found on a day.**
+- **A name in a book is not a promise to turn up**, and the person who chose to be named said so in her own words before she was entered, and said that being late is to be entered as late and not as failure. The ward market's second clerk is the first person in the district's history to be entered in a public book by choosing to be, and she gave three conditions and one disclaimer, and the disclaimer was that **her name is not the road, the bus, the last fare, or any of it.**
+
+### A step in a plan that asks a question is not a step until it has an hour
+
+The batch's second institutional finding, and it is the only thing in five weeks of argument about counting that has ever worked:
+
+> **A STEP IN A PLAN THAT ASKS SOMEBODY A QUESTION IS NOT A STEP UNTIL IT HAS AN HOUR AND A PERSON, AND A STEP WITH AN HOUR AND A PERSON IN IT IS THE ONLY THING IN THIS DISTRICT THAT HAS EVER WORKED.**
+
+A plan is a thing that can be given a date, and asking is not a date, and nobody had the hour, so nobody asked, and a person with a place on a roll and no household behind her stood on a far ramp for a night while a count of seventeen went up a stair and was published in the morning. The fix was a quarter of an hour before the first lamp, every day of a passage, somebody walks the ramp and asks. The same sentence explains the line at a medicine case, where a man with a clock ordered it and the yard failed on the word for a month.
+
+### A rule that transfers is a habit with a new address
+
+Selik Marne's fourth term of the nineteenth — *nobody past the second rail, ever* — was argued with in a yard and held, and was entered in the minutes as the day a rule that cannot be performed is a rule. It was then carried onto a railway and **it did not survive the first curve.** The second rail on a straight is four feet from a man; the second rail on a curve is a foot and a half and the ballast is up to his chest. The rule is the same and the distance is not, and the tenth hand — the man who argued it once, and who is therefore the man permitted to argue it again — wrote:
+
+> **THE SECOND RAIL ON A STRAIGHT IS FOUR FEET FROM A MAN. THE SECOND RAIL ON A CURVE IS A FOOT AND A HALF AND THE BALLAST IS UP TO HIS CHEST. THE RULE IS THE SAME AND THE DISTANCE IS NOT, AND A RULE THAT TRANSFERS IS NOT A RULE, IT IS A HABIT WITH A NEW ADDRESS.**
+
+**A rule is a rule because it was argued with in public by somebody who is not the man who wrote it. Once it has been argued with and held, its author may not argue with it again and must use it, and the finding of using it on new ground is written down rather than discovered in a casualty.**
+
+### The scarcity word, and why it is a direction and not a queue
+
+The yard failed at the word in the third week of Volume 01 on a medicine case: *urgent* eleven, *scheduled* seven, *priority* four, all entered, none adopted. It failed again on a railway in worse shape, and the reason it fails is now entered:
+
+> **It is not that we have not got a word. It is that we have got one word and there are two different things being scarce, and they are shaped nothing like each other, and the shape of the word is the problem.**
+
+On a medicine run the scarce thing is a place on a vehicle and it arrives at a door, and a man with a clock can order it. On a railway the scarce thing is a **direction**, and a direction is not a thing anybody can queue for, and the scarcer direction on the Needle is the one going west, and there is nobody standing at the west end of it because the west end is under nine feet of water. **The hardest scarcity in this district is a direction nobody wants, and the district spent a month failing to name a queue for a hole.** Five words were proposed in the counting room and none was adopted: *first come*, *by need*, *by standing*, *next out*, *traffic*. What worked instead was a working page with no heading, written in the third person about its author, whose first line is **A TRAIN THAT CANNOT BE MOVED IS NOT WAITING. A TRAIN THAT CANNOT BE MOVED IS THE END OF THE LINE.**
+
+### What this district has no instrument for
+
+Entered by the registrar on the twenty-first of the month as page eleven of a published result, and each line has a date and four of them have a name. **It is the volume's debt list and it must not be treated as settled in a later batch:**
+
+1. **A column for a place.** A charter has a lot, a use, a bearer, a toll, a term and a remedy, and all six point at a person or an object. One hundred and forty-one movements found that out.
+2. **A rate sheet for ground nobody has claimed.** — *I. Stenn, the fourteenth, a fortnight.*
+3. **A way of saying what is not going to happen.** The counter can read a claim aloud and cannot read an absence. — *Rutt, asked and said yes, and was told she had been put in a book.*
+4. **A cost for a refusal.** Every instrument lets a person say no and assumes the cost lands on the person who asked, and nobody has ever costed where the thing goes next. The first attempt found that saying no would have put nine vehicles on a village's wall.
+5. **A way of saying that a toll lands on a place**, which is the fifth, and which nobody has a name for, and which is the one that matters.
+
+### The standing order of the ninth, and the room with a door on it
+
+Selik Marne's department holds a draft **standing order for a permanently staffed crossing at St. Orra with no expiry.** It was in a room on the second floor of the water office with a door on it for nine years of his tenure, and had never been read by anybody. Four drafts, seven years, three rooms, four authors, **and not one of them knew the others existed.** Its findings, entered in full on the fifth:
+
+- The second draft says the office **is not to lapse, is to be renewed by no body, and is to be continued until the crossing it administers ceases to be a crossing.**
+- The fourth draft has replaced that with **for the duration of the need**, and the duration of the need is not defined anywhere in nineteen pages.
+- The closing clause reads: **the office may close the crossing, suspend it, or refuse any party to it, without giving a ground, and a closure without a ground is a safety measure, and a safety measure is not subject to appeal.** **This is Selik Marne's own March sentence, written out as a permanent power, by four men, without him.**
+- The last page reads: **this order is not subject to revocation by any body existing at the date of it, and the body which may revoke it is created by this order, and it consists of the administrator and two persons named by him who hold no office, and it may be dissolved only by the body which may revoke it.** A document that cannot be ended by anybody, and that creates its own ending.
+- The only page worth keeping is the **schedule of eight places with a duty against each**, written in the fifth year, and it is the only document in nine years that is about a river, and neither instrument the district built can hold a river.
+
+Selik withdrew it, published it in four versions with his name against it as the administrator who let it sit in a room, sent a bundle to the ward market's counter, the notice board and the review table, took the plate off the door, and had the paragraph on the front page written on a staircase landing in about fifty seconds by a **fitter** holding a toolbox, at his own demand, in four minutes' notice. **The ward market has been asked to answer it. It is not answered.**
+
+### A published count that is right when it is published
+
+The count at the top of the river stairs on the fourth of the month was **seventeen up, correct, and published whether it closed or not** — and was wrong within four hours of publication, because **a place travelled and a person did not.** The rule for this is now written twice over: a wrong count is not struck, and **a count published with a decline in it is a different instrument from a count read aloud.** Neither is new. What is new is the sentence that a silent person is *not asked* and that **not asked is neither a yes nor a no**, and that a plan's asking step had no hour in it.
+
+
 
 
 A public lot that knows a counterfeit form exists cannot stop it with a warning, because a warning must arrive before a person decides and a person holding a barrow at four in the morning decided an hour ago. What works is a **table**: a fixed place, at the hour the claims are sold, where anybody may bring a claim and have the rest of it read aloud by somebody who is selling nothing. Two conditions, both learned the hard way:
@@ -341,6 +414,15 @@ Dry agricultural country west of the basin. Cooperative farms grow salt-tolerant
 ### The Needle Tramway
 
 An elevated rail network linking Alder Reach to the coast. The line is physically intact in places, but the signals carry different rules in different valleys. Broken signals create Faults that move with the trains. Caravans and signal keepers have more influence than local governments.
+
+**Volume 02 canon for the near section.** Twelve places between Alder Reach and Harrow: the first four up on a brick and iron viaduct about half a mile long and then embankment for a mile more, the other eight at ground level, and the ninth is **Sarrow Water**. Harrow is the flooded end of the line; its low interchange was under about two feet in the fourth year and went under nine feet in the flood year, and the west end has been dead since, so everything that goes west stops at Harrow and does not go into it. A signal on a bridge is a different animal from a signal on a bank. The line book is kept by hand at the east end and records every movement with a place, a time, a direction and a lever — and it counts movements, not passengers, and it has no column for a person.
+
+- **A stall** is a signal hand's word for a length of line where the ground has stopped agreeing with itself. A train can stand in one; what will not do is the question of where it is, and a driver in a stall knows the lamp and cannot say the length of line he has just come through. **A stall gets longer when a train goes through it.** The stall between the fourth and fifth places was entered in the line book in the third year and has never been entered as cleared and never as safe, and those are two different entries.
+- **The Harrow Tongue** is a cast-iron interlocking tongue, about the length of a forearm, taken out of the flooded Harrow interchange in the fourth year, and it sits in the hut at Sarrow Water. **Use:** send one vehicle back along the section it came from, one movement, one way; the use is not given back. **Toll:** the origin. **Standing:** a person who can hold a signal. It is the only thing at that hut that throws the points, so the siding is not a place a train is kept but a place the line stops.
+- **The origin** is the term the object uses and refuses to define. Four candidate readings circulate and all four are entered: the place the vehicle is standing; the first place the vehicle was entered into the line's book; the settlement whose hut knows about the vehicle; and the plain reading, from a carter of fifty, that a thing which cannot be traced back has not got an origin. **The object does not hold places and will not name one, and asked for more it repeats itself.** The origin column in both the line book and the keeper's handbook contains four entries that are not places, and they spell out **THE STANDING OFFICE OF CROSS-DISTRICT PASSAGE, ESTABLISHED, AND NOT AT THIS PLACE** — a pre-Fracture public office and not a guild, which the district cannot find in any register it can reach. **It appears in two documents in two rooms and is entered in two lines and not joined.**
+- **Sarrow Water** is a siding, a water column metred to the Needle Road House, a signal hut, a chapel with a bell that is not rung, four houses, and **thirty-one people.** It is not in any ward, has no rate sheet, and has had no passenger stop in nine years. It is held on a nine-year lease signed by Tarin Kest in the fourth year that **expires in the fourth month of next year and has not been renewed and has not been told to the other side.** The whole chain — the lease, the metered column, the stabling, the toll — is four links and every one of them is a lease, a rate, or a habit, and not one of them is a decision anybody made about a village.
+- **The River Stairs** run two hundred and sixty-one steps between the far bank and the top of the cut, and the top of the cut is the bottom of the two blocks west of the depot. Fog means a person appears at about eight feet, so **a count can be taken on a voice and not on a figure**; a keeper's lamp at the top sees nine feet and cannot see the turn at a hundred and forty steps, and two lamps is a service with a wage in it, and the second lamp's eleven coppers a week is entered as unpaid and not as nil.
+- **The service-cut yards** are four streets west of the depot, in two blocks the ward market has never had a rate sheet for, because those two blocks are in no ward's book and a market cannot levy a household it has not met. They are the foot of the stairs, the ground nearest the fault boundary, and the reason the batch's second column in every three-column entry reads *no sheet*.
 
 ### The Quiet Orchard
 
