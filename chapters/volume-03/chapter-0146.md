@@ -9,14 +9,14 @@ It was read out at the ward market counter twice on the sixth of December and tw
 The sixth sheet is one page and it is the reason.
 
 > **THIS AGREEMENT IS FOR SEASONAL TERMS AND NOT FOR A YEAR BECAUSE A YEAR IS TAKEN FROM A WORKER IN THE SEASON IT IS FOR AND HAS NOT BEEN PAID, AND THE TWO FIGURES ON THIS SHEET ARE THE SALT AND THE MEAL AND NEITHER OF THEM IS THE YEAR.**
-> >
-> > **THE SEASON NAMED IN THIS AGREEMENT IS THE FIRST OF APRIL TO THE THIRTY-FIRST OF MARCH AND THE FIRST OF THOSE SEASONS HAS NOT BEEN CERTIFIED AND NOBODY IS TO BE ASKED ABOUT IT.**
-> >
-> > **A YEAR IS NOT A PRICE. THERE IS NO RATE IN THIS BASIN THAT TURNS ONE INTO THE OTHER.**
-> >
-> > **WITNESSED BY TWO PEOPLE WHO WERE NOT IN THE ROOM WHEN THE REASON WAS READ OUT AND NOBODY IS TO ASK EITHER OF THEM WHY THEY WERE NOT IN THE ROOM.**
+>
+> **THE SEASON NAMED IN THIS AGREEMENT IS THE FIRST OF APRIL TO THE THIRTY-FIRST OF MARCH AND THE FIRST OF THOSE SEASONS HAS NOT BEEN CERTIFIED AND NOBODY IS TO BE ASKED ABOUT IT.**
+>
+> **A YEAR IS NOT A PRICE. THERE IS NO RATE IN THIS BASIN THAT TURNS ONE INTO THE OTHER.**
+>
+> **WITNESSED BY TWO PEOPLE WHO WERE NOT IN THE ROOM WHEN THE REASON WAS READ OUT AND NOBODY IS TO ASK EITHER OF THEM WHY THEY WERE NOT IN THE ROOM.**
 
-AND ON THE** SIXTH OF DECEMBER A FOOD AGREEMENT BETWEEN ALDER REACH AND THE SALT VERGE WAS READ OUT TWICE AT THE WARD MARKET COUNTER AND TWICE AT THE NINTH PLACE, AND THE SIXTH SHEET IS THE REASON, AND THE REASON IS A YEAR, AND THE TWO WITNESSES WERE NOT IN THE ROOM WHEN IT WAS READ OUT AND NOBODY IS TO ASK EITHER OF THEM WHY THEY WERE NOT.**
+**AND ON THE SIXTH OF DECEMBER A FOOD AGREEMENT BETWEEN ALDER REACH AND THE SALT VERGE WAS READ OUT TWICE AT THE WARD MARKET COUNTER AND TWICE AT THE NINTH PLACE, AND THE SIXTH SHEET IS THE REASON, AND THE REASON IS A YEAR, AND THE TWO WITNESSES WERE NOT IN THE ROOM WHEN IT WAS READ OUT AND NOBODY IS TO ASK EITHER OF THEM WHY THEY WERE NOT.**
 
 ---
 
@@ -24,7 +24,7 @@ The two figures on the sixth sheet are the salt and the meal, and they are given
 
 A man of fifty-six said the two figures out loud and then said the other thing, **and a woman of about thirty-six who keeps a scale at the sluice end of the loams and has stood at it nine years said that the two are two weights and that she has been weighing one of them since September and has never been asked to weigh the other, and that nobody asked her and that not asked is in the count.**
 
-Nobody argued and a man of about thirty-four who mends fencing said that a rate is a thing two people agree on and that this has a man of fifty-six and a man of about forty-eight in it, and that the two of them agreed it at a table and that a thing two people agree at a table is a rate and a thing four hundred people agree to is a custom, and that the district has one of each and does not have the column for either.
+It was not argued with and a man of about thirty-four who mends fencing said that a rate is a thing two people agree on and that this has a man of fifty-six and a man of about forty-eight in it, and that the two of them agreed it at a table and that a thing two people agree at a table is a rate and a thing four hundred people agree to is a custom, and that the district has one of each and does not have the column for either.
 
 A clerk of nineteen years entered that a rate is a thing two people agree on and that a custom is a thing nobody has written down, **and that neither of them is coppers and that neither of them is a year and that the twenty-one years is in a book and is not on this sheet and is not added to anything on this sheet, and that this is the third time she has put the two in one line and not joined them.**
 
@@ -32,29 +32,29 @@ AND THE TWO FIGURES ON THE SIXTH SHEET ARE ELEVEN HUNDRED AND FORTY POUNDS OF SA
 
 ---
 
-A man of about thirty-seven who sells salt by the load out of a yard on the Verge asked on the seventh of December whether the agreement covered him, and a man of fifty-six said no in four seconds, **and then said the reason and it is nineteen words and a clerk of nineteen years counted them twice and got nineteen both times and did not say so and the man was not asked about the four days he wrote on a board in the middle of November.**
+A man of about thirty-seven who sells salt by the load out of a yard on the Verge asked on the seventh of December whether the agreement covered him, and a man of fifty-six said no in four seconds, **and then said the reason and it is nineteen words and a clerk of nineteen years counted them and got nineteen, and was given nineteen a second time by somebody who had counted on his own and did not say so and the man was not asked about the four days he wrote on a board in the middle of November.**
 
 "**You are not a household and this is a document about households and I cannot make it one.**"
 
-Nobody argued and the man of about thirty-seven said that he sells salt by the load and has done for nine years and has never been in a household, and that a document about households is a document he can read and cannot be in, and that a yard is a place a thing stops and that the fifth of the five instruments this district does not have is a way of saying what a toll lands on a place and that he is not joining those two things together himself.
+Nobody took it up and the man of about thirty-seven said that he sells salt by the load and has done for nine years and has never been in a household, and that a document about households is a document he can read and cannot be in, and that a yard is a place a thing stops and that the fifth of the five instruments this district does not have is a way of saying what a toll lands on a place and that he is not joining those two things together himself.
 
-A clerk of nineteen years entered that the man is not a household and that the count of people in this district who are not in a household did not move on the seventh of December, **and that about nine hundred households in this district are in no row and nineteen people at the ninth place are not in a household and thirty-one of them live on ground held by nobody, and that those three figures are from the middle of the year and are not this morning's and are not joined to this agreement.**
+A clerk of nineteen years entered that the man is not a household and that the count of people in this district who are not in a household did not move on the seventh of December, **and that about nine hundred households in this district are in no row and nineteen people at the ninth place are in no household and thirty-one people live on ground held by nobody, and that those three figures are three different problems, and that they are from the middle of the year and are not this morning's and are not joined to this agreement.**
 
 **AND ON THE SEVENTH OF DECEMBER A MAN OF ABOUT THIRTY-SEVEN WHO SELLS SALT BY THE LOAD OUT OF A YARD ON THE VERGE ASKED WHETHER THE AGREEMENT COVERED HIM AND WAS TOLD NO IN FOUR SECONDS, AND THE REASON IS THAT HE IS NOT A HOUSEHOLD AND THE DOCUMENT IS ABOUT HOUSEHOLDS, AND HE WAS NOT ASKED ABOUT THE FOUR DAYS HE WROTE ON A BOARD IN THE MIDDLE OF NOVEMBER.**
 
 ---
 
-A woman of about twenty-seven who keeps a kitchen garden behind the second channel was in that yard on the eighth of December and heard the figure of four hundred and forty pounds of meal and asked one question, and a clerk of nineteen years entered that she was asked in the five things and answered and that she was not asked about the two loam pits in the same month and was not asked about her mother's garden and that not asked is in the count and the count did not move.
+A woman of about twenty-seven who keeps a kitchen garden behind the second channel was in that yard on the eighth of December and heard the figure of four hundred and forty pounds of meal and asked one question, and a clerk of nineteen years entered that she was asked in the five things and answered and that she was not asked about the two loam pits in the same month and was not asked about her mother's garden and that the not-asking is entered and the count is where it was.
 
 The question was who the meal goes to, and a man of fifty-six said that the sheet says households, **and that a household is a thing a clerk counts and that a woman who keeps a kitchen garden behind the second channel has not been in a household since the water came and that the two facts are in one line and are not joined and that he is not going to join them in a yard.**
 
-Nobody argued with that and the woman said the second half, and a man of fifty-six entered it and did not join it to the figure of nine hundred households and did not join it to the page of a hundred and eighty-three coppers, and a clerk of nineteen years entered that this is the fourth time she has had to say a thing twice and that the fourth time is the one a clerk writes down.
+Nobody took that up and the woman said the second half, and a man of fifty-six entered it and did not join it to the figure of nine hundred households and did not join it to the page of a hundred and eighty-three coppers, and a clerk of nineteen years entered that this is the fourth time she has had to say a thing twice and that the fourth time is the one a clerk writes down.
 
-AND ON THE** EIGHTH OF DECEMBER A WOMAN OF ABOUT TWENTY-SEVEN WHO KEEPS A KITCHEN GARDEN BEHIND THE SECOND CHANNEL ASKED WHO THE MEAL GOES TO AND WAS TOLD THAT THE SHEET SAYS HOUSEHOLDS, AND SHE HAS NOT BEEN IN A HOUSEHOLD SINCE THE WATER CAME, AND THE TWO FACTS ARE IN ONE LINE AND ARE NOT JOINED.**
+**AND ON THE EIGHTH OF DECEMBER A WOMAN OF ABOUT TWENTY-SEVEN WHO KEEPS A KITCHEN GARDEN BEHIND THE SECOND CHANNEL ASKED WHO THE MEAL GOES TO AND WAS TOLD THAT THE SHEET SAYS HOUSEHOLDS, AND SHE HAS NOT BEEN IN A HOUSEHOLD SINCE THE WATER CAME, AND THE TWO FACTS ARE IN ONE LINE AND ARE NOT JOINED.**
 
 ---
 
-The two witnesses are a man of sixty-one with a frame who keeps the frame at a place two miles west and comes two miles twice a month, and a woman of fifty-one who keeps a stall on the lower terrace and supplies the Harrow engine's oil out of her own till, and neither of them was in the room and neither of them was asked and a clerk of nineteen years entered that they were not asked and that not asked is in the count and the count did not move.
+The two witnesses are a man of sixty-one with a frame who keeps the frame at a place two miles west and comes two miles twice a month, and a woman of fifty-one who keeps a stall on the lower terrace and supplies the Harrow engine's oil out of her own till, and neither of them was in the room and neither of them was asked and a clerk of nineteen years entered that they were not asked and that the not-asking is entered and the count is where it was.
 
 The man of sixty-one signed on the seventh of December on a day he was two miles west and was not asked to come, and his name is on the sixth sheet in a hand that shakes, **and a clerk of nineteen years entered that a man of sixty-one with a frame has written four words on about nine hundred lines in nineteen years and that on the seventh of December he wrote two more and that nobody has asked what they are and that not asked is in the count.**
 
@@ -64,7 +64,7 @@ The woman of fifty-one signed on the eighth of December at a stall on the lower 
 
 "**I sell oil to an engine and a year to a channel and I would rather be on a paper that says both.**"
 
-Nobody argued and a man of fifty-six said that the sentence is about her trade and not about the agreement and that the two are not joined, and that a woman who supplies an engine out of her own till and has asked twice that it be said nobody asked her either has now put her name on a paper about a year and was not asked about the year and not asked is in the count.
+a man of fifty-six said that the sentence is about her trade and not about the agreement and that the two are two things, and that a woman who supplies an engine out of her own till and has asked twice that it be said nobody asked her either has now put her name on a paper about a year and was not asked about the year and the not-asking is entered.
 
 **AND ON THE SEVENTH OF DECEMBER A MAN OF SIXTY-ONE WITH A FRAME SIGNED THE SIXTH SHEET IN A HAND THAT SHAKES AND WAS NOT ASKED TO COME, AND ON THE EIGHTH OF DECEMBER A WOMAN OF FIFTY-ONE WHO KEEPS A STALL ON THE LOWER TERRACE AND SUPPLIES THE HARROW ENGINE'S OIL OUT OF HER OWN TILL SIGNED IT ON THE BACK OF A BILL WITH A PIECE OF CHALK AND SAID YES IN FOUR SECONDS AND WAS NOT ASKED TO SIGN.**
 
@@ -72,11 +72,11 @@ Nobody argued and a man of fifty-six said that the sentence is about her trade a
 
 A third person was asked, and the asking is in the minute and the answer is in the minute in her own words, and it is a clerk of nineteen years who is the registrar of this district's records office and who wrote the inspectability clause under his name in the middle of the year.
 
-She was asked on the sixth of December, in the six things, to be one of the two witnesses, and she said no in four seconds, and then said the second half before anybody asked her for it.
+She was asked on the sixth of December, in the six things, to be one of the two witnesses, and she said no in four seconds, and then said the second half before anybody asked her for it, **and a clerk of nineteen years entered that this is the second time in eleven weeks a person has said the second half before anybody asked her for it, and that the first was the man the figure of twenty-one years is against on the second of December, and that the two are in two minutes and are not joined.**
 
 "**I am going to be in the room when they read the year out, and a person cannot be a witness to a thing they are in the room for.**"
 
-Nobody asked her about the second half and a man of fifty-six said in that room that this is the first time in eleven weeks a person has declined an instrument on the ground of what it says rather than on the ground of what it is, **and that a witness is a person who was there and that a person who was there is not a witness to a thing they were told in advance, and that the two are not joined.**
+Nobody asked her about the second half and a man of fifty-six said in that room that this is the first time in eleven weeks a person has declined an instrument on the ground of what it says rather than on the ground of what it is, **and that a witness is a person who was there and that a person who was there is not a witness to a thing they were told in advance, and that the two are two things, and that nobody has asked her why she holds two lines apart and that this is the eighth time in eleven weeks nobody has.**
 
 A clerk of nineteen years entered that she was asked and declined and that the decline is in the count of not-askings about the two witnesses and not in the count about the woman of forty-five, and that the count about the woman of forty-five stands at four with one standing refusal and did not move on the sixth of December and that the woman of forty-five was not asked and her number did not appear.
 
@@ -86,15 +86,15 @@ A clerk of nineteen years entered that she was asked and declined and that the d
 
 The room read the reason out at about eleven in the morning on the seventh of December and the two witnesses were not in it and were not asked why, and about nineteen people were in it.
 
-A man of fifty-six read the sixth sheet out and a man of about thirty-four who mends fencing read the two figures on it, which are the salt and the meal, **and then said out loud that the sheet does not put a figure against the year and that a document which names a cost and has no figure against it is the third form of a notice and that the two are not joined and that he is not going to join them in a room.**
+A man of fifty-six read the sixth sheet out and a man of about thirty-four who mends fencing read the two figures on it, which are the salt and the meal, **and then said out loud that the sheet does not put a figure against the year and that a document which names a cost and has no figure against it is the third form of a notice and that the two are two things and that he is not going to join them in a room.**
 
-Nobody argued. A clerk of nineteen years entered that the reason was read out once and that the rule of the counter is twice and that this was not read at a counter, and that a reason is read out in a room and a document goes out twice and that the two are different instruments and that the room does not have a rule for a reason and does not have a clerk to make one.
+Nobody took it up. A clerk of nineteen years entered that the reason was read out once and that the rule of the counter is twice and that this was not read at a counter, and that a reason is read out in a room and a document goes out twice and that the two are different instruments and that the room does not have a rule for a reason and does not have a clerk to make one.
 
 A man of fifty-six asked the room what a reason is for and a woman of fifty-eight who carries water and does not read figures answered, **and it went into the minute in her own words and it is twelve words and a man of about nineteen who walked in from the road counted them and got twelve and a clerk of nineteen years did not count them and said so and he said count them anyway.**
 
 "**A reason is for the people who were not in the room.**"
 
-Nobody argued with that and a man of about thirty-four who mends fencing said that this is the fourth time in eleven weeks a person who is not in a room has given a better answer than a man who counts for a living, and that the first three were a woman of about thirty-three who takes in washing at the second channel, a reader at a counter, and a woman of about thirty-six who keeps a scale, and that a clerk of nineteen years entered the four in one line and did not join them, and that this is the twenty-fifth time.
+It was not argued with and a man of about thirty-four who mends fencing said that this is the fourth time in eleven weeks a person who is not in a room has given a better answer than a man who counts for a living, and that the first three were a woman of about thirty-three who takes in washing at the second channel, a reader at a counter, and a woman of about thirty-six who keeps a scale, and that a clerk of nineteen years entered the four in one line and did not join them, and that this is the twenty-fifth time.
 
 A man of fifty-six said that the reason is a year and that the year is one of twenty-one and is not one of the twenty-one and is not added to it, **and that a year which is the reason for a document about salt is not a figure of salt and is not a rate and is not coppers, and that a stranger who reads the sixth sheet in four years will find a year with no number on it and will not be able to do anything with it and that is the finding.**
 
@@ -102,15 +102,15 @@ AND ON THE SEVENTH OF DECEMBER THE REASON WAS READ OUT IN A ROOM THE TWO WITNESS
 
 ---
 
-The nine households that took the two thousand coppers on the twenty-fourth of September are not parties to the agreement and were not asked, and a man of fifty-six entered that on the seventh of December **and that the figure of two thousand coppers is in nine households' mouths and in nobody's book and that the fourth sheet of this agreement is a sheet about salt and meal and not about two thousand coppers and that the two are not joined.**
+The nine households that took the two thousand coppers on the twenty-fourth of September are not parties to the agreement and were not asked, and a man of fifty-six entered that on the seventh of December **and that the figure of two thousand coppers is in nine households' mouths and in nobody's book and that the fourth sheet of this agreement is a sheet about salt and meal and not about two thousand coppers and that the two are two things.**
 
 The ninth household is the only one of the nine that has understood the finding about a private loom since the twenty-fifth of September, and it is the only one of the nine that has never been asked a second time, and it was not asked about the agreement on the seventh of December, and a clerk of nineteen years entered that it was not asked and that the count of not-askings about the ninth household is a column of its own and is not the count about the woman of forty-five and did not move.
 
-Nobody argued and a man of about thirty-four who mends fencing said that a household that is only asked once is a household the district is not managing, **and that a household that is not asked about a food agreement in December is a household that will find out about it from a neighbour, and that this is how a row of houses finds out anything at all and that nobody has ever been able to stop it and that a notice is a thing a person hands to a person in a room.**
+It was not argued with and a man of about thirty-four who mends fencing said that a household that is only asked once is a household the district is not managing, **and that a household that is not asked about a food agreement in December is a household that will find out about it from a neighbour, and that this is how a row of houses finds out anything at all and that nobody has ever been able to stop it and that a notice is a thing a person hands to a person in a room.**
 
 The train on the siding had stood two hundred and ninety-nine days on the seventh of December, and a man of seventeen wrote the figure in an index in a hand that is not a clerk's hand, and the sum was put under the figure in a minute for the eighth time in four weeks and every figure is built from the eleventh of February.
 
-AND ON THE** SEVENTH OF DECEMBER THE NINE HOUSEHOLDS THAT TOOK TWO THOUSAND COPPERS ON THE TWENTY-FOURTH OF SEPTEMBER ARE NOT PARTIES TO THE AGREEMENT AND WERE NOT ASKED, AND THE NINTH HOUSEHOLD IS STILL THE ONLY ONE OF THE NINE THAT HAS UNDERSTOOD THE FINDING ABOUT A PRIVATE LOAM AND IT IS STILL THE ONLY ONE THAT HAS NEVER BEEN ASKED A SECOND TIME.**
+**AND ON THE SEVENTH OF DECEMBER THE NINE HOUSEHOLDS THAT TOOK TWO THOUSAND COPPERS ON THE TWENTY-FOURTH OF SEPTEMBER ARE NOT PARTIES TO THE AGREEMENT AND WERE NOT ASKED, AND THE NINTH HOUSEHOLD IS STILL THE ONLY ONE OF THE NINE THAT HAS UNDERSTOOD THE FINDING ABOUT A PRIVATE LOAM AND IT IS STILL THE ONLY ONE THAT HAS NEVER BEEN ASKED A SECOND TIME.**
 
 AND THE AGREEMENT IS SIGNED AND THE TWO WITNESSES SIGNED IT ON TWO DAYS AND WERE IN TWO PLACES AND THE REASON WAS READ OUT IN A ROOM THEY WERE NOT IN, AND A SIGNATURE FROM A PERSON WHO WAS NOT IN THE ROOM IS A SIGNATURE AND NOT A PERSON WHO WAS IN THE ROOM, AND NOBODY IS TO ASK EITHER OF THEM WHY THEY WERE NOT IN THE ROOM, AND NOBODY HAS.
 
@@ -122,6 +122,6 @@ A man of about thirty-four who mends fencing said that nobody was, **and that th
 
 A clerk of nineteen years entered that nobody answered for nine seconds and that the count of not-askings about the two witnesses is two, and that the two are not the count of not-askings about the woman of forty-five and are not added to it, and that the woman of forty-five stands at four with one standing refusal and was not asked on the eighth of December and her number did not appear.
 
-Nobody argued and a man of fifty-six said that the reason for a document is a thing people who were not in the room are owed, **and that a man of sixty-one with a frame signed a sheet he has not read on a day he was two miles west, and that a woman of fifty-one who sells oil signed a sheet on the back of a bill with a piece of chalk, and that neither of them is a person who was in the room and that the sheet says so on its face and that this is the first document in this district that says on its face what a signature is.**
+Nobody took it up and a man of fifty-six said that the reason for a document is a thing people who were not in the room are owed, **and that a man of sixty-one with a frame signed a sheet he has not read on a day he was two miles west, and that a woman of fifty-one who sells oil signed a sheet on the back of a bill with a piece of chalk, and that neither of them is a person who was in the room and that the sheet says so on its face and that this is the first document in this district that says on its face what a signature is.**
 
 **AND ON THE EIGHTH OF DECEMBER A MAN OF FIFTY-SIX ASKED THAT ROOM WHETHER ANYBODY WAS GOING TO ASK EITHER WITNESS ABOUT THE YEAR AND NOBODY ANSWERED FOR ABOUT NINE SECONDS, AND THE SIXTH SHEET SAYS ON ITS FACE THAT THE TWO WITNESSES WERE NOT IN THE ROOM WHEN THE REASON WAS READ OUT AND THAT NOBODY IS TO ASK EITHER OF THEM WHY THEY WERE NOT IN THE ROOM.**

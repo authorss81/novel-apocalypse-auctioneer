@@ -16,7 +16,7 @@ She weighed it in four hours and got nine hundred and forty pounds both times an
 
 Nobody argued with her and a man of fifty-six asked what the standing count is, **and she gave it and said it was the standing count in September and had not been recounted since, and that a count of pans is a count of pans and is not a count of salt, and that there is no rate in this basin that turns one into the other and she has looked for one for nine years standing at a scale.**
 
-And on the twenty-second of November the standing count of pans on the Verge was given again and was the count of September, being ninety pans, sixty-one of them standing in river water, six frames, and all six of the frames have sills since the twenty-first of September. The other fourteen are on the high side and have been out of the water since the flood and nobody counts them, and the entry says that is a fact about who counts and is not a mystery and is not a failure and is not to be asked about a second time.
+And on the twenty-second of November the standing count of pans on the Verge was given again and was the count of September, being ninety pans, sixty-one of them standing in river water, six frames, and all six of the frames have sills since the twenty-first of September. The other twenty-three are on the high side and have been out of the water since the flood, and fourteen of the twenty-three have not been counted since the flood either, and nobody counts them, and the entry says that is a fact about who counts and is not a mystery and is not a failure and is not to be asked about a second time.
 
 A man of fifty-six put the two figures on a board and did not add them, and was asked why by a man of thirty-four who mends fencing, and he said it in fifteen words **and a clerk of nineteen years did not count them and a man of about nineteen who walked in from the road counted them and got fifteen.**
 
@@ -36,7 +36,7 @@ The ninth household is still the only one of the nine that has understood the fi
 
 He said the district should ask it. A man of fifty-six said the same and then said the other half, and a clerk of nineteen years entered that she had been asked in six things whether she was going to make the room ask the same question twice and had said that a clerk does not make a room do anything and that a clerk who starts asking on behalf of a room is a clerk who is running the room.
 
-Nobody argued with that and a woman of about thirty-three who takes in washing at the second channel said that the ninth household is nine miles from the sluice **and that it has heard about the cart from a neighbour like everybody else, and that if it comes here it will come here on its own, and that the district has no business making a person arrive so that it can ask them something.**
+It was not argued with and a woman of about thirty-three who takes in washing at the second channel said that the ninth household is nine miles from the sluice **and that it has heard about the cart from a neighbour like everybody else, and that if it comes here it will come here on its own, and that the district has no business making a person arrive so that it can ask them something.**
 
 The clerk entered that, and she entered that the count of not-askings about the ninth household is a column of its own and is not the count about the woman of forty-five and is not added to it, and that the count about the woman of forty-five stands at four with one standing refusal and did not move, and that the woman of forty-five was not asked on the twenty-second of November and her number did not appear.
 
@@ -46,9 +46,9 @@ The board outside the room has three days on it in a hand that cannot be read, a
 
 A man of fifty-six asked what happens on the twenty-fifth if nobody writes anything, and the man of thirty-four who mends fencing said that a room with a date on it and no date after it is a room that has stopped saying when, and that this district had a railway held by a date and not by a need in the middle of the year and knows what that is and it is written down in a book a stranger can take cold.
 
-Nobody argued and a woman of about thirty-three who takes in washing at the second channel said that she wrote the three days and was not asked to write them and did not offer, **and that nobody has asked her why she wrote them in a hand that cannot be read, and that she is not going to say, and that a clerk of nineteen years entered that she had said she would not say and that nobody was going to ask her again.**
+It was not argued with and a woman of about thirty-three who takes in washing at the second channel said that she wrote the three days and was not asked to write them and did not offer, **and that nobody has asked her why she wrote them in a hand that cannot be read, and that she is not going to say, and that a clerk of nineteen years entered that she had said she would not say and that nobody was going to ask her again.**
 
-And on the twenty-second of November a board outside the room had one day left on it, being the twenty-fourth of November, and nobody had written a fourth day, and a woman of about thirty-three who takes in washing at the second channel said that she wrote the three days and was not asked to and that she is not going to say why she wrote them in a hand that cannot be read.
+And on the twenty-second of November a board outside the room had two days left on it, being the twenty-third and the twenty-fourth, and nobody had written a fourth day, and the fourth day was written in December in a hand that could be read, and there are thirty days between the twenty-fourth of November and the twenty-fourth of December, and a clerk of nineteen years entered that the thirty days are a gap and not a finding and that nobody has entered what the room did with them.
 
 ---
 
@@ -58,7 +58,7 @@ The man of fifty-six asked him for the reason, on the ground that a man who says
 
 "**I keep a board that says what a toll lands on a place and it has no name on it. If I am the clerk of a book that says what a toll lands on a person then I am the clerk of the other one and I will not do it.**"
 
-Nobody argued with it. A man of fifty-six said that the two things are not joined and are not to be joined, **and that a man who keeps one of them and will not keep the other has worked out more about the difference than the whole of this district has, and that the entry says so and that the entry is in a room and not on a board.**
+Nobody took it up. 
 
 **AND ON THE TWENTY-SECOND OF NOVEMBER A MAN OF THIRTY-FOUR WHO MENDS FENCING WAS ASKED TO BE THE CLERK OF THE LEDGER AND SAID NO IN FOUR SECONDS FOR THE SECOND TIME IN NINE WEEKS, AND SAID THAT HE KEEPS A BOARD THAT SAYS WHAT A TOLL LANDS ON A PLACE AND THAT IT HAS NO NAME ON IT AND THAT HE WILL NOT ALSO BE THE CLERK OF A BOOK THAT SAYS WHAT A TOLL LANDS ON A PERSON, AND THE TWO ARE NOT JOINED.**
 
@@ -74,7 +74,7 @@ A man of fifty-six answered the first half in seventeen words and did not answer
 
 And a clerk of nineteen years entered that the second half was not answered and that it was not refused, and that a question which is not answered is not a question that has been put into a column, and that there is no column for it and none was made.
 
-The second channel ran. The third channel did not. A man of fifty-six said both figures out loud and did not join them, and the woman of about forty-seven who sells salt out of a barrow at the ninth place said that she did not know what joining them would be and had not asked, and a clerk of nineteen years entered that she had not asked and that not asked is in the count and the count did not move.
+The second channel ran. The third channel did not. A man of fifty-six said both figures out loud and did not join them, and the woman of about forty-seven who sells salt out of a barrow at the ninth place said that she did not know what joining them would be and had not asked, and a clerk of nineteen years entered that she had not asked and that the not-asking is entered and the count is where it was.
 
 **And on the twenty-second of November a woman of about forty-seven who sells salt out of a barrow at the ninth place and is not on any board asked one question and got seventeen words back and the other half of it was not answered, and it was not refused, and a clerk of nineteen years entered that a question which is not answered is not a question that has been put into a column and that there is no column for it and none was made.**
 
@@ -102,9 +102,9 @@ The train on the siding had stood two hundred and eighty-four days on the twenty
 
 The man of about nineteen who walked in from the road asked the boy about the rule on the twenty-second, in four minutes, **and the boy said it was a rule, and the man of nineteen entered that he had been told the same thing on the third of November and on the fifteenth and now on the twenty-second, and that three is a count and that he had stopped asking after the third one on his own and nobody told him to.**
 
-Nobody argued and the woman of about thirty-six who keeps a scale at the sluice end of the loams said that a rule under the sixth of six is the only kind of rule anybody can look at from both sides, and that she has a scale with a mark under the ninth stone and has never once been asked why the ninth, and that the ninth is where her mother's house was and that she has never told the room and told it twice in one morning and was not asked either time.
+the woman of about thirty-six who keeps a scale at the sluice end of the loams said that a rule under the sixth of six is the only kind of rule anybody can look at from both sides, and that she has a scale with a mark under the ninth stone and has never once been asked why the ninth, and that the ninth is where her mother's house was and that she has never told the room and told it twice in one morning and was not asked either time.
 
-She was not asked about the ninth stone. A clerk of nineteen years entered that she was not asked and that not asked is in the count and the count did not move, **and that the count of conditions with no end on it is four and the count of protected things is five and the boy of seventeen is in neither and neither moved.**
+She was not asked about the ninth stone. A clerk of nineteen years entered that she was not asked and that the not-asking is entered and the count is where it was, **and that the count of conditions with no end on it is four and the count of protected things is five and the boy of seventeen is in neither and neither moved.**
 
 **AND ON THE TWENTY-SECOND OF NOVEMBER THE TRAIN ON THE SIDING HAD STOOD TWO HUNDRED AND EIGHTY-FOUR DAYS, WHICH IS SEVENTEEN DAYS LEFT IN FEBRUARY AFTER THE ELEVENTH, THEN ONE HUNDRED AND EIGHTY-FOUR DAYS TO THE THIRTY-FIRST OF AUGUST, WHICH IS TWO HUNDRED AND ONE, THEN THIRTY FOR SEPTEMBER, THEN THIRTY-ONE FOR OCTOBER, THEN TWENTY-TWO FOR NOVEMBER, AND EVERY FIGURE IS BUILT FROM THE ELEVENTH OF FEBRUARY AND NONE IS CARRIED FORWARD OUT OF ANY BOOK.**
 
@@ -114,7 +114,7 @@ A man of fifty-six read out on the twenty-second of November, in a lane, the six
 
 The term runs from the twenty-ninth of September to the thirty-first of March and it is in the market's own book and it has not moved, **and the two dates on one line are the thirty-first of March and the name of the man it is against, and a man of fifty-six said that this district has two dates left and both of them are in March, and that a room which has run out of dates is in the same position as a room which never had any, and that this room is not in that position and has one day.**
 
-Nobody argued. A clerk of nineteen years entered the six figures and the total and entered that no seventh asking was made and that the two people who hold the boundary were not asked, and that not asked is in the count, and that the count of not-askings about the two people who hold the boundary is a column of its own and is not the count about the woman of forty-five and is not added to it.
+Nobody took it up. 
 
 ---
 
@@ -124,4 +124,4 @@ The last entry of the twenty-second of November is nine lines long and it is in 
 
 Nobody said anything about that for about nine seconds and a man of fifty-six said that it is the best sentence anybody has said in a lane in three weeks, and that a finding is a thing a room agrees to carry and a cart is a thing that arrives, and that this district has been treating arrivals as findings since the thirteenth of August and that this is the fourth time it has been wrong about one.
 
-And a stranger who has been in that yard four times in ten weeks took a fourth copy of the ledger off the board of eleven without being asked, **and a clerk of nineteen years entered that nobody in this district has ever asked a stranger what he intends to use a copy for, and that there is no column for it, and that the not-asking is in the count and the count did not move. THE ENTRY OF THE TWENTY-SECOND OF NOVEMBER HAS NO FINDING IN IT.**
+And a stranger who has been in that yard four times in ten weeks took a fourth copy of the ledger off the board of eleven without being asked, **and a clerk of nineteen years entered that nobody in this district has ever asked a stranger what he intends to use a copy for, and that there is no column for it, and that the not-asking is in the count and the count is where it was. THE ENTRY OF THE TWENTY-SECOND OF NOVEMBER HAS NO FINDING IN IT.**

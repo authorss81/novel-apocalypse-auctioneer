@@ -8,19 +8,19 @@ A man of fifty-six put it in the minute in those words and a clerk of nineteen y
 
 Nobody argued with her and a man of about thirty-four who mends fencing said that the two who were not watching were a man of about thirty-four who digs loam and does nine days of it in ten, and a woman of fifty-eight who carries water, **and that both of them had come to say something and that the room would find out what it was in about an hour and would not find out anything.**
 
-It did not find out. A clerk of nineteen years entered at the end of the day that neither of them said anything, that she was asked in the six things at the end and both of them said no, and in the same words, and neither of them said what the words were, and that not asked is in the count and the count did not move, and that the man who digs loam is the fourth of the six who hold the ledger and is the one who will have to fill the page.
+It did not find out. A clerk of nineteen years entered at the end of the day that neither of them said anything, that she was asked in the six things at the end and both of them said no, and in the same words, and neither of them said what the words were, and that the not-asking is entered and the count is where it was, and that the man who digs loam is the fourth of the six who hold the ledger and is the one who will have to fill the page.
 
 ---
 
 The fourth day was written at about eleven in the morning on the twenty-fourth of November and it is the twenty-fourth of December, **and it was written by a man of fifty-six who does count for a living, in a hand that anybody in that yard could read, and nobody asked him to write it and he was not asked and he said afterwards that he had not been asked and would not have written it if he had been.**
 
-A woman of about thirty-three who takes in washing at the second channel wrote the first three days and did not write the fourth, and a man of fifty-six did not ask her why and said out loud that he was not going to ask her why, and a clerk of nineteen years entered that he had said that he was not going to ask and that nobody was going to ask him whether he had meant it, and that not asked is in the count and the count did not move.
+A woman of about thirty-three who takes in washing at the second channel wrote the first three days and did not write the fourth, and a man of fifty-six did not ask her why and said out loud that he was not going to ask her why, and a clerk of nineteen years entered that he had said that he was not going to ask and that nobody was going to ask him whether he had meant it, and that the not-asking is entered and the count is where it was.
 
-Then the finding of the morning was said and it is in the minute in the words of a man of fifty-six and it is sixty-three words, **and a clerk of nineteen years counted them twice and got sixty-three both times and did not say so and a man of about nineteen who walked in from the road counted them and got sixty-three and said the number out loud twice.**
+Then the finding of the morning was said and it is in the minute in the words of a man of fifty-six and it is sixty-three words, **and a clerk of nineteen years counted them twice and got sixty-three both times and did not say so and a man of about nineteen who walked in from the road counted them and got sixty-three and said it out loud and then said it again.**
 
 "**The first three days are in a hand that cannot be read and the fourth is in a hand that can. A board a person can read is a board a person can argue with. A board in a hand that cannot be read is a board a person has to come and ask about, and this district has spent eleven weeks asking.**"
 
-Nobody argued with it. A man of about thirty-four who mends fencing said that the two things are not joined, that the woman who wrote the three is not the man who wrote the fourth, and that a room which has run on a hand nobody can read for eleven weeks and has a hand anybody can read on its last day is a room that has changed and has not said why, and that nobody is going to make it say why.
+Nobody took it up. A man of about thirty-four who mends fencing said that the two things are not joined, that the woman who wrote the three is not the man who wrote the fourth, and that a room which has run on a hand nobody can read for eleven weeks and has a hand anybody can read on its last day is a room that has changed and has not said why, and that nobody is going to make it say why.
 
 **AND ON THE TWENTY-FOURTH OF NOVEMBER A FOURTH DAY WAS WRITTEN ON THE BOARD OUTSIDE THE ROOM, BEING THE TWENTY-FOURTH OF DECEMBER, IN A HAND ANYBODY COULD READ, BY A MAN OF FIFTY-SIX WHO DOES COUNT FOR A LIVING AND WAS NOT ASKED TO WRITE IT, AND THE FINDING OF THE MORNING IS THAT A BOARD A PERSON CAN READ IS A BOARD A PERSON CAN ARGUE WITH.**
 
@@ -30,7 +30,7 @@ A clerk of nineteen years said on the twenty-fourth of November that she was not
 
 She entered that herself and entered that she had wanted to join the two counts and had not, and that a man of fifty-six started a count in the middle of September and has now started five, and that a man who starts a count and cannot stop is the reason this column is called NOT A FINDING.
 
-Nobody argued and the man of fifty-six said that a room whose only instrument runs out on a date is a room a clerk can end, **and that this room had one day left on the twenty-third of November and one day left on the twenty-fourth and wrote a fourth day on the twenty-fourth, and that the two of those are the whole of the finding and are not joined.**
+the man of fifty-six said that a room whose only instrument runs out on a date is a room a clerk can end, **and that this room had one day left on the twenty-third of November and one day left on the twenty-fourth and wrote a fourth day on the twenty-fourth, and that the two of those are the whole of the finding and are not joined.**
 
 A man of about thirty-four who mends fencing asked what happens if the fourth day comes and nobody writes a fifth, and the man of fifty-six said that it will be the twenty-fourth of December and that there is a charter to close before it and that if the charter is not closed by then the room will have a date again and nothing under it, and that a room with a date and nothing under it is a room that has told the truth about itself.
 
@@ -56,9 +56,9 @@ The man the figure of twenty-one years is against was in the room on the twenty-
 
 "**The reason is that I am not one of the nine people keeping this and the room is not mine, and a man who is the address for a figure of twenty-one years does not stand in a room and is a person.**"
 
-A man of fifty-six entered that the man was in the room for two hours and that the entry of the nineteenth of October says he is a guarantor of nothing, and that as he stands there he is not that either, and that the two are not joined and that the word for it is not on any board in this district and there is no column for it and none was made.
+A man of fifty-six entered that the man was in the room for two hours and that the entry of the nineteenth of October says he is a guarantor of nothing, and that as he stands there he is not that either, and that the two are two things and that the word for it is not on any board in this district and there is no column for it and none was made.
 
-Nobody argued. **And on the twenty-fourth of November the man who is the address for a figure of twenty-one years was in the room for about two hours and said nothing, and said when he was asked at the end that he is not one of the nine people keeping this and that a man who is the address for a figure does not stand in a room and is a person.**
+Nobody took it up. **And on the twenty-fourth of November the man who is the address for a figure of twenty-one years was in the room for about two hours and said nothing, and said when he was asked at the end that he is not one of the nine people keeping this and that a man who is the address for a figure does not stand in a room and is a person.**
 
 ---
 
@@ -82,7 +82,7 @@ A man of about thirty-four who mends fencing asked what stopped, and the man of 
 
 The man of about thirty-seven who sells salt by the load asked, in a yard, for the four days to be entered in a book, and a man of fifty-six told him that there is no column for a day that a thing lost, and that a day a thing lost is not a toll and is not a figure and that a figure in this district is a thing somebody counts on purpose, **and that a board is a place a line of chalk goes and a book is a place a line is put in on purpose and that he has been offered the second and he chose the first in about four seconds.**
 
-Nobody argued with that and the man of about thirty-seven said that he chose the first because the second would take until December and his cart does not wait for December, and a clerk of nineteen years entered that he had said the word cart twice in nine minutes and that a man who is losing days on a road does not want a book and wants a person, and that the two are not the same thing and that the district has been treating them as the same thing since the eighth of March.
+Nobody took that up and the man of about thirty-seven said that he chose the first because the second would take until December and his cart does not wait for December, and a clerk of nineteen years entered that he had said the word cart twice in nine minutes and that a man who is losing days on a road does not want a book and wants a person, and that the two are not the same thing and that the district has been treating them as the same thing since the eighth of March.
 
 He then asked the woman of fifty who is the water at the ninth place whether she is paid for the boards, and she said no, **and he asked her whether anybody had ever asked her that, and she said no, and a clerk of nineteen years entered both answers and entered that the second one is the seventh time in eleven weeks and that the count of it is seven and is not in a column.**
 
@@ -106,15 +106,15 @@ The woman of fifty who is the water at the ninth place made the count of uses on
 
 She said that the count of four in October was a count in eleven days and this one is a count in a fortnight, and that there is no column in this district for a rate of use and that a column is a thing a person is paid for, and that she is not paid, was not asked to be right, and is not going to be.
 
-Nobody paid her and a man of fifty-six said that a woman of fifty who is the water at the ninth place has now been unpaid and unasked about the same instrument seven times in eleven weeks, **and that this is a fact about the instrument and is not a fact about her, and that the two are not joined, and that the number of times is seven and is not in a column and is not a finding.**
+Nobody paid her and a man of fifty-six said that a woman of fifty who is the water at the ninth place has now been unpaid and unasked about the same instrument seven times in eleven weeks, **and that this is a fact about the instrument and is not a fact about her, and that the two are two things, and that the number of times is seven and is not in a column and is not a finding.**
 
 The seventh time she said it was to a man of about thirty-seven who sells salt by the load, and he said he was sorry, and she said that being sorry is not a wage and that she has been sorry since the eighth of August, and a clerk of nineteen years entered that a man said sorry to a person who carries water at the ninth place and that the entry does not say the man was right and does not say he was wrong.
 
 ---
 
-A woman of forty-four who has done it eleven years came on the twenty-fourth of November and was not asked for anything and was not asked why she came, **and a clerk of nineteen years entered that she was not asked why she came and that not asked is in the count and the count did not move, and that she is not an officer of anything and was not asked to be one.**
+A woman of forty-four who has done it eleven years came on the twenty-fourth of November and was not asked for anything and was not asked why she came, **and a clerk of nineteen years entered that she was not asked why she came and that the not-asking is entered and the count is where it was, and that she is not an officer of anything and was not asked to be one.**
 
-She said one thing. It went into the minute in her own words and it is twenty-eight words, and a man of about nineteen who walked in from the road counted them and got twenty-two and a clerk of nineteen years did not count them and said so and he said count them anyway.
+She said one thing. It went into the minute in her own words and it is twenty-eight words, and a man of about nineteen who walked in from the road counted them and got twenty-eight and a clerk of nineteen years did not count them and said so and he said count them anyway and she did and got twenty-eight both times.
 
 "**You are about to write a date on a board and the date is four weeks away. Ask me now and I will say it in four weeks.**"
 
@@ -130,7 +130,7 @@ A man of fifty-six asked her why she read the day out again and she said it in a
 
 "**Because a person who comes here in December will not have heard it, and there is a day on a board and a person has to be told there is a day.**"
 
-Nobody argued and a man of about thirty-four who mends fencing said that this is the second time in eleven weeks a person outside a room has given a better answer than a man who counts for a living, **and that the first was a woman of about thirty-three who takes in washing at the second channel on the twenty-first of November, and that a clerk of nineteen years entered the two in one line and did not join them, and that this is the twenty-fourth time.**
+Nobody took it up and a man of about thirty-four who mends fencing said that this is the second time in eleven weeks a person outside a room has given a better answer than a man who counts for a living, **and that the first was a woman of about thirty-three who takes in washing at the second channel on the twenty-first of November, and that a clerk of nineteen years entered the two in one line and did not join them, and that this is the twenty-fourth time.**
 
 **AND ON THE TWENTY-FOURTH OF NOVEMBER THE BOARD OUTSIDE THE ROOM CARRIED FOUR DAYS AND THE FOURTH IS THE TWENTY-FOURTH OF DECEMBER, AND THE LAST ENTRY OF THE DAY IS SEVEN LINES, AND A MAN OF THIRTY-FOUR WHO MENDS FENCING DECLINED TO BE THE CLERK OF THE LEDGER FOR THE SECOND TIME IN NINE WEEKS AND SAID A NOTICE THAT DOES NOT SAY WHAT IT COSTS IS THE THIRTIETH OF OCTOBER AGAIN IN A NEW SHAPE.**
 

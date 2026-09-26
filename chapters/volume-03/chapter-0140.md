@@ -4,7 +4,7 @@
 
 A man of about thirty-four who digs loam and does nine days of it in ten ruled a line under the eleventh row of the ledger on the morning of the sixteenth of November and wrote nothing under it, and about nineteen people were in the room, and a clerk of nineteen years asked him what the line was for and he said he did not know and she entered that she had asked and that he had said he did not know and that she was not going to ask again.
 
-The line is the only part of this instrument that has not been argued about **and a man of thirty-four who mends fencing said that a line nobody can argue about is either the most important part of a document or the part that has not been understood yet, and that in this district it is usually the second, and that the two are not joined.**
+The line is the only part of this instrument that has not been argued about **and a man of thirty-four who mends fencing said that a line nobody can argue about is either the most important part of a document or the part that has not been understood yet, and that in this district it is usually the second, and that the two are two things.**
 
 A man of fifty-six said that a line under the last filled row on a page ruled to thirty-one rows says that the page is not finished, and that a page which says it is not finished cannot be copied by nine people and agreed upon, and that a clerk of nineteen years said that this was the reason and that she had not said so because nobody had asked her.
 
@@ -18,7 +18,7 @@ The entry of the nineteenth of October is unchanged and carries the date the wor
 
 "**The first half is a word in a book. The second half is a season and has not started.**"
 
-Nobody argued with that and a man of fifty-six said that this is the fourth time in eleven weeks that a room has said the same shape of sentence and that a shape of sentence is not a rule and is not a finding and is not in the column for things that are not findings, and that it is in the book on the sixteenth of November because a clerk of nineteen years put it there and that is the only reason it is anywhere.
+Nobody took that up and 
 
 A man of about twenty-six who is at the third channel and has been in a bed of brine for a year and a half was told about the line under the eleventh row on the seventeenth of November and he asked whether his third cell was still empty, and a man of about thirty-four who digs loam said yes, and the man of twenty-six said that was correct and that he wanted it to stay empty until somebody could put a figure in it that he could not check, and that this was the first thing he had wanted since the first of April.
 
@@ -32,7 +32,7 @@ The four seasons went into the third column of the eleventh row. The sixth colum
 
 "**He wrote it on the eleventh and nobody asked him. The column is for what this district asked. If I change the cell now then the page says we asked, and we did not, and a page that lies about an asking is the form with no column on it again.**"
 
-Nobody argued with that and a woman of thirty-three who takes in washing at the second channel said that the eleventh row is now the only row on the page that is wrong on purpose, and that a page with a row that is wrong on purpose is a page a person can trust, because a person can see where it is wrong.
+It was not argued with and a woman of thirty-three who takes in washing at the second channel said that the eleventh row is now the only row on the page that is wrong on purpose, and that a page with a row that is wrong on purpose is a page a person can trust, because a person can see where it is wrong.
 
 **AND ON THE EIGHTEENTH OF NOVEMBER THE FOUR SEASONS OF A MAN OF ABOUT FORTY-FOUR WHO HAS THE SECOND CUT WENT INTO THE THIRD COLUMN OF THE ELEVENTH ROW, AND THE SIXTH COLUMN OF THAT ROW STILL SAYS NOT ASKED, AND A MAN OF ABOUT THIRTY-FOUR WHO DIGS LOAM LEFT IT AS IT WAS, AND SAID THAT THE COLUMN IS FOR WHAT THIS DISTRICT ASKED, AND THAT CHANGING THE CELL WOULD MAKE THE PAGE SAY WE ASKED, AND THAT WE DID NOT, AND THAT A PAGE THAT LIES ABOUT AN ASKING IS A FORM WITH NO COLUMN ON IT AGAIN.**
 
@@ -44,7 +44,7 @@ The three days were written by a woman of about thirty-three who takes in washin
 
 A man of fifty-six said that a board with no fourth day on it is a room with a date, and that a room with a date is a room that can be ended by a person who is a clerk, and that the clerk of this room is a woman of nineteen years who has said three times in eleven weeks that she is not the clerk of anything, and that this is the first time in eleven weeks that the room's own instrument could end the room.
 
-Nobody argued and a clerk of nineteen years said that she was not going to write a fourth day on the board and that nobody was going to ask her to, and that if a room cannot be ended then a room is not a room, it is a habit, and that a habit is a thing a district has and the district has had a railway held by a date and not by a need and knows what that is.
+a clerk of nineteen years said that she was not going to write a fourth day on the board and that nobody was going to ask her to, and that if a room cannot be ended then a room is not a room, it is a habit, and that a habit is a thing a district has and the district has had a railway held by a date and not by a need and knows what that is.
 
 Nobody asked her and a clerk of nineteen years entered that nobody asked her and that this is the sixth time in eleven weeks nobody has **and that a count of not-askings is a column and not a bucket and not a protection, and that a board with one day left on it is not one of the five things this district does not have and is not one of the six it has built and not named and is not one of the three documents nobody owns, and that a man of thirty-four who mends fencing entered that and would not have it entered in either list.**
 
@@ -56,15 +56,15 @@ A woman of thirty-eight who has been in the second channel four years was asked 
 
 A man of about thirty-four who digs loam asked her why she does not want a form and she said that a form is a thing a person finds out about from a stranger, and that she has been in this flat for four seasons and there are nine people in it she can ask and about eighty she cannot, and that a form would be handed to her by somebody she has not met and would say what she is owed and what she is not.
 
-Nobody argued and the man of about thirty-four who digs loam said that a person who does not want a form has said something about the form and not about the year, and that the year is not the part she objects to, and that this is the fourth time in eleven weeks that a person in this district has refused a document on the grounds of who would bring it.
+Nobody took it up and the man of about thirty-four who digs loam said that a person who does not want a form has said something about the form and not about the year, and that the year is not the part she objects to, and that this is the fourth time in eleven weeks that a person in this district has refused a document on the grounds of who would bring it.
 
-A clerk of nineteen years entered that a woman of thirty-eight in the second channel was asked in the six things and answered and that she was not asked about the four seasons and was not asked about the eleventh year and was not asked about the four hundred coppers, and that not asked is in the count and that the count did not move.
+A clerk of nineteen years entered that a woman of thirty-eight in the second channel was asked in the six things and answered and that she was not asked about the four seasons and was not asked about the eleventh year and was not asked about the four hundred coppers, and that not asked is in the count and that the count is where it was.
 
 A woman of fifty who is the water at the ninth place stopped a haulier of about forty from writing a man's trade on the board on the twentieth of November and did it in a street and not in a room, and a clerk of nineteen years was told about it afterwards and entered that the board was used again and that this is the third time it has been used since the eighth of November and that the woman who said it is not paid and was not asked to be right and is not going to
 
 Be, and that a count of uses in a fortnight is not a rate and there is no column for a rate of use and a column is a thing a person is paid for.
 
-Nobody paid her and she said so, and a man of fifty-six entered that a woman of fifty who is the water at the ninth place has now been unpaid and unasked about the same instrument five times in eleven weeks and that this is a fact about the instrument and is not a fact about her, and that the two are not joined.
+Nobody paid her and she said so, and a man of fifty-six entered that a woman of fifty who is the water at the ninth place has now been unpaid and unasked about the same instrument five times in eleven weeks and that this is a fact about the instrument and is not a fact about her, and that the two are two things.
 
 A copy of the ledger went back onto the board of eleven on the twenty-first of November and a stranger who had taken one cold on the twenty-ninth of October and one on the seventh of November came on the twenty-first and took a third, and he said that he had told nobody about any of the three and that a man who tells nobody about three copies of a page is a man who intends to use them, and a clerk of nineteen years entered that a stranger had said out loud that he intended to use three copies, and that nobody in this district has ever asked a stranger what he intended to use a copy for and that the not-asking is in the count.
 
@@ -86,7 +86,7 @@ The line under the eleventh row was still under the eleventh row on the twenty-f
 
 The nine words were that a line is a place the next person starts.
 
-Nobody argued with that and about four people wrote it down at home, and a man of thirty-eight said that a line under the last filled row of a page ruled to thirty-one rows is a promise made by a man with a spade to a stranger four years away, and that a promise with no name on it is the only kind of promise this district has ever made on a page, and that a clerk of nineteen years entered that and entered that the man the figure of twenty-one years is against did not say it, and that she entered it because she thought it ought to be in the book and was not asked by anybody to enter it.
+Nobody took it up and about four people wrote it down at home, and a man of thirty-eight said that a line under the last filled row of a page ruled to thirty-one rows is a promise made by a man with a spade to a stranger four years away, and that a promise with no name on it is the only kind of promise this district has ever made on a page, and that a clerk of nineteen years entered that and entered that the man the figure of twenty-one years is against did not say it, and that she entered it because she thought it ought to be in the book and was not asked by anybody to enter it.
 
 ---
 
@@ -100,7 +100,7 @@ The answer came from a woman of about thirty-three who takes in washing at the s
 
 "**You go and stand in front of it. That is what a book on eleven boards is for and that is the only thing it has ever been for.**"
 
-Nobody argued and a man of thirty-four who mends fencing said that this is the answer given in August by a woman of fifty-eight who carries water, and that a clerk of nineteen years entered the two in one line and did not join them, and that this is the twenty-third time, and that the twenty-third is the first one in eleven weeks in which a person outside a room has given a better answer than a man who counts for a living, and that this district is not going to be able to say that out loud about itself in a book and is saying it in a minute instead.
+The room let it stand and a man of thirty-four who mends fencing said that this is the answer given in August by a woman of fifty-eight who carries water, and that a clerk of nineteen years entered the two in one line and did not join them, and that this is the twenty-third time, and that the twenty-third is the first one in eleven weeks in which a person outside a room has given a better answer than a man who counts for a living, and that this district is not going to be able to say that out loud about itself in a book and is saying it in a minute instead.
 
 ---
 
