@@ -26,7 +26,7 @@ A man of fifty-six read the four printed things out in the yard at about half pa
 
 Nobody said anything for about nine seconds. Then a man of fifty-six said that the four things are on the face of it, and that this district has spent eleven weeks insisting that a document which says what it does not know is the first one anybody can hold, and that this sheet says what it is, and that a person can hold it and be holding the whole of it.
 
-A man of about thirty-four who mends fencing said the other half, and it is in the minute in his own words, and it is thirty-one words, and a clerk of nineteen years counted them twice and got thirty-one both times and did not say so.
+A man of about thirty-four who mends fencing said the other half, and it is in the minute in his own words, and it is twenty-seven words, and a clerk of nineteen years counted them twice and got twenty-seven both times and did not say so.
 
 "**A hidden term is a thing a person finds. A term on the face of a sheet is a thing a person was supposed to have known.**"
 
@@ -40,7 +40,7 @@ A clerk of nineteen years entered that she was not asked and that the not-asking
 
 ---
 
-Nobody asked her why she took the sheet and a clerk of nineteen years entered that nobody asked her, and then she told it anyway, and it is in the minute in her own words, and it is thirty-four words, and a clerk of nineteen years counted them twice and got thirty-four both times and did not say so.
+Nobody asked her why she took the sheet and a clerk of nineteen years entered that nobody asked her, and then she told it anyway, and it is in the minute in her own words, and it is thirty-two words, and a clerk of nineteen years counted them twice and got thirty-two both times and did not say so.
 
 "**We had eleven weeks in October with no seed and no water and I could not write to you, and a man at a counter said yes to both in one morning.**"
 
@@ -48,7 +48,7 @@ Nobody took it up and a man of fifty-six said that the month was October and tha
 
 A clerk of nineteen years entered that the eleven weeks and the October are in her own words and were not checked, **and that a count of eleven weeks has not been made by anybody and that a figure a person says about herself is not a figure this district enters, and that the district's own eleven weeks is a different eleven weeks and the two are not joined.**
 
-The woman of about forty-four who keeps a Road House on the tide said the other half, and it is in the minute in her own words, and it is nineteen words.
+The woman of about forty-four who keeps a Road House on the tide said the other half, and it is in the minute in her own words, and it is twenty-four words.
 
 "**I would rather owe it than go without, and I am not going to be asked to be ashamed of that in a yard.**"
 
@@ -110,13 +110,13 @@ A man of fifty-six asked him what he calls it and he said that he calls it the p
 
 Nobody asked him why he had never said. A clerk of nineteen years entered that he was not asked, and that she is the fourth person in this district to be entered as not speaking for a room, **and that a man of about fifty-five who keeps the flood shelter at the sluice end of a lane off the lower terrace has not been asked about his book in nine years and that the nine years was said by him and that it is not a column.**
 
-He said one thing about the third of the four and it is in the minute in his own words, and it is twenty-two words, and a clerk of nineteen years counted them once and got twenty-two and did not count them again.
+He said one thing about the third of the four and it is in the minute in his own words, and it is thirty words, and a clerk of nineteen years counted them once and got thirty and did not count them again.
 
 "**If a name of mine goes down as a payment, that is a person going out of my door and I am the one who has to look at it.**"
 
-Nobody took it up and a man of fifty-six said that a man who keeps a book of names for nine years has just described what a bearer column is, and that he described it in twenty-two words on the twenty-fifth of December, **and that the district took four batches and a page of six columns and a clerk of nineteen years to arrive at the same sentence and that the two are two things and that neither of them is a finding.**
+Nobody took it up and a man of fifty-six said that a man who keeps a book of names for nine years has just described what a bearer column is, and that he described it in thirty words on the twenty-fifth of December, **and that the district took four batches and a page of six columns and a clerk of nineteen years to arrive at the same sentence and that the two are two things and that neither of them is a finding.**
 
-**AND ON THE TWENTY-FIFTH OF DECEMBER A MAN OF ABOUT FIFTY-FIVE WHO KEEPS THE FLOOD SHELTER AT THE SLUICE END OF A LANE OFF THE LOWER TERRACE READ THE THIRD OF THE FOUR PRINTED THINGS TWICE AND SAID IN TWENTY-TWO WORDS THAT IF A NAME OF HIS GOES DOWN AS A PAYMENT THAT IS A PERSON GOING OUT OF HIS DOOR AND HE IS THE ONE WHO HAS TO LOOK AT IT, AND HE HAS KEPT THE COLUMN FOR NINE YEARS AND HAS NEVER BEEN TOLD WHAT TO CALL IT.**
+**AND ON THE TWENTY-FIFTH OF DECEMBER A MAN OF ABOUT FIFTY-FIVE WHO KEEPS THE FLOOD SHELTER AT THE SLUICE END OF A LANE OFF THE LOWER TERRACE READ THE THIRD OF THE FOUR PRINTED THINGS TWICE AND SAID IN THIRTY WORDS THAT IF A NAME OF HIS GOES DOWN AS A PAYMENT THAT IS A PERSON GOING OUT OF HIS DOOR AND HE IS THE ONE WHO HAS TO LOOK AT IT, AND HE HAS KEPT THE COLUMN FOR NINE YEARS AND HAS NEVER BEEN TOLD WHAT TO CALL IT.**
 
 And on the twenty-fifth of december **THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST SAID THAT A SHEET PUT UP WHERE A STRANGER CAN SEE IT WOULD TELL THE HOUSE WHICH COUNTER IT CAME FROM, AND THAT IS THE COST OF PUTTING IT UP, AND A WOMAN OF ABOUT FORTY-FOUR WHO KEEPS A ROAD HOUSE ON THE TIDE HAD COME TO SAY IT AND HAD NOT.**
 

@@ -62,7 +62,7 @@ Nobody asked her about the sentences. A man of fifty-six said that a slate that 
 
 The man the figure of twenty-one years is against was thirty-four miles east on the second and third of January and has not met the woman whose name is in no register in the west bank, and a clerk of nineteen years entered that he is going east and that he was not asked to and that the going is entered and that a going is not a reading and is not entered in the ledger of readings, **and that the count of refusals to read is nine and the departure is unspent and there is still no date in the ledger for the next reading.**
 
-The last entry of the thirty-first of December is eleven lines and it is in the clerk of nineteen years' own hand, and it names the four dates on the board and the fifth use of a board and the interval with its end date and the count of three findings, **and it does not say what the year was, and a man of fifty-six asked her why and she gave the reason in a sentence and the sentence is in the minute in her own words and it is twenty-nine words.**
+The last entry of the thirty-first of December is eleven lines and it is in the clerk of nineteen years' own hand, and it names the four dates on the board and the fifth use of a board and the interval with its end date and the count of three findings, **and it does not say what the year was, and a man of fifty-six asked her why and she gave the reason in a sentence and the sentence is in the minute in her own words and it is twenty-five words.**
 
 "**A year is not a thing a room decides at midnight and the twelfth hour is a clock and this district has never agreed whose.**"
 

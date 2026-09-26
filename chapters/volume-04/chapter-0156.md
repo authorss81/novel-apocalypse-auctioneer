@@ -12,9 +12,9 @@ A man of fifty-six said that the man the figure of twenty-one years is against s
 
 "**My public lot has no hidden terms and never has and I have said that since the eighth of March.**"
 
-The room let it stand. A woman of about forty-four who keeps a Road House on the tide was in the yard and said one thing about that, and it is in the minute in her own words, and it is twenty-six words, and a man of about nineteen who walked in from the road counted them and got twenty-six and said it out loud.
+The room let it stand. A woman of about forty-four who keeps a Road House on the tide was in the yard and said one thing about that, and it is in the minute in her own words, and it is thirty-six words, and a man of about nineteen who walked in from the road counted them and got thirty-six and said it out loud.
 
-"**A thing that has never had a hidden term is not the same as a thing somebody can go and look at, and I have been trying to tell you that since Friday.**"
+"**A thing that has never had a hidden term is not the same as a thing somebody can go and look at, and I have been trying to tell you that since the twenty-fifth of December.**"
 
 Nobody took it up and a man of fifty-six said that the two sentences are the whole of the twenty-fourth of December and the second of January in one line, **and that a hidden term is a thing a person finds and a term on the face of a sheet is a thing a person was supposed to have known, and that the woman is talking about the second and the man is talking about the first, and that the two are two things.**
 
@@ -116,13 +116,13 @@ A woman of about forty-four who keeps a Road House on the tide was asked, in the
 
 A man of about thirty-four who mends fencing said that a man who is a security and does not know it should be told, and a man of about thirty-one who mends a dray at a forge end off Salt Row said that he would rather not be told in a yard, and a clerk of nineteen years entered both answers and entered that the two are two people and are not joined.
 
-A man of about thirty-eight who deals in second-hand paper was asked, in the five things, what a list of five things is worth to a man who buys paper, and he gave the answer in a sentence and the sentence is in the minute in his own words, and it is twenty-four words.
+A man of about thirty-eight who deals in second-hand paper was asked, in the five things, what a list of five things is worth to a man who buys paper, and he gave the answer in a sentence and the sentence is in the minute in his own words, and it is twenty-seven words.
 
 "**A list is worth what it takes off a thing and a list of five takes five things off a man and leaves him with a face.**"
 
 Nobody took it up and a man of about thirty-four who mends fencing said that a face is what this district has been trading on since the eighth of March, and that a man who sells paper on a lane off the lower terrace is the only person in the yard who has been telling him so, **and that a clerk of nineteen years entered that the man of about thirty-eight who deals in second-hand paper was entered before he spoke as not speaking for the room and that this is the fifth time he has been entered that way and that the count of it is five and is not a count of not-askings.**
 
-**AND ON THE THIRD OF JANUARY A MAN OF ABOUT THIRTY-EIGHT WHO DEALS IN SECOND-HAND PAPER SAID IN TWENTY-FOUR WORDS THAT A LIST IS WORTH WHAT IT TAKES OFF A THING AND THAT A LIST OF FIVE TAKES FIVE THINGS OFF A MAN AND LEAVES HIM WITH A FACE, AND NOBODY TOOK IT UP.**
+**AND ON THE THIRD OF JANUARY A MAN OF ABOUT THIRTY-EIGHT WHO DEALS IN SECOND-HAND PAPER SAID IN TWENTY-SEVEN WORDS THAT A LIST IS WORTH WHAT IT TAKES OFF A THING AND THAT A LIST OF FIVE TAKES FIVE THINGS OFF A MAN AND LEAVES HIM WITH A FACE, AND NOBODY TOOK IT UP.**
 
 Nobody resolved it and a man of fifty-six said that the district has spent four hundred lines in eleven weeks refusing to decide a thing in a lane and that the fifth of the five is going to be decided in a room on purpose or it is not going to be decided at all, **and that the count of protected things is five and did not move and that a man who is a security is not a protected thing and is not in any of the counts and that is a finding and not a fault.**
 

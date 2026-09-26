@@ -50,19 +50,19 @@ The first was the owner in the register, and a man of fifty-six said that the ow
 
 The second was the three households who work the farm, and a woman of about thirty-three who takes in washing at the second channel said that a household is a count and not a person and that three of them is a figure and that a figure cannot hold a toll, and that the district has been told this before about a page and did not hear it.
 
-The third was a mark, and a man of about thirty-four who mends fencing said no in four seconds and gave the reason in a sentence, and the reason is in the minute in his own words and it is nineteen words, **and that a clerk of nineteen years entered that the boundary was built around that rule and not in defiance of it and that the count of refusals of a mark for a job is one and is not a column.**
+The third was a mark, and a man of about thirty-four who mends fencing said no in four seconds and gave the reason in a sentence, and the reason is in the minute in his own words and it is twenty-two words, **and that a clerk of nineteen years entered that the boundary was built around that rule and not in defiance of it and that the count of refusals of a mark for a job is one and is not a column.**
 
 "**A mark may not carry a job and a field is a job, and the line of stones is not a mark.**"
 
 The fourth was the buyer, and a man of about forty-three who buys standing seed-crop said no himself before anybody asked him, and said that a man who is going to be given a thing is not the man the thing is given to, and that if he were the bearer he would be paying himself.
 
+**AND THE FOURTH OF A LOT IS THE THING, THE USE, THE TOLL AND THE TERM, AND THE FIFTH IS THE BEARER, AND THE OWNER IN THE REGISTER HAS NOT BEEN AT HIS HOUSE IN ABOUT FOUR YEARS, AND THREE HOUSEHOLDS ARE THREE COUNTS AND NOT A PERSON, AND A MARK MAY NOT CARRY A JOB, AND THE BUYER REFUSED BEFORE HE WAS ASKED, AND A LOT WITH NO BEARER IS NOT A LOT.**
+
 Nobody argued and the man the figure of twenty-one years is against folded the page and put it inside his coat, and a clerk of nineteen years entered that the page is not in any book in this district and that the four parts are correct and that the fifth is absent, **and that a lot with no bearer is not a lot and a thing that is not a lot cannot be sold and cannot be given away and cannot be left to a family, and that the three of those are the same absence seen three ways.**
 
 Nobody took that up and a man of about thirty-four who mends fencing said that the page is the largest wrong figure this district has produced since the eighth of March, **and that a figure a man wrote down wrongly is a figure that can be argued with in about four years, and that a Binder who writes four parts of seven on a page and folds it into his coat has bought himself four years of a stranger asking him what the fifth was.**
 
-**AND THE FOURTH OF A LOT IS THE THING, THE USE, THE TOLL AND THE TERM, AND THE FIFTH IS THE BEARER, AND THE OWNER IN THE REGISTER HAS NOT BEEN AT HIS HOUSE IN ABOUT FOUR YEARS, AND THREE HOUSEHOLDS ARE THREE COUNTS AND NOT A PERSON, AND A MARK MAY NOT CARRY A JOB, AND THE BUYER REFUSED BEFORE HE WAS ASKED.**
-
-**AND ON THE TWENTY-NINTH OF DECEMBER FOUR WAYS OF NAMING A BEARER WERE TRIED IN ABOUT HALF AN HOUR AND NONE OF THE FOUR IS THE ANSWER, AND THE OWNER HAS NOT BEEN AT HIS HOUSE IN ABOUT FOUR YEARS AND THREE HOUSEHOLDS ARE THREE COUNTS AND NOT A PERSON AND A MARK MAY NOT CARRY A JOB AND THE BUYER REFUSED BEFORE HE WAS ASKED, AND A LOT WITH NO BEARER IS NOT A LOT.**
+**AND ON THE TWENTY-NINTH OF DECEMBER FOUR WAYS OF NAMING A BEARER WERE TRIED IN ABOUT HALF AN HOUR AND NONE OF THE FOUR IS THE ANSWER, AND A FIGURE A MAN WROTE DOWN WRONGLY IS A FIGURE THAT CAN BE ARGUED WITH IN ABOUT FOUR YEARS, AND A BINDER WHO WRITES FOUR PARTS OF SEVEN ON A PAGE AND FOLDS IT INTO HIS COAT HAS BOUGHT HIMSELF FOUR YEARS OF A STRANGER ASKING HIM WHAT THE FIFTH WAS.**
 
 ---
 
@@ -94,7 +94,7 @@ He said that in a yard and a clerk of nineteen years entered it and a man of fif
 
 The buyer went west on the second day and said he would come back when somebody could tell him who owns it, and a man of fifty-six said that the answer is not a delay and that the answer is that a clerk of nineteen years is right and that the finding is on the page and the page does not need the finding to be comfortable.
 
-A man of about thirty-eight who deals in second-hand paper was in the yard on the second day and was asked, in the five things, whether the fold of paper was a forgery, and he said it was not, and he gave the reason in a sentence, and the sentence is in the minute in his own words and it is twenty-six words, and a clerk of nineteen years counted them once and got twenty-six and did not count them again.
+A man of about thirty-eight who deals in second-hand paper was in the yard on the second day and was asked, in the five things, whether the fold of paper was a forgery, and he said it was not, and he gave the reason in a sentence, and the sentence is in the minute in his own words and it is twenty-nine words, and a clerk of nineteen years counted them once and got twenty-nine and did not count them again.
 
 "**A forgery is a thing made to be wrong. That is a true copy of a real book and it is worse and there is nobody to catch it.**"
 
@@ -106,7 +106,7 @@ A man of fifty-six said that the district's own instrument is a book that works 
 
 Nobody asked the registrar why she holds two lines apart and a clerk of nineteen years entered that nobody asked her and that she was not going to enter a number on it, **and that the refusals to join two things stand at thirteen and her own count stands at twelve and that neither moved on the thirtieth of December, and that the question of what a public office is for was not answered on the thirtieth of December either, and that the name of it is in five places and in no register and that eleven trades could not state what it did in September and could not state it on the thirtieth of December.**
 
-A man of about thirty-four who mends fencing said that the register's standing question is the one the district has been carrying since the eighteenth of December, and said it out loud in the yard, and it is in the minute in his own words, and it is thirty-four words, and a clerk of nineteen years counted them twice and got thirty-four both times and did not say so.
+A man of about thirty-four who mends fencing said that the register's standing question is the one the district has been carrying since the eighteenth of December, and said it out loud in the yard, and it is in the minute in his own words, and it is twenty-eight words, and a clerk of nineteen years counted them twice and got twenty-eight both times and did not say so.
 
 "**What does a district do with a document it cannot certify and cannot argue with, and the answer is that it has to be able to do both.**"
 

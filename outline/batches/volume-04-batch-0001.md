@@ -1,0 +1,246 @@
+# Volume 04 Batch 0001 — Canon Card, *A Price for Tomorrow* (Chapters 151–160)
+
+> **This card was written after the block and not before it. It is the contract for the ten chapters just written and it is the first document a Volume 04 Batch 0002 writer should read after `state/volume-03-roll-summary.md` and `state/volume-04-batch-0001-summary.md`.** Everything in it is taken from the files. **Where the series outline's Volume 04 bullets and the closed canon of Volume 03 disagree, the canon of Volume 03 is the record and the bullets are the shape the volume is moving toward, and every such divergence is named in the batch record's Plan deviations section.**
+
+---
+
+## 1. The position the block inherited and the position it left
+
+**Inherited.** Volume 03 closed at Chapter 150 with a ledger on a trestle table in the yard of Lot Seventeen, a charter of four sheets that cannot be certified and cannot be argued with, a council's board carrying its fourth and last date, a reading ledger with six dates and a rule under the sixth, nine refusals to read and an unspent departure, a guarantee house's ledger with four hundred years in it and a city that is not named, and a question said out loud in nineteen words that nobody answered: *we have four hundred years of it and we cannot name where it was written.*
+
+**Left.** A sheet of four printed things that turns a missed payment into a lost place in a building, a boy of nine in a bearer column, a day that is not on the document, a farm with a sluice and an absent owner, a reservoir at the top of a road with nine holdings and a tenth line that cannot be got out of, a man who has been a security since the ninth year and did not know, a list of four written on a page with two unruled inches at the foot of it, a clerk of nineteen years holding a room together with no date on the board, and **a week instead of a day as the nearest date anybody in the district can name.**
+
+**Not spent, and reserved.** The midpoint reversal, the escalation, the climax, the debt court, the Underwriter's power, the Voss contract's victims challenging it, and the next question about the vanished city's lease renewal and its leaseholder. **None of them is in these ten chapters and none of them is foreshadowed by a mechanism.**
+
+---
+
+## 2. The calendar, derived and never carried
+
+- **The train arrived on the eleventh of February.** Seventeen days remain in February after the eleventh, then 31 + 30 + 31 + 30 + 31 + 31 = 184 to the thirty-first of August, **which is two hundred and one**; September adds thirty, October thirty-one, November thirty, December thirty-one. **The thirty-first of December is three hundred and twenty-three and the first of January is three hundred and twenty-four. Derive every day-count from the eleventh of February and never carry one forward.**
+- **The last day this block reaches is the twelfth of January, on which the train on the siding had stood three hundred and thirty-five days.**
+- **The month turned once, in Chapter 155, on the first of January, and the new year is the eighteenth after the Long Fracture. The new month is January; the month before the turn is December; the month before last is November.**
+- **Volume 04 dates so far: 151** the twenty-fourth of December; **152** the twenty-fifth and the twenty-sixth; **153** the twenty-seventh and the twenty-eighth; **154** the twenty-ninth and the thirtieth; **155** the thirty-first of December and the first of January; **156** the second and the third of January; **157** the fourth of January; **158** the sixth, seventh and eighth; **159** the ninth of January; **160** the tenth and the twelfth. **Derive any figure that depends on a date.**
+- **Every interval figure travels with its end date in the same sentence.** The figures in this block, with their ends: 32 days to the twenty-sixth of December, 34 to the twenty-eighth, 37 to the thirty-first, 38 to the first of January, 41 to the fourth, 45 to the eighth, 49 to the twelfth; **86 days from the fourth of January to the thirty-first of March; 30 days from the twelfth of January to the eleventh of the second month; 78 days from the twelfth of January to the thirty-first of March.** The canon intervals are carried and not re-derived: **123 days is the twenty-eighth of November to the thirty-first of March, 121 days is the thirtieth of November to the thirty-first of March, and 151 days is the first of November to the first of April.**
+- **No weekday is attached to any date and no fifth weekday habit was added.** Four habits survive the whole manuscript and only four: Halloway Reed's printed **Monday**, a haulier's habit the woman at the column describes as *twice a week*, a lamp-man who will not start on a Saturday, and a hypothetical bearer who fails on a Tuesday. **A search for the seven weekday names across Chapters 151 to 160 returns zero.** If a document needs a day of the week, the district does not have a calendar, and the printed timetable already says so on its face and gives the reason.
+- **Narration names the month. No relative month appears inside any quoted block**, and the four phrases *this month*, *last month*, *next month* and *the month before last* return zero inside a quotation. **The three deliberately unresolved expressions in Chapter 71 are not touched and are not guessed at.**
+
+---
+
+## 3. The numbers, closed by this block
+
+### The sheet of four printed things
+
+> **THE UNDERWRITERS OF THE UPLAND GIVE WATER AND SEED BEFORE THE SEASON AND TAKE THE LABOUR OF THE FAMILY AFTER THE SEASON.**
+>
+> **THE FAMILY SHALL NAME ONE PERSON IN THE BEARER COLUMN. THE NAMED PERSON SHALL NOT BE BELOW FIFTEEN AND SHALL NOT BE ASKED.**
+>
+> **IF THE FAMILY SHALL NOT PAY ON THE DAY, THE CLAIM OF THE FAMILY TO ONE PLACE IN THE FLOOD SHELTER AT THE SLUICE PASSES TO THIS HOUSE.**
+>
+> **THIS SHEET IS GIVEN BY THE UNDERWRITERS OF THE UPLAND. IT IS NOT A PROMISER OF A PERSON. THE SEAL IS NOT A NAME.**
+
+- **These four lines are fixed. Do not paraphrase them and do not reprint them verbatim in a later chapter** — Chapter 152 prints them and no later chapter in the block does, which is why the duplication scan does not see them twice.
+- **A fifth sentence is on the copy and not on the sheet: the house shall not ask the named person, and the family shall answer for the named person.** The room noted that it is not one of the four.
+- **A boy of nine is in the bearer column.** The mother is a woman of about forty-four who keeps a Road House on the tide. A man behind a counter two days' walk away filled the column on the twenty-second of December, read the name back, and was not asked why. **The name is in no book in this district, was not written down while she was saying it, and is not to be brought in from a counter and put in a minute.**
+- **The day is the twenty-ninth of December and it is not on the sheet.** It is in a corner of a copy in a hand that is not the mother's, not the counter's and not the house's.
+- **The copy is on one page, is not in a book, is not in the ward market's book and is not in the records office, and is kept by a man of about twenty-three who copies for nothing, who is not paid, who does not own it, and who has said he will keep it and will not be the man whose copy is the record. A copy is the document and the original is a room. A copy a man of about twenty-three keeps is a copy and not a fourth, and the count of documents nobody owns is three and did not move.**
+- **The twenty-ninth of December came and went. The claim did not pass. The only reason it did not pass is that nobody did anything, and a house that has not written to anybody can write tomorrow.** A silence belonging to another party is not a security and is not nothing.
+- **Two findings about the sheet, both of which stand and neither of which is a remedy: a hidden term is a thing a person finds and a term on the face of a sheet is a thing a person was supposed to have known; and a document which says what it does not know is honest and a document which says what it will not say is a door, and a printed gap is the cheapest thing a house can build.**
+
+### The flood shelter at the sluice end of a lane off the lower terrace
+
+- One room, a stove, four shelves, **about sixty at a time in the cold**, and the figure of sixty was said by the keeper, has not been checked, and was not asked to be checked.
+- The keeper is **a man of about fifty-five**. The book has four pages. The fourth has a column headed with the name of a person who is in the building, **about forty names**, and **beside every one of them a space about the width of a finger and nothing in any of them.**
+- **The heading is: THE NAMES OF PERSONS IN THIS BUILDING. A PERSON IS ENTERED ON THE DAY THEY ARRIVE AND NOT ON THE DAY THEY LEAVE. NO LINE ON THIS PAGE IS FOR A MARK BESIDE A NAME.**
+- **He wrote the heading himself in the fourth year, because a page with no heading is a page nobody can be asked about, and it is the only thing on the page he is proud of.**
+- **He calls the column the page. He has kept it nine years. He has never been told what to call it. Nobody has ever put a mark beside a name. Anybody can write on the page and it has been anybody's for nine years.**
+- **He described a bearer column in thirty words on the twenty-fifth of December without knowing he had described one: if a name of mine goes down as a payment, that is a person going out of my door and I am the one who has to look at it.**
+- **He described what a house would send him in a sentence: they would send me a line with a name on it and I would have to put a mark beside the name and there is no line on my page for a mark.**
+- **A place in a building has no price in this district and cannot be sold, because the building does not sell places. That is the whole of the law a man of about thirty-eight who deals in second-hand paper knows about buildings and there is no other one.**
+- **A yard behind a Road House on the tide** is stood in by a carter once a month for nine years without paying, and **the keeper of the Road House asked for it to be entered in a book in this district as not a security, and a clerk of nineteen years entered it in her words and did not ask her why.** The carter is about thirty and has now had it written on the back of the second toll board, and it worked, and **the count of lines is six and did not move and the seventh line at the ninth place is ruled and empty and was not written on.**
+
+### The farm four miles out past the loams
+
+- **A house, a yard, four fields and a sluice of its own, four miles out past the loams where the lane stops being metalled, and the water runs to it for about a mile and a half.**
+- Held of the registry of the western tide. **The person named in the entry is the owner. The address of the person named is given as one house at a crossing. No entry has been made since the entry of the fourth year. Nobody at the yard the buyer buys in has seen anybody at that house in about four years, and the register does not say the man is dead and nobody in this district is going to say it for him. A register is a register and not a mystery.**
+- **A man of about forty-three who buys standing seed-crop and has bought for eleven years out of a yard on the Verge** offered **two thousand four hundred coppers and a cart of meal** for the standing crop and the sluice, and said his buyer is two days' walk away and does not care who owns it. **The figure is in one book and is not in any other, and it is not added to the two thousand coppers or the four hundred coppers or the one thousand six hundred, and there is no rate anywhere in this basin that turns coppers into a year and there never has been.** He went west on the thirtieth of December and said he would come back when somebody could tell him who owns it, **and he has not come back and nobody has sent for him.**
+- **A lot is a thing, a use, a bearer, a toll, a term, a release and a remedy. The fourth of the five parts written out was the thing, the use, the toll and the term. The fifth is the bearer. A lot with no bearer is not a lot, and a thing that is not a lot cannot be sold, cannot be given away and cannot be left to a family.**
+- **Four ways of naming a bearer were tried in about half an hour and none of the four is the answer: the owner, the three households who work the farm, a mark, and the buyer.** The three households are three counts and not a person. **A mark may not carry a job and a field is a job, and the line of stones is not a mark, and this rule is not retired and the boundary was built around it and not in defiance of it.** The buyer refused before he was asked: a man who is going to be given a thing is not the man the thing is given to, and if he were the bearer he would be paying himself.
+- **The page with four parts on it is in the man the figure of twenty-one years is against's coat and is not in any book in this district. The four parts are correct and the fifth is absent.**
+- **Three households work the farm and none of them owns it. One said nobody had told them it was for sale; one said a man who is not a household and sells salt by the load had been through the yard on the Verge and asked what the rent was.**
+- **Tarin Kest said a buyer two days' walk away does not want a farm and wants a sluice, and that a sluice is the only piece of the water in this district that can be moved a mile, and that a man who buys a farm for a sluice is a man who will sell the farm without the sluice and keep the sluice.** He also said the water at the farm comes up to the second field in the fourth month and stays there about eleven days and that he has put a plank down at the crossing four times in four years and taken it up three. **Those figures are a route keeper's figures about water and are not entered as findings, and the eleven days is not added to the about nine days a bed of brine takes to go back into the water.**
+- **A man of about thirty-eight who deals in second-hand paper was asked, in the five things, whether the fold of paper was a forgery, and said it was not, and gave the reason in twenty-nine words: a forgery is a thing made to be wrong, that is a true copy of a real book and it is worse and there is nobody to catch it.**
+
+### The second reservoir, the rota and the tenth line
+
+- **A mile and a bit long, full to a mark painted on a stone at the near end, and the mark is a foot below the top of the stone. The stone has a second mark nine inches above the first, from the flood year, and nobody has cut it off.** A man who cuts a mark off a stone is a man who says the water will not come that high again, and Tarin Kest is not the man who will say it.
+- **The delivery sheet, on a nail in a shed:**
+
+> **DELIVERIES FROM THE SECOND RESERVOIR. THE COLUMN HEADED HOLDING IS THE PLACE THE WATER GOES TO. THE COLUMN HEADED HAND IS THE PERSON WHO SIGNS FOR IT. THE PERSON WHO SIGNS FOR IT IS NOT ASKED WHAT IT IS FOR. THE DELIVERY IS MADE IN THE FIRST WEEK OF A NAMED MONTH AND NOT ON A NAMED DAY.**
+
+- **The sheet has nine holdings and a tenth line under the ninth. The tenth line has no holding on it and has a figure against it. It is the house's own. The house's own is not a holding and is not asked for and is not given up, and it is the only line on the page that cannot be got out of.** The man of about thirty who keeps the book said the house does not have months, and said the second half before he was asked, and gave no reason.
+- **The fourth of the nine holdings is the farm four miles out past the loams, and the shelter at the sluice is fed off it. When the fourth holding stops taking, the tank stops filling. A shelter which is fed by another party's column is a shelter with a bearer, and nobody in this district has ever written down who bears a shelter. This is a finding and it is not a resolution.**
+- **The hand column in the delivery book is filled in a different hand from the holding column and the keeper had not noticed and has four years of it in front of him.**
+- **The keeper is a man of about thirty who has kept the delivery book of the Underwriters of the Upland for four years.** He was not asked anything and asked them what they wanted. He said nobody had come up that road to see a delivery in four years and that he was not asked whether he minded and that he did not mind. **He refused in four seconds to let the four sentences be copied and gave as the reason that a copy of that is a piece of paper with no house on it. He is a clerk of a house and not a friend of this district.**
+- **There are about four houses in this basin that put a sheet in front of a family. His house writes the four lines on the face of every one of them. The people who come to his counter with a hurt are nearly always holding one of the other three, and he said the last part before he was asked and gave no reason.** The finding of the twenty-fifth of December holds and is worse and **is not repaired by anything anybody said on a road.**
+- **A sheet is nailed in a painted window frame at every house, and the frame is painted round the sheet so that the sheet cannot be taken out without it being noticed, and this is not a law and is done because a man who has been given a thing by a house in bad weather is not going to hand it back.**
+- **The refusals the house records are about nine a year and the house has four hundred years of them, and the four hundred years are not in this basin and he was not going to be asked where they are and was asked once and refused once. The two occasions are not joined.**
+- **The book and the sheet belong to the house and there is no copy of either. A man of about twenty-three in this district has a rule that a copy is the document and the original is a room, and the man at the counter has the other half of it, and the two halves are not joined.**
+- **A rota is a list of places and a ledger of a house is a list of people, and joining them would be the man the figure of twenty-one years is against deciding a thing he is the wrong person to decide. He said no in four seconds, on a bank, out loud.** Tarin Kest put the rota beside the guarantee house's ledger and refused the join, and said the two are not the same and he was not going to say they are and would not have said it in the shed.
+- **The nearest delivery is the first week of the second month. The district's next date is a week and not a day, and a claim on a place in a building cannot be worked out in a week.**
+- **Selik Marne was not asked to go, was not on the sheet, and did not meet the woman whose name is in no register in the west bank.**
+
+### The five posted securities and the page
+
+- **None of the five is a sum. In the order they were given: a day a week and three bound copies of the public lot book, given to the ward market in the second year and readable by a stranger who asks, and which nobody has ever read; a covered bay at Lot Seventeen for the four hours a closing takes, given in the fourth year; first refusal on a pitch at the ward market, given in the sixth year; a dray and its two shafts, given in the ninth year and sold in the fourteenth, and the paper says the security was discharged on the sale and the man who bought the dray does not know and was not told; and a man of about thirty-one who mends a dray at a forge end off Salt Row, given in the ninth year for a season's cartage, alive, in the yard twice a week, and never told.**
+- **A security is a thing a stranger can go and look at, and the sentence has been in the ward market's own book since the eighth of March.** It is true of a district and not of a man, and nobody in the room can find the man it is not true of.
+- **The list is not written. Four of the five are on a page in the ward market's own book, with a heading, written by the registrar of this district's records office, and nobody gave the page a name. About two inches at the foot of it are empty and are not a line and were not ruled, and a clerk of nineteen years was asked to rule them and said no in four seconds: a line somebody rules is a line somebody expects to be filled in, and this one is not expecting anybody.**
+- **A page with a heading and nothing against the heading is a shape this district already has one of, and the one it has got is a hundred and eighty-three coppers. The two figures are not added, there is no rate in this basin that turns one into the other, and two pages in one book with nothing against the heading are two pages and are not a column and are not a pattern.**
+- **A man who posts a person has posted a person, and nothing in this district can be got back off a figure by the person the figure is on. The twenty-one years standing against the man the figure of twenty-one years is against's own name is a figure of the same kind as a man who has been a security since the ninth year, and the two are not the same and are not joined.**
+- **A discharged security is only discharged if somebody received it, and nobody in this district can say who received the payment on the sale of the dray. The receipt went into the world with a dray and two shafts and a man who mends wheels for a living.** The man of about thirty-one asked what stopped him being one and who took it, and **nobody answered him.**
+- **A man cannot be posted without being written where a stranger can read him, and the district's own sentence cannot be satisfied about a man without doing to him what a woman refused for her own son. The woman of about forty-four who keeps a Road House on the tide said it in a room and was not argued with, and the collision is not resolved.**
+
+### The board, the room and the bucket
+
+- **The board's four dates are the twenty-eighth of September, the twenty-sixth of October, the twenty-fourth of November and the twenty-fourth of December. Three are in a hand that cannot be read, written by a woman of about thirty-three who takes in washing at the second channel. The fourth is in a hand anybody can read and was written by a man of fifty-six who was not asked to.**
+- **Nobody wrote a fifth. The fourth was spent in the morning of the twenty-fourth of December. The board was not washed and a man of about thirty-four who mends fencing said to leave it up. It carried a spent date for seven days. The room met on the thirty-first of December and on the ninth of January with no instrument at all, and the finding is that a day with no instrument on it is a day a person has to come and find out about.**
+- **A room with nothing that says when it meets is a room that has ended, and a room whose only instrument runs out on a date is a room a clerk can end, and a clerk saying she is not going to is a person and not a rule. A rule a man says out loud against his own advantage in a room is not a rule and is not written down and he would not have it written down, and this is now also true of a reason he gives out loud in a yard.**
+- **The man the figure of twenty-one years is against said twenty-five words that when this date is spent the room has nothing that says when it meets, and twenty-three words that he does not know what this room is, and nobody answered him. A question which is not answered is not a question that has been put into a column, and there is no column for it and none was made.**
+- **Four dates on a bucket, in a woman of fifty-eight's own words: the first of the second month, which is the day the water comes to the sluice; the sixteenth of the second month, which is the day the seed is due at the Road House on the tide; the twenty-fourth of the third month, which is a rent day nobody has ever put on a board; and the last day of the third month, which is the day the west end of the Needle went under nine feet.** She said the nearest of the four is a week and not a day and that she cannot tell anybody which day in it, and that a plank has four dates on it and a bucket has four dates on it and one of them is nearer.
+- **Three pages in this district and not one of them is about water: a page of six columns and eleven rows on a board of eleven in a yard, about a year; a page in the ward market's own book with four entries on it, about a man; and a page with four pages in it and about forty names on the fourth and no line for a mark, about a building.**
+- **The register's standing question, said out loud twice and answered neither time: what does a district do with a document it cannot certify and cannot argue with, and the answer is that it has to be able to do both.** A charter of four sheets and a register of a municipal registry are both such documents, and the difference between them is that this district can close one of them in a room with nineteen people in it and cannot do that to the other in four months. **A document a district can close is not the same as a document a district can argue with.**
+
+---
+
+## 4. The System panel spent by this block, and the power not granted
+
+- **One System panel in the block, in Chapter 156, arriving in the yard at about eleven in the morning unasked, and it is a rule and a choice and not a resolution.** It repeats none of the five panels in Chapters 103, 116, 125, 137 and 145, and **no panel may appear in Chapters 161 to 170 without that check being made and said.**
+
+> **A SECURITY IS A THING A STRANGER CAN GO AND LOOK AT. IF NOBODY CAN GO AND LOOK AT IT, IT IS NOT A SECURITY AND IT IS ALSO NOT NOTHING.**
+>
+> **A LIST OF SECURITIES IS ITSELF A SECURITY. A DISTRICT THAT HAS NEVER WRITTEN THE LIST HAS NEVER HAD ITS SECURITIES IN WRITING.**
+>
+> **A CHILD MAY BE NAMED ON A SHEET. A CHILD MAY NOT HOLD A CLAIM, AND A SHEET THAT NAMES A CHILD IS A CLAIM ON THE HOUSE AND NOT A BEARER COLUMN.**
+>
+> **NO PERSON MAY BE ASKED TO CONSENT IN ADVANCE OF THE SEASON THE CONSENT IS FOR. A PROMISE TO GIVE SOMEBODY SOMETHING LATER IS NOT A CONSENT, AND A PERSON WHO HAS GIVEN ONE HAS NOT ANSWERED ANYTHING.**
+>
+> **A DISTRICT THAT POSTS A THING NOBODY CAN INSPECT IS RUNNING A LOT AND NOT HOLDING A SECURITY, AND THE ONLY REMEDY FOR A THING THAT CANNOT BE INSPECTED IS TO TAKE IT DOWN.**
+
+- **Underwriter is not begun in this district and the reason is entered and the reason is not a delay: a man who cannot list what he has posted cannot pool a single toll.** A power change has to be earned through a cost and this block has not paid one. **Nothing in Chapters 151 to 160 is a screen for the power.**
+- **Adrian did not, in this block, maintain a public lot, coordinate more than one bearer, arrange a dispute hearing, or make the consequences of an object visible to a whole settlement.** He could not close a transfer because the transfer had no named holder — **the farm with the absent owner is still unsold — and he could not make the figure of years a priority for anybody.**
+- **The echo of an origin toll is not reached for. The iron is not touched, read or referred to.** The Last Fare is not touched, read or referred to.
+- **A year is not an asset, is not a security, and nobody can post one against it; a year and a half is not a figure; twenty-one years is not a price and four hundred years is not a total; two floors are not a sum; and there is no rate in this basin that turns one year into coppers and there never has been.**
+- **Binding cannot create consent; a certificate is not consent; a mark is not a person; a signature from two days' walk away is a signature and not a person who was in the room.** A right to withdraw is not a consent and not a release. **A person who has not been asked has not refused and cannot be counted either way, and the record must say *not asked*.**
+- **An address is not a bearer, a holder, a witness, a responsible party, or a person who was asked, and a name put on a figure cannot be taken off it by the person it is put on.**
+
+---
+
+## 5. The counts that did not move, and the counts a later batch may not move either
+
+| Count | Figure | Where it is entered |
+|---|---|---|
+| Things this district does not have | **5** — a way of saying what a toll lands on a place, a column that is a place, an office, a station with nobody at it, a way to pay a person who is not in a household | Chapters 154, 157, 160. **A bearer, a nail, a line and a standing instruction are not one of the five.** |
+| Instruments built and not named | **6** — a rehearsal, a platform, a rail, a correction, a question, a security | Chapters 154, 158, 160. **A sluice bought with a farm in it is a seventh and was refused entry. A page, a sheet, a nail and a book in a shed are not a seventh.** |
+| Documents nobody owns | **3** | Chapters 153, 157. **A copy a man of about twenty-three keeps is a copy and not a fourth.** |
+| Protected things | **5** — a passage twice, a loss once, a failure of a remedy once, a refusal to be asked again once | Chapter 155 and Chapter 160. **No sixth was added. The category is not a bucket and is not a column.** |
+| Conditions with no end on it | **4** | Chapter 155. **A different class of thing. Never entered in the protected tally.** |
+| Boards / lines full | **5 / 6**, and the seventh line at the ninth place is ruled and empty | Chapters 151, 155, 160. **Nobody wrote on a board in Chapters 157 to 160.** The last use in anger was the carter's on the thirty-first of December. |
+| Count of uses of a board | **7 in about five weeks**, the last by the woman of fifty who is the water at the ninth place | Chapter 155. **It is not a rate and a column is a thing a person is paid for and she is not paid.** |
+| Refusals to read | **9**; the departure unspent; no date in the ledger for the next reading | Chapters 151 to 160. **Six askings carry a minute-figure and no seventh was asked in this block.** |
+| The six askings that carry a minute-figure | **51, 39, 44, 31, 26, 44 = 235 minutes** | Carried, not re-derived. **The term runs from the twenty-ninth of September to the thirty-first of March.** |
+| Refusals to join two things / the registrar's own count | **13 / 12** | **Neither moved on the fourth, seventh, ninth, tenth or twelfth of January.** |
+| Unentered days since the twenty-fourth of November | **32, 34, 37, 38, 41, 45, 49** by the day named | Chapters 152, 153, 155, 157, 158, 160. **A count of days and not a column. The days are not added to the askings and the askings are not added to the days.** |
+| Askings in a room vs at a counter | **2** — this one and the ninth household in December | Chapter 153. **The two are not joined and neither is a column.** |
+| Not-askings about the woman of forty-five | **4 with one standing refusal** | Carried, unmoved. **Not to be asked for a third time. She is not a name in the book.** |
+| Entries with a finding in them since the eighteenth of December | **2 on the twenty-fourth of December, 3 on the thirty-first** | Chapters 151 and 155. **Chapters 156 to 160 do not quote a later total, because the checkpoint's totals do not reconcile across Chapters 152, 153 and 155; a later batch that needs the figure should derive it or leave it out.** |
+| The second half said before being asked | **does not reconcile** — 4 on the twenty-fifth, 5 on the twenty-seventh, 6 on the twenty-ninth, 5 on the second of January | **Not used in Chapters 157 to 160. Chapter 157 has a clerk enter that the count stood where it stood on the twenty-ninth and has not been looked at since. Reconciling or striking the ordinal is a review decision and not a writer's.** |
+| The four near-identical figures at the west end | **five, kept apart** | Carried. **Give a new figure a trade, a doorway or a stall in the same paragraph and never let a pronoun carry the identification alone.** |
+
+---
+
+## 6. Figures and trades, for the writer who has to name them in the same paragraph every time
+
+- **The man the figure of twenty-one years is against** — Adrian. A Binder, named a steward on the nineteenth of October by nine households and not by himself, and the promotion is not finished and the reason is entered and is not a delay. **Never named by his given name in the prose; the register uses an epithet and so must a later chapter.**
+- **The registrar of this district's records office** — Mara Quill, thirty-four. **Not promoted to a keeper of anything.** A reader is a person who can be held to and she has known that since the sixth of December.
+- **A man of fifty-six** who does count for a living, reads out, and entered as not speaking for a room a clerk's refusal to write a date. He said out loud once why he stops walking and refused to have it written down.
+- **A woman of about thirty-three who takes in washing at the second channel** — writes the board dates in a hand that cannot be read and is not a clerk of anything.
+- **A man of about thirty-four who mends fencing** — asks the questions in yards.
+- **A man of about thirty-four who digs loam and does nine days of it in ten** — came back on the twelfth of January; in none of the counts.
+- **A man of about nineteen who walked in from the road** — counts the words, is entered as not speaking for a room four times, **was asked for the first time in this block, and is nobody's keeper and is not to be turned into one.**
+- **A man of fifty-eight who carries water and does not read figures** — the bucket. Carries to about ninety houses; the figure was said by her and has not been checked.
+- **A woman of about fifty who is the water at the ninth place** — **is not to be asked twice** about the first of the four posted securities.
+- **A man of seventeen** — keeps the index with the train's day-count and the rule under the sixth. **Unpaid, unasked, nobody's keeper. Nobody is to use that rule up on somebody else's account.**
+- **A clerk of nineteen years** — Lot 17's clerk, the entry, the not-asking, the unruled line, and the refusal to write a fifth date. **A clerk is a person and not a rule.**
+- **A woman of about forty-four who keeps a Road House on the tide** — the sheet, a boy of nine, a yard entered as not a security, a carter of about thirty.
+- **A man of about thirty-one who mends a dray at a forge end off Salt Row** — the fifth of the five. **In no count of any kind.**
+- **A man of about thirty who keeps the delivery book of the Underwriters of the Upland** — the rota, the tenth line, four houses, about nine refusals a year. **A clerk of a house and not a friend.**
+- **A man of about fifty-five who keeps the flood shelter at the sluice end of a lane off the lower terrace** — the page, about forty names, about forty spaces, sixty at a time in the cold.
+- **A man of about thirty-eight who deals in second-hand paper** — the receipt, the list, the mark on a dray.
+- **A man of about thirty-seven who sells salt by the load out of a yard on the Verge** — **not a household, in a story twice without being in a room, a third thing with the sixteen rows, and the two are not joined.**
+- **A man of about forty-three who buys standing seed-crop** — two thousand four hundred coppers and a cart of meal; went west; has not come back.
+- **A man of about thirty-six who keeps a scale at the sluice end of the loams and has stood at it nine years**; **a man of about forty-one who drives a salt cart and has done the thirty-four miles eleven times this year**; **a man of about forty-eight who keeps a tally for six households at the sluice end of the loams**; **a woman of about twenty-six who is at the fourth place**; **a cordwainer of about forty-eight in a doorway at the west end of Alder Reach**; **Pell Anselm the chandler about thirty-four**; **the trader of fifty-one on the lower terrace**; **Sef Anyard fifty-one who keeps the only pair**. **All carried from Volume 03 and all still apart.**
+
+---
+
+## 7. Guardrails for Volume 04 Batch 0002
+
+**Do not name Sarrow Water on a document.** The name exists in this district's working speech and the documents say the ninth place.
+
+**Do not find or explain the office.** It is in five places and no register, eleven trades could not state its function, four answers were not joined, four gaps are not one, four documents mention no office, one sentence is in the column for things that are not findings, the question is in a public book dated the fifth of July, the district's strongest instrument is a book that works if a person comes to the yard, and two valid certificates in a drawer thirty-four miles away say opposite things about the same sheet. **The refusals to join two things stand at thirteen and the registrar's own count stands at twelve, and the block may go near the office and must refuse, and nobody is to ask her why she holds two lines apart in order to get an answer to the office.**
+
+**Do not join** the two lines, the two impressions, the four lines of the broken circle, the signal's memory pattern, the four gaps, the sentence in the column for things that are not findings, the nineteen lines, the pan that cannot report itself, the place that cannot report itself, the sills of the failed channel, the agent's ledger, the four hundred coppers, the mark on the iron, **the fourth column of the guarantee house's ledger to the third, the withdrawal notice to the ledger, the fraction to the fifth of the five instruments, the six sheets of the food agreement to the four sheets of the charter, the twenty-one years to the four hundred years, the twenty rows to the eleventh row, the market stalls on the lower terrace to the line's stalls, or the rota's tenth line to the sixteen unnamed rows of a guarantee house's ledger.** Tarin Kest put the rota and the sixteen rows side by side on a bank in Chapter 158 and refused the join out loud; **a later batch may notice the resemblance again and must refuse it the same way.**
+
+**Do not let the stalls become a new unexplained mystery, and do not re-stage the first channel's failure.**
+
+**Do not resolve:** the romance, Iven's identity, the blank lot's function, the origin of the Common Measure, the office, the three unexplained things of Volume 01, the name of the city on the agent's ledger, the name of the agent in any register of the west bank, **and the next question — the vanished city's lease renewal and its leaseholder.**
+
+**Selik is a wary ally and not a friend.** His span is still shut, his office is answered and lost, he says *that is not enough* on published days, nobody believes he will stop and he does not stop. **He is not to be put on a bank's asking, and the agent does not meet him, unless somebody asks him.**
+
+**The woman of forty-five is not a name in the book and must not become one.** She was asked in March and in the middle of June and said no twice. **She is not to be asked for a third time, and the count of not-askings about her does not go to five because somebody was asleep.**
+
+**The protected category is not a bucket, and the count is closed at five. Do not add a sixth.** The four conditions with no end on it are a different class of thing and must never be entered in that tally. **No new one was added in this batch and the fourth of the council's four things is an ordinary consequence of a toll and is not one; do not add one unless the chapter earns it, and if you do, say so in the summary.**
+
+**A mark may not carry a job, and the boundary was built around that rule and not in defiance of it.** The guild form's request for a thirtieth column is refused on this ground and the refusal is a rule and not a defeat. **The line of stones is not a mark, because a mark is cut and that is laid. The hole in the west end is not a mark and is not a mark today either, and the standing test case is not extended.**
+
+**The fifth instrument — a way of saying that a toll lands on a place — is still unnamed and unowned.** **Mind the two counts: five is the number of instruments this district DOES NOT HAVE, and the toll is the fifth of those five; six is the number of instruments it has BUILT and not named; and three are documents nobody owns, which belong to neither list. They are not the same list, and a board is not an instrument, and adding a line to a board does not change any of the three counts, and the memory ledger, the withdrawal notice and the charter belong to neither list.**
+
+**No metric and no twenty-four-hour clock.** Feet, inches, yards, miles and quarters, pounds and ounces, degrees, coppers, pints, and the twelve-hour clock.
+
+**A not-asking ordinal is a column, and only two people have columns** — the registrar, whose series is complete on the page at the seventh, the eighth and the ninth, and the count of a clerk of nineteen years being asked nothing, which runs eighth, ninth and tenth. **The two series are not added and their ordinals are not interchangeable. If a subject has no column of its own, do not give it a number. If you want to start a column, say in the prose that a new column was made and who is keeping it.** The dray man, the Road House woman, the man of about thirty at the Upland, the carter, the loam-digger, the man of about thirty-four who mends fencing and the man of fifty-eight who carries water all carry a not-asking as a fact with no number on it, and the man of fifty-eight is **not to be asked again about her own not-asking**.
+
+**Quoted panels are flat and always closed.** A panel is a run of `> **` paragraphs separated by a bare `>` line, exactly as Volumes 01 and 02 use it. **The `> >` count is zero in all four volumes and is to stay zero.** Emphasis opens and closes at a paragraph edge and never inside a word group, and **no figure may be split across a marker.** Every paragraph holds an even number of the bold markers.
+
+**Every other blockquote in these chapters is a page in a public book, a clause read off a board, a toll board, a rate sheet, a printed timetable, an inspection certificate, a minute, a market minute with a count in it, a security schedule, a register's own column heading, a guild certificate, a ledger page, a charter's terms, a withdrawal notice, a food agreement, a bill of sale, a lease, a term sheet, or a quotation somebody says out loud — and the register distinguishes them by their framing, not by typography.** Do not use real software terms.
+
+**A word count stated in the prose is checkable, and every figure of the form *N words* must be true of the sentence it describes, or the sentence must be printed, or the figure must go.** The counting convention this block uses is a hyphenated numeral as one token. **Sweep before you save.** The one figure left alone in this batch is Ivo Stenn's separate sheet, **which is called nineteen words and is twenty as printed, and both figures are canon and both are entered in the text.**
+
+**The all-caps documentary restatement, the flat quoted panels and every entered count are the record and not the voice and are not to be cut.** What is to be varied is the narration around them. Aim for **four to five wholly-bold paragraphs a chapter**, **35 to 50 per cent emphasis by the split method**, **3,800 to 4,600 words a chapter**, and **no narration paragraph over a hundred and thirty words.** **Every chapter must open on something other than a bolded header, and a wholly-bold header must never sit immediately against another wholly-bold header.**
+
+**Length is reached by adding scenes and not by adding sentences to scenes that are finished.**
+
+---
+
+## 8. What Batch 0002 owes the batch after it
+
+- **The first week of the second month, and the eleventh of the second month, which is a day a man at a counter has never named and on which the train came.** The water is a mile and a bit long at the top of a road and this district cannot see it. **The fourth holding that feeds the shelter at the sluice is a farm whose legal owner is absent, and nobody in this district has ever written down who bears a shelter.**
+- **The twenty-ninth of December happened and nothing was done, and the room has not decided what a district does about a thing that is safe only because another party has not acted.** A house can write tomorrow. **The boy of nine's name is still in one place and it is a column in a book two days' walk away.**
+- **The fifth of five.** A man has been told, has asked one question, and has not been answered about who took it. The list is not written. The four entries are on a page and the reason is not on the page, and the two inches at the foot are not a line and were not ruled.
+- **The man the figure of twenty-one years is against goes east on the fifteenth of January.** The fourth line of the offer is still not read out loud and the woman whose name is in no register in the west bank is thirty-four miles away.
+- **The woman of about forty-four who keeps a Road House on the tide has a sheet in a pocket, a boy in a column, a yard entered as not a security, and a refusal she would like kept.**
+- **The board has four dates and no fifth, the room has met twice with no instrument, and a clerk of nineteen years is holding a room together by herself and has refused to have the rest of it written down.**
+- **The office: five places, no register, and neither refusal count moved.**
+
+---
+
+## 9. The repairs this phase made to the checkpointed block, for a reviewer to check
+
+All of these are checkable against the files. **No Volume 02 or Volume 03 chapter was touched, and no plot, scene or beat was moved.**
+
+1. **Thirty-four of the thirty-six word-count figures attached to a printed sentence arrived false** and were corrected in the prose, with the *got N* and *N both times* echoes corrected with them, **and with three wholly-bold restatements that quoted a corrected figure.** Forty-two attached claims now reproduce and none fails. Two claims are back-references to a sentence printed earlier in the same file and were verified by hand: thirty in Chapter 152, twenty-five in Chapter 159. **Ivo Stenn's sheet is left alone as disclosed canon.**
+2. **One unattached figure was removed** from Chapter 153 rather than left unattached.
+3. **Two meta-language instances repaired** — Chapter 151 and Chapter 157. **One weekday repaired** — Chapter 156. **One weekday caught in this session's own draft of Chapter 158** and repaired before saving.
+4. **Chapter 151's derivation of the train's day-count had been carried over verbatim from Chapter 150** and was rewritten as two separate readings with the same arithmetic, so that the repo-wide duplication scan returns six groups and not seven. **Chapter 150 is in a closed volume and was not touched.**
+5. **A duplicated pair of paragraphs in Chapter 159, under the twenty-five-word threshold and visible only at fifteen words, was deleted** and the fact of the unruled space folded into the surviving paragraph.
+6. **Two adjacent wholly-bold headers repaired** — Chapter 154's pair and Chapter 159's.
+7. **Eleven narration paragraphs over a hundred and thirty words broken at the last clean conjunction**, leaving paragraph breaks and not rewrites. The longest is now one hundred and twenty-seven words, in Chapter 156.
+8. **The count of the second half said before being asked does not reconcile in the checkpoint and was not repaired.** It is disclosed in section 5 above and in the batch record, the ordinal is not used in Chapters 157 to 160, and a clerk is made to say the count has not been looked at since the twenty-ninth of December. **A review should either reconcile the four figures or strike the ordinal.**
+9. **The count of entries with a finding in them since the eighteenth of December does not reconcile across the checkpoint either** — two on the twenty-fourth of December, three on the thirty-first, and Chapters 152 and 153 both name a finding in between. **Chapters 156 to 160 therefore quote no total**, and section 5 says so and says what a later batch should do about it.

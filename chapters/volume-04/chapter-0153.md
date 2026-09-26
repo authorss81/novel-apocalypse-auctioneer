@@ -4,7 +4,7 @@
 
 A man of about twenty-three who sells nothing and copies for nothing copied the four printed things onto a page in the yard of Lot Seventeen on the twenty-seventh of December, and the original was in a pocket on the tide and did not come up the bank again that week.
 
-He said yes in four seconds and said the second half before he was asked for it, and a clerk of nineteen years entered both, and that he will keep it and will not be the man whose copies are the record, and that a copy is the document and the original is a room, and that the man who wrote those ten words in November is in this yard and has not said them again and does not need to.
+He said yes in four seconds and said the second half before he was asked for it, and a clerk of nineteen years entered both, and that he will keep it and will not be the man whose copies are the record, and that a copy is the document and the original is a room, and that the man who wrote that sentence in November is in this yard and has not said it again and does not need to.
 
 **A clerk of nineteen years entered that the copy is on one page and is not in a book and is not in the ward market's book and is not in the records office, and that the count of documents nobody owns is three and did not move, and that a copy a man of about twenty-three keeps is a copy and not a fourth.**
 
@@ -32,7 +32,7 @@ A woman of about thirty-three who takes in washing at the second channel said th
 
 Nobody took it up and a man of fifty-six said that a printed gap is cheaper than a hidden clause, and that this sheet has no hidden clause and that the room has been praising it for that for two days, **and that a sheet with a gap in it is more dangerous than a sheet with a clause in it, because a clause can be argued with and a gap can only be filled in by whoever fills it in first.**
 
-A man of fifty-six said the other half and it is in the minute in his own words, and it is twenty-eight words, and a clerk of nineteen years counted them once and got twenty-eight and did not count them again.
+A man of fifty-six said the other half and it is in the minute in his own words, and it is thirty-four words, and a clerk of nineteen years counted them once and got thirty-four and did not count them again.
 
 "**A document says what it does not know and that is honest. A document says what it will not say and that is a door, and a door is a thing you wait beside.**"
 
@@ -62,7 +62,7 @@ A clerk of nineteen years entered that the two books are not joined and that the
 
 Nobody took it up for about nine seconds. Then a man of fifty-six said that the finding of the twenty-seventh of December is that a name in a bearer column looks exactly like a claim, and that the only thing standing between a family's boy and a row in a book a stranger can buy is a person asking the question in a room, and that this district has been doing that for eleven weeks and has not once done it for a family that came in with a sheet.
 
-A woman of about forty-four who keeps a Road House on the tide was not in the yard and was sent for and came at about half past four, and a clerk of nineteen years entered that she was sent for by a man of fifty-six and not by the man the figure of twenty-one years is against, and that the reason is in the minute in his own words, and that it is nineteen words.
+A woman of about forty-four who keeps a Road House on the tide was not in the yard and was sent for and came at about half past four, and a clerk of nineteen years entered that she was sent for by a man of fifty-six and not by the man the figure of twenty-one years is against, and that the reason is in the minute in his own words, and that it is twenty-seven words.
 
 "**We want to ask you one thing and we want to ask it once, and we would rather do it in a room than at a counter.**"
 
@@ -94,7 +94,7 @@ The man the figure of twenty-one years is against asked her, in the five things,
 
 "**So that a person can come and look at it. That is the whole of the reason and it is the reason this district has used since the eighth of March.**"
 
-She said no in four seconds. A clerk of nineteen years entered that she said no in four seconds and was not asked for a reason, and that she gave one anyway, and that it is in the minute in her own words, and that it is twenty-three words, and that a man of about nineteen who walked in from the road counted them and got twenty-three and said it out loud.
+She said no in four seconds. A clerk of nineteen years entered that she said no in four seconds and was not asked for a reason, and that she gave one anyway, and that it is in the minute in her own words, and that it is twenty-five words, and that a man of about nineteen who walked in from the road counted them and got twenty-five and said it out loud.
 
 "**You would read his name out in a market every morning for a month and I would be the woman whose boy was read out.**"
 

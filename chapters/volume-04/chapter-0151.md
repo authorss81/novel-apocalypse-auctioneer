@@ -16,7 +16,7 @@ Then the question, and the man who mends fencing put it, and it is in the minute
 
 A clerk of nineteen years counted the words in that sentence once and got twenty-five and did not count them again, **and entered that she did not count them again because a man of about nineteen who walked in from the road told her on the first of November not to, and that the not-asking is entered and the count is where it was.**
 
-Nobody took it up for about nine seconds. Then a woman of about thirty-three who takes in washing at the second channel said the other half, and it is nineteen words, and a clerk of nineteen years counted them once and got nineteen and a man of about nineteen who walked in from the road counted them and got nineteen and said it out loud and then said it again.
+Nobody took it up for about nine seconds. Then a woman of about thirty-three who takes in washing at the second channel said the other half, and it is twenty-one words, and a clerk of nineteen years counted them once and got twenty-one and a man of about nineteen who walked in from the road counted them and got twenty-one and said it out loud and then said it again.
 
 "**A board is a place a line of chalk goes and a wash is a thing that has to be done.**"
 
@@ -42,7 +42,7 @@ A man of fifty-six said that a document which cannot be argued with is not a def
 
 A man of about thirty-four who mends fencing said that a rule a man says out loud against his own advantage in a room is not a rule and is not written down, the clerk of nineteen years did not write it down, and a rule a man says against his own advantage in a room is not written down and he would not have it written down, and the room is therefore a room that a person is holding together.
 
-Then he said the other half, and it is in the minute in his own words, and it is twenty-two words, and a clerk of nineteen years counted them twice and got twenty-two both times and did not say so.
+Then he said the other half, and it is in the minute in his own words, and it is twenty-three words, and a clerk of nineteen years counted them twice and got twenty-three both times and did not say so.
 
 "**A room held together by one person lasts exactly as long as that person, and I do not know how long that is.**"
 
@@ -84,7 +84,7 @@ Nobody asked her why she said it, and a clerk of nineteen years entered that she
 
 A woman of fifty-eight who carries water and does not read figures came to the yard at about one in the afternoon and was not asked for anything. A clerk of nineteen years entered that she was not asked and that the not-asking is entered and the count is where it was, and that she carries water to about ninety houses and that the figure of ninety was said by her and has not been checked and was not asked to be checked.
 
-She said one thing and it went into the minute in her own words, and it is twenty-four words, and a man of about nineteen who walked in from the road counted them and got twenty-four and a clerk of nineteen years did not count them and said so and he said count them anyway and she did and got twenty-four both times.
+She said one thing and it went into the minute in her own words, and it is twenty-one words, and a man of about nineteen who walked in from the road counted them and got twenty-one and a clerk of nineteen years did not count them and said so and he said count them anyway and she did and got twenty-one both times.
 
 "**You have four dates on a plank and I have four dates on a bucket and one of them is nearer.**"
 
@@ -98,9 +98,11 @@ The woman of about thirty-three who takes in washing said the other half, and a 
 
 The train on the siding had stood three hundred and sixteen days on the twenty-fourth of December, and a man of seventeen wrote the figure in an index in a hand that is not a clerk's hand, and the sum was put under the figure out loud at about two in the afternoon in the yard, and the sum is from the eleventh of February and is not carried forward out of any book.
 
-"**Seventeen days left in February after the eleventh, then one hundred and eighty-four to the thirty-first of August, which is two hundred and one. Thirty for September, thirty-one for October, thirty for November, thirty-one for December.**"
+"**Off the eleventh of February: seventeen days left in the month, then thirty-one and thirty and thirty-one and thirty and thirty-one and thirty-one, which is one hundred and eighty-four, and seventeen and one hundred and eighty-four is two hundred and one.**"
 
-Two hundred and one and thirty is two hundred and thirty-one, and thirty-one is two hundred and sixty-two, and thirty is two hundred and ninety-two, and the first of December is two hundred and ninety-three, **and the twenty-fourth is the twenty-third day after the first, so two hundred and ninety-three and twenty-three is three hundred and sixteen, and the thirty-first of December is three hundred and twenty-three, and the day after that is three hundred and twenty-four, and that day is in the month after this one and the month has a name and this chapter does not use it before it comes.**
+"**On to that, thirty for September, thirty-one for October, thirty for November, and thirty-one for December, which takes the figure to the last day of the twelfth month at three hundred and twenty-three.**"
+
+Two hundred and one and thirty is two hundred and thirty-one, and thirty-one is two hundred and sixty-two, and thirty is two hundred and ninety-two, and the first of December is two hundred and ninety-three, **and the twenty-fourth is the twenty-third day after the first, so two hundred and ninety-three and twenty-three is three hundred and sixteen, and the thirty-first of December is three hundred and twenty-three, and the day after that is three hundred and twenty-four, and that day is in the month after this one and the month has a name and nobody in this yard uses it before it comes.**
 
 A man of about thirty-four who digs loam said again that a man who does a sum in front of strangers is not checking a number and is teaching it, and that he said in December that he would stop saying it in December and start again in January, and that it is still the twenty-fourth of December and that he has not started.
 
