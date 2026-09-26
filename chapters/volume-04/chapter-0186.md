@@ -42,7 +42,7 @@ A clerk of nineteen years entered that a boy of about nineteen at the fourth pla
 
 A man of about thirty-four who mends fencing said that **the fifth thing this district does not have is a way to pay a person who is not in a household, and a man of fifty-six said that the sixth thing it does not have is on the same page, and a clerk of nineteen years said no in two seconds to being asked to call it the sixth and gave no reason and was not asked for one.**
 
-Nobody argued with that. A man of fifty-six said that a clerk who is asked to make a sixth of a list of five is a clerk doing the only thing she is for, **and that the count of things this district does not have is five and did not move on the twenty-eighth of the second month and that a bucket, a basket, a barrow, a yoke, a board, a page and a round are not a sixth and are not to be entered as one.**
+Nobody argued with that. A man of fifty-six said that a clerk who is asked to make a sixth of a list of five is a clerk doing the only thing she is for, **and that the count of things this district does not have is five and is the same five it was on the twenty-eighth of the second month and that a bucket, a basket, a barrow, a yoke, a board, a page and a round are not a sixth and are not to be entered as one.**
 
 A man of about thirty-four who digs loam said that the man the figure of twenty-one years is against had better not hear that, and a man of fifty-six said that he is standing nine yards away and has heard it and is not going to be asked about it and is not going to be asked again.
 
@@ -58,7 +58,7 @@ That is the whole of it, and a man of fifty-six said so, and then said the other
 
 "**Nothing has been done about that tank since the first of the second month except two people carrying water up a hill, and the district decided on the nineteenth of the second month to do nothing about a man's refusal for nine days and entered that as a decision. Doing nothing about a tank is a decision and nobody has entered it as one.**"
 
-Nobody in that yard said anything for a moment. A man of about thirty-four who mends fencing said that a district which has entered a decision about a man and not a decision about a water has told itself that one of the two matters, and a man of fifty-six said that it is worse than that, and that it has told itself that the one that matters is a thing a man said out loud in a yard and the one that does not matter is a stone that is emptying in a lane four miles away.
+The yard did not take that up straight away. A man of about thirty-four who mends fencing said that a district which has entered a decision about a man and not a decision about a water has told itself that one of the two matters, and a man of fifty-six said that it is worse than that, and that it has told itself that the one that matters is a thing a man said out loud in a yard and the one that does not matter is a stone that is emptying in a lane four miles away.
 
 A clerk of nineteen years entered that **the decision not to do anything about the tank was made on the twenty-eighth of the second month and not before, and that it was made in a yard and not in a lane, and that the man of about fifty-five was not in it and was not told and was not asked.**
 
@@ -80,7 +80,7 @@ A man of about thirty-four who digs loam said that **a minute and a half on a hi
 
 A man of fifty-six said that a man who can see a woman sit down on a hill and does not have an instrument for it is a man who has spent four months building six of them and has not built the seventh, **and that the seventh is not a mark and a mark may not carry a job and the rule has not been retired and is not going to be bent to make a minute and a half go in a book.**
 
-Nobody took that up. A man of about thirty-four who mends fencing asked, in the six things, whether anybody was going to tell the woman of fifty-eight that they had seen her sit down, and a man of fifty-six said no, and gave the reason in a sentence that is in the minute in his own words, and a man of about nineteen counted it and got twenty-nine.
+Nobody took that up. A man of about thirty-four who mends fencing asked, in the six things, whether anybody was going to tell the woman of fifty-eight that they had seen her sit down, and a man of fifty-six said no, and gave the reason in a sentence that is in the minute in his own words, and a man of about nineteen counted it and got twenty-five.
 
 "**She would stop coming up the hill, and the tank is at about three days, and the tank is the only water in that building.**"
 
@@ -116,7 +116,7 @@ The last of it was the crack, and the man of about fifty-five had it open when t
 
 A man of about thirty-four who digs loam said that **a mend that comes out in three pieces in seven days is not a mend and is a thing that has been done to a stone to make it look attended to**, and that he did not mean that unkindly and that the man who did it is the man who keeps the building and is not to be asked to stop.
 
-A man of fifty-six said that a crack in a stone tank that has been put three times is not one of the five things this district does not have and is not the fifth of them and is not a condition with no end on it, **and that the count of five and the count of four did not move on the twenty-eighth of the second month and that a tank at about three days is a figure and not a term and has nobody standing under it.**
+A man of fifty-six said that a crack in a stone tank that has been put three times is not one of the five things this district does not have and is not the fifth of them and is not a condition with no end on it, **and that the count of five and the count of four are the same two figures they were on the twenty-eighth of the second month and that a tank at about three days is a figure and not a term and has nobody standing under it.**
 
 Nobody took that up. A man of about thirty-four who mends fencing asked, in the six things, what the man of about fifty-five was going to do about the crack, and the man of about fifty-five said that he was going to put it in again on the thirtieth and that it would be the fourth time and that he was not going to count it out loud.
 

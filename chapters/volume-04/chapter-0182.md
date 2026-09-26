@@ -6,7 +6,7 @@ A man of about twenty-three who sells nothing and copies for nothing came up the
 
 He put the copy on the trestle table face down and did not open it, and a man of about thirty-four who digs loam said that a man who puts a page face down has put it down in a way, and that a page face up would be an offer and a page face down is a thing a man has brought and has not decided about.
 
-A man of about thirty-four who mends fencing asked him in the six things whether he would let the sheet be read out again, which is the second time he has been asked it, and the man of about twenty-three said no before the question was finished and gave the reason in a sentence that went in the minute in his own words, and a man of about nineteen who walked in from the road counted it and got twenty-nine.
+A man of about thirty-four who mends fencing asked him in the six things whether he would let the sheet be read out again, which is the second time he has been asked it, and the man of about twenty-three said no before the question was finished and gave the reason in a sentence that went in the minute in his own words, and a man of about nineteen who walked in from the road counted it and got twenty-six.
 
 "**A house can come to a counter and ask for a copy and I am the copy, and that is the whole of what I am.**"
 
@@ -20,7 +20,7 @@ Then he turned the copy over himself and said the other half of why he had come,
 
 ---
 
-The wage is eleven coppers a week, and he gave the number himself and it is in the minute in his own words, and a man of about nineteen counted it and got thirty-four.
+The wage is eleven coppers a week, and he gave the number himself and it is in the minute in his own words, and a man of about nineteen counted it and got forty.
 
 "**I have copied for nothing for nine weeks and I have not lost one and I have never been the record of one, and eleven coppers is what the figure is and I am not going to argue it down.**"
 
@@ -100,7 +100,7 @@ Then the other thing, and it is the finding of the twenty-second of the second m
 
 Nobody in that yard spoke for a moment. A man of about thirty-four who digs loam said that **a man who copies a sheet for a house has the sheet and the breach on the same piece of paper**, and that this district has spent a month proving the breach to itself in four rooms and has not been able to put the sheet and the breach in one pair of hands.
 
-A man of fifty-six said that a man of about thirty-three who takes in washing at the second channel is not in this yard and is not going to be sent for, **and that a person who goes into about forty houses a week is a person who carries things this district does not know it is carrying, and that she is the second instrument this district has and is not on a list and is not going to be.**
+A man of fifty-six said that a woman of about thirty-three who takes in washing at the second channel is not in this yard and is not going to be sent for, **and that a person who goes into about forty houses a week is a person who carries things this district does not know it is carrying, and that she is the second instrument this district has and is not on a list and is not going to be.**
 
 A clerk of nineteen years entered that the finding of the twenty-second of the second month is that a breach proved by a man who is not paid to prove it is still a breach, **and that a breach nobody can be shown is a breach and not a remedy, and that the house that wrote the name is thirty-four miles east and does not ask anybody anything and that this is the whole of what this district has about it on the twenty-second of the second month.**
 
@@ -122,7 +122,7 @@ He said that he had been thinking about the four days that are out in the arithm
 
 Nobody argued with that. A man of fifty-six said that a man who has found his own four days and has told the yard about them has done the only kind of checking anybody in this district has ever done on anybody's figure, **and that he did it in a lane and not in a yard and that a district which is corrected by a man of about twenty-three and says thank you for it is a district that has no other way of being corrected.**
 
-A man of about thirty-four who mends fencing asked him, in the six things, whether the copy would be worth anything to the house thirty-four miles east, and the man of about twenty-three gave the answer himself and it is in the minute in his own words, and a man of about nineteen counted it and got thirty-six.
+A man of about thirty-four who mends fencing asked him, in the six things, whether the copy would be worth anything to the house thirty-four miles east, and the man of about twenty-three gave the answer himself and it is in the minute in his own words, and a man of about nineteen counted it and got thirty-four.
 
 A clerk of nineteen years read it back and got nothing wrong, which is the rule of the counter, and read it back a second time because the man who can be found asked her to and she said yes without being asked twice.
 

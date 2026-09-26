@@ -34,7 +34,7 @@ A man of fifty-six said that **a holding is a use and a holder and a delivery an
 
 A clerk of nineteen years entered that the count of conditions with no end on it is four and did not move on the twenty-fourth of the second month, **and that a woman who has opened a gate for a house for four years is not a condition and is not one of the five protected things and is not a sixth of anything, and that a woman who gives something up on her own account has not refused a rule and is not entered as one.**
 
-The man of about thirty at the counter said the other half of what happens, and he said it in the ordinary voice of a man reading off a thing he has had to say before, and a man of about nineteen who walked in from the road counted it and got thirty-eight.
+The man of about thirty at the counter said the other half of what happens, and he said it in the ordinary voice of a man reading off a thing he has had to say before, and a man of about nineteen who walked in from the road counted it and got forty-eight.
 
 "**The seventh is on the rota and the seventh is yours and if you do not hold it the house does not deliver to it, and the water in the rota does not stop for that, it goes somewhere, and it is not the house that decides where.**"
 
@@ -50,13 +50,13 @@ A man of fifty-six said that **a man who has refused three times without a reaso
 
 ---
 
-The clerk asked for it to be written down, and a man of fifty-six said no before she had finished, and gave the reason in a sentence that is in the minute in his own words, and a man of about nineteen counted it and got twenty-four.
+The clerk asked for it to be written down, and a man of fifty-six said no before she had finished, and gave the reason in a sentence that is in the minute in his own words, and a man of about nineteen counted it and got twenty-one.
 
 "**I am not writing a surrender in a yard on a road, and the register is the house's and not mine.**"
 
 A clerk of nineteen years entered that a man of fifty-six said that before he was asked and that she was not asked why, and that **a man who has said out loud against his own advantage that he is not going to write a thing down is a man and not a rule and is not written down.**
 
-The woman of about fifty-two said one more thing to the man of about thirty at the counter, and it is in the minute in her own words, and a man of about nineteen counted it and got thirty-one.
+The woman of about fifty-two said one more thing to the man of about thirty at the counter, and it is in the minute in her own words, and a man of about nineteen counted it and got thirty-four.
 
 "**I have not been a bad gate. I have been the only one there, and that is a different thing, and you can write that one down because it is not about the water.**"
 

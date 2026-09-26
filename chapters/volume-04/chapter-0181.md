@@ -28,7 +28,7 @@ The man the figure of twenty-one years is against said the thing he was going to
 
 "**I will come down on the twenty-second and the twenty-third and I am not going to pretend that is the same as a man who does it every day of his life.**"
 
-The man of about fifty-five said that he was not going to have anybody else in that lane with a yoke, and gave the reason in a sentence that is in the minute in his own words, and a man of about nineteen who walked in from the road counted it and got thirty.
+The man of about fifty-five said that he was not going to have anybody else in that lane with a yoke, and gave the reason in a sentence that is in the minute in his own words, and a man of about nineteen who walked in from the road counted it and got twenty-eight.
 
 "**I cannot stand up on the fourth trip and I am not going to find out which trip it is in front of a man from a yard.**"
 
@@ -48,7 +48,7 @@ A man of about thirty-four who digs loam said that a thing a man mends twice and
 
 He worked the loam in with the heel of his hand and went over it twice and stood back, and the stone began to weep about a minute later, not running and not dripping, just darkening in a line about a finger wide along the join of his own work.
 
-A man of fifty-six said that a mend that weeps is a mend that has not stopped, and that a thing put twice and not held and now put a third time and weeping is a thing this district has no word for, **and that a crack in a stone is not a way of saying where a toll lands on a place and is not the fifth thing this district does not have, and that the count of five did not move on the twenty-first of the second month.**
+A man of fifty-six said that a mend that weeps is a mend that has not stopped, and that a thing put twice and not held and now put a third time and weeping is a thing this district has no word for, **and that a crack in a stone is not a way of saying where a toll lands on a place and is not the fifth thing this district does not have, and that the count of five is the count of five and is the same figure it was on the twenty-first of the second month.**
 
 A man of about thirty-four who digs loam said that the sluice four miles out past the loams would put nine days into that tank in about nine hours, and that the sluice is open now and has been since before the first of the second month, and that opening it and closing it are two different acts and that closing it is the one that needs a bearer. **A man who keeps a road is not a bearer of it, and a route keeper is a Binder's counterparty and not an apprentice, and a sluice four miles out past the loams has had nobody standing at it since before the first of the second month.**
 
@@ -66,7 +66,7 @@ The mark for the nineteenth is a finger below the mark for the eighteenth. The m
 
 A man of fifty-six said that a tank which has stopped falling is not a tank which is filling, and that **two marks at one height is not a rate and is not a column**, and that a man of fifty-five who has been keeping levels in charcoal on a board against his own wall for four days has done the only kind of counting anybody in this district has done this month that anybody could check.
 
-A man of about thirty-four who digs loam said the other half of that himself, in a sentence that a man of about nineteen counted and got fifty-three.
+A man of about thirty-four who digs loam said the other half of that himself, in a sentence that a man of about nineteen counted and got fifty-two.
 
 "**A tank that has stopped falling is not a tank that is full, and a man who has put two marks at one height has not written a rate and has not written a column, and I have not been asked to keep a figure and I am not going to be.**"
 
@@ -94,7 +94,7 @@ Then the rule arrived in the lane about half past two in the afternoon and nobod
 
 A man of fifty-six said that the fourth of the five is a rule about this district's own habit and that the last of the five is a warning about the sluice and that the two of them are in one rule because the rule is one rule.
 
-The man of about fifty-five who keeps the flood shelter said that he had been told a thing and that he did not agree with the last of it, and gave the reason in a sentence that is in the minute in his own words, and a man of about nineteen counted it and got twenty-six.
+The man of about fifty-five who keeps the flood shelter said that he had been told a thing and that he did not agree with the last of it, and gave the reason in a sentence that is in the minute in his own words, and a man of about nineteen counted it and got eighteen.
 
 "**I am not leaving a sluice open. Nobody is. It has been open since before the water came.**"
 

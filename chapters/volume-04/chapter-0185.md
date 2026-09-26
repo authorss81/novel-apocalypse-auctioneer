@@ -40,7 +40,7 @@ A man of about thirty-four who digs loam said that a man who will not be a beare
 
 Nobody argued with that. A man of about thirty-eight who deals in second-hand paper said that he has been in the second-hand paper trade for thirty years and has never once had a customer ask him to sit in a room, and that **a man who asks for a thing that cannot be resold is the only kind of customer there is.**
 
-Then a man of fifty-six asked him what he was going to do about the forty in that room, and the man of about thirty-one said the answer without stopping, and a man of about nineteen counted it and got thirty-four.
+Then a man of fifty-six asked him what he was going to do about the forty in that room, and the man of about thirty-one said the answer without stopping, and a man of about nineteen counted it and got fifty-seven.
 
 "**If they ask me to carry something I will carry it and I will not be paid and it will not be in a book, and if they ask me who owes what I will tell them I do not know, and if they ask me anything else I will say I do not know as well.**"
 
@@ -52,13 +52,13 @@ The man of about fifty-five said the thing that had to be said, and he said it t
 
 "**That page is for people who are in my building on a night. I have to write something or I have not got a page.**"
 
-A man of about thirty-four who mends fencing asked what the something would be, and the man of about fifty-five said the day, and nothing else, and a man of about nineteen counted the whole of what he said and got twenty-two.
+A man of about thirty-four who mends fencing asked what the something would be, and the man of about fifty-five said the day, and nothing else, and a man of about nineteen counted the whole of what he said and got eighteen.
 
 "**I will write the day. I will not write the name. The name column stays as it is.**"
 
 Nobody in that yard said anything for a moment. A man of fifty-six said that a man who writes a day in his own book with no name against it has put a day in a column that has had about forty names in it for nine years and has never had a day in it without a name, **and that a day with no name against it is not an absence and is not a day of zero and is not a fourth kind of thing, and that the days before the fourth of the second month are about forty absences and this one is not one of them.**
 
-A clerk of nineteen years entered that a day written in a space in a page in a building was refused entry as a seventh instrument in this yard in the month before last and that the count of six did not move on the twenty-seventh of the second month, **and that a day with nothing in the name space is a thing a man of fifty-five has done in his own book on his own account and has not been asked for and is not to be entered as anything by anybody in this yard.**
+A clerk of nineteen years entered that a day written in a space in a page in a building was refused entry as a seventh instrument in this yard in the month before last and that the count of six is still six on the twenty-seventh of the second month, **and that a day with nothing in the name space is a thing a man of fifty-five has done in his own book on his own account and has not been asked for and is not to be entered as anything by anybody in this yard.**
 
 A man of about thirty-four who digs loam said that the man of about thirty-one will be in a building on the twenty-seventh of the second month and that the building has a day in it and that **nobody in this district will be able to say afterwards that he was there, and that is the arrangement and not a failure of it.**
 
@@ -90,7 +90,7 @@ Then he said the other half of it himself, and a man of about nineteen counted i
 
 "**A day in a page with no name against it is a day somebody was in my building and I did not write down who, and I wrote that down because I write days down, and if it is a problem for the next man then it is a problem I have handed him on purpose.**"
 
-A clerk of nineteen years entered that he said the second half of that before he was asked and that she is not going to put a number on it, **and that a man who hands a problem to the next man on purpose has done a thing this district has no instrument for and is not going to build one, and that the count of six did not move on the twenty-seventh of the second month.**
+A clerk of nineteen years entered that he said the second half of that before he was asked and that she is not going to put a number on it, **and that a man who hands a problem to the next man on purpose has done a thing this district has no instrument for and is not going to build one, and that the count of six is the same six it was on the twenty-seventh of the second month.**
 
 Nobody took that up. A man of about thirty-four who digs loam said that the heading on that page is three sentences long and is not reprinted in this district and is in the minute of the fourth of January, and that the man who wrote the heading in the fourth year is the man who has to keep writing it, and that nobody has ever asked him whether he wants the ninth page as well as the eighth.
 
