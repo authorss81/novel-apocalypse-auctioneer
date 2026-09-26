@@ -50,7 +50,7 @@ The new month is **April**. The batch's month is **March** and **April**. The ba
 - **The rate sheet** for ground nobody has claimed (**Ch 62**). First line, two hundred and four, five hundred, held by nobody, five hundred entered and not collected.
 - **The ward market answering the standing order** and losing by seven to three (**Ch 63**).
 - **Halloway's specific wrongness found** (**Ch 64**): the fare is complete. His Monday print is unspent.
-- **The first attempt at a multi-bearer charter and its correct failure** (**Ch 69**). Three reasons and a fourth off the floor. The draft is published and unclosable. The two askings and the two noes.
+- **The first attempt at a multi-bearer split of a use already performed, and its correct failure** (**Ch 69**). Three reasons and a fourth off the floor. The draft is published and unclosable. The two askings and the two noes. **It is not the first four-bearer instrument of the series - Volume 01 staged one in Chapters 35, 38 and 44 - and no chapter may call it the first charter.** The five conditions read out in that yard were not a second reading: four of them are painted on the wall of the counting room and the fifth came off the same cast iron on the eleventh. **He read nothing.**
 - **The market saying yes to a road, the nine coppers coming back by themselves, the rate of fourteen, one trade abstaining again, and the first timetable with the toll column printed at full width and empty** (**Ch 70**).
 
 **Still to do in this batch:**
@@ -78,7 +78,24 @@ Plain language. **At most one System panel in the whole batch**, and it should b
 
 ## Structural warning — inherited from Batch 0002's own review
 
-Batch 0002 used the bolded **"And [noun], and [appositive], and [justification]"** header in six of ten chapters and broke it in four, which was the right proportion. **Do not let the shape settle back into a habit.** A chapter should open on a person in a room, on a physical act, on a document nobody expected, or on an hour. **Open at least four of the ten some other way, and let at least one of them turn on a conversation rather than a record.** Chapter 64 of Batch 0002 was the conversation chapter and it worked; do not write another counter scene with a man selling something on it.
+**Ten of the ten chapters of Batch 0002 open on something other than the bolded header** - a person in a room, a physical act, an unexpected document, or an hour - so the requirement was met and then some. **The shape did not die, though. It moved inside the chapters: every one of the ten uses the bolded **"And [noun], and [appositive], and [justification]"** header as an internal section break, six to twelve times each.** A reader who sees it four times in a chapter stops seeing the room. **Do not let the internal break become the batch's rhythm either.** Cut it back: aim for at most four or five internal headers in a chapter, and let a chapter be carried by paragraph breaks, stage directions and dialogue. **Open all ten some other way, and let at least one of them turn on a conversation rather than a record.** Chapter 64 of Batch 0002 was the conversation chapter and it worked; do not write another counter scene with a man selling something on it.
+
+## Numbers that were wrong in Batch 0002 and are now fixed — do not reintroduce them
+
+These were carried into the Batch 0002 canon card and state files in error and have been corrected in the chapters and in every state file. **Recompute from the date; do not quote any of the old figures.**
+
+- The train stood **thirty-nine days on the twenty-second of March**, not forty-six. Forty-six is the twenty-ninth.
+- The rate sheet's occupancy is **eleven, seven, nine, four — thirty-one people**, and the woman of sixty-one's house holds four.
+- Two lapses in March are **four days and two days, six days in total**, not four days each and eight.
+- Oswin Tace's term **runs to midnight on the first of April with the renewal set for the thirtieth.** It does not expire on the thirtieth.
+- The line's whole-year budget on the twenty-sixth was **sixty coppers** (nine plus six a quarter). It is fifty-six only after the second of April, at fourteen a quarter.
+- A run of five hundred costs **906** (four stock, two setting, nine hundred quoted on the fourteenth) and the gap carried on the chandler's trade is **894**. Not 444, and not 888.
+- The market could pay the standing order's office **more than two thousand times over**, not eleven hundred times.
+- The line rate of **fourteen** leaves **thirty** of the fifty unassigned, not three.
+- The walk is **four and a half hours on an ordinary morning and six and a half on the twenty-ninth.** It is not three hours and four and a half.
+- Stenn's column dates from **the twenty-first of February**, not the twenty-first of March.
+- The boundary's term ends on **the twenty-ninth of April**, and a document printed in the first week of April saying *the twenty-ninth of this month* is correct.
+- **No weekday is attached to any date in Batch 0002.** The twenty-ninth and the thirtieth were both called a Wednesday and could not be, so every date-attached weekday was removed. **What is left is not a calendar:** Halloway Reed's Monday, which is a promise inside Batch 0003; a haulier's Tuesday, which is a habit the woman at the column describes and not a date; a lamp-man who will not start on a Saturday; and a hypothetical bearer who fails on a Tuesday. **Do not build a week out of those four.**
 
 ## Guardrails
 
@@ -90,7 +107,7 @@ Batch 0002 used the bolded **"And [noun], and [appositive], and [justification]"
 - **Do not have a public market built out of one reader.** The proof of this volume is that the timetable, the toll boards, the lease, the count at the ninth place and the boundary are all held by people who are not Adrian. **The renewal on the twenty-ninth of April must be asked by somebody who is not Adrian and entered by somebody who is not Adrian.**
 - **Selik is not defeated, not converted, and not wrong.** He says *that is not enough* from the rail on published days and nobody believes he will stop. **He is not on the twenty-ninth of April's walk and he is not to be put on it.**
 - **The woman of forty-five is not a name in the book and must not become one.** She was asked to hold the boundary and said no, and her reason is that a name with nothing behind it is a name a man can use. She will say the word once more if it is needed and nothing else.
-- **The protected category is not a bucket.** It has carried a passage twice, a loss once, a failure of a remedy once, a refusal to be asked again once, and a refusal to be named once, and the refusal to be named is not the same act as the refusal to be asked again and must not be added to the count as if it were.
+- **The protected category is not a bucket, and the count is closed at five.** A passage twice, a loss once, a failure of a remedy once, a refusal to be asked again once. **Do not add a sixth.** If this batch needs a sixth kind of thing, write it and do not enter it in this tally.
 - **A mark may not carry a job, and the boundary was built around that rule and not in defiance of it.** Do not retire the rule and do not make a mark carry a job.
 - **The fifth instrument — a way of saying that a toll lands on a place — is still unnamed and unowned.** It is printed as an empty column at full width in the middle of the ward market's timetable. **A column that is printed narrow looks like a column that has been kept quiet.**
 - **No metric and no twenty-four-hour clock.** Feet, inches, yards, miles and quarters, pounds, degrees, coppers, pints, and the twelve-hour clock.

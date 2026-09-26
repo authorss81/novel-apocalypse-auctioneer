@@ -6,7 +6,7 @@ The line was to go sixty yards west of the column. That had been worked out on t
 
 "So it is on the shoulder," said the tenth hand, "**and it is at the point where the cess opens out and the ballast comes up through it in three places, and it is forty feet from the drop.**"
 
-"**And it is on the only nine vehicles of hard ground for two mile, and the man of seventy is sitting on the wall behind it.**"
+"**And it is on the only hard ground a nine-vehicle train can stand on for two miles, and the man of seventy is sitting on the wall behind it.**"
 
 "Yes."
 
@@ -38,7 +38,7 @@ The chalk did not go down for another forty minutes because the four of them tri
 >
 > **TWO. THE BOARD. THE BOARD OF THE PUBLIC LOT AT LOT 17 CAN SET A CUSTODY TERM AND PUBLISH A RESULT AND CALL A REVIEW AND UPHOLD A CHALLENGE IN PART AND REFUSE TO RECORD A CLOSING. IT CANNOT NAME A PERSON. IT CANNOT NAME A PERSON AND THE JOB IS TO BE NAMED TO SOMEBODY, SO THE BOARD CANNOT DO IT. AND THE BOARD CANNOT GET TO THIS GROUND IN ANY EVENT; IT IS NINE MILES AWAY AND EVERY ONE OF ITS FIVE POWERS IS ABOUT A THING IN ITS OWN BUILDING.**
 >
-> **THREE. THE LEASEHOLDER. REFUSED BY THE LEASEHOLDER, IN FRONT OF WITNESSES, AT TEN PAST FOUR, IN THE WORDS HE USED AND THEY ARE ON PAGE — AND THE REASON HE GAVE IS IN HIS OWN HAND AND IT IS THAT A LINE ON THE GROUND IS THE FIRST THING HE HAS EVER PUT ON THAT VILLAGE'S GROUND AND HE HAS PUT A SIDING ON IT AND A METER ON IT AND NINE VEHICLES ON IT AND HE IS NOT PUTTING ANYTHING ELSE ON IT.**
+> **THREE. THE LEASEHOLDER. REFUSED BY THE LEASEHOLDER, IN FRONT OF WITNESSES, AT TEN PAST FOUR, IN THE WORDS HE USED AND THEY ARE IN THE LEASEHOLDER'S OWN PAGE IN THE FILE — AND THE REASON HE GAVE IS IN HIS OWN HAND AND IT IS THAT A LINE ON THE GROUND IS THE FIRST THING HE HAS EVER PUT ON THAT VILLAGE'S GROUND AND HE HAS PUT A SIDING ON IT AND A METER ON IT AND NINE VEHICLES ON IT AND HE IS NOT PUTTING ANYTHING ELSE ON IT.**
 >
 > **FOUR. A ROAD HOUSE. REFUSED IN ADVANCE BY THE MAN WHO OWNS THE ROAD HOUSE, IN A YARD, IN THE WORDS THAT HE SAID NO IN ADVANCE AND WOULD LIKE IT IN THE BOOK THAT HE SAID IT BEFORE A TRAIN HAD BEEN LATE, AND THAT WAS THE NINTH OF THIS MONTH AND THE BOOK HAS IT.**
 >
@@ -60,7 +60,7 @@ The chalk did not go down for another forty minutes because the four of them tri
 
 ---
 
-**And the woman at the column dictated her own half of it, and it took about nine minutes, and about twenty people of the ninth place stood about nine feet off and heard every word of it, and the boy of nine heard all of it and has since been asked about it twice by people who were not us and has told them the same eleven words both times.**
+**And the woman at the column dictated her own half of it, and it took about nine minutes, and about twenty people of the ninth place stood about twelve feet off and heard every word of it, and the boy of nine heard all of it and has since been asked about it twice by people who were not us and has told them the same nine words both times.**
 
 She is about fifty. She has a boy of nine. She has not been named in a public book in her life and she has been findable for nine years.
 
@@ -76,7 +76,7 @@ She is about fifty. She has a boy of nine. She has not been named in a public bo
 
 "**Second thing. Nobody stops coming up that bank.** I am not turning the water off and I am not locking anything and I am not going to be a woman at the end of a road with a stick. If a haulier comes up here on a Tuesday for two pails he comes up on the Tuesday, and if he is on the line when the word is said he waits on the bank until it is over, and that is all. **And I want it entered that a man waited on a bank once, and not that we kept him off the road.**"
 
-Nobody wrote the second thing down for about nine seconds and then the tenth hand wrote it down exactly.
+Nobody wrote the second thing down for about twelve seconds and then the tenth hand wrote it down exactly.
 
 ---
 
@@ -94,7 +94,7 @@ Nobody wrote the second thing down for about nine seconds and then the tenth han
 
 **And at four o'clock the fourth person of the four said the word, once, standing about four feet off the line, in front of three men and about twenty people of the ninth place, and it took about nine seconds and it was not a sentence and it was not a form and it was not a signature, and it is in the book in her words and it is nine words long and it is the shortest entry in the history of the public lot book and it is not struck and it is not held by anybody.**
 
-"**I said it. And it worked, and there is no train, and I want that written down. I have said the word three times in my life at that gate and this is the first time anything happened, and what happened was four men stopped walking and stood still for an hour and a quarter.**"
+"**I said it. And it worked, and there is no train, and I want that written down. I have said the word three times in my life on that bank and this is the first time anything happened, and what happened was the other three of us stopped walking and stood still for one hour and eleven minutes.**"
 
 And then Tarin Kest marked the line, at about ten past four, with the chalk he had been holding for forty minutes, and it took him about eleven minutes, and it is a line about five feet long across the six-foot and then up the cess and onto the shoulder for another eleven feet, and it is tar-white on grey ballast and it is not visible from the west end of the siding at all, and **the tenth hand entered that on the thirtieth, after walking it back, because a boundary nobody can see from the other end of the thing it is a boundary for is a boundary that only works for the people who made it, and that is the standing failure of this instrument and it is entered as one.**
 
@@ -118,11 +118,11 @@ And then Tarin Kest marked the line, at about ten past four, with the chalk he h
 
 ---
 
-**And at about ten past five in the evening, on the ballast at the fourth place, with about sixty people standing in the failing light, Selik Marne said the standing sentence and nobody argued with him, and then a man he had argued with about nine times in five weeks asked him a question, and it is the first time in this volume that anybody has asked Selik Marne for anything.**
+**And at about ten past five in the evening, on the ballast at the fourth place, with about sixty people standing in the failing light, Selik Marne said the standing sentence and nobody argued with him, and then a man he had argued with about nine times in five weeks asked him a question, and it is the first time anybody has asked Selik Marne for anything.**
 
 "That is not enough," said Selik Marne, from the rail, in his hat, to about sixty people, and it is the eighth time he has said it on a published day in this month and the first time he has said it and then been asked something, and nobody in Alder Reach believed he would stop and he did not stop and he has not.
 
-Then Tarin Kest, who is forty-three and who said *no* to staffing a reopened span in advance in a yard on the ninth of this month, walked about nine feet along the ballast and stopped and said:
+Then Tarin Kest, who is forty-three and who said *no* to staffing a reopened span in advance in a yard on the ninth of this month, walked about ten feet along the ballast and stopped and said:
 
 "**Mr. Marne. You are the only man in this district who has been wrong about a road in nine years and I want to ask you for the thing nobody asked you for.**
 
@@ -148,4 +148,4 @@ And Tarin Kest wrote it down in his own book in his own hand and gave it to the 
 
 **And he entered the second half of it as the reason a man of seventy is still sitting on a wall behind nine vehicles at nine miles west, and the second half is that the line cannot be seen from the end it is for, and the entry says what the tenth hand found at ten past four with his face about forty inches from the ballast, which is that the line is invisible from the west end of the siding, and the entry says that the fixing of it is one bushel of white paint and about a hundred and forty yards of it.**
 
-"And one bushel of white paint," said Ivo Stenn, from about nine feet back, "**is in the ward market's rate for this line. It is the ninth coppers, a quarter, a lamp and a bushel of chalk, and the market has been arguing about that nine coppers for three weeks and it turns out that the ninth coppers was the right figure for the wrong thing, and there is going to have to be another vote, and I have got a column for that now too.**"
+"And one bushel of white paint," said Ivo Stenn, from about eight feet back, "**is in the ward market's rate for this line. It is the ninth coppers, a quarter, a lamp and a bushel of chalk, and the market has been arguing about that nine coppers for three weeks and it turns out that the ninth coppers was the right figure for the wrong thing, and there is going to have to be another vote, and I have got a column for that now too.**"

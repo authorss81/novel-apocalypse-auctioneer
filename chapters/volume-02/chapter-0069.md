@@ -30,7 +30,7 @@ Adrian Vale put the sheet down and squared it again and read the whole of it out
 >
 > **SECURITY: NONE OFFERED AND NONE POSTED, AND NOBODY IN THIS ROOM HAS THE POWER TO POST ONE.**
 
-And then the sheet stopped, and what follows is what came off the object when it was asked, and Adrian Vale read it out too, and it is the only System panel in this volume's second ten chapters and it is in the book in his own hand because the book has no other place for it.
+And then the sheet stopped, and he read out the conditions, and the conditions are not his and not new: four of the five are painted on the wall of the counting room at that length and have been since the office opened, and the fifth is the one nobody has ever managed to get onto a wall, and it came off the same cast iron on the eleventh and has been sitting in this room ever since. **He read the four off the wall and he did not touch the iron, and the month's ledger closes at one, and the entry against this morning says in his own hand that nothing was read.**
 
 > **A USE MAY BE SPLIT AMONG BEARERS. A SPLIT IS DRAFTED BY A READER. A SPLIT IS CLOSED BY A BINDER.**
 >
@@ -68,7 +68,7 @@ That is the one that took the room.
 
 "**Your four places are the fourth, the sixth, the eighth and the ninth. I have walked all four in the last four days, because I was on the walk and then I went round it afterwards, and I have a thing to say about two of them.**
 
-"**The sixth place is a drain.** There is a drain off the top of that bank at the sixth place and it goes onto the ballast and it has been going onto the ballast since before the water came, and on the twenty-ninth a woman stood in it for an hour and a quarter and said the word, and if I put a bearer on the sixth place then a man is holding a pair in four inches of running water on a curve, and you cannot be seen from the ninth place and you cannot be seen from the third.
+"**The sixth place is a drain.** There is a drain off the top of that bank at the sixth place and it goes onto the ballast and it has been going onto the ballast since before the water came, and on the twenty-ninth a woman stood in it for one hour and eleven minutes and said the word, and if I put a bearer on the sixth place then a man is holding a pair in four inches of running water on a curve, and you cannot be seen from the ninth place and you cannot be seen from the third.
 
 "**And the eighth place is on a curve.** The second rail on a curve is a foot and a half and the ballast is up to your chest, and the shoulder there is four feet wide with a drop of nine feet off it on the river side, and I know this because I went round the changeover on it in walking shoes and came back with the shoe full. **A man who has to hold a pair at the eighth place has to stand somewhere, and there is nowhere at the eighth place to stand.**"
 
@@ -98,7 +98,7 @@ She read it.
 
 "**It is a third thing and nobody has a name for it either, and I have started to think that is the shape of this whole month,**" said Rutt. "**A mark, a slot, and a holding entry. Three words for a person who is not there, and every one of them is doing the same job, and the job is so that a person does not have to be a person to be counted.**"
 
-And Orren Pike said, at about eight feet, in a voice nobody expected, "**There are three signal hands in this district who are not the tenth hand and I can name all three and Nobody has ever asked me whether I want the job, and nobody has ever asked any of the three of them either, and I have been paid nothing for nine weeks for an index of a line book that has now found a hole in it, and both of those facts go next to each other or the book is not honest.**"
+And Orren Pike said, at about eight feet, in a voice nobody expected, "**There are three signal hands in this district who are not the tenth hand and I can name all three, and nobody has ever asked me whether I want the job, and nobody has ever asked any of the three of them either, and I have been paid nothing for nine weeks for an index of a line book that has now found a hole in it, and both of those facts go next to each other or the book is not honest.**"
 
 "And if we asked you?"
 
@@ -110,7 +110,7 @@ And Orren Pike said, at about eight feet, in a voice nobody expected, "**There a
 
 "Adrian."
 
-"**No,**" he said, and it was about a second and a half, and there is no speech in front of it and there is none after it, and it is the shortest refusal of anything in this volume.
+"**No,**" he said, and it was about a second and a half, and there is no speech in front of it and there is none after it, and it is the shortest refusal of anything in this book.
 
 "I want it on the record that I am asking in the ordinary way and that I have read the entry of the twelfth of this month and the entry of the eighteenth and I know what you can and cannot do and I have asked in the ordinary way because you have spent six weeks telling this district that a refusal nobody asks for is not a refusal."
 
@@ -128,7 +128,7 @@ And Orren Pike said, at about eight feet, in a voice nobody expected, "**There a
 
 **And on the first of the next month, at about eleven in the morning, in the yard of the Needle Road House, in front of about nine of his own men, Tarin Kest asked him again, and this time he gave a reason, and the reason was not the same as Mara Quill's, and Adrian Vale's second no was four times as long as his first.**
 
-"I have surrendered a lease," said Tarin Kest. "**I have nineteen vehicles and four spaces in this city and seven a week with nowhere to stand, and a stabling yard that a good half my work was built on, and a standing on that line that I have had since I was thirty-four and that four other Road Houses have tried to buy off me twice. And I did all of that on Wednesday because a woman asked me a question about water and I could not answer it, and I would do it again on Friday, and I am not asking you for a favour. I am asking the man who wrote the proposal schedule to close the one document in this district he is legally permitted to write and not permitted to close, and get it done before my foreman finds out and comes and asks me why we are idle.**
+"I have surrendered a lease," said Tarin Kest. "**I have nineteen vehicles and four spaces in this city and seven a week with nowhere to stand, and a stabling yard that a good half my work was built on, and a standing on that line that I have had since I was thirty-four and that four other Road Houses have tried to buy off me twice. And I did all of that the day before because a woman asked me a question about water and I could not answer it, and I would do it again in a week, and I am not asking you for a favour. I am asking the man who wrote the proposal schedule to close the one document in this district he is legally permitted to write and not permitted to close, and get it done before my foreman finds out and comes and asks me why we are idle.**
 
 "**Can you close it?**"
 
@@ -136,13 +136,13 @@ And Orren Pike said, at about eight feet, in a voice nobody expected, "**There a
 
 "**Say the reason.**"
 
-"**The reason I am not going to say is that the three reasons I said on Wednesday are the reasons, and they have not changed, and if I say them a second time in a yard with nine of your men in it then the three reasons are a thing I say at Road Houses, and in about a year they will be a thing I say at a counter, and a reason that is in your ear and mine is not a reason. It is a thing somebody has learned.**
+"**The reason I am not going to say is that the three reasons I said in that yard yesterday are the reasons, and they have not changed, and if I say them a second time in a yard with nine of your men in it then the three reasons are a thing I say at Road Houses, and in about a year they will be a thing I say at a counter, and a reason that is in your ear and mine is not a reason. It is a thing somebody has learned.**
 
 "And the other reason is the word. **Close.** I have been asked by the registrar and by a mechanic and in both cases somebody wanted the same word and it means two different things and one of the two things is me. I am a Stage 1 Reader. I have drafted a split. **A draft is a man holding a door open and asking a room to fill it. Closing it is putting my name on it, and my name on it is standing, and standing is what a man gives when he is replaceable, and I am not replaceable yet and there is a man at the rail in this district who has told me in a yard that I ought to be, and he is right, and he is right in about a year and not in a yard, and if I close this thing this month then the thing is closed by the one man in this district who is not replaceable, and it is the same sentence I have been saying for six weeks except that this time it is in a document and not in chalk.**"
 
 "And your foreman."
 
-"**Will find out on Friday, will come and ask me why we are idle, and I will tell him, and he will be angry, and he has a right to be, and I will not tell him the reason and he will know that is deliberate, and I will have to live in that.**"
+"**Will find out in a few days, will come and ask me why we are idle, and I will tell him, and he will be angry, and he has a right to be, and I will not tell him the reason and he will know that is deliberate, and I will have to live in that.**"
 
 **"That is the second time anybody has asked you and it is in the book, and the second no is four times the first, and the room recorded that the two reasons were not the same and did not enter an opinion on whether that was good."**
 

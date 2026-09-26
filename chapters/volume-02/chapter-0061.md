@@ -30,7 +30,7 @@ He put his boot on the ballast of the inside curve and looked east down the stra
 
 ---
 
-**And so the four of them walked five miles of it in about three hours on the morning of the twenty-second, which is a rehearsal, and there is no word for a rehearsal in this district yet, and the tenth hand entered the word.**
+**And so the four of them walked five miles of it in about six hours on the morning of the twenty-second, which is a rehearsal, and there is no word for a rehearsal in this district yet, and the tenth hand entered the word.**
 
 > **REHEARSAL: A WALK DONE BEFORE THE DAY IT IS FOR, ON THE SAME GROUND, BY SOME OR ALL OF THE PEOPLE WHO WILL DO IT, FOR THE PURPOSE OF FINDING OUT WHETHER THE WALK CAN BE DONE. THE FIRST ONE IN THIS DISTRICT. ENTERED BY THE TENTH HAND, WHO HAD NOT GOT A WORD FOR IT AND HAS NOW.**
 
@@ -126,9 +126,9 @@ He wrote it on the page and turned the page over, and on the back there were two
 
 **And they came up the bank at about a quarter past one in the afternoon and the ninth place was there, and the hut was there, and a woman of fifty was at the column with two pails and a boy of about nine was holding the second one, and the woman of forty-five went down the bank first and did not go into the hut.**
 
-She stood on the hard ground for about two minutes and looked at the train, which is nine vehicles and has been on that siding since the eleventh of last month, and she said one thing about it, and it went in the book in her words because that is the standing practice and she set it in the first place.
+She stood on the hard ground for about two minutes and looked at the train, which is nine vehicles and has been on that siding since the eleventh of last month, and she said one thing about it, and she said it out loud and in the first person, which is the standing practice at that place and is not the practice of any book in Alder Reach.
 
-"**Forty-six days,**" she said. "**I have counted them off the calendar on the chapel wall and the count is right, and it is the only number in this place that anybody has got right in nine years.**"
+"**Thirty-nine days,**" she said. "**I have counted them off the calendar on the chapel wall and the count is right, and it is the only number in this place that anybody has got right in nine years.**"
 
 Then they turned round at the ninth place and came back east, and at about a quarter to three the drain at the sixth place was four inches deep and running, and nobody said the word, and the four of them stood in the six-foot at the sixth place for about a minute and a half and then went on, and Ivo Stenn took the piece of paper out of his coat at the third place and wrote on it, in the order he had thought of it, which is a freight clerk's order and not a railwayman's.
 
@@ -160,7 +160,7 @@ The second version says on the ballast nowhere at all. It says **on the six-foot
 
 And there was one more thing on the wall on the twenty-second, which was not on the walk sheet, and which Nessa Pell wrote up at about four in the afternoon in about nine seconds because it was nine words and it was true.
 
-The case of Lot 17 stood shut. The term of the key had run out at midnight on the twenty-first and the board had not named anybody, because the board could not name anybody, and the fourth day in a month that the case has stood shut on a term that has run out is not entered as a theft either.
+The case of Lot 17 stood shut. The term of the key had run out at midnight on the twenty-first and the board had not named anybody, because the board could not name anybody, and the second day in a month that the case has stood shut on a term that has run out is not entered as a theft either.
 
 Mrs Halder had held it from the seventeenth and would not open the case alone and had asked for a second person every single time and had been given no power to get one, and the second lapse is on the notice board under the first one, and nobody in this district has yet worked out what it says about a term of four days, and Nessa Pell wrote nine words under it and they are what they are.
 

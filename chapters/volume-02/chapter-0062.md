@@ -38,7 +38,7 @@ So Stenn stood at the fourth house door at about half past two in the afternoon 
 
 "Yes."
 
-"**There are three in it and I have said so every time anybody has asked me in nine years, and there is a woman of sixty-one in it and I am the woman of sixty-one, and I have filled your form in twice and both times it wanted four houses and a chapel, because a form that wants a household is going to get a household out of a place every time you put it in front of one.**"
+"**There are four in it and I have said so every time anybody has asked me in nine years, and there is a woman of sixty-one in it and I am the woman of sixty-one, and I have filled your form in twice and both times it wanted four houses and a chapel, because a form that wants a household is going to get a household out of a place every time you put it in front of one.**"
 
 "Then tell me what to put in it."
 

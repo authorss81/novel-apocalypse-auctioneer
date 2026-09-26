@@ -12,13 +12,13 @@ The man from the hauliers was standing in the doorway of the counting room at a 
 
 ---
 
-**And the reason was written down, and the figure was written down under it, and the figure is the reason the market is going to be misunderstood for the rest of this volume's business.**
+**And the reason was written down, and the figure was written down under it, and the figure is the reason the market is going to be misunderstood for as long as that document stands.**
 
 The standing order of the ninth had been read aloud in a room with a door on it on the fifth of this month, in four versions, none signed, three rooms, four authors in seven years, and not one of them had known the others existed. It had been published in four versions with the name of the administrator who let it sit in a room against the front of it, and a paragraph on the front page that was written on a staircase landing in about fifty seconds by a fitter holding a toolbox, and nobody in Alder Reach ever learned who wrote it. **A closure without a ground is a safety measure, and a safety measure is not subject to appeal.** And the last page, which says that the order is not subject to revocation by any body existing at the date of it, and that the body which may revoke it is created by it, and that it consists of the administrator and two persons named by him who hold no office, and that **it may be dissolved only by the body which may revoke it.**
 
 The ward market was asked to answer it. **The market was three days late, and the lateness is entered, and the reason for the lateness is the market's own rule about four days, and the entry says that a rule which gives a market four days to answer a question about the safety of a crossing has been used for the first time on a question about the safety of a crossing, and that the clerk noted it.** Nobody found that funny. The clerk found it extremely funny and did not say so.
 
-**The vote was by trades, seven against, three for, one abstaining**, and the count each trade carries is not read out, because the market has never in eleven years read it out on a question that was not a rate, and **that omission is entered, because the district's answer to this document is four batches away from now and the count each trade carries will be read then.**
+**The vote was by trades, seven against, three for, one abstaining**, and the count each trade carries is not read out, because the market has never in eleven years read it out on a question that was not a rate, and **that omission is entered, because in four years somebody is going to take this page cold and ask what eleven trades thought they were voting on, and the count each trade carries is not on it.**
 
 And the figure is this, and it is the figure the market will be quoted for, and it is correct.
 
@@ -26,7 +26,7 @@ And the figure is this, and it is the figure the market will be quoted for, and 
 >
 > **COSTED AT THIS MARKET'S OWN RATE FOR A STANDING POST — ELEVEN COPPERS A QUARTER, WHICH IS THE FIGURE THIS MARKET PAYS ITS OWN PUBLIC READER AND WHICH IS A MATTER OF PUBLIC RECORD — EIGHT POSTS ARE EIGHTY-EIGHT COPPERS A QUARTER.**
 >
-> **THE WHOLE OF THIS MARKET'S QUARTERLY TAKE AT FIFTY COPPERS OVER FOUR THOUSAND AND ONE HOUSEHOLDS IS TWO HUNDRED THOUSAND AND FIFTY COPPERS. EIGHTY-EIGHT IS NONE OF IT. THIS MARKET COULD PAY THAT OFFICE ELEVEN HUNDRED TIMES OVER WITHOUT ALTERING THE PRICE OF A SINGLE THING IT SELLS, AND IT IS GOING TO VOTE AGAINST IT, AND THE FIGURE IS ENTERED BECAUSE A FIGURE THAT GOES AGAINST A DECISION IS THE ONLY THING THAT KEEPS A DECISION FROM BECOMING A FEELING.**
+> **THE WHOLE OF THIS MARKET'S QUARTERLY TAKE AT FIFTY COPPERS OVER FOUR THOUSAND AND ONE HOUSEHOLDS IS TWO HUNDRED THOUSAND AND FIFTY COPPERS. EIGHTY-EIGHT IS NONE OF IT. THIS MARKET COULD PAY THAT OFFICE MORE THAN TWO THOUSAND TIMES OVER WITHOUT ALTERING THE PRICE OF A SINGLE THING IT SELLS, AND IT IS GOING TO VOTE AGAINST IT, AND THE FIGURE IS ENTERED BECAUSE A FIGURE THAT GOES AGAINST A DECISION IS THE ONLY THING THAT KEEPS A DECISION FROM BECOMING A FEELING.**
 
 Selik Marne was at the back on his feet, in his hat, and he had not asked for anything, and he said one sentence when the figure was read out and it was the only thing he said for about an hour.
 
@@ -40,7 +40,7 @@ Selik Marne was at the back on his feet, in his hat, and he had not asked for an
 
 "An office is a seat with a duty against it. The eight places on the eighth page are eight seats. **And a seat that may be filled and cannot be emptied is not a service, it is a condition, and this market collects fifty coppers a quarter off four thousand and one households for a promise of a sheet of paper it has not printed since the flood year, and the reason the sheet is not printed is that this market has spent eleven years paying for a condition and calling it a service, and I am not doing it twice on purpose with a river.**"
 
-Nobody argued with him for about nine seconds, and then the chandler did, and she was right.
+Nobody argued with him for about ten seconds, and then the chandler did, and she was right.
 
 "**Then say what you will fund.**"
 
@@ -76,9 +76,9 @@ And the room sat with that for about a minute and a half, and the finding went i
 
 ---
 
-**And Mara Quill wrote all of it down herself, in her own hand, in about two hours and ten minutes, and then had to do the part that was hers and nobody else's, and the part that was hers took about nine minutes and it is the second part of her entry and it is the first time in the history of the public lot book that a thing has been entered that Lot 17 did not witness and did not hold and could not have refused.**
+**And Mara Quill wrote all of it down herself, in her own hand, in about two hours and ten minutes, and then had to do the part that was hers and nobody else's, and the part that was hers took about ten minutes and it is the second part of her entry and it is the first time in the history of the public lot book that a thing has been entered that Lot 17 did not witness and did not hold and could not have refused.**
 
-Mara Quill is the registrar of the public lot book and she is not a vote and has never been a vote, and the book records things that happen at the rail of a yard and things that happen at a counter, and on the twenty-fifth of this month she entered a decision of the ward market into the public lot book for the first time in nineteen years of being a registrar, and she had to write two reasons and not one.
+Mara Quill is the registrar of the public lot book and she is not a vote and has never been a vote, and the book records things that happen at the rail of a yard and things that happen at a counter, and on the twenty-fifth of this month she entered a decision of the ward market into the public lot book for the first time in eight years of being the registrar of this lot, and she had to write two reasons and not one.
 
 "**The market's reason, and the market has given it and it is good,**" she said, at about half past twelve, to about forty people in a counting room with the shutters open. "**And it is not the reason.**
 
@@ -108,9 +108,9 @@ Ivo Stenn was still in the building and he asked him about it in the doorway at 
 
 "That is a good reason."
 
-"**It is a reason for Friday,**" said Adrian, "**and I have said the other one and it was better, and both of them are in a file now, and Noticed, please: I have never once said the same reason twice, and that I do not think that is a discipline. I think it is a man looking for a door.**"
+"**It is a reason for the twenty-ninth,**" said Adrian, "**and I have said the other one and it was better, and both of them are in a file now, and I have never once said the same reason twice, and I do not think that is a discipline. I think it is a man looking for a door.**"
 
-"**Then stop looking for it in me,**" said Stenn, "**because I have got nothing for you, and I have got six coppers a quarter and a sheet of paper, and on Friday a man with a printing press is going to sell four hundred places on a walk that four men are going to do on foot in rain, and if you want to know whether that is a scandal or a service then the answer is that neither word is in my vocabulary and both of them are in his.**"
+"**Then stop looking for it in me,**" said Stenn, "**because I have got nothing for you, and I have got six coppers a quarter and a sheet of paper, and on the twenty-seventh a man with a printing press is going to sell four hundred places on a walk that four men are going to do on foot in rain, and if you want to know whether that is a scandal or a service then the answer is that neither word is in my vocabulary and both of them are in his.**"
 
 "That is the second time this month you have told me what was coming and been right."
 

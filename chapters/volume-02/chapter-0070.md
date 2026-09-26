@@ -1,10 +1,10 @@
 # Chapter 70: Fourteen Coppers, and a Sheet
 
-The counting room had about thirty-four people in it at nine in the morning on the second of the next month and eleven trades and a chair for each trade and a clerk, and Ivo Stenn had a sheet of paper in front of him with a column on it that had been on the wall in five parts since the twenty-first of last month, and he had not drawn a new one, and that was the first thing he said and it is in the minute in his own hand.
+The counting room had about thirty-four people in it at nine in the morning on the second of the next month and eleven trades and a chair for each trade and a clerk, and Ivo Stenn had a sheet of paper in front of him with a column on it that had been on the wall in five parts since the twenty-first of the month before last, and he had not drawn a new one, and that was the first thing he said and it is in the minute in his own hand.
 
 "**I have not drawn a new sheet and I want that read out before anybody says anything, because I have been a clerk for six years and a secretary for two and in all that time the only thing I have ever been proud of is that I have never once put a figure on a wall that I did not intend to defend line by line, and I am not going to start on a day when I would have to defend a figure I did not write.**
 
-"So the paper is the paper of the twenty-first of last month, in five columns, at fifty coppers a quarter over four thousand and one households. And the fifth column says nine, and it says a lamp and a bushel of chalk at one signal hut on the Needle line at the ninth place, for one quarter. And that column has been in three votes since the thirteenth of this month and it has been the only line anybody has ever argued about.
+"So the paper is the paper of the twenty-first of the month before last, in five columns, at fifty coppers a quarter over four thousand and one households. And the fifth column says nine, and it says a lamp and a bushel of chalk at one signal hut on the Needle line at the ninth place, for one quarter. And that column has been in three votes since the thirteenth of this month and it has been the only line anybody has ever argued about.
 
 "And I am not proposing anything. **Ask somebody else.**"
 
@@ -12,13 +12,13 @@ He said that in about nine seconds and sat down, and about thirty people in that
 
 ---
 
-"**The ninth column is a lamp,**" he said, "**and I have been to that place twice a week for nine years and I have paid for that lamp, and I am telling this room that a lamp is not a line.**
+"**The ninth coppers is a lamp,**" he said, "**and I have been to that place twice a week for nine years and I have paid for that lamp, and I am telling this room that a lamp is not a line.**
 
-"**A lamp is for a man who is going somewhere. I have got nine vehicles of my own on that siding since the eleventh of last month because your yards are full, and I have got a stock of lead and timber in a field up there, and a chalk line went on the ground sixty yards past that column on Wednesday afternoon, and two women are holding it, and a mechanic of forty-three gave up a lease on Wednesday, and a rate sheet went up on Saturday that says the whole place is worth two hundred coppers a quarter.**
+"**A lamp is for a man who is going somewhere. I have got nine vehicles of my own on that siding since the eleventh of last month because your yards are full, and I have got a stock of lead and timber in a field up there, and a chalk line went on the ground sixty yards past that column on the twenty-ninth and two women are holding it, and a mechanic of forty-three gave up a lease on the thirtieth, and a rate sheet went up on the twenty-eighth that says the whole place is worth two hundred coppers a quarter.**
 
 "So there is a line. And the nine coppers buys a lamp on it. **I move that the ninth coppers stands, and that a lamp and a bushel of chalk is a service, and that the service is finished, and that the line is not a service and I have not the least idea what it is and this market can find out by paying for it.**"
 
-Nobody had prepared for that and it took about nine seconds to find out what the market was going to do about it, and what the market did was find a woman of about fifty named Hessa Krell who had a stall and who had taken the printing of Saturday's sheet on her own trade for eight hundred and eighty-eight coppers she does not have, and who stood up in the fourth chair and said the whole of it in about thirty seconds.
+Nobody had prepared for that and it took about nine seconds to find out what the market was going to do about it, and what the market did was find a woman of about fifty named Hessa Krell who had a stall and who had taken the printing of the market's five hundred on her own trade for eight hundred and ninety-four coppers she does not have, and who stood up in the fourth chair and said the whole of it in about thirty seconds.
 
 "**Then I move twenty-two.** And the reason is not generosity. **The reason is that on the twenty-ninth of this month four people walked five miles of railway and put a line on the ground, and one of the two women holding that line said out loud that she wanted to be findable, and on the thirtieth a mechanic gave up the only stabling he has ever had, and a sheet has been pinned up saying a village is worth two hundred coppers a quarter, and every one of those four things is a thing that happens on a line and not on a street, and this market has funded a lamp on a line for three weeks and a chalk and has not paid for one single one of them.**
 
@@ -32,13 +32,13 @@ Nobody had prepared for that and it took about nine seconds to find out what the
 
 **And the rate on the line is fourteen coppers a quarter, and nobody proposed fourteen, and the fourteen is what is left of nine and twenty-two after a chandler and a haulier spent about eleven minutes on arithmetic in public, and Ivo Stenn entered it in his own hand and the entry is the finding of the second of this month and it is the last line of the minute.**
 
-> **THE RATE ON THE LINE IS FOURTEEN COPPERS A QUARTER. IT WAS NINE. I PROPOSED NINE, IN A COLUMN, IN WRITING, ON THE TWENTY-ONE OF LAST MONTH, AND IT STANDS AS NINE IN THE PAPER ON THE WALL BESIDE ME, AND NOBODY HAS ASKED ME TO MOVE IT AND I HAVE NOT MOVED IT. FOURTEEN WAS NOT MY FIGURE. IT WAS NINE PLUS WHAT FOUR THINGS COST, AND THE FOUR THINGS ARE A LAMP, A BUSHEL OF CHALK, FOURTEEN PINTS OF WHITE PAINT, AND A SHEET. I HAVE COSTED THE FIRST THREE AND THE FOURTH I HAVE ASKED A MAN OF SEVENTY TO PRICE AND HE HAS SAID FOUR HUNDRED AND FORTY-FOUR COPPERS FOR A RUN OF FIVE HUNDRED, WHICH IS SEVENTY-FOUR COPPERS A QUARTER IF IT IS SPREAD OVER A YEAR, AND THE LINE IS FOURTEEN, AND THE SHEET IS THE PART OF THE FOURTEEN THAT DOES NOT FIT IN IT, AND I HAVE ENTERED THAT AND THE MARKET KNOWS IT.**
+> **THE RATE ON THE LINE IS FOURTEEN COPPERS A QUARTER. IT WAS NINE. I PROPOSED NINE, IN A COLUMN, IN WRITING, ON THE TWENTY-ONE OF THE MONTH BEFORE LAST, AND IT STANDS AS NINE IN THE PAPER ON THE WALL BESIDE ME, AND NOBODY HAS ASKED ME TO MOVE IT AND I HAVE NOT MOVED IT. FOURTEEN WAS NOT MY FIGURE. IT WAS NINE PLUS WHAT FOUR THINGS COST, AND THE FOUR THINGS ARE A LAMP, A BUSHEL OF CHALK, FOURTEEN PINTS OF WHITE PAINT, AND A SHEET. I HAVE COSTED THE FIRST THREE AND THE FOURTH I HAVE ASKED A MAN OF SEVENTY TO PRICE AND HE HAS SAID NINE HUNDRED COPPERS FOR A RUN OF FIVE HUNDRED, WHICH IS TWO HUNDRED AND TWENTY-FIVE COPPERS A QUARTER IF IT IS SPREAD OVER A YEAR, AND THE LINE IS FOURTEEN, AND THE SHEET IS THE PART OF THE FOURTEEN THAT DOES NOT FIT IN IT, AND I HAVE ENTERED THAT AND THE MARKET KNOWS IT.**
 >
 > **AND I DID NOT WRITE IT AND I AM NOT PROUD OF IT. A RATE THAT COMES BACK BY ITSELF IS A RATE THAT WAS NEVER MY DECISION, AND A MAN WHO SPENDS SIX YEARS SAYING NO AND THEN SIGNS A FIGURE HE DID NOT PUT UP FOR IS A MAN WHO HAS LEARNED SOMETHING, AND I AM NOT SURE IT IS THE RIGHT SOMETHING, AND I AM THE SECRETARY OF THIS MARKET AND IT IS MY HAND ON THE MINUTE AND THAT IS THE WHOLE OF WHAT I HAVE.**
 
 ---
 
-**And then somebody in the room said the thing that made it a rate for a road and not a rate for a lamp, and it was said by the woman of the eleventh chair's opposite, who is a woman of about sixty with a stick and who has been to a ward market counter four times in nine days and who was not on any roll and got in because somebody held a door.**
+**And then somebody in the room said the thing that made it a rate for a road and not a rate for a lamp, and it was said by the woman in the seventh chair, who is a woman of about sixty with a stick and who has been to a ward market counter four times in nine days and who was not on any roll and got in because somebody held a door.**
 
 "You have all been talking about the fifth column," she said. "**And none of you have said the word, and I have been sitting in this room for twenty minutes waiting for one of you to say it, and I am going to say it and then I am going to sit down, because I have a bad hip and I came for the door.**
 
@@ -50,7 +50,7 @@ And nobody argued with her, and Stenn entered it in the minute, and he entered t
 
 **And the sheet was printed on the third and it is the third thing in this district that a stranger can take cold and use, and the toll column on it is the widest column on the page, and the reason is that the widest column is the one with nothing in it.**
 
-It is a single sheet, a run of five hundred, set by hand by a man of seventy at a figure of nine hundred and six coppers that was quoted on the fourteenth of this month and is entered as unpaid and not as nil, and the gap between nine hundred and six coppers and twelve coppers is eight hundred and ninety-four coppers and it was carried on a trade for the second time by the same chandler, and she put her stall's name at the bottom of it in type the size of the date, and she said when she was asked that if she had to explain that again she would put her stall's name in smaller type.
+It is a single sheet, a run of five hundred, set by hand by a man of seventy at a figure of nine hundred and six coppers, which is four for the stock and two for the setting and nine hundred quoted on the fourteenth of this month, and it is entered as unpaid and not as nil, and the gap between the nine hundred and six and the twelve coppers the column buys is eight hundred and ninety-four coppers and it was carried on a trade for the second time by the same chandler, and she put her stall's name at the bottom of it in type the size of the date, and she said when she was asked that if she had to explain that again she would put her stall's name in smaller type.
 
 > **THE TIMETABLE OF THE NEAR SECTION OF THE NEEDLE LINE, TWELVE PLACES AND HARROW. EASTBOUND ONLY. A DAY AGAINST EVERY TRAIN. A TIME, A PLACE, A TRAIN, A TOLL.**
 >
@@ -58,7 +58,7 @@ It is a single sheet, a run of five hundred, set by hand by a man of seventy at 
 >
 > **PASSENGERS PAY NOTHING. THE CHARGE FALLS ON THE ORIGIN, WHICH IS A PLACE. THIS MARKET CANNOT PRINT THE AMOUNT OF THE ORIGIN BECAUSE NOBODY IN THIS DISTRICT CAN STATE IT, AND THE COLUMN IS PRINTED ANYWAY, AT FULL WIDTH, IN THE MIDDLE OF THE SHEET, BECAUSE A COLUMN THAT IS PRINTED NARROW LOOKS LIKE A COLUMN THAT HAS BEEN KEPT QUIET.**
 >
-> **AND AT THE BOTTOM, IN THE SAME TYPE AS EVERYTHING ELSE: THE TRAIN AT THE WEST END OF THIS LINE HAS STOOD FIFTY-ONE DAYS AND CANNOT BE MOVED EAST, AND THE WEST END IS A BOUNDARY HELD BY TWO NAMED PEOPLE UNTIL THE TWENTY-NINTH OF THIS MONTH BY THE NEW ONE, AND A TIMETABLE IS NOT A PROMISE AND THIS ONE KNOWS IT.**
+> **AND AT THE BOTTOM, IN THE SAME TYPE AS EVERYTHING ELSE: THE TRAIN AT THE WEST END OF THIS LINE HAS STOOD FIFTY-ONE DAYS AND CANNOT BE MOVED EAST, AND THE WEST END IS A BOUNDARY HELD BY TWO NAMED PEOPLE UNTIL THE TWENTY-NINTH OF THIS MONTH, AND THE DAY AFTER THAT NOBODY HAS NAMED YET, AND A TIMETABLE IS NOT A PROMISE AND THIS ONE KNOWS IT.**
 
 **And Halloway Reed sent nobody to look at it and did not mention it, and Ivo Stenn went and told him what it said, on the arch, on the fourth, at about eleven, and it took about four minutes and it is the first time in seven weeks that anybody in this district has gone to a man on a tram arch to say a thing out loud to his face about something he got right.**
 
@@ -68,7 +68,7 @@ It is a single sheet, a run of five hundred, set by hand by a man of seventy at 
 
 "**Why.**"
 
-"**Because I have been printing a column with four coppers in it at full width for seven weeks, and mine was a lie and yours is a hole, and a hole is worth more than a lie to a man who has to decide whether to get on a train.**" He pulled the sheet out of his coat, and he had one, and it was creased, and he had been carrying it since Wednesday. "**And I have been beaten by a market of small things by a column, and I want you to understand that I have been beaten by the only argument I have not got, and I have got one more.**
+"**Because I have been printing a column with four coppers in it at full width for seven weeks, and mine was a lie and yours is a hole, and a hole is worth more than a lie to a man who has to decide whether to get on a train.**" He pulled the sheet out of his coat, and he had one, and it was creased, and he had been carrying it since the market printed it on the third. "**And I have been beaten by a market of small things by a column, and I want you to understand that I have been beaten by the only argument I have not got, and I have got one more.**
 
 "**Your timetable has days on it. That is a thing I did not think of and I have been printing timetables for six weeks and I did not put a day on one, because a day is a promise and I do not have anything to promise with, and your market has put a day on a railway that has nine vehicles standing on a village's hard ground, and that is either the most honest piece of printing in this basin or the most reckless, and I have not worked out which and I have had a day to work on it.**"
 
@@ -90,7 +90,7 @@ And Orren Pike was paid four coppers a quarter, and he took it, and nobody thank
 
 ---
 
-**And the fifth line on Bett Ruhl's wall was written on the fifth of the new month in a hand big enough to be read from a doorway, and it took two attempts and about four minutes, and the cook dictated it and could not read it back, and Rutt read it out at the ward market counter at six that morning and again at nine, and about two hundred and ninety people heard it in two days, and it is the longest thing on that wall and there are six.**
+**And the sixth line on Bett Ruhl's wall was written on the fifth of the new month in a hand big enough to be read from a doorway, and it took two attempts and about four minutes, and the cook dictated it and could not read it back, and Rutt read it out at the ward market counter at six that morning and again at nine, and about two hundred and ninety people heard it in two days, and it is the longest thing on that wall and there are six.**
 
 > **A REFUSAL IS NOT FREE. IT IS A DAY, AND SOMEBODY PAYS THE DAY. THE FIRST TIME THIS DISTRICT PRICED ONE IT WAS ONE HOUR AND ELEVEN MINUTES OF DAYLIGHT AND FOUR PEOPLE STANDING IN A DRAIN, AND THAT IS NOT THE COST. THE FIGURES ARE THE COST OF THE ROOM. THE COST OF THE THING IS WHAT THE ROOM WAS DOING BEFORE THE WORD, AND NOBODY HAS COSTED THAT YET, AND I AM NOT A CLERK AND I AM NOT GOING TO BE THE ONE WHO FINDS IT.**
 
@@ -106,13 +106,13 @@ And Nessa Pell entered on the same afternoon that **Bett Ruhl was read the whole
 
 "**So: that is not enough, and I am not going to say what it is instead, because what it is instead is the office, and I have said so from this rail every published day for eight years, and I am not going to vary it in the ninth year of it, and I would like the minute to say that I said it here first and that I said it before the arch does.**"
 
-And the yard did the thing it has done every published day for three weeks, which is to stand there, and the minute of the fifth of the new month is four lines long and the last of them is the reason the rate on the line is fourteen and the boundary is a month and the first timetable in this district's history is in a market's file with a hole in the middle of it, and the last line says: **THE WARD MARKET HAS ANSWERED FOR ITSELF. A DISTRICT HAS NOT BEEN ASKED AND A DISTRICT HAS NO MINUTE TO ANSWER IN, AND A MARKET IS NOT A DISTRICT AND ITS ANSWER IS NOT THE DISTRICT'S ANSWER, AND THE TWENTY-NINTH OF NEXT MONTH IS A DAY NOBODY HAS NAMED FOR THAT PURPOSE, AND THE LINE HOLDS UNTIL IT, AND AFTER IT SOMEBODY IS GOING TO HAVE TO GO UP A BANK AND ASK TWO WOMEN.
+And the yard did the thing it has done every published day for three weeks, which is to stand there, and the minute of the fifth of the new month is four lines long and the last of them is the reason the rate on the line is fourteen and the boundary is a month and the first timetable in this district's history is in a market's file with a hole in the middle of it, and the last line says: **THE WARD MARKET HAS ANSWERED FOR ITSELF. A DISTRICT HAS NOT BEEN ASKED AND A DISTRICT HAS NO MINUTE TO ANSWER IN, AND A MARKET IS NOT A DISTRICT AND ITS ANSWER IS NOT THE DISTRICT'S ANSWER, AND THE TWENTY-NINTH OF THIS MONTH IS A DAY NOBODY HAS NAMED FOR THAT PURPOSE, AND THE LINE HOLDS UNTIL IT, AND AFTER IT SOMEBODY IS GOING TO HAVE TO GO UP A BANK AND ASK TWO WOMEN.
 
 And nobody has been paid anything. The two hundred coppers a quarter for the ninth place and the three hundred for the two blocks were entered on the twenty-eighth of last month and are collected in the quarter in which they are voted, and the quarter in which they were voted is over.
 
 ---
 
-**And on the fifth of the new month the wall of Lot 17 had seven sheets on it and the rate was fourteen, and the seventh of them was not a document at all, it was a slate, and it had one thing on it, and Nessa Pell wrote it up in about nine seconds because it was nine words and it was true, and it is the term of the only instrument this district has built in six weeks that anybody is holding.**
+**And on the fifth of the new month the wall of Lot 17 had seven sheets on it and the rate was fourteen, and the seventh of them was not a document at all, it was a slate, and it had one thing on it, and Nessa Pell wrote it up before she had sat down, because it was nine words and it was true, and she has entered that she did not check it twice, and it is the term of the only instrument this district has built in six weeks that anybody is holding.**
 
 > **THE WEST END IS HELD BY TWO PEOPLE UNTIL THE TWENTY-NINTH OF THIS MONTH. RENEWED ONLY BY ASKING BOTH OF THEM AGAIN, IN A ROOM, WITH THE ASKING AND THE HOUR AND THE ANSWER ENTERED, WHATEVER THE ANSWER IS. AND THE TWENTY-NINTH IS THE SAME DAY OF THE MONTH AS THE DAY IT WAS MADE, AND NOBODY HAS SAID THAT IS A GOOD WAY TO DO IT, AND IT IS THE ONLY WAY ANYBODY IN THIS DISTRICT HAS BEEN ABLE TO DO IT.**
 
@@ -124,6 +124,6 @@ And the ward market's first timetable went out on the fifth on the district's th
 
 **And the key turned on the second of the new month, in the same yard, in daylight, with about six hundred people in it because the market had told everybody in four trades that the vote was on the second, and the condition Adrian Vale attached on the twenty-ninth was honoured exactly and to the word.**
 
-He held it one term. He said in advance that he would hold it one term and then the yard would ask somebody else in public, and the yard asked, in a yard, in daylight, at about half past three in the afternoon, and a man of about fifty-six off the lower terrace who has kept a chandler's second counter for thirty-one years said yes in about nine seconds, asked for it to be in writing that he does not read figures and that a reader at a counter is the only person who may read anything to him, and asked for the term to be four days, and got all three.
+He held it one term. He said in advance that he would hold it one term and then the yard would ask somebody else in public, and the yard asked, in a yard, in daylight, at about half past three in the afternoon, and a man of about fifty-six off the lower terrace who has kept a chandler's second counter for thirty-one years said yes in about ten seconds, asked for it to be in writing that he does not read figures and that a reader at a counter is the only person who may read anything to him, and asked for the term to be four days, and got all three.
 
 **And he is a man with a name in the book and not a seat and not a clerk and he has been in three kitchens in this city and Bett Ruhl has been one of them, and nobody in that yard mentioned it, and Bett Ruhl did not come, and she had been asked and had said she would not, and the reason she gave was that a person being replaced is not a thing to stand in a yard and look at, and the reason is in the book in her own words and it is in a hand that is not her writing because somebody wrote it for her at a kitchen table and she cannot read it and did not ask to have it read back.**

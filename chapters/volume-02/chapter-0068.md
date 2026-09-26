@@ -20,7 +20,7 @@ The tenth hand counted stalls. He counted ten going and ten coming, and he had m
 
 ---
 
-**And the second count was Ivo Stenn's, and it is four marks and then seven marks, and it is the first count anybody in this district has taken of places a rate could be written on, and he did it because he had promised a rate sheet and had run out of lines and had started counting things that were not houses.**
+**And the second count was Ivo Stenn's, and it is six marks going and seven marks coming, and it is the first count anybody in this district has taken of places a rate could be written on, and he did it because he had promised a rate sheet and had run out of lines and had started counting things that were not houses.**
 
 "Going, I had six," he said. "**The fourth place, which is a lamp and a nameplate and no keeper. The fifth, which is a culvert. The seventh, which is a length of green pipe with one end in the ballast. The sixth, which is a drain. The eighth, which is a shoulder with a drop off it. And the fourth's boundary post, which is a post.**
 
@@ -50,13 +50,13 @@ And Rutt wrote it down on her working page, which is not a public record, and ga
 
 **And the key turned on the twenty-ninth, at about ten to seven in the evening, eleven minutes after the twelfth part was published, in the same yard, with the same four seats named aloud, and the board asked nobody and the yard asked.**
 
-Oswin Tace held it from the twenty-eighth for four days and it expired at midnight on the thirtieth, and the renewal is on the twenty-ninth, and the board cannot ask a person whether they will do a job, and so the yard did it, and about nine people said no in about nine minutes for reasons that went in, and the finding is the finding of the month and it is at the top of the notice board under two lapses.
+Oswin Tace held it from the twenty-eighth for four days and it runs to midnight on the first of the next month, and the renewal was set for the thirtieth, and the board cannot ask a person whether they will do a job, and so on the evening before the renewal the yard did it, and about nine people said no in about ten minutes for reasons that went in, and the finding is the finding of the month and it is at the top of the notice board under two lapses.
 
-> **A BOARD THAT ASKS AT THE END OF A TERM HAS NOT ASKED IN TIME. A BOARD THAT CANNOT ASK AT ALL AND LEAVES IT TO A CROWD IS A BOARD WHOSE ROTATION IS A WEATHER. TWO LAPSES IN ONE MONTH, FOUR DAYS EACH, EIGHT DAYS IN WHICH A CASE STOOD SHUT IN A LOCKED OFFICE ON A TERM THAT HAD RUN OUT. AND THE OBJECT INSIDE IT IS A PIECE OF BRASS THAT HAS A CRACK THROUGH IT AND WEIGHS TWO HUNDRED AND FOUR GRAINS AGAINST TWO HUNDRED AND ELEVEN, AND NOBODY HAS TAKEN ANYTHING.**
+> **A BOARD THAT ASKS AT THE END OF A TERM HAS NOT ASKED IN TIME. A BOARD THAT CANNOT ASK AT ALL AND LEAVES IT TO A CROWD IS A BOARD WHOSE ROTATION IS A WEATHER. TWO LAPSES IN ONE MONTH, FOUR DAYS AND TWO DAYS, SIX DAYS IN WHICH A CASE STOOD SHUT IN A LOCKED OFFICE ON A TERM THAT HAD RUN OUT. AND THE OBJECT INSIDE IT IS A PIECE OF BRASS THAT HAS A CRACK THROUGH IT AND WEIGHS TWO HUNDRED AND FOUR GRAINS AGAINST TWO HUNDRED AND ELEVEN, AND NOBODY HAS TAKEN ANYTHING.**
 
 ---
 
-**And about nine people said no in about nine minutes, and the reasons are in the book, and three of them are the reasons the twenty-ninth needed, and the tenth person who said yes said it in eleven seconds and the yard went quiet for about four.**
+**And about nine people said no in about ten minutes, and the reasons are in the book, and three of them are the reasons the twenty-ninth needed, and the tenth person who said yes said it in eleven seconds and the yard went quiet for about four.**
 
 **And the term the board set, all four seats named aloud, at about ten to seven on the twenty-ninth, eleven minutes after the twelfth part was published in the same yard, was four days, from the thirtieth of this month, expiring at midnight on the third of the next month, and the renewal is on the second, and the second is inside the week in which the ward market votes a rate and prints a timetable, and the board entered that it had not noticed that when it set the term, and entered it a second time about nine minutes later when the yard told it.**
 
@@ -76,7 +76,7 @@ The reasons the nine gave were ordinary and are printed at length because ordina
 
 "**I will hold it one term and then the yard will ask somebody else in public, and I am asking for that to be written on the sheet with my name on it, because the standing objection to everything I have done in five weeks is one man's limit checked by one man, and it is a fair objection, and the only answer anybody has ever found to it is a notice nailed up in eleven places.**" He turned round to the yard. "**And I am not a Binder and I cannot close anything and I cannot post a security, and a key is not a charter and I am not being made one, and if anybody in this yard has come here this evening expecting a road to open then they have come to the wrong yard and I would rather they had come to the right one and been told this in these words.**"
 
-"Nobody thanked him," said Orren Pike, at the rail, in his own voice, to about nine feet of nobody. "**And nobody is going to, and he would not want it to, and I want it entered that I said so and that it is the fourth time this month that a person in this district has done something and not been thanked, and there is no column for that either.**"
+"Nobody thanked him," said Orren Pike, at the rail, in his own voice, to about ten feet of nobody. "**And nobody is going to, and he would not want it to, and I want it entered that I said so and that it is the fourth time this month that a person in this district has done something and not been thanked, and there is no column for that either.**"
 
 ---
 
@@ -110,7 +110,7 @@ Tarin Kest read it out, and then he said the numbers, and he said them without b
 
 "And the third figure is the one to be entered, and it is not a figure at all, and put it in the middle of the sheet where nobody skips it. **I have not staffed a span, I have not put a man on a line, and I have not asked anybody for anything, and I have done this before a wall went and not after, and not after a train was late, and I have said the harder half of it out loud on my own ballast on the ninth of this month in front of three people and it is in a book.**"
 
-**And he was not let off, and he did not ask to be let off, and the woman who did it was the woman of fifty from the ninth place, and she had walked east on the thirtieth with the counts, and she came about nine feet forward in a yard of about two hundred and forty people and asked him a question that took about forty seconds and that has been the cost of this transaction ever since.**
+**And he was not let off, and he did not ask to be let off, and the woman who did it was the woman of fifty from the ninth place, and she had walked east on the thirtieth with the counts, and she came about ten feet forward in a yard of about two hundred and forty people and asked him a question that took about forty seconds and that has been the cost of this transaction ever since.**
 
 "**Mr. Kest. I have got a question and I have had it since the ninth of this month and you gave me an answer on that day that was not the answer to it.**
 
@@ -118,9 +118,9 @@ Tarin Kest read it out, and then he said the numbers, and he said them without b
 
 "Not thirty-six coppers—"
 
-"**Not the money. I have seen the meter book, a clerk brought it to me on the thirtieth and told me the number himself, because he said a person who has been at a place ought to know what a place earns.**" She was not shouting and she had not come further than nine feet. "**What did the water cost me.**"
+"**Not the money. I have seen the meter book, a clerk brought it to me on the thirtieth and told me the number himself, because he said a person who has been at a place ought to know what a place earns.**" She was not shouting and she had not come further than ten feet. "**What did the water cost me.**"
 
-And Tarin Kest, who is forty-three and who has answered about a lease and a stabling yard and a repair crew and his own standing in about eleven minutes without stopping, stood in a yard in Alder Reach and could not answer that, and it took him about twenty seconds to fail to answer it and about nine seconds to say what his failure was.
+And Tarin Kest, who is forty-three and who has answered about a lease and a stabling yard and a repair crew and his own standing in about eleven minutes without stopping, stood in a yard in Alder Reach and could not answer that, and it took him about twenty seconds to fail to answer it and about ten seconds to say what his failure was.
 
 "**Nobody cost it,**" he said. "**I drew that water off twice a week for nine years through men I paid, and four of them a week, and none of them ever asked you a question about anything except the water, and I have known that for nine years and I did not think of it as a cost, and it is not in any book in this city, and I have been the person who owned the meter and not the person who asked what the meter was for.**"
 
@@ -134,7 +134,7 @@ And Nessa Pell, who is a clerk of nineteen years and who has been one of the onl
 
 "**Will you say it to me now, in those words, and shall I write it down?**
 
-"**And I want to say before you answer that I have been a clerk for nineteen years and I have never once put a mark on a page, and I have started one this month because a boy of fifteen handed me a sheet with a question on it and I refused to put it in the book, and it has been sitting on my desk for ten days and it is the only piece of paper on my desk that anybody in this city is waiting for.**"
+"**And I want to say before you answer that I have been a clerk for nineteen years and I have never once put a mark on a page, and I have started one this month because a boy of fifteen handed me a sheet with a question on it and I refused to put it in the book, and it has been sitting on my desk for a fortnight, and it is the only piece of paper on my desk that anybody in this city is waiting for.**"
 
 And the woman of fifty said it again, in the same words, and Nessa Pell wrote it down, and it is the last entry of the thirtieth of this month, and it is the first entry in that book that is a cost somebody has agreed to be paid, and **the name of the payer is not in it, and it is not going to be, and the clerk who wrote it entered that as her own decision and not as a rule.**
 

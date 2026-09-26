@@ -4,7 +4,7 @@ At ten past six in the morning on the twenty-sixth of this month the ward market
 
 Rutt was four days a week at eleven coppers a quarter and her shoulder had been bad since the flood year and the term has no clause for a shoulder, and she had walked nine miles on it on the fifteenth of this month and told nobody, and she was standing behind a counter on the morning of the twenty-sixth with her reading sheet in front of her and a man of about forty putting a sheet of paper on it.
 
-"I have been selling on that arch since the flood year," said Halloway Reed. "**And I have never once come to a counter, and I have come to this one, and Enter that I came to it, because in about four years there is going to be a book somewhere that says a great many things about me and one of them ought to be that I walked into a ward market when I did not have to.**"
+"I have been selling on that arch since the flood year," said Halloway Reed. "**And I have never once come to a counter, and I have come to this one, and enter that I came to it, because in about four years there is going to be a book somewhere that says a great many things about me and one of them ought to be that I walked into a ward market when I did not have to.**"
 
 Rutt looked at the sheet.
 
@@ -58,13 +58,13 @@ So she read it again, and about eleven people heard it, and then he asked her th
 
 "That is right."
 
-"**The whole of what this district will spend on the Needle line for a year is fifty-six coppers.**" He had the rate sheet out of his coat and he did not read it and he did not need to. "Nine of them a quarter for a lamp and a bushel of chalk. Six of them a quarter for printed matter that has not been printed. The rest is not on the line."
+"**The whole of what this district will spend on the Needle line for a year is sixty coppers.**" He had the rate sheet out of his coat and he did not read it and he did not need to. "Nine of them a quarter for a lamp and a bushel of chalk. Six of them a quarter for printed matter that has not been printed. The rest is not on the line."
 
 "Then I have made more in forty minutes than the ward market has spent on that railway since the flood year."
 
 "**You have, and I have written it in my own book and I want the number of it in a column of its own, and the column is going to be headed *what the counterfeit got there first with*, and I have wanted that column since the eighth of this month, and you have just put the figure in it, and I am not going to thank you for it because I have not got a way of doing that which is not a lie.**"
 
-"**Then do not thank me,**" said Halloway Reed. "**I have never wanted to be thanked. I want to be accurate, and being accurate is not the same as being right, and I want those two words separated in whatever book you keep, because a man who is accurate and wrong is a much more useful thing to a city than a man who is vague and right, and Make sure the record has got that.**"
+"**Then do not thank me,**" said Halloway Reed. "**I have never wanted to be thanked. I want to be accurate, and being accurate is not the same as being right, and I want those two words separated in whatever book you keep, because a man who is accurate and wrong is a much more useful thing to a city than a man who is vague and right, and make sure the record has got that.**"
 
 And Stenn said, "**Say the rest of it.**"
 
@@ -116,9 +116,9 @@ And Rutt read it out again, and asked the woman what she came for, and the woman
 
 **And on the twenty-seventh of this month the ward market spent its six coppers of printed matter before the light went, and found out what a sheet costs, and the finding is on the printer's own invoice and is unpaid and not as nil.**
 
-There is one independent printer left in Alder Reach and he is about seventy and he has set type by hand since before the water came, and he quoted nine hundred coppers for a run of five hundred on the fourteenth of this month, and nine hundred coppers is four times the whole of what the market has voted for printed matter in two quarters, and **Ivo Stenn went to him on the morning of the twenty-seventh with six coppers in his hand and came back at about half past four in the afternoon with five hundred sheets and a figure on a piece of paper.**
+There is one independent printer left in Alder Reach and he is about seventy and he has set type by hand since before the water came, and he quoted nine hundred coppers for a run of five hundred on the fourteenth of this month, and nine hundred coppers is seventy-five times the whole of what the market has voted for printed matter in two quarters, and **Ivo Stenn went to him on the morning of the twenty-seventh with six coppers in his hand and came back at about half past four in the afternoon with five hundred sheets and a figure on a piece of paper.**
 
-> **NINE HUNDRED COPPERS, QUOTED THE FOURTEENTH, PAYABLE BEFORE THE RUN. SIX COPPERS A QUARTER, VOTED THE TWENTY-FIFTH, EQUALS TWELVE COPPERS FOR TWO QUARTERS. THE GAP IS EIGHT HUNDRED AND EIGHTY-EIGHT COPPERS AND IT IS ENTERED AS UNPAID AND NOT AS NIL, BECAUSE A NIL WOULD BE A NUMBER THE PRINTER CHOSE, AND HE DID NOT CHOOSE IT, HE QUOTED IT.**
+> **NINE HUNDRED AND SIX COPPERS, WHICH IS FOUR FOR THE STOCK AND TWO FOR THE SETTING AND NINE HUNDRED QUOTED ON THE FOURTEENTH, PAYABLE BEFORE THE RUN. SIX COPPERS A QUARTER, VOTED THE TWENTY-FIFTH, EQUALS TWELVE COPPERS FOR TWO QUARTERS. THE GAP IS EIGHT HUNDRED AND NINETY-FOUR COPPERS AND IT IS ENTERED AS UNPAID AND NOT AS NIL, BECAUSE A NIL WOULD BE A NUMBER THE PRINTER CHOSE, AND HE DID NOT CHOOSE IT, HE QUOTED IT.**
 
 He took it on a trade. That is a thing printers do and it is not charity; a man who prints on a trade puts the trade's name on the sheet and the trade has told everybody it is a sponsor, and the printer is owed and the debt is somebody else's for about a year. **The trade that took it was the chandlers, and Hessa Krell put her stall's name at the bottom of it in type the size of the date, and she told the printer and Stenn and about nine other people in the same breath that she was doing it because this market has printed nothing since the flood year and the first thing it printed should not have somebody else's stall on the bottom of it, and nobody believed her, and the entry says the reason was entered by the person it belongs to.**
 
@@ -128,7 +128,7 @@ And this is the sheet.
 >
 > **AND AT THE BOTTOM, IN THE SAME TYPE, THE SENTENCE THAT WAS ON THE FIRST SHEET AND IS THE ONLY REASON ANY OF IT IS HAPPENING: THIS IS A DATE A PERSON COULD BE WRONG ABOUT.**
 
-It went up on eleven boards and into the file and it was read out at the ward market counter at six the next morning by a woman who reads four days a week at eleven coppers a quarter, and about two hundred and eighty people heard it in two days, and **it is the second thing in this district that a stranger can take cold and use. The first one was a public lot book. The second one is a single sheet of paper with a chandler's stall on the bottom of it and eight hundred and eighty-eight coppers of unpaid printing on the invoice behind it.**
+It went up on eleven boards and into the file and it was read out at the ward market counter at six the next morning by a woman who reads four days a week at eleven coppers a quarter, and about two hundred and eighty people heard it in two days, and **it is the second thing in this district that a stranger can take cold and use. The first one was a public lot book. The second one is a single sheet of paper with a chandler's stall on the bottom of it and eight hundred and ninety-four coppers of unpaid printing on the invoice behind it.**
 
 ---
 

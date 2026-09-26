@@ -1,6 +1,6 @@
 # Chapter 65: A Mark May Not Carry a Job
 
-Orren Pike had the index of marks open on a kitchen table under the Ward Nine tram line at about six in the morning on the twenty-eight of this month, and it is not a large document. It is eleven leaves in a fair copy with a piece of tape down the middle of the spine, and it is the only piece of administration anybody in this district has ever asked for, and it was asked for by a clerk in the third week of the month before last because a book of marks was a book in which a person could be found twice, and a person found twice in this district is a person who has been made into an officer by accident.
+Orren Pike had the index of marks open on a kitchen table under the Ward Nine tram line at about six in the morning on the twenty-eighth of this month, and it is not a large document. It is eleven leaves in a fair copy with a piece of tape down the middle of the spine, and it is the only piece of administration anybody in this district has ever asked for, and it was asked for by a clerk in the third week of the month before last because a book of marks was a book in which a person could be found twice, and a person found twice in this district is a person who has been made into an officer by accident.
 
 **A mark is a person's refusal of a name. A mark is not a person. It may not be used as a bearer, a holder, a witness, a responsible party, or a person who is asked.** Nessa Pell reads the index aloud when anybody asks her to and the reason it exists is in the entry at the front of the first leaf, which is that a mark is a decision somebody made about themselves at some cost, and the only honest thing a book can do with a decision like that is to hold it still.
 
@@ -10,7 +10,7 @@ Orren Pike had the index of marks open on a kitchen table under the Ward Nine tr
 
 "And how long did it take you?"
 
-"**A minute and a half, and about eleven minutes of standing in a kitchen reading my own handwriting,**" he said, "**and I have been paid nothing for nine weeks and I want it entered that the finding is dated by whoever asked the question and not by whoever found it.**"
+"**A minute and a half, and about ten minutes of standing in a kitchen reading my own handwriting,**" he said, "**and I have been paid nothing for nine weeks and I want it entered that the finding is dated by whoever asked the question and not by whoever found it.**"
 
 ---
 
@@ -92,13 +92,13 @@ She is about fifty. She has had the water off that column for eleven years and f
 
 Nobody had thought about the water. It is a column with a tap and a lock and a brass plate on it, and the lock is a road house lock, and the meter is a road house meter, and the water has been drawn off twice a week by men the road house pays, and **if a line goes on the ground at the end of that siding, then a man who is not on the line cannot come up the bank and fill two pails, and the woman on that bank has thirty-one people on it and there is no other water within two miles.**
 
-That is the finding of the twenty-eighth of this month and it is the first time in this volume that anybody has put a thing on the ground and discovered that it has a use which is not on the sheet, and it is in the book in Ivo Stenn's own hand with the finding underneath it.
+That is the finding of the twenty-eighth of this month and it is the first time anybody has put a thing on the ground and discovered that it has a use which is not on the sheet, and Stenn wrote it in the book in his own hand with the finding underneath it.
 
-> **A LINE ON THE GROUND AT THE WEST END OF A SIDING, SAYING THAT NOTHING GOES PAST IT TODAY, TAKES THE WATER OFF WITH IT, BECAUSE THE ONLY WAY UP THAT BANK IS THROUGH THE END OF THE SIDING AND THE PACE IS BEHIND THE PACE. FOUR MEN A WEEK FROM THE NEEDLE ROAD HOUSE HAVE FILLED AT THAT COLUMN FOR NINE YEARS AND THE METERS ARE IN A BOOK IN ALDER REACH AND THE TOTAL IS THIRTY-SIX COPPERS AND THE COLUMN IS THE ONLY WATER FOR TWO MILES.**
+> **A LINE ON THE GROUND AT THE WEST END OF A SIDING, SAYING THAT NOTHING GOES PAST IT TODAY, TAKES THE WATER OFF WITH IT, BECAUSE THE ONLY WAY UP THAT BANK IS THROUGH THE END OF THE SIDING AND THE PAIL IS BEHIND THE PAIL. FOUR MEN A WEEK FROM THE NEEDLE ROAD HOUSE HAVE FILLED AT THAT COLUMN FOR NINE YEARS AND THE METERS ARE IN A BOOK IN ALDER REACH AND THE TOTAL IS THIRTY-SIX COPPERS AND THE COLUMN IS THE ONLY WATER FOR TWO MILES.**
 >
 > **AND THEREFORE THE LINE CANNOT BE AT THE END OF THE SIDING. THE LINE IS PUT SIXTY YARDS FURTHER WEST, PAST THE COLUMN, WHERE THE GROUND STOPS BEING GOOD GROUND AND STARTS BEING THE EMBANKMENT SHOULDER WITH A DROP OF NINE FEET OFF IT ON THE RIVER SIDE. WHICH IS WHERE THE TRAIN CANNOT STAND AND WHERE A MAN CAN WALK AND WHERE THE ONLY THING THAT IS TAKEN AWAY BY PUTTING A LINE ON IT IS A PLACE WHERE A TRAIN COULD BE PUT IF SOMEBODY PUT ONE THERE.**
 
-**And the woman at the column said yes after that, and she said it in about nine seconds, and then she said the thing that is in the book in her words because the standing practice is that the person is in the form.**
+**And the woman at the column said yes after that, and she said it in about ten seconds, and then she said the thing that is in the book in her words because the standing practice is that the person is in the form.**
 
 "**I will say the word. And I want it written down that I have said yes to a thing that will make me findable, and here is the whole of what findable means and I have thought about it since a quarter past ten this morning and it is this.**
 
@@ -112,7 +112,7 @@ That is the finding of the twenty-eighth of this month and it is the first time 
 
 ---
 
-**And the fourth person was asked last, at about twenty past two in the afternoon on the twenty-eighth, at the top of the bank with the light going, and she said no, and her reason is the sentence this district is going to be reading for a year or more, and nobody argued with it and it is in the book in her words and it is not struck.**
+**And the fourth person was asked last, at about twenty past two in the afternoon on the twenty-eighth, at the top of the bank with the light going, and she said no, and her reason is the sentence this district is going to be reading for a year or more, and nobody argued with it, and it is not struck.**
 
 "**I have said the word on this bank to four people and I have said it in your yard to four hundred and I have never given one of them my name, and you are not asking me for my name, and I want that said first, because I know what you are doing and I am not against it.**
 
@@ -130,7 +130,7 @@ He said it.
 
 "**The woman of fifty has a boy of nine. You put her name down and if a man comes up here she can send him to the boy. That is what a name is. It is not a handle for you to find me with. It is a door for me to send him to.**"
 
-Nobody said anything for about nine seconds.
+Nobody said anything for about ten seconds.
 
 "**I said the word on the fifteenth and I said it in your yard and it is on a sheet and it is the only clause in that book that I wrote, and I will say it again on the ballast tomorrow and I will say it four times if it is needed. And I will not hold the line. Those are two different things and I have worked out which one I am doing and it has taken me three hours and a half.**"
 
