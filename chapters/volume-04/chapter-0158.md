@@ -2,7 +2,7 @@
 
 ---
 
-They went out of the yard of Lot Seventeen at about ten in the morning on the sixth of January, and the man the figure of twenty-one years is against walked, and Tarin Kest had a horse that was not his and said the same thing
+They went out of the yard of Lot Seventeen at about ten in the morning on the sixth of January, and the man the figure of twenty-one years is against walked, and Tarin Kest had a horse that was not his and said a thing before anybody asked him for it.
 
 And there were no two of them on the road who had been asked to go and the reason was given in the yard and not on the road, **and a clerk of nineteen years entered that the two of them were on the road for three days and that nothing on the road was entered on the day it happened, and that this is the first gap in this district's record since the eighth of March and that nobody has made a rule about it.**
 
@@ -42,7 +42,7 @@ The man of about thirty at the counter said yes in four seconds when it was put 
 
 Then the man the figure of twenty-one years is against asked to look at the book itself and was allowed, and the book is ruled to a year and the columns are ruled in ink and the rule is straight, and the hand column is filled in a hand that is not the holding column's hand, and he said so out loud and the man of about thirty at the counter said it was so and had not noticed and has four years of it in front of him.
 
-**AND ON THE SEVENTH OF JANUARY THE MAN OF ABOUT THIRTY AT THE UPLAND REFUSED IN FOUR SECONDS TO LET THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST COPY THE FOUR SENTENCES AND GAVE AS THE REASON THAT A COPY OF THAT IS A PIECE OF PAPER WITH NO HOUSE ON IT, AND THE HAND COLUMN IN THE DELIVERY BOOK IS FILLED IN A DIFFERENT HAND FROM THE HOLDING COLUMN AND HE HAD NOT NOTICED.**
+**AND ON THE SEVENTH OF JANUARY THE CLERK OF THE UNDERWRITERS OF THE UPLAND OF ABOUT THIRTY REFUSED IN FOUR SECONDS TO LET THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST COPY THE FOUR SENTENCES AND GAVE AS THE REASON THAT A COPY OF THAT IS A PIECE OF PAPER WITH NO HOUSE ON IT, AND THE HAND COLUMN IN THE DELIVERY BOOK IS FILLED IN A DIFFERENT HAND FROM THE HOLDING COLUMN AND HE HAD NOT NOTICED.**
 
 ---
 
@@ -54,7 +54,7 @@ Nobody took it up and Tarin Kest said that a sheet nailed up in a window frame f
 
 The man the figure of twenty-one years is against said that he had looked at about nine of these in eleven weeks and had not seen one on a wall, and that a wall is a thing a district has and a window frame is a thing a house has, and that the difference between the two is the whole of what he came up the road to find out.
 
-**AND ON THE SEVENTH OF JANUARY A MAN OF ABOUT THIRTY WHO KEEPS THE DELIVERY BOOK OF THE UNDERWRITERS OF THE UPLAND READ OUT A SHEET FROM A NAIL IN A SHED AT THE SECOND RESERVOIR, AND THE THIRD OF ITS FOUR SENTENCES SAYS THAT THE PERSON WHO SIGNS FOR THE WATER IS NOT ASKED WHAT IT IS FOR, AND A NAIL IS NOT A BOARD AND THE COUNT OF BOARDS IN THIS DISTRICT IS FIVE AND DID NOT MOVE.**
+**AND ON THE SEVENTH OF JANUARY THE CLERK OF THE UNDERWRITERS OF THE UPLAND OF ABOUT THIRTY READ OUT A SHEET FROM A NAIL IN A SHED AT THE SECOND RESERVOIR, AND THE THIRD OF ITS FOUR SENTENCES SAYS THAT THE PERSON WHO SIGNS FOR THE WATER IS NOT ASKED WHAT IT IS FOR, AND A NAIL IS NOT A BOARD AND THE COUNT OF BOARDS IN THIS DISTRICT IS FIVE AND DID NOT MOVE.**
 
 ---
 
@@ -70,15 +70,15 @@ And the man who can be found said no in four seconds, and gave the reason in a s
 
 "**A rota is a list of places and a ledger of a house is a list of people, and joining them would be me deciding a thing I am the wrong person to decide.**"
 
-The man of about thirty at the counter asked him what the district wanted, and the man the figure of twenty-one years is against said he wanted to know whether the water was real, and the man said it was standing in front of him and had been since the fourth year, and he said he knew,
+The man of about thirty at the counter asked him what the district wanted, and the man the figure of twenty-one years is against said he wanted to know whether the water was real, and the man said it was standing in front of him and had been since the fourth year, and he said he knew.
 
 And the man said it in a way that was not unkind and was worse than unkind, **and that was the moment of the two days for him, and he wrote the whole of it on the page in the shed and then wrote over the top of it four words and left the four words, and nobody in this district knows what the four words are and he is not going to be asked.**
 
-**AND THE NINTH OF THE FOUR LINES ON THE SHEET IS A HOLDING AND THE TENTH IS NOT A HOLDING AND HAS A FIGURE AGAINST IT, AND THE MAN OF ABOUT THIRTY AT THE COUNTER SAID THAT THE HOUSE DOES NOT HAVE MONTHS, AND A MAN OF ABOUT THIRTY WHO COPIES FOR NOTHING'S RULE THAT A COPY IS THE DOCUMENT AND THE ORIGINAL IS A ROOM WAS SAID OUT LOUD ON A BANK BY A MAN WHO WAS NOT ASKED.**
+**AND THE NINTH OF THE FOUR LINES ON THE SHEET IS A HOLDING AND THE TENTH IS NOT A HOLDING AND HAS A FIGURE AGAINST IT, AND THE CLERK OF THE UNDERWRITERS OF THE UPLAND SAID THAT THE HOUSE DOES NOT HAVE MONTHS, AND THE RULE THAT A COPY IS THE DOCUMENT AND THE ORIGINAL IS A ROOM WAS SAID OUT LOUD IN A SHED DOORWAY BY A MAN WHO WAS NOT ASKED AND WHO IS ABOUT TWENTY-THREE AND COPIES FOR NOTHING.**
 
 ---
 
-The second thing the man of about thirty at the counter said was the reason he had come out into the yard, and he said it in a room with two strangers in it and did not lower his voice, and Tarin Kest entered in his own hand afterwards that the room was a shed and that a room with a stranger in it is a different instrument from a room with the district's people in it, and that the man of thirty knew that and said it anyway.
+The second thing the man of about thirty at the counter said was the reason he had come out into the yard, and he said it in his own house's room with two strangers in it and did not lower his voice, and Tarin Kest entered in his own hand afterwards that the room was a shed and that a room with a stranger in it is a different instrument from a room with the district's people in it, and that the man of thirty knew that and said it anyway.
 
 He said there are about four houses in this basin that put a sheet in front of a family before a season, and that his house writes the four lines on the face of every one of them, and that the other three write between two and five and do not write a third of it, and that the people who come to his counter with a hurt are nearly always holding one of the other three.
 
@@ -120,6 +120,6 @@ Nobody took it up and a man of fifty-six said that the harm was going to be done
 
 The man of about thirty at the counter was asked, in the five things, by a woman of about thirty-three who takes in washing at the second channel, whether the house has ever stopped a delivery, and he said yes, and that he does not know what happens when it does because it has not happened, **and that the four hundred years of refusals in another basin are not in this one and that he was not going to be asked where they are and that he was asked that once and refused once and the two occasions are not joined.**
 
-Then the last of the day, and a clerk of nineteen years entered that the count of unentered days since the twenty-fourth of November is forty-five and is a count of days and not a column, **and that three of the forty-five are days this district spent on a road, and that a day spent on a road is a day a clerk of nineteen years had to be told about afterwards, and that she was, and that telling is not the same as being there**
+Then the last of the day, and a clerk of nineteen years entered that the count of unentered days since the twenty-fourth of November is forty-five and is a count of days and not a column, **and that three of the forty-five are days this district spent on a road, and that a day spent on a road is a day a clerk of nineteen years had to be told about afterwards, and that she was, and that telling is not the same as being there.**
 
 And the nearest delivery on a nail in a shed at the second reservoir is in the first week of the second month, **AND THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST CAME BACK FROM THE UPLAND WITH A PAGE IN HIS OWN HAND THAT IS THINNER THAN A MINUTE, AND THE FOURTH OF NINE HOLDINGS IS A FARM WHOSE OWNER IS ABSENT AND WHOSE SLUICE IS THE ONLY PIECE OF THE WATER THAT CAN BE MOVED A MILE, AND A SHELTER AT THE SLUICE IS FED OFF IT.**

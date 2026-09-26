@@ -10,7 +10,7 @@ He opened the book on the trestle table at the fourth page and read out the tent
 
 Nobody took it up and the man of about thirty at the counter said that the house writes that line itself and has written it every year for four years and that he does not know what happens to it and has never asked, **and that the question has never occurred to him, and that he is about thirty, and that the tenth line is the only line on the page that cannot be got out of and it belongs to the house.**
 
-A man of about thirty-four who mends fencing said that a district whose method is that a person can be looked at has spent eleven weeks arguing with a house about its own line and has got the answer in four sentences from a man who was not asked, **and that the man who cannot be got out of the tenth line is the only party in this district's whole business who cannot be got out of anything, and that a clerk of nineteen years entered the ten and it is not a column.**
+A man of about thirty-four who mends fencing said that a district whose method is that a person can be looked at has spent eleven weeks arguing with a house about its own line and has got the answer in four sentences from a man who was not asked, **and that the man who cannot be got out of the tenth line is the only party in this district's whole business who cannot be got out of anything, and that a clerk of nineteen years entered the tenth line as a tenth and that a tenth is not a column.**
 
 A clerk of nineteen years entered that it is not a column and that she was not going to enter a number on it and that the refusals to join two things stand at thirteen and her own count stands at twelve and that neither moved on the tenth of January.
 
@@ -20,7 +20,7 @@ He was asked on the tenth of January, in the yard, by a man of fifty-six, and he
 
 "**A man who is walking in a yard cannot hear the yard. He has to stop before he can hear it and about nine yards is as far as I have found that works.**"
 
-Nobody took it up and a man of fifty-six said that a man who has found a figure that works for his own ears has said out loud against his own advantage the one thing he has never had written down, and that a rule a man says out loud against his own advantage in a room is not a rule and is not written down.
+Nobody took it up and a man of fifty-six said that a man who has found a figure that works for his own ears has said out loud against his own advantage the one thing he has never had written down, and that a rule said out loud against the man who says it is not a rule and is not written down, and that this one was said in a yard and stands in the same place as the ones said in rooms.
 
 **AND ON THE TENTH OF JANUARY A MAN OF ABOUT THIRTY AT THE UPLAND READ OUT THE TENTH LINE OF HIS OWN BOOK IN A YARD FOUR MILES DOWN THE ROAD, AND IT SAYS THAT THE HOUSE'S OWN IS NOT A HOLDING AND IS NOT ASKED FOR AND IS NOT GIVEN UP, AND HE SAID HE HAD NEVER ASKED, AND A CLERK OF NINETEEN YEARS ENTERED THAT A LINE NOBODY CAN BE GOT OUT OF IS A THING NOBODY IN THIS DISTRICT HAS A WORD FOR AND THAT SHE WAS NOT GOING TO GIVE IT ONE.**
 
@@ -38,7 +38,7 @@ Nobody asked her what is on the last day of the third month and a clerk of ninet
 
 Then a man of about thirty-four who mends fencing asked her what the last day of the third month was, and she said the west end of the Needle went under nine feet on that day nine years ago, and that she was carrying water past it when it happened and that the water went up the lane faster than she could walk.
 
-A clerk of nineteen years entered that the flood year is the current year and that the year turned on the first of January and that the eighteenth year after the Long Fracture began on that morning with nothing on it, **and that a woman who does not read figures has known the last day of the third month for nine years without anybody telling her, and that this district has carried that date in a charter for eleven weeks and has not once asked the person who has been carrying it longest.**
+A clerk of nineteen years entered that the flood year is the ninth year after the Long Fracture and that the year turned on the first of January and that the eighteenth year is the one this district is in, **and that a woman who does not read figures has known the last day of the third month for nine years without anybody telling her, and that this district has carried that date in a charter for eleven weeks and has not once asked the person who has been carrying it longest.**
 
 Nobody took it up and a man of fifty-six said that the nearest of the four is a week and that the furthest of the four is a flood, and that a district whose two instruments are a week and a flood is a district that has been measuring the wrong things since the eighth of March, and that the thirty-first of March is on a charter and on a bucket and is seventy-eight days from the twelfth of January.
 
@@ -46,15 +46,15 @@ Then she said which of the four was nearer and it is in the minute in her own wo
 
 "**The first of them is a week and not a day, and a week is nearer than a day and I cannot tell you which day in it.**"
 
-The room did not argue with it and a man of fifty-six said that the sheet on a nail in a shed at the second reservoir says the delivery is made in the first week of a named month
+The room did not argue with it and a man of fifty-six said that the sheet on a nail in a shed at the second reservoir says the delivery is made in the first week of a named month.
 
-And a district which has spent eleven weeks arguing about a date in a corner of a copy has just been handed a week, **and that a claim on a place in a building cannot be worked out in a week, and that the third of the four printed things says the claim passes if the family does not pay on the day, and that this house has not named the day, and that the two are the same sentence said by two people for the same reason.**
+A district which has spent eleven weeks arguing about a date in a corner of a copy has just been handed a week, **and a claim on a place in a building cannot be worked out in a week, and the third of the four printed things says the claim passes if the family does not pay on the day, and this house has not named the day, and the two are the same sentence said by two people for the same reason.**
 
 A man of fifty-six said the interval out loud in the yard and a clerk of nineteen years entered it, and a man of seventeen wrote the figure in an index in a hand that is not a clerk's hand, and beside the index there are six dates on one line and a rule under the sixth and no seventh date.
 
-"**From the thirty-first of December at three hundred and twenty-three, the first of January is three hundred and twenty-four, and the twelfth is three hundred and thirty-five, and eleven days remain in the first month, then the whole of the second month to the eleventh.**"
+"**From the thirty-first of December at three hundred and twenty-three, the first of January is three hundred and twenty-four, and the twelfth is three hundred and thirty-five, and from the twelfth to the last day of the first month is nineteen days, and eleven days of the second month to the eleventh makes thirty.**"
 
-**AND ON THE TWELFTH OF JANUARY THE TRAIN ON THE SIDING HAD STOOD THREE HUNDRED AND THIRTY-FIVE DAYS, AND THE COUNT OF REFUSALS TO READ IS NINE, AND THE DEPARTURE IS UNSPENT, AND THERE IS STILL NO DATE IN THE LEDGER FOR THE NEXT READING, AND THE NEAREST DATE ANYBODY IN THE YARD COULD NAME IS THE ELEVENTH OF THE SECOND MONTH AND IT IS A DAY A MAN AT A COUNTER HAS NEVER NAMED.**
+**AND ON THE TWELFTH OF JANUARY THE TRAIN ON THE SIDING HAD STOOD THREE HUNDRED AND THIRTY-FIVE DAYS, AND THE COUNT OF REFUSALS TO READ IS NINE, AND THE DEPARTURE IS UNSPENT, AND THERE IS STILL NO DATE IN THE LEDGER FOR THE NEXT READING, AND THE NEAREST DATE THE MAN AT THE COUNTER HAS NEVER NAMED IS THE ELEVENTH OF THE SECOND MONTH.**
 
 ---
 
@@ -68,11 +68,11 @@ Then a man of about thirty-four who mends fencing asked whether the four lines i
 
 A man of fifty-six said that the two are two things and that a house which writes plainly is still a house, and that the district's finding of the twenty-fifth of December holds and is not repaired by anything anybody said on a road.
 
-Then a man of about thirty-four who mends fencing said out loud that the eleventh of the second month is the day the train came, and a clerk of nineteen years entered that he said it and that it is true, **and that the eleventh of the second month is a day the train came and a day a house has not named,**
+Then a man of about thirty-four who mends fencing said out loud that the eleventh of the second month is the day the train came, and a clerk of nineteen years entered that he said it and that it is true, **and that the eleventh of the second month is a day the train came and a day a house has not named.**
 
-And a district which notices a coincidence on a slipper is a district that has run out of instruments and is using the calendar, **and that a district does not get to make a date mean two things because it likes one of them, and that the train and the water are two things and are not joined, and that the two of them falling on the same day is a thing a person noticed and not a finding.**
+A district which notices a coincidence on a slipper is a district that has run out of instruments and is using the calendar, **and a district does not get to make a date mean two things because it likes one of them, and the train and the water are two things and are not joined, and the train's day and the day the counter has not named falling on one date is a thing a person noticed and not a finding.**
 
-The man the figure of twenty-one years is against said that he had not thought of it and that he wished he had and that he is not going to let it be a thing, and a clerk of nineteen years entered both of those and entered that a man who says he wishes he had not had an idea is a man doing the work of a column and is not one, **and that the day the train came is three hundred and sixty-five days back from the twelfth of January and the day the water comes is thirty days forward of it, and that the two figures are in two hands and are not added.**
+The man the figure of twenty-one years is against said that he had not thought of it and that he wished he had and that he is not going to let it be a thing, and a clerk of nineteen years entered both of those and entered that a man who says he wishes he had not had an idea is a man doing the work of a column and is not one, **and that the day the train came is three hundred and thirty-five days back from the twelfth of January and the day the water comes is twenty days forward of it, and that the two figures are in two hands and are not added.**
 
 Then the three pages, and a man of fifty-six said it out loud and a clerk of nineteen years entered all three in one line and did not join them, **and that a clerk of nineteen years entering three things in one line and not joining them is the oldest thing in this district's books and the only one that has never been argued with.**
 

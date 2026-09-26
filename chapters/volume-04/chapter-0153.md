@@ -102,7 +102,7 @@ The room let it stand and the man the figure of twenty-one years is against said
 
 A man of fifty-six said that the whole of this district's method is that a document a person can go and look at is worth more than a document that cannot be looked at, and that a person has just refused the method on the ground that it would put a name of nine into a market every morning, **and that the refusal is correct and that the method is not a rule and that a method a person can refuse is not a rule and that this is the first time anybody in eleven weeks has refused the method and not a document.**
 
-A man of about thirty-four who mends fencing said that a rule a man says out loud against his own advantage in a room is not a rule and is not written down, and that a man who gives up a good instrument because a woman told him what her boy would sound like at a counter is not giving up an instrument and is finding out what it was for.
+A man of about thirty-four who mends fencing said that a rule a man says out loud against his own advantage in a room is not written down, and that a man who gives up a good instrument because a woman told him what her boy would sound like at a counter is not giving up an instrument and is finding out what it was for.
 
 Then the woman of about forty-four who keeps the Road House on the tide set the limit herself, and a clerk of nineteen years entered that she set it and that nobody asked her to and that the not-asking is entered and the count is where it was.
 

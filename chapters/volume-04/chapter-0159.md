@@ -58,7 +58,7 @@ A man of fifty-six said that he was right and that it was the answer to the ques
 
 ---
 
-At about half past eleven in the morning they read the other four of the five out one at a time, and the argument about the fourth of them is the one a clerk of nineteen years entered as a finding and the other three went without one
+At about half past eleven in the morning they read the other four of the five out one at a time, and the argument about the fourth of them is the one a clerk of nineteen years entered as a finding and the other three went without one.
 
 And it took about half an hour.
 
@@ -66,7 +66,7 @@ And the fourth of the five is a dray and its two shafts, given in the ninth year
 
 Then he asked who received the payment on the sale, and the room did not know, and a man of fifty-six said that a security is discharged when somebody has received what it was given for, and that nobody in this yard can say who received it, and that the receipt went into the world with a dray and two shafts and a man who mends wheels for a living.
 
-The room let it stand and a woman of about thirty-three who takes in washing at the second channel said that the man of about thirty-one who mends a dray at a forge end off Salt Row has now been told that a paper about him stopped being a security in the fourteenth year
+The room let it stand and a woman of about thirty-three who takes in washing at the second channel said that the man of about thirty-one who mends a dray at a forge end off Salt Row has now been told that a paper about him stopped being a security in the fourteenth year.
 
 And a clerk of nineteen years entered that he was told it and that he said nothing and that she was not asked why, **and that a discharged security is only discharged if somebody received it, and that the man of about thirty-eight who deals in second-hand paper has been asked a thing about a receipt and said once in November that a receipt is the difference, and that the two occasions are not joined.**
 

@@ -44,7 +44,7 @@ Nobody asked her why she took the sheet and a clerk of nineteen years entered th
 
 "**We had eleven weeks in October with no seed and no water and I could not write to you, and a man at a counter said yes to both in one morning.**"
 
-Nobody took it up and a man of fifty-six said that the month was October and that it is not the month this block is written in, and that a person can be asked about a thing that happened in a month the room has since left behind, and that nobody is going to make her say the month again.
+Nobody took it up and a man of fifty-six said that the month was October and that it is not the month this room is sitting in, and that a person can be asked about a thing that happened in a month the room has since left behind, and that nobody is going to make her say the month again.
 
 A clerk of nineteen years entered that the eleven weeks and the October are in her own words and were not checked, **and that a count of eleven weeks has not been made by anybody and that a figure a person says about herself is not a figure this district enters, and that the district's own eleven weeks is a different eleven weeks and the two are not joined.**
 
@@ -82,7 +82,7 @@ And on the twenty-fifth of december **THE SECOND OF THE FOUR PRINTED THINGS SAYS
 
 ---
 
-A man of about thirty-one who mends a dray at a forge end off Salt Row was in the yard and had come for a hoop, and he heard the third line read out twice and said one thing about it. A clerk of nineteen years counted the words in it once and got twenty-six and did not count them again, and a man of about nineteen who walked in from the road counted them and got twenty-six and said it out loud.
+A man of about thirty-one who mends a dray at a forge end off Salt Row was in the yard and had come for a hoop, and he heard the third line read out twice and said one thing about it. A clerk of nineteen years counted the words in it once and got twenty-nine and did not count them again, and a man of about nineteen who walked in from the road counted them and got twenty-nine and said it out loud.
 
 "**A claim to a place in a building is not owed to a family. A building is not a sack of meal and cannot be sold back to you.**"
 

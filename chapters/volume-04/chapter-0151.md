@@ -70,7 +70,7 @@ The board was not washed off, and a woman of about thirty-three who takes in was
 
 He gave the reason and it is in the minute in his own words: the fourth date is the only date on that board anybody can argue with, and a room which washes the last date off a board has told every stranger who comes to the yard that there is no date, **and a stranger cannot tell the difference between a room that has no date and a room that has ended, and the two are the same to anybody standing in the yard.**
 
-A clerk of nineteen years entered that the board was not washed and that a man of fifty-six said out loud that it would not be, and that a rule a man says out loud against his own advantage in a room is not a rule and is not written down, **and that she was asked whether to write it down and he said no in four seconds, and that the asking is entered and the count is where it was.**
+A clerk of nineteen years entered that the board was not washed and that a man of fifty-six said out loud that it would not be, and that a rule a man says out loud against his own advantage in a room is not written down, **and that she was asked whether to write it down and he said no in four seconds, and that the asking is entered and the count is where it was.**
 
 The man of about thirty-four who digs loam said the other half, and it is in the minute in his own words.
 
@@ -102,7 +102,7 @@ The train on the siding had stood three hundred and sixteen days on the twenty-f
 
 "**On to that, thirty for September, thirty-one for October, thirty for November, and thirty-one for December, which takes the figure to the last day of the twelfth month at three hundred and twenty-three.**"
 
-Two hundred and one and thirty is two hundred and thirty-one, and thirty-one is two hundred and sixty-two, and thirty is two hundred and ninety-two, and the first of December is two hundred and ninety-three, **and the twenty-fourth is the twenty-third day after the first, so two hundred and ninety-three and twenty-three is three hundred and sixteen, and the thirty-first of December is three hundred and twenty-three, and the day after that is three hundred and twenty-four, and that day is in the month after this one and the month has a name and nobody in this yard uses it before it comes.**
+Add thirty to two hundred and one and it is two hundred and thirty-one, and thirty-one more is two hundred and sixty-two, and thirty more is two hundred and ninety-two, and the first of December is two hundred and ninety-three, **and the twenty-fourth is the twenty-third day after the first, so two hundred and ninety-three and twenty-three is three hundred and sixteen, and the thirty-first of December is three hundred and twenty-three, and the day after that is three hundred and twenty-four, and that day is in the month after this one and the month has a name and nobody in this yard uses it before it comes.**
 
 A man of about thirty-four who digs loam said again that a man who does a sum in front of strangers is not checking a number and is teaching it, and that he said in December that he would stop saying it in December and start again in January, and that it is still the twenty-fourth of December and that he has not started.
 
@@ -126,7 +126,7 @@ The office's name is in five places and in no register. Eleven trades could not 
 
 And nobody asked the registrar why she holds two lines apart. A clerk of nineteen years entered that nobody asked her on the twenty-fourth of December and that she was not going to enter a number on it, **and that the number the registrar keeps for herself is hers, and that a clerk of nineteen years keeping a different number in a different book is a thing two people are doing and the two are not added to each other.**
 
-Nobody took it up and a man of fifty-six said that two people keeping two numbers in two books and not adding them is the only reason the district is not a worse place than it is, and that nobody has written that down and that he is not going to have it written down, **and that a rule a man says out loud against his own advantage in a room is not a rule and is not written down.**
+Nobody took it up and a man of fifty-six said that two people keeping two numbers in two books and not adding them is the only reason the district is not a worse place than it is, and that nobody has written that down and that he is not going to have it written down, **and that a rule a man says out loud against his own advantage in a room is not written down.**
 
 Then the yard, at about half past three in the afternoon, and the last entry of the twenty-fourth of December is eight lines and it is in the clerk of nineteen years' own hand.
 

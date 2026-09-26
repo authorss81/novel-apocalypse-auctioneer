@@ -38,17 +38,17 @@ Nobody argued and a clerk of nineteen years entered that the count of uses of a 
 
 The interval was done twice in the yard after lunch, and a man of fifty-six said both times that the figure of the interval travels with the date it ends on, and that a figure given without an end date is a figure and not an interval, and that the district learned that in the middle of December the hard way.
 
-The first was from the first of January to the thirty-first of March, and a man of fifty-six said the sum out loud and a clerk of nineteen years entered it, and a man of about thirty-four who digs loam and does nine days of it in ten was not in the yard and was not asked and had sent word on the first of January that he would start again in January.
+The first was from the first of January to the thirty-first of March, and a man of fifty-six said the sum out loud and a clerk of nineteen years entered it, and a man of about thirty-four who digs loam and does nine days of it in ten was not in the yard and was not asked and had sent word before the month turned that he would start again in January.
 
 "**Thirty days left in the first month after the first, then the whole of the second month, then the whole of the third month to its last day. Thirty and twenty-eight and thirty-one is eighty-nine days.**"
 
-A clerk of nineteen years counted the words in that once and got forty-one and did not count them again, and a man of about nineteen who walked in from the road counted them and got forty-one and said it out loud and then said it again.
+A clerk of nineteen years counted the words in that once and got thirty-six and did not count them again, and a man of about nineteen who walked in from the road counted them and got thirty-six and said it out loud and then said it again.
 
 And eighty-nine days is twelve weeks and five days, and a man of fifty-six said that, and then he said the other one, and a clerk of nineteen years entered both and entered that they are two figures and are not joined.
 
 "**Eighty-nine days to the thirty-first of March, and ninety days to the first of April, and the district's own hundred and fifty-one from the first of November in the autumn reaches the first of April and the other three figures in two rooms reach the thirty-first of March.**"
 
-A woman of fifty-eight who carries water and does not read figures said that she calls it three months and two days, and a clerk of nineteen years entered that and entered that a man of fifty-six called the same interval twelve weeks and five days, **and that the two figures are in two places and are not joined, and that a person who is handed a figure for the wrong interval has been handed a figure and not the interval, and that this district has still never handed anybody the right one and told them which it was.**
+A woman of fifty-eight who carries water and does not read figures said that she calls it three months and two days, and a clerk of nineteen years entered that and entered that the day she counts from is a day in December and is not the first of January, and that a man of fifty-six called the same interval twelve weeks and five days, **and that the two of them are counting from two different days and the two figures are in two places and are not joined, and that a person who is handed a figure for the wrong interval has been handed a figure and not the interval, and that this district has still never handed anybody the right one and told them which it was.**
 
 Nobody took that up and a man of fifty-six said that the thirty-first of March is the day the name comes off the figure and the day the steward's address ends and the day the boundary's term ends and the day the season renews, **and that the four of them are on one line in a charter and are not joined, and that the thirty-first of March is eighty-nine days from the first of January and is a length of time and not a moment, and that a stage is not a moment.**
 
@@ -70,7 +70,7 @@ A man of about thirty-four who mends fencing said that the reason is the best on
 
 A man of about thirty-four who mends fencing said that the fifteenth year after the Long Fracture is the one this district argues about and that the argument is always about a road and never about the year, and that a year is a thing a room does not have an opinion about, **and that the eighteenth year after the Long Fracture began on the first of January on a morning with nothing on it and about nine people in a yard and a board with a spent date on it, and that that is the only account of it anybody has written down.**
 
-Nobody argued with it and a man of fifty-six said that a year is the time the flood came and not the time the book was closed, and that the flood year is the year the west end of the Needle went under nine feet and has not come up, **and that a clerk of nineteen years entered that the year of the flood is the current year and that the year turned on the first of January and that the eighteenth year after the Long Fracture began on that day.**
+Nobody argued with it and a man of fifty-six said that a year is the time the flood came and not the time the book was closed, and that the flood year is the year the west end of the Needle went under nine feet and has not come up, **and that a clerk of nineteen years entered that the flood year is the ninth year after the Long Fracture and that the year turned on the first of January and that the eighteenth year after the Long Fracture began on that day, and that a year counted from the flood and a year counted from the day a book was closed are two years and are not joined.**
 
 Nobody asked her which year it is and a clerk of nineteen years entered that nobody asked her and that she was not going to enter a number on it, **and that a man of fifty-six said out loud in the yard that the count of years after the Long Fracture is seventeen and that on the first of January it is eighteen, and that he said it in a yard and not in a room and that a rule a man says out loud against his own advantage in a room is not written down.**
 
@@ -112,4 +112,4 @@ The man the figure of twenty-one years is against said nothing and a clerk of ni
 
 ---
 
-**AND THE MONTH TURNED ONCE IN THE LAST TEN DAYS OF DECEMBER AND IT TURNED ON THE FIRST OF JANUARY, AND THE NEW MONTH IS JANUARY, AND LAST MONTH IS DECEMBER AND THE MONTH BEFORE LAST IS NOVEMBER, AND THE YEAR THAT BEGAN ON THAT DAY IS THE EIGHTEENTH YEAR AFTER THE LONG FRACTURE, AND THE BOARD CARRIES FOUR DATES AND NO FIFTH, AND THE COUNT OF PROTECTED THINGS IS FIVE AND DID NOT MOVE, AND THE COUNT OF CONDITIONS WITH NO END ON IT IS FOUR AND DID NOT MOVE.**
+**AND THE MONTH TURNED ONCE AND IT TURNED ON THE FIRST OF JANUARY, AND THE MONTH BEFORE IT WAS DECEMBER AND THE MONTH BEFORE THAT WAS NOVEMBER, AND THE YEAR THAT BEGAN ON THAT DAY IS THE EIGHTEENTH YEAR AFTER THE LONG FRACTURE, AND THE BOARD CARRIES FOUR DATES AND NO FIFTH, AND THE COUNT OF PROTECTED THINGS IS FIVE AND DID NOT MOVE, AND THE COUNT OF CONDITIONS WITH NO END ON IT IS FOUR AND DID NOT MOVE.**
