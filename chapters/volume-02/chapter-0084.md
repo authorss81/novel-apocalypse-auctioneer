@@ -34,8 +34,6 @@ The boy of nineteen was awake for that. He lay on the bench with his boots off a
 
 ---
 
----
-
 And the sheet is a water office notice, and it is dated the second of the sixth year, and the office has no copy of it, and the mark on it is in the place where a name goes, and there is no name on it.
 
 > **NOTICE. THE METERED COLUMN AT MILE ONE AND THREE QUARTERS.**
@@ -52,7 +50,7 @@ The finding entered on the sixteenth is that the impression is old and that nobo
 
 **And three people said what it was on the afternoon of the fifteenth, and one of them was wrong, and one of them was right, and the one who was wrong got there first and is a woman whose whole trade is other people's documents.**
 
-She is called Jessa Olwin and she is about thirty-eight and she buys old paper off four houses once a month, and the fifteenth is the fifteenth, and she was on that bank for her own trade with a hook and a sacking sheet and was in the hut for about twenty minutes.
+She is called Jessa Olwin and she is about thirty-eight and her whole trade is other people's documents. She was in that hut for about twenty minutes, and she came up the bank for her own reason and not for this, and the reason is that she buys old paper off four houses once a month and the fifteenth is the fifteenth, and she was in three of the four houses before she came up here and she says she is not going to say what they gave her.
 
 "That is the water office's mark," she said. "It is a water office notice. Offices have marks. **Put it back and nobody will ever look at it again.**"
 
@@ -106,8 +104,6 @@ And the answer he had in the first week of March is in the book and has not chan
 
 ---
 
----
-
 **And what the district did with a second impression, on the eighteenth of this month, was nothing, and the nothing is in the book at length, and the registrar wrote it, and it is the fourth page of hers on that subject in nine weeks and she has said in public that she is the fifth person in this district who has written a rule about a page and not about a person.**
 
 The page carries six impressions. It says what each is, where it is, who found it, when, and in what state of paper. It says that the first five are on unrelated documents and that the sixth is on a notice that relates to a water column at a place where there is a water column, and that the relation is a relation and not a claim. It says that nobody in this basin can find a body that made any of the six, and that the bridge administration has no die and never has had one, and that the ward market has a stamp and the stamp is a rectangle with a number in it, and that the Valuers' Guild has a seal and the seal is a circle and unbroken, and that the only circle anybody in this district has ever pressed into paper is a circle with a break in it.
@@ -116,12 +112,11 @@ And then, under all of that, four lines in her hand, and the third of the four i
 
 > **A SECOND IMPRESSION IS NOT A SECOND ANSWER. I HAVE BEEN ASKED THREE TIMES IN TWO DAYS WHETHER THIS CHANGES ANYTHING AND THE ANSWER IS NO AND I AM GOING TO WRITE THE NO DOWN INSTEAD OF THE ARGUMENT, BECAUSE THE ARGUMENT IS SIXTY WORDS EVERY TIME AND THE NO IS TWO, AND SOMEBODY IN THIS DISTRICT WILL ONE DAY NEED A BOOK THAT HAS SAID NO IN A WAY THEY COULD FIND.**
 >
-> **AND WHAT THIS CHANGES IS ONE THING, AND IT IS THIS. IT CHANGES WHAT WE KNOW ABOUT WHERE THE FIRST ONE IS NOT. THE FIRST IMPRESSION IS ON FIVE DOCUMENTS IN FIVE ROOMS. THIS ONE IS IN A HUT. WE DID NOT KNOW THAT BEFORE THE FOURTEENTH OF THIS MONTH. THAT IS ALL THAT HAS HAPPENED AND IT IS NOT NOTHING.**
+> **AND WHAT THIS CHANGES IS ONE THING, AND IT IS THIS. IT CHANGES WHAT WE KNOW ABOUT WHERE THE FIRST ONE IS NOT. THE FIRST IMPRESSION IS ON FIVE DOCUMENTS IN FIVE ROOMS. THIS ONE IS IN A HUT. WE DID NOT KNOW THAT BEFORE THE FOURTEENTH OF MAY. THAT IS ALL THAT HAS HAPPENED AND IT IS NOT NOTHING.**
 
 And the boy of seventeen read that page in a room in Alder Reach on the eighteenth, standing, and said one sentence about it, and the sentence is in the book because it was said in a room with a reader in it.
 
 "It is the first page in this district that says *we were wrong about where it is not*, and it does not apologise for the eleven years."
-
 
 And the ninth-place toll board has eleven sentences on the bottom line and not one of them is a complaint, and one of them is a question, and the question has been on the board since the ninth of this month and nobody has answered it, and the keeper who is supposed to answer the bottom line is thirty-nine and he is in an office and he says he cannot.
 

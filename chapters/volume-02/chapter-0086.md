@@ -2,7 +2,7 @@
 
 At about a quarter to eight in the morning on the twentieth of this month Wren Ostler wrote a time on the top of a sheet of paper in the counting room of the ward market, and then put her hand flat over it, and then crossed it out, and the finding of the day is that she did that three times in about four minutes and the reason is the second thing on a wall eleven feet from where she was standing.
 
-The job is a walk. It is five and a quarter hours from Alder Reach to the ninth place in ordinary weather with four changeovers in it, and the worst of the four is a step down of two feet six inches into about a foot of standing water, and there and back is nine hours, and a night is needed because the asking itself took fifty-one minutes in April in a room nine miles from where the walking starts.
+The job is a walk. It is five and a quarter hours from Alder Reach to the ninth place in ordinary weather with four changeovers in it, and the worst of the four is a step down of two feet six inches into about a foot of standing water, and the figure this district carries for the day is nine hours, and the finding of the twenty-second of this month is that nine hours is not the day. A night is needed on top of it, because the asking itself took fifty-one minutes in April in a room nine miles from where the walking starts.
 
 The second thing on the wall is how long, with an hour on it. And the clerk of the ward market stood in her own counting room on the twentieth of this month and could not put an hour on the only job anybody in Alder Reach had ever given her, because nobody knows how long a question takes when the asking is five and a quarter hours away.
 
@@ -50,7 +50,9 @@ He had read it twice, on the eleventh of March and on the twenty-seventh of Apri
 
 "**It is the only answer I have got to either of them, and I have been asked four times now and I have said it four times and it has got shorter each time and I would like the clerk to enter that I noticed.**"
 
-"Entered," said Nessa Pell, who is a clerk of nineteen years and the sitting steward of the public lot and who is also, and has been for nineteen years and without being asked, the person in the room who is neither the one asking nor the one being asked, and whose job is to say what the question was. "And the question you were asked is entered, and the hour is entered, and the non-event is entered with no cost and no time, and nobody in this book is going to write it as cowardice and nobody is going to write it as discipline, and if either of those words is ever written against this entry I will take it out, and I have never taken a line out of anything in nineteen years and I am not starting with this one."
+"Entered," said Nessa Pell, who is a clerk of nineteen years and the sitting steward of the public lot and who is also, and has been for nineteen years and without being asked, the person in the room who is neither the one asking nor the one being asked, and whose job is to say what the question was. "And the question you were asked is entered, and the hour is entered, and the non-event is entered with no cost and no time, and nobody in this book is going to write it as cowardice and nobody is going to write it as discipline.
+
+"And if either of those words is ever written against this entry I will take it out, and I have never taken a line out of anything in nineteen years and I am not starting with this one."
 
 "Then what will it say," said the man who sells nothing and has a use.
 
@@ -78,7 +80,7 @@ The tenth hand put the other half of it in the same entry, because he was there 
 
 "I will go," said Wren Ostler. "And I have not been asked, so I am going to be asked now, and I am going to answer it properly, and you are going to do all five of the things and I am going to watch you do them, because I have watched you do them twice and you are not good at the third one.
 
-"And the reason is short and it is not modesty. I held that key twice in March and April for four days each time, and the first time it was a lapse and nobody came, and the second time a woman came and I had asked her and she said yes and she was right to, and it was the first turn anybody in this district could call a turn. **A rotation that turns once is a rotation that has been shown it can.** That is a sentence with a date on it and I have had it on a board since the first of this month and I have been waiting for something to do about it.
+"And the reason is short and it is not modesty. I held that key twice in March, on the second and again on the twelfth, four days each time, and the first time it was a lapse and nobody came, and the second time a woman came and I had asked her and she said yes and she was right to, and it was the first turn anybody in this district could call a turn. **A rotation that turns once is a rotation that has been shown it can.** That is a sentence with a date on it and I have had it on a board since the first of this month and I have been waiting for something to do about it.
 
 "So: four and three-quarter hours up there is nothing to me. I have sat behind the same counter as a man who could not read his own figures for four days in April and I did not find out until the second of May. If I go up there and I stand in that room and I ask those two women a question, then this district will have a rotation that has turned twice, and the second turn will be a clerk, and a clerk is a person, and a person can be replaced, and I would like the whole of that on the sheet in that order."
 
@@ -90,21 +92,19 @@ The tenth hand put the other half of it in the same entry, because he was there 
 
 And then three more people were asked, on the twenty-first and the twenty-second, and two of them said no and one said no in a different way, and the finding is that the fifteenth refusal on this subject was a man who said he would go if somebody went with him, and that this is the same shape as the question the room is trying to answer.
 
-And on the twenty-second of this month a man of about twenty-six, who repairs fencing and who has come up that bank on paid work four times in nine years, said yes, and then on the morning of the twenty-third withdrew, in writing, with the reason that his mother is not well and that he had not asked anybody's permission and did not need to.
+And on the twenty-second of this month a man of about thirty-four, who mends fencing and who has come up that bank on paid work four times in nine years, said yes, and then on the morning of the twenty-third withdrew, in writing, with the reason that his mother is not well and that he had not asked anybody's permission and did not need to.
 
 The clerk entered both, and entered the withdrawal after the yes, and entered that **a yes is not a hold, and a hold is not a term, and the difference between those two things is the whole of the instrument this district has been trying to build since the second of April.**
 
 ---
 
----
-
 And on the twenty-first of this month four people walked up that bank as a rehearsal, which is a walk done before the day it is for, on the same ground, by some or all of the people who will do it, for the purpose of finding out whether the walk can be done, and which is the first rehearsal in this district since the twenty-second of March and the fourth in nine years.
 
-They left at half past four in the morning. They were the clerk, the tenth hand, a man of about thirty-four who keeps a counter of oil, and a young man of nineteen who asked to come and was not asked and has not been asked anything since and said on the bank, in front of all three of them, that he was nobody's keeper and that he was not going to be anybody's anything, and that he had come because there was a boy his age asleep in a hut four hours further on and he wanted to see the hut from the outside, and the clerk wrote all of that down and read it back to him on the shoulder.
+They left at half past four in the morning. They were the clerk, the tenth hand, Pell Anselm the chandler with the counter of oil on Ash Row, and a young man of nineteen who asked to come and was not asked and has not been asked anything since and said on the bank, in front of all three of them, that he was nobody's keeper and that he was not going to be anybody's anything, and that he had come because there was a boy his age asleep in a hut four hours further on and he wanted to see the hut from the outside, and the clerk wrote all of that down and read it back to him on the shoulder.
 
-The rehearsal took five and a half hours going and five and three-quarters coming.
+The rehearsal took five and a quarter hours going and five and a half coming. The going figure is the tenth hand's and has been since March. The coming figure is a mile longer than anything anybody had written down, because the third changeover is in mud for about a quarter of a mile after rain and the twenty-first was two days after rain.
 
-It took nine and a quarter in all, because they stood still for about forty minutes at the fourth changeover while a man of about twenty-six explained what he had been about to withdraw from, and
+It took eleven and three-quarters in all, which is ten and three-quarters of walking and an hour of standing still. Forty minutes of that hour was spent at the fourth changeover, where a man of about thirty-four who mends fencing was on the shoulder because he had come up the bank on paid work four times in nine years, and he told them at length what he was going to be asked and what he was going to take back if he said yes, and he told it twice, and the tenth hand wrote none of it down. The other twenty minutes was the clerk at the third changeover saying her sentence out loud twice to be sure of it, and the finding entered is that the hour is the finding and not the walking.
 
 The finding entered on the twenty-second is that **the walk is not four and three-quarter hours and never was, and the only number anybody in this district has for it is a number two men wrote down in March on a day when two of them were wrong, and the number on the sheet that the clerk is going to carry up on the twenty-ninth is five and a quarter going and five and a half coming and eleven and three-quarters in the day, and it is on the sheet in her own hand and not carried forward.**
 
@@ -116,10 +116,9 @@ And the tenth hand said that that was the sixth thing and that she had done it f
 
 ---
 
-
 **And the entry of the twentieth of this month is the shortest search this district has ever run and the longest fortnight anybody in it has spent not knowing something, and it is in the public lot book in a clerk's hand with the noes in their own words and the counts in front of them.**
 
-> **FOURTEEN SAID NO IN NINE DAYS AND THE REASONS ARE IN THE BOOK IN THEIR OWN WORDS AND FOUR OF THE FOURTEEN GAVE THE SAME REASON AND THE REASON IS THE WALK. ONE SAID YES ON THE TWENTIETH BEFORE SHE WAS ASKED. ONE SAID YES ON THE TWENTY-SECOND AND WITHDREW IN WRITING ON THE TWENTY-THIRD. THE FIFTH THING WAS USED FOUR TIMES. THE FOURTH ONE WAS USED AND WAS ANSWERED CORRECTLY BY A PERSON WHO WAS NOT IN THE ROOM ON TWO OF THE FOUR OCCASIONS. THE READER'S JOB WAS GIVEN TO A PERSON WHO IS NOT ON ANY ROLL. THE ENTRY WAS ALSO MADE BY A BRIDGE CLERK OF THIRTY-FOUR IN THE WATER OFFICE'S OWN BOOK AND NOT ON A SHEET, BECAUSE THE WATER OFFICE'S BOOK IS COPIED TWICE A QUARTER AND GOES WHERE A SHEET DOES NOT GO, AND BECAUSE A SHEET TOOK A NIGHT AND A DAY TO COME DOWN THAT BANK ON THE SECOND OF APRIL AND A BOOK THAT IS COPIED TWICE A QUARTER GOES TO FOUR ROOMS AND A SHED.**
+> **FOURTEEN SAID NO IN NINE DAYS AND THE REASONS ARE IN THE BOOK IN THEIR OWN WORDS AND FOUR OF THE FOURTEEN GAVE THE SAME REASON AND THE REASON IS THE WALK. ONE SAID YES ON THE TWENTIETH OF MAY BEFORE SHE WAS ASKED. ONE SAID YES ON THE TWENTY-SECOND OF MAY AND WITHDREW IN WRITING ON THE TWENTY-THIRD OF MAY. THE FIFTH THING WAS USED FOUR TIMES. THE FOURTH ONE WAS USED AND WAS ANSWERED CORRECTLY BY A PERSON WHO WAS NOT IN THE ROOM ON TWO OF THE FOUR OCCASIONS. THE READER'S JOB WAS GIVEN TO A PERSON WHO IS NOT ON ANY ROLL. THE ENTRY WAS ALSO MADE BY A BRIDGE CLERK OF THIRTY-FOUR IN THE WATER OFFICE'S OWN BOOK AND NOT ON A SHEET, BECAUSE THE WATER OFFICE'S BOOK IS COPIED TWICE A QUARTER AND GOES WHERE A SHEET DOES NOT GO, AND BECAUSE A SHEET TOOK A NIGHT AND A DAY TO COME DOWN THAT BANK ON THE SECOND OF APRIL AND A BOOK THAT IS COPIED TWICE A QUARTER GOES TO FOUR ROOMS AND A SHED.**
 
 And under the heading on a wall in Alder Reach that says NOT ANSWERED, under the first line anybody has ever entered under it, which was a woman of about fifty asking what happens on the twenty-ninth of May, the second line went in on the twentieth of this month, and it is nine words long, and it is the answer to her own question, and it names a person and does not explain her.
 

@@ -116,7 +116,7 @@ The first keeper was asked before the second, on the morning of the fourth, and 
 
 The room then spent about eleven minutes failing to find the third keeper, and the failure is in the minute at length because the tenth hand insisted, and it is the first failure in nine weeks that is entered as a failure rather than as a refusal.
 
-Three names were put forward. A lamp-man of forty-one who counts lamps and not signals and who asked everybody in this district what their job was in April and is the only man anybody knows of who walks the length of that line every week without being sent. A haulier who goes up the bank twice a week and who is the man the word stopped twice in ten days in March and who was not angry about it. And a man of about fifty who keeps a counter of oil and has stood in a doorway at the west end of this district for about four years and has never once been asked what he is for.
+Three names were put forward. A lamp-man of forty-one who counts lamps and not signals and who asked everybody in this district what their job was in April and is the only man anybody knows of who walks the length of that line every week without being sent. A haulier who goes up the bank twice a week and who is the man the word stopped twice in ten days in March and who was not angry about it. And a cordwainer of about forty-eight who has sat in a doorway at the west end of this district for about four years with a last across his knee and a hammer on the sill, and who has never once been asked what he is for.
 
 All three were talked about for eleven minutes and none was asked, and the reason is in the minute in the tenth hand's words: **we have spent four minutes finding out that we do not know what the job is, and the only two people in this district who can tell us are a clerk at a counter and a man in a hut, and neither of them has ever asked anybody anything, and the man at the west end has never been asked in four years and I am not going to be the man who goes and asks him in a room with thirty people in it.**
 
@@ -134,7 +134,7 @@ The lettering is Abel Troth, who is sixty-one, who writes signs for a living, wh
 
 Two hundred coppers a quarter, four households, entered on a rate sheet on the twenty-eighth of March and not collected, because a rate is collected in the quarter in which it is voted and a market cannot go back. The finding of the fourth of this month, in Stenn's hand, is that the ninth place's rate is **the first money this district has spent at a place it did not have a rate sheet for four weeks ago**, and that it is six coppers, and that the sheet it came off says on its face that a rate sheet is a document that says a place is a place.
 
-And under that, in Hessa Krell's own column, which was opened on the second of last month at her own asking and has one line in it and eight hundred and ninety-four coppers of carried printing gap on it: **A RATE IS A THING THAT IS ON YOU. I HAVE SAID THAT. THIS IS A RATE.** She is not thanked and is not going to be.
+And under that, in Hessa Krell's own column, which was opened on the second of this month at her own asking and has one line in it and eight hundred and ninety-four coppers of carried printing gap on it: **A RATE IS A THING THAT IS ON YOU. I HAVE SAID THAT. THIS IS A RATE.** She is not thanked and is not going to be.
 
 ---
 

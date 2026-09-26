@@ -110,8 +110,6 @@ And a man of about sixty-one who writes signs said that he had a book of every l
 
 ---
 
----
-
 And the fourth question nobody asked on the sixth of this month was the one that was asked on the seventh, at the counter, by a stranger, and it is the reason a nail is going into a board.
 
 "**If I want to complain about that, who do I complain to?**"
@@ -143,8 +141,6 @@ The board at the fourth place went up at about eleven in the morning on the nint
 "Is it," said the tenth hand.
 
 "It is going to be mine, one day a month, and I have told him that in a sentence, and he said a thing I am not going to repeat because he said it on his own bench and not to me. He is nineteen and he is not on a roll in this city and he is not anybody's keeper and he has said so in about four rooms. Whatever is on that board is going to outlive him being nineteen and he knows it, and it is not the board that frightens him. It is the week underneath it."
-
----
 
 ---
 

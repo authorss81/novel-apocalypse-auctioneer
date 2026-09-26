@@ -26,8 +26,6 @@ It took about eleven minutes to read and there was one interruption, from a man 
 
 ---
 
----
-
 Nobody drew a new sheet, and the reason is on the record from the second of April, when the same market was asked to produce a figure for a railway and a freight clerk of six years refused in front of about six hundred people: **I have never once put a figure on a wall that I did not intend to defend line by line, and I am not going to start on a day when I would have to defend a figure I did not write.**
 
 So the paper is the paper of the thirteenth of March in five columns at fifty coppers over four thousand and one households, and the paper of the twenty-second of April with a rate of fourteen on it that nobody proposed, and the paper of the twenty-fifth of March with a decision on it that has never been costed, and on the twenty-sixth of this month somebody put the counts on the back of it in a hand that is not the secretary's.
@@ -47,7 +45,6 @@ A public carrier is a person who carries a thing for a fee in this city for whoe
 The minute says that nothing was done about it, and that the abstention stands, and that the fifth hundred and fifty households are not represented in either question, and that this is the ninth entry of its kind in nine weeks and that the count of them has been closed since the fourth week of March at a number this district will not print in a public book.
 
 ---
-
 
 **And the meeting sat twice, and the first question took forty-one minutes and the second took nine, and the reason is that the first one was about a room and the second one was about a sheet, and this district has been arguing about rooms for nine weeks and about sheets since the third of April.**
 
@@ -95,8 +92,6 @@ The vote was for a **sheet**. It was not a vote for a wage, and the finding ente
 
 ---
 
----
-
 And at about half past four in the afternoon, after both questions, a woman of about sixty with a stick stood up at the back of that room and asked one question, and the secretary gave her the sheet, and she read the counts and the two results on it, and then she asked the second thing, and it is the finding of the twenty-seventh of this month in a different hand.
 
 "You have read out the count of every trade in this room," she said, "and there is a number on your sheet about nine hundred households that are in no row. And nobody has asked what they are. And the ninth place is four households and thirty-one people and it has been in a row since the twenty-eighth of March, and on the seventh of this month it paid this market two hundred coppers out of a pail of change.
@@ -107,12 +102,11 @@ Nobody in the room argued with her and nobody told her she was wrong, and the se
 
 ---
 
-
 **And the money came last and it is the part of the meeting that will be in the book longest, and it is that the market has voted to buy a thing it cannot pay for and has entered the difference on a column belonging to a woman of about fifty with a stall.**
 
 The rate is fifty coppers a quarter. Fourteen of the fifty is the line, six is printed matter, **and thirty of the fifty has never been assigned to anything by anybody and has been sitting in a column with no heading in it since the thirteenth of March.** The market has voted to take the sheet out of the unassigned thirty.
 
-A run of five hundred sheets costs nine hundred and six coppers, quoted on the fourteenth of March: four for stock, two for setting, nine hundred quoted. Thirty coppers a quarter is a hundred and twenty a year. **The market has voted to spend eight hundred and ninety-four coppers it does not have, and the difference is the same gap that has been carried on a trade on the lower terrace four times, and the column it goes on was opened on the second of this month at the trader's own asking, and the trader was asked about it in the room.**
+A run of five hundred sheets costs nine hundred and six coppers, quoted on the fourteenth of March: four for stock, two for setting, nine hundred quoted, and the market has been quoted that figure three times and has never once argued with it. Printing has been taking **twelve coppers a quarter** out of this market for longer than the rate has existed, and that twelve is a line in a printer's book and is not the six of the fifty on the rate sheet, and the two have never been in the same column. Nine hundred and six less twelve is eight hundred and ninety-four, and the sheet is being paid for out of the thirty coppers a quarter that nobody ever assigned to anything. **The market has voted to spend eight hundred and ninety-four coppers it does not have, and the difference is the same gap that has been carried on a trade on the lower terrace four times, and the column it goes on was opened on the second of this month at the trader's own asking, and the trader was asked about it in the room.**
 
 "I am not carrying it a fifth time," said Hessa Krell. "Three times is a favour. Four times is a rate. I said that in this room on the second of this month and I have said it since and I am not going to unsay it in a fortnight. A rate is a thing that is on you and a debt is a thing that is on somebody else, and I will carry a rate for the rest of my life and I will not carry this market's arithmetic.
 
@@ -120,7 +114,7 @@ A run of five hundred sheets costs nine hundred and six coppers, quoted on the f
 
 And the market agreed, and the agreement is in the minute, and the minute also says that a market which has voted to spend money it has not found has entered the reason in the same line as the vote and has not called the vote a mistake.
 
-The only press in this district that can do a run of five hundred in a day belongs to a man who is right about four things and wrong about one, and the market bought the run from him, and the toll column was set by the market and not by him, and the day it comes off the press the count is read out at the ward market counter in the ordinary voice, and he asked for it entered that he was paid and was paid, and nobody thanked him in a street, and he said he would not have thanked them either.
+The only press in this district that can do a run of five hundred in a day belongs to Halloway Reed, who is right about four things and wrong about one, and the market bought the run from him, and the toll column was set by the market and not by him, and the day it comes off the press the count is read out at the ward market counter in the ordinary voice, and he asked for it entered that he was paid and was paid, and nobody thanked him in a street, and he said he would not have thanked them either.
 
 ---
 

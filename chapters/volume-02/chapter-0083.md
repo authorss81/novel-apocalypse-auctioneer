@@ -22,8 +22,6 @@ A cart took them the first four miles and cost eleven coppers each way, which ca
 
 ---
 
----
-
 **And the first thing the room did was throw away two of the four places in the draft, and the draft is his, and it is dated the nineteenth of March, and it has been published in the public lot book in Alder Reach in full since the second of April because a document nobody can close should not be in a drawer.**
 
 The sixth place is a drain and has been going onto the ballast since before the Long Fracture. The eighth place is a curve with a shoulder four feet wide and a drop of nine feet off it on the river side. Both reasons are in the book. Neither is struck. Neither was found by the man who drafted the split, and the tenth hand said so at about ten past nine and it went in the minute.
@@ -47,8 +45,6 @@ He has been on that railway his whole working life. He took a nine-year lease on
 "Ask me what I think of a place being named as the origin of a toll," he said, "and I will tell you the thing I have been not saying since the eighteenth of March, which is that I have known since the eighteenth of March that the origin is that village, and I have not said it, and I did not say it in April and I did not say it in May, and every one of those three not-sayings cost somebody something, and the somebody was never me.
 
 "So if you put my name next to a decision I did not make, then the decision is not mine, and I will not be the man who is leaned on for it, **and I would rather be leaned on for a number in a book.** I have four hundred and ten coppers of standing salvage that is worth something in Alder Reach and nothing out there, and it is in the book with my name on it because a foreman of twenty-two years entered it at his own request, and that I can be leaned on for. **I did not choose the village. I chose a shed and a column and I did not ask anybody what a column was.**"
-
----
 
 ---
 
@@ -134,11 +130,9 @@ Then the clerk of the ward market said what the question had been, all of it, in
 
 ---
 
----
-
 **And the sheet went down the bank at about one o'clock in the afternoon on the tenth of this month, in a satchel against a boy's chest, and it is five and a quarter hours with four changeovers in it, and the boy got it to the yard at about seven the same evening, and it went into the public lot book on the eleventh at nine in the morning, and the delay is entered, and the registrar entered it herself, and the line she entered is the fourth time she has written it and the fourth time it has been about a document.**
 
-> **THE SHEET WAS DECIDED IN A ROOM ABOVE A CHANDLER'S SHOP ON THE TENTH OF THIS MONTH AT ABOUT HALF PAST EIGHT IN THE MORNING AND IT WAS IN THIS BUILDING AT ABOUT SEVEN IN THE EVENING THE SAME DAY AND IT WAS ENTERED HERE ON THE ELEVENTH AT NINE IN THE MORNING. THE DELAY IS THE BOARD'S AND NOT THE WOMEN'S AND NOT THE ROOM'S. THE WOMEN DID NOT KNOW THERE WAS A SHEET AND THE ROOM WAS TOLD THERE WOULD BE ONE AND AGREED TO IT.**
+> **THE SHEET WAS DECIDED IN A ROOM ABOVE A CHANDLER'S SHOP ON THE TENTH OF MAY AT ABOUT HALF PAST EIGHT IN THE MORNING AND IT WAS IN THIS BUILDING AT ABOUT SEVEN IN THE EVENING THE SAME DAY AND IT WAS ENTERED HERE ON THE ELEVENTH OF MAY AT NINE IN THE MORNING. THE DELAY IS THE BOARD'S AND NOT THE WOMEN'S AND NOT THE ROOM'S. THE WOMEN DID NOT KNOW THERE WAS A SHEET AND THE ROOM WAS TOLD THERE WOULD BE ONE AND AGREED TO IT.**
 >
 > **AND THE PART OF THAT ENTRY THAT IS ABOUT THE MAN WHO WROTE IT DOWN IS ONE LINE AND IT IS THIS. HE DRAFTED IT AND HE COULD NOT CLOSE IT AND HE SAID SO AT ABOUT HALF PAST ELEVEN IN THE MORNING BEFORE THE ROOM GOT TO IT, AND HE WROTE DOWN WHAT THE ROOM DECIDED AND NOTHING ELSE, AND HE IS NOT ONE OF THE FOUR AND HE IS NOT A KEEPER OF A BOARD AND HE IS NOT ON THE COMMITTEE, AND THIS IS THE FIRST DOCUMENT IN THIS DISTRICT'S HISTORY WHERE THAT IS TRUE OF HIM ON THE FACE OF IT.**
 

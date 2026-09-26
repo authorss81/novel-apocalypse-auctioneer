@@ -24,6 +24,8 @@ The oil went in at six and the man of thirty-nine did the whole of it himself, a
 
 > **THE HUT AT THIS PLACE IS HELD BY AN OFFICE UNTIL A DATE. THE DATE IS WRITTEN HERE. THE OFFICE HAS NOT ASKED. THE OFFICE CONSIDERS THIS PLACE UNSAFE AND HAS SAID SO IN A PUBLIC YARD ELEVEN TIMES IN EIGHT YEARS.**
 
+The eleven lines under the name are not set out again here, because they are the same eleven lines and they are on a board four hours away, and what is set out is the one line that is not one of them. It is set out because a sentence painted on a board and then written out in a book has been read twice, and this district has spent nine weeks arguing about things that had been read once.
+
 It is the first line on a public board anywhere in this district that has been written by somebody who is not the office it is about. It went into the public lot book in Alder Reach on the twenty-fifth at nine in the morning with the delay entered, and the date it carries is a date an office wrote for itself, and **the entry says that a thing nobody was asked to do has been entered by somebody who was not asked to enter it, and the reason anybody may read it is that it is nailed to a board in a street.**
 
 The man who painted it is thirty-nine and he painted it in about nine minutes with a pot of white paint that came out of a bushel that cost four coppers, and he said afterwards that the sentence was true on the twenty-fifth of April as well and that he had not written it on the eighth because on the eighth there were four people standing behind him asking him about a barrow and a week.
@@ -72,8 +74,6 @@ And the tenth hand was asked, in front of about twenty people, whether that was 
 
 ---
 
----
-
 And on the afternoon of the twenty-fourth of this month, before anything else on it happened, a man of about twenty-eight walked into the ground-floor office of a river administration in Alder Reach and asked a question at the counter, and the question was: when does the term at the ninth place end.
 
 He is a copy clerk at the ward market and he went on his own time and nobody sent him and he had written the question down first, which is in the minute and which the clerk behind the counter noticed and mentioned.
@@ -109,7 +109,6 @@ And on the twenty-fifth, at about four in the afternoon, the man of thirty-nine 
 **"Nobody. I got the paint out of the same bushel they used on the line and I did it on my own and I would have told a committee if there had been one, and there is not one, and that is the first thing that has happened in this hut in nine years that nobody had a meeting about, and I have not decided whether that is good.**"
 
 ---
-
 
 **And a woman of about fifty who is the water and has been in that doorway for eleven years was asked on the evening of the twenty-sixth of this month whether anybody in this district wants its own offices to be askable, and she said yes, and the reason she gave is about a bench and not about a man, and the entry is in her own words and is under a heading that says NOT ANSWERED.**
 

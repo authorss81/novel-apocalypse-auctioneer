@@ -2,7 +2,7 @@
 
 On the second of this month a trestle table went up in the yard of Lot 17 in Alder Reach with a bundle of five hundred sheets on it still tied, and the first thing anybody did was untie it and turn a sheet over and look at the back, and the back is where the count is.
 
-It came off a press in Alder Reach on the first of this month, on the trade of a man who was paid and asked for it to be entered that he was paid. A run of five hundred is nine hundred and six coppers and the market's unassigned column has thirty a quarter, which is a hundred and twenty a year, and the difference between the two is eight hundred and ninety-four, and the difference is printed at the foot of the sheet in the same type as everything else, with a stall's name under it, because the woman who carries it was asked about it in a room in May and refused in those words and the market printed what she said.
+It came off a press in Alder Reach on the first of this month, on the trade of Halloway Reed, who was paid and asked for it to be entered that he was paid. A run of five hundred is nine hundred and six coppers and printing has been taking twelve coppers a quarter out of this market for longer than the rate has existed, and the difference between the two is eight hundred and ninety-four, and the difference is printed at the foot of the sheet in the same type as everything else, with a stall's name under it, because the woman who carries it was asked about it in a room in May and refused in those words and the market printed what she said.
 
 **The month turned between yesterday and the day before, and the new month is June, and last month was May, and the sheet on the trestle table is the first document in this district's history that has been printed in one month and read in the next.**
 
@@ -16,13 +16,13 @@ Under the name, in smaller type, in the market's own words: **THE TOLL ON THIS L
 
 Then the timetable: day of the month, hour, place, train, toll. The days run from the ninth of this month to the twenty-third and they are days of the month and not days of the week, and at the foot of that column, printed, is the reason.
 
-> **THIS DISTRICT DOES NOT HAVE A CALENDAR. A DAY OF THE WEEK IS A THING NOBODY HERE CAN CHECK AGAINST ANYBODY ELSE. A SHEET WITH A WEEKDAY ON IT IS A SHEET THAT SAYS SOMETHING THAT CANNOT BE FOUND OUT, AND THIS MARKET HAS ALREADY PRINTED ONE OF THOSE BY ACCIDENT AND IT WAS ON A TRAM ARCH AND IT WAS WRONG.**
+> **THIS DISTRICT DOES NOT HAVE A CALENDAR. A DAY OF THE WEEK IS A THING NOBODY HERE CAN CHECK AGAINST ANYBODY ELSE. A SHEET WITH A WEEKDAY ON IT IS A SHEET THAT SAYS SOMETHING THAT CANNOT BE FOUND OUT, AND ONE WAS PRINTED IN THIS CITY IN APRIL BY A MAN WHO IS NOT IN THIS MARKET, AND HE PUT THE DAY ON IT ON PURPOSE, AND HE WAS NOT WRONG ABOUT IT BEING WORTH MORE THAN THE BLANK.**
 
 Then the toll column, four feet wide, ruled at its two ends, and empty from one end to the other, with the reason printed inside it at about the height of a man's eye, in four lines, and this is the same sentence that is on three boards and it is the fourth time this district has printed it.
 
 > **PASSENGERS PAY NOTHING. THE CHARGE FALLS ON THE ORIGIN, WHICH IS A PLACE. NOBODY IN THIS DISTRICT CAN STATE THE AMOUNT OF AN ORIGIN. THE COLUMN IS PRINTED AT FULL WIDTH BECAUSE A COLUMN THAT IS PRINTED NARROW LOOKS LIKE A COLUMN THAT HAS BEEN KEPT QUIET.**
 
-And at the foot of the page, below a rule, in the same type as the toll column: **THE COUNT EACH TRADE CARRIED, READ OUT AT A COUNTER ON THE TWENTY-SEVENTH OF LAST MONTH BECAUSE A STRANGER IS OWED THE COUNT.** Eleven rows and four thousand and one, and under it, **AND ABOUT NINE HUNDRED HOUSEHOLDS IN THIS DISTRICT ARE IN NO ROW AND ARE NOT COUNTED ANYWHERE INCLUDING ON THE SHEET THAT COLLECTS THE FOUR THOUSAND AND ONE.**
+And at the foot of the page, below a rule, in the same type as the toll column: **THE COUNT EACH TRADE CARRIED, READ OUT AT A COUNTER ON THE TWENTY-SEVENTH OF MAY BECAUSE A STRANGER IS OWED THE COUNT.** Eleven rows and four thousand and one, and under it, **AND ABOUT NINE HUNDRED HOUSEHOLDS IN THIS DISTRICT ARE IN NO ROW AND ARE NOT COUNTED ANYWHERE INCLUDING ON THE SHEET THAT COLLECTS THE FOUR THOUSAND AND ONE.**
 
 ---
 
@@ -42,7 +42,7 @@ There are three such people and none of them is paid out of a rate for it. A cle
 
 And a woman with a stall on the lower terrace put a question on a slip of paper into a satchel on the first of this month, and the satchel went up the bank on a cart that belongs to a firm that gave up a lease in March, and the slip is the first time anybody in nine years has asked about the fifth can.
 
-Nine cans in a fortnight at seven coppers is sixty-three coppers, and the last of that fortnight went up on the first of May, and the trader had written nine words against it, and they are in the book and they are not repeated here: *he has got four weeks of oil and nobody has asked him about the fifth.*
+Nine cans in a fortnight at seven coppers is sixty-three coppers, and the last of that fortnight went up on the first of May, and the trader had written nine words about him against it, and they are in the book and they are not repeated here: *he has got four weeks of oil and nobody has asked him about the fifth.*
 
 "Ask him," said the clerk who was going up the bank, and she wrote it on the slip, and the slip said: the oil comes on a standing arrangement and the arrangement names a firm and the firm gave up its lease on the thirtieth of March and there is a man in a tin at the other end of the pipe who is not paid, and I want to know what you have been doing since March and who has been paying you.
 
@@ -52,7 +52,9 @@ And the trader wrote back four lines, and the fourth one is the sentence that is
 
 And a rate is a thing that is on you, and a debt is a thing that is on somebody else.
 
-The third of this month is the day a card at a chandler's on the lower terrace stopped naming a road house and started naming a person, and
+The third of this month is the day a card at a chandler's on the lower terrace, which is not the counter on Ash Row and never has been, stopped naming a road house and started naming a person, and the name it stopped is a firm that gave up a lease on the thirtieth of March and the name it started is a man of sixty-eight at a pumping engine eleven miles west, and he did not ask to be named, and said so for nine minutes, and then said yes.
+
+And the two books that carry the nine years of that end of the railway were both read on the same morning, one in a chandler's second counter and one in a room with a door on it, and between them they carry **twenty-one thousand two hundred and twenty-two coppers of what the west end of that line has cost anybody**, and the water is not in that figure and no instrument in this district can put it there.
 
 The finding entered is that **Nine years of an engine's oil were bought against a name that stopped existing in March, and the woman who kept supplying it is the only person in this district who has been keeping nine feet of water where it would otherwise be fourteen out of her own pocket, and the man who puts his hand on the pipe at six every evening is sixty-eight and is given what is left in a tin, and the sheet on the trestle table has none of that on it and the toll board at the ninth place has it in a margin in a signalman's hand.**
 
@@ -60,13 +62,13 @@ The man himself was asked, on the second of this month, in a room in Alder Reach
 
 "You are asking me to put my name on a card at a chandler's," he said, "and I have been at that engine since the flood year and my name has never been on anything for it, and there is a reason for that which is that a man who is named can be sent for. In nine years nobody has ever sent for Gilman Trew. **You are asking me to become findable. Findable is what a person is when somebody wants something from him, and I have wanted nothing from anybody in nine years except oil.**"
 
-"And you said yes," said the man who sells nothing and has a use.
+"And you said yes," said Halloway Reed, who sells nothing and has a use.
 
 "I said yes at about the second hour, on the grounds that I have four weeks of oil and a trader who has been paying out of her own till, and one of those two things has to stop and it is not going to be the oil."
 
 ---
 
-And the key to the case of Lot 17 turned twice in the month before this one, and the notice board under the two lapses has four lines under it now, and the fourth was not written by anybody who can be found, and it is nine words long and it is on the wall in chalk and it will be there in a year.
+And the key to the case of Lot 17 turned twice in March, and both turns were in the first half of it, and the notice board under the two lapses has four lines under it now, and the fourth was not written by anybody who can be found, and it is nine words long and it is on the wall in chalk and it will be there in a year.
 
 A rotation is only real when it turns. A board that asks at the end of a term has not asked in time. A board that cannot ask at all and leaves it to a crowd is a board whose rotation is a weather. A yard asked and a yard got a yes, and a yard is not a board.
 

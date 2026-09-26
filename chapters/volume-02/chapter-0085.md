@@ -6,7 +6,7 @@ It cost four coppers. The standing failure that the line of chalk cannot be seen
 
 Somebody asked a chandler. That is the whole of the finding and it is the fourth time this district has had it.
 
-The two men who pushed the cart up were the lamp-man of forty-one and a man of about thirty-four who keeps a counter of oil, and they took five and a quarter hours with four changeovers in it, and the man of thirty-four came back down the same day because he had a stall and lost a day of it, and nobody paid either of them, and the entry says that the paint was bought out of the two hundred coppers the ninth place paid on the seventh, and that of the two hundred, four coppers have now been spent on a sign and eleven on a bound copy of a line book and four on a bushel of white paint.
+The two men who pushed the cart up were the lamp-man of forty-one and a chandler of about thirty-four named Pell Anselm, who has a counter of oil on Ash Row and a stall in front of it, and they took five and a quarter hours with four changeovers in it. He came back down the same day because he had a stall to open and lost a day of it. Nobody paid either of them, and the entry says that the paint was bought out of the two hundred coppers the ninth place paid on the seventh, and that of the two hundred, four coppers have now been spent on a sign and eleven on a bound copy of a line book and four on a bushel of white paint.
 
 ---
 
@@ -28,19 +28,17 @@ He said that the thing he had been thinking about was that a security on a railw
 
 And four things were posted in about two hours on the evening of the seventeenth, and three of them are money and one of them is ground, and the finding is that this is the first week in nine years in which anything at the west end of that railway has been put up by a person who was put up by this district.
 
-The Needle Road House posts the standing salvage: **four hundred and ten coppers worth it at Alder Reach and nothing at the ninth place.** It is his own figure, entered at his own request in April by a foreman of twenty-two years who found out about a lease in a room with a fire in it, and he posted it in about eleven words, and the words were *it is already in a book and I would like it to be in two*.
+The Needle Road House posts the standing salvage: **four hundred and ten coppers worth it at Alder Reach and nothing at the ninth place.** It is his own figure, entered at his own request in April by a foreman of twenty-two years who found out about a lease in a room with a fire in it, and he posted it in about eleven words, and the words were *it is already in a book and I would like it to be in two*. **His name is Tarin Kest. The entry gives the name and not the firm**, and the reason it gives the name is in the book and is that a firm cannot be asked and a man can.
 
 "You cannot inspect that," said somebody. "It is salvage on a bank four hours from here."
 
-"Then a man comes up that bank and looks at it," he said, "and I will pay for the cart, and if it is not there I will put it back out of my own stock before he gets home, and that is what a thing somebody else can go and look at means. **The inspection is not the looking. The inspection is that a man can come.**"
+"Then a man comes up that bank and looks at it," said Tarin Kest, "and I will pay for the cart, and if it is not there I will put it back out of my own stock before he gets home, and that is what a thing somebody else can go and look at means. **The inspection is not the looking. The inspection is that a man can come.**"
 
 The ward market posts **eleven coppers a quarter** — the bench, the lamp, the chalk and the oil at the ninth place. It is the figure a river office has been paying out of its Harrow works rate for one month, and the market can vote on it and the office cannot be asked, and the entry says the eleven coppers is a service and **a rate buys a service and does not buy a seat, and the man who sleeps on that bench is still not paid and that is still true on the day the market voted it.**
 
 The ninth place posts the ground: the siding, the column, the hut and the ground between them, which a lease named a firm and which was surrendered on the thirtieth of March and has stood on the rate sheet since as **HELD BY NOBODY**, and is now posted by two named people and is valued by nobody at nothing.
 
 And the fourth is thirty-six coppers, and it is the smallest and the strangest, and the room argued about it longest.
-
----
 
 ---
 
@@ -52,16 +50,15 @@ It is how long, with an hour on it. A month, and a month again after that, and n
 
 It is how you say no. Two of the four said no inside eleven minutes and neither of them gave a reason, and the reasons are in the book anyway because the two of them gave them afterwards in the ordinary way in a room with thirty people in it, and the minute enters that the rule and the practice are not the same thing and that this district has not found out which one is the rule.
 
-It is who answers for you while you are saying it, and the mechanic answered it for the man of the counter of oil before anybody asked, and the answer was the name of a woman with a hook who buys old paper once a month, and the room wrote it down and she was not in the room.
+It is who answers for you while you are saying it, and the mechanic answered it for the chandler on Ash Row before anybody asked, and the answer was the name of a woman with a hook who buys old paper once a month, and the room wrote it down and she was not in the room.
 
 It is where you stand when you answer. In front of the table, in daylight, where thirty people can see you, and the woman of the column said the fifth thing before it was asked and said that she had been standing in a doorway for eleven years and she was not going to stand anywhere else to say a yes to a man from Alder Reach, and that is in the book in her words and it is the same answer she gave on the twenty-ninth of April.
 
 ---
 
-And the fourth thing on that wall has now been answered correctly four times in nine weeks by four different people and in one of those four times by a person who is a Room House and owes nothing to anybody in the room, and the finding entered on the nineteenth of this month is that **the fourth question is the one this district has been getting free, and it is the only one that cannot be asked by a board, and it is now the second thing on the minute of everything that matters.**
+And the fourth thing on that wall has now been answered correctly four times in nine weeks by four different people and in one of those four times by a woman who keeps a Road House on the tide and owes nothing to anybody in the room, and the finding entered on the nineteenth of this month is that **the fourth question is the one this district has been getting free, and it is the only one that cannot be asked by a board, and it is now the second thing on the minute of everything that matters.**
 
 ---
-
 
 **And the thirty-six coppers are water, and they have been owed to nobody for nine years, and they are now posted by the people they are owed to, to nobody, and the finding is that this is the only security in the district that cannot be taken away because there is nobody entitled to take it.**
 
@@ -91,11 +88,11 @@ And a woman of forty-four who keeps a Road House on the tide refused to post any
 
 "A yard is not a security," said the mechanic.
 
-"A yard is not a security and cannot be inspected and cannot be taken and is not money," she said, "and the thing about it is that a rehearsal happens in a yard, and a rehearsal is a walk done before the day it is for, to find out whether the walk can be done, and there has been one rehearsal on this line in nine years and it was on the twenty-second of March and it took six hours each way and it was done by four men in the rain. So you may have my yard once a month to walk a thing in before you do it, and I will not be paid, and I will not be thanked, and if anybody asks me in four years I will say I lent a yard."
+"A yard is not a security and cannot be inspected and cannot be taken and is not money," she said, "and the thing about it is that a rehearsal happens in a yard, and a rehearsal is a walk done before the day it is for, to find out whether the walk can be done.
+
+"And there has been one rehearsal on this line in nine years and it was on the twenty-second of March and it took six hours each way and it was done by four men in the rain. So you may have my yard once a month to walk a thing in before you do it, and I will not be paid, and I will not be thanked, and if anybody asks me in four years I will say I lent a yard."
 
 And it was accepted, and the finding is that **a thing this district could not pay for and could not inspect was accepted from the one person in the room who said out loud what it was, and the saying is the security.**
-
----
 
 ---
 
@@ -107,10 +104,9 @@ And then somebody asked the question that had been standing at the back of that 
 
 "So I am posting the fourth security on the strength of a walk past an empty bracket, and I am telling the room that I cannot look at the fourth thing and I have not looked at the fifth, and the fifth is nine miles further on and it is a machine, and the man who keeps it was not asked what his job is until the eighteenth of April by a lamp-man who counts lamps and not signals."
 
-Nobody in that room had anything to say about that, and the minute says so, and it says that the argument for posting the fourth security was made by the man who signed the lease that made the fourth place a place, and that he made it in order to be refused the right to inspect it.
+Nobody in that room had anything to say about that, and the minute says so, and it says that the argument for posting the fourth security was made by the man who signed the lease that made the fourth place a place, and it puts his name in that sentence, and the name is Tarin Kest, and it says that he made the argument in order to be refused the right to inspect it.
 
 ---
-
 
 **And on the margin of the same sheet, in a hand that is not the clerk's, a man of thirty-nine wrote one line about himself and then did not write anything else, and the line is in the public lot book in the fourth place where anybody can read it.**
 
