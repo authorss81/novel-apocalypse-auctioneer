@@ -2,7 +2,7 @@
 
 ---
 
-A man of about twenty-three who sells nothing and copies for nothing came up the bank into the yard of Lot Seventeen on the twenty-second of the second month at about half past ten in the morning and had not been sent for, and a clerk of nineteen years entered that he came and that nobody sent for him and that the not-asking is entered and the count is where it was.
+A man of about twenty-three who sells nothing and copies for nothing came up the bank into the yard of Lot Seventeen at about half past ten in the morning on the twenty-second of the second month, and he had a copy flat against his chest under his coat and nobody in that yard had sent for him, and a clerk of nineteen years entered that he was not sent for, that the not-asking is entered, and that the count is where it was.
 
 He put the copy on the trestle table face down and did not open it, and a man of about thirty-four who digs loam said that a man who puts a page face down has put it down in a way, and that a page face up would be an offer and a page face down is a thing a man has brought and has not decided about.
 
@@ -32,7 +32,7 @@ A man of about thirty-four who mends fencing asked where the money for it would 
 
 The man of about twenty-three said the other thing, which is that he was not asking a yard for money, and a woman of about thirty-three who takes in washing at the second channel said that he was standing in a yard asking a yard, and that a thing asked in a yard is asked in a yard whoever it is asked of.
 
-Nobody argued with that. A man of fifty-six said that a clerk with a wage and a day off was offered in a room in the ninth month of last year by a house thirty-four miles east, **and that the offer is not this man and the two are not joined and are not to be joined, and that a man asking this district for eleven coppers is not that offer coming back and is not a column and is not a figure against the house.**
+It was not argued with. A man of fifty-six said that a clerk with a wage and a day off was offered in a room in the ninth month of last year by a house thirty-four miles east, **and that the offer is not this man and the two are not joined and are not to be joined, and that a man asking this district for eleven coppers is not that offer coming back and is not a column and is not a figure against the house.**
 
 A man of about thirty-four who digs loam said that the man of about twenty-three has been the only person in this district who has kept a page of a house's document without being paid for it, and that this district has had a bucket, a basket and a barrow for nine years and has entered none of them, **and that a man who asks for a wage is a fourth of those four and is the first one who has asked and the count of instruments this district has built and not named is six and did not move on the twenty-second of the second month.**
 
@@ -48,11 +48,11 @@ It is. He buys it himself, about four sheets to a sheet of account at a chandler
 
 A man of about thirty-four who digs loam said that a man who buys the paper a page is on has an owner, and that an owner is a person, and that a person who owns a page of a house's document can be asked about it and can be told to hand it over and can refuse.
 
-Nobody took that up. A man of fifty-six said that the finding of the twenty-second of the second month is not about a wage at all, and that it is that a page a man bought paper for has a person attached to it, **and that this district has three documents nobody owns and a copy with an owner in it, and that a document nobody owns and a page a man owns are two different problems and are not joined and are not to be.**
+It was not picked up.. A man of fifty-six said that the finding of the twenty-second of the second month is not about a wage at all, and that it is that a page a man bought paper for has a person attached to it, **and that this district has three documents nobody owns and a copy with an owner in it, and that a document nobody owns and a page a man owns are two different problems and are not joined and are not to be.**
 
 A man of about thirty-four who mends fencing asked the man of about twenty-three whether anybody had told him that, and the man of about twenty-three said that nobody had told him and that he had worked it out himself in about the fourth week, and that he had not said it out loud because a man who says out loud that a page is his has told a house where to write to.
 
-A clerk of nineteen years entered that he was not asked to say that twice and that the not-asking is entered and the count is where it was, **and that a man who works out that a page is his and does not say so is a person and not a rule, and that a rule a man says out loud against his own advantage is not a rule and is not written down and he would not have it written down.**
+A clerk of nineteen years entered that he was not asked to say that twice and that the not-asking is entered and the count is where it was, **and that a man who works out that a page is his and does not say so is a person and not a rule, and that a rule spoken out loud by the man it costs him is not a rule and does not get written down, and that he said so on the twenty-second of the second month and has not repeated it since.**
 
 The man of about twenty-three said that he could be compelled and that nobody is going to compel him and that he is not going to hand a page to a house in any case, and a man of fifty-six entered that the second half of that was said before anybody asked him for it.
 
@@ -74,7 +74,7 @@ A man of about nineteen who walked in from the road counted the third of those a
 
 A man of about thirty-four who digs loam said that a man who copies for nothing has just done in about four minutes the thing this district has done out loud in a yard four times in ten days, and that the difference is that the man of about twenty-three did it to see whether a figure was right and the yard did it because it is the thing the yard does.
 
-Nobody took that up. A man of fifty-six said that a figure derived out loud in a yard is worth more than a figure carried in a book, and that a figure checked by a man who is not paid to check it is worth more than both, **and that the thirty-first of March is thirty-seven days off this day and the first of April is thirty-eight, and that a figure with no day on it is not an interval and the two of those have never been joined.**
+Nothing was said to it.. A man of fifty-six said that a figure derived out loud in a yard is worth more than a figure carried in a book, and that a figure checked by a man who is not paid to check it is worth more than both, **and that the thirty-first of March is thirty-seven days off this day and the first of April is thirty-eight, and that a figure with no day on it is not an interval and the two of those have never been joined.**
 
 A clerk of nineteen years entered that the count of unentered days since the twenty-fourth of November is ninety and is a count of days and not a column, **and that a man who has found a four-day error in an arithmetic going about a yard has found an error and not a finding, and that nobody in this district is going to be sent to look for the four days.**
 
@@ -86,19 +86,19 @@ The corner was the reason he had the copy out at all, and he brought that up him
 
 He said that there is a day written in the corner of the copy in a hand that is not the mother's and is not the counter's and is not the house's, and that he has now looked at it, and that he is the first person in this district to have looked at it, and that he copied it nine times and it is in all nine.
 
-A man of about thirty-four who digs loam said that **looking at a hand is not the same as knowing whose it is**, and the man of about twenty-three said so before he was asked.
+the man who digs loam said that **looking at a hand is not the same as knowing whose it is**, and the man of about twenty-three said so before he was asked.
 
 "**I have looked at it and I cannot tell you whose hand it is and I am not going to guess, and a guess about a hand is worse than no hand at all.**"
 
 A clerk of nineteen years entered that one person has now looked at the hand in the corner and has not been able to say whose it is, **and that one person's answer is not a finding and is not a column and is not entered against anybody, and that the day in that corner is the twenty-ninth of December and has been in this district's books since the seventeenth of January and has not moved.**
 
-A man of about thirty-four who mends fencing asked him whether a hand that wrote one figure and stopped is a person, and the man of about twenty-three said that a hand is not a person and that this district wrote that down in the ninth week of January and has not stopped writing it down.
+the man who mends fencing asked him whether a hand that wrote one figure and stopped is a person, and the man of about twenty-three said that a hand is not a person and that this district wrote that down in the ninth week of January and has not stopped writing it down.
 
 Then the other thing, and it is the finding of the twenty-second of the second month and it belongs to a man who is not paid, and he said it standing up, with his hand flat on the copy, in the ordinary voice of a man of about twenty-three who copies for nothing.
 
 "**The second of the four printed things says the named person shall not be below fifteen, and the name in the bearer column is the name of a boy of nine, and your yard said that out loud on the sixteenth of this month, and I was not in your yard and I know it because a carter told me at a gate.**"
 
-Nobody in that yard spoke for a moment. A man of about thirty-four who digs loam said that **a man who copies a sheet for a house has the sheet and the breach on the same piece of paper**, and that this district has spent a month proving the breach to itself in four rooms and has not been able to put the sheet and the breach in one pair of hands.
+Nobody in that yard spoke for a moment. The man who digs loam said that **a man who copies a sheet for a house has the sheet and the breach on the same piece of paper**, and that this district has spent a month proving the breach to itself in four rooms and has not been able to put the sheet and the breach in one pair of hands.
 
 A man of fifty-six said that a woman of about thirty-three who takes in washing at the second channel is not in this yard and is not going to be sent for, **and that a person who goes into about forty houses a week is a person who carries things this district does not know it is carrying, and that she is the second instrument this district has and is not on a list and is not going to be.**
 
@@ -112,7 +112,7 @@ The last of the twenty-second was the offer, and he made it himself, and a clerk
 
 He said that the sheets come down at the end of a month on a cart with the seed, and that the next cart is seven days off, and that he is going to be at the Road House on the tide when it comes because he goes there anyway, and that he is going to have the copy in his coat.
 
-A man of about thirty-four who mends fencing asked whether the copy was going to be read out, and the man of about twenty-three said that it was not going to be read out and that it was going to be held, and a clerk of nineteen years entered that held is not read out and that read out is not held and that the two of those are not the same arrangement and are not joined.
+the man who mends fencing asked whether the copy was going to be read out, and the man of about twenty-three said that it was not going to be read out and that it was going to be held, and a clerk of nineteen years entered that held is not read out and that read out is not held and that the two of those are not the same arrangement and are not joined.
 
 A man of fifty-six said that a page a stranger may look at and may not take away is half an instrument, and a man of about thirty-four who digs loam said that a page a man of about twenty-three chooses to hold in a lane is not half an instrument and is not an instrument, **and that the count of six did not move on the twenty-second of the second month and that a man carrying a page to a door is a man carrying a page and is not a bearer of the page and is not a holder of it.**
 
@@ -120,9 +120,9 @@ And so on the twenty-third of the second month, which was three hundred and seve
 
 He said that he had been thinking about the four days that are out in the arithmetic, **and that he had found them, and that they were his own, and that he had been adding the fourth day of a month twice in a column he keeps for himself and had been doing it since December.**
 
-Nobody argued with that. A man of fifty-six said that a man who has found his own four days and has told the yard about them has done the only kind of checking anybody in this district has ever done on anybody's figure, **and that he did it in a lane and not in a yard and that a district which is corrected by a man of about twenty-three and says thank you for it is a district that has no other way of being corrected.**
+Nothing was said against it. A man of fifty-six said that a man who has found his own four days and has told the yard about them has done the only kind of checking anybody in this district has ever done on anybody's figure, **and that he did it in a lane and not in a yard and that a district which is corrected by a man of about twenty-three and says thank you for it is a district that has no other way of being corrected.**
 
-A man of about thirty-four who mends fencing asked him, in the six things, whether the copy would be worth anything to the house thirty-four miles east, and the man of about twenty-three gave the answer himself and it is in the minute in his own words, and a man of about nineteen counted it and got thirty-four.
+the man who mends fencing asked him, in the six things, whether the copy would be worth anything to the house thirty-four miles east, and the man of about twenty-three gave the answer himself and it is in the minute in his own words, and a man of about nineteen counted it and got thirty-four.
 
 A clerk of nineteen years read it back and got nothing wrong, which is the rule of the counter, and read it back a second time because the man who can be found asked her to and she said yes without being asked twice.
 
@@ -138,13 +138,13 @@ The lane to the Road House on the tide is not metalled for about a mile and a ha
 
 "**That is deep enough for a wheel before eleven in the morning and it is not deep enough for a wheel after two, and if your cart comes at ten it comes, and if it comes at three it does not.**"
 
-A man of about thirty-four who mends fencing said that **a man who copies for nothing has just become the only person in this district who can tell a cart whether it will get somewhere**, and that this district has three instruments that work without anybody coming to a yard and has now a fourth, and that the fourth is a man standing in a rut with his hand in it.
+the man who mends fencing said that **a man who copies for nothing has just become the only person in this district who can tell a cart whether it will get somewhere**, and that this district has three instruments that work without anybody coming to a yard and has now a fourth, and that the fourth is a man standing in a rut with his hand in it.
 
 A clerk of nineteen years entered that a man in a rut is not an instrument and was refused entry as one in the yard on the thirteenth of the second month, and that the count of six did not move on the twenty-third of the second month, **and that a figure of eleven in the morning and two in the afternoon is a figure a man said about a lane and not a term and not a column and has not been checked by anybody.**
 
 Nobody argued with that. A man of fifty-six said that **the sheets and the seed come down on one cart and that a cart that cannot get to a Road House at three in the afternoon gets there in the morning or does not get there at all**, and that the district has never once asked the man who drives it what hour he sets out.
 
-A man of about thirty-four who digs loam said that a man of about forty-one who drives a salt cart has two pans under about four feet of river and is not available, and that the man who puts a sheet down at the head of a lane and goes is a carter this district has never asked a question, and a clerk of nineteen years entered that the not-asking is entered and the count is where it was and that a carter is a person and is not a bearer of a sheet and is not a holder of one.
+the man who digs loam said that a man of about forty-one who drives a salt cart has two pans under about four feet of river and is not available, and that the man who puts a sheet down at the head of a lane and goes is a carter this district has never asked a question, and a clerk of nineteen years entered that the not-asking is entered and the count is where it was and that a carter is a person and is not a bearer of a sheet and is not a holder of one.
 
 So a man of about twenty-three stood in the ruts at the end of a lane with his hand in one of them and said that **a cart gets through before eleven in the morning and not after two in the afternoon, and a man in a rut is not an instrument and the count of six did not move on the twenty-third of the second month.**
 

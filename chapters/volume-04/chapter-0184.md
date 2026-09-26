@@ -2,7 +2,7 @@
 
 ---
 
-The man of about forty-eight who keeps a tally for six households at the sluice end of the loams came down the bank on the twenty-fifth of the second month at about ten in the morning with the tally under his arm and had not been sent for, and a clerk of nineteen years entered that he came and that nobody sent for him.
+He came down the bank on the twenty-fifth of the second month at about ten in the morning with the tally under his arm and both arms held close against his sides, and the man of about forty-eight who keeps a tally for six households at the sluice end of the loams was not sent for, and a clerk of nineteen years entered that he came and that nobody sent for him.
 
 The tally is a board of about eighteen inches by twelve and it is a tally and not a board, and it has six headings on it and four or five names under each in a hand that is not a clerk's hand, and **there is no column anywhere on it for a person who is not in a household**, and the sixth heading has a roof drawn beside a name in charcoal.
 
@@ -42,7 +42,7 @@ At the fourth door nobody came, and he said that nobody has come to that door si
 
 A man of about thirty-four who digs loam said that **a man who can say what is at five doors without knocking at any of them has got the only survey this district has, and that it is nine weeks old and in a hand that is not a clerk's hand and under a man's arm, and a survey a man carries is not an instrument and is not a record and is not to be entered as one.**
 
-Nobody took that up. A man of fifty-six said that the district has spent four months building instruments and the best information it has is a man with a board, and that the two of those are not joined and that a man who has said that out loud is not a rule and is not written down.
+It was left where it was put down.. A man of fifty-six said that the district has spent four months building instruments and the best information it has is a man with a board, and that the two of those are not joined and that a man who has said that out loud is not a rule and is not written down.
 
 **AND THE MAN OF ABOUT FORTY-EIGHT WALKED THE FIVE DOORS AT THE SLUICE END OF THE LOAMS ON THE AFTERNOON OF THE TWENTY-FIFTH OF THE SECOND MONTH WITHOUT KNOCKING AT ANY OF THEM, AND NOTHING WAS ASKED OF ANYBODY AT ANY OF THE FIVE.**
 
@@ -52,13 +52,13 @@ A man of about thirty-four who digs loam said a thing about the scale that he ha
 
 He said that **a scale can weigh about nine sacks of seed and cannot weigh a season, and a season is the thing every document in this district's business is actually about**, and that the woman of about thirty-six has been standing at the only instrument in this basin that tells the truth about weight and has never once been asked what a season weighs.
 
-The woman of about thirty-six said that she would like somebody to be able to say what a season weighs, and she said it in the ordinary voice of a person saying a thing she has wanted to say for a while, and a clerk of nineteen years entered that she said the second half of it before she was asked and that she is not going to put a number on it.
+The woman of about thirty-six said that she would like somebody to be able to say what a season weighs, and she said it in the ordinary voice of a person saying a thing she has wanted to say for a while, and a clerk of nineteen years entered that the second half of it came out ahead of the asking, and that she is not going to put a number on it.
 
 A man of fifty-six said that there is no such figure in this basin and that there is likely to be none and that asking for it is not a demand anybody can meet, and the woman of about thirty-six said that she knows that, and that she is not asking anybody to meet it, and that a woman can want a thing that is not going to happen.
 
-Nobody argued with that. A man of about thirty-four who mends fencing asked her what happens to a sack that is not collected, and she said it goes back on the barrow and into a different lane, and that a sack is a sack and a sheet is a sheet and the two of them are not the same arrangement and are not to be put in one line.
+No one said the opposite. A man of about thirty-four who mends fencing asked her what happens to a sack that is not collected, and she said it goes back on the barrow and into a different lane, and that a sack is a sack and a sheet is a sheet and the two of them are not the same arrangement and are not to be put in one line.
 
-A man of about thirty-four who digs loam said that **a sack of seed that goes into a lane where a sheet has been refused is the only thing anybody in this district has ever put in front of a house that did not ask for it.**
+the man who digs loam said that **a sack of seed that goes into a lane where a sheet has been refused is the only thing anybody in this district has ever put in front of a house that did not ask for it.**
 
 He said that **the seed is not a term and carries no labour and has no column, and that it is the only one of the four printed things on that sheet with nothing written on the back of it, and that a thing with nothing on the back of it is a gift, and a gift is not a contract and a contract is not a gift.**
 
@@ -69,7 +69,7 @@ A man of about thirty-four who mends fencing said the other half of that himself
 A clerk of nineteen years entered that the three of those are three places and not three parties, and that a place is not a bearer and is not a holder and is not a person who was asked.
 
 She entered that **the seed is not a term and is not to be entered as one and is not a security and is not a figure against anybody, and the count of six did not move on the twenty-sixth of the second month.**
-Nobody took that up. A man of about thirty-four who mends fencing asked, in the six things, whether **the seed goes to a household that has refused a sheet**, and the woman of about thirty-six said the answer before he had finished the question and a clerk of nineteen years entered that she said the second half of it before she was asked.
+Nothing in the yard said anything to it.. A man of about thirty-four who mends fencing asked, in the six things, whether **the seed goes to a household that has refused a sheet**, and the woman of about thirty-six said the answer before he had finished the question and a clerk of nineteen years entered that she said the second half of it before she was asked.
 
 "**The sacks go where the sacks go. I weigh them and I do not read what is on the paper that comes with them and I am not going to start.**"
 
@@ -77,11 +77,11 @@ A clerk of nineteen years entered that she was not asked a second question and t
 
 A man of fifty-six said that a household which has refused a sheet is a household which is being given seed anyway, and that this is the only refusal of a house's terms anybody in this district has ever seen succeed, **and that it has succeeded because a woman with a scale did not read the paper and not because anybody in this district beat the house at anything.**
 
-A man of about thirty-four who digs loam said that a sack of seed and a sheet of terms are two arrangements and that the two of them came down on one cart, and that a sheet that arrives with seed is a different arrangement from a sheet that arrives alone, and that the woman of about thirty-six is the reason the first of those is a sheet about seed.
+the man who digs loam said that a sack of seed and a sheet of terms are two arrangements and that the two of them came down on one cart, and that a sheet that arrives with seed is a different arrangement from a sheet that arrives alone, and that the woman of about thirty-six is the reason the first of those is a sheet about seed.
 
 A clerk of nineteen years entered that a sack is not a figure and a barrow is not a security and a scale is not an instrument, **and that a woman who is not paid to stand at a scale is not a keeper of one, and that the count of six is the same six on the twenty-fifth and on the twenty-sixth of the second month.**
 
-Nobody argued with that. A man of about thirty-four who mends fencing asked the woman of about thirty-six whether she had ever had a sheet in her hand, and she said no, and said that if one was put in her hand she would put it down again, and a man of fifty-six said that a person who has refused a thing she has never been asked about is a person and not a refusal and is not entered as one.
+Nobody argued with that. The man who mends fencing asked the woman of about thirty-six whether she had ever had a sheet in her hand, and she said no, and said that if one was put in her hand she would put it down again, and a man of fifty-six said that a person who has refused a thing she has never been asked about is a person and not a refusal and is not entered as one.
 
 **AND THE SEED WENT TO A HOUSEHOLD THAT HAS REFUSED A SHEET, AND THE REASON WAS THAT THE WOMAN WHO KEEPS THE SCALE DOES NOT READ WHAT COMES WITH IT, AND THAT IS NOT A FINDING ABOUT A HOUSE.**
 
@@ -89,11 +89,11 @@ Nobody argued with that. A man of about thirty-four who mends fencing asked the 
 
 Then the roof, and the man who lives in a cart was at the end of the lane where he is most days and he heard the word roof before anybody said the rest of it.
 
-He is the sixth household on that tally and a sheet is given to a family and a family is a thing with a name on it and he has not got one, and the man of about forty-eight who keeps the tally drew the roof beside his name in charcoal and has not been asked to take it off and has not offered to.
+He is the sixth household on that tally, and a sheet goes to a family, and a family is a thing with a name on it, and he has not got one, and the man of about forty-eight who keeps the tally drew the roof beside his name in charcoal and has not been asked to take it off and has not offered to.
 
-He said the thing he wanted in the first minute and he said it without being asked for it, and a clerk of nineteen years entered that he said it before he was asked and that she is not going to put a number on it, and it went in the minute in his own words and a man of about nineteen counted it and got twenty-eight.
+He said the thing he wanted in the first minute and he said it without being asked for it, and a clerk of nineteen years entered that it came out ahead of the asking and that she is not going to put a number on it, and it went in the minute in his own words and a man of about nineteen counted it and got twenty-eight.
 
-A man of about thirty-four who mends fencing said that **it is the first time anybody in this district's business has asked a man in a cart for something rather than asked him whether he will sign something,** **and that a man who wants a thing can be refused and can change his mind and can be the reason a conversation has a shape, and that a man who wants nothing can only be counted.**
+the man who mends fencing said that **it is the first time anybody in this district's business has asked a man in a cart for something rather than asked him whether he will sign something,** **and that a man who wants a thing can be refused and can change his mind and can be the reason a conversation has a shape, and that a man who wants nothing can only be counted.**
 
 "**I want the roof off. Nine years and that is the only thing anybody has drawn about me and I would rather be nothing than be a roof.**"
 
@@ -103,11 +103,11 @@ The man of about forty-eight who keeps the tally gave the reason himself and he 
 
 "**If the roof comes off, the sixth heading is a man with no house on it and that is a lie. With the roof on it, it is a household that has not got a building. I am not going to write a lie to make a man comfortable.**"
 
-Nobody in the lane said anything for a moment. A man of about thirty-four who mends fencing said that **a man who will lie in the other direction to be kind has not solved anything and has moved the unkindness,** **and that a roof drawn in charcoal carries no job and is not a bearer and is not a holder and is not a security and the count of six did not move on the twenty-sixth of the second month.**
+Nobody in the lane said anything for a moment. The man who mends fencing said that **a man who will lie in the other direction to be kind has not solved anything and has moved the unkindness,** **and that a roof drawn in charcoal carries no job and is not a bearer and is not a holder and is not a security and the count of six did not move on the twenty-sixth of the second month.**
 
 A clerk of nineteen years entered that the refusal of the man of about forty-eight is the third time in nine weeks he has been asked to put his own page somewhere better and has said no, and that the three are three and are not a column and are not added to the thirteen, and that a man in a cart who has been refused a thing he wanted is not a protected thing and is not a sixth of the five.
 
-The man who lives in a cart said the other half before anybody asked him for it, and a clerk of nineteen years entered that he said it before he was asked and that she is not going to put a number on it.
+The man who lives in a cart said the other half before anybody asked him for it, and a clerk of nineteen years entered that he gave it before there was a question to give it to, and that she is not going to put a number on it.
 
 "**I did not ask him to write me down and I have said that in this yard before and I am saying the other half of it now. If a man will not draw a roof I would rather be a mistake than a picture.**"
 

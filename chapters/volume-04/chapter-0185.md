@@ -2,9 +2,9 @@
 
 ---
 
-The man of about fifty-five who keeps the flood shelter at the sluice end of a lane off the lower terrace came up the bank into the yard of Lot Seventeen on the twenty-seventh of the second month at about eleven in the morning and had not been sent for, and a clerk of nineteen years entered that he came and that nobody sent for him and that the not-asking is entered and the count is where it was.
+He came up the bank into the yard of Lot Seventeen on the twenty-seventh of the second month at about eleven in the morning and stood at the top of the steps with his hat in his hand for about four minutes before he came down them, and the man of about fifty-five who keeps the flood shelter at the sluice end of a lane off the lower terrace was not sent for, and a clerk of nineteen years entered that nobody sent for him, that the not-asking is entered, and that the count is where it was.
 
-He stood at the end of the trestle table for a while with his hat in his hand and did not say anything, and a man of about thirty-four who mends fencing let him stand there, and a man of fifty-six said afterwards that **a man who has come nine hundred yards to say a thing and has said nothing for four minutes is a man doing the hardest part of it first.**
+He came in then and stood at the end of the trestle table and did not say anything, and a man of about thirty-four who mends fencing let him stand there, and a man of fifty-six said afterwards that **a man who has come nine hundred yards to say a thing and has said nothing for four minutes is a man doing the hardest part of it first.**
 
 Then he said it, in the ordinary voice, and he said it to the yard and not to anybody in it, and a clerk of nineteen years entered that he was not asked for it and that she was not asked why it had taken four minutes.
 
@@ -16,7 +16,7 @@ A man of about thirty-four who digs loam said that **a man in a room four miles 
 
 A clerk of nineteen years entered that nobody bears that building and that it has been entered nine times since the first of the second month, and that **nine is a count of entries and is not a column, and a man asking for a man in a room is not asking to be a bearer and is not asking anybody to become one.**
 
-Nobody took that up. A woman of about thirty-three who takes in washing at the second channel said that a room with a stove and four shelves and about sixty people in it in the cold is not a shelter in this district's business and is a room, and that the district's own word for it on the sheet on the tide is one place, **and a place is not a bearer and is not a holder and is not a person who was asked.**
+The yard let it stand.. A woman of about thirty-three who takes in washing at the second channel said that a room with a stove and four shelves and about sixty people in it in the cold is not a shelter in this district's business and is a room, and that the district's own word for it on the sheet on the tide is one place, **and a place is not a bearer and is not a holder and is not a person who was asked.**
 
 A man of fifty-six said that a man who has kept a building for nine years and has never once asked for anybody has today asked for the one thing that costs nothing and gives back nothing, **and a thing which costs nothing and gives back nothing is the hardest kind of thing to be given and the easiest kind of thing to refuse, and the yard is going to have to do one of those two things before the light goes.**
 
@@ -28,7 +28,7 @@ The man of about thirty-one who mends a dray at a forge end off Salt Row came in
 
 A man of about thirty-four who mends fencing asked him, in the six things, whether he would go down the lane and sit in that room for a night, and he said yes, and he did not take four seconds about it, and a man of about nineteen who walked in from the road said so out loud afterwards and was not asked why he had noticed.
 
-Then he said the condition himself, and he said it before anybody asked him for it, and a clerk of nineteen years entered that he said the second half of it before he was asked and that she is not going to put a number on it.
+Then he said the condition himself, and he said it before anybody asked him for it, and a clerk of nineteen years entered that he gave the second half of it before he was asked for it and that she is not going to put a number on it.
 
 "**I will sit. I am not going to be a bearer of that building and I am not going to have my name in his book, and if either of those two things comes up I will get up and go and I will not argue about it in the lane.**"
 
@@ -38,13 +38,13 @@ A man of fifty-six said that a man who says yes and then puts two things out of 
 
 A man of about thirty-four who digs loam said that a man who will not be a bearer and will not be a holder and has not been asked to be either is a man who is free to be a third thing, **and the third thing is a man sitting in a room, and a man sitting in a room is not in any of the three counts and is not a column and is not a security.**
 
-Nobody argued with that. A man of about thirty-eight who deals in second-hand paper said that he has been in the second-hand paper trade for thirty years and has never once had a customer ask him to sit in a room, and that **a man who asks for a thing that cannot be resold is the only kind of customer there is.**
+It was not disputed. A man of about thirty-eight who deals in second-hand paper said that he has been in the second-hand paper trade for thirty years and has never once had a customer ask him to sit in a room, and that **a man who asks for a thing that cannot be resold is the only kind of customer there is.**
 
 Then a man of fifty-six asked him what he was going to do about the forty in that room, and the man of about thirty-one said the answer without stopping, and a man of about nineteen counted it and got fifty-seven.
 
 "**If they ask me to carry something I will carry it and I will not be paid and it will not be in a book, and if they ask me who owes what I will tell them I do not know, and if they ask me anything else I will say I do not know as well.**"
 
-A man of about thirty-four who mends fencing asked him whether he understood what he had just agreed to, and the man of about thirty-one said that he had understood it and that it was the first time in five weeks he had agreed to a thing that did not have his name on it, and a clerk of nineteen years entered that he said the second half of that before he was asked and that she is not going to put a number on it.
+A man of about thirty-four who mends fencing asked him whether he understood what he had just agreed to, and the man of about thirty-one said that he had understood it and that it was the first time in five weeks he had agreed to a thing that did not have his name on it, and a clerk of nineteen years entered that the second half of that was said before he was asked and that she is not going to put a number on it.
 
 A man of fifty-six said that a man who will carry a thing and will not be paid and will not be in a book is a man doing work nobody can enter, and that **this district has three instruments that work without anybody coming to a yard, which are a bucket, a basket and a barrow, and a man who carries a thing for nothing is a fourth of those four and is not going into any list.**
 
@@ -78,25 +78,25 @@ The page was the other thing, and a man of about thirty-four who mends fencing a
 
 He said that there are twenty-three days in the spaces now and that the page has about forty of them, and that he has done that sum twice in his own head and does not want it done out loud, and a clerk of nineteen years entered that the figure of twenty-three was said by him and has not been checked and was not asked to be checked.
 
-A man of about thirty-four who mends fencing said that about forty spaces and twenty-three days is a bit more than half, and the man of about fifty-five said that it is, and that a page which is half full is a page which is going to be full in about a fortnight, and that a man who has written a day every day since the fourth of the second month is a man who will be doing this on the third day of the next month.
+the man who mends fencing said that about forty spaces and twenty-three days is a bit more than half, and the man of about fifty-five said that it is, and that a page which is half full is a page which is going to be full in about a fortnight, and that a man who has written a day every day since the fourth of the second month is a man who will be doing this on the third day of the next month.
 
 Nobody argued with that. A man of fifty-six said that a page a third full in the fourth week of the second month and a page half full on the twenty-seventh is a page in a hurry, and that a page in a hurry is a page somebody else will have to read, and that the man who reads it will not be the man who filled it.
 
 A clerk of nineteen years entered that a page which is going to be full in about a fortnight is the end of a page, and that the end of a page is the only kind of ending in this district's business a person can bring about by doing the right thing, **and that a man who is frightened of the figure of a page is a man and not a clerk and is not going to be made one.**
 
-A man of about thirty-four who mends fencing asked whether the day that went in without a name would be a problem for whoever reads the page next, and the man of about fifty-five said that he does not know, and a clerk of nineteen years entered that he was not asked a second thing about it and that the not-asking is entered and the count is where it was.
+the man who mends fencing asked whether the day that went in without a name would be a problem for whoever reads the page next, and the man of about fifty-five said that he does not know, and a clerk of nineteen years entered that nothing further was put to him about it, that the not-asking is entered and the count is where it was.
 
 Then he said the other half of it himself, and a man of about nineteen counted it and got fifty-six, and it went in the minute in his own words.
 
 "**A day in a page with no name against it is a day somebody was in my building and I did not write down who, and I wrote that down because I write days down, and if it is a problem for the next man then it is a problem I have handed him on purpose.**"
 
-A clerk of nineteen years entered that he said the second half of that before he was asked and that she is not going to put a number on it, **and that a man who hands a problem to the next man on purpose has done a thing this district has no instrument for and is not going to build one, and that the count of six is the same six it was on the twenty-seventh of the second month.**
+A clerk of nineteen years entered that the second half of that came out ahead of the asking, **and that a man who hands a problem to the next man on purpose has done a thing this district has no instrument for and is not going to build one, and that the count of six is the same six it was on the twenty-seventh of the second month.**
 
-Nobody took that up. A man of about thirty-four who digs loam said that the heading on that page is three sentences long and is not reprinted in this district and is in the minute of the fourth of January, and that the man who wrote the heading in the fourth year is the man who has to keep writing it, and that nobody has ever asked him whether he wants the ninth page as well as the eighth.
+It was not picked up.. The man who digs loam said that the heading on that page is three sentences long and is not reprinted in this district and is in the minute of the fourth of January, and that the man who wrote the heading in the fourth year is the man who has to keep writing it, and that nobody has ever asked him whether he wants the ninth page as well as the eighth.
 
 Then the tank, because the man of about fifty-five went to the board against the wall before he went to the stove, and the mark for the twenty-fifth is level with the mark for the twenty-fourth and the mark for the twenty-sixth is level with the mark for the twenty-fifth and the mark for the twenty-seventh is a finger below the mark for the twenty-sixth.
 
-A man of about thirty-four who digs loam said that a man who has kept three marks at one height and then a fourth a finger down has found out something about his own shoulder and not about the tank, **and that a tank in this district is now whatever two yokes and a crack add up to and that a day of about thirty-one's carrying is not a term and is not a figure anybody can put on a page.**
+the man who digs loam said that a man who has kept three marks at one height and then a fourth a finger down has found out something about his own shoulder and not about the tank, **and that a tank in this district is now whatever two yokes and a crack add up to and that a day of about thirty-one's carrying is not a term and is not a figure anybody can put on a page.**
 
 A clerk of nineteen years entered that the tank is down to about three days and that the figure of three days was said by a man of about thirty-four who digs loam and by the man of about fifty-five and has not been checked by anybody and was not asked to be checked, **and that a figure of days about a tank is not a column and is not entered in one and the days before the fourth of the second month and the days in a page are two figures in two places and are not added.**
 
@@ -112,7 +112,7 @@ He said that he will come on the twenty-eighth and on the day after, and that he
 
 A clerk of nineteen years entered that the man of about thirty-one has said no three times in a yard in this district's business and has said yes to a fourth thing, and that the three and the one are four, **and that four is a count of things a man was asked and is not a column and is not a rate and is not added to the count of not-askings about anybody in particular, because a man who is asked and answers is a person who was asked.**
 
-Nobody took that up. A man of about thirty-four who mends fencing said that a man who sits in a room and does not speak and does not carry anything has not done a day's work and has not been asked to, and that the only thing he has done is been in a building on a night, and that **a man being in a building on a night is the one thing anybody in this district's business has never had a use for.**
+Nobody took that up. The man who mends fencing said that a man who sits in a room and does not speak and does not carry anything has not done a day's work and has not been asked to, and that the only thing he has done is been in a building on a night, and that **a man being in a building on a night is the one thing anybody in this district's business has never had a use for.**
 
 A man of fifty-six said the interval out loud at about half past four in the afternoon and a clerk of nineteen years stood close enough to write it down, and the sum was put under the figure the way it always is.
 

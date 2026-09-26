@@ -24,7 +24,7 @@ A man of fifty-six said that **a hundred and forty paces is a distance and not a
 
 A man of about thirty-four who digs loam said that each bucket is about nine pounds full and that a yoke is two of them, and that the last sixty yards of that lane has not been metalled since before the flood year and goes to mud about a foot deep in the wet, and that a man who has done it four times in a morning knows what four times is. **Nine pounds is a weight and not a price, and the market on the lower terrace sells meal by the pound and does not sell carrying by the pound, and a man who has worked that out for himself is not a clerk of anything.**
 
-The man the figure of twenty-one years is against said the thing he was going to offer, and he said it to the man of about fifty-five and not to the lane, and a clerk of nineteen years entered that he said the second half of it before he was asked and that she is not going to put a number on it.
+The man the figure of twenty-one years is against said the thing he was going to offer, and he said it to the man of about fifty-five and not to the lane, and a clerk of nineteen years entered that the second half of it came out before he was asked for it and that she is not going to put a number on it.
 
 "**I will come down on the twenty-second and the twenty-third and I am not going to pretend that is the same as a man who does it every day of his life.**"
 
@@ -66,7 +66,7 @@ The mark for the nineteenth is a finger below the mark for the eighteenth. The m
 
 A man of fifty-six said that a tank which has stopped falling is not a tank which is filling, and that **two marks at one height is not a rate and is not a column**, and that a man of fifty-five who has been keeping levels in charcoal on a board against his own wall for four days has done the only kind of counting anybody in this district has done this month that anybody could check.
 
-A man of about thirty-four who digs loam said the other half of that himself, in a sentence that a man of about nineteen counted and got fifty-two.
+the man who digs loam said the other half of that himself, in a sentence that a man of about nineteen counted and got fifty-two.
 
 "**A tank that has stopped falling is not a tank that is full, and a man who has put two marks at one height has not written a rate and has not written a column, and I have not been asked to keep a figure and I am not going to be.**"
 
@@ -74,7 +74,7 @@ Then he gave the tank when it is full, which is about a hundred and four yoke tr
 
 Nobody in the lane said anything for a moment. A man of fifty-six said that **a hundred and four and a thirteen are two figures about the same tank and are not a sum**, and that a man who has worked out that a tank takes thirteen days of two yokes to fill has not solved anything and has found out what the tank is.
 
-A clerk of nineteen years entered the figure of a hundred and four and the figure of thirteen as figures said by a man of about thirty-four who digs loam and not checked, **and that a figure of trips and a figure of days are two figures about one piece of water and are not added, and that a man who digs loam nine days in ten has never said he was a keeper of anything and has not been asked to be one.**
+A clerk of nineteen years entered the figure of a hundred and four and the figure of thirteen as figures said by the man who digs loam and not checked, **and that a figure of trips and a figure of days are two figures about one piece of water and are not added, and that a man who digs loam nine days in ten has never said he was a keeper of anything and has not been asked to be one.**
 
 The woman of fifty-eight who carries water and does not read figures said that she will carry four trips in a morning and has been carrying four since the eighteenth, and that the tank is the tank and the water is the water and she is not asking anybody for anything.
 
@@ -108,7 +108,7 @@ A man of about thirty-four who mends fencing asked the man of about fifty-five o
 
 "**What are you going to do on the morning it is at two days.**"
 
-The man of about fifty-five said that **he does not know and that he has not worked it out and that he is not going to work it out in front of anybody**, and a clerk of nineteen years entered that he was not asked a second thing and that the not-asking is entered and the count is where it was. **A man who says he does not know in a lane in front of two people is a man and not a refusal, and a refusal of a rule is not a refusal of an answer, and neither of the two is entered in the same place.**
+The man of about fifty-five said that **he does not know and that he has not worked it out and that he is not going to work it out in front of anybody**, and a clerk of nineteen years entered that nobody put a second thing to him and that the not-asking is entered and the count is where it was. **A man who says he does not know in a lane in front of two people is a man and not a refusal, and a refusal of a rule is not a refusal of an answer, and neither of the two is entered in the same place.**
 
 Then he said one more thing that nobody had asked him for, and it went in the minute in his own words, and a man of about nineteen counted it and got forty-nine, and the words were these.
 
@@ -116,21 +116,21 @@ Then he said one more thing that nobody had asked him for, and it went in the mi
 
 Nobody in the lane took that up. A man of fifty-six said that a man who has said the second half of a thing before anybody asked for it is a man who has had the thought for some time, and that a clerk of nineteen years entered that he said it before he was asked and that she is not going to put a number on it, **and that the count of the second half said before being asked has not been looked at since the twenty-ninth of December and she is not going to look at it now either.**
 
-A man of about thirty-four who digs loam said that a man who keeps a building for nine years and has never once asked for anybody is not a man who does not need anybody, and that he is a man who has found out what asking for somebody costs, and that a man of fifty-five who has just said out loud that he is one man in a room has said the first half of a thing and not the whole.
+the man who digs loam said that a man who keeps a building for nine years and has never once asked for anybody is not a man who does not need anybody, and that he is a man who has found out what asking for somebody costs, and that a man of fifty-five who has just said out loud that he is one man in a room has said the first half of a thing and not the whole.
 
 Then they walked up the hill to the standpipe, all three of them, because the tank wanted a top-up before the light went, and the lane is not metalled for the whole of that hill either and there is no barrow on it.
 
 The standpipe has no handle. It is a pipe out of a bank of stone about as high as a man's knee with an iron plate over the top, and to get water out of it you have to lift the plate about the width of a hand and put a bucket under and let the weight of the plate hold the water back, and then lean on the plate with your shoulder while the bucket fills.
 
-A man of about thirty-four who digs loam did it and got his shoulder wet to the bone in about the time it takes to say what has just been said, and he said that a man doing that four times a day for nine years has a shoulder he can predict and that a man of fifty-eight doing it four times a day since the eighteenth has eight days of that shoulder and no more.
+the man who digs loam did it and got his shoulder wet to the bone in about the time it takes to say what has just been said, and he said that a man doing that four times a day for nine years has a shoulder he can predict and that a man of fifty-eight doing it four times a day since the eighteenth has eight days of that shoulder and no more.
 
 The woman of fifty-eight said that the plate has a lip on it and that a person who has been doing it nine years knows to stand on the loam and not on the stone, and that the loam is where it is because about ninety people in this lane have stood on the same square yard of it for nine years.
 
-A man of about thirty-four who digs loam said that he would hold the second bucket on the way down, and he said it before anybody had asked him to, and she said no before he had finished the sentence.
+the man who digs loam said that he would hold the second bucket on the way down, and he said it before anybody had asked him to, and she said no before he had finished the sentence.
 
 "**I have carried water up that hill for nine years and I have never once had anybody hold the other end, and if you hold it I am somebody's helper and I am not.**"
 
-The hill did not argue with it. A clerk of nineteen years entered that she was not asked a second thing and that the not-asking is entered and the count is where it was, **and that a woman who will not have the second bucket held is not refusing the work and is refusing the shape of it, and that a shape is not a security and is not a bearer and is not to be entered as one.**
+The hill did not argue with it. A clerk of nineteen years entered that there was no second asking of her, that the not-asking is entered and the count is where it was, **and that a woman who will not have the second bucket held is not refusing the work and is refusing the shape of it, and that a shape is not a security and is not a bearer and is not to be entered as one.**
 
 A man of fifty-six said that **this district has three instruments that work without anybody coming to a yard, which are a bucket, a basket and a barrow, and that it has never entered any of the three and is not going to, and that three is not a column.**
 

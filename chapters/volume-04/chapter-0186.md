@@ -16,7 +16,7 @@ Then she said the thing she wanted, and she said it at the top of the hill sitti
 
 "**I would like the round to be somebody else's job. I do not want money. I want it to be a job that belongs to a man with two hands and I want it to be his problem and not mine.**"
 
-Nobody in that lane answered her. A man of fifty-six said that **the fifth of the five things this district does not have is a way to pay a person who is not in a household, and what the woman of fifty-eight has asked for is a way to give a person a job, and those two are two of the five and are not the same one.**
+Nobody in that lane answered her. A man of fifty-six said that **two of the five things this district does not have were asked about in the same morning, that one of the two is a way to pay a person who is not in a household, and that what the woman of fifty-eight has asked for is a way to give a person a job, and those two are two of the five and are not the same one.**
 
 A clerk of nineteen years entered that a woman who has said out loud that she wants a thing to be somebody else's problem is a person and not a bucket and is not a sixth of anything, **and that the count of things this district does not have is five and did not move on the twenty-eighth of the second month and that a woman carrying water is not one of the five and is not to be entered as one.**
 
@@ -32,17 +32,17 @@ The round is about ninety houses and it is not written down anywhere, and a man 
 
 "**I do not know. I know the doors.**"
 
-A clerk of nineteen years entered that she said the second half of that before she was asked and that she is not going to put a number on it, **and that a woman who knows ninety doors and no figures has the only record of this district's water that has never been wrong, and that it is in a woman of fifty-eight and is not in a book and is not going to be in one.**
+A clerk of nineteen years entered that she said the second half of that before anybody asked her for it, **and that a woman who knows ninety doors and no figures has the only record of this district's water that has never been wrong, and that it is in a woman of fifty-eight and is not in a book and is not going to be in one.**
 
 A man of fifty-six said that the district has spent four months arguing about a page with about forty names on it in a building four miles down a lane, and that a page with forty names in it has forty days against none of them, **and that the round has ninety houses on it and has been correct every morning for nine years and has never once been asked to be correct.**
 
-Nobody took that up. A man of about thirty-four who digs loam said that a woman who knows ninety doors and a boy of about nineteen who walks to a place every day are two people who write nothing down, and that this district has not joined them and is not going to, and that one of the two is the only person anybody in this basin can find at a place and the other one is nobody's keeper.
+That went no further.. A man of about thirty-four who digs loam said that a woman who knows ninety doors and a boy of about nineteen who walks to a place every day are two people who write nothing down, and that this district has not joined them and is not going to, and that one of the two is the only person anybody in this basin can find at a place and the other one is nobody's keeper.
 
 A clerk of nineteen years entered that a boy of about nineteen at the fourth place and a woman of fifty-eight who carries water are two people who write nothing down and are two people and are not joined, **and that a person who stands somewhere every day and a person who goes to ninety doors a day are described by people who have never met and the five of those descriptions are not to be joined to either of them.**
 
-A man of about thirty-four who mends fencing said that **the fifth thing this district does not have is a way to pay a person who is not in a household, and a man of fifty-six said that the sixth thing it does not have is on the same page, and a clerk of nineteen years said no in two seconds to being asked to call it the sixth and gave no reason and was not asked for one.**
+A man of about thirty-four who mends fencing said that **the fifth of the five is a way to pay a person who is not in a household, and a man of fifty-six said that the sixth thing this district does not have is on the same page, and a clerk of nineteen years said no in two seconds to being asked to call it the sixth and gave no reason and was not asked for one.**
 
-Nobody argued with that. A man of fifty-six said that a clerk who is asked to make a sixth of a list of five is a clerk doing the only thing she is for, **and that the count of things this district does not have is five and is the same five it was on the twenty-eighth of the second month and that a bucket, a basket, a barrow, a yoke, a board, a page and a round are not a sixth and are not to be entered as one.**
+Nothing was said back to it. A man of fifty-six said that a clerk who is asked to make a sixth of a list of five is a clerk doing the only thing she is for, **and that the count of things this district does not have is five and is the same five it was on the twenty-eighth of the second month and that a bucket, a basket, a barrow, a yoke, a board, a page and a round are not a sixth and are not to be entered as one.**
 
 A man of about thirty-four who digs loam said that the man the figure of twenty-one years is against had better not hear that, and a man of fifty-six said that he is standing nine yards away and has heard it and is not going to be asked about it and is not going to be asked again.
 
@@ -62,7 +62,7 @@ The yard did not take that up straight away. A man of about thirty-four who mend
 
 A clerk of nineteen years entered that **the decision not to do anything about the tank was made on the twenty-eighth of the second month and not before, and that it was made in a yard and not in a lane, and that the man of about fifty-five was not in it and was not told and was not asked.**
 
-Nobody took that up. A man of about thirty-four who digs loam said that the man of about fifty-five does not know that a decision has been made about his tank and that a man who does not know a thing is not a party to it and is not a bearer of it and cannot be held to it, **and that a district which makes decisions about a man's water without the man is a district running on a house's terms and is not a district.**
+It was left where it was put down.. The man who digs loam said that the man of about fifty-five does not know that a decision has been made about his tank and that a man who does not know a thing is not a party to it and is not a bearer of it and cannot be held to it, **and that a district which makes decisions about a man's water without the man is a district running on a house's terms and is not a district.**
 
 A man of fifty-six said that **the district has not been given the tank and the building belongs to nobody and nobody bears it, and a man who keeps a building is not its bearer and is not going to be entered as one, and a tank in a building nobody owns is a tank nobody is responsible for, and that is a different sentence from the one about a man.**
 
@@ -76,19 +76,19 @@ A man of fifty-six entered in the yard afterwards, on her own account and withou
 
 A clerk of nineteen years entered that she was not asked about it and that the not-asking is entered and the count is where it was, **and that a woman who sits down on a hill for a minute and a half and then gets up and finishes is a woman who is not a finding and is not a condition with no end on it and is not one of the four and not one of the five and is not going into any of the counts.**
 
-A man of about thirty-four who digs loam said that **a minute and a half on a hill is not a figure anybody can build a plan on and that it is the first number in a month that this district has had that was about a person rather than about a document, and that the two of those are two kinds of number and are not added.**
+the man who digs loam said that **a minute and a half on a hill is not a figure anybody can build a plan on and that it is the first number in a month that this district has had that was about a person rather than about a document, and that the two of those are two kinds of number and are not added.**
 
 A man of fifty-six said that a man who can see a woman sit down on a hill and does not have an instrument for it is a man who has spent four months building six of them and has not built the seventh, **and that the seventh is not a mark and a mark may not carry a job and the rule has not been retired and is not going to be bent to make a minute and a half go in a book.**
 
-Nobody took that up. A man of about thirty-four who mends fencing asked, in the six things, whether anybody was going to tell the woman of fifty-eight that they had seen her sit down, and a man of fifty-six said no, and gave the reason in a sentence that is in the minute in his own words, and a man of about nineteen counted it and got twenty-five.
+Nobody took that up. The man who mends fencing asked, in the six things, whether anybody was going to tell the woman of fifty-eight that they had seen her sit down, and a man of fifty-six said no, and gave the reason in one sentence of his own, which is in the minute as he said it, and a man of about nineteen counted it and got twenty-five.
 
 "**She would stop coming up the hill, and the tank is at about three days, and the tank is the only water in that building.**"
 
-A man of about thirty-four who mends fencing said that the man of about fifty-five has just made himself a room with about forty people in it and a decision about his own tank made in a yard he was not in, **and that those are two arrangements on the same day about the same building and they are not joined, and that the district is keeping a man responsible for one of them and not the other and has not decided which.**
+the man who mends fencing said that the man of about fifty-five has just made himself a room with about forty people in it and a decision about his own tank made in a yard he was not in, **and that those are two arrangements on the same day about the same building and they are not joined, and that the district is keeping a man responsible for one of them and not the other and has not decided which.**
 
 A man of fifty-six said that it has decided, and that it has decided in a yard rather than in a lane, and that a man who is told in a yard what has been decided about his own water is a man who has been told late, **and that late is a figure in this district's business and it is not one of the six and is not going to be a seventh.**
 
-A clerk of nineteen years entered that he said the second half of that before he was asked and that she is not going to put a number on it, **and that a district which keeps a fact about a person because keeping it is convenient is the house thirty-four miles east and is not this district and is not going to become this district while there is a page left to write on.**
+A clerk of nineteen years entered that the second half of that came out before he was asked for it, and that she is not going to put a number on it, **and that a district which keeps a fact about a person because keeping it is convenient is the house thirty-four miles east and is not this district and is not going to become this district while there is a page left to write on.**
 
 And the only person who saw it was a man who was on a lane, **and nobody in this district was told about it by him, and a man of fifty-six said that the reason he did not tell is that the woman would stop coming up the hill and the tank is at about three days.**
 
@@ -100,9 +100,9 @@ The man of about thirty-one who mends a dray at a forge end off Salt Row came do
 
 A clerk of nineteen years entered that there are two days in that page now with nothing in the name space, and that two is not a pattern and is not a rate and is not a column, and that a man of fifty-five wrote both of them and neither of them was asked for.
 
-Nobody argued with that. A man of about thirty-four who mends fencing said that a man who has done a thing twice and has not been asked to do it a third time is a man who is being left alone, and that a man being left alone is not a protection and is not one of the five and is not a column, and that the district's own list of protected things is a passage twice, a loss once, a failure of a remedy once and a refusal to be asked again once.
+It stood without anything said against it. The man who mends fencing said that a man who has done a thing twice and has not been asked to do it a third time is a man who is being left alone, and that a man being left alone is not a protection and is not one of the five and is not a column, and that the district's own list of protected things is a passage twice, a loss once, a failure of a remedy once and a refusal to be asked again once.
 
-A man of about thirty-four who digs loam said that **a man who sits in a room and does not speak is a man who is not in that room for the room's sake and is there for his own**, and that a room with about forty people in it and a man in it who is not one of the forty is a room with a person in it and not a body, and that this is the whole of what a person is for.
+the man who digs loam said that **a man who sits in a room and does not speak is a man who is not in that room for the room's sake and is there for his own**, and that a room with about forty people in it and a man in it who is not one of the forty is a room with a person in it and not a body, and that this is the whole of what a person is for.
 
 A man of fifty-six said that the man of about thirty-one said on the twenty-seventh that he had not thought about the day after the day after, and that the twenty-eighth has now happened and been asked about by nobody, **and that a man who has not thought about a day has not refused a day and that the day after tomorrow is the first of the third month and this district has no instrument for it and has named it four times and is not going to name it a fifth.**
 
@@ -114,11 +114,11 @@ A clerk of nineteen years entered that the first of the third month is a day a s
 
 The last of it was the crack, and the man of about fifty-five had it open when the man of about thirty-one left, and the loam he had put in on the twenty-first had come out of the join in three places and was lying on the stone of the tank in three pieces.
 
-A man of about thirty-four who digs loam said that **a mend that comes out in three pieces in seven days is not a mend and is a thing that has been done to a stone to make it look attended to**, and that he did not mean that unkindly and that the man who did it is the man who keeps the building and is not to be asked to stop.
+the man who digs loam said that **a mend that comes out in three pieces in seven days is not a mend and is a thing that has been done to a stone to make it look attended to**, and that he did not mean that unkindly and that the man who did it is the man who keeps the building and is not to be asked to stop.
 
 A man of fifty-six said that a crack in a stone tank that has been put three times is not one of the five things this district does not have and is not the fifth of them and is not a condition with no end on it, **and that the count of five and the count of four are the same two figures they were on the twenty-eighth of the second month and that a tank at about three days is a figure and not a term and has nobody standing under it.**
 
-Nobody took that up. A man of about thirty-four who mends fencing asked, in the six things, what the man of about fifty-five was going to do about the crack, and the man of about fifty-five said that he was going to put it in again on the thirtieth and that it would be the fourth time and that he was not going to count it out loud.
+Nobody took that up. The man who mends fencing asked, in the six things, what the man of about fifty-five was going to do about the crack, and the man of about fifty-five said that he was going to put it in again on the thirtieth and that it would be the fourth time and that he was not going to count it out loud.
 
 A clerk of nineteen years entered that the fourth time was named and not counted, and that a man who names a number and does not count it is a man who is afraid of the figure, and that she is not going to make him be a clerk and is not going to be asked about it again.
 

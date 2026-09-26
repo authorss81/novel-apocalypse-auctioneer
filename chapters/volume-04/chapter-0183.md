@@ -22,7 +22,7 @@ The woman of about fifty-two who has the seventh holding at the top of a lane of
 
 A man of about thirty-four who digs loam entered that **a woman who has held a holding since the fourth year is a holder and is not a bearer and is not a responsible party and has never been asked whether she would stand in a gate, and the four of those are the district's own list and the four of them are not about her.**
 
-He had not. She came on her own account and she said so before anybody asked her anything else, and a clerk of nineteen years entered that she said the second half of it before she was asked and that she is not going to put a number on it.
+He had not. She came on her own account and she said so before anybody asked her anything else, and a clerk of nineteen years entered that the second half came out before she was asked for it, and that she is not going to put a number on it.
 
 Then she said the thing she had come to say, and she said it to the man of about thirty at the counter and not to the four of them, and a clerk of nineteen years entered that she said it in the open and that the minute has it in her own words.
 
@@ -50,7 +50,7 @@ A man of fifty-six said that **a man who has refused three times without a reaso
 
 ---
 
-The clerk asked for it to be written down, and a man of fifty-six said no before she had finished, and gave the reason in a sentence that is in the minute in his own words, and a man of about nineteen counted it and got twenty-one.
+The clerk asked for it to be written down, and a man of fifty-six said no before she had finished, and gave the reason in one sentence of his own, and it is in the minute as he said it, and a man of about nineteen counted it and got twenty-one.
 
 "**I am not writing a surrender in a yard on a road, and the register is the house's and not mine.**"
 
@@ -62,7 +62,7 @@ The woman of about fifty-two said one more thing to the man of about thirty at t
 
 A man of about thirty-four who digs loam said that **a statement a person gives about what she has done is not a statement about a holding and is not a surrender**, and that a man of about thirty at a counter can write the first of those and does not have to write the second, and that the two of them are two things and are not a column.
 
-Nobody took that up. A woman of about thirty-three who takes in washing at the second channel was not in that road and was not sent for, and a man of fifty-six entered that she was not asked what she would do about the seventh and that she was not going to be, and that **a person who goes into about forty houses a week would know more about a gate in a year than any book in this basin and is not to be turned into a clerk of anything.**
+That went no further.. A woman of about thirty-three who takes in washing at the second channel was not in that road and was not sent for, and a man of fifty-six entered that she was not asked what she would do about the seventh and that she was not going to be, and that **a person who goes into about forty houses a week would know more about a gate in a year than any book in this basin and is not to be turned into a clerk of anything.**
 
 So the seventh of the nine holdings was given up at the top of an eleven mile road by the person who has held it since the fourth year, and **the register that says she held it is in a building thirty-four miles from here and belongs to a house, and a thing this district has never held cannot be handed back to it.**
 
@@ -74,9 +74,9 @@ Then the two of them went down the top lane to look at the gate, and the man of 
 
 It is a field gate of two leaves with a bar across it and a latch on the near side, and it has a chain round the post that is not new and is not old either, and there is a stone by the post that the mud of four years has got into the bottom of.
 
-A man of about thirty-four who digs loam said that the bar is down, and that **a bar down is not a holding and is not a surrender and is a piece of wood**, and that the seventh has not stopped being a gate because the woman has stopped being in it.
+the man who digs loam said that the bar is down, and that **a bar down is not a holding and is not a surrender and is a piece of wood**, and that the seventh has not stopped being a gate because the woman has stopped being in it.
 
-Nobody argued with that. A man of about thirty-four who mends fencing said that **a gate with a bar down and no holder is the fifth thing this district does not have in another shape**, and a man of about thirty-four who digs loam said the name of it, which is a way to pay a person who is not in a household, and that a woman who was the gate was not paid and was not a bearer and is not the fifth of the five and is not a sixth.
+It was not contradicted. A man of about thirty-four who mends fencing said that **a gate with a bar down and no holder is the fifth thing this district does not have in another shape**, and a man of about thirty-four who digs loam said the name of it, which is a way to pay a person who is not in a household, and that a woman who was the gate was not paid and was not a bearer and is not the fifth of the five and is not a sixth.
 
 A clerk of nineteen years entered that on her own account and afterwards, in the yard, and she entered that the count of things this district does not have is five and did not move on the twenty-fourth of the second month, **and that a gate with nobody behind it is a resemblance and not a finding and that a resemblance put against a list has not moved the list.**
 
@@ -96,23 +96,23 @@ A man of about thirty-four who mends fencing said the other half of that, which 
 
 A clerk of nineteen years entered that a person who has not been asked has not refused and cannot be counted either way, **and that the ninth of the nine holdings is in that state and has been since the fourth week of January, and that a district which has spent a day on one holding and eleven weeks not asking about another is a district that is working on the one it can see.**
 
-The rest of the morning at the top of the road was the man of about thirty at the counter and a man of about thirty-four who mends fencing, and a man of about thirty-four who digs loam stood about nine yards off and did not interrupt.
+The rest of the morning at the top of the road was the man of about thirty at the counter and a man of about thirty-four who mends fencing, and the man who digs loam stood about nine yards off and did not interrupt.
 
-A man of about thirty-four who mends fencing asked whether the seventh being given up could be given back, and the man of about thirty said, in about two seconds and without a reason, that it could not, and a clerk of nineteen years entered that **a house holds its register and that the district holds nothing on that page and that a thing this district has never held cannot be taken back into it.**
+the man who mends fencing asked whether the seventh being given up could be given back, and the man of about thirty said, in about two seconds and without a reason, that it could not, and a clerk of nineteen years entered that **a house holds its register and that the district holds nothing on that page and that a thing this district has never held cannot be taken back into it.**
 
-A man of about thirty-four who digs loam said that a man who has asked one question and got one refusal and has not asked a second has done something this district has not managed in eleven weeks, and a man of fifty-six said that **a man who has refused twice in a row and stopped is not a person who is being difficult and is a person who is doing the only thing available to him.**
+the man who digs loam said that a man who has asked one question and got one refusal and has not asked a second has done something this district has not managed in eleven weeks, and a man of fifty-six said that **a man who has refused twice in a row and stopped is not a person who is being difficult and is a person who is doing the only thing available to him.**
 
-A man of about thirty-four who mends fencing asked about the fourth instead, and the man of about thirty said the thing he said on the eighteenth of January about the tenth line, in different words and with the same face.
+the man who mends fencing asked about the fourth instead, and the man of about thirty said the thing he said on the eighteenth of January about the tenth line, in different words and with the same face.
 
 "**The house keeps nine holdings and a tenth line. There is no eleventh thing on a sheet and there has not been one since you were last on this road.**"
 
-A man of about thirty-four who digs loam said that **the man of about thirty at the counter has now said that answer twice, eleven days apart, to two different questions**, and that a sentence said twice is a habit and not a finding, and that a habit is not entered in a book and is not going to be.
+the man who digs loam said that **the man of about thirty at the counter has now said that answer twice, eleven days apart, to two different questions**, and that a sentence said twice is a habit and not a finding, and that a habit is not entered in a book and is not going to be.
 
 A clerk of nineteen years entered that the answer is the same answer and that the two questions are not the same question, and that **a house that answers a question about a water with a sentence about a sheet is a house that has a sentence and is using it, and that is not the same as a house that has a water and is hiding it.**
 
 A man of fifty-six said that **a sentence a man uses to get out of a question is not the same thing as a sentence a man uses to say what a thing is**, and that this district learned the difference on the tenth of the second month from a page in a man's own hand and has not had it used against it since.
 
-A man of about thirty-four who digs loam said that the ninth holding is the one nobody can account for, and the man of about thirty said he was not going to talk about the ninth, and gave no reason at all, and a clerk of nineteen years entered that no reason was given and that the not-asking is entered and the count is where it was.
+the man who digs loam said that the ninth holding is the one nobody can account for, and the man of about thirty said he was not going to talk about the ninth, and gave no reason at all, and a clerk of nineteen years entered that no reason was given and that the not-asking is entered and the count is where it was.
 
 **AND A MAN OF ABOUT THIRTY AT THE COUNTER REFUSED A QUESTION ABOUT THE NINTH HOLDING WITH NO REASON GIVEN, AND SAID THE ANSWER HE GIVES ABOUT THE TENTH LINE IN THE SAME WORDS HE SAID IT ELEVEN DAYS AGO.**
 
@@ -124,12 +124,12 @@ The woman of about fifty-two went down in her cart alone and stopped at the bott
 
 "**I have not got a gate to open tomorrow. That is what I wanted somebody to know and I have said it now.**"
 
-Nobody answered her. A clerk of nineteen years entered that she was not asked a second thing and that the not-asking is entered and the count is where it was, **and that a woman who has said the thing she came to say and has been answered by nobody has done what she came to do, and this district has had that sentence for about a minute and has not decided what to do with it.**
+Nobody answered her. A clerk of nineteen years entered that she got no second question, that the not-asking is entered and the count is where it was, **and that a woman who has said the thing she came to say and has been answered by nobody has done what she came to do, and this district has had that sentence for about a minute and has not decided what to do with it.**
 
-A man of about thirty-four who mends fencing asked, in the six things, whether anybody was going to go up and ask the house what happens to the seventh, and a man of fifty-six said that **the district does not go to a house about its own register and that he is not going to be the first**, and that a man who has said that twice in one day is a man who has said it.
+the man who mends fencing asked, in the six things, whether anybody was going to go up and ask the house what happens to the seventh, and a man of fifty-six said that **the district does not go to a house about its own register and that he is not going to be the first**, and that a man who has said that twice in one day is a man who has said it.
 
 A clerk of nineteen years entered that the count of unentered days since the twenty-fourth of November is ninety-two and is a count of days and not a column, **and that the thirty-first of March is thirty-five days off this day and the first of April is thirty-six, and that a figure with no day on it is not an interval and the two of those are not joined.**
 
 So a holding was given up at the top of an eleven mile road and the register that says so is not this district's, and the man the figure of twenty-one years is against came down a cutting in the wet **with his boots full and a day behind everything else, and the woman of fifty-two went home with no gate to open in the morning and nobody in this district has yet worked out what a woman with no gate does on the twenty-fifth.**
 
-**AND ON THE TWENTY-FOURTH OF THE SECOND MONTH THE SEVENTH OF THE NINE HOLDINGS WAS GIVEN UP BY THE PERSON WHO HAS HELD IT SINCE THE FOURTH YEAR, AND THE TRAIN ON THE SIDING HAD STOOD THREE HUNDRED AND SEVENTY-EIGHT DAYS.**
+**THE SEVENTH OF THE NINE HOLDINGS WENT BACK ON THE TWENTY-FOURTH OF THE SECOND MONTH INTO THE HANDS OF A HOUSE THAT DOES NOT DELIVER TO A HOLDING NOBODY IS HOLDING, AND THE TRAIN ON THE SIDING HAD STOOD THREE HUNDRED AND SEVENTY-EIGHT DAYS.**
