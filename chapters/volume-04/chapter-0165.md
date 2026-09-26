@@ -102,9 +102,9 @@ The room let it stand **and a clerk of nineteen years entered that neither of th
 
 ---
 
-A man of about thirty-four who digs loam and does nine days of it in ten was in the yard on the twenty-fifth and said the other half of the sluice, and the other half is the half nobody has said out loud in eleven weeks, and it is in the minute in his own words and it is fifty-six words.
+A man of about thirty-four who digs loam and does nine days of it in ten was in the yard on the twenty-fifth and said the other half of the sluice, and the other half is the half nobody has said out loud in eleven weeks, and it is in the minute in his own words and it is fifty-four words.
 
-"**A sluice is the only piece of the water in this district that can be moved a mile, and it is four miles out past the loams on a farm nobody owns this month, and nobody has ever come and asked me to open it and I would not know whose it was to answer for.**"
+"**A sluice is the only piece of the water in this district that can be moved a mile, and it is four miles out past the loams on a farm nobody owns, and nobody has ever come and asked me to open it and I would not know whose it was to answer for.**"
 
 Nobody took it up and a clerk of nineteen years entered that the farm is still unsold, and that a man of about forty-three who buys standing seed-crop offered two thousand four hundred coppers and a cart of meal for the standing crop and the sluice on the twenty-ninth of December, and went west on the thirtieth, **and that he has not come back and that nobody has sent for him and that the not-sending is entered and the count is where it was.**
 
@@ -116,7 +116,7 @@ A clerk of nineteen years entered that the count of things this district does no
 
 ---
 
-On the twenty-fifth of January the yard did the thing it does, which is stand about a dozen people in it until late, and a man of fifty-six read out at about eleven in the morning that the count of unentered days since the twenty-fourth of November is fifty-five and is a count of days and not a column, and that the days are not added to the askings and the askings are not added to the days.
+On the twenty-fifth of January the yard did the thing it does, which is stand about a dozen people in it until late, and a man of fifty-six read out at about eleven in the morning that the count of unentered days since the twenty-fourth of November is sixty-two and is a count of days and not a column, and that the days are not added to the askings and the askings are not added to the days.
 
 The man the figure of twenty-one years is against said one thing about the tank and it is in the minute in his own words and it is forty-four words, and a man of about nineteen who walked in from the road counted them and got forty-four and said it out loud.
 

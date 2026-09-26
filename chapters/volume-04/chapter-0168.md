@@ -62,7 +62,7 @@ He said that he could go to the farm and ask the three households, and a man of 
 
 A man of about thirty-four who digs loam and does nine days of it in ten said that a sluice that has been open since before dawn on the second of February has been open about four days by the fifth, and that a sluice does not have a term, and that the only terms anybody in this district has for water are the term on a charter that ends on the thirty-first of March and the first week of a month on a nail in a shed.
 
-A clerk of nineteen years entered that the first week of the second month is a week and not a day and that a sluice is not a week and is not a day, **and that a thing with no term is not a lot and is not an instrument and is not one of the five things this district does not have, and that the count of five did not move on the sixth of the second month.**
+A clerk of nineteen years entered that the first week of the second month is a week and not a day and that a sluice is not a week and is not a day, **and that a thing with no term is not a lot and is not an instrument and is not one of the five things this district does not have, and that the count of five did not move on the fifth of the second month.**
 
 Nobody took that up and the man the figure of twenty-one years is against said the fourth thing himself and it is in the minute in his own words and it is forty-one words, and a man of about nineteen who walked in from the road counted them and got forty-one and said it out loud.
 
@@ -70,7 +70,7 @@ Nobody took that up and the man the figure of twenty-one years is against said t
 
 The room let that stand. A clerk of nineteen years entered that a power is a thing you can do to a document and not to a person, **and that the man who can be found said the sentence about his own instrument in a yard in about nine seconds and that the yard did not argue with it and that a man of fifty-six entered it as not speaking for the room.**
 
-**AND ON THE FOURTH OF THE SECOND MONTH THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST SPENT ABOUT NINE MINUTES TRYING TO DO SOMETHING ABOUT AN OPEN SLUICE FOUR MILES OUT PAST THE LOAMS AND COULD NOT, AND SAID IN TWENTY-NINE WORDS THAT HE CAN PUT A PAGE IN A BOOK SAYING A SLUICE IS OPEN AND THAT A BINDER IS A THING YOU CAN DO TO A DOCUMENT.**
+**AND ON THE FOURTH OF THE SECOND MONTH THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST SPENT ABOUT NINE MINUTES TRYING TO DO SOMETHING ABOUT AN OPEN SLUICE FOUR MILES OUT PAST THE LOAMS AND COULD NOT, AND SAID IN FORTY-ONE WORDS THAT HE CAN PUT A PAGE IN A BOOK SAYING A SLUICE IS OPEN AND THAT A BINDER IS A THING YOU CAN DO TO A DOCUMENT.**
 
 ---
 

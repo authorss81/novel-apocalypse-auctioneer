@@ -110,6 +110,12 @@ A clerk of nineteen years entered that four documents are not a column and that 
 
 Nobody took that up. A man of about thirty-four who mends fencing said that the ninth of February is a day with no instrument on it and that a day with no instrument on it is a day a person has to come and find out about, and that about nine people came.
 
+The nine of them came at about half past four and stood about the yard and did not go in, because there was nothing to go in for. A man of about nineteen who walked in from the road asked the first three of them what they had come for, and got the same answer out of each of them, and it was to find out what there is here to find out about, **and a clerk of nineteen years entered that she was not asked to write the three answers down as three and that the three are three people in a yard and are not a column.**
+
+A man of fifty-six read out at the gate that a room with nothing in it is not an instrument and is also not the absence of one, and that the two halves of that are the whole of what a yard can say about a day like this one, **and that nobody in the yard asked for a day to be put in a space and that the day was not put in one, and that what the nine of them came for is not on a page in a building and is not on a board and is nowhere at all, and that a thing which is nowhere is not a figure this district keeps.**
+
+A woman of about thirty-three who takes in washing at the second channel was in the yard and said that she had come to see whether a page with a day in it was a thing people would come and look at, and that there is one page with a day in it and it is in a building four miles down the lane and nine people have not been in it. She said it in four seconds, and a clerk of nineteen years entered that she was not asked to go and look and that the not-asking is entered and the count is where it was.
+
 **AND ON THE NINTH OF THE SECOND MONTH A ROOM MET WITH NO INSTRUMENT ON IT, AND THREE DAYS WERE IN THE SPACES ON A PAGE IN A BUILDING, AND THE TRAIN ON THE SIDING HAD STOOD THREE HUNDRED AND SIXTY-THREE DAYS, AND NOBODY IN THIS DISTRICT HAS EVER POSTED IT, AND THE THIRTY-FIRST OF MARCH IS FIFTY DAYS OFF AND THE FIRST OF APRIL IS FIFTY-ONE.**
 
 ---

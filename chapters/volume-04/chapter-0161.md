@@ -130,7 +130,7 @@ Nobody took it up and a man of fifty-six said that the sentence is a figure a pe
 
 She and the man the figure of twenty-one years is against were in the same yard for about an hour and neither of them said anything to the other, and a clerk of nineteen years entered that they were in the same room at the same hour on purpose for the third time since the eighteenth of December, **and entered that the two of them being in a room is not a conversation about the two of them and that she is not going to be the person who writes it down as one.**
 
-**AND THE REGISTRAR OF THIS DISTRICT'S RECORDS OFFICE SAID IN THIRTY-THREE WORDS THAT HER OFFICE KEEPS AN ADDRESS THE WAY A PERSON KEEPS A HAT, AND THAT ON THE THIRTY-FIRST OF MARCH THE HAT IS NOT THE HEAD AND NOBODY HAS TOLD THE HEAD, AND A CLERK OF NINETEEN YEARS ENTERED THAT SHE WAS IN THE SAME YARD AS THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST FOR ABOUT AN HOUR AND NEITHER OF THEM SAID ANYTHING TO THE OTHER.**
+**AND THE REGISTRAR OF THIS DISTRICT'S RECORDS OFFICE SAID IN THIRTY-SIX WORDS THAT HER OFFICE KEEPS AN ADDRESS THE WAY A PERSON KEEPS A HAT, AND THAT ON THE THIRTY-FIRST OF MARCH THE HAT IS NOT THE HEAD AND NOBODY HAS TOLD THE HEAD, AND A CLERK OF NINETEEN YEARS ENTERED THAT SHE WAS IN THE SAME YARD AS THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST FOR ABOUT AN HOUR AND NEITHER OF THEM SAID ANYTHING TO THE OTHER.**
 
 ---
 

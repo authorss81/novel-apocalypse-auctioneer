@@ -40,7 +40,7 @@ A woman of about thirty-three who takes in washing at the second channel said th
 
 Nobody took that up and a man of fifty-six said that the two are the same sentence said about a book in a market and about a page in a lane, and that he is not going to say they are the same thing, **and that a clerk of nineteen years was asked to say whether they are the same and said no in four seconds and entered the count of refusals to join two things as thirteen and her own as twelve and neither moved on the sixth of the second month.**
 
-**AND ON THE SIXTH OF THE SECOND MONTH A MAN OF ABOUT THIRTY-FOUR WHO MENDS FENCING SAID IN THIRTY-FOUR WORDS THAT THIS DISTRICT HAS PUT A HOUSE'S TERMS IN A PUBLIC BOOK AND A MAN HAS PUT ONE DAY ON A PAGE IN A LANE AND NEITHER HAS BEEN READ BY ANYBODY WHO WAS NOT SENT, AND THE REFUSALS TO JOIN TWO THINGS STAND AT THIRTEEN AND THE REGISTRAR'S OWN COUNT STANDS AT TWELVE.**
+**AND ON THE SIXTH OF THE SECOND MONTH A MAN OF ABOUT THIRTY-FOUR WHO MENDS FENCING SAID IN FORTY WORDS THAT THIS DISTRICT HAS PUT A HOUSE'S TERMS IN A PUBLIC BOOK AND A MAN HAS PUT ONE DAY ON A PAGE IN A LANE AND NEITHER HAS BEEN READ BY ANYBODY WHO WAS NOT SENT, AND THE REFUSALS TO JOIN TWO THINGS STAND AT THIRTEEN AND THE REGISTRAR'S OWN COUNT STANDS AT TWELVE.**
 
 ---
 
@@ -54,7 +54,7 @@ Nobody asked her why and a clerk of nineteen years entered that nobody asked her
 
 The man the figure of twenty-one years is against said that he is going on the ninth as well, and that he did not ask her and that she did not ask him, and a clerk of nineteen years entered both of those, **and entered that two people going to the same place on the same day is not a conversation about the two of them and is not to be read as one, and that she is not going to be the person who reads it as one.**
 
-**AND THE SLATE WENT PAST THE KITCHEN IN ALDER REACH FOR THE TENTH TIME ON THE SIXTH OF THE SECOND MONTH AND THE REGISTRAR OF THIS DISTRICT'S RECORDS OFFICE SAID IN TWENTY-ONE WORDS IN A LANE THAT SHE WAS GOING EAST ON THE NINTH AND HAD NOT ASKED HIM AND WAS TELLING HIM, AND HE SAID HE WAS GOING ON THE NINTH AS WELL, AND NEITHER OF THEM ASKED THE OTHER.**
+**AND THE SLATE WENT PAST THE KITCHEN IN ALDER REACH FOR THE TENTH TIME ON THE SIXTH OF THE SECOND MONTH AND THE REGISTRAR OF THIS DISTRICT'S RECORDS OFFICE SAID IN TWENTY-SEVEN WORDS IN A LANE THAT SHE WAS GOING EAST ON THE NINTH AND HAD NOT ASKED HIM AND WAS TELLING HIM, AND HE SAID HE WAS GOING ON THE NINTH AS WELL, AND NEITHER OF THEM ASKED THE OTHER.**
 
 ---
 
@@ -98,17 +98,17 @@ Nobody said anything for about nine seconds and a man of fifty-six said that the
 
 The eighth of February was the day a woman of about forty-four who keeps a Road House on the tide did the thing she had not done in a month, and she did it in the yard at about four in the afternoon and about nine people were there and she was not asked to do it.
 
-She took the sheet out of her pocket and put it on the trestle table and said that the twenty-ninth of December had been forty days ago, **and that forty is a figure and that a house which has not written to anybody can write tomorrow, and that tomorrow has come forty times and that she is not going to say the number out loud twice in a yard.**
+She took the sheet out of her pocket and put it on the trestle table and said that the twenty-ninth of December had been forty-one days ago, **and that forty-one is a figure and that a house which has not written to anybody can write tomorrow, and that tomorrow has come forty-one times and that she is not going to say the number out loud twice in a yard.**
 
 She was asked, in the six things, by a man of fifty-six, what she wanted done about it, and she said that she wanted the day named, and a clerk of nineteen years entered that she was asked and answered and was not asked why she wanted a day named.
 
-A man of about thirty-eight who deals in second-hand paper said that naming the day does not stop the day, **and that a house which has not written for seventy days can write on any of them, and that a district cannot say the day is the twenty-ninth of December to a house thirty-four miles east without also saying that the district knows the day, and that a house that learns a district knows the day has learned something.**
+A man of about thirty-eight who deals in second-hand paper said that naming the day does not stop the day, **and that a house which has not written for forty-one days can write on any of them, and that a district cannot say the day is the twenty-ninth of December to a house thirty-four miles east without also saying that the district knows the day, and that a house that learns a district knows the day has learned something.**
 
 The room let that stand and a man of fifty-six said that is the best argument anybody has made in this yard for doing less, and that it is also wrong, **and that a district which says nothing protects nobody and that a district which says everything hands a house a date it did not have.**
 
-A clerk of nineteen years entered that the day is the twenty-ninth of December and that it is forty days before the eighth of February, and that the claim did not pass and that the only reason it did not pass is that nobody did anything, **and that a sheet in a pocket is not a book and a man of about twenty-three who keeps the copy is not a record, and the count of documents nobody owns is three and did not move.**
+A clerk of nineteen years entered that the day is the twenty-ninth of December and that it is forty-one days before the eighth of February, and that the claim did not pass and that the only reason it did not pass is that nobody did anything, **and that a sheet in a pocket is not a book and a man of about twenty-three who keeps the copy is not a record, and the count of documents nobody owns is three and did not move.**
 
-A woman of about thirty-three who takes in washing at the second channel said that a sheet which has been in a pocket for seventy days is not a document and is not a security and is not nothing, **and that the only page in this district that knows on what day a family's claim passes is a copy on one page in the coat of a man of about twenty-three who is not paid and does not own it, and that the count of documents nobody owns is three and the copy is not a fourth.**
+A woman of about thirty-three who takes in washing at the second channel said that a sheet which has been in a pocket for forty-one days is not a document and is not a security and is not nothing, **and that the only page in this district that knows on what day a family's claim passes is a copy on one page in the coat of a man of about twenty-three who is not paid and does not own it, and that the count of documents nobody owns is three and the copy is not a fourth.**
 
 Nobody argued with it and a man of about thirty-four who mends fencing asked the man of about twenty-three who copies for nothing whether he would let the sheet be read out, and the man of about twenty-three said no in four seconds and gave the reason in a sentence that a clerk of nineteen years entered in his own words and it is thirty-two words.
 
@@ -118,7 +118,7 @@ A clerk of nineteen years entered that he said the second half of that before he
 
 Nobody took that up. A man of about thirty-four who mends fencing said that a district which has three pages and not one of them about water had a fourth kind of thing this month in a lane off the lower terrace, **and that a page with a day in it is a page, and a page is a thing a stranger can go and look at, and that the man who mends fencing read a bound copy of the lot book on the seventh and the man of about fifty-five wrote a day on the fourth, and that the two are a reading and a writing and are not the same act and are not joined.**
 
-A man of fifty-six said that the boy is nine years older in forty days and not one day older, **and that the second of the four printed things says the named person shall not be below fifteen and that a boy of nine is five hundred and forty days from that, and that a clerk of nineteen years is not going to work that sum out in a yard.**
+A man of fifty-six said that the boy is nine years older in forty-one days and not one day older, **and that the second of the four printed things says the named person shall not be below fifteen and that a boy of nine is two thousand one hundred and ninety days from that, and that a clerk of nineteen years is not going to work that sum out in a yard.**
 
 A man of about thirty-four who mends fencing said that the second of the four printed things is on a counter thirty-four miles east in different words and that the district has had both of them in a book in its own market since the twentieth of January, **and that a family that has a sheet in a pocket and a house that has the same term in a book two days away are two families in one sheet and this district has not asked the house what it is doing with the second one.**
 

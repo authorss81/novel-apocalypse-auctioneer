@@ -14,7 +14,7 @@ A clerk of nineteen years entered that this is the first time in this district t
 
 Then the box, and it was on the trestle table where it had been since the second of January, and a man of fifty-six asked for the fourth of the five and not the fifth, and a clerk of nineteen years entered the order those two things were said in.
 
-**AND ON THE FIFTEENTH OF JANUARY THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST SAID IN TEN WORDS THAT HE WAS GOING EAST ON THE FIFTEENTH AND WOULD BE BACK WHEN HE WAS BACK, AND HE ASKED FOR THE FOURTH OF THE FIVE OUT OF A BOX AND NOT FOR THE FIFTH, AND NOBODY ASKED HIM WHEN HE WOULD BE BACK.**
+**AND ON THE FIFTEENTH OF JANUARY THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST SAID IN SIXTEEN WORDS THAT HE WAS GOING EAST ON THE FIFTEENTH AND WOULD BE BACK WHEN HE WAS BACK, AND HE ASKED FOR THE FOURTH OF THE FIVE OUT OF A BOX AND NOT FOR THE FIFTH, AND NOBODY ASKED HIM WHEN HE WOULD BE BACK.**
 
 ---
 
@@ -52,7 +52,7 @@ A house can be asked, a house decides, and a district that goes thirty-four mile
 
 A district's whole method is that a person can be made to answer on the record. A house is not a person and cannot be made and does not have to be, **and this is the first party this district has ever gone to that it has no instrument for, and the district went anyway.**
 
-**AND A MAN OF ABOUT THIRTY-ONE WHO MENDS A DRAY AT A FORGE END OFF SALT ROW SAID IN THIRTY-FOUR WORDS THAT A MAN CAME FOR THE DRAY IN THE FOURTEENTH YEAR, PAID HIM MONEY HE DID NOT COUNT, AND SAID HE WAS BUYING IT FOR A HOUSE, AND HE HAS NOT THOUGHT ABOUT THAT SENTENCE FOR ABOUT NINE YEARS.**
+**AND A MAN OF ABOUT THIRTY-ONE WHO MENDS A DRAY AT A FORGE END OFF SALT ROW SAID IN THIRTY-EIGHT WORDS THAT A MAN CAME FOR THE DRAY IN THE FOURTEENTH YEAR, PAID HIM MONEY HE DID NOT COUNT, AND SAID HE WAS BUYING IT FOR A HOUSE, AND HE HAS NOT THOUGHT ABOUT THAT SENTENCE FOR ABOUT NINE YEARS.**
 
 ---
 
@@ -112,7 +112,7 @@ Then the derivation, and a man of fifty-six did it out loud in the yard at about
 
 "**Thirty for September and thirty-one for October and thirty for November and thirty-one for December take that to three hundred and twenty-three at the last day of December, and the first of January is three hundred and twenty-four.**"
 
-"**And the fifteenth of January is three hundred and thirty-eight, and there are sixteen days left in the first month after the fifteenth, and ten days of the second month to the eleventh, which is twenty-six days from this one to the day the train came.**"
+"**And the fifteenth of January is three hundred and thirty-eight, and there are sixteen days left in the first month after the fifteenth, and eleven days of the second month to the eleventh, which is twenty-seven days from this one to the day the train came.**"
 
 **AND THE TRAIN ON THE SIDING HAD STOOD THREE HUNDRED AND THIRTY-EIGHT DAYS ON THE FIFTEENTH OF JANUARY, AND THE COUNT OF REFUSALS TO READ IS NINE, AND THE DEPARTURE IS UNSPENT, AND THERE IS STILL NO DATE IN THE LEDGER FOR THE NEXT READING.**
 
@@ -136,7 +136,7 @@ Without him the yard has a clerk and a man who counts and a man who mends fencin
 
 Those three have between them a great many words and not one of them can close a transfer, **and a man who cannot close a transfer is not a man who is standing in the way of one either, and the two are not the same and only the first of them is a fact.**
 
-A woman of about forty-four who keeps a Road House on the tide was in the yard and said that the sheet is still in her pocket and that the twenty-ninth of December was a fortnight and a half ago and that a house which has not written to anybody can write tomorrow, **and that tomorrow was the fourteenth of January and that she had said it on the fourth and she is saying it again because the day has changed and the sentence has not.**
+A woman of about forty-four who keeps a Road House on the tide was in the yard and said that the sheet is still in her pocket and that the twenty-ninth of December was seventeen days ago and that a house which has not written to anybody can write tomorrow, **and that tomorrow was the fourteenth of January and that she had said it on the fourth and she is saying it again because the day has changed and the sentence has not.**
 
 Nobody took it up and a clerk of nineteen years entered that she was not asked to put it in a column and that the count of things she has said in a yard in one month has no number on it, and that a number on it would have been a column.
 
