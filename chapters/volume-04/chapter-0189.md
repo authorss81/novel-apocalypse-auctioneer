@@ -14,7 +14,7 @@ The first mile and a half of that road is clay under about two inches of gravel 
 
 A clerk of nineteen years entered in the yard at about six in the evening that he came back and that nothing came back with him, **and that a visit which produces no document is not a visit which produced nothing, and that a page in a man's own hand is worth less than a minute and is a different kind of thing and this was not even that.**
 
-That went no further.. A man of about thirty-four who digs loam said that a man who goes four miles to a door and comes back with nothing has done a thing and has not made a record, **and that a record a man brings back is worth more than a thing he did, and that the district has spent four months believing the second of those and the first of those is what a man does on a wet road.**
+That went no further. A man of about thirty-four who digs loam said that a man who goes four miles to a door and comes back with nothing has done a thing and has not made a record, **and that a record a man brings back is worth more than a thing he did, and that the district has spent four months believing the second of those and the first of those is what a man does on a wet road.**
 
 A man of about thirty-eight who deals in second-hand paper on a lane off the lower terrace said that a man who comes back with nothing has been the only person in that room who did not come back with a sentence off a counter, **and that four people in this yard have now said something about carrying a page and not one of them has said anything about carrying a question to a door, and that the man who came back up the hill this morning is the only one of the four who has been to the far end of anything.**
 
@@ -30,7 +30,7 @@ The boy got off the stool and went into the back room and came in again with a p
 
 A man of about thirty-four who digs loam asked the woman of about forty-four whether the boy knew what was on it, and she said that she did not know and that he had not told her, and a clerk of nineteen years entered that a mother who does not know what her child has is not a mother who has refused to know, **and that a house in this district's business is kept by people who do not know what is in it nine days in ten and that the two of those are not a finding about either of them.**
 
-It was not picked up.. A man of fifty-six said that a man who came four miles to tell a woman what to do afterwards did not ask her what her son had, and that the not-asking is in the same line and is not joined to the other not-asking, **and that a clerk of nineteen years has four separate columns of not-askings in this district and has entered two of them on one day and is not adding any of them to another and is not going to.**
+It was not picked up. A man of fifty-six said that a man who came four miles to tell a woman what to do afterwards did not ask her what her son had, and that the not-asking is in the same line and is not joined to the other not-asking, **and that a clerk of nineteen years has four separate columns of not-askings in this district and has entered two of them on one day and is not adding any of them to another and is not going to.**
 
 A man of about thirty-four who digs loam said that a piece of paper in a child's hand and a page in a man's hand are two things and that the one in the child's hand came out of a back room and not out of a counter on the second of the third month, and a clerk of nineteen years entered that both of those are facts and are not joined.
 
@@ -40,7 +40,7 @@ He told her what the four printed things on that sheet say, and he did not read 
 
 A man of fifty-six said in the yard afterwards that the whole of what a Binder can do to a piece of paper in a house is carried in a coat and is not in the district, **and that a man who has said that out loud in a lane has said it against his own advantage and it is not a rule and is not written down and he would not have it written down.**
 
-Nothing was said to it.. A man of about thirty-four who mends fencing asked, in the six things, whether anybody was going to tell the woman of about forty-four that the man had said that, and a man of fifty-six said that she was in the room and did not have to be told, **and that a district which keeps a sentence because keeping it is convenient is the house thirty-four miles east and is not this district and is not going to become it while there is a page left to write on.**
+Nothing was said to it. A man of about thirty-four who mends fencing asked, in the six things, whether anybody was going to tell the woman of about forty-four that the man had said that, and a man of fifty-six said that she was in the room and did not have to be told, **and that a district which keeps a sentence because keeping it is convenient is the house thirty-four miles east and is not this district and is not going to become it while there is a page left to write on.**
 
 **AND ON THE FOURTH OF THE THIRD MONTH A BOY OF NINE PUT A PIECE OF FOLDED PAPER ON A TABLE AND WAS NOT ASKED WHERE HE HAD GOT IT, AND A MAN TOLD A WOMAN WHAT TO DO AFTERWARDS AND DID NOT WRITE ANY OF IT DOWN.**
 

@@ -68,7 +68,7 @@ A man of about thirty-four who mends fencing asked, in the six things, at about 
 
 ---
 
-The twenty-ninth was the second day of the two days a route keeper gave, and the water came at about six in the morning and went down at about two in the afternoon, and the tank at the top of the lane did not rise, and about nine people were in the yard of Lot Seventeen at about eleven in the morning because a man of about thirty-one had asked for something on the twenty-second of this month and had not been asked for it.
+The twenty-ninth was a day a route keeper named, and the water came at about six in the morning and went down at about two in the afternoon, and the tank at the top of the lane did not rise, and about nine people were in the yard of Lot Seventeen at about eleven in the morning because a man of about thirty-one had asked for something on the twenty-second of this month and had not been asked for it.
 
 A man of about thirty-four who mends fencing read it out in one run of words with a stop at the end of each of them, and he read the five of them including the line with his own name on it, and a clerk of nineteen years read it back afterwards and got nothing wrong, which is the rule of the counter.
 

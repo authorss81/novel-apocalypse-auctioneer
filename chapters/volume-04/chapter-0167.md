@@ -4,11 +4,11 @@
 
 The month turned on the first of February and the month before the turn was January and the month before that was December, and a clerk of nineteen years entered the three of them in one line and did not join them, and the year that began on the first of January is the eighteenth year after the Long Fracture and did not begin again.
 
-The board outside the room carried the twenty-fourth of December and had carried it for thirty-eight days, and a man of about thirty-four who mends fencing said that a board which has carried a spent date for thirty-eight days is a thing people have stopped seeing, **and that a thing people have stopped seeing is still on the wall, and that the fourth of the four is the only date on it anybody can argue with and he has not argued with it and is not going to.**
+The board outside the room carried the twenty-fourth of December and had carried it for thirty-nine days, and a man of about thirty-four who mends fencing said that a board which has carried a spent date for thirty-nine days is a thing people have stopped seeing, **and that a thing people have stopped seeing is still on the wall, and that the fourth of the four is the only date on it anybody can argue with and he has not argued with it and is not going to.**
 
 A clerk of nineteen years said that nobody had asked her to write a fifth date on the first of February and that she had not offered, **and entered that she is not going to be asked on a day either and that a day is the sort of thing a person offers and does not have to be given.**
 
-**AND THE MONTH TURNED ONCE AND IT TURNED ON THE FIRST OF THE SECOND MONTH, AND THE MONTH BEFORE IT WAS JANUARY, AND THE YEAR THAT BEGAN ON THE FIRST OF JANUARY IS THE EIGHTEENTH YEAR AFTER THE LONG FRACTURE, AND THE BOARD CARRIES FOUR DATES AND NO FIFTH AND HAS CARRIED THE FOURTH FOR THIRTY-EIGHT DAYS.**
+**AND THE MONTH TURNED ONCE AND IT TURNED ON THE FIRST OF THE SECOND MONTH, AND THE MONTH BEFORE IT WAS JANUARY, AND THE YEAR THAT BEGAN ON THE FIRST OF JANUARY IS THE EIGHTEENTH YEAR AFTER THE LONG FRACTURE, AND THE BOARD CARRIES FOUR DATES AND NO FIFTH AND HAS CARRIED THE FOURTH FOR THIRTY-NINE DAYS.**
 
 ---
 

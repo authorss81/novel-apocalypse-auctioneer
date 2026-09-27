@@ -42,7 +42,7 @@ At the fourth door nobody came, and he said that nobody has come to that door si
 
 A man of about thirty-four who digs loam said that **a man who can say what is at five doors without knocking at any of them has got the only survey this district has, and that it is nine weeks old and in a hand that is not a clerk's hand and under a man's arm, and a survey a man carries is not an instrument and is not a record and is not to be entered as one.**
 
-It was left where it was put down.. A man of fifty-six said that the district has spent four months building instruments and the best information it has is a man with a board, and that the two of those are not joined and that a man who has said that out loud is not a rule and is not written down.
+It was left where it was put down. A man of fifty-six said that the district has spent four months building instruments and the best information it has is a man with a board, and that the two of those are not joined and that a man who has said that out loud is not a rule and is not written down.
 
 **AND THE MAN OF ABOUT FORTY-EIGHT WALKED THE FIVE DOORS AT THE SLUICE END OF THE LOAMS ON THE AFTERNOON OF THE TWENTY-FIFTH OF THE SECOND MONTH WITHOUT KNOCKING AT ANY OF THEM, AND NOTHING WAS ASKED OF ANYBODY AT ANY OF THE FIVE.**
 
@@ -69,7 +69,7 @@ A man of about thirty-four who mends fencing said the other half of that himself
 A clerk of nineteen years entered that the three of those are three places and not three parties, and that a place is not a bearer and is not a holder and is not a person who was asked.
 
 She entered that **the seed is not a term and is not to be entered as one and is not a security and is not a figure against anybody, and the count of six did not move on the twenty-sixth of the second month.**
-Nothing in the yard said anything to it.. A man of about thirty-four who mends fencing asked, in the six things, whether **the seed goes to a household that has refused a sheet**, and the woman of about thirty-six said the answer before he had finished the question and a clerk of nineteen years entered that she said the second half of it before she was asked.
+Nothing in the yard said anything to it. A man of about thirty-four who mends fencing asked, in the six things, whether **the seed goes to a household that has refused a sheet**, and the woman of about thirty-six said the answer before he had finished the question and a clerk of nineteen years entered that she said the second half of it before she was asked.
 
 "**The sacks go where the sacks go. I weigh them and I do not read what is on the paper that comes with them and I am not going to start.**"
 

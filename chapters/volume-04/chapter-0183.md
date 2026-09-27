@@ -62,7 +62,7 @@ The woman of about fifty-two said one more thing to the man of about thirty at t
 
 A man of about thirty-four who digs loam said that **a statement a person gives about what she has done is not a statement about a holding and is not a surrender**, and that a man of about thirty at a counter can write the first of those and does not have to write the second, and that the two of them are two things and are not a column.
 
-That went no further.. A woman of about thirty-three who takes in washing at the second channel was not in that road and was not sent for, and a man of fifty-six entered that she was not asked what she would do about the seventh and that she was not going to be, and that **a person who goes into about forty houses a week would know more about a gate in a year than any book in this basin and is not to be turned into a clerk of anything.**
+That went no further. A woman of about thirty-three who takes in washing at the second channel was not in that road and was not sent for, and a man of fifty-six entered that she was not asked what she would do about the seventh and that she was not going to be, and that **a person who goes into about forty houses a week would know more about a gate in a year than any book in this basin and is not to be turned into a clerk of anything.**
 
 So the seventh of the nine holdings was given up at the top of an eleven mile road by the person who has held it since the fourth year, and **the register that says she held it is in a building thirty-four miles from here and belongs to a house, and a thing this district has never held cannot be handed back to it.**
 

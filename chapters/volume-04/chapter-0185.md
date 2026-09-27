@@ -16,7 +16,7 @@ A man of about thirty-four who digs loam said that **a man in a room four miles 
 
 A clerk of nineteen years entered that nobody bears that building and that it has been entered nine times since the first of the second month, and that **nine is a count of entries and is not a column, and a man asking for a man in a room is not asking to be a bearer and is not asking anybody to become one.**
 
-The yard let it stand.. A woman of about thirty-three who takes in washing at the second channel said that a room with a stove and four shelves and about sixty people in it in the cold is not a shelter in this district's business and is a room, and that the district's own word for it on the sheet on the tide is one place, **and a place is not a bearer and is not a holder and is not a person who was asked.**
+The yard let it stand. A woman of about thirty-three who takes in washing at the second channel said that a room with a stove and four shelves and about sixty people in it in the cold is not a shelter in this district's business and is a room, and that the district's own word for it on the sheet on the tide is one place, **and a place is not a bearer and is not a holder and is not a person who was asked.**
 
 A man of fifty-six said that a man who has kept a building for nine years and has never once asked for anybody has today asked for the one thing that costs nothing and gives back nothing, **and a thing which costs nothing and gives back nothing is the hardest kind of thing to be given and the easiest kind of thing to refuse, and the yard is going to have to do one of those two things before the light goes.**
 
@@ -92,7 +92,7 @@ Then he said the other half of it himself, and a man of about nineteen counted i
 
 A clerk of nineteen years entered that the second half of that came out ahead of the asking, **and that a man who hands a problem to the next man on purpose has done a thing this district has no instrument for and is not going to build one, and that the count of six is the same six it was on the twenty-seventh of the second month.**
 
-It was not picked up.. The man who digs loam said that the heading on that page is three sentences long and is not reprinted in this district and is in the minute of the fourth of January, and that the man who wrote the heading in the fourth year is the man who has to keep writing it, and that nobody has ever asked him whether he wants the ninth page as well as the eighth.
+It was not picked up. The man who digs loam said that the heading on that page is three sentences long and is not reprinted in this district and is in the minute of the fourth of January, and that the man who wrote the heading in the fourth year is the man who has to keep writing it, and that nobody has ever asked him whether he wants the ninth page as well as the eighth.
 
 Then the tank, because the man of about fifty-five went to the board against the wall before he went to the stove, and the mark for the twenty-fifth is level with the mark for the twenty-fourth and the mark for the twenty-sixth is level with the mark for the twenty-fifth and the mark for the twenty-seventh is a finger below the mark for the twenty-sixth.
 

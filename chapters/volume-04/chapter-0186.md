@@ -36,7 +36,7 @@ A clerk of nineteen years entered that she said the second half of that before a
 
 A man of fifty-six said that the district has spent four months arguing about a page with about forty names on it in a building four miles down a lane, and that a page with forty names in it has forty days against none of them, **and that the round has ninety houses on it and has been correct every morning for nine years and has never once been asked to be correct.**
 
-That went no further.. A man of about thirty-four who digs loam said that a woman who knows ninety doors and a boy of about nineteen who walks to a place every day are two people who write nothing down, and that this district has not joined them and is not going to, and that one of the two is the only person anybody in this basin can find at a place and the other one is nobody's keeper.
+That went no further. A man of about thirty-four who digs loam said that a woman who knows ninety doors and a boy of about nineteen who walks to a place every day are two people who write nothing down, and that this district has not joined them and is not going to, and that one of the two is the only person anybody in this basin can find at a place and the other one is nobody's keeper.
 
 A clerk of nineteen years entered that a boy of about nineteen at the fourth place and a woman of fifty-eight who carries water are two people who write nothing down and are two people and are not joined, **and that a person who stands somewhere every day and a person who goes to ninety doors a day are described by people who have never met and the five of those descriptions are not to be joined to either of them.**
 
@@ -62,7 +62,7 @@ The yard did not take that up straight away. A man of about thirty-four who mend
 
 A clerk of nineteen years entered that **the decision not to do anything about the tank was made on the twenty-eighth of the second month and not before, and that it was made in a yard and not in a lane, and that the man of about fifty-five was not in it and was not told and was not asked.**
 
-It was left where it was put down.. The man who digs loam said that the man of about fifty-five does not know that a decision has been made about his tank and that a man who does not know a thing is not a party to it and is not a bearer of it and cannot be held to it, **and that a district which makes decisions about a man's water without the man is a district running on a house's terms and is not a district.**
+It was left where it was put down. The man who digs loam said that the man of about fifty-five does not know that a decision has been made about his tank and that a man who does not know a thing is not a party to it and is not a bearer of it and cannot be held to it, **and that a district which makes decisions about a man's water without the man is a district running on a house's terms and is not a district.**
 
 A man of fifty-six said that **the district has not been given the tank and the building belongs to nobody and nobody bears it, and a man who keeps a building is not its bearer and is not going to be entered as one, and a tank in a building nobody owns is a tank nobody is responsible for, and that is a different sentence from the one about a man.**
 

@@ -68,7 +68,7 @@ Nobody in that yard argued with it. A man of fifty-six said that a woman who kee
 
 The man of about thirty-four who digs loam said that a butt at nine days and a tank at nine days are two pieces of water four hundred yards apart, **and that the two of them are not one subject and have not been entered together and are not going to be, and that a district that stands in a yard looking at a butt is a district looking at a butt.**
 
-**AND THERE ARE TWO FLOOD SHIFTERS AT THE SLUICE END AND THE DISTRICT HAS BEEN SAYING THE WORDS FOR A MONTH, AND THE THIRD OF THE FOUR PRINTED THINGS SAYS A FLOOD SHELTER AT THE SLUICE AND NAMES NO BUILDING, AND THE MAN OF ABOUT THIRTY AT A COUNTER SAYS THERE ARE TWO AND HAS NEVER SAID THERE WAS ONE.**
+**AND THERE ARE TWO FLOOD SHELTERS AT THE SLUICE END AND THE DISTRICT HAS BEEN SAYING THE WORDS FOR A MONTH, AND THE THIRD OF THE FOUR PRINTED THINGS SAYS A FLOOD SHELTER AT THE SLUICE AND NAMES NO BUILDING, AND THE MAN OF ABOUT THIRTY AT A COUNTER SAYS THERE ARE TWO AND HAS NEVER SAID THERE WAS ONE.**
 
 ---
 

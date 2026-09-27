@@ -28,7 +28,7 @@ A clerk of nineteen years entered that nobody has checked the figure of a day an
 
 It was not contradicted. A man of about thirty-four who mends fencing asked whether anybody was going to be told about that in this district, and a man of fifty-six said that a man who keeps a building is not its bearer and is not going to be entered as one, **and that a tank in a building nobody owns is a tank nobody is responsible for, and that the shelter has not denied anybody entry at any time in nine years and is not going to and that is not the same sentence as the one about responsibility.**
 
-That went no further.. A man of about thirty-four who digs loam said that the fourth holding of the nine has now not taken a drop for a month, since the first of the second month, and that the house has not written to anybody about it and is not obliged to, **and that a month of a house not writing is a month of a figure not moving and the two are one silence and not two.**
+That went no further. A man of about thirty-four who digs loam said that the fourth holding of the nine has now not taken a drop for a month, since the first of the second month, and that the house has not written to anybody about it and is not obliged to, **and that a month of a house not writing is a month of a figure not moving and the two are one silence and not two.**
 
 The woman of fifty-eight who carries water and does not read figures was at the top of the hill with a yoke when he came up the bank and she was not asked for anything, and she said that the loam under the plate is about a foot deep in the wet and that it was about a foot deep in the ninth year, and that her shoulder has been the same shoulder for nine years and is not the same shoulder this month.
 
@@ -56,7 +56,7 @@ Then the other half of it, and the man of about fifty-five had brought it up the
 
 He said that the heading on the fourth page is three sentences long and that he wrote it himself in the fourth year and that it is in the minute of the fourth of January, and that there are about nine pages in that book, **and that the fifth page has not got his heading on it and that whoever fills the fifth page is going to have to rule a column and a heading and is not going to write a heading he has not been given.**
 
-It was not picked up.. The man who digs loam said that a man who wrote a heading himself in the fourth year is six days from a page with somebody else's work at the top of it, **and that a heading a man wrote himself is the last thing anybody is going to get changed and the first thing anybody is going to need changed, and that he said that on the fifteenth of the second month in a lane and has said it again and it is not a new finding.**
+It was not picked up. The man who digs loam said that a man who wrote a heading himself in the fourth year is six days from a page with somebody else's work at the top of it, **and that a heading a man wrote himself is the last thing anybody is going to get changed and the first thing anybody is going to need changed, and that he said that on the fifteenth of the second month in a lane and has said it again and it is not a new finding.**
 
 A clerk of nineteen years entered that the man of about fifty-five was not asked whether he wanted the fifth page as well as the fourth and the sixth, and that he was not asked on the fifteenth of the second month either, **and that a man who has been filling a page nobody asked him to fill is a man and not a keeper and is not a clerk of anything and is not going to be made one.**
 
@@ -66,7 +66,7 @@ the man who mends fencing asked the man of about thirty-one who mends a dray at 
 
 A clerk of nineteen years entered that this is the fourth time in a yard that the man of about thirty-one has been asked to do a thing in this district's business and said no, and that four times out of five times he has been asked he has said no, **and that the refusal is not a refusal of a rule and is not entered as one, and that four is a count of things a man was asked, that it is not a column and not a rate, and that it does not go into the count of not-askings about anybody in particular.**
 
-The yard let it stand.. A man of fifty-six said that the reason the Underwriter's power is not begun in this district is that a man cannot list what he has posted, and that the man who would be standing in the list if it were written has just given the reason for it out loud in a yard, **and that a man who is the fifth of the five and has said the district's own reason better than the district has is not a column and is not a rate and is not going to be put in a book.**
+The yard let it stand. A man of fifty-six said that the reason the Underwriter's power is not begun in this district is that a man cannot list what he has posted, and that the man who would be standing in the list if it were written has just given the reason for it out loud in a yard, **and that a man who is the fifth of the five and has said the district's own reason better than the district has is not a column and is not a rate and is not going to be put in a book.**
 
 A clerk of nineteen years entered that the list of the five is not written for the seventh time in a month and that the reason is entered and the reason is not a delay, **and that the reason has changed its shape five times since the second of January and has not moved, and that a shape is not a figure, and that the board outside the room is on its seventy-sixth day with the twenty-fourth of December still on it and nobody has washed it.**
 
@@ -92,7 +92,7 @@ Nobody took that up. The man who mends fencing asked the man the figure of twent
 
 A boy of nine was in that yard on the tenth of the third month with the woman of about forty-four who keeps a Road House on the tide and a clerk of nineteen years entered that he came and that nobody sent for him, **and that he was not asked a second thing and was not asked a first thing, and that his name is not in the minute and the minute says a boy of nine.**
 
-Nothing was said to it.. The man who digs loam said that the boy is in a column in a building two days' walk away and is in a yard four miles from a records office and is in neither of the two books this district keeps, **and that a man who reads eight counts out loud in a yard on the eighth of this month and a boy of nine who is in none of them are two facts about one morning and are not a column and are not to be added.**
+Nothing was said to it. The man who digs loam said that the boy is in a column in a building two days' walk away and is in a yard four miles from a records office and is in neither of the two books this district keeps, **and that a man who reads eight counts out loud in a yard on the eighth of this month and a boy of nine who is in none of them are two facts about one morning and are not a column and are not to be added.**
 
 **AND A MAN CAME BACK FROM FOUR MILES WITH A SENTENCE IN HIM AND THE REGISTRAR OF THIS DISTRICT'S RECORDS OFFICE TOLD HIM THE ONLY PLACE IT COULD GO IS A BOOK SHE HOLDS, AND HE IS NOT GOING TO PUT IT THERE.**
 

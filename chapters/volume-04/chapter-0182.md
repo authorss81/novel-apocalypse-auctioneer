@@ -48,7 +48,7 @@ It is. He buys it himself, about four sheets to a sheet of account at a chandler
 
 A man of about thirty-four who digs loam said that a man who buys the paper a page is on has an owner, and that an owner is a person, and that a person who owns a page of a house's document can be asked about it and can be told to hand it over and can refuse.
 
-It was not picked up.. A man of fifty-six said that the finding of the twenty-second of the second month is not about a wage at all, and that it is that a page a man bought paper for has a person attached to it, **and that this district has three documents nobody owns and a copy with an owner in it, and that a document nobody owns and a page a man owns are two different problems and are not joined and are not to be.**
+It was not picked up. A man of fifty-six said that the finding of the twenty-second of the second month is not about a wage at all, and that it is that a page a man bought paper for has a person attached to it, **and that this district has three documents nobody owns and a copy with an owner in it, and that a document nobody owns and a page a man owns are two different problems and are not joined and are not to be.**
 
 A man of about thirty-four who mends fencing asked the man of about twenty-three whether anybody had told him that, and the man of about twenty-three said that nobody had told him and that he had worked it out himself in about the fourth week, and that he had not said it out loud because a man who says out loud that a page is his has told a house where to write to.
 
@@ -74,7 +74,7 @@ A man of about nineteen who walked in from the road counted the third of those a
 
 A man of about thirty-four who digs loam said that a man who copies for nothing has just done in about four minutes the thing this district has done out loud in a yard four times in ten days, and that the difference is that the man of about twenty-three did it to see whether a figure was right and the yard did it because it is the thing the yard does.
 
-Nothing was said to it.. A man of fifty-six said that a figure derived out loud in a yard is worth more than a figure carried in a book, and that a figure checked by a man who is not paid to check it is worth more than both, **and that the thirty-first of March is thirty-seven days off this day and the first of April is thirty-eight, and that a figure with no day on it is not an interval and the two of those have never been joined.**
+Nothing was said to it. A man of fifty-six said that a figure derived out loud in a yard is worth more than a figure carried in a book, and that a figure checked by a man who is not paid to check it is worth more than both, **and that the thirty-first of March is thirty-seven days off this day and the first of April is thirty-eight, and that a figure with no day on it is not an interval and the two of those have never been joined.**
 
 A clerk of nineteen years entered that the count of unentered days since the twenty-fourth of November is ninety and is a count of days and not a column, **and that a man who has found a four-day error in an arithmetic going about a yard has found an error and not a finding, and that nobody in this district is going to be sent to look for the four days.**
 

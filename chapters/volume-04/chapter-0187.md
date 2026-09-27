@@ -34,7 +34,7 @@ It is one cart with two wheels at the front and a tailboard and about eleven sac
 
 The sacks came off the tailboard one at a time and there were about nine people on that lane by the fourth of them, and a woman of about thirty-six who keeps a scale at the sluice end of the loams had a barrow under the second one and did not put her hand under the third.
 
-Nothing was said to it.. A man of about thirty-four who digs loam said that a barrow under the second sack and not the third is a woman who has decided what she is carrying and is not going to be told about it, **and that a woman who has stood at a scale for nine years can lift a sack onto a barrow and is not a bearer of the sack and is not a keeper of the barrow, and that the district's own list of things a person is not applies to her and does not apply to what she is holding.**
+Nothing was said to it. A man of about thirty-four who digs loam said that a barrow under the second sack and not the third is a woman who has decided what she is carrying and is not going to be told about it, **and that a woman who has stood at a scale for nine years can lift a sack onto a barrow and is not a bearer of the sack and is not a keeper of the barrow, and that the district's own list of things a person is not applies to her and does not apply to what she is holding.**
 
 The cart came before eleven and a man of about thirty-four who mends fencing said out loud that a man who stood in a rut with his hand in it on the twenty-third of the second month had said a cart gets through before eleven and not after two, **and that the district did not check him then and cannot check him now and has entered after the fact that he was right, and that a figure checked after the thing it was about has happened is not a check and is not going into any of the counts.**
 
@@ -70,7 +70,7 @@ A man of about thirty-four who digs loam said that the six households are going 
 
 A clerk of nineteen years entered that a record of not-askings which is made wrong by a house and a cart and not by anybody in this yard is a record that was never a refusal and has never been a refusal, **and that a person who has not been asked has not refused and cannot be counted either way, and that the sheet on the step is an asking and the asking is not this district's and the asking is not going to be entered as one.**
 
-The rest of the yard did not follow it.. A man of fifty-six said that the yard is not going to write to the six households and tell them a thing has changed, and that a man of about forty-eight who keeps a tally has said he is not walking them round, and that those two decisions together mean the sheets are going to sit at the head of a lane and go to whoever comes for them.
+The rest of the yard did not follow it. A man of fifty-six said that the yard is not going to write to the six households and tell them a thing has changed, and that a man of about forty-eight who keeps a tally has said he is not walking them round, and that those two decisions together mean the sheets are going to sit at the head of a lane and go to whoever comes for them.
 
 the man who mends fencing asked the man of about forty-eight, in the six things, what he was going to do about the three that had not been asked again, and the man of about forty-eight said that he had been asked that on the twenty-sixth of the second month and that the answer had not changed, and gave the rest of it himself in a sentence that a man of about nineteen counted and got forty-one.
 
