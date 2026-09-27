@@ -48,7 +48,7 @@ It came at about ten past twelve and nobody had asked for it, and it arrived in 
 >
 > **A NAME IN A RULED PLACE IS A NAME IN A RULED PLACE AND NOT A PERSON WHO HAS BEEN ASKED.**
 
-Nobody disagreed with it and nobody picked it up, and the clerk entered that nobody disagreed and that she was not going to make anything of it, **and that this is the third of these in this volume that nobody in a yard has disagreed with, and that the first came on the tenth of this month and the second on the nineteenth, and that the man who disagreed with the one on the nineteenth said he was going to keep the rest to himself and she is not going to ask him whether he has.**
+Nobody disagreed with it and nobody picked it up, and the clerk entered that nobody disagreed and that she was not going to make anything of it, **and that this is the third of these since the first of April that nobody in a yard has disagreed with, and that the first came on the tenth of this month and the second on the nineteenth, and that the man who disagreed with the one on the nineteenth said he was going to keep the rest to himself and she is not going to ask him whether he has.**
 
 The man of about thirty-four who digs loam put his hand flat on the post of the gate and tried to lift it with his right arm, and could not, and did not try a second time in front of anybody. A man of fifty-six said that a man who tries a thing once in a yard and does not try it twice has learned more in one morning than that yard has taught anybody in a month, and that an arm is not a lesson and is not an instrument and is not a seventh.
 

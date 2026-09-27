@@ -60,7 +60,9 @@ The man of about thirty-four who digs loam asked him one question in the yard, i
 
 The man of fifty-six said that a man who says he went up a road to look for a person and will not say whether he found one has neither refused nor consented and is not in any of the seven lists this district keeps.
 
-A man of about thirty-four who mends fencing asked him how long the road is at the top, and he said that it is about a mile of it after the turn and that there is a house on it and no name on the house and a wall, and a man of about nineteen counted it and got thirty-one, and it went in the minute in his own words.
+A man of about thirty-four who mends fencing asked him how long the road is at the top, and he gave the honest answer, and a man of about nineteen counted it and got twenty-six, and it went in the minute in his own words.
+
+"**It is about a mile of it after the turn, and there is a house on it and no name on the house, and a wall.**"
 
 The man of about thirty-four who digs loam went up the bank at about half past four to take a bucket up for the woman of fifty-eight and could not get it off the ground, and she took it off him with one hand without a word and went up, and it was entered that she said nothing and that nobody asked her to and that a person who takes a bucket off a man and says nothing has not been asked and has not refused and the record says not asked.
 

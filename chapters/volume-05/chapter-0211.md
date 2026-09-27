@@ -60,7 +60,7 @@ A man of about thirty-four who digs loam said that a man who has been found and 
 
 ---
 
-The lane at the sluice end of the loams had six doors in it and about four people were on it in the afternoon and a man of about forty-eight who keeps a tally for six households was on it and was not sent for, and the man of about thirty-four who digs loam said the state of them without being asked.
+The lane at the sluice end of the loams had six doors in it and about four people were on it in the afternoon and a man of about thirty-four who keeps a tally for six households was on it and was not sent for, and the man of about thirty-four who digs loam said the state of them without being asked.
 
 "**One signed on the twenty-ninth of the second month. Two refused in the second month. Three have not been asked again since and the yard decided on the nineteenth of the second month not to decide about them and has not gone back on it, and that the state of those six has not moved since the twenty-first of last month, which is twenty-two days, and is not going to move this week.**"
 

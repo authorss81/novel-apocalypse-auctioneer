@@ -54,7 +54,7 @@ Six households at the sluice end of the loams and a sheet each, and a man of abo
 
 "**One has signed and two have refused and three have not been asked again, and the three are not refusals and are not consents and are not a column, and this yard decided on the nineteenth of the second month not to decide about the three and has not gone back on it.**"
 
-A man of about forty-eight who keeps a tally for six households was at the back of that yard and had not been sent for, and he said that the third time a sheet comes down that lane a cart goes past his door before six in the morning, **and that a man who keeps a tally for six households is not a way of telling six households anything, and that he has been asked twice to be told what to do about the three and has not been told and is not asking again this morning.**
+A man of about thirty-four who keeps a tally for six households was at the back of that yard and had not been sent for, and he said that the third time a sheet comes down that lane a cart goes past his door before six in the morning, **and that a man who keeps a tally for six households is not a way of telling six households anything, and that he has been asked twice to be told what to do about the three and has not been told and is not asking again this morning.**
 
 A man of fifty-six said that a man who is not asking is a man who has been refused, and the man of about forty-eight said that it was not, and a clerk of nineteen years entered that both halves were in the minute in their own words and that the registrar's own count of refusals to join two things is twelve and did not move and the district's is thirteen and did not move either, **and that a man who is not asking has not been refused and a man who is not asking is not a count of anything and the record says not asked.**
 
@@ -88,7 +88,7 @@ The lane four miles down from a lower terrace was dry for the first time since t
 
 The butt at the back of the brick building is at four days and it was at nine on the seventeenth of the third month and about four hundred yards away a tank came up within a hand's breadth of its lip, and a man of about thirty-four who digs loam said the word for that is a word about a river and not about a thing anybody did, **and that a butt is a store and not a source and that a district which emptied a store to fill a tank has not moved the water, it has moved the days.**
 
-The woman of about thirty-eight who keeps that building was on her own step and was not sent for and a clerk of nineteen years entered that she was not asked a first thing, and she said the thing herself and it was in twenty-four words the second time she has said it and she knew it was the second time.
+The woman of about thirty-eight who keeps that building was on her own step and was not sent for and a clerk of nineteen years entered that she was not asked a first thing, and she said the thing herself and it was in thirty words the second time she has said it and she knew it was the second time.
 
 "**If I tell a clerk of a house where my wall is then my wall is on his sheet, and I have a place and nobody's name is on it.**"
 

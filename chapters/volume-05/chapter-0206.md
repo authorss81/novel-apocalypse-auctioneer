@@ -66,7 +66,7 @@ A man of fifty-six said that a man who has been refused three times for one reas
 
 Then the man of about twenty-three did the thing, and nobody asked him to and a clerk of nineteen years entered that nobody sent for him and that she was not asked to make a copy of anything and that he made one.
 
-He copied the schedule of nine rows onto the back of a sheet of his own buying, in his own hand, in about fifty minutes, and he copied the column heading and the eight days and the ninth row with its two words in it, and he gave the copy to a clerk of nineteen years and said twenty-one words, and a man of about nineteen counted them and got twenty-one.
+He copied the schedule of nine rows onto the back of a sheet of his own buying, in his own hand, in about fifty minutes, and he copied the column heading and the eight days and the ninth row with its five words in it, and he gave the copy to a clerk of nineteen years and said twenty-one words, and a man of about nineteen counted them and got twenty-one.
 
 "**I gave it up, nobody took it, put both of those down and put down which one of them is true.**"
 

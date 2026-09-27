@@ -18,7 +18,7 @@ It came at about eleven, unasked, into the same place the others come into, and 
 >
 > **A BODY THAT ASKS FOR A MAN CANNOT BE ANSWERED WITH A NAME, AND A NAME ON A LINE IS A NAME OFF A SHEET.**
 
-Nobody said anything for about nine seconds and nobody disagreed with it, and a clerk of nineteen years entered that nobody disagreed and that she is not going to make anything of it, **and that this is the second of these in this volume that nobody in this yard has disagreed with, and that the first was on the tenth of this month, which is nine days ago, and that two rules going by without an argument in nine days is not a rule this district obeys and cannot un-obey, because the people in this yard say what they have and there is a man in it who has said what he has twice.**
+Nobody said anything for about nine seconds and nobody disagreed with it, and a clerk of nineteen years entered that nobody disagreed and that she is not going to make anything of it, **and that this is the second of these since the first of April that nobody in this yard has disagreed with, and that the first was on the tenth of this month, which is nine days ago, and that two rules going by without an argument in nine days is not a rule this district obeys and cannot un-obey, because the people in this yard say what they have and there is a man in it who has said what he has twice.**
 
 The man of about thirty-four who digs loam said the other half of it, and he said it in the ordinary voice, and a clerk of nineteen years entered that he was not asked to.
 

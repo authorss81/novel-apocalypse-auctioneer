@@ -2,7 +2,7 @@
 
 ---
 
-The wind was out of the north on the sixth of the fifth month and it went through that yard the way it goes through a place with nothing high on three sides, and about nineteen people were standing in it at about ten in the morning.
+The wind was out of the north on the sixth of the fifth month and it went through the yard of Lot Seventeen the way it goes through a place with nothing high on three sides, and about nineteen people were standing in it at about ten in the morning.
 
 The man of about thirty-four who mends fencing gave the three figures and the man of fifty-six read the board out after him.
 

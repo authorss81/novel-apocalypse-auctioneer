@@ -54,7 +54,7 @@ The man of about thirty-four who digs loam disagreed with the last of those thre
 
 "**A disclosure is not an instrument, it is a man telling a thing once, and what it prevents is somebody being able to say afterwards that nobody knew, and it does not stop a page having a column in it with a name in it, and it does not stop the name being the next one. I said a true thing yesterday and it is on nobody's page and the ledger is still going to have to go two hundred yards each way.**"
 
-It was entered that this is the first time in this volume that one person has disagreed with two of these out loud, and that the man who did it is the man who did it the first time on the fifth of this month, and that a man who disagrees with a rule twice is not becoming a habit of disagreeing, he is two rules and two disagreements.
+It was entered that this is the first time since the first of April that one person has disagreed with two of these out loud, and that the man who did it is the man who did it the first time on the fifth of this month, and that a man who disagrees with a rule twice is not becoming a habit of disagreeing, he is two rules and two disagreements.
 
 The woman of fifty-eight was in the yard at about two in the afternoon and had come down the bank at about one, and the man of about thirty-four who mends fencing asked her, in his own words and not in the six things, what she thought about a name being on a page, and she said it, and a man of about nineteen counted it and got a hundred and six, and it went in the minute in her own words.
 

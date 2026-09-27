@@ -30,7 +30,7 @@ She read the third line out again and then asked the man with the portfolio, and
 
 A clerk of nineteen years entered that this is the second time in two days that a person has said both halves of a refusal in the same breath, and entered that this district has a column for a person who will not read a thing and that the count in it is nine and is nine, **and that this district does not have a column for a person who will not name a place, and that it has not had one since the second of January and did not make one this morning, and that the two are not the same refusal and the second of them has no count at all and that is a hole and not a blank.**
 
-Nobody argued with her about the word. A man of about thirty-four who mends fencing said that a hole in a form is a thing a person can put their thumb in and this one is, **and that the third form of a withdrawal notice printed in this district in the month before last carries its own hole on its face in twenty-nine words, and that a document which says what it will not say is a door, and that this district settled that on the twenty-seven of December and has now got one in a stranger's hand.**
+Nobody argued with her about the word. A man of about thirty-four who mends fencing said that a hole in a form is a thing a person can put their thumb in and this one is, **and that the third form of a withdrawal notice printed in this district in the month before last carries its own hole on its face and that this district printed the hole and has never once been able to say how wide it is, and that a document which says what it will not say is a door, and that this district settled that on the twenty-seven of December and has now got one in a stranger's hand.**
 
 There were ten other sheets in the case and a man of about thirty-four who mends fencing asked, in the six things, in front of about nineteen people, whether this district was going to be read ten more documents by a stranger, and the man with the portfolio said the second half of it before the asking.
 
@@ -64,7 +64,7 @@ A clerk of nineteen years entered that the name was said once and not written do
 
 ---
 
-The lane at the sluice end of the loams had six doors in it and about four people were on it in the afternoon and a man of about forty-eight who keeps a tally for six households was on it and was not sent for.
+The lane at the sluice end of the loams had six doors in it and about four people were on it in the afternoon and a man of about thirty-four who keeps a tally for six households was on it and was not sent for.
 
 A man of about thirty-four who digs loam said the state of them without being asked and it is the state it was on the first of April and on the twenty-first of the third month, and a clerk of nineteen years entered that the record of the six has not moved on any of the three days and that the six are not a column and are not a rate and are not added to anything.
 

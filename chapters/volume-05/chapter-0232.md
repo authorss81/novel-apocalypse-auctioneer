@@ -42,7 +42,7 @@ The clerk refused it in about four seconds and was not asked to refuse it, and t
 
 A man of fifty-six said that one of the nine who wrote a rule four hundred years ago sat down afterwards and wrote, in a second hand, that a man thanked for it has been made something else, and that the something is not a chair, and that a rule about being thanked and a rule about being wrong are the same shape of rule, and that the ninth place on the page in a cave is ruled and empty and is going to stay that way whatever this yard does with its mornings.
 
-A man of about thirty-four who keeps a scale was not in that yard and the four houses he offered are still standing empty and were not added to eleven, and the clerk entered that, and entered that the conditions with no end on it are four and that the seat of a chair is not a fifth.
+A man of about thirty-six who keeps a scale was not in that yard and the four houses he offered are still standing empty and were not added to eleven, and the clerk entered that, and entered that the conditions with no end on it are four and that the seat of a chair is not a fifth.
 
 The man of about twenty-three who sells nothing and copies for nothing was asked, in front of about nineteen people, whether he would draw the lock so that the yard could keep a picture of it, and he said no in about four seconds and gave the reason, and a man of about nineteen counted it and got sixty-five.
 

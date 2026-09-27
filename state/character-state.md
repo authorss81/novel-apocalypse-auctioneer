@@ -367,13 +367,13 @@ Walked through the yard on the tenth of the fifth month without stopping, not se
 
 **THE TANK IS STILL ABOUT A HAND'S BREADTH OVER ITS LIP, THE TWO CHALK LINES ARE STILL ON THE INSIDE OF THE BRICK, THE CRACK IS ABOUT THE LENGTH OF HIS HAND, THE NINE YEARS OF BEDS ARE STILL IN THE SECOND ROOM, AND NOBODY HAS ASKED FOR A FIFTH MEND IN FOUR MONTHS AND COUNTING.** He refused to be a steward for a season before he was asked, in a hundred and twenty-nine words, and asked for what he said to be read back to him. He sent nothing to that yard on the twenty-second and nobody sent anything to him. A crack in a tank is not a sixth protected thing.
 
-## The man of about thirty-four who keeps a scale
+## The man of about thirty-six who keeps a scale
 
-**HIS FOUR HOUSES STILL STAND AND WERE NOT ADDED TO ELEVEN AND WERE NOT OFFERED AGAIN.** He gave the yard nothing and said no before he was asked, in a hundred and five words, and said he would read the record back at the counter himself.
+**HIS FOUR HOUSES STILL STAND AND WERE NOT ADDED TO ELEVEN AND WERE NOT OFFERED AGAIN.** The age was thirty-four in Chapters 205, 232, 242 and 250 and thirty-six in eighteen other chapters; **the Volume 05 close repaired the four and he is thirty-six in all fifty.** He gave the yard nothing and said no before he was asked, in a hundred and five words, and said he would read the record back at the counter himself.
 
 ## The man of about thirty-four who keeps a tally for six households
 
-**HIS SIX STAND AT ONE SIGNED, TWO REFUSED AND THREE NOT ASKED AGAIN AND HAVE NOT MOVED SINCE THE TWENTY-FIRST OF LAST MONTH, WHICH IS THIRTY-ONE DAYS AT THE LAST DAY OF THIS BLOCK.** He asked whether his six were one of the nine so that he would not have to lie about it later, and he said he was glad of a thing that was not on the paper, and a hand put up for one reason is not a hand put up for another.
+**HIS SIX STAND AT ONE SIGNED, TWO REFUSED AND THREE NOT ASKED AGAIN AND HAVE NOT MOVED SINCE THE TWENTY-FIRST OF LAST MONTH, WHICH IS THIRTY-ONE DAYS AT THE LAST DAY OF THE VOLUME, DERIVED. The printed figures are twenty-three on the fourteenth of the fifth month, twenty-six on the seventeenth, twenty-eight on the nineteenth and twenty-nine on the twentieth, and NO CHAPTER IN CHAPTERS 241 TO 250 PRINTS THIRTY-ONE. He was a man of about forty-eight in Chapters 201, 203 and 211 and the Volume 05 close repaired the three; he is thirty-four in all fifty chapters.** He asked whether his six were one of the nine so that he would not have to lie about it later, and he said he was glad of a thing that was not on the paper, and a hand put up for one reason is not a hand put up for another.
 
 ## The man of about thirty-four who keeps a road
 
