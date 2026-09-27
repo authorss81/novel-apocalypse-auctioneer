@@ -40,7 +40,7 @@ The man the figure of twenty-one years is against said one thing about the two d
 
 "**There are two doors on that building and there has been a curtain on a nail on the inside of one of them since the eleventh of the sixth month, and a yard is the only place in this district where a thing gets said out loud, and I have used this room twice this month and both times I have said less in it than I would have said outside it, and that is not a fault of the room.**"
 
-Two doors on a building are two doors and are not a second person and are not a second reader, and a person standing in a doorway is not holding the door, and the cost of a thing being dealt with in a room on this morning is that it was not dealt with at all and the yard has a figure going round it that is wrong by four.
+Two doors on a building are two doors and are not a second person and are not a second reader, and a person standing in a doorway is not holding the door, and the cost of a thing being dealt with in a room behind a shut door is that it was not dealt with at all and the yard has a figure going round it that is wrong by four.
 
 At about one, with both of them in that building, the second of the four figures on the end of that trestle table was said out loud in that yard by a man at the back and was wrong.
 
