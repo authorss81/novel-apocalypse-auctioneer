@@ -114,7 +114,7 @@ A clerk of nineteen years entered that a building which has denied nobody entry 
 
 The day ended at about half past four and the man with the portfolio was still in the yard and had not been asked to leave, and a man of about thirty-four who mends fencing asked him the sixth of the six things, which is the one this yard always asks last and which is the one nobody in this district has ever got a straight answer to.
 
-He asked when the lease had to be answered, and the Registry man gave a day, and a clerk of nineteen years read the day back twice and got it right both times, and a man of about nineteen counted the sentence and got twenty-six.
+He asked when the lease had to be answered, and the Registry man gave a day, and a clerk of nineteen years read the day back twice and got it right both times, and a man of about nineteen counted the sentence and got twenty-five.
 
 "**The last day of the fourth month. I have to be at the place on it and there is nobody at the place but me.**"
 

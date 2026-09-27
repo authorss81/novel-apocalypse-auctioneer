@@ -4,6 +4,14 @@ Chapter range: 201–250
 
 **This file was written at the opening of the volume, from `outline/series.md`, `outline/ending.md`, `state/volume-04-close.md` and `state/volume-04-roll-summary.md`, and Volume 05 Batch 0001 was written against it. Where a chapter and this file disagree, the chapter is canon and this file is corrected.**
 
+> **BATCH 0001 IS COMPLETE AND CANON — Chapters 201 to 210, the first to the eleventh of the fourth month.** The canon contract is `outline/batches/volume-05-batch-0001.md` and the block record is `state/volume-05-batch-0001-summary.md`. **Three things in this file were not what the prose turned out to be, and the prose is the record in all three.**
+>
+> 1. **The central pressure is on the page and it is earlier than this file puts it.** Nine structures in the water above this district are standing open on eight of eleven nights, one a night, and the eighth was the eleventh of April, the last day of the batch. **They are called gates on a stranger's sheet and locks in the word a house thirty-four miles east uses, and this district spent five days using the borrowed word before it got its own back.**
+> 2. **The batch's closing image is the one the file names and it is the last line of Chapter 210**: a dray going up a road with two people in it and a yoke on the tailboard that nobody asked the owner about. **The road is the only one in the district that climbs and it goes out past the loams and up past the top field of a farm, and the top field is the fourth holding on the delivery sheet, and it is not joined to anything else on the page.**
+> 3. **The nine dates in Chapters 211 to 220 now have a fixed base.** The stranger's schedule of nine rows gave eight days — **the first, second, third, fourth, sixth, eighth, tenth and eleventh of the fourth month** — and the ninth row carries the words IT IS NOT A ROAD. **A route keeper's eight must therefore be a different set of eight and the ninth he will not give is the ninth, and the two lists agreeing on eight is no longer available as a fresh finding because this batch established that the eighth is the eleventh of April.** Chapters 211 to 220 must build the disagreement somewhere a reader can check.
+>
+> **The romance moved four times in Batch 0001, as this file's progression section requires, and none of the four was a declaration.** The midpoint reversal at Chapters 224 to 227 is unspent and nothing in Batch 0001 foreshadowed it hard. **Cael Orin did not appear and Adrian and the registrar did not meet off the page.** No place is named. No new final enemy.
+
 ## Central pressure
 
 The **Crownless Uplands** hold the oldest surviving civic records in this basin, in caves cut into a shoulder of rock that predates the Long Fracture and that four generations of keepers have never let be emptied. They were kept because there was nothing else to keep them in. They have been read by perhaps forty people.

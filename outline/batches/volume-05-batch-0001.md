@@ -1,0 +1,90 @@
+# Volume 05 Batch 0001 — Canon Card, *The Nine Locks* (Chapters 201–210)
+
+> **This card was written after the block and not before it.** Chapters 201 to 206 and `outline/volume-05.md` were produced by an earlier run of this phase and were checkpointed; **Chapters 207 to 210 were written afterwards against the same volume outline and the same state files, and all ten chapters are canon.** The block record is `state/volume-05-batch-0001-summary.md`. **A Volume 05 Batch 0002 writer should read this card first, then `outline/volume-05.md`, then `state/volume-04-close.md` for the position Volume 05 opened on.**
+>
+> **THE PROSE DOES NOT NAME ANY PERSON.** Adrian, the registrar of this district's records office, the route keeper, the dray man, the loam man, the fencing man, the man of fifty-six, the clerk of nineteen years, the woman of fifty-eight and the man with the portfolio are all referred to by description in Chapters 201 to 210, exactly as Volume 04 referred to them. **Do not introduce a personal name in this volume's prose unless a chapter earns it on the page.**
+
+---
+
+## 1. The position the block ends in
+
+**The tenth of April is the day the yoke went on the tailboard and the eleventh is the day the dray went up the road. The block runs from the first of April to the eleventh of the fourth month of the eighteenth year after the Long Fracture, and the month turned once, in Chapter 201.**
+
+**Spent:** the lease's arrival, the lease's reading, the schedule of nine, the eight days, the word *lock*, the stranger's departure, the yoke, and the road. **Not spent:** the Lock Council's letter, the founder's chair, the record caves, the nine design signatures, the tolls in villages that did not sign, the regional covenant, the ninth signature. **Cael Orin has not appeared and does not appear in this block, and Adrian and the registrar have not met off the page and have not spoken in a room.**
+
+## 2. The calendar, derived and never carried
+
+- **The train arrived on the eleventh of February OF THE SEVENTEENTH YEAR. The tally is continuous and crosses a year boundary: 413 days at the last day of the third month, 414 at the first of April.** One more day per day of the fourth month. **Chapter 201 derives it out loud; derive it again and never carry it forward.**
+- **The board outside the room carries the twenty-fourth of December and has not been washed. The convention is 7 + 31 + 28 + 31 + the day of the fourth month, so 98 on the first of April.** One more per day.
+- **The unentered days since the twenty-fourth of November are 127 at the last day of the third month, so 128 on the first of April, and 128 plus the day of the fourth month less one.** One more per day.
+- **Volume 05 dates so far: 201 the first of April; 202 the second; 203 the third; 204 the fourth; 205 the fifth; 206 the sixth; 207 the seventh; 208 the eighth; 209 the ninth; 210 the tenth and the eleventh.** **The eighth of the fourth month is the last day in the stranger's column headed OPEN and it is the last day of the block.**
+- **No weekday is attached to any date.** Weekday names appear in Chapters 202, 203, 204, 205 and 206 as a character's idiom and a clerk of nineteen years enters that no weekday is attached to any date in this district. **Chapter 207 was corrected to remove a weekday and must not have one restored.** No metric and no twenty-four-hour clock.
+
+## 3. The eight days, which are the volume's engine and must reproduce exactly
+
+**Read out of the hand copy on the ninth of April in Chapter 209 and entered in the registrar's own book on the tenth of April in Chapter 210. In this order:**
+
+> **THE FIRST OF THE FOURTH MONTH. THE SECOND. THE THIRD. THE FOURTH. THE SIXTH. THE EIGHTH. THE TENTH. THE ELEVENTH.**
+
+- **Eight days inside eleven days. The fifth, the seventh and the ninth of April carry nothing in the column.** One night a night.
+- **The sheet does not say whether a day under the heading OPEN is a day the thing was open or a day it is to be open, and a clerk of nineteen years entered that four of the eight had already happened when the sheet was read on the fifth of April and four had not.** Do not settle it.
+- **The ninth row carries a word and not a day. The word is IT IS NOT A ROAD.** A word in a column headed OPEN is a finding and not a blank.
+- **The ninth place is where the toll on the lease is paid. The ninth holding on the delivery sheet at the second reservoir is the one nobody can account for. The two are a rhyme and have been refused as a join on the page twice, in Chapter 205 and again in Chapter 209. Do not join them.**
+
+## 4. The two words for the same things, which is a live thread
+
+- **The keepers' word is LOCKS and the Registry's word is GATES.** Chapter 205 recorded that this yard had been using the Registry's word for four days without knowing it was borrowed. **Chapter 209 has a man of about thirty at the counter give the district the house's word: his house has called them locks since before anybody living was born, and has a word for the man who keeps one and a word for the night he turns it.** A word is not a figure and is not a schedule and is not a document. **Nobody in this district has ever seen a keeper and no keeper has ever been on a page of anybody's.**
+
+## 5. The counts that did not move, and the counts a Batch 0002 writer may not move
+
+| Count | Figure | Note |
+|---|---|---|
+| Things this district does not have | **5** — a way of saying what a toll lands on a place, a column that is a place, an office, a station with nobody at it, a way to pay a person who is not in a household | **The fifth was named out loud in Chapter 199 and again in Chapters 201, 208 and 210. The yoke in this block was priced at nothing and the not-pricing is entered.** |
+| Instruments built and not named | **6** — a rehearsal, a platform, a rail, a correction, a question, a security | **Chapters 205, 207, 208 and 210 each refused a seventh candidate on the page: a rule printed over a yard, a title with no job, a room, a copy, a bench.** |
+| Documents nobody owns | **3** — the printed sheet at the fourth place, the notice about a party of nine who went thirty-four miles east, a line in a public book with four names on it and a figure under the four names | **No fourth was made. A strip of paper in a coat, a hand copy of a stranger's schedule, a bench, a word and a page in a drawer are all a document somebody owns.** |
+| Protected things | **5** | **No sixth was added. The woman's refusal in Chapter 210 and the woman's sentence in Chapter 209 are not protected things and were refused entry in the prose.** |
+| Conditions with no end on it | **4** | A different class. **A dray on a road on somebody's account is not one of the four and was refused entry in Chapter 207.** |
+| Refusals to join two things / the registrar's own count | **13 / 12** | **Neither moved on any of the eleven days from the first to the eleventh of April.** |
+| Refusals to read | **9**; the departure unspent; no date in the ledger | **Untouched. The fourth line of the offer was not read out in this block and must not be.** |
+| Refusals with no reason a clerk of a house has given | **6** | **Six on the fourth of April. A refusal with a reason given is not a seventh and was entered as such in Chapter 210.** |
+| Boards / lines full | **5 / 6**, seventh line at the ninth place ruled and empty | **Nobody put a line on a board in this block. The eight days went into a book and not onto a board.** |
+| Columns of not-askings | **4** | **No fifth was ruled in any of the ten chapters, and the refusal to rule one is stated at length in Chapters 207, 208 and 209.** |
+| A rate turning a year into coppers | **none, and there never has been one** | Restated in Chapter 210. |
+
+## 6. Who is who, in the words the prose uses
+
+- **The man the figure of twenty-one years is against.** The phrase survives the figure, which came off the ward market's own book on the thirty-first of March in the same line as the date. **The district kept the label and Ch 207 has him say nothing at all for nine seconds, which is the only time in the block that he does not speak when he could.** He is not named. He stood at the back of a public book against the tolls of a water route on the twenty-seventh of the third month and that is entered and unchanged.
+- **The registrar of this district's records office.** Her instrument is a room. She refuses in four seconds and gives the reason before she is asked, **three times in eleven weeks and three times in this block: the page on the second of April, the name on a line on the eighth, and the woman's walking the yoke down on the tenth.** She grants twice: a day and a sheet, and the eight days on the tenth. **The block's relationship movement is one refusal and one grant and a sentence in a lane on the seventh, and none of the three is a declaration.**
+- **The man of about thirty-four who digs loam.** Says the plainest thing. Refused to go up the hill in Chapter 209 without being asked to. His refusals to join two things are the mechanism of the volume and he says out loud in Chapter 207 that he is going to be careful with the stranger's four generations of keepers.
+- **The man of about thirty-four who mends fencing.** Asks the six things. **Said in Chapter 208 that he would ask the woman of fifty-eight himself in the morning and in his own words, and did not, and the not-asking is entered.** He carried two empty buckets up a hill for her in Chapter 209 and was not asked to.
+- **The man of fifty-six.** Secretary of a cooperative of nine households, not an officer of anything, not a friend of anybody in the yard. Says the figures. Not a clerk and has said so about himself eleven times in four months. **At the end of Chapter 210 a man asks him to write something down and he cannot and nobody writes it.**
+- **The man of about thirty-one who mends a dray at a forge end off Salt Row.** The fifth of the five posted securities and the fifth of the five things this district does not have. **Walked two days of road to a counter and came back on the third of April with a strip of paper saying his own name came off a sheet: he has been found and not released.** Offered a dray in Chapter 207, took the yoke off the stones in Chapter 209 without asking, and drove up the only road that climbs in Chapter 210 with the stranger beside him.
+- **The woman of fifty-eight.** Carried four yoke-loads a day up a hill for nine years; her round of about ninety houses ended on the twenty-fourth of the third month and this district took it off her and gave her nothing. **A man of about thirty-six who keeps a scale offered her four houses on the thirty-first of the third month and has not repeated it. Her round ended, the offer stands, the yoke went, and the fifth of the five was priced at nothing.**
+- **The man with the portfolio.** About forty-four, a lease clerk of a Registry, nine days in the district, sleeping on a bench outside a door with a fanlight over it that nobody gave him. **Refused the place three times and never once refused outright. Answered the third of the six things, the year, never. Said his body enters a no and dates it. Admitted out loud in Chapter 207 that nobody in five days asked what he came for. He left at about half past five on the eleventh of April with a dray.**
+- **The man of about thirty at the counter.** Four sheets for a house thirty-four miles east, down the eleven mile road, not sent for. **Refused the ninth holding six times with no reason. Gave the district the word locks on the ninth of April.**
+- **The man of about twenty-three who sells nothing and copies for nothing.** Owed eleven coppers a week and refused four times for the same reason. **Copied the schedule of nine rows in about fifty minutes on the sixth of April, gave the copy to a clerk, and it is the copy the eight days were read out of.**
+- **The route keeper.** Appears in Chapter 201 in person. In Chapter 205 a man of fifty-six noted that he was nine miles off and would be the man to ask and that nobody sent for him. **Not asked about the eight days. The record says not asked.**
+- **The man of about thirty-six who keeps a scale.** Corrected by his own question in Chapter 205 and again in Chapter 208, where he said the yoke in this district is a carrying yoke that has never pulled anything.
+
+## 7. Threads this block opened, and the chapter each stands at
+
+- **The eighth night is the eleventh of April and the ninth has a word instead of a day.** 209, 210.
+- **A dray is on a road with a stranger and a yoke and is nineteen days from the last day of the fourth month, when the lease has to be answered at a place with no name on it.** 210. **Nothing in this block says where the dray is or when it comes back.**
+- **The ninth place takes a toll and is not a road.** 203, 205, 208, 209.
+- **Four generations of keepers have never been on a page of anybody's, and this district has no instrument for asking anybody a day's walk north.** 207, 209.
+- **The fourth holding has not taken a drop since the first of the second month and a man opened a sluice for it on the night of the thirteenth of the third month.** 208, and refused as a join.
+- **The registrar told a stranger in a lane on the seventh of April that he is not a stranger, and would not say the rest of it.** 207.
+- **A man asked the man of fifty-six to write down the last true thing anybody said about a dray going up a road, and it was not written down.** 210.
+- **The strip of paper in the coat of the man of about thirty-one.** Untouched since the third of April and moved from the coat to the trestle table on the eighth without anybody asking.
+
+## 8. Guardrails a Batch 0002 writer inherits
+
+**Do not name a place on any document or in any narration.** The ninth place is what the documents say, and the Registry's place is named on the lease and not anywhere else. **Do not find or explain the office. Do not resolve the romance, and the volume must not end on a settlement. Do not join the ninth place to the ninth holding, the fourth holding to the road, the dray to the eight days, the four generations to the record caves, or the Registry's word to the keepers' word.** A resemblance noticed a second time is not a finding and a third time is a habit. **Do not touch:** Iven, the blank lot, the origin of the Common Measure, the First House, the removed signature, the three unexplained things of Volume 01, the iron, the Last Fare, the market stalls on the lower terrace, the name of the city on the agent's ledger, the name of the agent in any register in the west bank, the fourth line of the offer, the boy's name in a column in a building two days of road away, the two figures of five years and nine years.
+
+**A mark may not carry a job. A yoke-load is a job and is not a figure. Binding cannot create consent and a certificate is not consent. A person who has not been asked has not refused and cannot be counted either way and the record says not asked. An address is not a bearer. A name put on a figure cannot be taken off it by the person it is put on. A year is not an asset and there is no rate in this basin that turns one year into coppers.** Feet, inches, yards, miles, quarters, pounds, ounces, coppers, pints, degrees and the twelve-hour clock only. **No public market is built out of one reader. Selik Marne is a wary ally and not a friend and is not in this block.**
+
+**The counting motif is load-bearing and every figure in it must reproduce. Count the printed sentence, do not estimate it, and count it the way this block counts it: words separated by spaces and a hyphenated numeral is one word. A claim is one number word attached to one printed sentence. An all-caps restatement at the foot of a chapter that repeats a count must repeat the body's figure.** This block states **forty-four** word-count claims and **all forty-four reproduce**; the method used was a script matching the forms *counted it and got N*, *counted them and got N*, *counted the reason and got N* and *counted the sentence and got N*, with the following printed bold sentence recounted by hand where the script could not. **Nineteen numeric figures were wrong on entry and are repaired: three in the checkpointed Chapters 204, 205 and 206, and sixteen in the four new chapters, every one of the sixteen low and every one corrected by recounting and not by shortening the prose. Four prose slips in Chapters 207 and 208 were repaired by reading. The account is in the batch record at section 9.**
+
+## 9. What Batch 0002 opens on
+
+**Chapters 211 to 220, the twelfth to the twenty-first of the fourth month.** The volume outline's own shape for the block: the nine dates; a copy of the nine locks' standing orders that comes down with a dray; a route keeper who gives eight of the same nine differently and will not give the ninth; **the first letter the Lock Council has ever sent to Alder Reach, written politely and in writing, asking whether this district will send a man to a council;** and the woman of fifty-eight getting her round back for eleven houses and not ninety, and saying so. **Batch 0001 ends with a dray on a road and a ninth night with a word in it instead of a day. Batch 0002 must not resolve either.**

@@ -38,7 +38,7 @@ They asked him again at about half past eleven, in the six things, in front of a
 
 He said it again, and it was not the same words, and a man of about nineteen counted it and got fifty-eight, and it went in the minute in his own words.
 
-"**I said no on Thursday in fifty-two words and I am saying no again in fewer and I am not going to be asked a third time this week, and a man who says no twice in a yard has not stopped anything and I would like that written down in a line where somebody will find it.**"
+"**I said no on Thursday in sixty-seven words and I am saying no again in fewer and I am not going to be asked a third time this week, and a man who says no twice in a yard has not stopped anything and I would like that written down in a line where somebody will find it.**"
 
 A clerk of nineteen years entered that he asked for it to be written down, and that a man of fifty-six said it was not a clerk and had said so about himself eleven times in four months, **and that the sentence was written down in the minute in the man's own words and not in a figure and that a sentence in a minute in a person's own words is not a document this district can produce and is not one of the three documents nobody owns and did not become a fourth this morning.**
 
