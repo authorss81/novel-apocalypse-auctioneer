@@ -2,7 +2,7 @@
 
 ---
 
-The fifth of the eighth month came in about the same and about nineteen people were in the yard of Lot Seventeen by ten, and the man of about thirty-four who mends fencing had the three figures on the end of the trestle table and the man of fifty-six read the board out over his shoulder and got the other two right, and the man of about sixty-four was at the foot of the low wall along the lane with his coat folded beside him for the fifteenth night.
+The fifth of the eighth month came in about the same and about nineteen people were in the yard of Lot Seventeen by ten, and the man of about thirty-four who mends fencing had the three figures on the end of the trestle table and the man of fifty-six read the board out over his shoulder and got the other two right, and the man of about sixty-four was at the foot of the low wall along the lane with his coat folded beside him for the sixteenth night.
 
 "**Two hundred and twenty-four days on the board and five hundred and forty days on the train, and the days nobody has entered since the twenty-fourth of November stand at two hundred and fifty-four, and two hundred and fifteen days separate the second of January and this morning, and the first day of the eighth month is four days past this morning, and the ninth of the nine printed nights is a hundred and seven days back, and the pool of refusals with no reason a clerk of a house has given last moved on the twenty-fourth of the third month, which is four months back and a hundred and thirty-four days, and the table against that wall stood up for the thirtieth time this morning, and the chair at the end of this table has stood a hundred and four days and nobody has sat in it on any of them.**"
 
