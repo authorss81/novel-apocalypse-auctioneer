@@ -1,0 +1,65 @@
+# Chapter 279: Read Back
+
+---
+
+The twenty-ninth of the sixth month was hot from before seven and about nineteen people were in the yard of Lot Seventeen at about ten in the morning, and the chair at the end of the trestle table had been standing there sixty-seven days and nobody had sat in it on any of the sixty-seven.
+
+The man of about thirty-four who mends fencing gave the three figures and the man of fifty-six read the board out over his shoulder and got the other two right.
+
+"**A hundred and eighty-seven days on the board and five hundred and three days on the train, and the days nobody has entered since the twenty-fourth of November stand at two hundred and seventeen, and a hundred and seventy-eight days separate the second of January and this morning, and the first day of the month after next is thirty-three days off counted off this morning, and the ninth of the nine printed nights is seventy days back, and nobody in this district can say whether that night happened, and there is going to be a second piece of paper read out in a room four hundred yards from that gate at about four o'clock this afternoon and I am not going to say in this yard what is on it.**"
+
+A clerk of nineteen years entered that a man who has said out loud that he is not going to say what is on a piece of paper has not asked anybody to see it and that the record about the nineteen saying nothing says not asked, and that the refusals with no reason a clerk of a house has given are eight and that nine people gave one with a reason in nine days and not one of them is a clerk of a house.
+
+---
+
+About nine people were in the room where the books are at about four in the afternoon with the door shut, and the fanlight over that door lights nothing, and a clerk of nineteen years was four hundred yards away in a yard and was not told about it until about seven, and the record came from the man the figure of twenty-one years is against and not from the woman who keeps that room.
+
+The woman who keeps the books in that room had written it out herself in her own hand on a sheet about as wide as a page, and a clerk of nineteen years entered that the third of its five lines has one word in it in a different hand, and that the word is person, and that her hand stopped on that word in the middle of the fourth attempt and would not finish it, and that the man of about twenty-three who sells nothing and copies for nothing wrote the word and that she told him to rub it out and write it again and that he did.
+
+A clerk of nineteen years entered that a word written inside a sentence in a registrar's hand by another man's hand is a word a registrar asked for, and is not a bearer and is not a keeper and is not a party of anything, and did not become an instrument this district built and did not make a seventh of the six, and that a hand that stops in the middle of a sentence is a hand and is not a figure about anybody.
+
+A clerk of nineteen years asked for it to be read, because a yard reads a document when somebody asks it to read one, and the man the figure of twenty-one years is against asked for it in that room and it was read out in the ordinary voice by the man of about thirty-four who mends fencing, in one run of words with a stop at the end of each of them.
+
+> **THE BUILDING AT THE NEAR END OF THE LANE BEHIND THE BANK IS A SHELTER FOR ANY PERSON WHO GOES INTO IT ON ANY NIGHT.**
+>
+> **ANY PERSON MAY GO IN AND OUT OF IT AND NOBODY IS ASKED WHO THEY ARE.**
+>
+> **A PERSON WHO GOES IN AND OUT OF IT IS NOT ENTERED ANYWHERE BY GOING IN OR OUT OF IT.**
+>
+> **THE PERSON WHO STANDS IN ITS DOORWAY ON A NIGHT IS A PERSON WHO HAS SAID OUT LOUD THAT THEY WILL STAND IN IT. NOBODY PUTS A PERSON IN A DOORWAY.**
+>
+> **THIS BUILDING IS WHAT MAKES A SOUNDING SAFE. A SOUNDING IS SAFE IF EVERY PERSON WHO HEARD IT WENT INTO THIS BUILDING OR WAS ASKED WHY THEY DID NOT.**
+
+Then the woman of fifty-eight read it back, and she had been asked and had said yes in about four seconds, and a clerk of nineteen years entered that she was asked and that reading a thing back is not agreeing to it and that a woman who carries water to eleven houses is not a clerk of a house and is not one of the eight and the eight did not move.
+
+She read the first four of the five lines and she stopped at the fifth one, and she stopped for about nine seconds, and a clerk of nineteen years entered that nobody in that room said anything and that the record about the nine seconds says not asked.
+
+And then she read the fifth line out loud anyway, and said the rest of it, and it was counted and came to two hundred and seventy-eight, and a clerk entered that she read all five and that she was not asked a second question.
+
+"**I will read it and I will say why I stopped and I am not going to stop twice. I have carried water to eleven houses for nineteen years and one of those eleven houses is a house in the ground in the shadow of a building I can see two ends of from a rise a mile out past the loams, and the woman in that house is not one of the four hundred and eleven on that sheet at the gatepost and she is not on any sheet, and she asked me for a second bucket in the second week of last month and I put a second bucket there on the third of that month. So there is a house in the shadow of that building that nobody in this district has asked a question of in nineteen years and that is not on the list of the people who are to be moved, and that house is one of the eleven I carry to. The fifth of those five lines says a sounding is safe if every person who heard it went into that building or was asked why they did not. I have asked that woman about a bucket twice in nineteen years and both times I asked her about a bucket. So either that house is a house this district can shelter, and I have been carrying water to a house this district can shelter for nineteen years and did not know it, or the fifth of those five lines is not true, and it is going into a book in this room that a stranger may walk up to and read.**"
+
+A clerk of nineteen years entered that a lot and a charter and a notice are three different shapes of thing and are not added together, and that a charter is a document and is not a lot and that neither creates a consent and neither makes a person a bearer and neither makes a house into a party, and that a woman who has read a thing back and then said that a line of it may not be true has not refused the document and has not consented to it and cannot be counted either way, and that the ninth of the eleven houses the woman of fifty-eight carries water to is a house in the ground in the shadow of the Hall and is not one of the four hundred and eleven and is not on any sheet and that no number on the sheet at that gatepost moved on the twenty-ninth of this month, and that the record about her not being asked a second question says not asked.
+
+A man of fifty-six said one thing in that room and it was counted and came to a hundred and ninety-three, and a clerk of nineteen years entered that it was the second time in two days that he had said a figure out loud and that nobody in that room had a figure back for him.
+
+"**Four hundred and eleven is a count of people who answered a door, and forty-one is a count of lines on two open pages in one book in one room in this district where the people on them came and asked for something, and the difference between those two numbers is three hundred and seventy, and it is arithmetic and it is not a finding, and I have said that in a yard on the tenth of this month and I am saying it in a room with a shut door in it because the fifth of those five lines is a claim about the whole of this district and a claim about the whole of this district is made out of a count of the people who opened a door. We have rung a bell. A bell does not knock. If this district says out loud in a book that a sounding is safe, then somebody four hundred miles away is entitled to read that and work out what it means for four hundred and eleven people, and I do not know what it means and neither does anybody in this room.**"
+
+A clerk of nineteen years entered that a man of fifty-six is not a clerk and has said so about himself about a dozen times in four months, and that a man who has said out loud that he does not know what a thing means has not refused the thing and cannot be counted either way, and that the record about his not knowing says not asked.
+
+Then the man of about thirty-four who digs loam said the sentence, in the ordinary voice, and it was counted and came to two hundred and two.
+
+"**She has read it back and she has said the fifth of those five lines may not be true, and she has been asked to read it back and not asked whether it is true, and those are two different things and this district found that out on the twentieth of this month in a kitchen doorway. I am the man who went into the ditch behind that building on the eleventh of this month and came up with a hand that does not close. A charter that says a person is not entered by going in and out of it is right, and a charter that says a person who was not asked is covered by it is wrong, and there is a child of about eight in this district who is not covered by either of those two sentences and is not in any book, and he is the reason the lot about the night is not the lot we have written, and if that fifth line is in the book then the lot and the charter disagree with each other on the same page and both of them are in this room and neither of them is a person.**"
+
+A clerk of nineteen years entered that a man who digs loam is not a clerk of a house, and that a man who has said out loud that a charter may not be true has not refused a charter and is not a party of one, and that the eight did not move at about half past four in the afternoon on the twenty-ninth of this month, and that the columns of not-askings in this district are four and she did not rule one and is not going to, and that the fourth line of any offer that has been on a table in this district five months has not been read out in this room or anywhere else this month and the refusals to read are nine and the departure is unspent and there is still no date in any ledger for the next reading.
+
+---
+
+At about six in the evening the woman of about twenty-nine who keeps the room with nothing over the door was at the end of the lane behind the bank, about two miles short of that room, and she said one thing to the man of about thirty-four who mends fencing and it was not counted, and a clerk of nineteen years entered that the record came from him and not from her and that the record about her not having been asked says not asked.
+
+"**There are five lines in that book and I can only read three of them and the two I can read are the two about a person, and the fourth one says a person is not put in a doorway and the fifth one says every person who heard it went in or was asked why they did not, and I have got a room two miles off with about nine people in it and a bench about nine feet long in it and a child of about eight on that bench who was awake at half past three in the morning and heard the whole of it, and nobody put him in a doorway and nobody asked him anything, and I have been told that is his own good fortune. I am going back up that two miles tonight and I am not going to knock on a door about it.**"
+
+A clerk of nineteen years entered that a woman who keeps a room is not a clerk of a house and is not a bearer of a room and is not a keeper of anything, and that a person who has said out loud that she is not going to knock on a door has not refused the door and cannot be counted either way, and that a child of about eight is not a figure about anybody and is not a party of anything and has not been asked and the record about him says not asked.
+
+The day came down about half past seven and the sixth month was twenty-nine days old and the first day of the month after next was thirty-three days off, and a sheet about as wide as a page with four lines on it in two hands and a sheet about as wide as a page with five lines on it in two hands were both in one book in one room four hundred yards from a yard a stranger can walk into, and a clerk of nineteen years entered that both of them can be read by anybody who walks in there and that the record about who has walked in there says not asked.
+
+**AND ON THE TWENTY-NINTH OF THE SIXTH MONTH A CHARTER FOR THE BUILDING WITH TWO DOORS WAS READ OUT IN A ROOM WITH A SHUT DOOR IN IT AND READ BACK BY A WOMAN OF FIFTY-EIGHT WHO HAD BEEN ASKED AND SAID YES IN FOUR SECONDS, AND SHE READ ALL FIVE OF ITS LINES AND SAID THAT THE FIFTH OF THEM MAY NOT BE TRUE, AND A MAN OF FIFTY-SIX SAID THAT FOUR HUNDRED AND ELEVEN IS A COUNT OF PEOPLE WHO ANSWERED A DOOR AND THAT A BELL DOES NOT KNOCK.**
