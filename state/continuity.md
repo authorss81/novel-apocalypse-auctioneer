@@ -1,6 +1,8 @@
-# Continuity — LIVE, Volume 05 (*The Nine Locks*, Chapters 201–250)
+# Continuity — LIVE, Volume 08 (*What Holds Without a Name*, Chapters 341–390) closed, on top of Volumes 05 to 07
 
-**Scope of this file: Volume 05 only.** Everything before Chapter 201 was rotated to `state/archive/continuity-through-volume-04.md` on the Batch 0005 review repair, verbatim, because the file had reached 610,758 bytes and a phase could no longer load it. Nothing was lost.
+**Scope of this file: Volume 05 onward, with Volume 08 closed at Chapter 390 and `state/volume-08-close.md` and `state/volume-08-roll-summary.md` both written.** Everything before Chapter 201 was rotated to `state/archive/continuity-through-volume-04.md` on the Batch 0005 review repair, verbatim, because the file had reached 610,758 bytes and a phase could no longer load it. Nothing was lost.
+
+**THE HEADER ON THE LINE ABOVE SAID VOLUME 05 UNTIL THE REVIEW OF THE VOLUME 08 CLOSE CAUGHT IT, THREE VOLUMES STALE, AND IT IS CORRECTED HERE.** Nothing below it was rewritten, because the sections above are the record of their own blocks and the sections at the end are the live ones. **AND THIS FILE IS 400 KB AND MUST NOT BE LOADED WHOLE: read it newest section first — section 17, which is the Volume 08 close — and treat `state/volume-08-roll-summary.md` as the volume index, which is what it is.**
 
 **The sections below are in chronological order, oldest first, and the last section of each batch is the one that describes its final chapter.**
 
