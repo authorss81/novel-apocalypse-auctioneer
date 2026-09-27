@@ -1,0 +1,57 @@
+# Chapter 254: The Routes
+
+---
+
+About nine people came back down the four miles at about four in the morning on the fourth of the sixth month, in fours and fives and one of them on her own, and they were wet to the knee, and a clerk of nineteen years was at the gate of the yard of Lot Seventeen because she had not gone to bed and entered the whole of it before anybody said anything about it.
+
+She entered that nine people went out at about eleven o'clock the night before and that nobody sent for any of them, that the woman of about thirty-one who keeps a route was in front, that the man of about thirty-four who keeps a road was in front of her and had not been asked to be, that the route was not written down before they went and was not written down after they came back, and that the record about the route says not asked, and that a route is not a road and a road is not a route and neither of them is a document and neither of them is one of the three documents this district does not own.
+
+The woman of about thirty-one had a cut about the length of two fingers on the inside of her left shin, and the wire on the left of the lane behind the bank had taken it, and it had taken it in the same place it took the inside of a wrist on a shoulder in the last month, and she had walked four miles back with it and had said nothing about it and had not limped, and a clerk entered that she said nothing and that the record about the wire and the two fingers says not asked.
+
+The woman of fifty-eight was at the top of that bank at about ten minutes to four in the morning with a lamp and a bucket, because she comes down at six most mornings and had come down at four, and she saw the nine of them come the last two hundred yards in fours and fives and put the lamp down and picked it up again and did not say one word to anybody, and a clerk of nineteen years entered that nobody asked her anything and that the record about the lamp and the two hundred yards says not asked, and that a woman who carries water to eleven houses saw nine people come in out of a wet lane in the dark and is not a figure about them and is not a party of anything.
+
+---
+
+By ten in the morning it was warm and about nineteen people were in the yard of Lot Seventeen and the chair at the end of the trestle table had been standing there forty-two days.
+
+The man of about thirty-four who mends fencing gave the three figures and the man of fifty-six read the board out over his shoulder and got the other two right.
+
+"**A hundred and sixty-two days on the board and four hundred and seventy-eight days on the train, and the days nobody has entered since the twenty-fourth of November stand at a hundred and ninety-two, and a hundred and fifty-three days separate the second of January and this morning, and about nine people walked four miles in the night and came back wet to the knee and there is not one line about where in this book.**"
+
+Then the man of about thirty-four who digs loam, whose right hand had not been much use to him since yesterday afternoon and who had not said so, refused the join that had been sitting in that yard all morning, and the count came to a hundred and fifty-nine.
+
+"**Somebody in this yard this morning was going to say that the four hundred and eleven could be put into nine and that nine lines is nine doors and that nine doors is what we have already done. It is the same join I refused in this yard on the fourteenth and twenty-eighth of the month before last and on the second-to-last day of last month and it is the same join and I am refusing it a fourth time and a clerk can write down that a join is a join and that a fourth refusal of one join is one join with four days of people watching it and not a fourth of anything. Nine lines with nobody standing at them is a page with nine places ruled on it. I have held that page in my hand. I know what an empty ruled place looks like and I am not going to help anybody make one.**"
+
+A clerk of nineteen years entered that the refusals to join two things are thirteen and the registrar's own count is twelve and that neither of them moved at about ten in the morning on the fourth of the sixth month, and entered that a join is a join, and that a refusal of one join a fourth time is one refusal and not a fourth, and that the number of people watching it is not a reason and is not a figure about anybody.
+
+A man of fifty-six said that the man who digs loam had now refused one shape of true sentence about a page for the fourth time in five weeks, and that a shape noticed a second time is not a finding and a third time is a habit and a fourth time is a man who has made a rule and is going to have to live on it, and that he was not going to enter it a fifth time and would not thank him for it.
+
+Then the woman of about thirty-six who keeps a scale, who has stood at that scale nine years at the sluice end of the loams, had been standing at it since about six in the morning, and a clerk entered that nobody sent for her and that she was not asked a first thing and that the record about the six in the morning says not asked.
+
+About nineteen sacks had gone across that scale that day instead of about nine, because nine people who had walked four miles in the night had brought their own sacks down and wanted them weighed and nobody had asked them to bring them, and a clerk of nineteen years entered that a person who brings a sack to a scale is not a person who has been entered anywhere and that a figure of nineteen sacks is not a figure about nineteen people and is not a column.
+
+The woman of about thirty-six who keeps a scale said the thing about the sacks and it was counted and it came to a hundred and forty-eight.
+
+"**I have stood at this scale nine years and I weigh about nine sacks a day and I know what a wet sack is and what a dry one is and I know that a sack of somebody else's seed weighs more than a sack of mine by about a stone and a half because they have been in the rain and I have not. There is no figure on this yard about me and there has never been one and I have not asked for one. If four hundred and eleven people are on a piece of paper then that paper has got four hundred and eleven sacks on it in a man's head, and I have got a beam and a weight and a pair of hands and I am telling you that a man with a paper is carrying a thing I could not lift.**"
+
+A clerk of nineteen years entered that a weight a woman knows about her own scale is not a rate and is not a figure about a person and is not a column, and that the five things this district does not have are five and the fifth of them is a way to pay a person who is not in a household and did not move at about two in the afternoon on the fourth of the sixth month, and that there is still no rate in this basin that turns a year into coppers and there never has been one.
+
+She stood at that scale until about half past five in the evening and could not get her right arm above her shoulder afterwards and had to take the beam down with her left hand, and the man of about thirty-four who mends fencing held the slate she writes the weights on while she wrote the last four, and it took her about nine minutes to write four numbers with her left hand and a clerk of nineteen years entered that nobody counted the nine minutes and that the record about the arm and the four numbers says not asked.
+
+The woman of about thirty-three who keeps a goat, who is at the third house up the lane from the scale and who is not the woman of fifty-eight and is not the woman who keeps a route and is not the man who keeps a tally, said the thing about holding the slate and it was counted and came to a hundred and twenty-eight.
+
+"**I have kept a goat for eleven years and I have held a bucket and a rope and a kid that did not want to come and nothing else heavier than about nine pounds since the spring. I held that slate for nine minutes this afternoon for a woman who could not lift her arm and I could not get my hand round the edge of it at the end, and it is a piece of slate. I have not been asked to hold anything else this month and I would like it written down that I said no to a second thing this afternoon before I was asked and that I said it in twelve words, and I am not going to say the twelve words twice.**"
+
+A clerk of nineteen years entered that a woman who keeps a goat is not a clerk of a house and that a refusal with a reason is not one of the refusals with no reason a clerk of a house has given, that a man who holds a slate for a person who cannot lift her arm is not that person's keeper and is not a bearer of anything, and that the eight did not move at about half past five in the afternoon on the fourth of the sixth month, and that the count of instruments this district has built and not named is six and a slate held in a hand for nine minutes is not a seventh of them and is not a job.
+
+The twelve words she had promised are these, and the clerk wrote them in her own hand and read them back to her and she said she had got them.
+
+> **I AM NOT A SECOND HAND AND I WILL NOT BE ONE**
+
+A man of about twenty-nine then suggested that somebody should walk the ground in the shadow of the Hall and count the doors and put the number in chalk on a board, and the man of about thirty-four who digs loam said that a set of doors counted in chalk is a column with a word over it, and a clerk of nineteen years entered that the four columns of not-askings in this district are four and she did not rule one and is not going to, and that a chalk figure on a board is not a finding and is not a person and cannot be asked a question.
+
+The man of about forty-eight who keeps a tally for six households came into that yard at about half past four and said out loud, before anybody had asked him for it, that his six have not moved in forty-four days, and that one signed and two refused and three not asked again, and that he was going to say that once and not again this month, and a clerk entered that he said it and that nobody asked him and that a man who keeps a count of six households is not a clerk of a house and is not one of the eight and that the eight did not move.
+
+The woman of fifty-eight came down the bank at about six with two buckets and put them down where she puts them and the man of about thirty-four who mends fencing carried one up, and a clerk entered that nobody counted the buckets, and that a bucket is about eleven pounds full, and that nobody in this basin has ever asked her, and that the record about the two buckets says not asked.
+
+**AND ON THE FOURTH OF THE SIXTH MONTH ABOUT NINE PEOPLE WALKED FOUR MILES IN THE NIGHT AND CAME BACK WET TO THE KNEE AND THE ROUTE WAS NOT WRITTEN DOWN BEFORE THEY WENT AND WAS NOT WRITTEN DOWN AFTER THEY CAME BACK, AND A MAN REFUSED THE SAME JOIN A FOURTH TIME AND THE THIRTEEN AND THE TWELVE DID NOT MOVE, AND A WOMAN WHO KEEPS A GOAT HELD A SLATE FOR NINE MINUTES AND COULD NOT GET HER HAND ROUND THE EDGE OF IT AT THE END.**

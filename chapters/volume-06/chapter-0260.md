@@ -1,0 +1,73 @@
+# Chapter 260: The Difference Between The Two Numbers
+
+---
+
+The tenth of the sixth month was hot by nine and about nineteen people were in the yard of Lot Seventeen at about ten in the morning, and the chair at the end of the trestle table had been standing there forty-eight days and nobody had sat in it on any of the forty-eight.
+
+The man of about thirty-four who mends fencing gave the three figures and the man of fifty-six read the board out over his shoulder and got the other two right.
+
+"**A hundred and sixty-eight days on the board and four hundred and eighty-four days on the train, and the days nobody has entered since the twenty-fourth of November stand at a hundred and ninety-eight, and a hundred and fifty-nine days separate the second of January and this morning, and the first day of the month after next is fifty-two days off, and the ninth of the nine printed nights was the twentieth of the month before last, which is fifty-one days back, and nobody in this yard knows whether that night happened.**"
+
+A clerk of nineteen years entered that the twentieth of the fourth month is the month before last as of this morning and was the last month on the last day of the month before last, that it is the ninth of the nine printed nights, that the third month is two months back and is to be called that, and that a relative month is a figure about words and is not a figure about a date and is not a column and did not become a fifth column of the four.
+
+Then the man of about thirty-four who digs loam, who had been in the room where the books are at about four in the morning on the seventh of this month and had counted what was on the two open pages of the second book in front of him and had been entered in a minute as not having been asked a first thing, said the thing this block has been standing in the middle of since the second of this month, and the count came to a hundred and ninety-eight.
+
+"**I have got two numbers about the same people and I am going to say both of them out loud and then I am going to say the thing that is wrong with them, and I want the thing that is wrong with them said as loudly as the numbers. The first number is four hundred and eleven and it is on a sheet at a gatepost and it is a count of the people who answered a door. The second number is forty-one and it is the two open pages of one book in one room four hundred yards from this gate at four in the morning on the seventh, and I counted them with my own finger on the lines and I was not asked to and I did not ask. Three hundred and seventy is the difference between those two numbers and I am not going to stand in this yard and say that three hundred and seventy people are going to be moved on the first of the month after next, because a subtraction of a piece of somebody else's paper and two pages of one book is not a finding. It is arithmetic.**"
+
+A clerk of nineteen years entered that a subtraction of a printed number and the open pages of one book is not a finding and is not a column and is not one of the five things this district does not have and did not become a seventh of the six, and entered that the two numbers are two numbers and are not added together and that a man who counts a page in front of him at four in the morning has not been authorised by anybody and has not refused anybody, and that the record about the forty-one says not asked.
+
+Then he said the rest of it, and it was counted, and it came to a hundred and eighty-one.
+
+"**And here is what the difference actually is, and it is not a number, so a clerk is going to have to put the reason in instead of the figure. Three hundred and seventy is the size of the number and it is not the size of the thing. The thing is that four hundred and eleven was got by knocking and forty-one was got by somebody opening a door of their own and saying so, and one of those two methods is this district's whole method and the other one is the one that got the sheet, and the difference between the two methods is the three hundred and seventy people in the middle who have not been asked anything by anybody at all, and have not refused, and cannot be counted either way. They are not a figure. They are the hole in the middle of this month and this yard has been writing things with a hole in the middle of them since the eighteenth of last month and this is the first one that is about people.**"
+
+A clerk of nineteen years entered that a person who has not been asked has not refused and cannot be counted either way and that the record about the three hundred and seventy says not asked, and that a hole in a sheet about people is not the same shape of thing as the hole in the third column of the covenant and that the two are not joined and were not joined in this yard this morning.
+
+Then the man the figure of twenty-one years is against said the thing that has been in him for nine days, and it was counted, and it came to a hundred and seventy-one.
+
+"**I have got nine sheets in nine rooms and a covenant in a book a stranger can walk up to and a clerk of nineteen years and a notice under the leg of a table, and I can put any nine people in this basin behind any nine of those nine doors in a week. I have not been able to get one name out of the ground in the shadow of that Hall in ten days and I have not tried, and I am not going to, and I want that said out loud in this yard by me and not found out about me in a month. I have been standing next to the thing for ten days and I have been calling it representing it, and it is not that. A door is a thing you build for the people who come to it, and I have built nine, and the only people who have come to them are the ones who already had a reason to come.**"
+
+A clerk of nineteen years entered that a man who convenes nine settlements is not a representative of a settlement that has not asked to be represented, and that a man who has said out loud that what he has been doing for ten days is not what it is called has not withdrawn the ten days and that the record about the ten days says not asked, and entered that a name put on a figure cannot be taken off it by the person it is put on and that this is the same rule that caught him on the twentieth of last month and that it is the only instrument in this basin that has ever been fair to both ends of a thing.
+
+A man of fifty-six said the one sentence this yard is going to have to live with for the rest of the month, out loud, in the ordinary voice, and it was counted and it came to a hundred.
+
+"**You have been standing next to a thing and calling it representing it. Standing next to a thing is not standing in its place. I have said that sentence in about nine yards and in about nine doorways since the second of April and I have never once said it to you, and I am saying it to you this morning because you have had it yourself this morning and you have done the work and I am not going to be a man who takes a thing off a man who has just found it out on his own.**"
+
+A clerk of nineteen years entered that the man of fifty-six said it and that nobody in that yard said it after him, and that a sentence said once by a man who is not a clerk is a minute and is not a document and is not one of the three documents this district does not own and did not become a fourth of them.
+
+---
+
+A clerk of nineteen years entered the things that had not moved in ten days, and they were in the same hand as the rest and they were not a paragraph.
+
+She entered that the rival record has now been in force for ten days and has been read out in that yard seven times and that the seventh was on the twenty-first of last month and that nobody has answered it and that a body four hundred miles away does not have to be told anything twice and that nobody in this district is going to carry a page out of that office to answer it.
+
+She entered that the things this district does not have are five and the fifth of them is a way to pay a person who is not in a household, that the instruments this district has built and not named are six and a seventh was not proposed in ten days, that the three documents this district does not own are three, that the protected things are five and no sixth was added and that a building with two doors is not a sixth, that the conditions with no end on it are four, that the refusals to join two things are thirteen and the registrar's own count is twelve and that neither moved on any of the ten days, that the refusals to read are nine and the departure is unspent and there is still no date in any ledger for the next reading and the fourth line of the offer was not read out, that the refusals with no reason a clerk of a house has given are eight and that five people gave one with a reason in ten days and not one of them is a clerk of a house, that the refusals about the ninth holding are seven and did not move and the two are not the same figure, and that there is still no rate in this basin that turns a year into coppers and there never has been one.
+
+She entered that nobody put a line on a board on any of the seventy-one days since the first of the fourth month, counting the first day in, and that the chair at the end of the trestle table had been moved four feet once and has stood forty-eight days and that nobody has sat in it on any of the forty-eight, and that the six households of the man of about forty-eight who keeps a tally have not moved on any of the fifty days since the twenty-first of the month before last and that the figure is his and was said by him and was not asked for.
+
+She entered that the man of about thirty at a counter is at the sixteenth time down the eleven mile road and the next is the seventeenth and that this district has never once given that man a day to be here on and gave him none in ten days, and that the man of about forty-one who keeps a road house at the top of the road that climbs is not in this district on any of the ten days either, and that the man with the portfolio is not in this district and that nothing in this yard says where he is.
+
+She entered that this district has five different ninths in it and that they are the ninth of the nine charters, the ninth of the eleven houses the woman of fifty-eight carries water to, the ninth of the nine printed nights, the ninth place on the page out of the cave and the ninth of the ten days this block runs, and that they are five ninths and are not added together and are not a pattern.
+
+---
+
+The woman of about thirty-four who keeps a goat, who is at the third house up the lane from the scale, came down the lane at about half past four and told the man of about thirty-four who mends fencing that the woman who keeps the scale had said she was going to sit at that scale on the eleventh of this month whether anybody was there or not, and that she had said it in front of nine people in a room with no name over the door and that nobody had asked her what for.
+
+A clerk of nineteen years entered that a woman who keeps a scale and a woman who keeps a goat are two people in two trades about two hundred yards apart and are not joined, and that a person who has said out loud that she is going to be somewhere on a day has not signed anything and is not a bearer of the eleventh, and that the record about the eleventh says not asked.
+
+Then the man of about thirty-four who mends fencing carried a slate down about four hundred yards of lane and it went past the kitchen at the end of that lane, and he had carried it past there twelve times before and this was the thirteenth, and no clerk in this district has written down on which days any of the twelve went past, and that was not repaired this month either.
+
+The registrar of this district's records office was in the kitchen doorway with her sleeves turned up and there was no chalk on the step, and the fanlight over the door of the room where the books are does not light anything, as it has never once lit anything in four months.
+
+He wrote one line on the side of the slate that faced her and put it down on the step and neither of them said anything about what was on it while he was writing it, and a clerk of nineteen years was four hundred yards away and was not told about it until about seven, and the record came from the man of about thirty-four who mends fencing and not from her, and she entered that a slate is not a book and is not a page and is not one of the three documents this district does not own and did not become a fourth of them, and that a sentence written on a slate and carried back down a lane by the man it was written to is not in any of the four places this district has written a thing in, and that a fourth place is not a fifth.
+
+He said one thing and it was not counted, because there was nobody there to count it and the record about it is in a minute in his own words and is not in a book.
+
+"**I am not going to ask you what is on it. I have asked you nothing for ten days and I am not going to start this afternoon.**"
+
+And she said one thing back, and it was not counted either, and the minute is in the same hand and is not in a book.
+
+"**Then do not come and find me about the forty-one. That is what is on it, and you counted them off a page of mine at four in the morning with your own finger on the lines, and I have known that since the seventh, and I have not said anything about it in a yard, and I am not going to. If you come and find me about it, then I am a woman you got a number out of in a room, and that is the fifth thing this district does not have and I have refused it once this month already.**"
+
+The day came down about half past seven. The sixth month was ten days old and the eleventh of it is tomorrow and a building with two doors in it is to be shut by a keeper whose column is empty, and about three feet of rope is gone off a beam four miles out past the loams and about nine inches of it is left, and a sheet at a gatepost has one number and one day on it, and the two open pages of one book in one room have forty-one lines on them out of a number nobody has arrived at by any method this district knows.
+
+**AND ON THE TENTH OF THE SIXTH MONTH A MAN SAID OUT LOUD IN A YARD THAT FOUR HUNDRED AND ELEVEN AND FORTY-ONE ARE TWO NUMBERS AND THAT THREE HUNDRED AND SEVENTY IS ARITHMETIC AND NOT A FINDING, AND A MAN SAID OUT LOUD THAT A DOOR IS A THING YOU BUILD FOR THE PEOPLE WHO COME TO IT AND THAT HE HAS BUILT NINE, AND A MAN OF FIFTY-SIX TOLD HIM THAT STANDING NEXT TO A THING IS NOT STANDING IN ITS PLACE, AND A SLATE WENT PAST A KITCHEN FOR THE THIRTEENTH TIME AND CAME BACK WITH ONE LINE ON IT THAT WAS ABOUT FORTY-ONE AND NEITHER OF THEM SAID ANOTHER WORD ABOUT IT.**
