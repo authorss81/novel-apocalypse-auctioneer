@@ -91,15 +91,17 @@
 
 ### 4.1 LENGTH, BY `wc -w`, AND THE BAND
 
-| Ch | words | Ch | words |
-|---|---|---|---|
-| 301 | 2,511 | 306 | 2,673 |
-| 302 | 2,492 | 307 | 2,440 |
-| 303 | 2,388 | 308 | 2,493 |
-| 304 | 2,503 | 309 | 2,403 |
-| 305 | 2,497 | 310 | 2,575 |
+**RE-MEASURED AFTER THE REVIEW REPAIRS IN SECTION 8, BECAUSE A PROSE REPAIR MOVES THE WORD COUNTS AND A STALE LIST IS A DEFECT AND NOT A ROUNDING. THE FIRST TEXT OF THIS TABLE IS PRINTED BESIDE THE SECOND.**
 
-**The block is 24,975 words by `wc -w` and 24,883 on the Batch 0001 denominator, which drops the headers, the rules and the bold markers. All ten chapters sit inside the ordinary 2,200 to 3,200 band and there is no departure to disclose. The shortest is 2,388 at Chapter 303 and the longest is 2,673 at Chapter 306. Volume 06's fifty chapters were 126,803 and its five blocks were 24,116 to 26,854.**
+| Ch | words, first text | words, repaired | Ch | words, first text | words, repaired |
+|---|---|---|---|---|---|
+| 301 | 2,511 | **2,554** | 306 | 2,673 | **2,673** |
+| 302 | 2,492 | **2,492** | 307 | 2,440 | **2,440** |
+| 303 | 2,388 | **2,393** | 308 | 2,493 | **2,519** |
+| 304 | 2,503 | **2,533** | 309 | 2,403 | **2,403** |
+| 305 | 2,497 | **2,508** | 310 | 2,575 | **2,577** |
+
+**The block is 25,092 words by `wc -w` and 25,000 on the Batch 0001 denominator, which drops the headers, the rules and the bold markers, against 24,975 and 24,883 on the first text. All ten chapters sit inside the ordinary 2,200 to 3,200 band and there is no departure to disclose. The shortest is 2,393 at Chapter 303 and the longest is 2,673 at Chapter 306. Volume 06's fifty chapters were 126,803 and its five blocks were 24,116 to 26,854.**
 
 ### 4.2 THE COUNTING MOTIF, CLASS ONE AND CLASS TWO, AND THE CALIBRATION
 
@@ -109,18 +111,20 @@
 |---|---|---|---|---|---|
 | 301 | **2** | 82, 139 | 306 | **3** | 249, 219, 159 |
 | 302 | **3** | 230, 136, 152 | 307 | **3** | 184, 128, 151 |
-| 303 | **3** | 227, 256, 135 | 308 | **3** | 226, 196, 122 |
-| 304 | **3** | 211, 147, 234 | 309 | **2** | 435, 178 |
-| 305 | **2** | 165, 154 | 310 | **2** | 200, 153 |
+| 303 | **3** | 227, **262**, 135 | 308 | **3** | 226, 196, 122 |
+| 304 | **3** | **215**, 147, **260** | 309 | **2** | 435, 178 |
+| 305 | **2** | 165, 154 | 310 | **2** | 200, **156** |
 | | | | **Block** | **26** | **0 mismatches** |
 
 **NO PRINTED SPAN IN THIS BLOCK IS CLAIMED IN THE FORM *IN N WORDS*, AND THE SECOND-CLASS SWEEP RETURNS ZERO SHAPED CLAIMS.** The widest class-one claim in the block is **four hundred and thirty-five at Chapter 309**, which is the widest in three hundred and ten chapters, against three hundred and ninety-two at Chapter 277 of Volume 06. **IT IS DISCLOSED AND NOT TARGETED, AND THE BLOCK'S OWN FIGURES SPEECHES AND ITS UNCOUNTED SPEECHES CARRY TWELVE OF THE BLOCK'S TWENTY-ONE BOLD PARAGRAPHS.**
 
-**EVERY ONE OF THE TWENTY-SIX ARRIVED FALSE ON FIRST MEASUREMENT AND WAS SET FROM THE PRINTED SENTENCE. SIX MOVED A SECOND TIME WHEN THE PROSE AROUND THEM WAS REPAIRED — 305 twice, 308 once, 309 once, 310 once — and every one was re-measured on its printed sentence and none was re-aimed. NO SENTENCE IN CHAPTERS 301 TO 310 WAS SHORTENED TO MAKE A FIGURE TRUE AND NO FIGURE WAS CHANGED TO FIT A SENTENCE.**
+**EVERY ONE OF THE TWENTY-SIX ARRIVED FALSE ON FIRST MEASUREMENT AND WAS SET FROM THE PRINTED SENTENCE. SIX MOVED A SECOND TIME WHEN THE PROSE AROUND THEM WAS REPAIRED IN THE WRITER'S OWN PASS — 305 twice, 308 once, 309 once, 310 once — AND FOUR MOVED A THIRD TIME IN THE REVIEW REPAIR, AT 303, 304 TWICE AND 310, AND EVERY ONE WAS RE-MEASURED ON ITS PRINTED SENTENCE AND NONE WAS RE-AIMED. THE FIGURES THAT MOVED IN THE REVIEW REPAIR ARE 256 TO 262 AT CHAPTER 303, 211 TO 215 AND 234 TO 260 AT CHAPTER 304, AND 153 TO 156 AT CHAPTER 310, AND THE OLD FIGURES ARE 256, 211, 234 AND 153. NO SENTENCE IN CHAPTERS 301 TO 310 WAS SHORTENED TO MAKE A FIGURE TRUE AND NO FIGURE WAS CHANGED TO FIT A SENTENCE.**
 
 ### 4.3 DUPLICATION, RUN ACROSS THE WHOLE BLOCK AND ACROSS THE BOUNDARY WITH VOLUME 06
 
-**SHARED TWELVE-WORD RUNS, WINDOWS TAKEN PER LINE, A RUN SHARED IF THE SAME TWELVE-WORD STRING OCCURS IN MORE THAN ONE CHAPTER OF THE BLOCK AND EACH COUNTED ONCE: 1,023 on a denominator of 24,883. Volume 06's five blocks were 780, 803, 1,056, 1,138 and 1,062 on denominators of 24,009 to 26,733, and Chapters 241 to 250 were 675. THIS BLOCK'S FIGURE IS INSIDE THE VOLUME 06 RANGE ON A SLIGHTLY SMALLER DENOMINATOR AND IS DISCLOSED RATHER THAN SMOOTHED.**
+**SHARED TWELVE-WORD RUNS, WINDOWS TAKEN PER LINE, A RUN SHARED IF THE SAME TWELVE-WORD STRING OCCURS IN MORE THAN ONE CHAPTER OF THE BLOCK AND EACH COUNTED ONCE: 1,039 on a denominator of 25,000, against 1,023 on 24,883 on the first text. Volume 06's five blocks were 780, 803, 1,056, 1,138 and 1,062 on denominators of 24,009 to 26,733, and Chapters 241 to 250 were 675. THIS BLOCK'S FIGURE IS INSIDE THE VOLUME 06 RANGE ON A SLIGHTLY SMALLER DENOMINATOR THAN ITS OWN FIRST TEXT AND IS DISCLOSED RATHER THAN SMOOTHED.**
+
+**THE SIXTEEN RUNS THE REPAIRS ADDED ARE ALL THE SAME TWO SENTENCES, AND THAT IS THE POINT OF MAKING THEM.** Set the first text and the repaired text side by side and the newly shared twelve-word strings fall in exactly two families: the ledger sentence about a man sitting down on the end of that table on the sixteenth of this month and not in the chair, which four chapters now say in the same words because they were dated the same way, and the clerk's sentence about a man who went out of that gate at about ten to five on the morning of the twenty-fourth, which Chapters 305 and 308 now agree on. **ONE RUN THAT WAS SHARED ON THE FIRST TEXT IS NOT SHARED NOW — THE DIGGER'S *ARE THREE THINGS ABOUT A MAN AND ARE NOT THREE FIGURES ABOUT* — AND THAT SENTENCE IS THE ONE THE REVIEW REPAIR TOOK THE HAND OUT OF. A REPAIR THAT MAKES TWO CHAPTERS SAY THE SAME THING THE SAME WAY IS A REPAIR, AND IT COSTS SHARED RUNS, AND THE COST IS PRINTED HERE RATHER THAN FOUND LATER.**
 
 **IDENTICAL PARAGRAPHS OF TWELVE WORDS OR MORE, WHOLE PARAGRAPHS COMPARED AFTER NORMALISATION: ZERO BLOCK-LOCALLY, AND ZERO WHEN THE SAME SWEEP IS RUN AGAINST ALL FIFTY CHAPTERS OF VOLUME 06. THE STANDING ARGUMENT IS THAT A BLOCK-LOCAL SWEEP IS BLIND TO A SENTENCE THAT CAME IN OVER THE LINE FROM THE CHAPTER BEFORE, SO THE CROSS-BOUNDARY SWEEP WAS RUN AND IT RETURNED ZERO, AND THE FIGURE ZERO FOR THE BLOCK IS NOT ONLY ZERO FOR THE BLOCK.**
 
@@ -131,7 +135,7 @@
 - **A markdown-integrity pass over the ten files returns ZERO doubled full stops, ZERO doubled spaces, ZERO trailing whitespace, ZERO commas without a following space, ZERO periods without a following space, NO tabs, NO three-dot ellipses, NO colon-times, NO twenty-four-hour clock and NO weekday name.** Method: the repository's own `re` patterns, run through the module.
 - **Header shape: every chapter opens `# Chapter NNN: Title`, then a rule, then the first narrative line, and closes with one all-caps restatement and nothing after it.**
 - **A whole-word, case-insensitive scan of the ten files for the thirty-one reserved terms the tool carries returns an EMPTY DICTIONARY.** A wider scan of this phase's own set returns ZERO for *hearth*, *a charter*, *a second book*, *four lines*, *a page*, *a rate*, *the month before last*, *a stranger can walk up to*, *the first day of the month after next*, *a child*, *exit clause*, *right not to be listed*, *Iven*, *Tallow*, *Cael*, *Orin*, *Selik*, *Marne*, *First House*, *Common Measure*, *Custodian*, *blank lot*, *ninth design signature*, *removed signature*, *four gaps*, *Last Fare*, *lower terrace*, *broken circle* and *mark on the iron*. **`courier` is at six, all of them in Chapters 302 and 309, and it is licensed by this block's own phase prompt on the corrected scope the chapters support.**
-- **NO PLACE IS NAMED ON ANY DOCUMENT IN THIS DISTRICT AND NONE IS NAMED IN NARRATION. NO PERSON IS NAMED IN NARRATION. THE DISTRICT'S OWN NAME IS AT ZERO. THE HALL IS A BUILDING ELEVEN MILES OFF AND IS NOT NAMED. THE COUNTRY ABOVE THE WATER IS NOT NAMED.**
+- **NO PLACE IS NAMED ON ANY DOCUMENT IN THIS DISTRICT, AND ONE PLACE IS NAMED IN NARRATION: THE YARD OF LOT SEVENTEEN, EIGHTEEN TIMES, TWELVE IN THE BODY AND SIX IN THE CLOSING LINES. THE FIRST TEXT OF THIS BULLET SAID NONE WAS NAMED AND IT WAS WRONG OF THE YARD. NO PERSON IS NAMED IN NARRATION. THE DISTRICT'S OWN NAME IS AT ZERO. THE HALL IS A BUILDING ELEVEN MILES OFF AND IS NOT NAMED. THE COUNTRY ABOVE THE WATER IS NOT NAMED.**
 - **System panels: ZERO IN TEN CHAPTERS, against a cap of one in a chapter and two in a block.** There is no panel, no printed matter arrives in the block, and nothing in the block is introduced as a document.
 - **Bold clauses per chapter: 5, 6, 5, 8, 4, 8, 7, 6, 5, 5. The cap is about thirty-five a chapter, Volume 06 ran five to sixteen, and the count is a disclosure and not a target. The lowest is four at Chapter 305 and the highest is eight at Chapters 304 and 306. NO CLAUSE WAS ADDED TO ANY CHAPTER TO RAISE IT.**
 
@@ -154,54 +158,59 @@
 
 **AND NO FOOTER REPEATS A FIGURE THAT IS NOT IN THE BODY OF ITS OWN CHAPTER, AND NO FOOTER CARRIES A FIGURE.**
 
-### 4.6 THE FRAMES, WITH THE RAW COUNTS AND THE RATES BESIDE THEM, ON A DENOMINATOR OF 24,883
+### 4.6 THE FRAMES, WITH THE RAW COUNTS AND THE RATES BESIDE THEM, ON A DENOMINATOR OF 25,000
+
+**THE CONVENTION IS PRINTED BECAUSE THE FIRST TEXT OF THIS TABLE USED ONE AND DID NOT PRINT IT, AND THREE OF ITS ROWS DID NOT REPRODUCE UNDER ANY CONVENTION. EVERY COUNT BELOW IS WHOLE-WORD, CASE-INSENSITIVE, PER OCCURRENCE, ACROSS THE TEN CHAPTER FILES AS THEY NOW STAND. THE ONE EXCEPTION IS MARKED: *A clerk of nineteen years entered* IS COUNTED CASE-SENSITIVELY WITH A CAPITAL A, because the lower-case form is the tail of the same sentence and counting both would count one entry twice.**
 
 | Frame | Block | Rate | 301 | 302 | 303 | 304 | 305 | 306 | 307 | 308 | 309 | 310 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| *clerk* | **136** | 1/183 | 10 | 11 | 12 | 15 | 14 | 17 | 15 | 13 | 11 | 18 |
-| *entered that* | **97** | 1/256 | 10 | 8 | 9 | 9 | 10 | 11 | 11 | 11 | 8 | 10 |
-| *clerk of nineteen years* | **77** | 1/323 | 7 | 8 | 8 | 7 | 6 | 9 | 9 | 9 | 5 | 9 |
-| *A clerk of nineteen years entered* | **76** | 1/327 | 7 | 8 | 8 | 7 | 6 | 9 | 9 | 9 | 5 | 8 |
-| ***The clerk entered that*** | **0** | — | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| *not asked* | **54** | 1/461 | 4 | 10 | 5 | 6 | 5 | 5 | 5 | 6 | 4 | 4 |
-| *a figure* | **77** | 1/323 | 10 | 5 | 8 | 2 | 5 | 8 | 5 | 12 | 11 | 11 |
-| *a keeper* / *keeper* | **23 / 23** | 1/1082 | 2 | 2 | 1 | 1 | 1 | 2 | 4 | 3 | 3 | 4 |
-| *a house* | **47** | 1/529 | 4 | 1 | 5 | 7 | 4 | 6 | 5 | 5 | 3 | 7 |
-| *mends fencing* | **40** | 1/621 | 5 | 3 | 4 | 4 | 3 | 4 | 5 | 5 | 3 | 4 |
-| *man of fifty-six* | **27** | 1/921 | 1 | 4 | 1 | 6 | 5 | 2 | 1 | 1 | 3 | 3 |
-| *in front of about nineteen people* | **8** | 1/3110 | 0 | 0 | 2 | 1 | 1 | 2 | 0 | 0 | 2 | 0 |
-| *a bell* / *the bell* | **18 / 6** | — | 0/0 | 5/0 | 0/1 | 9/3 | 0/0 | 2/1 | 1/0 | 0/0 | 1/1 | 0/0 |
-| *a rope* | **1** | 1/24883 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| *a ditch* | **9** | 1/2765 | 0 | 0 | 0 | 2 | 5 | 0 | 0 | 2 | 0 | 0 |
-| *a shelter* | **8** | 1/3110 | 0 | 0 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 2 |
-| *a document* | **9** | 1/2765 | 0 | 1 | 0 | 2 | 2 | 1 | 1 | 1 | 1 | 0 |
+| *clerk* | **138** | 1/181 | 11 | 11 | 12 | 15 | 14 | 17 | 15 | 13 | 12 | 18 |
+| *entered that* | **99** | 1/253 | 11 | 8 | 9 | 9 | 10 | 11 | 11 | 11 | 9 | 10 |
+| *clerk of nineteen years* | **79** | 1/316 | 8 | 8 | 8 | 7 | 6 | 9 | 9 | 9 | 6 | 9 |
+| *A clerk of nineteen years entered* (case-sensitive) | **45** | 1/556 | 4 | 5 | 4 | 5 | 4 | 5 | 5 | 5 | 4 | 4 |
+| *not asked* | **56** | 1/446 | 6 | 10 | 5 | 6 | 5 | 5 | 5 | 6 | 4 | 4 |
+| *a figure* | **75** | 1/333 | 10 | 5 | 6 | 2 | 5 | 8 | 5 | 12 | 11 | 11 |
+| *a keeper* / *keeper* | **23 / 23** | 1/1087 | 2 | 2 | 1 | 1 | 1 | 2 | 4 | 3 | 3 | 4 |
+| *a house* | **47** | 1/532 | 4 | 1 | 5 | 7 | 4 | 6 | 5 | 5 | 3 | 7 |
+| *mends fencing* | **39** | 1/641 | 5 | 3 | 4 | 4 | 2 | 4 | 5 | 5 | 3 | 4 |
+| *man of fifty-six* | **27** | 1/926 | 1 | 4 | 1 | 6 | 5 | 2 | 1 | 1 | 3 | 3 |
+| *a road* | **31** | 1/806 | 3 | 0 | 6 | 3 | 4 | 6 | 0 | 6 | 2 | 1 |
+| *a man of about nineteen* | **27** | 1/926 | 2 | 3 | 3 | 4 | 2 | 3 | 3 | 3 | 2 | 2 |
+| *in front of about nineteen people* | **8** | 1/3125 | 0 | 0 | 2 | 1 | 1 | 2 | 0 | 0 | 2 | 0 |
+| *a bell* / *the bell* | **19 / 6** | — | 1/0 | 5/0 | 0/1 | 9/3 | 0/0 | 2/1 | 1/0 | 0/0 | 1/1 | 0/0 |
+| *a rope* | **1** | 1/25000 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| *a ditch* | **9** | 1/2778 | 0 | 0 | 0 | 2 | 5 | 0 | 0 | 2 | 0 | 0 |
+| *a shelter* | **8** | 1/3125 | 0 | 0 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 2 |
+| *a document* | **9** | 1/2778 | 0 | 1 | 0 | 2 | 2 | 1 | 1 | 1 | 1 | 0 |
 | *a column* | **2** | — | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
 | *a page*, *a charter*, *a second book*, *four lines*, *a stranger can walk up to*, *a rate*, *the month before last* | **0 each** | — | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | *the first day of the month after next*, *a child*, *exit clause*, *right not to be listed*, *hearth* | **0 each** | — | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| *a market* | **2** | 1/12442 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-| *an address* | **3** | 1/8288 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 1 | 0 |
-| *a gate* | **5** | 1/4977 | 0 | 2 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
-| *a wall* | **12** | 1/2074 | 1 | 2 | 0 | 0 | 1 | 0 | 2 | 1 | 2 | 3 |
+| *a market* | **2** | 1/12500 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+| *an address* | **3** | 1/8333 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 1 | 0 |
+| *a gate* | **5** | 1/5000 | 0 | 2 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
+| *a wall* | **12** | 1/2083 | 1 | 2 | 0 | 0 | 1 | 0 | 2 | 1 | 2 | 3 |
 | *a tent* | **4** | — | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 |
-| *a name* | **13** | 1/1913 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 10 | 2 |
-| *courier* | **6** | 1/4147 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 1 |
-| *four hundred and eleven* | **20** | 1/1244 | 1 | 0 | 1 | 2 | 0 | 2 | 2 | 3 | 2 | 7 |
-| *the ninth* | **20** | 1/1244 | 3 | 1 | 1 | 1 | 2 | 1 | 2 | 3 | 3 | 3 |
-| *last month* | **31** | 1/802 | 2 | 5 | 3 | 6 | 3 | 4 | 2 | 1 | 4 | 1 |
-| *eleven coppers* | **5** | 1/4967 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 1 |
-| *not-askings* | **7** | 1/3555 | 1 | 0 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 |
-| *digs loam* | **10** | 1/2488 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 1 | 0 | 3 |
-| *a road* | **30** | 1/829 | 3 | 0 | 6 | 3 | 3 | 6 | 0 | 6 | 2 | 1 |
-| *a man of about nineteen* | **27** | 1/921 | 2 | 3 | 3 | 4 | 2 | 3 | 3 | 3 | 2 | 2 |
+| *a name* | **13** | 1/1923 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 10 | 2 |
+| *courier* | **6** | 1/4167 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 1 |
+| *four hundred and eleven* | **20** | 1/1250 | 1 | 0 | 1 | 2 | 0 | 2 | 2 | 3 | 2 | 7 |
+| *the ninth* | **20** | 1/1250 | 3 | 1 | 1 | 1 | 2 | 1 | 2 | 3 | 3 | 3 |
+| *last month* | **24** | 1/1042 | 2 | 4 | 3 | 6 | 2 | 2 | 1 | 1 | 3 | 0 |
+| *eleven coppers* | **5** | 1/5000 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 1 |
+| *not-askings* | **7** | 1/3571 | 1 | 0 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 |
+| *digs loam* | **10** | 1/2500 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 1 | 0 | 3 |
+| *Lot Seventeen* | **18** | 1/1389 | 2 | 2 | 2 | 1 | 3 | 2 | 1 | 2 | 2 | 1 |
+
+**WHAT THE FIRST TEXT OF THIS TABLE GOT WRONG, ALL THREE OF IT, AND NONE OF IT BY MUCH.** *clerk* was 136 and is **138**; *entered that* was 97 and is **99**; *clerk of nineteen years* was 77 and is **79**; ***A clerk of nineteen years entered* was 76 and is 45**, and no convention returns 76 for that phrase, so the first text counted something else and printed this row's label on it; *not asked* was 54 and is **56**; *a figure* was 77 and is **75**; *a bell* was 18 and is **19**; *a road* was 30 and is **31**; *mends fencing* was 40 and is **39**; *last month* was 31 and is **24**, and the seven of the difference are the review repairs, which took five wrong relative months off the page. **THE FIGURES THE REVIEWER CHECKED AGAINST THIS TABLE AND FOUND TO MATCH — *a ditch* at nine, *a name* at thirteen, *courier* at six, *four hundred and eleven* at twenty, *keeper* at twenty-three — ALL REPRODUCE, AND THE ONES IT DID NOT CHECK ARE THE ONES THAT WERE WRONG, WHICH IS THE ARGUMENT FOR CHECKING ALL OF THEM.**
 
 **THE READ OF THE TABLE, NAMED HERE AND NOT ONLY IN THE TABLE.**
 
-1. **THE TWO LARGEST FRAMES ARE *clerk* AND *entered that*, AS IN EVERY BLOCK OF VOLUME 06.** Volume 06's five blocks carried *clerk* at 181, 180, 189, 188 and 139, and *entered that* at 139, 127, 134, 141 and 104. **THIS BLOCK'S TWO ARE 136 AND 97 ON A SMALLER DENOMINATOR, AND BOTH FELL.**
-2. **THE BLOCK'S OWN INSTRUMENT PHRASE FELL FOR THE SECOND BLOCK RUNNING AFTER FOUR RISING BLOCKS IN VOLUME 06.** *clerk of nineteen years* is **seventy-seven, one per 323 words**, against Volume 06's eighty-three, ninety-two, a hundred and seven, a hundred and eight and sixty-eight, and against the first text of its last block at sixty-seven and the repaired text at sixty-eight. **THE DROP FROM THE FOURTH BLOCK'S ONE HUNDRED AND EIGHT IS THE BLOCK'S OWN PROSE SHARE FALLING AND IS NOT PLANNED AND WAS NOT LOOKED FOR. NOTHING WAS ADDED TO OR REMOVED FROM ANY CHAPTER TO MOVE ANY NUMBER IN THAT TABLE.**
-3. ***The clerk entered that* IS ZERO FOR THE SIXTH BLOCK RUNNING AND IS THE SHORTEST DISCLOSURE IN THE TABLE.**
-4. **THE BELL'S NOUNS ARE HIGHEST IN THE CHAPTER THE EARLIEST DAY BELONGS TO AND FALL TO ZERO IN THE TWO CHAPTERS THAT ARE ABOUT A DAY COUNTING DOWN.** *a bell* is 0, 5, 0, **9**, 0, 2, 1, 0, 1, 0. **A VOLUME THAT IS ABOUT A BELL HAS A BELL IN IT IN THE MIDDLE OF IT AND NOT AT EITHER END, AND THAT IS THE BLOCK'S SHAPE.**
-5. **THE RAW COUNTS ARE PRINTED BESIDE THE RATES BECAUSE A RISING DENOMINATOR FLATTERS A RATE.** The block's denominator is 24,883 against Volume 06's 25,015 for its last block, and its shared twelve-word runs are 1,023 against 1,062, so both the rate and the count moved and both are printed.
+1. **THE TWO LARGEST FRAMES ARE *clerk* AND *entered that*, AS IN EVERY BLOCK OF VOLUME 06.** Volume 06's five blocks carried *clerk* at 181, 180, 189, 188 and 139, and *entered that* at 139, 127, 134, 141 and 104. **THIS BLOCK'S TWO ARE 138 AND 99, AND BOTH FELL.**
+2. **THE BLOCK'S OWN INSTRUMENT PHRASE FELL FOR THE THIRD BLOCK RUNNING AFTER FOUR RISING BLOCKS IN VOLUME 06.** *clerk of nineteen years* is **seventy-nine, one per 316 words**, against Volume 06's eighty-three, ninety-two, a hundred and seven, a hundred and eight and sixty-eight, and against sixty-eight in the last block of Volume 06. **THE DROP FROM THE FOURTH BLOCK'S ONE HUNDRED AND EIGHT IS THE BLOCK'S OWN PROSE SHARE FALLING AND IS NOT PLANNED AND WAS NOT LOOKED FOR. NOTHING WAS ADDED TO OR REMOVED FROM ANY CHAPTER TO MOVE ANY NUMBER IN THAT TABLE, AND THE REPAIRS IN SECTION 8 ADDED A FIGURE TO THE LEDGER RATE AND NOT TO THIS ONE.**
+3. ***The clerk entered that* IS ZERO FOR THE SEVENTH BLOCK RUNNING AND IS THE SHORTEST DISCLOSURE IN THE TABLE.**
+4. **THE BELL'S NOUNS ARE HIGHEST IN THE CHAPTER THE EARLIEST DAY BELONGS TO AND FALL TO ZERO IN THE TWO CHAPTERS THAT ARE ABOUT A DAY COUNTING DOWN.** *a bell* is 1, 5, 0, **9**, 0, 2, 1, 0, 1, 0. **A VOLUME THAT IS ABOUT A BELL HAS A BELL IN IT IN THE MIDDLE OF IT AND NOT AT EITHER END, AND THAT IS THE BLOCK'S SHAPE. THE ONE IN CHAPTER 301 IS IN THE OPENING LINE, WHERE THE FIGURES ARE PUT ON THE TABLE, AND THE FIRST TEXT OF THIS TABLE HAD IT AT ZERO.**
+5. **THE RAW COUNTS ARE PRINTED BESIDE THE RATES BECAUSE A RISING DENOMINATOR FLATTERS A RATE.** The block's denominator is 25,000 against 24,883 on its own first text and 25,015 for Volume 06's last block, and its shared twelve-word runs are 1,039 against 1,062, so both the rate and the count moved and both are printed.
 6. **THE BARE WORD *keeper* IS TWENTY-THREE ACROSS THE BLOCK AND EVERY ONE OF THE TWENTY-THREE WAS READ INDIVIDUALLY AND IS A DENIAL, A PRINTED RULE ABOUT A JOB, A COLUMN THAT IS EMPTY, OR A NOUN SOMEBODY HAS BEEN TOLD THEY ARE NOT. NO KEEPER IS NAMED AND NO KEEPER IS ON A PAGE.**
+7. **THE YARD OF LOT SEVENTEEN IS NAMED EIGHTEEN TIMES, TWELVE IN THE BODY AND SIX IN THE CLOSING LINES, AND IT IS THE ONLY PLACE NAMED IN NARRATION IN THIS BLOCK.** It is in the row because the canon card's first text said no building and no ground in this block was given a name of any kind, and that was false of a yard that is named in all ten chapters.
 
 ## 5. The writer's account, and the twenty-one defects the pencil pass found
 
@@ -257,15 +266,96 @@
 
 1. **SCENES, NOT TRANSCRIPTS, AND THE MEASURE OF WHETHER THE PROSE IS SCENES.** The share of each chapter's words in clerk-entry paragraphs is 28 / 31 / 26 / 35 / 33 / 32 / 32 / 34 / 37 / 39 per cent. **A LEDGER PARAGRAPH IS THE ONE PLACE EVERY CHAPTER WANTS THE SAME SENTENCE, AND 1,153 NINE-WORD SENTENCE RUNS ARE SHARED BETWEEN THIS BLOCK AND CHAPTERS 291 TO 300 ALMOST ENTIRELY INSIDE THAT LEDGER AND INSIDE THE FIGURES SPEECHES. THE FIGURE TO WATCH IS NOT THE COUNT OF THE FRAME AND IT IS THE PROSE SHARE, AND IT WAS PRINTED EVERY DAY OF THE REPAIR OF VOLUME 06'S LAST BLOCK AND IT IS PRINTED HERE.**
 2. **SOMETHING MUST COST SOMEBODY THEIR BODY, IN A SCENE AND NOT IN A FOOTER.** A man of about thirty-four who keeps a road went down into a ditch on purpose, could not get out the first time, and got out the second time, and could not climb a bank the first time five days later. **HE IS A PERSON THIS BLOCK IS ABOUT, BOTH PAYMENTS ARE IN NARRATION, AND NEITHER IS IN A FOOTER.**
-3. **THE FRAMES, AND THE NUMBER IS A DISCLOSURE AND NOT A TARGET.** *clerk* 136 and *entered that* 97 are the two largest, as in every block of Volume 06, and both fell. The block's own instrument phrase is seventy-seven, one per 323 words, the second block running after four rising ones. ***The clerk entered that* is zero. The bare word *keeper* is twenty-three and every one is a denial.**
-4. **THE SHARED TWELVE-WORD RUNS ARE 1,023 ON A DENOMINATOR OF 24,883, against 780, 803, 1,056, 1,138 and 1,062 on 24,009 to 26,733 in Volume 06's five blocks. THE IDENTICAL-PARAGRAPH COUNT IS ZERO BLOCK-LOCALLY AND ZERO ACROSS THE BOUNDARY WITH ALL FIFTY CHAPTERS OF VOLUME 06, AND THE FIGURE ZERO FOR THE BLOCK IS NOT ONLY ZERO FOR THE BLOCK. THE SWEEP HAS TO BE RUN ACROSS THE WHOLE VOLUME AND IT WAS.**
+3. **THE FRAMES, AND THE NUMBER IS A DISCLOSURE AND NOT A TARGET.** *clerk* 138 and *entered that* 99 are the two largest, as in every block of Volume 06, and both fell. The block's own instrument phrase is seventy-nine, one per 316 words, the third block running after four rising ones. ***The clerk entered that* is zero. The bare word *keeper* is twenty-three and every one is a denial. EVERY FIGURE IN THIS ITEM IS THE RE-MEASURED ONE AND THE CONVENTION IT WAS MEASURED UNDER IS PRINTED AT SECTION 4.6.**
+4. **THE SHARED TWELVE-WORD RUNS ARE 1,039 ON A DENOMINATOR OF 25,000, against 780, 803, 1,056, 1,138 and 1,062 on 24,009 to 26,733 in Volume 06's five blocks. THE IDENTICAL-PARAGRAPH COUNT IS ZERO BLOCK-LOCALLY AND ZERO ACROSS THE BOUNDARY WITH ALL FIFTY CHAPTERS OF VOLUME 06, AND THE FIGURE ZERO FOR THE BLOCK IS NOT ONLY ZERO FOR THE BLOCK. THE SWEEP HAS TO BE RUN ACROSS THE WHOLE VOLUME AND IT WAS, AND THE SIXTEEN RUNS THE REVIEW REPAIRS ADDED ARE THE REPAIRS MAKING TWO CHAPTERS AGREE, WHICH IS WHAT SECTION 4.3 SETS OUT.**
 5. **THE COUNTING MOTIF IS LOAD-BEARING AND EVERY FIGURE IN IT MUST REPRODUCE.** Twenty-six class-one claims in the class counts 2, 3, 3, 3, 2, 3, 3, 3, 2, 2, zero mismatches, no class-two claims, and every one arrived false on first measurement and was set by measuring. **The widest is four hundred and thirty-five and it is the widest in three hundred and ten chapters and it is disclosed.**
 6. **ONE PANEL AT MOST IN A CHAPTER AND TWO IN A BLOCK, AND THIS BLOCK CARRIES NONE IN TEN CHAPTERS.** No panel creates a consent, makes a person a bearer, makes a house into a party, turns a right to give up into a refusal, or decides who hears a bell. A panel is a rule and a rule is not a document.
 7. **AT MOST ABOUT THIRTY-FIVE BOLD CLAUSES A CHAPTER. THIS BLOCK RAN FOUR TO EIGHT AND Volume 06 RAN FIVE TO SIXTEEN. NO CLAUSE WAS ADDED TO RAISE IT.**
-8. **THE TWO RULES THAT MAY NOT BE RESTATED ON TEN CONSECUTIVE DAYS.** The entry that the eight refusals with no reason did not move is on five of the ten days and the entry that a refusal with a reason is not one of the eight is on six, and Chapter 302 holds neither, and Chapter 302 held no refusal. **THE ENTRY THAT A SHAPE NOTICED A SECOND TIME IS NOT A FINDING IS ON ONE DAY, WHERE THE SHAPE WAS SAID A SECOND TIME.**
+8. **THE TWO RULES THAT MAY NOT BE RESTATED ON CONSECUTIVE DAYS, AND ONE OF THEM IS.** The entry that a refusal with a reason is not one of the eight is on six of the ten days — 304, 305, 306, 307, 309 and 310 — and never on two days running. **The entry that the eight refusals with no reason did not move is on six of the ten days and not five, and those six are 301, 303, 304, 307, 308 and 310, and Chapter 307 was in the first text's list being left out of it, and the six INCLUDE TWO PAIRS OF CONSECUTIVE DAYS, 303 and 304 and 307 and 308. THAT IS THE DEFECT THIS ITEM EXISTS TO CATCH, IT HAPPENED TWICE IN TEN DAYS, AND IT WAS NOT CUT OUT OF ANY CHAPTER AFTER THE FACT TO MAKE THE ITEM TRUE. IT IS ON THE PAGE AND IT IS DISCLOSED AND THE NEXT BLOCK HAS TO BE BETTER ON IT THAN THIS ONE WAS. Chapter 302 holds neither of the two entries, because it held no refusal. **THE ENTRY THAT A SHAPE NOTICED A SECOND TIME IS NOT A FINDING IS ON ONE DAY, WHERE THE SHAPE WAS SAID A SECOND TIME.**
 9. **BINDING CANNOT CREATE CONSENT. A CERTIFICATE IS NOT CONSENT. A NAME SAID OUT LOUD IS A CONSENT THE PERSON IT BELONGS TO DID NOT GIVE, AND THIS BLOCK'S WHOLE COST IS THAT HE WILL NOT SAY THE NAME OUT LOUD, AND A BELL DOES NOT MAKE IT CONSENT EITHER. A DOCUMENT THAT NAMES A JOB THAT DOES NOT EXIST HAS FOUND NOBODY. A PERSON WHO HAS NOT BEEN ASKED HAS NOT REFUSED AND CANNOT BE COUNTED EITHER WAY, AND THE RECORD SAYS NOT ASKED. A MARK MAY NOT CARRY A JOB AND A PRINTED LINE MAY NOT EITHER. A LOCK DOES NOT NEED A PERSON AND A BELL DOES NOT NEED A PERSON, AND A PERSON STANDING NEXT TO A BELL IS NOT DECIDING WHAT IT RINGS. A TABLE WITH FOUR LEGS OUTSIDE A DOOR IS NOT A COUNTER UNTIL SOMEBODY ASKS SOMEBODY A QUESTION AT IT, AND A PERSON STANDING IN A DOORWAY IS NOT HOLDING THE DOOR, AND A PLANK DOES NOT KEEP NIGHTS. A YEAR IS NOT AN ASSET. A FIGURE IS NOT A PERSON AND HAS NO WAY OF SAYING NO. A NAME IS NOT A FIGURE. A YARD IS A ROOM WITH NO ROOF AND A PLACE WHERE A THING GETS SAID OUT LOUD, AND A YARD CANNOT REFUSE ANYBODY. Feet, inches, yards, miles, quarters, pounds, ounces, coppers, pints, degrees and the twelve-hour clock only.**
 10. **NO PUBLIC MARKET IS BUILT OUT OF ONE READER, AND A SHEET AT A GATE IN TWENTY DAYS IS NOT A MARKET.** **THE YARD IN THIS VOLUME HAS TO ASK SOMEBODY A QUESTION, AND ONE OF THE THINGS IT ASKS IS A PERSON STANDING NEXT TO A BELL WHETHER THEY HEARD IT, AND THE ANSWER IS NOT REQUIRED AND IS NOT TAKEN. THAT IS A LATER BLOCK'S WORK AND IT WAS NOT DONE HERE: Chapters 301 and 309 both say on the page that nobody in that yard asked the man of about sixty-four whether he had heard anything and that nobody was going to. A man came up a lane and stood in a yard on the thirtieth and a clerk entered that that is not a market and is not a place anybody is made to stand in.**
 11. **THE ROMANCE.** It did not move in this block. She told him on the eighth of the seventh month not to come and ask her again that month and he has not asked in any of the ten days, and she is not in one chapter of the block. **The man asked a man to go and do a thing in front of about nineteen people on the twenty-third, and said out loud on the twenty-sixth that he was not going to carry a figure up the bank this month and that the month runs out on the thirty-first. Her month is not a lever. The eighth of the seventh is not reopened as a wound. Neither of them says a declaration and the block does not end on one.**
 12. **A COUNT HAS TO BE WALKED BACKWARDS OUT OF THE BLOCK AS WELL AS FORWARDS THROUGH IT, AND A FIGURE STATED FOR ONE BLOCK IS NOT A FIGURE FOR THE VOLUME.** *a child* is at zero in this block and was at seventeen in Volume 06's third block. *a keeper* is twenty-three here and was twenty-nine in Volume 06's last block. *a bell* is eighteen here and was zero in that block. **NONE OF THOSE IS A FIGURE FOR THE VOLUME, AND THE CARD AND THIS RECORD PRINT THE SCOPE EACH TIME.**
 13. **A REPAIR CLAIMED AND NOT MADE IS WORSE THAN NO CLAIM, AND A REPAIR THAT MOVES A DISCLOSURE IS STILL A DISCLOSURE AND NOT A TARGET, AND BOTH SETS OF NUMBERS GET PRINTED.** Six of this block's twenty-six counted claims moved a second time after the prose around them was repaired, and both the first figure and the second are in section 4.2's table. **The four hyphens in Volume 06's Chapters 291, 295, 297 and 299 are not repaired and are not claimed.**
 14. **READ YOUR OWN CHAPTERS BACK WITH A PENCIL FOR NAMES, PLACES, TIMES, MEASURES AND EVENTS, AND CHECK EVERY SENTENCE THAT NAMES ONE AGAINST EVERY OTHER SENTENCE THAT NAMES IT, INCLUDING THE FOOTER, THE CLERK'S ENTRY, THE CANON CARD AND THE PROMPT.** **That one pass found twenty-one defects in this block, and nine of the twenty-one are the class of defect that no count can see: a missing beat, a clock that ran backwards twice in one chapter, two days turned into two men, three figures of the same length in one paragraph, and four footers or descriptions that did not match their own chapters. Then read the card and the prompt back against the chapters, at the end, as well as at the start — and that second read found the mislabelled three things in Chapter 310, the ladder that did not re-derive in Chapter 308, and the digger's absence window that was false of two days, and all three are repaired and named above.**
+
+---
+
+## 8. THE REVIEW OF THIS BLOCK, EVERY FINDING, AND WHAT WAS DONE WITH IT
+
+**A REVIEW RAN OVER THE TEN CHAPTERS, THE CANON CARD, THIS RECORD, THE FOUR LIVE STATE FILES AND THE ONE NEXT PHASE, AND REPORTED EIGHTEEN FINDINGS. SIX WERE PROSE DEFECTS THAT BLOCK CONTINUITY. FOUR WERE CLAIMS IN THE RECORD THAT DID NOT REPRODUCE AGAINST THE CHAPTERS THEY DESCRIBE, WHICH IS THE ONE FAILURE THIS BLOCK'S OWN HOUSE RULES EXIST TO PREVENT. FOUR WERE THE WRITER'S TO JUDGE. FOUR WERE OUTSIDE THIS BLOCK. NO CHAPTER WAS RESTARTED, NO SCENE WAS REMOVED, NO CHAPTER'S DATE MOVED, NO COUNT THAT DID NOT MOVE CHANGED, NO THREAD WAS CLOSED, AND THE ENDING OF THE BLOCK IS UNTOUCHED. TEN CHAPTERS OF PROSE WERE TOUCHED IN SEVENTEEN PLACES, ALL OF THEM INSIDE A SENTENCE THAT WAS WRONG, AND EVERY FIGURES SPEECH IN ALL TEN CHAPTERS IS BYTE-IDENTICAL TO WHAT IT WAS, SO NOT ONE LADDER FIGURE MOVED.**
+
+### 8.1 THE EIGHTEEN FINDINGS, AND THE VERDICT ON EACH
+
+| # | The finding | The verdict |
+|---|---|---|
+| 1 | Chapter 308's clerk entry said the road man came back into that gate **on the evening of the twenty-fifth**, against Chapters 305 and 306, which put him through it at about half past six **in the morning of the twenty-sixth** | **REPAIRED.** A leftover of Deviation 2. The entry now gives both clock times and the two-day absence it rests on. |
+| 2 | The same entry called the interval from the twenty-fourth to the twenty-eighth **three days** | **REPAIRED IN THE SAME EDIT.** It is four days, and the entry now says four and keeps the two days and a night separate from them. |
+| 3 | Chapter 305's entry said a man out of the gate since ten to five on the twenty-fourth **has been gone for two days** | **REPAIRED.** It is about a day and a night, and the entry says so. |
+| 4 | The same speech said **the mender** said on **the nineteenth of last month** that a habit and a figure are the same thing, where Chapter 308 has **the road man** saying he told the yard on **the nineteenth of this month** | **REPAIRED, AND IT WAS WRONG IN THREE PLACES, NOT TWO.** The statement is the **road man's**, and he made it on the **eighteenth of the seventh month**: Volume 06's Chapter 298 is the eighteenth and has him saying it, and Volume 06's Chapter 299 is the nineteenth and has him report that he said it on the eighteenth. The nineteenth is the day he stopped in the middle of a sentence on purpose, and that is the mender's, and the two men are separate in every paragraph they appear in. Chapter 305 and Chapter 308 now agree with Volume 06 and with each other. |
+| 5 | Chapter 304 put **a building four miles out past the loams** in the mender's mouth and **a building at the near end of the lane behind the bank** in the man of fifty-six's, on the same page | **REPAIRED.** The four miles is the bell frame. The building is at the near end of the lane behind the bank, and the mender now points at it and stops, which is what his speech says he is going to do. |
+| 6 | Chapter 303 had a man of about thirty-four who keeps a road say **I am sixty-four in the road, not in the years**, in a chapter with a man of about sixty-four in it | **REPAIRED.** The coinage is gone from the speech and from the entry that repeated it, and what he says instead is that he is not a young man on that road, which is the same disclosure and collides with nobody. |
+| 7 | The canon card and `state/current.md` said the eight refusals' entry is on **five** of the ten days and that Chapter 302 holds neither entry, and Chapter 302 names the figure outright | **THE RECORD WAS WRONG AND THE PROSE IS AS IT STANDS.** Measured: the figure is named on all ten days, the did-not-move entry is on six — 301, 303, 304, 307, 308, 310 — and the refusal-with-a-reason entry is on six — 304, 305, 306, 307, 309, 310. **The did-not-move entry IS on two pairs of consecutive days, which is the defect the card's own row exists to catch, and nothing was cut out of any chapter to make the row true.** |
+| 8 | The card's instruments row named Chapter 303, which has no instrument line at all | **THE RECORD WAS WRONG.** The figure is in eight chapters — 302, 304, 305, 306, 307, 308, 309, 310 — and the first text named 303 and omitted 309. |
+| 9 | The card said *a bell* and *the bell* are **eighteen and six** | **THE RECORD WAS WRONG ON ONE OF THE TWO.** Nineteen and six, and the missing one is in Chapter 301's opening line. |
+| 10 | The card said **no building and no ground in this block is given a name of any kind** | **THE RECORD WAS WRONG.** The yard of **Lot Seventeen** is named in all ten chapters, twelve times in the body and six in the closing lines. It is the only place named in narration and it is now disclosed as one. |
+| 11 | Chapter 309's courier describes a bell **four hundred miles off** as a **cracked bell in a frame of oak**, which is Chapter 304's bell described from four miles | **NOT A DEFECT AND NOW DISCLOSED.** It is the same bell on the same night, and a man who has heard it knows what it is. It is entered as a fifth thing in the card's section 3.1, with the question the block does not answer: **nobody in this block says whether he has been in this district before.** |
+| 12 | Chapter 310's frame sentence gave the clerk **she** for the man of fifty-six who reads the board | **REPAIRED.** One word, in the block's one frame moment. |
+| 13 | **The three figures** on the end of the trestle table are used in all ten chapters and named in none | **REPAIRED ON THE PAGE AND NOT BY NAMING THEM.** Chapter 301's entry now says that nobody in that yard has asked what they are on any of the days they have been on it, and that the record about the not asking says not asked. **A device that the district refuses to ask about is a refusal, and a refusal on the page is a thing a reader can hold. Naming the three would have invented a division of the figures speech that no ladder supports, and that is the one repair in this section that was available and was not taken.** |
+| 14 | The outbound walk is slow — four miles in about nine hours, then twelve and a half in about twenty-one | **NOT REPAIRED AND DISCLOSED.** The slowness is the measurement: he walks until he cannot be sure any more, and the day-count, the ditch at about eleven and the return from about half past eleven all hang off it. Moving a clock to make the pace look better would move the day he is in a ditch and the day he is back. **THE ARITHMETIC IS PRINTED AT SECTION 8.5 SO THAT THE NEXT BLOCK DOES NOT DISCOVER IT AND CALL IT A NEW FINDING.** |
+| 15 | The block's instrument phrases are high — *clerk of nineteen years* 79, *A clerk of nineteen years entered* 45, *it went in the minute in his own words* 26 | **NOT A DEFECT OF THIS BLOCK AND NOT TARGETED.** The rates are flat against Volume 06's, so it is the house register and not a regression. It is disclosed in the next phase's craft items with the block's own numbers, and it is the next block's to move. |
+| 16 | The volume has no protagonist, no market and no Tally in its outline and none in the ten chapters | **NOT THIS BLOCK'S TO CHANGE, AND NOT SILENT.** `outline/volume-07.md` section 14 carries the coastal block forward and discloses it, and the block is compliant with it. **Thirty more chapters of a series titled *The Apocalypse Auctioneer* with no auction in them is a compounding risk and it is a decision for the volume outline, not for a block and not for a repair.** |
+| 17 | `outline/volume-04.md` does not exist and never has, while fifty chapters, five batch cards, five state summaries and a close all reference it | **NOT TOUCHED AND NAMED.** It is a file from a closed volume four phases back, it is not this phase's, and writing a volume outline now would be inventing plan for a volume that is finished. **IT IS A REAL GAP IN THE REPOSITORY AND IT IS NOT A GAP IN THIS BLOCK, AND SAYING SO IS NOT THE SAME AS SAYING IT IS NOT A GAP.** |
+| 18 | `state/phase-ledger.json` still reads `phase-000-bootstrap`, `planned`, after seven volumes | **NOT TOUCHED.** The ledger is the controller's. |
+
+### 8.2 THE PROSE REPAIRS, CHAPTER BY CHAPTER, AND THE FOUR COUNTED CLAIMS THAT MOVED
+
+| Ch | The sentence as it was | The sentence as it is | Why |
+|---|---|---|---|
+| 301 | — | a clause added to the ledger: **the three figures at the end of that trestle table have not been asked for by anybody in that yard on any of the days they have been on it, and the record about the not asking says not asked** | finding 13 |
+| 302 | sat down on the end of that table on the **sixteenth of last month** | **the sixteenth of this month** | Volume 06's Chapter 300 is the authority and it says the sixteenth of the seventh |
+| 303 | **I am sixty-four in the road, not in the years** | **I am not a young man on that road and I know that I am not** | finding 6 |
+| 303 | a man who **is sixty-four in the road and not in the years** has said a figure about himself | a man who **has said out loud that he is not young** has said a figure about himself | finding 6, the entry that repeated it |
+| 304 | a building is **four miles out past the loams** and nine feet of brick | **there is one at the near end of the lane behind the bank**, about nine feet of brick | finding 5 |
+| 304 | a man at that table that night **taking the names of the people who came in on their own hands** | a man at that table that night **who put a piece of paper and a piece of chalk out on it and said out loud that anybody who wanted to be on that paper could write their own name on it and nobody would stop them** | the paper was for people to write their own names; nobody took them, and the hand that has not closed is that man's and is the mender's |
+| 305 | **has been gone for two days** | **has been gone about a day and a night** | finding 3 |
+| 305 | the **mender** said it on the **nineteenth of last month** | **the man who keeps a road** said it on the **eighteenth of the seventh month** | finding 4 |
+| 306 | the digger said that on the **twentieth of last month** | the **twentieth of this month** | Chapter 308 dates the same man's other statement to the twentieth of the seventh, and Volume 06's Chapter 300 is the twentieth of the seventh |
+| 306 | sat down on the end of that table on the **sixteenth of last month** | **the sixteenth of this month** | as 302 |
+| 308 | came back into that gate **on the evening of the twenty-fifth** … **those three days are three days** and are not the two days he was out | came back into it **at about half past six in the morning of the twenty-sixth** … **was out of this district for two days and a night, and those two days and a night are not the four days from the twenty-fourth to this morning** | findings 1 and 2 |
+| 308 | I have told this yard on the **nineteenth** of this month | the **eighteenth** of this month | finding 4 |
+| 309 | sat down on the end of that table on the **sixteenth of last month** | **the sixteenth of this month** | as 302 |
+| 310 | this was the tenth morning **she** had said three figures out loud | **he** | finding 12 |
+| 310 | **I have got a hand that has not closed since the eleventh of last month** | **I have got an arm that has not gone above my shoulder since the first of this month** | the hand that has not closed since the eleventh of the sixth is the mender's, and the hand that has not closed since the thirteenth of the sixth is the man of about twenty-three who copies for nothing; the digger's is an arm, and it has not gone above that shoulder since the first of the seventh |
+| 310 | **a hand and an arm and four hundred yards are three things about a man and are not three figures** | **an arm and four hundred yards of bank are two things about a man and are not two figures** | the entry that counted the hand the speech no longer claims |
+
+**FOUR COUNTED CLAIMS MOVED WHEN THE PROSE AROUND THEM WAS REPAIRED, AND EVERY ONE WAS SET FROM THE PRINTED SENTENCE AFTERWARDS AND NONE WAS RE-AIMED: 256 to 262 at Chapter 303, 211 to 215 and 234 to 260 at Chapter 304, 153 to 156 at Chapter 310. THE BLOCK IS AT TWENTY-SIX CLASS-ONE CLAIMS, ZERO MISMATCHES, ON THE REPAIRED TEXT.**
+
+### 8.3 THE RECORD CORRECTIONS, AND EVERY FILE THEY ARE IN
+
+- **`outline/batches/volume-07-batch-0001.md`:** the head's place-naming paragraph, section 2's sentence about the man of about forty-four with a case, a fifth numbered thing in section 3.1, **the whole of section 6's day-lists measured again**, and section 7's frame counts. **Nine of section 6's twenty-two rows did not reproduce and all nine are corrected with the first set beside the second.**
+- **`state/volume-07-batch-0001-summary.md`:** sections 4.1, 4.2, 4.3, 4.4, 4.6 and 7's items 3, 4 and 8, and this section 8.
+- **`state/current.md`:** the counts paragraph's claim about the two entries, and the batch line's account of what the writer's own pass repaired, which said a relative month was wrong in one place and it was wrong in five.
+- **`state/continuity.md`:** the same two-entry claim in the Volume 07 Batch 0001 section, and a stray **A MAN OF THIRTY-FIVE** in that section, which is a figure about no one in this canon and is now **AND NO MAN SAYS ANYTHING THAT WOULD MAKE IT EITHER.**
+- **`state/open-threads.md`:** the third of the three things a bell has to have, which said a man **took the record off** the last time, and he did not; he put a paper and a chalk out and said people could write their own names.
+- **`workspace/volume-07/batch-0002/PROMPT.md`:** the digger's descriptor, which gave him a hand that has not closed since the thirteenth of the sixth month, **and that hand is the man of about twenty-three who copies for nothing**; the road man, who now carries the eighteenth and the twentieth of the seventh; the chair sentence dated four ways; and the place-naming rule, which said no place may be named in narration while a yard is named in all ten chapters of the block it governs. **THE PROMPT IS THE ONLY THING THE NEXT BLOCK WILL READ BEFORE IT WRITES A WORD, AND A WRONG FACT IN IT IS A FACT THE NEXT BLOCK WILL SPEND.**
+
+### 8.4 WHAT WAS CHECKED AGAIN AFTER THE LAST EDIT, AND WHAT CAME BACK
+
+1. **The counting motif: twenty-six class-one claims, zero mismatches, no class-two claims.** Four figures moved and both sets are printed.
+2. **Every figures speech in all ten chapters is byte-identical to the first text.** **No ladder figure moved, and the nine figures in each of the nine speeches that carry them re-derive against `outline/volume-07.md`'s table for all ten days; Chapter 302's speech is the one that carries eight and the pool figure is in its ledger, which is what it was.**
+3. **Twenty-six counted claims, zero identical paragraphs of twelve words or more block-locally and zero against all fifty chapters of Volume 06, no doubled full stops, no doubled spaces, no trailing whitespace, no tabs, no colon-times, no twenty-four-hour clock, no weekday name, and an empty dictionary from the thirty-one reserved terms.**
+4. **No panel in ten chapters, against a cap of two. Bold clauses five, six, five, eight, four, eight, seven, six, five, five — unchanged, and no clause was added to any chapter to move any number.**
+5. **Every footer still agrees with its own chapter, and the four footers the review did not question were read again by hand after the repairs.** The repairs touched no footer.
+6. **The three dates worked out loud in Chapter 302 still re-derive, the removal ladder in Chapter 308 still reads the same way against the same ten days, and the derivation of two in Chapter 310 is untouched.**
+7. **Every relative-month phrase in the ten chapters was read again against the month it names, separately from every ladder, and this time all twenty-four of them were read rather than counted. THE THIRD MONTH IS STILL PRINTED AS *THREE MONTHS BACK* ON ALL TEN DAYS AND THAT REMAINS THE CARRIED DISCLOSURE AT SECTION 2.5; THE FIVE THAT WERE WRONG ARE FIXED AND NONE OF THE OTHER NINETEEN IS.**
+
+### 8.5 THE ARITHMETIC THE NEXT BLOCK WILL OTHERWISE HAVE TO REDISCOVER
+
+**THE WALK. He is out of that gate at about ten to five on the morning of the twenty-fourth, at that frame four miles out at about two in the afternoon — about nine hours for four miles — and then about twelve and a half miles further in about twenty-one hours, because he crosses a turning he stops at, and he is in a ditch at about eleven on the twenty-fifth, and he is back through the gate at about half past six on the morning of the twenty-sixth, having started back at about half past eleven. The pace is slow and it is deliberate and the review did not ask for it to be changed and this record does not change it. WHAT THE NEXT BLOCK NEEDS IS NOT A FASTER MAN BUT A KNOWLEDGE OF WHY HE WAS SLOW.**
+
+**THE THREE DATES THAT KEEP MOVING IN A MANUSCRIPT THAT PRINTS EVERY FIGURE: the sixteenth of the seventh, the day a man sat down on the end of a table and not in the chair, which Volume 06's Chapter 300 fixes and four chapters of this block had dated to the sixth; the eighteenth and the twentieth of the seventh, which are the road man's habit and the digger's table; and the thirteenth of the seventh, which is the day the digger stopped in the middle of a sentence, six days before the mender did the same thing. FOUR CHAPTERS OF A BLOCK AGO GOT THE RELATIVE MONTH WRONG IN ONE PLACE AND A REVIEW OF THIS BLOCK FOUND FIVE MORE, AND THE CLASS IS NOT GOING AWAY ON ITS OWN.**
+
+### 8.6 WHAT A FIX PASS IS NOT
+
+**NO CHAPTER WAS RESTARTED AND NO CHAPTER WAS REWRITTEN. EVERY REPAIR IS INSIDE ONE SENTENCE THAT WAS WRONG, AND EVERY SCENE, EVERY BEAT, EVERY FOOTER, EVERY DATE, EVERY LADDER AND THE ENDING OF THE BLOCK ARE AS THE WRITER LEFT THEM. THE PLOT IS UNCHANGED: THE REMOVAL DAY IS STILL TWO DAYS OFF AT CHAPTER 310 AND NOTHING COMES ON IT, THE THREE THINGS ARE STILL THREE THINGS THAT DID NOT MOVE, THE MAN OF ABOUT SIXTY-FOUR STILL SAYS A NAME HE WILL NOT SAY IN A YARD, THE ELEVEN MILES IS STILL NOT ADDED TO ANYTHING, AND THE ROMANCE STILL DID NOT MOVE. WHAT CHANGED IS THAT A READER WHO CHECKS A DATE NOW FINDS ONE.**
