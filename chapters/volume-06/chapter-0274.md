@@ -4,7 +4,7 @@
 
 The twenty-fourth of the sixth month was hot and close and about nineteen people were in the yard of Lot Seventeen at about ten in the morning, and the chair at the end of the trestle table had been standing there sixty-two days and nobody had sat in it on any of the sixty-two.
 
-The man of about thirty-four who mends fencing gave the three figures and the man of fifty-six read the board out over his shoulder and got the other two right.
+The man of about thirty-four who mends fencing gave the three figures before anybody had put anything down, and the man of fifty-six read the board out over his shoulder and got the other two right.
 
 "**A hundred and eighty-two days on the board and four hundred and ninety-eight days on the train, and the days nobody has entered since the twenty-fourth of November stand at two hundred and twelve, and a hundred and seventy-three days separate the second of January and this morning, and the first day of the month after next is thirty-eight days off counted off this morning, and the ninth of the nine printed nights is sixty-five days back, and I am going to say the next thing standing where I am and nobody is going to move me.**"
 
@@ -48,17 +48,17 @@ At about half past one in the morning the man of about thirty-four who digs loam
 
 At about two o'clock in the morning the bell began.
 
-It is a cracked bell and it does not sound like a bell. It sounds like somebody running the flat of a hand along the rim of a pan, and it does not stop and start, and it goes on for longer than the people in that lane expect, and the woman of about thirty-six who keeps a scale came out of a house at the foot of the bank with a blanket over her shoulders and stood in her own doorway about two hundred yards from the one the man was standing in and did not go anywhere.
+It is a cracked bell and it does not sound like a bell. It sounds like somebody running the flat of a hand along the rim of a pan, and it does not stop and start, and it goes on for longer than the people in that lane expect, and about two hundred yards up the lane from the one the man was standing in, the woman of about thirty-six who keeps a scale was in a house with the door shut and a blanket over her shoulders and did not come out of it while it rang.
 
-A clerk of nineteen years entered that the woman who keeps that scale was in her own doorway and that nobody sent for her and that the record about her not being sent for says not asked, and that a person who is out of a house in the night has not been asked anything and has not refused anything and cannot be counted either way.
+A clerk of nineteen years entered that the woman who keeps that scale was not out of her own house while that bell was going and that nobody sent for her and that the record about her not being sent for says not asked, and that a person who is in a house with the door shut has not been asked anything and has not refused anything and cannot be counted either way.
 
 The last person through the front door of the building with two doors was a man of about thirty-four who keeps a road, who had been at the top of the bank and had come down, and the man of about thirty-four who digs loam said that it was about nine minutes from the first sound to that man, and that he had said it out loud to the lane and that nobody had counted it but him, and that a man standing still in the dark with a hand that does not close is the worst person in this basin to time anything, and that a figure about nine minutes given by that man is a figure about nine minutes and is not a figure about this district.
 
 A clerk of nineteen years entered that a man of about nineteen who counts stood in that lane from about two in the morning and counted the people who came through that front door and got a number, and that he would not give the number to a clerk, and that he said out loud that a number a man counts in the dark at the end of a lane is a figure about a man counting and not about the people, and that he had said on the eleventh of this month that a mat is not a figure about anybody and that a person in a doorway at two in the morning is not a figure about anybody either.
 
-The bell stopped. For about nine seconds after it stopped nobody in that lane said anything, and then the woman of about thirty-six who keeps a scale said one thing out loud from her own doorway, and a clerk of nineteen years entered that it was not counted and that the record about the nine seconds says not asked.
+The bell stopped. For about nine seconds after it stopped nobody in that lane said anything, and then the woman of about thirty-six who keeps a scale came out of her own door with the blanket still over her shoulders and stood in it, and said one thing out loud, and a clerk of nineteen years entered that it was not counted and that the record about the nine seconds says not asked.
 
-"**I have stood at that scale for nine years and I have never once heard it, and I have been standing in that doorway for about two minutes not knowing whether to shut it.**"
+"**I have stood at that scale for nine years and I have never once heard it, and I have been inside that door the whole of it with the blanket on, and I have been standing in it since it stopped and I do not know yet whether to shut it.**"
 
 Then about nine people wrote their own names on a piece of paper on a table outside a door, one at a time, in the ordinary hand of each of them, in the dark, and nobody wrote anybody else's name and nobody asked anybody what they were called, and the woman of about thirty-four who keeps a goat wrote hers and then stood about four feet back and watched the others do it and did not say anything to anybody about what she was doing.
 

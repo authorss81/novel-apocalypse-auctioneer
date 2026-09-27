@@ -4,7 +4,7 @@
 
 The twenty-first of the sixth month came in hot under a low cloud and about nineteen people were in the yard of Lot Seventeen at about ten in the morning, and the chair at the end of the trestle table had been standing there fifty-nine days and nobody had sat in it on any of the fifty-nine.
 
-The man of about thirty-four who mends fencing gave the three figures and the man of fifty-six read the board out over his shoulder and got the other two right.
+The three figures came from the man of about thirty-four who mends fencing and the man of fifty-six had that board over his shoulder and got the other two right.
 
 "**A hundred and seventy-nine days on the board and four hundred and ninety-five days on the train, and the days nobody has entered since the twenty-fourth of November stand at two hundred and nine, and a hundred and seventy days separate the second of January and this morning, and the first day of the month after next is forty-one days off counted off this morning, and the ninth of the nine printed nights was the twentieth of the month before last, which is sixty-two days back, and nobody in this yard knows whether that night happened.**"
 
