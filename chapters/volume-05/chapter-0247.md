@@ -28,7 +28,7 @@ The covenant was read out in that barn at about eleven by the man of about thirt
 
 Then it was put to them and about seven hands went up and two went down, and a clerk of nineteen years entered those two numbers and did not count the rest of the room and entered that she did not count it on purpose, and entered that a hand up is a hand up and is not a name and is not a column and is not a consent to anything that is not on the sheet, **and that the people in that room who put no hand up at all have not refused anything and cannot be counted either way and the record about them says not asked.**
 
-The man of about thirty-four who digs loam disagreed with something that arrived in that barn at about half past twelve and that nobody had asked for, and the clerk entered that nobody in that room asked for it and that she wrote down what it said and not what anybody thought of it.
+The man of about thirty-four who digs loam disagreed with a panel that arrived in that barn at about half past twelve and that nobody had asked for, and the clerk entered that nobody in that room asked for it and that she wrote down what it said and not what anybody thought of it, **and entered that a panel is a rule and a rule is not a document and is not a fourth and is not one of the six instruments this district built and not named.**
 
 > **A COVENANT IS A FIGURE. A FIGURE IS A THING A PERSON CAN BE ASKED ABOUT.**
 >

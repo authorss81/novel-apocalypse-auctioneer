@@ -60,7 +60,7 @@ The man of about thirty-four who digs loam was in that yard for the whole aftern
 
 The man of about thirty-four who mends fencing and the man of about thirty-four who keeps a road carried the letter up the road that climbs at about two in the afternoon, and the man of about thirty-four who mends fencing put it into nine things that were not envelopes, and a clerk entered that a wall is not an address and that nine walls is not nine addresses and is not a figure about nine people, and that nobody in that yard was asked whether nine walls was the right number.
 
-Then something arrived in that yard at about half past three that nobody had asked for, and the clerk entered that nobody in that yard asked for it and that she wrote down what it said and not what anybody thought of it.
+Then a panel arrived in that yard at about half past three that nobody had asked for, and the clerk entered that nobody in that yard asked for it and that she wrote down what it said and not what anybody thought of it, **and entered that a panel is a rule and a rule is not a document and that the three documents this district does not own are three and a panel is not a fourth of them.**
 
 > **A THING THAT HAS BEEN BUILT HAS A NAME ON IT, AND A NAME ON A THING IS A FIGURE. A FIGURE MAY BE ASKED A QUESTION BY ANY PERSON, IN ANY PLACE, ON ANY DAY, WITHOUT BEING ASKED FIRST. A FIGURE HAS NO WAY OF SAYING NO.**
 
