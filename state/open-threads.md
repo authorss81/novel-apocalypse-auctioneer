@@ -646,3 +646,62 @@ Iven remains the final antagonist. His linked founder-mark forced record must be
 - **THE KEEPER'S COLUMN IS STILL HEADED WITH A WORD AND NOT WITH A NAME, AND A THIRD COLUMN OF THAT SHAPE WAS FOUND IN BATCH 0003 CARRYING A MAN ONCE.** Chapters 213, 218, 220, 225, 226, and nothing in this block.
 - **A SHUT DOOR AND ABOUT NINE FEET OF LANE ARE TWO DIFFERENT PLACES, AND NEITHER SUBSTITUTES FOR A PAGE.** A room with a shut door is where a sentence goes to die and not a book; about nine feet of lane is not that and is not a yard either; a doorway is the fourth place this district found this month and it is the only one anybody used on a man who had never been asked a question in nine years.
 - **A BLOCK RECORD MAY NOT DEFINE AWAY A FALSE COUNT IN THE PROSE, AND A RUNNING FIGURE IN PROSE MUST BE RE-DERIVED WHEN A CHAPTER IS REVISED.** Two figures in Chapter 240's footer were on the footer and not in the body and were put into the body. The tally of how many times the notice has been read out was three different figures in three chapters and is now one. **A review of this block must run a case-insensitive whole-word reserved-term scan, a footer-support check that searches the body of its own chapter for every number phrase in the footer, and a running-figure check on any number that recurs across chapters.**
+
+---
+
+# Open threads after Volume 05 Batch 0005 (Chapters 241 to 250)
+
+**Additive to the sections above. THIS IS THE LAST BLOCK OF VOLUME 05. There is no Chapter 251 and no Batch 0006, and everything in this section is either paid, or reserved, or open at the volume close and named here as such.**
+
+- **NINE LOCAL CHARTERS STAND AROUND ONE WATERSHED, EACH WITH ITS OWN BEARERS, ITS OWN TERM AND ITS OWN RIGHT TO WITHDRAW, AND NONE OF THEM IS ON ANY OTHER'S SHEET. THE NINE LOCKS STAY FINITE AND NOBODY OWNS THE WATER.** Four terms that are not the same: five seasons, three, five, and one season with a man of about seventy-one's reason for it. 244, 245, 250. **PAID. The volume's central promise is on the page.**
+
+- **A GIVING UP DOES NOT GIVE BACK A SEASON, AND THE BLOCK SAYS WHAT IT COSTS ON THE PAGE, IN TWO SPEECHES, BY A MAN WHO IS NOT ONE OF THE FIVE, AND DOES NOT ASK THE PERSON WHO WOULD PAY IT.** 244. **PAID. The cost is about four hundred yards of drain and two other men's backs and a hole in the middle of the arrangement, and the spending is not priced because there is no rate in this basin that turns a year into coppers.**
+
+- **THE FIRST REGIONAL PUBLIC COVENANT IN THIS BASIN, ADOPTED IN PUBLIC IN A BARN BY SHOW OF HANDS, HAND-COPIED, READ OUT AT THREE OF THE FOUR COUNTERS, AND ENTERED IN A BOOK A STRANGER MAY WALK UP TO, WITH THE HOLE IN IT ON ITS FACE.** 246, 247, 250. **PAID. Four stewards, a term, public tolls, an appeal path into another region, and no person shall hold this alone on the second line.**
+
+- **THE THIRD OF THE COVENANT'S THREE COLUMNS IS HEADED BY A WORD AND NOT BY A NAME AND IS RULED AND EMPTY ON ITS FACE, AND THE SHEET FORBIDS FILLING IT AND FORBIDS ASKING A HOUSE ABOUT A PAGE IT WAS ALLOWED TO COPY.** 246. **PAID, AND IT IS THE STRUCTURE THE VOLUME HAS BEEN BUILDING SINCE CHAPTER 213. The next one of that shape is not to be found by going to a house. OPEN IN THE SENSE THAT IT IS PERMANENTLY EMPTY, AND THAT IS THE POINT.**
+
+- **HE IS A CONVENER AND HIS NAME IS A PUBLIC INDEX, AND A STRANGER CAME FOUR MILES TO A GATE AND ASKED FOR HIM BY NAME, AND A NAME PUT ON A FIGURE CANNOT BE TAKEN OFF IT BY THE PERSON IT IS PUT ON AND HE SAID THAT HIMSELF BEFORE HE TOOK IT.** 248. **PAID, AND IT COST HIM THE LAST PRIVATE THING HE HAD. A man of fifty-six said in the yard that four strangers in four months is not a market and that he was not going to help this yard get built out of a name.**
+
+- **THE COUNCIL LOST THE IMMEDIATE VOTE AND CALLED HIM A FOUNDER IN A LETTER THAT WENT OUT ON NINE WALLS, AND THE LETTER CANNOT BE ANSWERED BY A MAN IN A YARD. A WALL IS NOT AN ADDRESS.** 247, 249. **PAID, AND THE COUNCIL HAS NO FACE IN THREE BLOCKS. The word founder is on a piece of paper and on nine walls and was not said back by anybody in that yard, and a clerk entered that a man who refuses to deny a word does not thereby claim it.**
+
+- **A LOCK IS THE ONLY INSTRUMENT IN THIS BASIN THAT HAS NEVER NEEDED A PERSON, AND ON THE FIFTEENTH OF THE FIFTH MONTH ABOUT NINE PEOPLE WALKED TO ONE OF THE NINE AND FOUND THE BOARD IN THE NOTCH.** 243. **SPENT, AND IT WAS SPENT BY WALKING AND NOT BY A PANEL. This district can now say the board is in, the water is about a foot over it, the road below is shut, and nobody is holding it, and it still cannot say whether the ninth of the nine printed nights happened on the twentieth of last month, because a plank does not keep nights. THE NINTH OF THE NINE NIGHTS REMAINS OPEN AND IS NOT TO BE CLOSED BY ANYBODY.**
+
+- **THE SINGLE-HOLDER SAFEGUARD IS SHOWN ON THE PAGE TO HAVE BEEN DESIGNED TO DISTRIBUTE POWER AND NOT TO CROWN ANYBODY, AND ONE OF THE NINE WROTE A RULE ABOUT BEING THANKED FOUR HUNDRED YEARS AGO UNDERLINED TWICE.** 246. **PAID AS FAR AS IT CAN BE PAID WITHOUT THE NINTH NAME. THE NINTH DESIGN SIGNATURE IS NOT ON THE PAGE, IS NOT IN THIS VOLUME, DOES NOT APPEAR, AND IS NOT TO BE NAMED OR FORESHADOWED BY THE VOLUME CLOSE EITHER.**
+
+- **THE MAN OF ABOUT FORTY-ONE WHO KEEPS A ROAD HOUSE AT THE TOP OF THE ROAD SAID THAT SOMEBODY COMES DOWN IN MARCH AND PUTS THE BOARD IN AND GOES AGAIN, AND THAT HE DOES NOT KNOW WHAT HE IS CALLED AND HAS NOT ASKED, AND THAT THE DAY HE ASKS IS THE DAY THERE IS A MAN AT THE TOP OF THAT ROAD INSTEAD OF A HOUSE.** 243. **OPEN, AND IT IS THE FIRST TIME IN THIS VOLUME THAT A KEEPER HAS BEEN NEARLY DESCRIBED, AND NO KEEPER IS NAMED AND NO KEEPER IS ON A PAGE AND THERE NEVER WAS ONE. HE HAS NO DAY IN THIS DISTRICT AND NONE MAY BE GIVEN TO HIM.**
+
+- **THE ROMANCE MOVED TWICE IN THIS BLOCK AND IS NOT RESOLVED, AND THE VOLUME DOES NOT END ON A SETTLEMENT.** 242, in a yard, she says out loud that the answer a man gave in a doorway is not hers; 250, a slate goes past a kitchen for the twelfth time and one of them writes on it and it is not about the water, he does not read it out, she says that being fair about one thing without being told that it is not fair is convenient, and the volume ends about two hours later on a man in a channel with his hand on nothing. **OPEN, AND THE NEXT VOLUME OPENS ON IT.**
+
+- **THE NOTICE TAKES EFFECT ON THE FIRST DAY OF THE NEXT MONTH, WHICH IS TEN DAYS AFTER THE LAST DAY OF THE VOLUME'S PROSE.** 234, 237, 240, 246, 249. **OPEN AND UNANSWERED. It has been read out seven times in seventeen days in a yard a stranger can walk into and this district has made it its own twice over and is not going to answer it by carrying a page out of a registrar's own office. A registrar could not finish reading it on the twenty-first of the fifth month.**
+
+- **THE NINTH CHARTER HAS NO NAMES UNDER THE LINE AND THE RECORD SAYS NOT ASKED.** 245. **OPEN, PERMANENTLY, AND IT IS DELIBERATE: a block that filled the ninth line would have produced the shape of the page out of the cave on a second document. THE VOLUME CLOSE MUST DECIDE WHETHER A VOLUME MAY END WITH A NINTH THING UNWRITTEN AND MUST SAY SO PLAINLY RATHER THAN REPAIR IT.**
+
+- **THIS DISTRICT HAS FOUR DIFFERENT NINTHS IN IT AND A CLERK ENTERED THAT THEY ARE FOUR AND ARE NOT ADDED TOGETHER AND ARE NOT A PATTERN**, being the ninth of the nine charters, the ninth of the eleven houses the woman of fifty-eight carries water to, the ninth of the nine printed nights, and the ninth place on the page out of the cave. 250. **OPEN, AND IT IS THE FIRST TIME THE VOLUME HAS SAID OUT LOUD THAT IT WAS COLLECTING NINTHS.**
+
+- **A TANK FOUR MILES DOWN A LANE IS OVER ITS LIP, THE CRACK IS ABOUT THE LENGTH OF A HAND, AND NOBODY HAS ASKED FOR A FIFTH MEND.** 246, 250. **OPEN, AND IT WAS USED TWICE IN THIS BLOCK AS A THING THAT IS NOT A SIXTH AND WAS NOT JOINED TO THE FIRST CHARTER, TO THE NOTCH IN A SILL OR TO ANYTHING ELSE.**
+
+- **A MAN WALKED TWO HUNDRED YARDS AND ASKED ONE MAN ONE QUESTION IN HIS OWN DOORWAY, AND A MAN OF ABOUT FORTY-FOUR THEN WALKED TWO HUNDRED YARDS DOWN BEHIND THE BANK ON HIS OWN TWO FEET AND WAS ASKED A SECOND ONE, AND HE PUT HIS OWN NAME UNDER A LINE IN HIS OWN ROOM.** 239, 241. **PAID, AND IT IS THE FIRST OF THE NINE.**
+
+- **A MAN OF ABOUT THIRTY-ONE WHOSE NAME IS ON A PAGE AGAINST THIS DISTRICT'S RECORDS OFFICE.** Untouched in this block and now load-bearing for a second person, because the same rule was used on the man of twenty-one years in Chapter 248. **OPEN.**
+
+## Carried forward unspent from every batch of Volume 05, and untouched in this block
+
+- **Cael Orin and the man the figure of twenty-one years is against have not met.** The lease is unanswerable and the man with the portfolio is not in this district.
+- **The office** — five places, no register, two valid certificates in a drawer thirty-four miles away. Not approached.
+- **The fourth line of the offer** has not been read out loud. The refusals to read are nine, the departure is unspent, and there is still no date in the ledger for the next reading.
+- **A rate that turns a year into coppers.** There is none and there never has been one, and it is printed on two of the three documents of this block.
+- **The two figures of five years and nine years.** Not joined and neither can be got off the other.
+- **The boy of nine and his name in a column in a building two days of road away.** Untouched.
+- **The blank lot, the origin of the Common Measure, the First House, the removed signature, the three unexplained things of Volume 01, the iron, the echo of an origin toll, the Last Fare, the market stalls on the lower terrace, the first channel's failure and its sills, the four gaps, the two impressions, the two lines holding the office's name, the four lines of the broken circle, the signal's memory pattern, the pan that cannot report itself, the place that cannot report itself, and the mark on the iron.** All untouched.
+- **Selik Marne is a wary ally and not a friend and is not in this block.**
+
+## Corrections this block made, that a volume close must inherit
+
+- **THE RELATIVE MONTH IS *LAST MONTH* AND IT MEANS THE FOURTH MONTH, AND *THE MONTH BEFORE LAST* IS THE THIRD.** The pool of refusals last moved on the twenty-fourth of **the month before last**, which is fifty days before the thirteenth of the fifth month and fifty-nine before the twenty-second, and that phrase must not be written as *last month*.
+- **THE MONTH TURNED IN THE NIGHT OF THE THIRTIETH OF APRIL, WAS SAID OUT LOUD ONCE ON THE SECOND OF THE FIFTH MONTH, AND WAS NOT SAID AGAIN IN CHAPTERS 231 TO 250.** The phrase *the month turned* appears nowhere in those twenty chapters.
+- **NO WEEKDAY IS ATTACHED TO ANY DATE AND NO WEEKDAY NAME IS SPOKEN IN CHAPTERS 231 TO 250.** Batch 0002 used the pattern in four chapters, Batch 0003 in one, Batch 0004 in none, and Batch 0005 in none. **Six weekday names were in the first draft of this block and all six were removed by a case-insensitive whole-word scan.**
+- **NO CHAPTER IN CHAPTERS 231 TO 250 CARRIES TWO DATES.** Twenty chapters, twenty days, one chapter a day.
+- **THE DISTRICT'S OWN NAME APPEARS NOWHERE IN CHAPTERS 231 TO 250.** A scan for *Alder Reach* returns zero in those twenty chapters and one hit in the whole of the volume, in Chapter 204, which is closed canon.
+- **A KEEPER HAS STILL NEVER BEEN ON A PAGE AND THERE NEVER WAS ONE, AND NO KEEPER IS NAMED.** The March man in Chapter 243 is described by what a man of about forty-one does not know about him.
+- **A REVIEW MUST RUN FOUR CHECKS AND ALL FOUR ARE NAMED IN THE BLOCK RECORD AT SECTION 7:** a class-one and class-two counting-motif detector calibrated on Chapters 221 to 240; a footer-support check that searches the body of its own chapter for every capitalised phrase and every numeral in the footer; a running-figure check on any figure that recurs across chapters, and there were **four running figures in this block** — the notice readings, the days on a board, the days the chair has stood and the days the six households have not moved; and a formulaic-construction measure with its method and its denominator printed in full beside the table. **The block's own instrument phrase rose from three sentence-openings in ten chapters to seven, and the disclosure is the point.**

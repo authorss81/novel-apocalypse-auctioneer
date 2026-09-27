@@ -2008,3 +2008,77 @@ Walked through the yard on the tenth of the fifth month without stopping, not se
 ## Off the page in this block, and to be left there
 
 **Cael Orin, the leaseholder, whose name was said once out loud in a yard in Chapter 203 and was NOT said a second time in Chapters 211 to 230 and NOT said a second or a third time in Chapters 231 to 240.** Iven, presumed dead from Adrian's point of view throughout, is not named, not referred to and not foreshadowed in any of the ten chapters, **and the ninth design signature belongs to him and the ninth name is not on the page and the ninth place is ruled and empty.** The office is in none of them. Lina and Orren are in none of them. **Selik Marne is a wary ally and not a friend and is not in this block and nothing required him.** The nine local charters, the regional covenant, the letter calling this district's man a founder on nine walls and the Convener promotion are in none of the ten chapters. **The protected category stays closed at five and no sixth was added, and the block refused a sixth in two chapters and refused a fifth instrument in three and refused a seventh instrument in one.**
+
+---
+
+# Character state after Volume 05 Batch 0005 (Chapters 241 to 250)
+
+**Additive to the sections above. This is the last block of Volume 05. The figures below are the state at Chapter 250 and the volume close inherits them.**
+
+## The man the figure of twenty-one years is against
+
+**HE IS A CONVENER, GRANTED BY SHOW OF HANDS IN A BARN ABOUT NINE MILES UP THE ONLY ROAD IN THIS DISTRICT THAT CLIMBS, ON THE TWENTIETH OF THE FIFTH MONTH, AND THE PROMOTION IS NOT A SCREEN.** He said the price out loud in a hundred and forty-nine words before he took it: a name in a column in a book a stranger may walk up to, which is a worse door than a page. **A name put on a figure cannot be taken off it by the person it is put on, and he said that rule himself and did not ask anybody to take it off.** **A stranger stood at the gate of that yard at ten past seven on the twentieth and asked for him by his name instead of asking for a page, four miles on the strength of the name, and he answered from about nine feet away without being fetched and was carrying a bucket.** He said on the fourteenth and the eighteenth what the two places that had not answered said, in their own words, in their own doorways, on his own two feet. He was not a founder, is not a holder, is not a bearer of a toll, is not a party of the fourth of four, and is not on the standing orders of the nine. He is a person carrying four words in an appeal that goes by its own road into another region.
+
+## The registrar of this district's records office
+
+**SHE IS NOT A BEARER, NOT A HOLDER, NOT A STEWARD AND NOT A PARTY OF ANYTHING, AND SHE SAID SO ALOUD BEFORE SHE SIGNED ANYTHING.** She refused to sign the first charter, in a hundred and forty-one words, on the ground that a registrar who signs a charter has put her room behind somebody's arrangement. She signed **one line out of six** of the covenant and told a barn of about nineteen people which one and why, in a hundred and thirty-nine words. She put the covenant into the book in her room and nowhere else, on the ground that a stranger may walk up and read it there, and that none of the nine local charters goes in there. **On the twenty-first of the fifth month she asked to read the Registry's notice out in a yard of about nineteen people and got through the first line and stopped at the second, which is her own rule of the twenty-first of last month, and nobody in that yard said anything to her about it.** Her rule is unchanged and the notice that takes effect on the first of the next month does not change a word of it.
+
+## The man of about thirty-four who mends fencing
+
+**THE BLOCK'S INSTRUMENT, AND HE PAID FOR IT IN HIS LEFT WRIST.** At about half past ten on the fifteenth he put his left hand on a wire above a two-foot drop on a goat track to get past a man with two buckets, and it took the skin off the inside of his wrist about the length of a thumb, and he did not stop and did not say anything. He wore his cuff buttoned over it for four days, could not close his hand on a fence post at a field gate at about half past three on the nineteenth, and on the twentieth a man of about thirty-four who digs loam tied the wire for him in about four seconds and said nothing about it either. He asked the questions in the doorways and the rooms, said the whole method of the nine out loud in a yard in a hundred and forty words so that a clerk could write it down, read the notice out in that yard seven times in seventeen days, read the covenant out in a barn standing on a bin, carried the letter up the road that climbs and put it into nine things that were not envelopes, and carried the slate past a kitchen for the twelfth time and did not read out what was on it. **He is not a founder and did not deny the word when the letter came.**
+
+## The man of about thirty-four who digs loam
+
+**HE ENDED THE VOLUME STANDING UP TO THE KNEE IN A CHANNEL AT THE SLUICE END OF THE LOAMS WITH HIS HAND ON NOTHING, AND THE FRAME HELD THE WATER BECAUSE A FRAME HOLDS WATER AND THE WEIGHT OF WATER SITS ON A FRAME.** His right arm was out of the sling for the first time since the seventh of the fifth month on the fourteenth; it came out of the sling at the near shaft on the fourth of the month, when he said he was fine and was not, and he put his hand into a channel on the eighth because a man he had met once asked him to, and he lost a day out of the yard on the ninth of the month before that. **He refused three joins in three chapters, disagreed with a panel out loud in a barn in a hundred and seventeen words, and said the cost of a right to withdraw in two speeches in a hundred and twenty-five words and a hundred and fifty-nine words, and is not one of the five and does not live in any of their rooms and nobody asked him what a withdrawal would cost them.** He said the finding on the fifteenth in a hundred and fifty-three words and the month's finding on the twenty-second in two hundred and six words. **A rule about being wrong and a rule about being thanked are the same shape of rule and he has not said so again since the twelfth of last month and must not.**
+
+## The man of fifty-six
+
+**HE IS RIGHT AND HE SAYS SO WITH NO PLEASURE IN IT.** He disagreed with the third line of the second panel out loud in a yard in a hundred and twenty-six words: a figure is a thing, a thing cannot say no, and a person can, and the reason a toll can be fastened to a person is exactly that the person can say no to it. He said that nine people wrote that sentence four hundred years ago to stop a man exactly like this one, and said out loud that a sheet in a yard is not a page in a cave and that he is not going to say they are the same instrument. He gave the count of what the month had got in a hundred and thirty-seven words. **He is not a clerk and has said so about himself about a dozen times in four months and a day a man does not refuse is not a day he has agreed to anything.**
+
+## The man of about forty-one who keeps a road house at the top of the road
+
+**HE IS NOT A KEEPER AND HAS NEVER BEEN ASKED TO BE ONE, AND NO KEEPER HAS EVER BEEN ON A PAGE AND THERE NEVER WAS ONE.** He said, in a hundred and fifty-six words, that he did not put the board in the notch and his father did not, that somebody comes in March and goes down again before the water is down, that he does not know what he is called and has not asked, and that the day he asks is the day there is a man at the top of that road instead of a house, and this house has never had a man in it. **He has no day in this district and none may be given to him, and he was standing outside his own door at about ten past seven on the fifteenth and the twentieth and was not asked a first thing on either morning.**
+
+## The man of about forty-four at the ninth of the eleven houses
+
+**HE WALKED TWO HUNDRED YARDS DOWN BEHIND THE BANK ON HIS OWN TWO FEET, WAS ASKED A SECOND QUESTION, AND SAID HE WOULD WANT HIS OWN HOUSE'S ANSWER IN THERE AND ALSO THAT HE DID NOT KNOW WHAT WAS IN IT.** His two halves are in the record and not in one column. **He is the first name under a line in this district, and he put it there himself in his own room with somebody in the door.** He is a man who keeps a house and is not a clerk of a house.
+
+## The man of about twenty-three who sells nothing and copies for nothing
+
+**HE IS STILL NOT BEING PAID AND THE DISTRICT HAS NOW SAID SO SEVEN TIMES.** He refused two things in this block with a reason and neither refusal moved the eight: a copy of a thing the district had made up that morning, in eighty-four words, and a copy of the ninth sheet, in a hundred and eight words, the second because a copy of an absence is a thing that travels. He asked for eleven coppers three times, was refused three times, and made the covenant copy and the letter copy anyway, for nothing. His right hand does not close on a cold morning and he has stopped telling people.
+
+## The woman of fifty-eight
+
+**SHE HOLDS ELEVEN HOUSES AND NO FIGURE AND HER BUCKETS ARE ABOUT ELEVEN POUNDS FULL AND NOBODY HAS EVER ASKED HER.** She said it uncounted on the seventeenth. She read the covenant back in a barn on the nineteenth after saying yes in four seconds. **The sling she lent the man of about thirty-four who digs loam has not been asked for back and she has not said she wants it, and the record says not asked.** She would not let her eleven houses be a ninth charter and would not let her round be counted. Nobody counted the buckets on any of the ten days.
+
+## The man of about fifty-five who keeps a building four miles down a lane
+
+**THE TANK IS STILL ABOUT A HAND'S BREADTH OVER ITS LIP, THE TWO CHALK LINES ARE STILL ON THE INSIDE OF THE BRICK, THE CRACK IS ABOUT THE LENGTH OF HIS HAND, THE NINE YEARS OF BEDS ARE STILL IN THE SECOND ROOM, AND NOBODY HAS ASKED FOR A FIFTH MEND IN FOUR MONTHS AND COUNTING.** He refused to be a steward for a season before he was asked, in a hundred and twenty-nine words, and asked for what he said to be read back to him. He sent nothing to that yard on the twenty-second and nobody sent anything to him. A crack in a tank is not a sixth protected thing.
+
+## The man of about thirty-four who keeps a scale
+
+**HIS FOUR HOUSES STILL STAND AND WERE NOT ADDED TO ELEVEN AND WERE NOT OFFERED AGAIN.** He gave the yard nothing and said no before he was asked, in a hundred and five words, and said he would read the record back at the counter himself.
+
+## The man of about thirty-four who keeps a tally for six households
+
+**HIS SIX STAND AT ONE SIGNED, TWO REFUSED AND THREE NOT ASKED AGAIN AND HAVE NOT MOVED SINCE THE TWENTY-FIRST OF LAST MONTH, WHICH IS THIRTY-ONE DAYS AT THE LAST DAY OF THIS BLOCK.** He asked whether his six were one of the nine so that he would not have to lie about it later, and he said he was glad of a thing that was not on the paper, and a hand put up for one reason is not a hand put up for another.
+
+## The man of about thirty-four who keeps a road
+
+**HE IS NOT A BEARER OF THE ROAD AND HAS NEVER BEEN ASKED TO BE ONE.** He carried a lamp nobody asked him to carry, waited at a field gate nobody asked him to wait at, went past the field gate on the fifteenth when he had turned back on the eighth, brought a fifth sheet down the road that climbs inside his coat without being asked to fetch it, and carried the letter up. He has been asked one question in this district since the first of this month and has given one answer.
+
+## A man of about nineteen who counts
+
+**HE COUNTED FIFTY-THREE SENTENCES IN CHAPTERS 241 TO 250 AND ALL FIFTY-THREE REPRODUCE.** On the fifteenth, on a shoulder in the cold, he counted nine men going up and nine coming off and did not count the board or the water or the four generations, and said that if he had put a figure on it that afternoon he would have been the first man in this basin who made one up. He counts because a yard is a room with no roof and a number can be checked in it.
+
+## The man of about thirty at a counter
+
+**NOT IN THIS DISTRICT ON ANY OF THE TEN DAYS OF THIS BLOCK, AND NO CHAPTER GAVE HIM A DAY.** He is at the sixteenth time down the eleven mile road and the next is the seventeenth, and the refusals about the ninth holding are seven and are a different figure from the eight.
+
+## The man with the portfolio
+
+**STILL NOT IN THIS DISTRICT, OFF THE PAGE, AND NOTHING IN THIS BLOCK SAYS WHERE HE IS.** The lease is unanswerable and he is a competitor and not an antagonist.
+
+## Off the page in this block, and to be left there
+
+**Cael Orin, whose name was said once out loud in a yard in Chapter 203 and was not said a second or a third time in Chapters 211 to 250. Iven Tallow, the ninth design signature, who is not in the volume, does not appear, and is not to be named or foreshadowed by the volume close. Selik Marne, a wary ally and not a friend, who is not in this block and nothing required him. The nine keepers of the four generations, none of whom has ever been on a page. The Registrar-General, whose name is on a lease and on a portfolio nobody in this district has read.**
