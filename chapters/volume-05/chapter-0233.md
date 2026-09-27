@@ -60,7 +60,7 @@ He said what he thought of the second of those, out loud, in front of about nine
 
 "**That second one is wrong and it is wrong in the direction that costs somebody. You cannot get a house out of a toll by taking the name off it. The name was never what makes it heavy. A thing with no name on it that arrives at a house is a thing the house is afraid of, and a house that is afraid of a thing is a house that will find a person in it to be angry at, and there is no name on the toll for the anger to land on, so it lands on whoever is in the room.**"
 
-Nobody picked it up. A man of fifty-six said that a man who disagrees with a rule out loud is doing the thing this yard was built to let him do, and that it is the third time in this volume that one person has done it, and that a panel may not create a consent and may not make a person a bearer and did not make a house into a party this afternoon.
+Nobody picked it up. A man of fifty-six said that a man who disagrees with a rule out loud is doing the thing this yard was built to let him do, and that it is the third time since the first of April that one person has done it, and that three lines printed by a body four hundred miles away have not been agreed to by anybody in this yard and did not turn a house into a party this afternoon.
 
 The woman of fifty-eight came down the bank at about one with a bucket in each hand and put them down where she puts them, and the man from the road house looked at her for about four seconds and then looked away, and the clerk entered that he looked and that nobody asked him what he was looking at and that the record about it says not asked.
 
