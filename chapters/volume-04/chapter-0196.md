@@ -100,7 +100,7 @@ A man of about thirty-four who mends fencing asked who was going to be at the ba
 
 It was not contradicted. The man the figure of twenty-one years is against said that he had done the arithmetic on the nineteenth on a bank and that it was the same arithmetic as the figure of twenty-one years, **and that the answer to it is that a figure of about four households is not about four households and is not a price and that the district has had that on the page since the second of December and has not got off it.**
 
-**AND ON THE TWENTY-FIRST OF THE THIRD MONTH AN OFFICE SAID IN THIRTY-EIGHT WORDS THAT IT MAY PRINT A HOUSE AND MAY NOT PRINT A PERSON, AND THE ONLY ONE OF THE FIVE A STRANGER CAN WALK UP TO AND TAKE AWAY IS A FOOD AGREEMENT WITH TWO WITNESSES WHO WERE NOT IN THE ROOM.**
+**AND ON THE TWENTY-FIRST OF THE THIRD MONTH AN OFFICE SAID IN FIFTY-TWO WORDS THAT IT MAY PRINT A HOUSE AND MAY NOT PRINT A PERSON, AND THE ONLY ONE OF THE FIVE A STRANGER CAN WALK UP TO AND TAKE AWAY IS A FOOD AGREEMENT WITH TWO WITNESSES WHO WERE NOT IN THE ROOM.**
 
 ---
 

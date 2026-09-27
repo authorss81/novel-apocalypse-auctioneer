@@ -90,7 +90,7 @@ A clerk of nineteen years entered the day in the minute, in her own hand, with t
 
 A man of fifty-six said that a house thirty-four miles east does not come to this yard, and that a woman at a counter thirty-four miles east has said out loud that the house has not named this day and is not going to, **and that the district is therefore holding a date on one side and a refusal on the other and that the two are about the same day and are not joined, and that a line under two things is not a joining and this yard has known that since the fourteenth of January.**
 
-A man of about thirty-four who mends fencing asked, in the six things, what a district is supposed to do with a day it cannot put anywhere, and a woman of about thirty-three who takes in washing at the second channel said the other half of it before he had finished, and it is in the minute in her own words and a man of about nineteen who walked in from the road counted it and got thirty-three.
+A man of about thirty-four who mends fencing asked, in the six things, what a district is supposed to do with a day it cannot put anywhere, and a woman of about thirty-three who takes in washing at the second channel said the other half of it before he had finished, and it is in the minute in her own words and a man of about nineteen who walked in from the road counted it and got twenty-eight.
 
 "**You have one date you cannot send anybody a letter about, and that is the first useful thing a district has not been able to do since March.**"
 

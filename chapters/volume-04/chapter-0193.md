@@ -96,7 +96,7 @@ The rest of the sixteenth was short and a man of about thirty-four who mends fen
 
 He asked whether a district that has just found out that its instrument is a room with a door on it was going to say so on a board, and a clerk of nineteen years said no in about two seconds and gave no reason at all, and nobody asked her for one.
 
-A man of fifty-six said that the board outside the room has carried the twenty-fourth of December for eighty-two days and that it has not been washed, **and that the seventh line at the ninth place is ruled and empty and that it has been ruled and empty since the second of January, and that a finding does not go on a board because a finding is not a date and four other people set the four that are on it.**
+A man of fifty-six said that the board outside the room has carried the twenty-fourth of December for eighty-one days and that it has not been washed, **and that the seventh line at the ninth place is ruled and empty and that it has been ruled and empty since the second of January, and that a finding does not go on a board because a finding is not a date and four other people set the four that are on it.**
 
 The man of about thirty-four who digs loam said that the question about the tank and the boy's name is a day and a half old now and has not been answered, **and that the district has now got a second reason not to answer it, and that the second reason is better than the first and neither of them is going to be in the minute as a reason.**
 

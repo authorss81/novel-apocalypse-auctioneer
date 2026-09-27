@@ -94,7 +94,7 @@ It was left where it was put down. The man of about thirty-four who mends fencin
 
 A clerk of nineteen years entered that the list of the five is not written for the eighth time in a month and that the reason is entered and the reason is not a delay, **and that a shape is not a figure and five is not a column and the count of the five has not moved since the second of January and did not move on the twelfth of the third month.**
 
-**AND A RULE ARRIVED IN THE YARD OF LOT SEVENTEEN ON THE TWELFTH OF THE THIRD MONTH AT ABOUT HALF PAST THREE IN THE AFTERNOON AND NOBODY ASKED FOR IT, AND A MAN OF ABOUT THIRTY-FOUR WHO DIGS LOAM DISAGREED WITH ITS LAST LINE IN TWENTY-ONE WORDS.**
+**AND A RULE ARRIVED IN THE YARD OF LOT SEVENTEEN ON THE TWELFTH OF THE THIRD MONTH AT ABOUT HALF PAST THREE IN THE AFTERNOON AND NOBODY ASKED FOR IT, AND A MAN OF ABOUT THIRTY-FOUR WHO DIGS LOAM DISAGREED WITH ITS LAST LINE IN FIFTEEN WORDS.**
 
 ---
 

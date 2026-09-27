@@ -72,7 +72,7 @@ Then the man of about thirty-four who digs loam said the other half of it, and i
 
 "**A route keeper has given this district the only thing it has ever asked one for twice. He has given it a day to open and a day to shut and he has not given it a number, and a number is what we wanted and a day is what we needed.**"
 
-**AND ON THE NINETEENTH OF THE THIRD MONTH A ROUTE KEEPER GAVE THIS DISTRICT TWO DAYS AND DID NOT GIVE IT A FIGURE, AND HE SAID HE WAS NOT A BEARER OF THE ROAD IN EIGHT WORDS AND GAVE NO REASON, AND A SCHEDULE IS NOT A FIGURE.**
+**AND ON THE NINETEENTH OF THE THIRD MONTH A ROUTE KEEPER GAVE THIS DISTRICT TWO DAYS AND DID NOT GIVE IT A FIGURE, AND HE SAID HE WAS NOT A BEARER OF THE ROAD IN THIRTEEN WORDS AND GAVE NO REASON, AND A SCHEDULE IS NOT A FIGURE.**
 
 ---
 

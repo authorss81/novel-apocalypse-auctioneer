@@ -52,7 +52,7 @@ Nothing was said to it for a moment. A man of about thirty-four who mends fencin
 
 "**A figure a person owes may be brought and the person may be heard once. A person who does not come is not a person who has refused and cannot be counted either way and the record says not asked.**"
 
-A clerk of nineteen years entered that the third line of the second sheet refuses to send for anybody, and that the two counts of not-joining stand at thirteen and at twelve and that neither of them moved on any of the days from the twenty-fourth of the third month to the thirtieth of it, **and that a court which cannot fetch a person is not a court that can end anything and that this district has not got the second of those and did not get it on the twenty-ninth and has not entered it as a delay.**
+A clerk of nineteen years entered that the third line of the second sheet refuses to send for anybody, and that the two counts of not-joining stand at thirteen and at twelve and that neither of them moved on any of the eight days from the twenty-fourth of the third month to the thirty-first of it, **and that a court which cannot fetch a person is not a court that can end anything and that this district has not got the second of those and did not get it on the twenty-ninth and has not entered it as a delay.**
 
 Nobody picked it up. A man of about thirty-four who digs loam said that the fifth line is the only line in five boards and nine copies and eleven hands that anybody in this district is going to be able to use in a year, **and that it is a door and not a remedy and that a house's terms being valid until the people inside them can be heard is a thing a house is owed and not a thing a person is given.**
 
@@ -112,13 +112,13 @@ She entered that things this district does not have number five, being a way of 
 
 She entered that instruments this district has built and not named number six, and that documents nobody owns number three, **and that the three of those are three different lists and are not added to each other and that a court is not in any of the three.**
 
-She entered that the protected things number five and that no sixth was added in this month or in any month, being a passage twice, a loss once, a failure of a remedy once, and a refusal to be asked again once, **and that the conditions with no end on it number four and are a different class of thing and are never entered in that tally, and that the refusals to join two things are thirteen and the registrar's own count is twelve and neither of them changed on any of the ten days from the twenty-fourth of the third month to the thirty-first of the third month.**
+She entered that the protected things number five and that no sixth was added in this month or in any month, being a passage twice, a loss once, a failure of a remedy once, and a refusal to be asked again once, **and that the conditions with no end on it number four and are a different class of thing and are never entered in that tally, and that the refusals to join two things are thirteen and the registrar's own count is twelve and neither of them changed on any of the eight days from the twenty-fourth of the third month to the thirty-first of the third month.**
 
 She entered that five boards and six full lines stand in this district and that the seventh at the ninth place is ruled and has nothing on it, and that nobody put a line on a board on any of the seven days from the twenty-fourth of the third month to the thirtieth of it.
 
 She entered that the board outside the room has carried the twenty-fourth of December for ninety-seven days and nobody has washed it, **and that a list of five written on the back of a page in a yard is not a board and a sheet nailed to a wall is not a board and a page in a drawer in a building is not a board.**
 
-She entered that the fifth thing this district does not have is still the fifth and has not been named by anybody in ten days, and that a day written in a space in a page in a building is not a seventh instrument and was refused entry as one in this yard in the month before last.
+She entered that the fifth thing this district does not have is still the fifth and has not been named by anybody on any of the eight days from the twenty-fourth of the third month to the thirty-first of it, and that a day written in a space in a page in a building is not a seventh instrument and was refused entry as one in this yard in the month before last.
 
 Then the stub came out of his coat and he put it on the table face up and it is about the size of a coin and it has been folded and unfolded so often that it is going to come apart at the folds, and a clerk of nineteen years entered that he was not asked where he had got it and is not going to be.
 

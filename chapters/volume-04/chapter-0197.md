@@ -10,7 +10,7 @@ A second sheet was put on the trestle table in the yard of Lot Seventeen with it
 >
 > **THE REASON GIVEN IS A CHANGE IN THE WATER NAMED IN THE ROTA AND THE HOUSE SAYS THAT THE WATER IN THE ROTA HAS NOT BEEN WHERE THE ROTA NAMED IT.**
 
-A man of about thirty-four who digs loam said the whole of the answer to that before anybody asked him for it, and a man of about nineteen counted it and got thirty-six, and it went in the minute in its own words.
+A man of about thirty-four who digs loam said the whole of the answer to that before anybody asked him for it, and a man of about nineteen counted it and got thirty-six, and it went in the minute in his own words.
 
 "**The water in the rota went where a sluice on a farm sent it, and a man opened that sluice on the night of the thirteenth on his own account and told nine people about it.**"
 
@@ -112,11 +112,11 @@ Nobody argued with that. A man of about thirty-four who digs loam said that the 
 
 A clerk of nineteen years entered that a sheet is not an instrument and is not a page and is not a board and is not a line, **and that the count of instruments this district has built and not named is six and is the same six it was on the second of January, and that a sheet written by a man of fifty-six in an afternoon is not a seventh and is not going to be.**
 
-**AND ON THE TWENTY-THIRD OF THE THIRD MONTH A MAN OF FIFTY-SIX ASKED A WOMAN OF FIFTY-EIGHT FOR THE FIRST TIME IN NINE YEARS WHETHER SHE WANTED TO STOP HER ROUND AND SHE SAID NO IN EIGHTEEN WORDS, AND A SLUICE GOES UP AT SIX IN THE MORNING.**
+**AND ON THE TWENTY-THIRD OF THE THIRD MONTH A MAN OF FIFTY-SIX ASKED A WOMAN OF FIFTY-EIGHT FOR THE FIRST TIME IN NINE YEARS WHETHER SHE WANTED TO STOP HER ROUND AND SHE SAID NO IN TEN WORDS, AND A SLUICE GOES UP AT SIX IN THE MORNING.**
 
 ---
 
-They went out to the farm at about five in the morning on the twenty-fourth of the third month and six of them went: the man the figure of twenty-one years is against, a man of fifty-six, a clerk of nineteen years, the man who digs loam, the fencing man, and the man of about thirty-one who mends a dray, and there was no road book and nothing was entered on the way and all of them said so.
+They went out to the farm at about five in the morning on the twenty-fourth of the third month and six of them went: the man the figure of twenty-one years is against, a man of fifty-six, a clerk of nineteen years, the man of about thirty-four who digs loam, the man of about thirty-four who mends fencing, and the man of about thirty-one who mends a dray, and there was no road book and nothing was entered on the way and all of them said so.
 
 The lane is not metalled for about sixty yards and the last part of it goes to mud about a foot deep and it had been raining since about two, and the man of about thirty-four who digs loam went in first with a bar and a lamp and the chain was off the gate and the gate was open again.
 
