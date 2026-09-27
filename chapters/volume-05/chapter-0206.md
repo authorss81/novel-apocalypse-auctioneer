@@ -90,7 +90,7 @@ She did not look at him and he did not look at her and a clerk of nineteen years
 
 ---
 
-The last of the sixth was the man of about thirty at the counter, who came down the eleven mile road for the eleventh time in eight weeks and was not sent for, and a man of about thirty-four who mends fencing asked him one question and did not ask him about the ninth holding.
+The last of the sixth was the man of about thirty at the counter, who came down the eleven mile road for the thirteenth time since the second of January and was not sent for, and a man of about thirty-four who mends fencing asked him one question and did not ask him about the ninth holding.
 
 He was asked whether his house had ever heard of a Registry.
 

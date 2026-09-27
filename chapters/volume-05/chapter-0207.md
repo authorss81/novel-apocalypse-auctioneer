@@ -4,7 +4,7 @@
 
 The seventh of April was the fifth day of a man with a portfolio, and about fourteen people were in the yard of Lot Seventeen at about ten in the morning, and he was outside the door with the fanlight over it on a bench that is not his and that nobody gave him.
 
-A clerk of nineteen years entered that a stranger has slept four nights in this district at a cost of his own and has not been charged for anything and has not asked to be, **and that a bench is not a room and is not entered, and that this district does not have an instrument for a man who is sitting outside a door and has not gone away, and did not make one this morning and is not going to make one before he does.**
+A clerk of nineteen years entered that a stranger has slept five nights in this district at a cost of his own and has not been charged for anything and has not asked to be, **and that a bench is not a room and is not entered, and that this district does not have an instrument for a man who is sitting outside a door and has not gone away, and did not make one this morning and is not going to make one before he does.**
 
 A man of about thirty-four who mends fencing gave the figures out loud because he gives figures out loud, and a man of fifty-six read the board out afterwards and got both of them right.
 
@@ -74,9 +74,9 @@ The man with the portfolio said at about half past two in the afternoon that he 
 
 He said the second half of it before the asking, and a man of about nineteen counted it and got sixty-nine, and it went in the minute in his own words.
 
-"**I do not know. That is the whole of the difficulty and it has been the whole of it since the second day, and a man who will not name a place cannot be given a road to it, and I have been sitting on that bench for four nights working out how to be given one without giving the other thing away, and I have not managed it.**"
+"**I do not know. That is the whole of the difficulty and it has been the whole of it since the second day, and a man who will not name a place cannot be given a road to it, and I have been sitting on that bench for five nights working out how to be given one without giving the other thing away, and I have not managed it.**"
 
-A man of fifty-six said that this is the first thing a stranger has said in five days that he could not have said himself with a week, and that a man who has been sitting on a bench outside a door working out a way to be helped without asking is a man who understands exactly what this district is and has understood it better than the district has, **and that the refusals with no reason a clerk of a house has given stand at six and are six and this was a reason and a reason is not a seventh.**
+A man of fifty-six said that this is the first thing a stranger has said in five days that he could not have said himself with a week, and that a man who has been sitting on a bench outside a door working out a way to be helped without asking is a man who understands exactly what this district is and has understood it better than the district has, **and that the refusals with no reason a clerk of a house has given stand at seven and are seven and this was a reason and a reason is not an eighth.**
 
 Then the man of about thirty-one spoke, and he had not been asked, and a clerk of nineteen years entered that nobody sent for him and that he was in the yard and that he was not asked a first thing.
 

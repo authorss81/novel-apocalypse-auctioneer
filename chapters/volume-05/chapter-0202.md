@@ -96,7 +96,7 @@ A man of fifty-six said that a man who will give you a copy of the part that is 
 
 He did not answer the fifth, which was the toll, and a man of about thirty-four who digs loam said the reason nobody had been told and then said it anyway, which he does.
 
-"**The toll is at the ninth place and the ninth place is the one holding on the delivery sheet that nobody can account for and I have been to that counter eleven times in eight weeks and asked about it and been refused five times with no reason, and this morning I am not saying those are the same and I am not saying they are not.**"
+"**The toll is at the ninth place and the ninth place is the one holding on the delivery sheet that nobody can account for and I have been to that counter eleven times in twelve weeks and six days and asked about it and been refused five times with no reason, and this morning I am not saying those are the same and I am not saying they are not.**"
 
 A clerk of nineteen years entered that six refusals with no reason a clerk of a house has given stand at six and are not a column and are not added to the thirteen, **and that a man of about thirty at a counter thirty-four miles east and a man of about forty-four with a portfolio came to this district in the same week and that the two of them have not been in this yard at the same hour and that the two are not joined and the clerk is not going to join them and the count of things this district does not have did not move this afternoon at five.**
 

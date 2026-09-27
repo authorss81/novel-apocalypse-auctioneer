@@ -14,7 +14,7 @@ They were gone about an hour. A man of about thirty-four who digs loam was not a
 
 The yoke came off the stones at about eleven in the morning and it came off with nobody's name on it, and there were about four people on the top of that hill and none of them had come up on purpose.
 
-A man of about thirty-four who mends fencing was not one of the four and was at the bottom of the bank, and a clerk of nineteen years entered that he was not asked to go up and that he was not asked about what happened on the top of the hill and that he was not asked afterwards, **and that the woman of fifty-eight had been on that hill at about eight in the morning and had gone down to the counter at the sluice end of the loams at about a quarter to nine with two buckets and had left the yoke on the stones, and that nobody sent for her at any point in the hour and that the record says not asked.**
+A man of about thirty-four who mends fencing was not one of the four and was at the bottom of the bank, and a clerk of nineteen years entered that he was not asked to go up and that he was not asked about what happened on the top of the hill and that he was not asked afterwards, **and that the woman of fifty-eight had been on that hill at about eight in the morning and had gone down to the counter at the foot of the bank at about a quarter to nine with two buckets and had left the yoke on the stones, and that nobody sent for her at any point in the hour and that the record says not asked.**
 
 The man of about thirty-one said it in the yard at about half past eleven and he said it without being asked and a man of about nineteen counted it and got fifty-four, and it went in the minute in his own words.
 
@@ -46,7 +46,7 @@ He brought four sheets, which is what he brings, and a man of about thirty-four 
 
 He said it in four seconds, and a man of about nineteen counted it and got fifty-three, and it went in the minute in his own words.
 
-"**My house calls them locks. It has called them that since before anybody living was born and we have a word for the man who keeps one and a word for the night he turns it, and your man from the Registry has been calling them gates in this yard for five days.**"
+"**My house calls them locks. It has called them that since before anybody living was born and we have a word for the man who keeps one and a word for the night he turns it, and your man from the Registry has been calling them gates in this yard for eight days.**"
 
 Nothing was said for about nine seconds. A man of about thirty-four who mends fencing said out loud that a word a stranger lends you is a word a stranger can take back, and that this district has been standing in a yard using a word it did not know it had borrowed, **and that a man of about thirty at a counter has now given this district a word and a man did not ask him for the man and asked him for the word, and that the two of those are different and the difference is the whole of the difference and nobody in this yard has said it out loud before.**
 
@@ -64,4 +64,4 @@ The man of about thirty-four who digs loam did the sum out loud and in the ordin
 
 "**Eight days in eleven days and three of the eleven with nothing in the column, and one of them a night, and the ninth row is not a road and has a word in it where the other eight have a day, and a run that goes one a night does not stop at eight because it is the eighth. I am not joining that to a road anybody opened in the night nine miles from here. I am saying that eight things are standing open on eight nights in eleven days and that nobody in this basin has said why and that four generations of people who keep them have never been on a page of anybody's.**"
 
-**AND ON THE NINTH OF THE FOURTH MONTH A MAN OF ABOUT THIRTY-ONE TOOK A YOKE OFF THE STONES AT THE TOP OF A HILL AT ABOUT ELEVEN IN THE MORNING WITHOUT ASKING THE WOMAN WHO OWNS IT, A MAN OF ABOUT THIRTY AT A COUNTER GAVE THIS DISTRICT THE WORD THE HOUSE THIRTY-FOUR MILES EAST USES AND A STRANGER HAS BEEN CALLING SOMETHING ELSE FOR FIVE DAYS, AND A CLERK OF NINETEEN YEARS READ OUT EIGHT DAYS THAT HAD NOT BEEN READ OUT BEFORE.**
+**AND ON THE NINTH OF THE FOURTH MONTH A MAN OF ABOUT THIRTY-ONE TOOK A YOKE OFF THE STONES AT THE TOP OF A HILL AT ABOUT ELEVEN IN THE MORNING WITHOUT ASKING THE WOMAN WHO OWNS IT, A MAN OF ABOUT THIRTY AT A COUNTER GAVE THIS DISTRICT THE WORD THE HOUSE THIRTY-FOUR MILES EAST USES AND A STRANGER HAS BEEN CALLING SOMETHING ELSE FOR EIGHT DAYS, AND A CLERK OF NINETEEN YEARS READ OUT EIGHT DAYS THAT HAD NOT BEEN READ OUT BEFORE.**

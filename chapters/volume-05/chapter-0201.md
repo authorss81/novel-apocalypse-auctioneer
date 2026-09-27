@@ -76,7 +76,7 @@ He asked whether the word steward was finished, and a clerk of nineteen years re
 
 The date has passed. The season started this morning and it is the second half of the word and the entry does not say so and nobody has written it down, and the clerk entered it of her own accord and was not asked to and said so.
 
-"**The first half was a word in a book and the second half is a season and the season started on the first of the fourth month and nobody has stood in a frame since the nineteenth of October and I am entering that this is not a delay for the third time in eleven weeks and nobody asked me to.**"
+"**The first half was a word in a book and the second half is a season and the season started on the first of the fourth month and nobody has stood in a frame since the nineteenth of October and I am entering that this is not a delay for the third time in twenty-three weeks and nobody asked me to.**"
 
 A man of about thirty-four who digs loam said that a man who was named a steward by nine households on a night in October has spent the winter carrying somebody else's water, **and that a word with a season on the back of it is not finished because a date went past, and that the district has been saying for four months that a term ends a use without a man standing up and it does not finish a man.**
 

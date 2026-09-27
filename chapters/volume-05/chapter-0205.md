@@ -22,7 +22,7 @@ Nobody said anything for about nine seconds and then a man of about thirty-four 
 
 "**It is not a road.**"
 
-A man of about thirty-four who digs loam said that the ninth holding on the delivery sheet at the second reservoir is the one nobody can account for, and has been since the second of January, and has been refused five times in eleven weeks, **and that a row in a stranger's schedule which says it is not a road is a thing that rhymes with a holding nobody can account for, and that a rhyme is not a join and he is not going to make it one at ten in the morning.**
+A man of about thirty-four who digs loam said that the ninth holding on the delivery sheet at the second reservoir is the one nobody can account for, and has been since the second of January, and has been refused six times and the sixth of them was yesterday, **and that a row in a stranger's schedule which says it is not a road is a thing that rhymes with a holding nobody can account for, and that a rhyme is not a join and he is not going to make it one at ten in the morning.**
 
 A clerk of nineteen years entered that both halves were in the minute in their own words, **and that the refusals to join two things are thirteen and the registrar's own count is twelve and neither of them moved on the morning of the fifth of the fourth month, and that a rhyme noticed in a yard is not a refusal and is not counted and is not a column and the four columns of not-askings did not get a fifth this morning and she did not rule one.**
 
@@ -92,7 +92,7 @@ A clerk of nineteen years entered that the two sentences are in the minute in th
 
 The man of about thirty-four who keeps a scale said that he had been in this yard for three days and had said OPEN four times and had been asked what was opening by himself, **and that a man who is corrected by his own question in a yard is the only person in this district who has ever been, and that he is not going to be made a finding and that the count of instruments this district has built and not named is six and he is not a seventh.**
 
-Nobody contradicted him. A man of fifty-six entered that a man who is corrected by his own instrument has discovered the thing this district spent four months learning and that it cost a stranger three days and a man with a portfolio a morning, **and that a man who learns it from himself is a man who is going to be useful in a fortnight and the district has four of those in eleven weeks and it needs about nine and does not have a way of saying so.**
+Nobody contradicted him. A man of fifty-six entered that a man who is corrected by his own instrument has discovered the thing this district spent four months learning and that it cost a stranger three days and a man with a portfolio a morning, **and that a man who learns it from himself is a man who is going to be useful in a fortnight and the district has four of those in ninety-three days and it needs about nine and does not have a way of saying so.**
 
 ---
 

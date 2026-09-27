@@ -14,8 +14,6 @@ The man of about thirty-one had put the yoke on the tailboard himself at about h
 
 ---
 
----
-
 She saw it at about ten in the morning and she stood at the bottom of the lane for about a minute and a quarter and she did not go up to it and she did not touch it and she did not say anything at all, and about nineteen people watched her not say anything and a clerk of nineteen years entered the not-saying and entered that nobody filled it.
 
 The man of about thirty-one said one thing to her from about nine feet away and a man of about nineteen counted it and got fifty, and it went in the minute in his own words.
@@ -32,7 +30,7 @@ He asked her whether she would come up the hill and walk the yoke down the bank 
 
 "**Then it is not mine to walk down. I have said for eleven days that I cannot say what a day of it is worth and this is a day of it.**"
 
-Nobody picked it up. A man of fifty-six said that a woman who refuses a thing for a reason that is a figure she does not have is not refusing it because she does not want it and that the two are not the same refusal and neither of them is a refusal of the offer of four houses, **and that a refusal with a reason is not one of the six refusals with no reason a clerk of a house has given and the six are six and are not a seventh and were not made larger by a woman in a yard saying a true thing about a figure she does not have.**
+Nobody picked it up. A man of fifty-six said that a woman who refuses a thing for a reason that is a figure she does not have is not refusing it because she does not want it and that the two are not the same refusal and neither of them is a refusal of the offer of four houses, **and that a refusal with a reason is not one of the seven refusals with no reason a clerk of a house has given and the seven are seven and are not an eighth and were not made larger by a woman in a yard saying a true thing about a figure she does not have.**
 
 Then he asked the registrar of this district's records office for one thing, and it was not a name on a line, and she said yes in four seconds and gave the reason, and a man of about nineteen counted the reason and got sixty-one, and it went in the minute in her own words.
 

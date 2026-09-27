@@ -42,9 +42,9 @@ A man of fifty-six said that a man who will not read nine documents into a yard 
 
 The man of about thirty-four who digs loam said the thing nobody in the yard had said, and he said it flat, and nobody picked it up.
 
-"**The ninth place is the one holding on the delivery sheet at the second reservoir that nobody can account for, and a man of about thirty has been to that counter eleven times in eight weeks and been refused five times with no reason, and this sheet says the toll of a lease on a place with no name is paid at the ninth place, and I am not saying those are the same and I have said twice today that I am not saying that.**"
+"**The ninth place is the one holding on the delivery sheet at the second reservoir that nobody can account for, and a man of about thirty has been to that counter eleven times in thirteen weeks and been refused five times with no reason, and this sheet says the toll of a lease on a place with no name is paid at the ninth place, and I am not saying those are the same and I have said twice today that I am not saying that.**"
 
-A clerk of nineteen years entered that the refusals with no reason a clerk of a house has given are six and are not a column and are not added to the thirteen, **and that the ninth holding was refused five times in eleven weeks and the sixth refusal is a Registry man who will not name a place and is not a clerk of a house and the six are the six and the seventh thing that looks like a seventh is not one, and that a resemblance noticed twice is refused the same way it was refused the first time.**
+A clerk of nineteen years entered that the refusals with no reason a clerk of a house has given are six and are not a column and are not added to the thirteen, **and that the sixth of them was given on the twenty-fourth of the third month and the man of about thirty has now been refused five times since the second of January, and that the refusal a Registry man gave this morning is the seventh and is not a clerk of a house and is not a column, and that a resemblance noticed twice is refused the same way it was refused the first time.**
 
 ---
 
@@ -115,7 +115,7 @@ The fourth holding has not taken a drop since the first of the second month and 
 
 A man of fifty-six said that the district has a rule and the rule is the whole of this novel so far, and he said it in the ordinary voice, and a man of about thirty-four who digs loam did not pick it up.
 
-"**A resemblance noticed a second time is not a finding and a resemblance noticed a third time is a habit, and this yard has refused two of them out loud in eleven weeks and I am not going to be the man who makes a third one, and the four of the nine holdings and the ninth of the nine holdings and a road that somebody opened in the night are three things and there is no column for three things.**"
+"**A resemblance noticed a second time is not a finding and a resemblance noticed a third time is a habit, and this yard has refused two of them out loud in ninety-one days and I am not going to be the man who makes a third one, and the four of the nine holdings and the ninth of the nine holdings and a road that somebody opened in the night are three things and there is no column for three things.**"
 
 The Registry man was still in the yard at about four in the afternoon and nobody had sent for him and he had not gone, and a man of about thirty-four who mends fencing asked him, in the six things, in front of about nine people, what a Registry is for.
 
