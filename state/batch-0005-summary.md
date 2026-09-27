@@ -90,7 +90,7 @@ The prose is canon. Where it departs from `workspace/volume-01/batch-0005/PROMPT
 
 ## Review fix pass — batch 0005
 
-Applied against `logs/batch-0005.review.log`. The batch was **not** restarted; every good scene, beat and line of the ten chapters stands. Chapter lengths are essentially unchanged.
+Applied against `logs/batch-0005.review.log`, **a file that is not in the repository and never was, because `logs/` is gitignored, so the findings are checked against this record's account of them and not against the reviewer's own words.** The batch was **not** restarted; every good scene, beat and line of the ten chapters stands. Chapter lengths are essentially unchanged.
 
 **The closing entry of Chapter 50, which was the least reliable page in the batch, is now true.**
 
