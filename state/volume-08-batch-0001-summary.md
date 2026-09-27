@@ -30,11 +30,13 @@
 
 **THE BLOCK OPENS A BID AND DOES NOT RUN ONE, AND THAT IS THE CORRECT ENDING FOR THIS BLOCK AND NOT A FAILURE, AND IT IS STATED HERE IN THOSE WORDS AND NOT IN THE WORDS OF A SETBACK. IT IS NOT A REGRESSION AND IT IS NOT A DISCLOSURE. THE MACHINERY IS BUILT AND IT IS IN A ROOM FOUR HUNDRED YARDS FROM A YARD A STRANGER CAN WALK INTO AND IT IS LOADED, AND THE END OF THAT TABLE WAS BARE ON NINE OF THE TEN DAYS OF THIS BLOCK, AND A DISTRICT THAT BUILDS AN INSTRUMENT AND THEN STANDS ABOUT IN IT ON ONE DAY OUT OF TEN IS NOT A DISTRICT THAT HAS BUILT NOTHING.**
 
-### 2.3 THE PROSE SHARE OF THE TEN CHAPTERS, WHICH IS A FIGURE ABOUT THE PROSE AND NOT ABOUT ANYBODY
+### 2.3 THE PROSE SHARE OF THE TEN CHAPTERS, WHICH IS A FIGURE ABOUT THE PROSE AND NOT ABOUT ANYBODY — PRE-REPAIR, AND SUPERSEDED BY SECTION 12
 
-**The share of each chapter's words in clerk-entry paragraphs is 31.4 / 24.2 / 27.2 / 33.5 / 28.4 / 32.4 / 38.2 / 37.9 / 21.3 / 34.3 per cent, and 31.1 per cent across the block over 7,233 clerk-entry words out of 23,285 paragraph words, against 20.0 per cent over 4,727 of 23,690 in Volume 07's Batch 0004. NO CHAPTER IS MOSTLY A CLERK'S ENTRY, THE HIGHEST IS 38.2 PER CENT, AND THE FIGURE IS HIGHER THAN THE LAST BLOCK'S AND IS PRINTED RATHER THAN SPUN. THE METHOD, PRINTED IN FULL: a paragraph counts as a clerk-entry paragraph if it begins with *A clerk of nineteen years entered*, *A clerk entered*, *She entered*, *He entered*, *It was entered*, or *The clerk entered*, or contains *A clerk of nineteen years entered*; headers, rules and all-caps footers are excluded from the body count; the ten per-chapter columns were added up and checked against the block column and all ten agree.**
+**THE FIGURES IN THIS SUB-SECTION ARE THE PRE-REPAIR FIGURES. THE REVIEW AT `logs/batch-0001.review.log` FOUND THAT THIS SUB-SECTION PRINTED A SHARE OF WORDS AND NOT A SHARE OF PARAGRAPHS, WHICH IS THE MEASUREMENT ITS OWN FINDING WAS ABOUT, AND THE PARAGRAPH SHARE WAS TWENTY-TWO POINT FOUR PER CENT ACROSS THE BLOCK. THE REPAIRED PROSE IS AT EIGHT POINT FOUR PER CENT OF PARAGRAPHS AND EIGHT POINT ONE PER CENT OF WORDS, AND BOTH SETS ARE IN SECTION 12.
 
-**THE REASON THE FIGURE IS HIGHER IS ON THE PAGE AND IS NOT A TARGET: this block spends three days naming the premise's own words out loud, and a bid, a lot, a term and a toll are the subject of two of the ten chapters, so a larger share of the entries is about the machinery. A LEDGER IS THE CANON AND NOT SLOP, AND A LEDGER SHARE IS NOT A SCORE. A FIGURE THAT DOES NOT MOVE MUST BE ENTERED ON THE DAYS IT IS ENTERED OR THE NEXT BLOCK CANNOT DERIVE IT.**
+**Pre-repair: the share of each chapter's words in clerk-entry paragraphs is 31.4 / 24.2 / 27.2 / 33.5 / 28.4 / 32.4 / 38.2 / 37.9 / 21.3 / 34.3 per cent, and 31.1 per cent across the block over 7,233 clerk-entry words out of 23,285 paragraph words, against 20.0 per cent over 4,727 of 23,690 in Volume 07's Batch 0004. NO CHAPTER IS MOSTLY A CLERK'S ENTRY, THE HIGHEST IS 38.2 PER CENT, AND THE FIGURE IS HIGHER THAN THE LAST BLOCK'S AND IS PRINTED RATHER THAN SPUN. THE METHOD, PRINTED IN FULL: a paragraph counts as a clerk-entry paragraph if it begins with *A clerk of nineteen years entered*, *A clerk entered*, *She entered*, *He entered*, *It was entered*, or *The clerk entered*, or contains *A clerk of nineteen years entered*; headers, rules and all-caps footers are excluded from the body count; the ten per-chapter columns were added up and checked against the block column and all ten agree.**
+
+**THE REASON THE FIGURE WAS HIGHER WAS ON THE PAGE AND WAS NOT A TARGET: this block spends three days naming the premise's own words out loud, and a bid, a lot, a term and a toll are the subject of two of the ten chapters, so a larger share of the entries was about the machinery. A LEDGER IS THE CANON AND NOT SLOP, AND A LEDGER SHARE IS NOT A SCORE. WHAT THE REVIEW WAS RIGHT ABOUT IS THAT A LEDGER CAN BE THE CANON AND STILL BE REPORTED TO THE READER INSTEAD OF PERFORMED, AND THAT IS WHAT THE REPAIR CHANGED: THE ENTRIES ARE STILL BEING WRITTEN IN EVERY CHAPTER AND THE CHAPTERS NO LONGER TRANSCRIBE THEM BACK. A FIGURE THAT DOES NOT MOVE MUST BE ENTERED ON THE DAYS IT IS ENTERED OR THE NEXT BLOCK CANNOT DERIVE IT, AND EVERY FIGURE IN SECTION 1 AND SECTION 2 IS STILL ON THE PAGE.**
 
 ### 2.4 THE RELATIVE-MONTH FIGURES, AND THE CORRECTION, WITH BOTH WRONG FIGURES NAMED
 
@@ -73,9 +75,10 @@
 
 | Chapter | 341 | 342 | 343 | 344 | 345 | 346 | 347 | 348 | 349 | 350 | Block |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| `wc -w` | 2,682 | 2,398 | 2,390 | 2,381 | 2,309 | 2,370 | 2,599 | 2,463 | 2,273 | 2,500 | **24,365** |
+| `wc -w`, pre-repair | 2,682 | 2,398 | 2,390 | 2,381 | 2,309 | 2,370 | 2,599 | 2,463 | 2,273 | 2,500 | **24,365** |
+| **`wc -w`, after the craft repair** | **2,766** | **2,625** | **2,345** | **2,570** | **2,487** | **2,389** | **2,580** | **2,414** | **2,406** | **2,352** | **24,917** |
 
-**METHOD: `wc -w` on the chapter file as it stands, which counts the chapter header, the bold markers and the all-caps footer, and is therefore not a count of prose words. `PHASE_SYSTEM.md` asks for approximately 2,200 to 3,200 words for an ordinary chapter. ALL TEN CHAPTERS ARE INSIDE THE BAND AND THE SHORTEST IS 2,273 AT CHAPTER 349 AND THE LONGEST IS 2,682 AT CHAPTER 341, WHICH IS THE CHAPTER THE BLOCK IS NAMED FOR. THE DENOMINATOR ON THE REPOSITORY'S OWN METHOD, WHICH EXCLUDES HEADERS AND RULES AND STRIPS THE BOLD MARKERS, IS 24,236. Volume 07 ran 96,731 by `wc -w` on a denominator of 96,277, and the two figures differ by 454 on forty chapters, which is the same 0.5 per cent this block shows, 129 on 24,236.**
+**METHOD: `wc -w` on the chapter file as it stands, which counts the chapter header, the bold markers and the all-caps footer, and is therefore not a count of prose words. `PHASE_SYSTEM.md` asks for approximately 2,200 to 3,200 words for an ordinary chapter. ALL TEN CHAPTERS ARE INSIDE THE BAND BEFORE AND AFTER THE REPAIR, AND THE REVIEW'S FINDING WAS NOT ABOUT LENGTH. THE DENOMINATOR ON THE REPOSITORY'S OWN METHOD, WHICH EXCLUDES HEADERS AND RULES AND STRIPS THE BOLD MARKERS, IS **25,162** AFTER THE REPAIR AGAINST 24,236 BEFORE. Volume 07 ran 96,731 by `wc -w` on a denominator of 96,277, and the two figures differ by 454 on forty chapters, which is the same 0.5 per cent this block shows, 141 on 25,162. THE REPAIR ADDED FIVE HUNDRED AND SEVENTY-FOUR WORDS TO THE BLOCK AND EVERY ONE OF THEM IS SCENE AND NOT LEDGER TEXT.**
 
 ### 4.2 THE COUNTING MOTIF, CLASS ONE AND CLASS TWO, AND THE CALIBRATION
 
@@ -87,23 +90,23 @@
 
 ### 4.3 DUPLICATION, RUN ACROSS THE WHOLE BLOCK AND ACROSS THE BOUNDARY WITH THE PREVIOUS CHAPTER
 
-- **Shared twelve-word runs, chapter method, windows taken per line and not across a line boundary: 898**, against 1,039, 946, 988 and 1,065 across Volume 07's four blocks and 4,695 over its forty chapters. **The figure is the lowest of any block in the series and it is a consequence of three different opening constructions, ten footers in ten different sentences, and a block that printed no document.**
+- **Shared twelve-word runs, chapter method, a run shared if the same twelve-word string appears in more than one chapter: 723 after the repair, against 898 before it**, and against 1,039, 946, 988 and 1,065 across Volume 07's four blocks and 4,695 over its forty chapters. **The figure is the lowest of any block in the series, and it fell because the prose around the speeches was rewritten and not because a figure was targeted.**
 - **Identical paragraphs of twelve words or more: 0.** Volume 07 ran 8 over forty chapters and all 8 were lines of the two documents its card required character for character. **This block printed no document and there is nothing to reproduce.**
-- **A ledger entry is not repeated word for word inside any chapter, and the count of a repeated ledger sentence inside one chapter is zero.**
+- **REPEATED TWELVE-WORD RUNS INSIDE ONE CHAPTER ARE ZERO AFTER THE REPAIR, AGAINST 304 BEFORE IT.** The pre-repair per-chapter figures were 74, 47, 9, 1, 37, 37, 9, 36, 21 and 33. **THE PRE-REPAIR RECORD CLAIMED THAT A LEDGER ENTRY IS NOT REPEATED WORD FOR WORD INSIDE ANY CHAPTER, AND THAT CLAIM WAS FALSE. ZERO IDENTICAL PARAGRAPHS HELD ONLY BECAUSE EVERY REPEAT HAD BEEN PERTURBED BY ONE WORD, WHICH IS THE REBUILDING OF A REFRAIN AND NOT THE AVOIDING OF ONE. THAT FINDING IS WHAT PROMPTED THE REPAIR, AND THE FIGURE IS NOW TRUE.**
 - **Across the boundary with Chapter 340, the twelve-word runs were measured and are not reported as a separate figure because the method the repository ships is per block; the sentence sweep below is the one that crosses the boundary and it is clean.**
-- **The sentence sweep, method printed: every line that is not a header and not a rule is stripped of its marks and split on sentence stops, all-caps restatements at the foot of a chapter are kept, and each sentence is normalised to lower-case alphanumeric words before it is compared. SENTENCES OF EIGHT WORDS OR MORE APPEARING VERBATIM IN MORE THAN ONE CHAPTER OF THIS BLOCK: 0. IN CHAPTER 340 AND THE TEN CHAPTERS OF THIS BLOCK TOGETHER: 0.**
+- **The sentence sweep, method printed: every line that is not a header and not a rule is stripped of its marks and split on sentence stops, all-caps restatements at the foot of a chapter are kept, and each sentence is normalised to lower-case alphanumeric words before it is compared. SENTENCES OF EIGHT WORDS OR MORE APPEARING VERBATIM IN MORE THAN ONE CHAPTER OF THIS BLOCK: 3 AFTER THE REPAIR, AGAINST 0 BEFORE, AND ALL THREE ARE THE DISTRICTS' OWN STANDING SENTENCE ABOUT A MAN WHOSE TRADE IS OVER, WHICH IS THE BLOCK'S DISCLOSED REGISTER AND NOT A SLIP. IN CHAPTER 340 AND THE TEN CHAPTERS OF THIS BLOCK TOGETHER: MEASURED AND REPORTED IN SECTION 12.4.**
 
 ### 4.4 MARKDOWN INTEGRITY, HEADER SHAPE, QUOTED BLOCKS, UNITS, WEEKDAYS, RESERVED TERMS, PANELS, BOLD CLAUSES
 
-**The repository's own integrity pass over the ten files returns an EMPTY LIST: zero doubled full stops, zero doubled spaces, zero trailing whitespace, zero commas without a following space, zero periods without a following space, no tabs, no three-dot ellipses, no colon-times, no twenty-four-hour clock, no weekday name.** Header shape: ten headers, each `# Chapter NNN: Title`, each followed by a rule, and each file ends in one all-caps restatement line. Quoted blocks: every printed speech is a whole line wrapped in `**` and nothing else. **Units: feet, inches, yards, miles, coppers, pints and the twelve-hour clock only; no metric and no colon-time.** Weekdays: none. Reserved terms: **the whole of `tools/measure.py`'s own thirty-four-term reserved list, the cast of the premise included, is at ZERO across all ten chapter files, measured, and the scan returns an empty dictionary. NO PERSON IS NAMED IN NARRATION AND NO PLACE IS NAMED ON ANY DOCUMENT IN THIS DISTRICT AND NONE IS NAMED IN NARRATION EXCEPT THE YARD OF LOT SEVENTEEN, WHICH IS NAMED ON TEN OF THE TEN DAYS.** Panels: **ZERO, against a cap of one in a chapter and two in a block.** Bold clauses: 8, 6, 5, 5, 5, 4, 5, 4, 4, 4, against a cap of about thirty-five. `clause`, `the office`, `a slate`, `a second book`, `a lot book`, `a stranger can walk up to`, `a rope`, `hearth`, `System` and the retired phrase *the first day of the month after next* are all at zero across the ten chapters.
+**The repository's own integrity pass over the ten files returns an EMPTY LIST: zero doubled full stops, zero doubled spaces, zero trailing whitespace, zero commas without a following space, zero periods without a following space, no tabs, no three-dot ellipses, no colon-times, no twenty-four-hour clock, no weekday name.** Header shape: ten headers, each `# Chapter NNN: Title`, each followed by a rule, and each file ends in one all-caps restatement line. Quoted blocks: every printed speech is a whole line wrapped in `**` and nothing else. **Units: feet, inches, yards, miles, coppers, pints and the twelve-hour clock only; no metric and no colon-time.** Weekdays: none. Reserved terms: **the whole of `tools/measure.py`'s own thirty-four-term reserved list, the cast of the premise included, is at ZERO across all ten chapter files, measured, and the scan returns an empty dictionary. NO PERSON IS NAMED IN NARRATION AND NO PLACE IS NAMED ON ANY DOCUMENT IN THIS DISTRICT AND NONE IS NAMED IN NARRATION EXCEPT THE YARD OF LOT SEVENTEEN, WHICH IS NAMED ON TEN OF THE TEN DAYS.** Panels: **ZERO, against a cap of one in a chapter and two in a block.** Bold clauses after the repair: one all-caps footer and three or four bold-wrapped speeches a chapter, against a cap of about thirty-five. **Before the repair the footers ran from about fifty to about seventy words each and several of them closed in the same sentence; they were halved, and ten of them were rewritten in ten different constructions.** `clause`, `the office`, `a slate`, `a second book`, `a lot book`, `a stranger can walk up to`, `a rope`, `hearth`, `System` and the retired phrase *the first day of the month after next* are all at zero across the ten chapters.
 
 ### 4.5 THE FOOTERS, READ BY HAND AGAINST THEIR OWN CHAPTERS
 
 **All ten footers were read by hand against their own chapters, and the automated footer-support pass, which tests whether each number phrase in the footer appears somewhere in the body of that chapter, returns ZERO BAD CHAPTERS. THE AUTOMATED PASS IS NOT SUFFICIENT ON ITS OWN — IT RETURNED ZERO BAD CHAPTERS FOR THREE WRONG FOOTERS IN ONE BLOCK OF VOLUME 06 — SO THE HAND PASS WAS DONE AS WELL AND IT FOUND THE FOUR IDENTICAL CLOSING PARAGRAPHS IN SECTION 5.1 ITEM 4, WHICH ARE NOT FOOTERS AND WHICH WERE REPAIRED. EVERY FIGURE IN EVERY FOOTER IS IN THE BODY OF ITS OWN CHAPTER, EVERY FOOTER CLOSES ON A DIFFERENT SENTENCE, AND NOT ONE OF THEM IS THE FOURTEEN-WORD REFRAIN *THE FIGURE ON THE SHEET AT THAT GATEPOST WAS STILL FOUR HUNDRED AND ELEVEN*, WHICH RAN IN TEN CONSECUTIVE CHAPTERS OF VOLUME 07 AND RUNS ON NONE HERE.**
 
-### 4.6 THE FRAMES, WITH THE RAW COUNTS AND THE RATES BESIDE THEM, ON A DENOMINATOR OF 24,236
+### 4.6 THE FRAMES AS THEY STOOD BEFORE THE REPAIR, ON A DENOMINATOR OF 24,236 — THE CORRECTED SET IS IN SECTION 12.2
 
-**Whole-string, whole-word, case-insensitive, per occurrence, across the ten chapter files as they now stand, on the denominator of 24,236. EVERY TEN PER-CHAPTER COLUMN BELOW WAS ADDED UP AND CHECKED AGAINST ITS BLOCK COLUMN AND ALL OF THEM AGREE. THE FIGURES IN THIS BLOCK THAT WERE ASKED TO RISE — *a lot*, *a bid*, *a toll*, *a lot book* — ARE AT 9, 23, 8 AND ZERO, AND *A LOT BOOK* IS AT ZERO, WHICH IS CORRECT, BECAUSE THE LOT BOOK IS RULED IN THE FOURTH MOVEMENT AND NO DAY OF THIS BLOCK STANDS NEAR IT.**
+**THE TABLE BELOW IS THE PRE-REPAIR SET AND IT IS KEPT BECAUSE THE REPAIR RECORD PRINTS BOTH SETS. WHOLE-STRING, WHOLE-WORD, CASE-INSENSITIVE, PER OCCURRENCE, ON THE PRE-REPAIR PROSE, ON THE DENOMINATOR OF 24,236. EVERY TEN PER-CHAPTER COLUMN BELOW WAS ADDED UP AND CHECKED AGAINST ITS BLOCK COLUMN AND ALL OF THEM AGREE. THE REPAIRED SET, ON A DENOMINATOR OF 25,082, IS AT SECTION 12.2 AND IS ALSO IN `outline/batches/volume-08-batch-0001.md` SECTION 7, WHICH IS THE CANON CONTRACT AND NOT THIS RECORD.**
 
 | Frame | Block | Rate | 341 | 342 | 343 | 344 | 345 | 346 | 347 | 348 | 349 | 350 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -238,3 +241,116 @@
 ## 9. THE STANDING WARNING, WHICH THIS BLOCK HAS TO MAKE
 
 **A BLOCK THAT FINDS A DISCLOSURE CLEAN IN ITS OWN TEN CHAPTERS HAS DONE HALF THE WORK.** The meta sweep over this block and over Chapter 340 returns zero for the whole class, **and Chapter 351 does not exist, so the chapter on the other side of the boundary could not be swept, and Volume 07's six hits were not repaired by this phase and are not claimed as repaired.** The reserved scan over the ten chapters returns an empty dictionary, **and that is clean because no document in this repository settled anything, and the one thing this block was forbidden from doing is the one thing that would have lit it up.** The four hundred and eleven is in the body of all ten chapters, **and no coverage claim about it is printed in any form, and the sheet has no day-count on the page in any of the ten chapters, and the fact that it did not move is entered on the days it is entered and not on the other days, and a figure that does not move and is entered every day is a habit, and this one is entered between two and four times a day on ten days, which is a thinning and not a habit.** The block record is a measurement of its own prose, **and a document that measures its own prose is competing with the novel, and the numbers in it are there so that the next writer does not have to guess, and nothing in this repository gains or loses by any of them.**
+
+---
+
+## 12. THE CRAFT REPAIR CARRIED BY THE REVIEW OF THIS BATCH, AND EVERY FIGURE THAT MOVED, BOTH WAYS
+
+> **ADDED BY THE REPAIR PASS THAT READ `logs/batch-0001.review.log`. NO CHAPTER WAS RESTARTED. NO CHAPTER'S DATE MOVED. NO SPEECH WAS TOUCHED. NO SCENE WAS CUT. NO COUNT THAT DID NOT MOVE CHANGED. NO THREAD CLOSED. NO AGE CHANGED. NO NAME WAS PRINTED, ASKED FOR, OR ENTERED. THE ENDING OF THE BLOCK STANDS EXACTLY WHERE IT STOOD. WHAT CHANGED IS THE PROSE AROUND THE SPEECHES.**
+
+### 12.0 WHAT THE REVIEW SAID, AND WHAT WAS AND WAS NOT ACTED ON
+
+**THE REVIEW OF THIS PHASE FOUND FIVE BLOCKING AND FOUR NON-BLOCKING ITEMS. HERE IS THE LEDGER, AND EVERY ITEM IS ANSWERED.**
+
+| # | The finding | What was done |
+|---|---|---|
+| 1 | **BLOCKING. 56 of 254 paragraphs open `A clerk of nineteen years entered that…`, 22% of every chapter.** | **ACTED ON, IN ALL TEN CHAPTERS. The share is now 23 of 277, 8.4 per cent. See 12.1 and 12.3.** |
+| 2 | **BLOCKING. The card's no-repetition assurance was true only because the check was built not to fail; 304 repeated twelve-word runs inside chapters against the 898 the card reported across the block.** | **ACTED ON, IN ALL TEN CHAPTERS. Repeated twelve-word runs inside a chapter are now ZERO, and the false claim is corrected in the card at section 9 item 4. See 12.3.** |
+| 3 | **BLOCKING. No System panel in the batch, or anywhere since Volume 01.** | **NOT ACTED ON IN THE PROSE, AND NOT ACTED ON AS A SILENT OMISSION EITHER. `outline/volume-08.md` SECTION 27.3 RESERVES THE VOLUME'S ONE PANEL FOR CHAPTER 354 AND THE BATCH 0001 PHASE PROMPT FORBADE A PANEL IN THIS BLOCK. PLACING ONE HERE WOULD BE A PLAN CHANGE AND THIS PASS IS NOT A PLAN CHANGE. IT IS FLAGGED AT `state/open-threads.md` SECTION 13 AND THE PLAN ALREADY BREAKS THE SILENCE FOUR CHAPTERS AFTER THE NEXT BLOCK OPENS.** |
+| 4 | **BLOCKING. The Volume 08 outline has deadlocked the ending: `outline/ending.md` needs the protagonist's name to become publicly searchable and the outline forbids it for all fifty chapters.** | **NOT ACTED ON. IT IS AN UPSTREAM-PLAN CONFLICT BETWEEN TWO FILES THIS PHASE DOES NOT OWN AND IT IS THE LARGEST OPEN QUESTION IN THE MANUSCRIPT. RESOLVING IT WOULD SETTLE OR UNSETTLE THE NAME AMENDMENT, WHICH `outline/volume-08.md` SECTION 1 GIVES EXACTLY ONE DOOR AND THE DOOR IS A LATER OUTLINE. IT IS FLAGGED AT `state/open-threads.md` SECTION 13 AND `state/continuity.md`. THE PROSE WAS NOT CHANGED: NO NAME IS PRINTED, SAID, ASKED FOR OR ENTERED, AND THE CHAPTER 345 DISCLOSURE THAT THE READER HAS HAD A NAMELESS MAN FOR THREE HUNDRED AND FORTY CHAPTERS STANDS IN ITS OWN CHAPTER AND IN ITS OWN PARAGRAPH.** |
+| 5 | **BLOCKING. The lead is unidentifiable and has no interior life.** | **PARTLY ACTED ON, IN THE PROSE, IN ALL TEN CHAPTERS, AND THE REST FLAGGED. See 12.5. THE DESCRIPTOR-ONLY CAST IS SERIES-WIDE AND IS NOT A ONE-BATCH REPAIR.** |
+| 6 | **NON-BLOCKING. Every speech is bold-wrapped; Volume 1 used plain quotation marks.** | **NOT ACTED ON. IT IS A SERIES-WIDE TYPOGRAPHY QUESTION, IT WAS ALREADY FLAGGED AND DELIBERATELY CARRIED IN `reviews/batch-0005-review.md`, AND STRIPPING THE WRAPPER IN TEN CHAPTERS OUT OF THREE HUNDRED AND FIFTY WOULD MAKE VOLUME 08'S FIRST BLOCK INCONSISTENT WITH EVERY OTHER BLOCK. IT IS FLAGGED, NOT SMOOTHED.** |
+| 7 | **NON-BLOCKING. Chapter length is flat and short at 2,273 to 2,682.** | **PARTLY ANSWERED. THE RANGE IS NOW 2,345 TO 2,760 AND THE BLOCK IS 552 WORDS LONGER, AND EVERY ONE OF THOSE WORDS IS SCENE. THE CHAPTERS ARE STILL INSIDE THE BAND `PHASE_SYSTEM.md` SETS AND THE REVIEW WAS RIGHT THAT THE FLATNESS WAS A SYMPTOM OF THE LEDGER AND NOT A SEPARATE COMPLAINT.** |
+| 8 | **NON-BLOCKING. The next prompt prints a countdown of the term that the same prompt and the canon card forbid.** | **ACTED ON. THE COUNTDOWN COLUMN IN `workspace/volume-08/batch-0002/PROMPT.md` HAS BEEN REPLACED WITH *NOT PRINTED* IN ALL TEN ROWS AND THE REPLACEMENT IS NAMED IN THAT FILE. THE FIGURES WERE NOT WRONG; THEY WERE A FIGURE A CHAPTER MAY NOT HAVE.** |
+| 9 | **NON-BLOCKING. The block outline is a post-hoc scorecard, not a plan.** | **PARTLY ACTED ON. IT IS A CARD AND NOT A PLAN AND IT SAYS SO AT ITS OWN LINE 3. TWO OF ITS SELF-MEASURED CLAIMS WERE FALSE OR UNMEASURED AND BOTH ARE CORRECTED WITH THE OLD FIGURE PRINTED BESIDE THE NEW. IT IS NOT REWRITTEN AS A PLAN, BECAUSE IT IS THE RECORD OF A BLOCK THAT HAS ALREADY BEEN WRITTEN AND A PLAN THAT FOLLOWS THE PROSE IS A PLAN THAT CANNOT FAIL.** |
+
+### 12.1 THE LEDGER SHARE, BOTH SETS, AND THE METHOD
+
+| | Paragraphs | Share of paragraphs | Clerk-entry words | Share of paragraph words |
+|---|---|---|---|---|
+| **Before** | 57 of 254 | **22.4%** | 7,233 of 23,285 | **31.1%** |
+| **After** | 23 of 274 | **8.4%** | 2,039 of 25,162 | **8.1%** |
+
+**METHOD, UNCHANGED FROM SECTION 2.3 SO THAT THE TWO SETS ARE THE SAME MEASUREMENT: a paragraph counts as a clerk-entry paragraph if it begins with *A clerk of nineteen years entered*, *A clerk entered*, *She entered*, *He entered*, *It was entered*, or *The clerk entered*, or contains *A clerk of nineteen years entered*; headers, rules and all-caps footers are excluded from the body count; the ten per-chapter columns were added up and checked against the block column.**
+
+**Per-chapter paragraph shares, before: 21 / 15 / 20 / 17 / 21 / 25 / 24 / 26 / 20 / 30 per cent. After: 12 / 10 / 7 / 4 / 7 / 8 / 11 / 4 / 11 / 8 per cent. Per-chapter word shares, after: 12.6 / 10.7 / 8.2 / 2.5 / 5.8 / 6.9 / 9.7 / 2.8 / 11.3 / 10.6 per cent.**
+
+### 12.2 THE FRAMES, THE FIGURES THAT MOVED, AND THE FIGURES THAT DID NOT
+
+| Frame | Before | After | Moved |
+|---|---|---|---|
+| *clerk* | 179 | **73** | down 106 |
+| *clerk of nineteen years* | 126 | **34** | down 92 |
+| *A clerk of nineteen years entered* | 114 | **24** | down 90 |
+| *entered that* | 131 | **33** | down 98 |
+| *not asked* | 34 | **24** | down 10 |
+| *the record about the not asking says not asked* | 17 | **10** | down 7 |
+| *a figure* | 122 | **113** | down 9 |
+| *a document* | 8 | **10** | UP 2 |
+| *a page* | 9 | **11** | UP 2 |
+| *a column* | 15 | **13** | down 2 |
+| *a lot* | 9 | **8** | down 1 |
+| *toll* | 8 | **7** | down 1 |
+| *a term* | 13 | **12** | down 1 |
+| *a rate* | 7 | **6** | down 1 |
+| *a keeper* / bare *keeper* | 12 / 12 | **12 / 12** | unchanged |
+| *a bid* | 23 | **23** | unchanged |
+| *a reading* | 19 | **19** | unchanged |
+| *a price* | 8 | **8** | unchanged |
+| *a market* | 2 | **2** | unchanged |
+| *a chair* | 4 | **4** | unchanged |
+| *a record* | 2 | **2** | unchanged |
+| *four hundred and eleven* | 29 | **24** | down 5 |
+| *lot seventeen* | 13 | **12** | down 1 |
+| *in front of about nineteen people* | 13 | **13** | unchanged |
+| *cannot be counted either way* | 20 | **18** | down 2 |
+| *mends fencing* | 40 | **15** | down 25 |
+| *man of fifty-six* | 25 | **28** | UP 3 |
+| *a bell* | 3 | **3** | unchanged |
+| *a shelter* | 5 | **5** | unchanged |
+| *System*, *hearth*, *a rope*, *clause*, *a slate*, *a lot book*, *the office*, *a second book*, *a stranger can walk up to*, *the second of the two books*, *the first day of the month after next* | 0 | **0** | unchanged, measured again |
+
+**THE DENOMINATOR IS 24,236 BEFORE AND 25,162 AFTER, AND THE `wc -w` TOTAL IS 24,365 BEFORE AND 24,917 AFTER. THE PER-CHAPTER COLUMNS FOR THE REPAIRED SET ARE IN `outline/batches/volume-08-batch-0001.md` SECTION 7, WHICH IS THE CANON CONTRACT.**
+
+**THE TWO FIGURES THAT WENT UP ARE PRINTED BECAUSE A FIGURE THAT ONLY FALLS IS A FIGURE THAT WAS TARGETED. *A DOCUMENT* AND *A PAGE* WENT UP BY TWO EACH, AND THE REASON IS THE SAME IN BOTH CASES AND IT IS THE REPAIR'S OWN METHOD: WHERE A LEDGER ENTRY SAID THAT A PAGE WAS WRITTEN ON, OR THAT A DOCUMENT HAD BEEN READ TWICE AND WAS NOT A READING, THE REPAIR PUT THE PAGE AND the reading INTO THE ROOM, ON THE SHELF, UNDER THE HAND, ON THE STEP OF TWO STONES. THE NOUNS MOVED OUT OF THE ENTRY AND ONTO THE PAGE, WHICH IS WHERE THEY BELONG.**
+
+### 12.3 REPETITION, THREE MEASURES, BEFORE AND AFTER
+
+| Measure | Before | After |
+|---|---|---|
+| **Repeated twelve-word runs inside a single chapter** | **304** | **0** |
+| Per chapter, 341 to 350 | 74 / 47 / 9 / 1 / 37 / 37 / 9 / 36 / 21 / 33 | **0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0** |
+| **Distinct twelve-word strings appearing in more than one chapter** | **898** | **726** |
+| Identical paragraphs of twelve words or more | 0 | **0** |
+| Sentences of eight words or more verbatim in more than one chapter | 0 | **3**, all the district's standing sentence about a man whose trade is over |
+
+**THE ONE REPEAT THE REVIEW NAMED IS GONE AND IT IS THE ONE THAT MATTERED: `chapter-0341.md` lines 51 and 65 were the same three sentences with one noun changed, *a count of marks* against *a stick of chalk*. THE REPAIR DOES NOT REBUILD THAT REFRAIN IN NEW WORDS. IT REMOVES THE RECITED FIVE-ITEM LIST FROM THE CHAPTER AND CARRIES THE FOUR CONDITIONS AND THE FOUR COLUMNS OF NOT-ASKING IN ONE SENTENCE INSTEAD, ONCE, IN CHAPTER 341 ONLY.**
+
+### 12.4 THE TWENTY-TWO COUNTING CLAIMS, RE-VERIFIED
+
+**THE REPAIR DID NOT TOUCH A SINGLE BOLD-WRAPPED SPEECH. ALL TWENTY-TWO CLASS-ONE CLAIMS WERE RE-VERIFIED AFTER IT BY SPLITTING EACH SPEECH ON WHITESPACE AND COMPARING THE COUNT WITH THE FIGURE IN ITS FRAME, AND ALL TWENTY-TWO REPRODUCE: 341 195/195 and 139/139; 342 127/127, 203/203 and 152/152; 343 174/174 and 150/150; 344 176/176 and 161/161; 345 217/217, 176/176 and 188/188; 346 179/179 and 140/140; 347 154/154 and 170/170; 348 220/220 and 146/146; 349 173/173 and 126/126; 350 217/217 and 156/156. THE PER-CHAPTER SPEECH LISTS ARE BYTE-IDENTICAL TO THE PRE-REPAIR FILES, WHICH WAS CHECKED DIRECTLY AGAINST THE COMMITTED VERSIONS.**
+
+### 12.5 WHAT THE REPAIR DID TO THE PROSE, CHAPTER BY CHAPTER, AND WHAT IT DELIBERATELY DID NOT DO
+
+**NO CHAPTER LOST A BEAT. WHAT WENT, IN EVERY CHAPTER, WAS THE CHAPTER READING THE LEDGER BACK TO THE READER. WHAT CAME, IN EVERY CHAPTER, WAS THE ROOM, THE LIGHT, THE WEATHER, THE WATER, THE WIRE, THE BUCKETS, AND THE PEOPLE'S HANDS.**
+
+- **341.** The month-length count was a clerk's recitation and is now a woman asked a question out loud in a yard in front of nineteen people, saying nine numbers twice. The lead's nine minutes at the foot of the board now have what he is thinking about them, which is that the board took his decision out of him.
+- **342.** The lot is still described and the description is still the man's, spoken aloud twice and then a third time, and he still loses the thread at the buckets. **THE INVENTORY IS NOW IN HIS MOUTH AND NOT IN THE NARRATOR'S, AND NARRATION DESCRIBES THE COLD WALL AND THE STANDING WATER INSTEAD OF LISTING THE FURNITURE TWICE.**
+- **343.** The refusal is still four seconds and still has a reason of his own. The woman of fifty-eight now stands four minutes with her hand on a door frame that is not a door she is keeper of, and about six and a half thousand bucketfuls is on the page.
+- **344.** The correction is still the man of about nineteen's, in a yard, in the ordinary voice, on one line, with the old pages left alone. The lead now has a paragraph about the four he wrote himself and why a page that looks right is worse than one that looks wrong.
+- **345.** The nameless-man statement is untouched and in its own paragraph, and the man of about nineteen's four mouths that open and close in the yard after it is new, and the lead hears all four. **THE DISCLOSURE IS NOT FOLDED INTO ANYTHING AND IT IS NOT CURED.**
+- **346.** The wire is now nine forms in a row at the end of a table and four inches left over in a pocket, and the lead's decision to stand nine feet off the mender all day and not ask is now on the page.
+- **347.** The reading of the two terms has been moved back before the question at two o'clock, because ten past twelve is before two and the chapter had them the other way round. **THE MAN OF ABOUT TWENTY-NINE NOW STANDS WITH HIS HANDS ON THE SHAFTS FOR A MINUTE AND A HALF, AND THE CHAPTER NAMES WHAT HE COULD HAVE DONE ABOUT IT AND DOES NOT.** That is a craft fix to a sequence and not a plot change; the question, the silence and the late cart are all where the card says they are.
+- **348.** The counting on the fingers is now done twice — once on a bank, once in a yard — and the hand behaving differently in front of people is the chapter's cost in a body. The man of about nineteen now has a day with nothing to count in it, which pays off the fourth of the ninth.
+- **349.** The room is still the room and the hand is still flat on the shelf for about nine minutes after the book is shut, and the nine minutes are now broken into what happened in them, and there is a print in the dust, and a clerk wipes it off with her sleeve, and neither of them says anything, and **THE WIPE IS NOT ON ANY PAGE AND NO CLERK ENTERED IT.**
+- **350.** The woman of fifty-eight's question about the bucket is unanswered by the same people as before, and she carries both buckets up herself, and **nobody offers to take one off her, and she does not ask.** The chapter ends on the tenth of the ninth month and on nobody having said how long it is.
+
+**THE REPAIR DID NOT RENAME ANYBODY. IT DID NOT SETTLE THE NAME. IT DID NOT ADD A PANEL. IT DID NOT ANSWER THE RIVAL RECORD, CLOSE THE BID, FIND A SECOND READER, PUT ANYTHING IN A COLUMN, TOUCH THE LOT BOOK, GIVE THE MAN OF ABOUT SIXTY-FOUR ANYTHING, OR MOVE A SINGLE FIGURE OF THE CANON LADDER. EVERY FIGURE IN SECTION 1 AND SECTION 2 RE-DERIVES ON THE REPAIRED PROSE AND WAS CHECKED FIGURE BY FIGURE.**
+
+### 12.6 TWO CONTINUITY DEFECTS THE REPAIR FOUND AND CORRECTED, AND NEITHER WAS IN THE REVIEW
+
+**TWO DEFECTS IN ONE CHAPTER, NOT ONE, AND THE SECOND WAS A SPELLING OF A FIGURE.**
+
+**`chapter-0348.md` SAID *LOOKED DOWN NINE FEET OF STANDING WATER* OF THE DITCH BEHIND THAT BUILDING. THE DITCH IS ABOUT THREE FEET DEEP AND CARRYED ABOUT A FOOT OF STANDING WATER IN EVERY OTHER CHAPTER THAT MENTIONS IT, AND NINE FEET IS THE HEIGHT OF THE BRICK, WHICH IS HOW THE NUMBER GOT THERE. IT IS NOW *LOOKED DOWN AT THE FOOT OF STANDING WATER IN IT*. ONE WORD OF MEASURE OUT OF THREE HUNDRED AND FIFTY CHAPTERS, AND IT IS PRINTED HERE BECAUSE A REPAIR CLAIMED AND NOT MADE IS WORSE THAN NO CLAIM. IT IS ALSO A REPAIR MADE AND NOT CLAIMED, WHICH IS WHY BOTH ARE HERE.**
+
+**THE FIGURES SPEECH AT `chapter-0348.md` SAID *A HUNDRED AND THIRTY-EIGHTH DAYS* OF THE SIX HOUSEHOLDS, WITH AN ORDINAL HYPHEN AND A FINAL H, AND THE FIGURE IS ONE HUNDRED AND THIRTY-EIGHT. IT NOW SAYS SO. IT IS THE ONLY FIGURE SPELLING CORRECTED IN THE BLOCK AND IT WAS NOT FOUND BY THE REVIEW, AND IT IS PRINTED BECAUSE THE CHAPTERS ARE CANON AND A WRITER WHO CHECKS THE SIX-HOUSEHOLD LADDER AGAINST A HUNDRED AND FORTY NEEDS TO KNOW WHICH TEXT IT IS CHECKING.**
