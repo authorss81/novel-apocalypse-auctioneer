@@ -1,4 +1,4 @@
-# Chapter 389: Three Accounts of One Sentence
+# Chapter 389: Four Accounts of One Sentence
 
 ---
 
@@ -20,7 +20,7 @@ The man of about nineteen counted two figures out loud before eleven and wrote t
 
 So between about one and about three, those people asked the man the figure of twenty-one years is against what he had said on the fourth of this month, out loud, in daylight, in front of about nine people, and he said it, and about four people heard it.
 
-He said it in sixty-eight words, and it was the same sixty-eight words he said on the fourth, and nobody counted them today and nobody has claimed that count since.
+He said it in sixty-eight words, and it is the same answer he gave on the fourth of this month and it is shorter than that answer, and the man of about nineteen counted that answer at the time and the page for that day has two hundred and eighty-two words on it, and what was said today is not the same words as those and is the same answer, and nobody counted this one and nobody has claimed that count since.
 
 "**This district has one book and it is on the end of that table and any person can walk up to it and read it, and there is one line in it, and the line gives a figure of that lot and not one person in it, and it is smaller than what that record has, and I am not going to pretend they are the same size.**"
 
