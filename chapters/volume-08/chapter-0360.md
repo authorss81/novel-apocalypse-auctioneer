@@ -40,7 +40,7 @@ A person who has been asked a question in a yard and has answered it is nobody's
 
 The rest of that day was the last day of that run and it went the way the days of that run go.
 
-The reading of the lot stands where it stopped on the sixteenth, at the fourth of the five things a document that sets a thing out has to say, and the man who convened the bid was at the end of that trestle table at about two and said nothing out loud, and about nine people in that yard came and went behind him, and nobody asked him to go on with it and nobody asked him to stop.
+The reading of the lot stands where it stopped on the sixteenth, at the third of the five things a document that sets a thing out has to say, and it has not got to the fourth of them, which is a person, and the man who convened the bid was at the end of that trestle table at about two and said nothing out loud, and about nine people in that yard came and went behind him, and nobody asked him to go on with it and nobody asked him to stop.
 
 The man of about thirty-four who digs loam came in at about three and went out at about half past three and said nothing to anybody. At about half past three the man who convened the bid went up the lane on his own to that building and stood in the doorway of it, with the plank door back about four inches on the nail in the hasp, and looked in at the bench and the stool and the two buckets of water and the table with four legs against the outside wall, and he did not go in and he did not put a hand on anything.
 

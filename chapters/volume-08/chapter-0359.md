@@ -54,7 +54,7 @@ A clerk of nineteen years entered that a man who has said out loud that a rule n
 
 The rest of that afternoon was the yard doing what it does. The man of about thirty-seven who cuts reeds out of that ditch was in the bottom of it until about four. The man who puts tables up stood at the foot of the east wall with his hand-cart against the brick and the tent rolled on the back of it, and nobody asked him anything. The man of about twenty-nine who drives a cart was out on that road and was four miles off before the light came up, and nobody in that yard said one word about whether he would be in it in the evening.
 
-The reading of the lot stands at the fourth of five things a document that sets a thing out has to say, and it is not finished, and no name went into the column that is ruled and empty on any of the days of that run.
+The reading of the lot stands at the third of five things a document that sets a thing out has to say and has not got to the fourth of them, which is a person, and it is not finished, and no name went into the column that is ruled and empty on any of the days of that run.
 
 The woman of fifty-eight came down that bank at about half past five with two empty buckets, filled them at the trough, and carried them up the two goes of the bank herself, and she did not ask anybody anything and nobody in that yard asked her anything.
 

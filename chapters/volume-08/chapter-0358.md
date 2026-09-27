@@ -24,9 +24,9 @@ At about one the man of fifty-six read the four figures out loud over the mender
 
 The clerk of nineteen years was about nine feet off with the day's page and she wrote that entry in one hand on one line, and read it back to herself with her lips not moving before she put the pencil away. It says that two men read the same four figures out loud in one yard in one morning and both of them got them, and that two men reading the same four figures is two figures about a morning and is not one figure and is not a finding. It says that a man arriving at a right number is not a finding and not a habit and not a figure about the man who arrived at it, and that a man who got one figure right once was entered on the twenty-ninth of the eighth as not a finding either, and that those are two figures about two days and are not added together.
 
-About four people in that yard said, one after another and in the ordinary way, that the man who digs loam could read those figures every morning if he wanted to. He said no to all four of them, in about four seconds each time, and gave the same reason to each of them, which was that he had said on the second of this month that he was not going to stand in that yard and be looked at, and that a man who reads a number off a board every morning in front of nineteen people is being looked at.
+About four people in that yard said, one after another and in the ordinary way, that the man who digs loam could read those figures every morning if he wanted to, and he was not in that yard and had gone up the lane to the loam before one o'clock and had not come back, and the man of fifty-six was standing about nine feet off the end of that table and said nothing at all about any of the four of them saying it, and a clerk entered that four people in a yard saying one thing about a man who is not standing in it is four people saying a thing, and is not a man being asked anything and is not a man being offered anything, and that he was not there to hear it and the record about the not asking says not asked.
 
-The same answer given four times in an afternoon is a shape noticed four times and is not a finding and is not a habit and is not a figure about him, and saying a thing could be done is not offering to do it and is not refusing a post that does not exist, and no post was offered to anybody this afternoon and no column was filled.
+The same one thing said four times in one afternoon is a shape noticed four times and is not a finding and is not a habit and is not a figure about a man who was up a lane in a field at the time, and saying a thing could be done is not offering to do it and is not refusing a post that does not exist, and no post was offered to anybody this afternoon and no column was filled.
 
 ---
 
@@ -54,7 +54,7 @@ A clerk of nineteen years entered that a man who reads a figure wrong going past
 
 The man of about thirty-seven who cuts reeds out of that ditch was in the bottom of it with his hook and his bundle until about four. At the foot of the east wall the man who puts tables up for anybody who will use them had his hand-cart against the brick and the tent still rolled on the back of it, and nobody asked him about either of those things.
 
-The reading of the lot stands where it stopped yesterday, at the fourth of the five things a document that sets a thing out has to say, and the man who convened the bid did not try to go on with it this afternoon and nobody in that yard asked him to.
+The reading of the lot stands where it stopped yesterday, at the third of the five things a document that sets a thing out has to say, and has not got to the fourth of them, which is a person, and the man who convened the bid did not try to go on with it this afternoon and nobody in that yard asked him to.
 
 The woman of fifty-eight filled her two buckets at the trough at about half past five and carried them up the two goes of the bank on her own and about four people in that yard watched her do it and none of them offered to take one, and she has not asked for one in nineteen years.
 

@@ -32,9 +32,9 @@ He did not say yes to anything. Nobody had asked him anything. He had taken hold
 
 ---
 
-Then he read the rest of the lot out loud, in the ordinary voice, in daylight, to about nine people, and the count came to a hundred and fifty-eight, and it is in the minute in his own words.
+Then he read the rest of the lot out loud, in the ordinary voice, in daylight, to about nine people, and the count came to a hundred and seventy-six, and it is in the minute in his own words.
 
-"**There is a bench along the far wall and a stool by the door and two buckets of water under the bench, and the light that gets in here is the light that comes off the mud of that lane, and it does not get past the curtain on the nail. The floor is mud and it has been mud since the rain of the seventh month. That wall is cold enough in the middle of the day to make a man lean on it and be sorry. That is the inside of it and that is the whole of the lot, and I am not the man who called this bid and I have not been asked to read anything out. I am saying it because the man holding that door open has got one hand on it and cannot hold it much longer, and somebody has to say what is in there or nobody ever will.**"
+"**There is a bench along the far wall and a stool by the plank door and two buckets of water under the bench, and the front door is on the other side of that room with a handle on it, and the light that gets in here is the light that comes off the mud of that lane, and it does not get past the curtain on the nail. The floor is mud and it has been mud since the rain of the seventh month. That wall is cold enough in the middle of the day to make a man lean on it and be sorry. That is the inside of it and that is the whole of the lot, and I am not the man who called this bid and I have not been asked to read anything out. I am saying it because the man holding that door open has got one hand on it and cannot hold it much longer, and somebody has to say what is in there or nobody ever will.**"
 
 He said that last part in the ordinary voice and about four people in that lane heard him say it. The man the figure of twenty-one years is against stood about four steps back with his right hand in his coat and his left at his side and did not say one word to him about it, before, during or after.
 
@@ -60,7 +60,7 @@ About four people in that yard heard that and one of them was the man who conven
 
 At about three the man of fifty-six read the three figures out loud on his own at the end of that table, with nobody over his shoulder, and got all three, and about nine people heard him do it. A man reading three figures out loud on his own is a man saying a thing out loud and is not a reading, and getting three figures right is not a finding and is not a habit and is not a figure about the man who read them.
 
-At about four the man of about thirty-four who digs loam came into that yard and stood at the end of that trestle table for about ten minutes and did not ask anybody anything, and his right arm has not gone above the level of that shoulder since the first of the seventh month, and he did not raise it, and nobody in that yard asked him to and nobody in that yard said a word about it.
+At about four the man who digs loam came into that yard and stood at the end of that trestle table for about ten minutes and did not ask anybody anything, and his right arm has not gone above the level of that shoulder since the first of the seventh month, and he did not raise it, and nobody in that yard asked him to and nobody in that yard said a word about it.
 
 The woman of fifty-eight came down that bank at about half past four with two empty buckets and filled them at the trough and put them inside that building and carried the second one up the bank, on her own, and about nine people in that yard watched a man with one hand hold a plank door open for about four minutes in a wind with grit in it and then let it go when his arm gave out, and the door came back in on its own weight and stood at four inches, and the nail in that hasp has not moved since the eleventh of the sixth month and did not move this afternoon.
 
