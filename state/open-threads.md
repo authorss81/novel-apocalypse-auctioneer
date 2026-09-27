@@ -597,6 +597,17 @@
 
 **Additive to every section above. Volume 06 is open. The Volume 06 close inherits this section.**
 
+**ADDED BY THE REVIEW REPAIR. THE REPAIR OPENED NOTHING, CLOSED NOTHING AND MOVED NO THREAD. What follows is where the repair put scene material, because a thread that a repair touches is a thread the next writer needs to know about.**
+
+- **The queue at the end of the trestle table in Chapter 300 is NOT a market and is not a counter, and a clerk entered that a thumb laid on a line is not a signature and a queue for a sheet is not a counter.** It is the first time anybody has formed a line at anything in that yard, it is a figure about about nine people, and **it is not a seventh of the instruments and did not become one.**
+- **A man asked the yard in Chapter 300 whether anybody in this district had been paid anything for standing at a table eleven miles off, and a woman by the gate said out loud that nobody has been paid.** **THE FIFTH OF THE FIVE THINGS THIS DISTRICT DOES NOT HAVE IS STILL NOT PAID AND THE THREAD IS OPEN AND IT IS TWELVE DAYS OUT.**
+- **The hand-cart was pushed out from under the wall into the shade in Chapter 291 and the tent stayed rolled on the back of it, and it never goes up.** Open, and paid for in Chapter 299 where the man of about thirty-seven says he is going to put it up on the twentieth or the twenty-first, and Chapter 300 says he cannot carry a board on either day.
+- **The man of about thirty-four who mends fencing read the second of the five lines out loud twice more in Chapter 293 and was asked what the word *place* meant and said it did not have a meaning he was going to give it.** Open, and it is the same man who in Chapter 298 says he has got nothing to read.
+- **The man of fifty-six read the board over his shoulder twice more at about one in the afternoon in Chapter 300 and said that a figure somebody says out loud is a figure and a figure nobody says out loud is a figure in a book.** That is his standing argument and it is not new and it is not a finding, and no thread turns on it.
+- **The man who digs loam stood at the top of the ditch and looked at the far end of a field for about a minute in Chapter 296 and did not go down, and nobody asked him whether he thinks that building is going to be shut.** Open, exactly as it was, and the record about the not asking says not asked.
+- **TWO MAN ON THE TOP OF A BANK CAME DOWN OFF IT AT ABOUT FIVE IN CHAPTER 298 AND SAID NOTHING ELSE ON THE WAY DOWN.** Open, and the reason they were up there is unchanged.
+- **AND THE THREAD THAT IS NOT A THREAD AND IS THE LARGEST ONE IN THE VOLUME: the volume's climax, its concrete resolution, the exit clause, the charter and the right not to be listed are all UNMET at Chapter 300 and a person has to decide what happens to them.** It is item 1 of section 3 in the block record and it is at the head of the close prompt.
+
 ## Opened in this block
 
 - **THE SECOND OF THE FIVE LINES OF PRINT: A PLACE WHERE A SHEET HAS BEEN READ OUT IS A PLACE WHERE AN OFFER IS MADE. NOBODY IN THIS DISTRICT ASKED FOR IT AND THE RECORD ABOUT THE NOT ASKING SAYS NOT ASKED.** 292. **OPEN. IT IS THE FIRST TIME IN THIS VOLUME THAT A BODY HAS PRINTED A THING BECAUSE OF SOMETHING THAT HAPPENED IN THIS DISTRICT. IT IS PRINTED BETWEEN THE SECOND AND THE THIRD, SO THE SECOND OF THE ORIGINAL FOUR IS NOW THE THIRD OF THE SHEET AS IT STANDS AND NOBODY MOVED A LINE, AND A CLERK ENTERED THE RENUMBERING. A DOCUMENT THAT PRINTS A CONSEQUENCE NOBODY ASKED FOR IS NOT A CONSENT AND IS NOT A PARTY OF ANYTHING.**
