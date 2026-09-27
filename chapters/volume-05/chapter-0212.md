@@ -66,7 +66,7 @@ A man of about thirty-four who mends fencing asked him one more thing, in the si
 
 The man who keeps the road left at about half past two and walked the nine miles back and a clerk of nineteen years entered that nobody sent anybody with him and that he was not asked to stay and was not asked to go, **and that a man who keeps a road is not a bearer of a road and has never been asked to be one, and that the count of conditions with no end on it is four and is four and a road with no term on it is not one of the four and she did not rule one this afternoon and is not going to.**
 
-The man of about thirty-four who keeps a tally for six households was in the yard at about half past two and had not been sent for, and a man of about thirty-four who mends fencing asked him, in the six things, in front of about fourteen people, whether the man who keeps the road is a clerk of a house.
+The man of about forty-eight who keeps a tally for six households was in the yard at about half past two and had not been sent for, and a man of about thirty-four who mends fencing asked him, in the six things, in front of about fourteen people, whether the man who keeps the road is a clerk of a house.
 
 He said the honest answer and a man of about nineteen counted it and got fifty-seven, and it went in the minute in his own words.
 

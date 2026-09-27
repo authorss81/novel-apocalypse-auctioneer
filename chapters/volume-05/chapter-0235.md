@@ -18,7 +18,7 @@ The man of about thirty-four who digs loam said the thing about the fifteen days
 
 A man of fifty-six said that a man who says the same shape of true thing about a book for the second time in a fortnight is not making a habit of it and is not making a finding, and that the refusals to join two things are thirteen and the registrar's own count is twelve and neither of them moved at about half past ten in the morning on the seventh of the fifth month, and that a table four feet high is a table and is not one of the six instruments this district built and not named and did not become a seventh.
 
-The man of about thirty-four who keeps a tally for six households was in that yard at about eleven and had not been sent for, and nobody asked him anything, and he said so himself before anybody had decided not to, and the count came to a hundred and six.
+The man of about forty-eight who keeps a tally for six households was in that yard at about eleven and had not been sent for, and nobody asked him anything, and he said so himself before anybody had decided not to, and the count came to a hundred and six.
 
 "**Nobody has asked me anything this morning and I am going to say so out loud while it is true, because I have been asked five times in a month and told nothing five times and the last time I asked about the three the answer was about asking. My six have not moved since the twenty-first of last month, which is sixteen days, and one signed and two refused and three not asked again, and I am not going to be the man who says that in a yard for the second time, and I have just said it, so I am going to stop.**"
 
@@ -44,7 +44,7 @@ Then the man of about thirty-four who mends fencing put the question about the n
 
 Nobody answered it. The clerk entered that a document which names no place and no person cannot be answered and cannot be refused and that the record about it says not asked, **and that a body which has set down a rival record against four places and has said that two of the four have not answered is a body that is going to go on asking those four places until one of them answers, and that a yard is the fastest way in this basin for a question to be answered, and that this district built that on purpose in four months.**
 
-The man of about thirty-six who keeps a scale came into the yard at about two in the afternoon, looked at the notice under the leg of the table without bending down to it, said nothing, and went out again, and the clerk entered that he was there and that nobody sent for him and that he was not asked a first thing.
+The woman of about thirty-six who keeps a scale came into the yard at about two in the afternoon, looked at the notice under the leg of the table without bending down to it, said nothing, and went out again, and the clerk entered that she was there and that nobody sent for her and that she was not asked a first thing.
 
 The man of about thirty-four who digs loam was at the sluice end of the loams from about one until about three and came back with his boots wet to the knee, and nobody asked him what the water was doing and he did not say, and the clerk entered that he was out and that he was not asked and that the record says not asked.
 

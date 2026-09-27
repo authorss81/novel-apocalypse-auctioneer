@@ -90,7 +90,7 @@ A man of about thirty-four who digs loam said that the offer is a good offer and
 
 ---
 
-The man of about thirty-four who mends fencing asked the man of about thirty-six who keeps a scale, in the six things, in front of about fourteen people, what would go on the dray, and the man of about thirty-six said the honest answer and a man of about nineteen counted it and got forty-four, and it went in the minute in his own words.
+The man of about thirty-four who mends fencing asked the woman of about thirty-six who keeps a scale, in the six things, in front of about fourteen people, what would go on the dray, and the woman of about thirty-six said the honest answer and a man of about nineteen counted it and got forty-four, and it went in the minute in her own words.
 
 "**Nothing yet. I have not thought about it and I am not going to think about it in a yard, and a man who offers a cart and has not thought about what goes on it has offered a cart and not a trip.**"
 

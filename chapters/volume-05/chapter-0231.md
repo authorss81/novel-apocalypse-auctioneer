@@ -66,7 +66,7 @@ The man of about twenty-three who sells nothing and copies for nothing was at th
 
 A clerk of nineteen years entered that a refusal with a reason is not one of the refusals with no reason a clerk of a house has given and that the eight did not move, and that a copy is a copy and is not a bearer and is not a figure about a person, and that the three documents this district does not own are three and did not move at about half past twelve in the afternoon on the third of the fifth month.
 
-The man of about thirty-four who keeps a tally for six households was in that yard for about six minutes in the middle of the morning and had not been sent for and was not asked a first thing, and the clerk entered that he was there and that the three households that have not been asked again are three and that nobody in that yard is going to ask him about them today.
+The man of about forty-eight who keeps a tally for six households was in that yard for about six minutes in the middle of the morning and had not been sent for and was not asked a first thing, and the clerk entered that he was there and that the three households that have not been asked again are three and that nobody in that yard is going to ask him about them today.
 
 The day came down hard about half past four. The man of about thirty-four who digs loam went out of the gate and up the bank with his right arm in the sling the woman of fifty-eight had lent him and had not been asked about, and the sheet with the four places on it was still on the trestle table, and the ninth place on the slate underneath it was still ruled and empty, and nobody had put a line on a board on any of the thirty-three days since the first of the fourth month.
 

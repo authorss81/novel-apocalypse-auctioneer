@@ -10,7 +10,7 @@ The three figures were said out loud by the man of about thirty-four who mends f
 
 The book has it that the last day of the fourth month is a hundred and eighteen days after the second of January, and that the board outside the room has been carried for longer than the train has stood, and that neither of those two figures is a count of anybody.
 
-The man of about thirty-four who keeps a tally for six households was in that yard and had not been sent for, and the man of about thirty-four who mends fencing asked him, in the six things, in front of about nine people, about the three households that have not been asked again, and he gave the honest answer and a man of about nineteen counted it and got seventy, and it went in the minute in his own words.
+The man of about forty-eight who keeps a tally for six households was in that yard and had not been sent for, and the man of about thirty-four who mends fencing asked him, in the six things, in front of about nine people, about the three households that have not been asked again, and he gave the honest answer and a man of about nineteen counted it and got seventy, and it went in the minute in his own words.
 
 "**The house has to ask me. I have been asked five times now to be told what to do about the three and I have not been told, and the state of those six has not moved since the twenty-first of last month, which is forty days, and I would like it written down that five is not a sixth and that a fourth time was not a fifth either.**"
 

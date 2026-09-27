@@ -110,13 +110,13 @@ Nobody contradicted him. A man of fifty-six said that a settlement which cannot 
 
 ---
 
-The afternoon was the scale and the four houses, and a man of about thirty-four who mends fencing asked the man of about thirty-six who keeps a scale, in the six things, in front of about nine people, what four houses of a round of about ninety is worth a day.
+The afternoon was the scale and the four houses, and a man of about thirty-four who mends fencing asked the woman of about thirty-six who keeps a scale, in the six things, in front of about nine people, what four houses of a round of about ninety is worth a day.
 
-He said it, and a man of about nineteen counted it and got thirty-nine, and it went in the minute in his own words.
+She said it, and a man of about nineteen counted it and got thirty-nine, and it went in the minute in her own words.
 
 "**I have weighed nine sacks a day for nine years and I have never weighed a day, and the two of those are not the same job and I am not going to stand here and pretend they are.**"
 
-A man of fifty-six said that a man who keeps a scale has just said out loud that his instrument does not measure the thing he is being asked about, **and that a scale is a thing that weighs a sack and that the fifth of the five things this district does not have is a way of saying where a toll lands on a place, and that a scale is a place and a yoke-load is a place and there are two places and a figure and no way of saying where either of them lands.**
+A man of fifty-six said that a woman who keeps a scale has just said out loud that her instrument does not measure the thing she is being asked about, **and that a scale is a thing that weighs a sack and that the fifth of the five things this district does not have is a way of saying where a toll lands on a place, and that a scale is a place and a yoke-load is a place and there are two places and a figure and no way of saying where either of them lands.**
 
 Nobody argued with it. A man of about thirty-four who digs loam said that the offer stands and the woman has not taken it and that both of those are correct and that the offer is going to stand there until one of them moves and it is not a pressure because nobody is going to be asked again this week, **and that a man who offers a job and a woman who does not take it are two people in a lane and a clerk is not going to make it a column.**
 

@@ -22,7 +22,7 @@ She entered that the fourth and fifth of the nine are in four other places, that
 
 The woman of fifty-eight came down the bank at about eleven with two buckets and put them down where she puts them, and the man of about thirty-four who mends fencing carried one of them up without being asked and without saying anything, and the man of about thirty-four who digs loam said that a bucket is a bucket and is about eleven pounds full and is not a figure about either of them, and a clerk entered that nobody counted the buckets and that the record about the two of them says not asked.
 
-The man of about thirty-six who keeps a scale said no before anybody asked him, and gave a reason, and a man of about nineteen counted it and got a hundred and five.
+The woman of about thirty-six who keeps a scale said no before anybody asked him, and gave a reason, and a man of about nineteen counted it and got a hundred and five.
 
 "**I have four houses standing empty and I offered them to this yard on the last day of last month and nobody took them and I am not offering them again. You have put nine sheets out with nine rooms and nine doors and nine rights to walk out of, and there is not one door in any of the nine that a man could come and ask me for, and I am not going to be a tenth thing that this yard counts, and if a clerk writes down that I am in the count I will read it back at the counter myself.**"
 

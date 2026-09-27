@@ -28,7 +28,7 @@ The man of about thirty-four who mends fencing said the sentence, and he had sai
 
 "**A book that a stranger can walk up to is a door, and we built it, and we told nineteen people it was the best instrument in this district, and it is the best instrument in this district and it is a door.**"
 
-A man of about thirty-six who keeps a scale was standing at the bottom of the bank and he said that a door is a thing you shut and a thing you open and that a door which is also the best instrument in the district is two things and not one, **and that a gate holds a road and a door holds a room and that the two are not the same and that the word on the case does not say which.**
+A woman of about thirty-six who keeps a scale was standing at the bottom of the bank and she said that a door is a thing you shut and a thing you open and that a door which is also the best instrument in the district is two things and not one, **and that a gate holds a road and a door holds a room and that the two are not the same and that the word on the case does not say which.**
 
 ---
 

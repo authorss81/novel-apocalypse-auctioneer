@@ -46,15 +46,15 @@ A man of fifty-six said afterwards that he had been in this district for a long 
 
 ---
 
-The man of about thirty-six who keeps a scale was in that yard and had not been sent for, and a man of about thirty-four who mends fencing asked him, in the six things, in front of about nineteen people, what eleven houses of water weighs.
+The woman of about thirty-six who keeps a scale was in that yard and had not been sent for, and a man of about thirty-four who mends fencing asked her, in the six things, in front of about nineteen people, what eleven houses of water weighs.
 
-He gave the honest answer and a man of about nineteen counted it and got fifty-two, and it went in the minute in his own words.
+She gave the honest answer and a man of about nineteen counted it and got fifty-two, and it went in the minute in her own words.
 
 "**I can weigh the water in both buckets and I have weighed water since I was twenty and I cannot weigh the walk up the bank and the walk down it eleven times, and those are two different things and a man who sells the first one is selling the wrong one.**"
 
-A man of fifty-six said that a man who keeps a scale has now told this yard three times in fourteen days that his instrument does not measure the thing he is being asked about, **and that the six instruments this district has built and not named are a rehearsal, a platform, a rail, a correction, a question and a security, and that a scale is not a seventh of them, and that a man who is corrected by his own instrument is a man and not a finding and the six did not move at about half past one in the afternoon on the eighteenth of the fourth month.**
+A man of fifty-six said that a woman who keeps a scale has now told this yard three times in fourteen days that her instrument does not measure the thing she is being asked about, **and that the six instruments this district has built and not named are a rehearsal, a platform, a rail, a correction, a question and a security, and that a scale is not a seventh of them, and that a person who is corrected by their own instrument is a person and not a finding and the six did not move at about half past one in the afternoon on the eighteenth of the fourth month.**
 
-A man of about thirty-four who digs loam said that the man who keeps a scale is the only person in this district who has ever been corrected by his own question and that he said so out loud on the fifth of this month, **and that a man who sells the wrong one on purpose is doing the district a kindness and is not a party to anything, and that the fifth of the five things this district does not have is a way to pay a person who is not in a household and a man who cannot weigh a day is the reason it is on the list.**
+A man of about thirty-four who digs loam said that the woman who keeps a scale is the only person in this district who has ever been corrected by her own question and that she said so out loud on the fifth of this month, **and that a man who sells the wrong one on purpose is doing the district a kindness and is not a party to anything, and that the fifth of the five things this district does not have is a way to pay a person who is not in a household and a person who cannot weigh a day is the reason it is on the list.**
 
 The woman of about thirty-four who keeps a goat at the third house up the lane from the scale was in that yard at about two in the afternoon and was not sent for and was not asked anything, and a clerk of nineteen years entered that she was there and that she is in a pool of tolls with her name not written on anything and has been since the thirtieth of last month, **and that nobody has asked her about the pool and that the not-asking is entered and that it is not one of the four columns and is not a fifth and she did not rule one this afternoon and is not going to.**
 
@@ -64,7 +64,7 @@ She said one thing to nobody in particular and nobody counted it because nobody 
 
 "**I stood in the cold because I was awake. That is all it is and I am not going to have it made into anything in a yard.**"
 
-A man of fifty-six said that a woman who has just told a yard that it must not make a thing of her standing in a doorway has done the same thing the man who digs loam does every morning of his life, **and that a clerk of nineteen years entered that and entered that it is the third time in this district a person has said out loud that they would rather not be made into a finding, and that the first two were a man of about thirty-four who mends fencing about two buckets and a man of about thirty-six who keeps a scale about nine sacks, and that three is not a column.**
+A man of fifty-six said that a woman who has just told a yard that it must not make a thing of her standing in a doorway has done the same thing the man who digs loam does every morning of his life, **and that a clerk of nineteen years entered that and entered that it is the third time in this district a person has said out loud that they would rather not be made into a finding, and that the first two were a man of about thirty-four who mends fencing about two buckets and a woman of about thirty-six who keeps a scale about nine sacks, and that three is not a column.**
 
 ---
 

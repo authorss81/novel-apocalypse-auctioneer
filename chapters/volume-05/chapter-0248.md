@@ -26,7 +26,7 @@ A man of about thirty-four who mends fencing said the part about the room, in th
 
 Nobody argued with him about it. A man of fifty-six said that a man who has said out loud that he does not want a thing and then let it go to somebody else has not lost anything, and that the six instruments this district built and not named are six, and that a column is not an instrument and did not become a seventh.
 
-A man of about thirty-four who keeps a tally for six households said one thing about the column from the edge of the floor, and it was counted, and it came to a hundred and twenty-four.
+A man of about forty-eight who keeps a tally for six households said one thing about the column from the edge of the floor, and it was counted, and it came to a hundred and twenty-four.
 
 "**I keep six households in a book that nobody in this basin has ever read out loud, and the whole of what I have wanted for six months is for somebody who is not me to say the numbers in a room. So I am not going to be the man who stands up in this barn and objects to a man being named. I want it said that I said that, because in three weeks there is going to be somebody in this basin who decides that six households and a convener are the same kind of thing, and I would like there to be a line in the book saying I said no to that this morning before anybody thought of it.**"
 

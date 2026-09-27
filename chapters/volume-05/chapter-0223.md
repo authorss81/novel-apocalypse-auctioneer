@@ -64,7 +64,7 @@ It was entered that the man of about thirty-four who digs loam has said that sen
 
 The man of about thirty-four who mends fencing read the second sheet out again at about four in the afternoon for four people who had come in after eleven, and got nothing wrong, and a clerk of nineteen years entered that the second sheet has been read out in that yard three times in three days and that a sheet read out three times is still one sheet that somebody else wrote.
 
-The four people who came in after eleven were a woman of about thirty-four who keeps a goat, a man of about thirty-six who keeps a scale, a man of about twenty-three who sells nothing and copies for nothing, and a man of about nineteen who counts, and the man of about twenty-three said the word founder out loud when the second line was read and then said he had said it because it is on the sheet and not because he had anything to say about it.
+The four people who came in after eleven were a woman of about thirty-four who keeps a goat, a woman of about thirty-six who keeps a scale, a man of about twenty-three who sells nothing and copies for nothing, and a man of about nineteen who counts, and the man of about twenty-three said the word founder out loud when the second line was read and then said he had said it because it is on the sheet and not because he had anything to say about it.
 
 And it went in that the word on the sheet is a word this district has not had on a page of its own until this month, and that a body that prints a title under a line of its own paper is not asking this yard's permission, and that a word is not a figure and is not a document and is not a column and is not one of the six instruments this district built and not named.
 

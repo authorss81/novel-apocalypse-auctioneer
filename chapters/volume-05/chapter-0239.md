@@ -10,7 +10,7 @@ The man of about thirty-four who mends fencing put the three figures out at the 
 
 Nobody in that yard had said where. The man of about thirty-four who mends fencing said it, and a man of about nineteen counted it and got ninety-six, and it went in the minute in his own words.
 
-"**A man of about thirty-six who keeps a scale stood in that yard yesterday and said the first thing anybody has done in four months that was any use, which is that nobody has asked anybody in four empty houses a single question. I am not going to start with four houses. I am going to start at the ninth of the eleven and I am going to ask one man one question in his own doorway and I am going to write down what he says and I am not going to argue with it.**"
+"**A woman of about thirty-six who keeps a scale stood in that yard yesterday and said the first thing anybody has done in four months that was any use, which is that nobody has asked anybody in four empty houses a single question. I am not going to start with four houses. I am going to start at the ninth of the eleven and I am going to ask one man one question in his own doorway and I am going to write down what he says and I am not going to argue with it.**"
 
 The woman of fifty-eight was in that yard and he asked her, before he went, in his own words and not in the six things, whether he could ask a man at the ninth of her eleven houses a question about a toll. She said yes in about four seconds and gave a reason, and the count came to seventy-two.
 
@@ -30,7 +30,7 @@ The man of about thirty-four who mends fencing asked him his question in his own
 
 A clerk of nineteen years entered that a refusal with a reason is not one of the refusals with no reason a clerk of a house has given, that a man who keeps a house is not a clerk of a house, and that the eight did not move at about one in the afternoon on the eleventh of the fifth month, and that the two sentences said in that doorway were the first two questions anybody had put to that man in nine years and that a man who is asked a first question in nine years has not refused anything before it.
 
-The man of about thirty-four who keeps a tally for six households was not in that yard and was not sent for and was not asked a first thing, and the clerk entered that, and entered that the three households not asked again are three and that the six stand at one signed, two refused and three not asked again and have stood there since the twenty-first of last month, which is twenty days, and that a man of not asking is not a man who has been refused and is not a count of anything.
+The man of about forty-eight who keeps a tally for six households was not in that yard and was not sent for and was not asked a first thing, and the clerk entered that, and entered that the three households not asked again are three and that the six stand at one signed, two refused and three not asked again and have stood there since the twenty-first of last month, which is twenty days, and that a man of not asking is not a man who has been refused and is not a count of anything.
 
 He came back at about half past one and said what the man at the ninth house said after that, in the yard, in the ordinary voice, and it was counted, and it came to eighty-seven.
 

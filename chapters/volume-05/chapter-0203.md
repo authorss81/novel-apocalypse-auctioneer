@@ -64,7 +64,7 @@ A clerk of nineteen years entered that the name was said once and not written do
 
 ---
 
-The lane at the sluice end of the loams had six doors in it and about four people were on it in the afternoon and a man of about thirty-four who keeps a tally for six households was on it and was not sent for.
+The lane at the sluice end of the loams had six doors in it and about four people were on it in the afternoon and a man of about forty-eight who keeps a tally for six households was on it and was not sent for.
 
 A man of about thirty-four who digs loam said the state of them without being asked and it is the state it was on the first of April and on the twenty-first of the third month, and a clerk of nineteen years entered that the record of the six has not moved on any of the three days and that the six are not a column and are not a rate and are not added to anything.
 

@@ -56,7 +56,7 @@ A clerk of nineteen years entered that a body which has lost the immediate vote 
 
 The man of about fifty-six said that a man who reads out a paper in a barn in the ordinary voice has done the hardest version of the thing this basin does, and that nobody had thanked him and he had not asked, and a clerk entered that nobody thanked him and that the record about the thanking says not asked.
 
-The man of about thirty-four who keeps a tally for six households said one thing in that room about what a show of hands is, and it was counted, and it came to a hundred and twenty.
+The man of about forty-eight who keeps a tally for six households said one thing in that room about what a show of hands is, and it was counted, and it came to a hundred and twenty.
 
 "**I keep the count of six households and it has not moved in twenty-eight days and it is not going to move because somebody stood up in a barn today. A show of hands is not a count of households and it is not a count of people and it is the first thing anybody in this basin has done in four months that everybody in the room heard at the same time. I have been writing down six numbers since the second month and nobody has ever read them out. Do not put me down as one of the seven, because I did not put my hand up for the sheet, I put it up for the reading out.**"
 

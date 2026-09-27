@@ -48,7 +48,7 @@ A man of fifty-six said that a yard is not a room either and that a room is not 
 
 ---
 
-The man of about thirty-four who keeps a tally for six households was in that yard at about half past three and had not been sent for, and a man of about thirty-four who mends fencing asked him, in the six things, in front of about nineteen people, what he would do about the three households that have not been asked again.
+The man of about forty-eight who keeps a tally for six households was in that yard at about half past three and had not been sent for, and a man of about thirty-four who mends fencing asked him, in the six things, in front of about nineteen people, what he would do about the three households that have not been asked again.
 
 He said the honest answer and a man of about nineteen counted it and got fifty-two, and it went in the minute in his own words.
 

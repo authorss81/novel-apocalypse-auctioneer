@@ -36,7 +36,7 @@ She said one thing to nobody in particular and a man of about nineteen counted i
 
 "**That is my yoke and I have carried four yoke-loads a day up that hill for nine years and there is nobody on that hill but me, and I am not saying no to a man in a yard and I am not saying yes and I am telling you the whole of what I know about it and the whole of it is that.**"
 
-Nobody picked it up. A man of fifty-six said that a woman has just said the same shape of sentence for the third time in eleven days and that the third one is longer and that the length is not progress and is not a change of mind, **and that a man of about thirty-six who keeps a scale said on the fourth of this month that four houses of a round is not a round and cannot become a round, and that a yoke is not four houses and is not a round and cannot become either, and that the two of those are the same problem wearing different clothes and the fifth of the five did not move at half past one in the afternoon on the ninth of the fourth month.**
+Nobody picked it up. A man of fifty-six said that a woman has just said the same shape of sentence for the third time in eleven days and that the third one is longer and that the length is not progress and is not a change of mind, **and that a woman of about thirty-six who keeps a scale said on the fourth of this month that four houses of a round is not a round and cannot become a round, and that a yoke is not four houses and is not a round and cannot become either, and that the two of those are the same problem wearing different clothes and the fifth of the five did not move at half past one in the afternoon on the ninth of the fourth month.**
 
 ---
 

@@ -58,7 +58,7 @@ The woman of fifty-eight was in that yard at about two in the afternoon and she 
 
 That went in: she refused with a reason, and that a refusal with a reason is not one of the eight and that the eight did not move, and that she was not asked a first thing about the letter and that nobody was going to ask her, **and that the four columns of not-askings in this district are four and she did not rule one this afternoon and is not going to.**
 
-The man of about thirty-six who keeps a scale was not in that yard on this afternoon and his four houses still stood and had not been taken up and were not added to eleven and were not going to be, and a clerk of nineteen years entered that they were four and that the fifth of the five is a way to pay a person who is not in a household and did not move at about four in the afternoon on the twenty-eighth of the fourth month.
+The woman of about thirty-six who keeps a scale was not in that yard on this afternoon and her four houses still stood and had not been taken up and were not added to eleven and were not going to be, and a clerk of nineteen years entered that they were four and that the fifth of the five is a way to pay a person who is not in a household and did not move at about four in the afternoon on the twenty-eighth of the fourth month.
 
 The day came down and the sheet went to the man the figure of twenty-one years is against and not to a clerk, and a clerk of nineteen years entered that it went to a man and not to a clerk, and that a letter a man writes himself is a document somebody owns, and that the three documents nobody owns in this district are three and did not move.
 

@@ -60,15 +60,15 @@ Nobody said the opposite. A man of fifty-six said that the yard has been arguing
 
 ---
 
-The word came up at about half past twelve and it came up because a man of about thirty-six who keeps a scale was in the yard and heard the word OPEN read out four times and asked what was opening.
+The word came up at about half past twelve and it came up because a woman of about thirty-six who keeps a scale was in the yard and heard the word OPEN read out four times and asked what was opening.
 
-A man of about thirty-four who mends fencing said that a lock holds water back and a gate lets a road through and that a schedule with a column headed OPEN is a schedule of things that are shut and are not supposed to be, **and that the man who asked the question has used the word nine times in four days and the yard has used the word nineteen times this morning and neither of them knows which one it is using.**
+A man of about thirty-four who mends fencing said that a lock holds water back and a gate lets a road through and that a schedule with a column headed OPEN is a schedule of things that are shut and are not supposed to be, **and that the person who asked the question has used the word nine times in four days and the yard has used the word nineteen times this morning and neither of them knows which one it is using.**
 
 The man with the portfolio said the word he had been using, and a man of about nineteen counted it and got twenty-three, and it went in the minute in his own words.
 
 "**My Registry calls them gates. The word on my sheet is gates and the word on your sheet is not on my sheet.**"
 
-A man of fifty-six said that a body which has a word for a thing and prints it on a sheet is a body that knows what the thing is, **and that this district has been using the Registry's word for four days without knowing it was the Registry's word, and that a word a stranger lends you is a word a stranger can take back, and that nobody in this yard had asked where the word came from and that the asking was done by a man who keeps a scale at a weighbridge because a column said OPEN.**
+A man of fifty-six said that a body which has a word for a thing and prints it on a sheet is a body that knows what the thing is, **and that this district has been using the Registry's word for four days without knowing it was the Registry's word, and that a word a stranger lends you is a word a stranger can take back, and that nobody in this yard had asked where the word came from and that the asking was done by a woman who keeps a scale at a weighbridge because a column said OPEN.**
 
 Nobody argued with it. A man of about thirty-four who digs loam said that a lock is a thing on a water and a gate is a thing on a road and that a lock holding a road shut is a gate and a gate holding water back is a lock, **and that this district has one of the nine of each of them if anybody here can say which and nobody can and a man who keeps a road is nine miles off and would be the man to ask and nobody sent for him.**
 
@@ -90,9 +90,9 @@ A man of about thirty-four who digs loam said the thing that is actually true an
 
 A clerk of nineteen years entered that the two sentences are in the minute in their own words and that the order is as it came and that she is not going to rule a column for the order, **and that a man who keeps a tally for six households came into that yard at about two and was not sent for and was not asked anything and that the four columns of not-askings are four and that this is not one of them because nothing was asked.**
 
-The man of about thirty-six who keeps a scale said that he had been in this yard for three days and had said OPEN four times and had been asked what was opening by himself, **and that a man who is corrected by his own question in a yard is the only person in this district who has ever been, and that he is not going to be made a finding and that the count of instruments this district has built and not named is six and he is not a seventh.**
+The woman of about thirty-six who keeps a scale said that she had been in this yard for three days and had said OPEN four times and had been asked what was opening by herself, **and that a person who is corrected by their own question in a yard is the only person in this district who has ever been, and that she is not going to be made a finding and that the count of instruments this district has built and not named is six and she is not a seventh.**
 
-Nobody contradicted him. A man of fifty-six entered that a man who is corrected by his own instrument has discovered the thing this district spent four months learning and that it cost a stranger three days and a man with a portfolio a morning, **and that a man who learns it from himself is a man who is going to be useful in a fortnight and the district has four of those in ninety-three days and it needs about nine and does not have a way of saying so.**
+Nobody contradicted her. A man of fifty-six entered that a person who is corrected by their own instrument has discovered the thing this district spent four months learning and that it cost a stranger three days and a man with a portfolio a morning, **and that a person who learns it out of their own instrument is going to be useful in a fortnight and the district has four of those in ninety-three days and it needs about nine and does not have a way of saying so.**
 
 ---
 
@@ -124,4 +124,4 @@ A man of about thirty-four who digs loam said that the man is going to be at a p
 
 A man of fifty-six said that the rest of it is that a date is the last day somebody can do something, and that the rest of it is that a stranger's date is a date in the same way, and that the two of them are the same sentence and the man who digs loam did not say it and he is not going to say it for him.
 
-**AND ON THE FIFTH OF THE FOURTH MONTH A CLERK OF NINETEEN YEARS READ OUT A SCHEDULE OF NINE ROWS UNDER A COLUMN HEADED OPEN, EIGHT OF WHICH CARRY A DAY AND THE NINTH OF WHICH CARRIES THE WORDS IT IS NOT A ROAD, A MAN OF ABOUT THIRTY-FOUR WHO DIGS LOAM DISAGREED WITH THE LAST LINE OF THE PANEL THAT CAME AT ELEVEN IN THE MORNING IN TWENTY-THREE WORDS, A MAN OF ABOUT THIRTY-SIX WHO KEEPS A SCALE ASKED WHAT WAS OPENING, AND THE MAN FROM THE REGISTRY SAID THAT THE LAST DAY OF THE FOURTH MONTH WAS THE DAY HE HAD TO BE AT A PLACE WHERE THERE WAS NOBODY BUT HIMSELF.**
+**AND ON THE FIFTH OF THE FOURTH MONTH A CLERK OF NINETEEN YEARS READ OUT A SCHEDULE OF NINE ROWS UNDER A COLUMN HEADED OPEN, EIGHT OF WHICH CARRY A DAY AND THE NINTH OF WHICH CARRIES THE WORDS IT IS NOT A ROAD, A MAN OF ABOUT THIRTY-FOUR WHO DIGS LOAM DISAGREED WITH THE LAST LINE OF THE PANEL THAT CAME AT ELEVEN IN THE MORNING IN TWENTY-THREE WORDS, A WOMAN OF ABOUT THIRTY-SIX WHO KEEPS A SCALE ASKED WHAT WAS OPENING, AND THE MAN FROM THE REGISTRY SAID THAT THE LAST DAY OF THE FOURTH MONTH WAS THE DAY HE HAD TO BE AT A PLACE WHERE THERE WAS NOBODY BUT HIMSELF.**
