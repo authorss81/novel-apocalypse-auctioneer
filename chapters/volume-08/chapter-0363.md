@@ -62,4 +62,4 @@ The reading of that lot stands where it stopped on the sixteenth, at the third o
 
 The light went off that yard at about half past eight and the figure on that sheet at that gatepost is four hundred and eleven and will be the same in the morning, and the first thing anybody read back from the top in this district was read back from the top on this day by a man with a cart who said afterwards that he did not know whether he had got it right.
 
-**A THING WAS READ BACK FROM THE TOP IN THAT YARD FOR THE FIRST TIME IN THIS DISTRICT BY A MAN NOBODY ASKED, AND HE GOT PART OF IT WRONG, AND THE MAN WHO HAD SAID IT SAID IT ALL AGAIN FROM THE TOP, AND A DAY OF ONE MAN'S WORK WAS PAID IN WIRE.**
+The boy of about nineteen had that minute open on the boards of that trestle table by about one and shut it again with no figure in it, because a man with a cart had said out loud that he did not know whether he had read a thing right and there was nothing to write down. He put the minute under his arm and went up that lane, and nobody in that yard asked him what he was going to do with it.

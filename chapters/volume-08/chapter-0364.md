@@ -30,7 +30,7 @@ He had counted every thing said out loud in that yard since the first of this mo
 
 About four people in that yard saw a man of about nineteen not write a figure down and none of them said one word to him about it. He was nobody's clerk and he had not been asked to be anybody's clerk and he was not asked for the figure and did not give it, and nobody in that yard asked him for it.
 
-A clerk of nineteen years entered that a man of about nineteen who counts what people say in daylight yards and lanes in front of about nineteen people did not count a thing said out loud in a yard on this morning and entered that he did not count it and does not know why, and that a man who does not know why he did not do a thing has not refused it and cannot be counted either way.
+A clerk of nineteen years entered that a man of about nineteen who counts what people say in daylight yards and lanes in front of about nineteen people did not count a thing said out loud in a yard this morning and entered that he did not count it and does not know why, and that a man who does not know why he did not do a thing has not refused it and cannot be counted either way.
 
 A clerk of nineteen years entered that the reading of that lot has now got to the fourth of the five things a document that sets a thing out has to say, and that the fourth of the five is a person and there is no person in that yard to say, and that the fifth of the five is a remedy and there is nobody who can use one, and that a man who has put the five things out loud in that yard twice in seven days and stopped in the same place both times has not refused to say the rest of it and cannot be counted either way, and that no name went into any column this morning.
 

@@ -18,7 +18,7 @@ About nine people in that yard said nothing back, and about four of them looked 
 
 The term on that lot has an end on it, and a clerk entered that end out of a ladder on the day the term was set and has not said it out loud to anybody in that yard, and that a ladder is a figure about a ladder and a term is a figure about a term and neither of them is a figure about anybody, and that a man who has said out loud in a yard that he does not know when a thing ends has not refused to be told and cannot be counted either way.
 
-Nobody in that yard said one word about the end of that term, on this morning or at any point in that day, and about four people in that yard said afterwards, out loud and in the ordinary way, that they had not thought about it, and about four other people in that yard said that they had not thought about it either, and neither of those is a finding and neither is a habit.
+Nobody in that yard said one word about the end of that term, on the morning or at any point in that day, and about four people in that yard said afterwards, out loud and in the ordinary way, that they had not thought about it, and about four other people in that yard said that they had not thought about it either, and neither of those is a finding and neither is a habit.
 
 ---
 
@@ -54,4 +54,4 @@ The woman of fifty-eight came down that bank at about half past five with two em
 
 The reading of that lot is begun and is not finished and stands at the fourth of the five things a document that sets a thing out has to say, and the fourth of the five is a person, and the fifth of them is a remedy and there is nobody who can use one. The light went off that yard at about half past eight and the number on the sheet at that gatepost was still four hundred and eleven, and the first day of the eighth month is fifty-seven days past.
 
-**A TERM ON THAT LOT HAS AN END ON IT AND NOBODY IN THAT YARD SAID ONE WORD ABOUT IT ALL DAY, AND A MAN WENT UP THE LANE AS FAR AS THAT BANK AND STOOD THERE AND THEN CAME BACK DOWN AGAIN, AND THE BID STOOD OPEN TWENTY-SEVEN DAYS.**
+The term on that lot has an end on it, and nobody in that yard said one word about it all day, and nobody proposed anything about closing the bid either. A man went up that lane as far as the foot of that bank, stood there about four minutes, and came back down again. The bid stood open twenty-seven days and was not run on one of them.

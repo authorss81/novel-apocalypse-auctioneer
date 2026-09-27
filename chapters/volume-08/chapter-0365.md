@@ -6,7 +6,7 @@ The twenty-fourth of the ninth month came in with a wind off the low ground that
 
 "**Two hundred and seventy-three days on that board and five hundred and eighty-nine days on the train on the siding, and the ninth of the nine printed nights is a hundred and fifty-six days back, and the first day of the eighth month is fifty-three days past this morning.**"
 
-A clerk of nineteen years entered that four hundred and eleven is the figure on the sheet at that gatepost and did not move this morning, and that the man of about sixty-four was not asked anything about the sixty-fourth night and the record about the not asking says not asked, and that a sixth of the five things this district does not have is not a thing and there are five of them and there is no sixth.
+A clerk of nineteen years entered that four hundred and eleven is the figure on the sheet at that gatepost and did not move this morning, and that the man of about sixty-four was not asked anything about the sixty-fourth night and the record about the not asking says not asked, and that a thing this district does not have that is not one of those five is not a thing, and that there are five of them and there is no sixth.
 
 ---
 
@@ -68,4 +68,4 @@ The bid in that yard had stood open twenty-three days and had not been run on on
 
 The light went off that yard at about half past eight and the number on the sheet at that gatepost was still four hundred and eleven, and that night in the fourth month is a hundred and fifty-six days back and nobody in this district can say whether it happened, and a plank does not keep nights.
 
-**A MAN OF ABOUT THIRTY-SEVEN STOOD AT THAT TABLE FOR THE FIRST TIME IN THREE WEEKS AND GOT THE LENGTH OF THIS MONTH WRONG BY ONE, AND WAS TOLD SO OUT LOUD BY A MAN WHO READS THAT BOARD EVERY MORNING, AND SAID THANK YOU AND NOTHING ELSE, AND NOBODY WAS FOUND.**
+Nobody found anything. A number was put right in that yard by a man who had not wanted it put right, and he said thank you and nothing else, and about nine people said nothing back, and by the end of that day there was a clerk's line saying he was not there to hear the rest of it. A fortnight of one man's own head came to that, and nothing came of it after.
