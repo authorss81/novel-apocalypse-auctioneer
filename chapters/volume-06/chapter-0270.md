@@ -46,7 +46,7 @@ And she said one thing about it, and it was not counted, because there was nobod
 
 And he said one thing back to that, and there was nobody in that kitchen who had been asked to count it.
 
-"**I am not going to tell you what I am going to do tomorrow. I have said about nine things out loud in that yard in twenty days and I have said none of them to you, and that is going to keep being true, and I would rather you knew that now than found it out on the twenty-second.**"
+"**I am not going to tell you what I am going to do tomorrow. I have said about nine things out loud in that yard in ten days and I have said none of them to you, and that is going to keep being true, and I would rather you knew that now than found it out on the twenty-second.**"
 
 A clerk of nineteen years entered that a person who has said out loud that she wants to have had nothing to do with a thing has not refused to be asked about it and cannot be counted either way, and that a registrar is not a clerk of a house and is not a bearer and is not a holder and is not a steward and is not a party of anything, and that a man who has asked for help in a kitchen doorway and been refused in a kitchen doorway has not been helped and has not been refused, and that the record about the fourteenth time the slate went past says not asked.
 

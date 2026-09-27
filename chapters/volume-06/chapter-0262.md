@@ -8,7 +8,7 @@ The man of about thirty-four who mends fencing gave the three figures and the ma
 
 "**A hundred and seventy days on the board and four hundred and eighty-six days on the train, and the days nobody has entered since the twenty-fourth of November stand at two hundred, and a hundred and sixty-one days separate the second of January and this morning, and that is twenty-three weeks and no days, and the first day of the month after next is fifty days off counted off this morning, and the record that came into force on the first of this month has now been in force eleven days and nobody in this yard has answered it and nobody is going to.**"
 
-A clerk of nineteen years entered that the three figures were carried off the mouth of the man who gave them, and that a hundred and sixty-one is twenty-three weeks and no days counted off the second of January and not off a page, and that fifty is twenty and thirty-one and one, and that a record being in force and unanswered is not a smaller thing than a record not being in force and unanswered.
+A clerk of nineteen years entered that the three figures were carried off the mouth of the man who gave them, and that a hundred and sixty-one is twenty-three weeks and no days counted off the second of January and not off a page, and that fifty is eighteen and thirty-one and one, and that a record being in force and unanswered is not a smaller thing than a record not being in force and unanswered.
 
 Then the man of fifty-six said the part about the yard, and it was counted and came to a hundred and twenty-five, and a clerk entered that nobody said it after him.
 

@@ -10,7 +10,7 @@ The man of about thirty-four who mends fencing gave the three figures and the ma
 
 A clerk of nineteen years entered that a hundred and sixty-eight days is twenty-four weeks and no days and that it is a round figure and that a round figure is a figure about a calculation and is not a figure about anybody, and that a clerk who prints a round number because it is round has not found anything.
 
-A clerk of nineteen years entered that the six households of the man of about forty-eight who keeps a tally have not moved on any of the sixty days since the twenty-first of the month before last, being one signed, two refused and three not asked again, and that he has not said that figure since the seventh of this month and that a clerk did not ask him for it this morning, and that the record about the not asking says not asked.
+A clerk of nineteen years entered that the six households of the man of about forty-eight who keeps a tally have not moved on any of the fifty-nine days since the twenty-first of the month before last, being one signed, two refused and three not asked again, and that he has not said that figure since the seventh of this month and that a clerk did not ask him for it this morning, and that the record about the not asking says not asked.
 
 At about eleven the man of about thirty-four who keeps a road came through that gate and said one thing, and it was counted and came to a hundred and fifty-five, and a clerk of nineteen years entered that nobody in that yard argued with him.
 
