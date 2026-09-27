@@ -26,7 +26,7 @@ A clerk of nineteen years entered that the sheet names no person and no body and
 
 Then the man of about twenty-nine who drives a cart, who is not the woman of about twenty-nine who keeps a room with nothing over the door and is not the man of about nineteen who counts, read it back, and he got nothing wrong, which is the rule of the counter, and a clerk of nineteen years entered that he was asked to read it back and was not asked whether he agreed with it and that reading a thing back is not agreeing to it.
 
-Nobody in that yard said anything, and a clerk of nineteen years entered that nobody did and that the record about the nineteen saying nothing says not asked.
+Not one of the about nineteen people in that yard said a word, and a clerk of nineteen years entered that none of them did and that the record about the nineteen saying nothing says not asked.
 
 Then the man of about thirty-four who mends fencing said the thing about the fifth of those five lines, out loud, in the ordinary voice, and it was counted and came to a hundred and fifty-two, and a clerk entered that nobody in that yard was able to answer him.
 
