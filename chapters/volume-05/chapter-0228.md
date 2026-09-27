@@ -10,7 +10,9 @@ The man of about thirty-four who mends fencing gave the figures before he went a
 
 It was entered that a man of about thirty at a counter had said four words to the man of about thirty-four who mends fencing at the gate on the twenty-third of this month as he was leaving, and that nobody heard them, and that the man who heard them entered them the next morning, **and that four words at a gate are not a document and are not one of the three documents nobody owns and did not become a fourth.**
 
-The four words were that a house at a road nine miles up will let a page be copied and will not let a page be carried, and the man of about thirty at the counter had said, when he was asked where the house was, that he had asked about it twice in thirty-four miles and had never been given an answer and had stopped asking, and that he was giving them a word and not a name and had never been given a name either.
+The four words are printed under this and the rest of the gate was entered the next morning: that the house they are about is at a road nine miles up, and that the man of about thirty at a counter had said, when he was asked where the house was, that he had asked about it twice in thirty-four miles and had never been given an answer and had stopped asking, and that he was giving them a word and not a name and had never been given a name either.
+
+"**Copied but not carried.**"
 
 It was entered that a man who has asked twice in thirty-four miles and been given nothing and has stopped asking has not refused and has not consented and the record says not asked, **and that a word is not a figure and is not a document and is not a column, and that two houses have now given this district two words for a man and no name for him and the district still has not written it down.**
 
@@ -28,6 +30,8 @@ The house at the top of the road is a house and not a page, and it is one of the
 
 The man of about thirty-four who mends fencing asked, standing in that doorway, who kept them, and the answer came out of the house in eleven words and a man of about nineteen was not there and did not count it and it went into no minute and no book.
 
+"**Nobody in this house has ever been asked who kept it.**"
+
 The man of about thirty-four who digs loam asked the same question in his own words and not in the six things, and the house gave him a second answer and a man of about nineteen counted it and got fifty-six, and it went in the minute in the words of the man who asked it and not of the house.
 
 "**We have not had a name for him in four generations and it is not that we have lost it. It is that we have never had it. There was never a page with his name on it. There is a page with our house on it and it goes back further than the four generations.**"
@@ -36,7 +40,11 @@ Nobody in that house gave a name. The man of about thirty-four who mends fencing
 
 The caves are a shoulder of rock with records in them and the records in them are four hundred years old in one case, and the light in there is a lamp and a doorway, and a house that has never let the caves be emptied will let four men in and hold a slate and will not let a page out.
 
-The man of about thirty-four who mends fencing asked about that and was told, in eight words, that a page is copied and not carried, and that the caves have never been emptied and are not going to be emptied by four men with a slate. He said it out loud twice on the track going down so that a clerk would have it twice, and a clerk of nineteen years entered that he said it twice and that the two are one thing said twice and not two things.
+The man of about thirty-four who mends fencing asked about that and was given seven words and then a longer sentence that nobody counted, and the longer sentence was that the caves have never been emptied and are not going to be emptied by four men with a slate.
+
+"**A page is copied and not carried.**"
+
+He said the seven words out loud twice on the track going down so that a clerk would have them twice, and a clerk of nineteen years entered that he said them twice and that the two are one thing said twice and not two things.
 
 The man of about twenty-three who copies for nothing said what the doorway was like before he copied anything, and a man of about nineteen counted it and got sixty-six, and it went in the minute in his own words.
 

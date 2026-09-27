@@ -32,7 +32,7 @@ Then the man of about thirty-one who mends a dray came into that yard at about h
 
 "**I did the work. I carried a ledger from that room to the counter at the end of the lane and back on the twenty-second, and I did it because the man who keeps that counter was not well and because I was in the room and it was in my arms, and I have carried things for that office nine or ten times since the second of this month and nobody asked me to and I would have carried them anyway. I am not a man of that office. Nobody has ever given me a job in it and nobody has ever paid me a penny of it.**"
 
-The man of about thirty-four who digs loam asked him, in front of about nineteen people, what he thought he was going to get out of saying it in a yard, and the man of about thirty-one answered in nineteen words, which a man of about nineteen counted, and nobody argued with him.
+The man of about thirty-four who digs loam asked him, in front of about nineteen people, what he thought he was going to get out of saying it in a yard, and the man of about thirty-one answered in twenty-five words, which a man of about nineteen counted, and nobody argued with him.
 
 "**I thought somebody would take my name off it. I was wrong about that, and I knew it was wrong, and I said it anyway.**"
 

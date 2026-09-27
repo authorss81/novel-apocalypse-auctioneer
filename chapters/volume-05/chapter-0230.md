@@ -50,11 +50,15 @@ The registrar of this district's records office was in that yard and had come on
 
 "**That page has been in a cave in this basin longer than any book in my office, and it is a page with nine places and eight names and one rule, and the rule is the only line on it that says what a person may not do, and the whole of this district's answer to it this month is a letter with four words of a man who digs loam at the bottom of it and a book with four names and a figure under the four names, and neither of them is a copy and neither of them is nine.**"
 
-The man of about twenty-three who copies for nothing was asked by a man of about thirty-four who mends fencing, in front of about nineteen people, how many places the ninth place on that page is, and he said that it is a place about the width of a finger and a half and about the height of two fingers and that it is ruled and it is empty, and a man of about nineteen counted it and got thirty-five, and a clerk of nineteen years entered that a place is a figure about a page and is not a figure about a person and is not a finding and that she is not going to make anything of it.
+The man of about twenty-three who copies for nothing was asked by a man of about thirty-four who mends fencing, in front of about nineteen people, how many places the ninth place on that page is, and he gave the answer plainly and a man of about nineteen counted it and got twenty-eight, and it went in the minute in his own words.
+
+"**It is a place about the width of a finger and a half and about the height of two fingers and it is ruled and it is empty.**"
+
+A clerk of nineteen years entered that a place is a figure about a page and is not a figure about a person and is not a finding and that she is not going to make anything of it.
 
 Nobody contradicted her. The man of about thirty-four who mends fencing said that a man who is a bearer of a toll is a person and not a page, and that a man who signs his own answer at the bottom of it is a person, and that a person is not a figure, **and that a page which names a house is a true page and is not a finding about a person, and that a rule four hundred years old about a thing nine miles up is a rule about the thing and is not a rule about this yard.**
 
-The man of about twenty-three who copies for nothing said one thing,and  it because he had not said not to, and it got to eighty, and he said afterwards that he should not have said not to and was not going to say not to again.
+The man of about twenty-three who copies for nothing said one thing, and it was counted because he had not said not to, and it came to eighty, and he said afterwards that he should not have said not to and was not going to say not to again.
 
 "**I have made three copies in a month and I have been paid for none of them and I have said so four times and I am not going to say it a fifth, and my hand does not close on a cold morning and it did not close yesterday, and I am telling this yard about that because the yard is the only thing in this district that has ever written down one word of anything I have said.**"
 

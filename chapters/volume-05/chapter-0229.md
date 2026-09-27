@@ -24,7 +24,9 @@ Nobody argued with her. The man of about thirty-four who digs loam said that a l
 
 The man of about fifty-five who keeps that building was in that yard for about twenty minutes in the middle of the morning and had walked up the lane with a pail in his hand that he was not using, and a clerk of nineteen years entered that he was there and that nobody sent for him and that he was not asked a first thing, and that the nine years of beds are in the second room of a building that has denied nobody entry in nine years and still denies nobody entry.
 
-The woman of about thirty-eight who keeps that building sent word by a boy of about nine that the beds were in the second room and the water had not come over the step, and a clerk of nineteen years entered that a boy of about nine carried four words, and that a boy of about nine is not a bearer and is not a clerk and is not anybody's instrument, and that the count of things this district does not have is five and did not move at about eleven in the morning on the last day of the fourth month.
+The woman of about thirty-eight who keeps that building sent word by a boy of about nine, and the four words are printed under this and what he had come to say with them was that the beds were in the second room and the water had not come over the step, and a clerk of nineteen years entered that a boy of about nine carried four words, and that a boy of about nine is not a bearer and is not a clerk and is not anybody's instrument, and that the count of things this district does not have is five and did not move at about eleven in the morning on the last day of the fourth month.
+
+"**The beds are upstairs.**"
 
 The man of about thirty-four who keeps a road walked through that yard at about one in the afternoon on his way to somewhere else and did not stop, and a clerk of nineteen years entered that he was in the yard and that nobody sent for him and that he was not asked a first thing, and that he has been asked one question in this district since the first of this month and has given one answer and that a man who has been asked one question and given one answer is not a man who has been asked.
 

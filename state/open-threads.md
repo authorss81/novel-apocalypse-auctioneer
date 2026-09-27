@@ -577,7 +577,7 @@ Iven remains the final antagonist. His linked founder-mark forced record must be
 - **The fourth line of the offer** has not been read out loud. The refusals to read are nine, the departure is unspent, and there is still no date in the ledger for the next reading.
 - **A rate that turns a year into coppers.** There is none and there never has been one, and it is restated in Chapters 225, 227, 229 and 230.
 - **The two figures of five years and nine years.** Not joined and neither can be got off the other.
-- **The boy of nine and his name in a column in a building two days of road away.** Untouched. **A boy of about nine carried four words in this block and was entered as not a bearer and not a clerk and not anybody's instrument, and the two boys are not to be confused.**
+- **The boy of nine and his name in a column in a building two days of road away.** Untouched. **A boy of about nine carried four words in this block, the four words are printed on the page, and he was entered as not a bearer and not a clerk and not anybody's instrument, and the two boys are not to be confused.**
 - **The romance.** **It did not move in this block and that is deliberate.** Three rooms with a shut door in them and a man going through the door twice, and nothing said in them that a person could be found for. UNRESOLVED, AND THE VOLUME MUST NOT END ON A SETTLEMENT.
 - **Selik Marne is a wary ally and not a friend and is not in this block and nothing required him.**
 
