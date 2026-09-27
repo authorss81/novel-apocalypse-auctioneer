@@ -10,7 +10,7 @@ A clerk of nineteen years entered that the length of the eighth month is not sta
 
 ---
 
-He said the word out loud at about eleven in front of about nineteen people, and the word was practise, and he said it because he had been awake since about five working out what a person does with a roll and a term when there is nothing to do today but write them, and a man of about nineteen counted what he said and got a hundred and eight, and it went in the minute in his own words.
+He said the word out loud at about eleven in front of about nineteen people, and the word was practise, and he said it because he had been awake since about five working out what a person does with a roll and a term when there is nothing to do today but write them, and a man of about nineteen counted what he said and got a hundred and six, and it went in the minute in his own words.
 
 "**I have been in that building three days with a roll and a table and a sheet of print and I have worked out that nobody in this yard knows how to do any of it. I know how to do none of it. I have convened nine settlements and I have not got one of them to a second morning. I think it has to be practised. I have said the word out loud in this yard this morning because I have been sitting on it for those three days and I am not going to be the man who says it in a lane.**"
 
