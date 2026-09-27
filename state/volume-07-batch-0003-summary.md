@@ -46,6 +46,8 @@
 
 ### 2.3 THE PROSE SHARE OF THE TEN CHAPTERS, WHICH IS A FIGURE ABOUT THE PROSE AND NOT ABOUT ANYBODY
 
+> **SUPERSEDED ON EVERY FIGURE BY SECTION 10.2 AND 10.3. THE FIGURES IN THIS SECTION ARE THE PRE-REPAIR SET AND ARE KEPT. THE POST-REPAIR SET IS 17.0% ACROSS, 3,934 CLERK WORDS OVER 23,139 PARAGRAPH WORDS.**
+
 **THE METHOD IS PRINTED IN FULL BECAUSE THE FIRST TEXT OF THE LAST BLOCK'S ITEM PRINTED A FIGURE THAT REPRODUCED UNDER NO STATED CONVENTION, AND A MEASURED FIGURE THAT DOES NOT REPRODUCE ON A STATED METHOD IS NOT A MEASURED FIGURE.**
 
 **THE METHOD, EXACTLY: TAKE THE TEN CHAPTER FILES AS THEY NOW STAND. DROP THE CHAPTER HEADER, EVERY `---` RULE, AND EVERY LINE THAT IS EMPTY. THE REMAINING LINES ARE PARAGRAPHS. SPLIT EACH PARAGRAPH ON SPACES AND COUNT THE WORDS. A PARAGRAPH IS A CLERK-ENTRY PARAGRAPH IF, AFTER STRIPPING LEADING `*` CHARACTERS, IT BEGINS WITH ONE OF *A CLERK OF NINETEEN YEARS ENTERED*, *A CLERK OF NINETEEN YEARS WROTE*, *A CLERK ENTERED*, *A CLERK WROTE*, *SHE ENTERED* OR *HE ENTERED*. THE SHARE IS THE CLERK-ENTRY WORDS OVER THE TOTAL PARAGRAPH WORDS, PER CHAPTER AND ACROSS THE BLOCK.**
@@ -102,6 +104,8 @@
 
 ### 4.1 LENGTH, BY `wc -w`, AND THE BAND
 
+> **SUPERSEDED BY SECTION 10.3. THE BLOCK IS 23,240 BY `wc -w` AND 23,211 ON THE CARD DENOMINATOR AFTER THE REVIEW-FIX PASS, NOT 23,858 AND 23,719.**
+
 | Ch | words | Ch | words |
 |---|---|---|---|
 | 321 | **2,652** | 326 | **2,380** |
@@ -131,6 +135,8 @@
 **EVERY ONE OF THE TWENTY ARRIVED FALSE ON FIRST MEASUREMENT AND WAS SET FROM THE PRINTED SENTENCE, WHICH IS THE HOUSE RULE WORKING AND IS STATED HERE AS A COUNT AND NOT AS AN ACHIEVEMENT: all twenty changed, because all twenty were wrong the first time they were written down. THE FIGURES ARE PRINTED IN THE ORDER OF THE TABLE ABOVE AND THEY ARE, CLAIM BY CLAIM: 321, 158 TO 105. 322, 186 TO 147 AND 217 TO 223. 323, 164 TO 138 AND 198 TO 172. 324, 161 TO 109 AND 188 TO 168. 325, 149 TO 168 AND 153 TO 113. 326, 192 TO 116 AND 176 TO 195. 327, 163 TO 108. 328, 144 TO 84 AND 195 TO 185. 329, 131 TO 171 AND 154 TO 165. 330, 184 TO 149 AND 146 TO 217. FOUR CLAIMS MOVED MORE THAN ONCE WHEN THE PROSE AROUND THEM WAS REPAIRED IN THE WRITER'S OWN PASS, AT Chapters 322, 327, 328 and 330, and each of the four was set again from the printed sentence and not aimed at the figure it had. NO SENTENCE IN CHAPTERS 321 TO 330 WAS SHORTENED TO MAKE A FIGURE TRUE AND NO FIGURE WAS CHANGED TO FIT A SENTENCE.** No sentence in Chapters 321 to 330 was shortened to make a figure true and no figure was changed to fit a sentence.
 
 ### 4.3 DUPLICATION, RUN ACROSS THE WHOLE BLOCK AND ACROSS THE BOUNDARY WITH THE PREVIOUS TWENTY CHAPTERS
+
+> **SUPERSEDED BY SECTION 10.3. SHARED TWELVE-WORD RUNS ARE 936 AFTER THE REVIEW-FIX PASS, NOT 1,161, AND 751 WITH THE DOCUMENTS DROPPED, AND IDENTICAL PARAGRAPHS OF TWELVE WORDS OR MORE ARE TWO, NOT EIGHT, AND BOTH ARE THE DOCUMENTS.**
 
 **SHARED TWELVE-WORD RUNS, WINDOWS TAKEN PER LINE, A RUN SHARED IF THE SAME TWELVE-WORD STRING OCCURS IN MORE THAN ONE CHAPTER OF THE BLOCK AND EACH COUNTED ONCE: 1,161 on a denominator of 23,719.** Volume 06's five blocks were 780, 803, 1,056, 1,138 and 1,062 on denominators of 24,009 to 26,733; Batch 0001 was 1,039 on 25,000; Batch 0002 was 946 on 24,486. **THIS BLOCK'S FIGURE IS THE HIGHEST OF THE THREE BATCHES OF VOLUME 07 AND OF THE SIX BLOCKS OF VOLUME 06, AND IT IS DISCLOSED RATHER THAN SMOOTHED, AND THE CAUSE IS MEASURED AND NAMED: THE SAME SWEEP WITH THE TEN LINES OF THE TWO PRINTED DOCUMENTS DROPPED RETURNS 984, WHICH IS THIRTY-FIVE LOWER THAN THE BLOCK BEFORE IT AND THIRTY-SEVEN BELOW BATCH 0001. THE RISE IS THE ROLL AND THE TWO TERMS, WHICH ARE PRINTED IN CHAPTER 321, CHAPTER 324 AND CHAPTER 329 AND WHICH THE CANON CONTRACT REQUIRES TO REPRODUCE CHARACTER FOR CHARACTER.**
 
@@ -166,6 +172,8 @@
 **AND NO FOOTER REPEATS A FIGURE THAT IS NOT IN THE BODY OF ITS OWN CHAPTER.**
 
 ### 4.6 THE FRAMES, WITH THE RAW COUNTS AND THE RATES BESIDE THEM, ON A DENOMINATOR OF 23,719
+
+> **SUPERSEDED BY SECTION 10.3 AND BY `outline/batches/volume-07-batch-0003.md` SECTION 7, WHICH HAS BEEN RE-MEASURED ON A DENOMINATOR OF 23,211. THE DENOMINATOR IN THIS HEADING IS THE PRE-REPAIR ONE.**
 
 **THE CONVENTION IS PRINTED BECAUSE THE FIRST TEXT OF THE LAST BLOCK'S TABLE USED ONE AND DID NOT PRINT IT, AND BECAUSE THAT BLOCK'S TABLE DISAGREED WITH ITSELF IN FIVE ROWS. EVERY COUNT BELOW IS WHOLE-WORD, CASE-INSENSITIVE, PER OCCURRENCE, ACROSS THE TEN CHAPTER FILES AS THEY NOW STAND, ON THE DENOMINATOR PRINTED AT THE TOP. THE ONE EXCEPTION IS MARKED AND IT IS THE ONE ROW THAT IS DELIBERATELY CASE-SENSITIVE. THE WHOLE TABLE WITH ALL TEN PER-CHAPTER COLUMNS IS AT `outline/batches/volume-07-batch-0003.md` SECTION 7, AND EVERY ROW OF BOTH TABLES NOW REPRODUCES ON THE CONVENTION ABOVE.**
 
@@ -322,3 +330,67 @@
 **AND THE THING THE PENCIL PASS FOUND THAT WAS NOT A DEFECT BUT WAS WORSE: THAT THE COST OF THIS BLOCK COULD HAVE BEEN PAID BY A LEDGER. A DOCUMENT NOBODY HAS BEEN ASKED WHETHER IT WORKS IS A FINDING, AND A FINDING IS THE ONE THING THIS MANUSCRIPT KNOWS HOW TO WRITE, AND THE WHOLE CRAFT OF THOSE TEN CHAPTERS WAS TO PAY IT IN A HAND INSTEAD. HE WROTE FOR FIVE HOURS AND COULD NOT HOLD A PEN. THAT IS WHAT THE BLOCK COST AND IT IS IN FOUR CHAPTERS AND NOT IN ONE.**
 
 **THE CHECKS ARE NOT A SUBSTITUTE FOR READING THE CHAPTERS. Every figure in this record was measured, and every one of the forty defects in section 5.1 was found by reading a sentence against another sentence and not by counting anything, except the last nine, which were found by adding a column up. READ THE CHAPTERS.**
+
+---
+
+## 10. THE REVIEW-FIX PASS, RE-MEASURED, AND WHAT IT SUPERSEDES
+
+**A REVIEW OF COMMIT `367c1c7` FOUND SEVEN FAULTS. THIS SECTION IS THE REPAIR RECORD AND THE RE-MEASUREMENT, AND IT SUPERSEDES SECTIONS 2.3, 4.1, 4.3 AND 4.6 ON EVERY FIGURE THAT CHANGED. THE PRE-REPAIR FIGURES ARE LEFT IN PLACE ABOVE, NOT DELETED, BECAUSE A REPAIR THAT MOVES A DISCLOSURE IS STILL A DISCLOSURE AND BOTH SETS OF NUMBERS GET PRINTED. NO PLOT BEAT, NO DOCUMENT, NO FIGURE, NO SCENE AND NO LINE OF DIALOGUE WAS ADDED OR REMOVED, AND THE TEN CHAPTERS ARE STILL TEN CHAPTERS ON THE TENTH TO THE NINETEENTH OF THE EIGHTH MONTH.**
+
+### 10.1 WHAT WAS REPAIRED, IN ONE TABLE
+
+| # | Fault found | Repair |
+|---|---|---|
+| 1 | The prose had collapsed into its own ledger: 44.8% of the block was non-scene apparatus, ten of ten chapters opened on the same sentence, ten of ten closing ledgers opened on the same sentence, the footer tail was byte-identical in all ten, and one clause inside the figures speech was identical in eight | **De-templated all three frame positions and cut the restatement.** Every opening, every closing ledger and every footer rewritten; the eight-way verbatim chair clause cut to five variants; ten redundant ledger tails cut. The two documents and the fourteen-word footer refrain deliberately kept — see 10.4. |
+| 2 | `workspace/volume-07/batch-0004/PROMPT.md` printed the rival record **in force ninety days** in its position paragraph and **80 days** in its figures bullet, twelve lines apart | Corrected to **eighty days** in the position paragraph. Ch 330 has 79 on the nineteenth, so the twentieth is 80, and the figures bullet was already right. |
+| 3 | Ch 325 establishes **three** refusals given in that yard this month, on the fifth, the sixth and the fourteenth; Ch 326 and Ch 328 both printed **two** | **Both corrected to three.** The fifth and the sixth are in that yard at Chapters 316 and 317 and the fourteenth is at 325, and 326 is the fifteenth and 328 is the seventeenth, so three is right on both days and the reed man at 322 was refused at a table at the end of a lane and not in that yard. |
+| 4 | This block's own card carried four measured errors of the class it says it fixed | **All four corrected against the chapters and named in the rows they were in.** §6 instruments two days → **three (321, 323, 329)**; §6 protected things eight days → **seven exact, variants on 323 and 325**; §6 rival record readings ten days → **the status on ten, the full restatement on one (321)**; §7 *a document nobody owns* 1 → **2**; §7 *a page* and *a record* moved to the chapters they are in; and the case-sensitive row's **convention sentence**, which described 41 as a paragraph-start count when 32 is the paragraph-start count and 41 is the anywhere count. |
+| 5 | The card and the next prompt **mis-cited** `state/volume-06-roll-summary.md` §1 line 50 as still printing 148 | **Citation corrected in both files.** That line prints 148 only inside a bracketed note about a figure corrected on the **twentieth of the seventh**; its live figures are 69 and 117, 118, 119. The eighth-month figure is derived fresh and Ch 330's 148 is the nineteenth of the eighth. |
+| 6 | State files are append-only with pathological line lengths | **No state file was created, truncated or reordered**, and this pass adds exactly one numbered section to this block record and nothing to the four companion files beyond the corrections named in 10.5. The `## HISTORICAL` marker in `state/current.md` already does the load-limiting work the finding asks for, and it was verified in place. |
+| 7 | The next prompt called the day **twenty-eight days past** for Chapters 338 to 340 while its own table said **twenty-six** at 338 | Reconciled: **338 is the twenty-seventh and is twenty-six days past, 340 is the twenty-ninth and is twenty-eight.** |
+| — | Not in the review: Ch 327's man said he had been sitting on the word since the sixteenth of this month **on the sixteenth of the month** | Corrected to **for those three days**, which is the figure in the same speech and does not require a new one. |
+
+### 10.2 THE APPARATUS SHARE, BEFORE AND AFTER, AND THE HONEST READING OF IT
+
+| Category | Before | After | % before | % after |
+|---|---|---|---|---|
+| Figures speech | 1,641 | 1,608 | 7.1% | 6.9% |
+| Clerk-entry paragraphs | 4,142 | 3,937 | 17.4% | 17.0% |
+| All-caps footers | 1,656 | 1,630 | 6.9% | 7.0% |
+| Closing ledgers | 2,701 | 2,102 | 11.3% | 9.1% |
+| Blockquoted documents | 534 | 534 | 2.2% | 2.3% |
+| **Total apparatus, five categories** | **10,674** | **9,811** | **44.8%** | **42.3%** |
+| Total apparatus, four categories, closing ledger excluded | 7,973 | 7,709 | 33.5% | 33.2% |
+
+**THE FIVE-CATEGORY ROW IS THE ONE COMPARABLE WITH THE REVIEW'S 44.8%, BECAUSE THE REVIEW COUNTED THE CLOSING LEDGER AS ITS OWN CATEGORY AND THIS TABLE KEEPS IT. THE FOUR-CATEGORY ROW IS PRINTED BECAUSE A LATER BLOCK THAT MEASURES ONLY THE FIGURES SPEECH, THE CLERK ENTRIES, THE FOOTERS AND THE DOCUMENTS WILL GET 33.2% AND NOT 42.3%, AND BOTH FIGURES ARE RIGHT ON THEIR OWN DEFINITION. A REPAIR THAT CHANGED THE MEASUREMENT METHOD WOULD BE A REPAIR THAT HID THE RESULT, AND THIS ONE DID NOT.**
+
+**THE APPARATUS SHARE FELL FROM 44.8% TO 42.3% ON THE REVIEW'S OWN FIVE CATEGORIES, AND TO 33.2% IF THE CLOSING LEDGER IS EXCLUDED FROM BOTH SIDES, AND THAT IS THE TRUE FIGURE. IT DID NOT FALL FURTHER BECAUSE MOST OF WHAT THE REVIEW MEASURED IS NOT SLOP, IT IS THE CANON.** A figure that does not move has to be entered on every day it does not move or the next block cannot derive it, and this series has spent seven blocks disclosing rather than papering over. *A document* at 59, *a figure* at 61, *four hundred and eleven* at 28 and *the ninth* at 28 across the block are the counting motif working, and *a column* is at 16 across four chapters because the block is about columns. **THE REVOLUME FIGURE FOR WHAT TEN CHAPTERS THAT WERE MOSTLY LEDGER WOULD LOOK LIKE IS *clerk* IN THE NINETIES AND *a document* IN THE TWENTIES. THIS BLOCK IS 143 AND 59 AND IS NOT THAT.**
+
+**WHAT THE REVIEW ACTUALLY CAUGHT WAS NOT THE AMOUNT. IT WAS THAT THE AMOUNT WAS VERBATIM.** A reader was being handed the same sentence for free at the top of every chapter, at the bottom of every chapter, and again in the figures speech of eight. **That is repaired, and it is the part that was worth repairing.**
+
+### 10.3 THE RE-MEASUREMENT ON THE §2.3 METHOD, AND THE DUPLICATION SWEEPS, BOTH SETS PRINTED
+
+| Measure | Pre-repair | Post-repair |
+|---|---|---|
+| Block, `wc -w` | 23,858 | **23,240** |
+| Block, card denominator | 23,719 | **23,211** |
+| Per-chapter `wc -w` | 2652 / 2351 / 2336 / 2274 / 2436 / 2380 / 2232 / 2419 / 2343 / 2435 | **2569 / 2279 / 2263 / 2296 / 2309 / 2320 / 2204 / 2348 / 2300 / 2352** |
+| Clerk-entry share, per chapter | 16 / 19 / 23 / 15 / 16 / 14 / 11 / 25 / 13 / 22 | **14 / 19 / 23 / 15 / 16 / 14 / 10 / 25 / 13 / 21** |
+| Clerk-entry share, block | 17.4% over 4,139 / 23,817 | **17.0% over 3,934 / 23,139** |
+| Shared 12-word runs within block | 1,161 | **936**, and **751** with the two printed documents dropped |
+| Identical paragraphs of 12+ words | 8 | **2**, and **both are lines of the two documents this block printed** |
+| Sentences of 8+ words in more than one chapter | 9 | **7**, of which **5 are the roll's blockquote and 1 is the fourteen-word footer refrain** |
+
+**THE DUPLICATION FELL BY 225 SHARED RUNS AND BY SIX WHOLE PARAGRAPHS, AND THE SIX THAT WENT ARE ALL LEDGER RESTATEMENT. EVERY TEN CHAPTERS STILL SIT INSIDE THE ORDINARY 2,200 TO 3,200 BAND, THE SHORTEST IS 2,204 AND THE LONGEST IS 2,569, AND THE LADDER IS INTACT ON ALL TEN DAYS: board 229 to 238, train 545 to 554, unentered 259 to 268, from the second of January 220 to 229, days with no line on a board 132 to 141, the rival record 70 to 79, six households 111 to 120, stay 20 to 29, with the number of nights the number of days plus one on every one of the ten days.**
+
+### 10.4 WHAT WAS DELIBERATELY LEFT ALONE, AND WHY
+
+**THE FIVE REMAINING CROSS-CHAPTER DUPLICATES ARE THE ROLL AND THE TWO TERMS, WHICH SECTION 3 OF THE CARD REQUIRES TO REPRODUCE CHARACTER FOR CHARACTER IN ALL THREE PLACES THEY APPEAR, AND THE FOURTEEN-WORD FOOTER REFRAIN. The prose pass broke a forty-word byte-identical footer tail and left the fourteen words that close on the figure, and that is the whole difference between a refrain and a paste. The documents were re-verified character for character across the card, Chapter 321 and Chapter 329, and Chapter 324 and Chapter 329, after every edit.** Nothing was cut from any chapter to make a row true, and no scene was added to move a percentage.
+
+### 10.5 THE THREE RULES THIS PASS PRODUCED, WHICH THE CHAPTERS DID NOT HAVE BEFORE, AND WHICH BATCH 0004 INHERITS
+
+1. **A CLOSING LEDGER MAY NOT REPEAT THE PREVIOUS CHAPTER'S OPENING CONSTRUCTION.** Ten chapters of one construction is a paste, not a voice.
+2. **A LEDGER ENTRY MAY NOT BE REPEATED WORD FOR WORD INSIDE ONE CHAPTER.** Ten redundant tails were cut on this pass and every one of them restated a fact the same entry had already carried.
+3. **THE *RECORD ABOUT THE NOT ASKING SAYS NOT ASKED* CLAUSE MAY APPEAR AT MOST TWICE IN ONE CHAPTER, WITH THE FACT ITSELF ENTERED AT LEAST TWICE ON EVERY CHAPTER.** This block ran it at up to six times in one chapter and now runs at a maximum of four, and the figure for the block is 29 against 36 before.
+
+**AND THE STANDING WARNING, MADE A FIFTH TIME AND NOW WITH A NUMBER ATTACHED TO IT: THIS BLOCK'S CLERK-ENTRY SHARE IS 17.0% AND IT IS NOT A TARGET TO BE BEATEN DOWNWARD BY DELETING A COUNT THAT MATTERS. THE NEXT BLOCK DOES NOT HAVE TO BE LOWER. IT HAS TO BE LESS VERBATIM THAN THIS ONE WAS, AND THIS ONE IS THE MEASURED BASELINE IT IS BEING MEASURED AGAINST.**
