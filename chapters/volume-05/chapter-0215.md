@@ -30,7 +30,7 @@ A man of about thirty-four who mends fencing asked her, in his own words and not
 
 "**A name said once in a yard is a name four hundred people have and a name said twice is a name a counter can ask for, and you taught that to this yard on the third of this month, and I am not saying eleven names in front of nineteen people so that a thing I have kept in my head since the second month is in a book in a room.**"
 
-A man of fifty-six said that a man who taught a yard a rule is not a man who owns it, and that the eleventh of the five things this district does not have is a way to pay a person who is not in a household, **and that a woman who has kept eleven doors in her head since the second month has done the only thing in this district that has no instrument for at all, and that a clerk of nineteen years entered that refusal and entered that it is a refusal with a reason and that a refusal with a reason is not one of the eight refusals with no reason a clerk of a house has given and is not a ninth.**
+A man of fifty-six said that a man who taught a yard a rule is not a man who owns it, and that the fifth of the five things this district does not have is a way to pay a person who is not in a household, **and that a woman who has kept eleven doors in her head since the second month has done the only thing in this district that has no instrument for at all, and that a clerk of nineteen years entered that refusal and entered that it is a refusal with a reason and that a refusal with a reason is not one of the eight refusals with no reason a clerk of a house has given and is not a ninth.**
 
 ---
 
@@ -58,7 +58,7 @@ A man of fifty-six said that this is the first letter this district has ever had
 
 Then the man of about thirty-four who digs loam said the other half, and nobody had asked him for it.
 
-"**That letter asks this district for a man. This yard has been unable to produce a person on demand for the sixteen days since the thirty-first of the month before last, when a figure of twenty-one years came off this district's own page in the same line as the date, and the reason was said in eighty-two words by a woman in this yard on the eighth of this month, and a name on a line is a name off a sheet, and there is not one name in this district that anybody in this district has the right to put on a line for that letter.**"
+"**That letter asks this district for a man. This yard has been unable to produce a person on demand for the sixteen days since the thirty-first of last month, when a figure of twenty-one years came off this district's own page in the same line as the date, and the reason was said in eighty-two words by a woman in this yard on the eighth of this month, and a name on a line is a name off a sheet, and there is not one name in this district that anybody in this district has the right to put on a line for that letter.**"
 
 A clerk of nineteen years entered that the registrar of this district's records office has refused in four seconds three times in eight weeks and four days, on the fifteenth of the second month, the second of this month and the eighth, **and that the eighth of April to this afternoon is eight days and that the refusals to read are nine and the departure is unspent and there is still no date in the ledger for the next reading, and that a letter asking for a man is not a refusal to read and is not the tenth and is not anything in this district's book.**
 

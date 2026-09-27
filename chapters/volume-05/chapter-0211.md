@@ -62,7 +62,7 @@ A man of about thirty-four who digs loam said that a man who has been found and 
 
 The lane at the sluice end of the loams had six doors in it and about four people were on it in the afternoon and a man of about forty-eight who keeps a tally for six households was on it and was not sent for, and the man of about thirty-four who digs loam said the state of them without being asked.
 
-"**One signed on the twenty-ninth of the second month. Two refused in the second month. Three have not been asked again since and the yard decided on the nineteenth of the second month not to decide about them and has not gone back on it, and that the state of those six has not moved since the twenty-first of the month before last, which is twenty-two days, and is not going to move this week.**"
+"**One signed on the twenty-ninth of the second month. Two refused in the second month. Three have not been asked again since and the yard decided on the nineteenth of the second month not to decide about them and has not gone back on it, and that the state of those six has not moved since the twenty-first of last month, which is twenty-two days, and is not going to move this week.**"
 
 A man of fifty-six said that a man who keeps a tally for six households has now been asked three times to be told what to do about the three and has not been told, and that the asking is the house's and not this district's, and that a man who is not asking is not a man who has been refused and is not a count of anything. A clerk of nineteen years entered that the refusals to join two things are thirteen and the registrar's own count is twelve and neither of them moved at about two in the afternoon on the twelfth of the fourth month, **and that the refusals to read are nine and the departure is unspent and there is still no date in the ledger for the next reading, and that a man who went up a road yesterday has not spent either of those things and nobody in this district is in a position to know what he did with the day.**
 
@@ -70,7 +70,7 @@ A man of fifty-six said that a man who keeps a tally for six households has now 
 
 The lane four miles down from the lower terrace was dry and there were about four people on it in the afternoon and nobody had sent anybody.
 
-The butt at the back of the brick building was at four days and it was at nine on the seventeenth of the month before last, and the woman of about thirty-eight who keeps that building was on her own step, and a man of about thirty-four who mends fencing asked her, in the six things, in front of about four people, what the butt is for.
+The butt at the back of the brick building was at four days and it was at nine on the seventeenth of last month, and the woman of about thirty-eight who keeps that building was on her own step, and a man of about thirty-four who mends fencing asked her, in the six things, in front of about four people, what the butt is for.
 
 She said the honest answer and a man of about nineteen counted it and got thirty-nine, and it went in the minute in her own words.
 
