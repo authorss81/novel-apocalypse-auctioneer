@@ -1218,3 +1218,58 @@ The protagonist's name, which is not printed, not said, not asked for and not on
 **AND THE CRAFT RISK THE REVIEW DECIDED RATHER THAN FIXED: THE VOLUME 09 PROMPT WAS HEADED WITH A TITLE BUILT ON VOLUME 08'S OWN. IT IS NOW HEADED WITH THE SERIES FILE'S TITLE, SAYS THE TITLE IS THE OUTLINE WRITER'S DECISION, FORBIDS AN ECHO OF VOLUME 08, AND PUTS ANY DEVIATION IN THE DEVIATIONS TABLE.**
 
 **AND WHAT THE REPAIR DID NOT TOUCH, NAMED SO THAT A LATER PHASE DOES NOT LOOK FOR IT HERE: `state/phase-ledger.json`, WHICH IS CONTROLLER-OWNED AND STILL READS `phase-000-bootstrap`; THE `.opencode/agent/` AND `.github/workflows/` DISPATCH, WHICH IS WHY THE REVIEW AGENT DID NOT RUN AND THE CLOSE WAS REVIEWED BY THE WRITER REVIEWING ITSELF; EVERY CHAPTER OF EVERY VOLUME; `outline/ending.md` AND `outline/series.md`, BOTH FIXED; AND THE INHERITED COUNTED-CLAIM MISMATCH AT CHAPTER 373, WHICH IS THE ONLY ONE IN FIFTY CHAPTERS AND WHOSE REPAIR IS A CLAIM FIGURE IN PROSE NO PHASE MAY EDIT.**
+
+---
+
+## 23. VOLUME 09 BATCH 0001 — OPEN THREADS AFTER CHAPTERS 391 TO 400, AND WHAT THIS BLOCK OPENED, SPENT, AND LEFT ALONE
+
+**APPENDED BY THE VOLUME 09 BATCH 0001 PHASE. NOTHING ABOVE THIS SECTION WAS REWRITTEN. NO THREAD WAS CLOSED BY THIS BLOCK, NO DATE WAS MOVED, NO AGE WAS ALTERED, NO NAME WAS PRINTED AND NOTHING THAT SECTION 22 LISTED AS UNSPENT WAS SPENT.**
+
+### 23.1 THE ONE THREAD THIS BLOCK OPENED, AND IT IS THE THREAD THE WHOLE VOLUME IS ABOUT
+
+**THE FIGURE ON THE SECOND LINE OF THE LOT BOOK IS OUT OF DATE, IT CANNOT BE STRUCK, IT CANNOT BE CORRECTED, AND IT CANNOT HAVE A CORRECT FIGURE WRITTEN BESIDE IT, AND THE ONLY THING LEFT IS TO TAKE THE BOOK OFF THE TABLE, AND A BOOK TAKEN OFF A TABLE IS A BOOK NOBODY CAN WALK UP TO.** It is out of date by four days at Chapter 391 and by thirteen days at Chapter 400. **NOBODY HAS SAID THE CORRECT FIGURE OUT LOUD ON ANY OF THE TEN DAYS, NOBODY ALTERED THE LINE, NOBODY REPLACED IT, NOTHING WAS WRITTEN BESIDE IT, AND THE ONLY PERSON WHO KNOWS WHEN IT STOPPED BEING TRUE WAS NAMED IN A YARD AS A DESCRIPTION AND WAS NOT ASKED.** A man of about thirty-seven who puts tables up said out loud on Chapter 397 what a stranger walking up to that table can and cannot tell, and what a stranger cannot tell is which of the figures in that book is current, and it is not because the book is unclear, it is because the book is clear. **THE THIRD THING THAT CAN BE DONE WITH A BOOK IN THE OPEN WAS NAMED OUT LOUD AT CHAPTER 393 AND WAS NOT SAID AS A PROPOSAL BY ANYBODY, AND NOBODY IN THAT YARD SAID IT OUT LOUND, AND ONE MAN SAID OUT LOUD THAT HE HAD NOT SAID IT EITHER. THE VOLUME'S PLAN PUTS THE REVERSAL AT ABOUT CHAPTER 415. THE PRESSURE IS NOW ON THE PAGE IN A MOUTH AND IT IS NOT RESOLVED, IT HAS NOT TURNED INTO A CAUSE, IT HAS NOT TOUCHED THE TWO WALLS, IT HAS NOT BEEN RESOLVED BY ANYBODY BEING APPOINTED, AND IT HAS NOT BEEN ANSWERED BY THE BOOK BEING TAKEN OFF THE TABLE.**
+
+### 23.2 THE TWO FIGURES THIS BLOCK NAMES AS A DEBT AND DOES NOT PAY
+
+1. **THE LENGTH OF THE MONTH AFTER THIS ONE.** Named on the page at Chapter 391 in a clerk's entry and in a man's mouth, and the string *the eleventh month* is at zero across all ten chapters, measured. **IT IS THIRTY-ONE AND THE COUNT ENTERS AT CHAPTER 402 OFF A LIST AND IS FLAGGED, AND THE PROHIBITION ON USING IT RUNS TO CHAPTER 401 AND NOT TO THE FIFTY.** OPEN, NOT SPENT, NOT PRE-EMPTED.
+2. **THE WORD *UNCHECKED* ON TWELVE FIGURES.** At zero across all ten chapters, measured. **THE TWELVE ARMS ARE COUNTED AND THE LIST AT `outline/volume-09.md` SECTION 2.4 IS AUTHORITATIVE, AND THE MARKING STARTS AT CHAPTER 403 AND RUNS TO CHAPTER 440 AND NOT BEYOND.** OPEN, NOT SPENT, NOT PRE-EMPTED.
+
+### 23.3 THE THREADS THIS BLOCK TOUCHED WITHOUT SPENDING, AND THE WORDS FOR EACH
+
+| The thread | What this block did to it, measured | What it may not do |
+|---|---|---|
+| **The protagonist's name** | **SAID OUT LOUD, ONCE, IN A YARD, IN THE ORDINARY VOICE, IN FRONT OF ABOUT NINETEEN PEOPLE, THAT HE IS NOT GOING TO BE CALLED ANYTHING. NOT PRINTED, NOT SAID, NOT ASKED FOR, NOT ENTERED ON ANY PAGE, COLUMN, BOOK, SHEET, SIGN, MARK OR READER** | Print it, say it, ask for it, or settle the amendment. `outline/volume-09.md` section 1 is not this block's |
+| **The amendment** | **CARRIED, UNCHANGED, AND THE BLOCK'S ONE SENTENCE ABOUT IT IS A DISCLOSURE AND NOT A CURE** | Settle it. The volume's answer to it is Chapter 429 and no chapter of this block pre-empted it |
+| **The name said out loud in Chapter 337** | UNAPPROACHED. At zero | Print, price, carry into a column, ask for again, or paraphrase into a document |
+| **The bid** | OPEN FORTY-NINE DAYS RISING TO FIFTY-EIGHT. NOT RUN ON ONE OF THE TEN AND NOTHING PROPOSED ABOUT CLOSING IT ON ANY OF THEM | Close it, propose closing it, or print a figure for how long it might stand |
+| **The reading of that lot** | BEGUN AND NOT FINISHED, STANDING AT THE FOURTH OF THE FIVE, AND A DOCUMENT THAT NAMES A REMEDY NOBODY CAN USE HAS FOUND NOBODY IS SAID OUT LOUD TWICE | Advance it, finish it, or say the fifth thing |
+| **The rule and its price** | SAID AGAIN IN NINETY-FIVE WORDS AND SEVENTY-TWO, WITH THE NOT-KEPT ON THE FOURTH DAY SAID OUT LOUD, AND NOT ON A SHEET | Print it on a sheet, price it, soften the price, or print a figure for how many days it was kept |
+| **The column for the name of whoever read a thing out loud** | NAMED ON ALL TEN DAYS AND RULED AND EMPTY ON ALL TEN | Fill it, appoint a reader, or rule a fifth column of that shape |
+| **The old shelter's charter** | STILL WRONG ON ITS FACE, MENTIONED ONCE, AT CHAPTER 392, AND NOT TOUCHED | Correct, replace, supersede, or take it out |
+| **The ninth of the nine printed nights** | NAMED ON SIX OF THE TEN AND CLOSED IN NONE. A HUNDRED AND EIGHTY-TWO DAYS BACK RISING TO A HUNDRED AND NINETY-ONE | Close it, use it as a device, or have a plank, a book, a figure or a bell stand in for a plank |
+| **The removal day** | SEVENTY-NINE TO EIGHTY-EIGHT DAYS PAST, ENTERED ON ALL TEN, UNEXPLAINED | Explain it, and never put four hundred and eleven people in the ground in front of a reader |
+| **The two walls a mile apart** | AT ZERO ACROSS ALL TEN CHAPTERS. THE LOW WALL A MAN SITS AT IS A THING HE SITS AT AND IS NOT ONE OF THE TWO | Put a wall, a lane, a rubbed heading or a night in front of it |
+| **The two past pullings** | NEITHER PULLED, NEITHER READ, NO NIGHT NAMED | Pull it, read it, or name a night |
+| **The body four hundred miles off** | THE INTERVAL OF SIXTY-ONE DAYS WENT INTO A MOUTH AT CHAPTER 393 WITH THE SENTENCE THAT A FIGURE ABOUT A BODY'S HABIT IS NOT A FIGURE ABOUT A BODY, AND IT IS TWENTY DAYS PAST A PRINTING IT DID NOT MAKE AND NOBODY WATCHED A GATEPOST | Give it a face, name it, pull the bell, or have a clerk enter that anybody was waiting for it |
+| **The fifth of the five things this district does not have** | STILL FIVE AND STILL NOT PAID, ON FIVE OF THE TEN DAYS | Pay it, or propose a sixth |
+| **The second of the two books** | NOT OPENED, NOT TOUCHED, THE ONE LINE IN IT NOT READ ALOUD BY ANYBODY | Open it, touch it, read the line, or add one |
+| **The eleven words** | AT ZERO ACROSS ALL TEN CHAPTERS | Print, ask for, repeat, or paraphrase |
+| **The romance** | THE PROTAGONIST DID NOT GO UP THAT BANK ON ANY OF THE TEN DAYS. NOBODY KNOCKED. NOBODY ASKED. A WOMAN KEEPING TWO BOOKS AND A DOOR THAT WAS SHUT AND A FANLIGHT THAT LIGHTS NOTHING WERE ON THE PAGE ON SEVEN DAYS | Resolve it, declare it, or characterise it as a chair |
+| **The man of about sixty-four** | NINETY TO NINETY-NINE DAYS IN, GIVEN NOTHING, NOT ASKED TO SIT IN THE SECOND CHAIR, NOT SENT ON NINE DAYS, AND A FOREARM THAT TOOK ABOUT SIX SECONDS WHERE IT TOOK ABOUT ONE AND A HALF | Give him anything, ask him anything, or say what a man whose trade is over is in either direction |
+| **The child of about eight** | ONE PARAGRAPH, AT CHAPTER 399, A HAND THROUGH A GAP IN A WALL, ASKED NOTHING | Ask him anything, use him as a device, or ask him whether a shelter works |
+| **The four empty houses of the woman of about thirty-six who keeps a scale** | NAMED ON THREE OF THE TEN, NOT OFFERED, NOT COUNTED | Offer them, or count them as a figure about her |
+| **The instruments this district has made** | STILL TEN. NO ELEVENTH, NO FORESHADOWING | Move the count to eleven before Chapter 435 or 437 |
+| **The two past refusals of a price for a name** | STILL TWO. A SENTENCE WAS SAID IN A YARD IN THIS BLOCK ABOUT NOT HAVING A NAME AND IT IS NOT A PRICE AND NOT A THIRD REFUSAL AND WAS NOT WRITTEN DOWN | Manufacture a third |
+| **The rival record** | IN FORCE ONE HUNDRED AND FORTY TO ONE HUNDRED AND FORTY-NINE DAYS, NAMED ON TWO OF THE TEN, READ OUT ON NEITHER, UNANSWERED | Answer it, propose a ninth reading, or count anything as one of its readings |
+| **A new person** | NONE ARRIVED ON ANY OF THE TEN DAYS | Add one. At most one may arrive in the whole of Volume 09 |
+| **The panel** | ZERO IN THIS BLOCK AND THE SIGN-OFF IS NOT SOFTENED INTO A QUESTION | Place one |
+
+### 23.4 THE STANDING DEFECT ROWS FOR VOLUME 09, AND WHAT THIS BLOCK DID ON EACH
+
+1. **THE REPETITION FIGURE IS 857 SHARED TWELVE-WORD RUNS ACROSS CHAPTERS 391 TO 400, AGAINST 726, 831, 1,088, 843 AND 682 ACROSS VOLUME 08'S FIVE BLOCKS, AND THE FIRST DRAFT OF THIS BLOCK WAS 942.** The figure is above four of the five inherited block figures and below the peak. **A FALL FROM 942 TO 857 IS A FALL AND NOT A CLEARANCE, AND 857 IS THE FIGURE THIS BLOCK'S PROSE ACTUALLY PRODUCED AND IT IS DEFENSIBLE AND IT IS NOT A TARGET.**
+2. **THE OPENING SHAPE IS TWO OF TEN IN THIS BLOCK AGAINST FIFTY OF FIFTY INHERITED, AGAINST A CAP OF TEN OF FIFTY FOR THE VOLUME, AND THE BLOCK'S SHARE OF THAT CAP IS THREE.** Both figures are printed with the words that open each of the ten chapters. **A BLOCK THAT WRITES FOUR OF THE SHAPE IN ITS OWN TEN HAS REPEATED THE CLASS ON FORTY PER CENT OF ITS OWN BLOCK AND THIS BLOCK WROTE TWO.**
+3. **THE PANEL IS STILL THE ONLY ONE IN THREE HUNDRED AND NINETY CHAPTERS AND IT IS AT CHAPTER 354, AND THE FLAG AT SECTION 13 ITEM 1 STANDS.** This block placed none, and a close does not fix it by putting a second one anywhere.
+4. **THE COUNTED-CLAIM MISMATCH AT CHAPTER 373 IS THE ONLY ONE IN FIFTY CHAPTERS AND IS UNREPAIRED AND WAS NOT REPEATED.** This block's twenty claims all reproduce, and the guard was to measure every printed sentence and write the claim afterwards, and the per-claim table is printed in the block record.
+5. **THE META CLASS.** The 144-pattern list returns one hit over this block, *that entry* at Chapter 394, in-world. The bare words *volume*, *volumes*, *block*, *blocks*, *batch*, *batches* and *chapters* are at zero. **AND THE LIST COULD NOT HAVE FAILED THE CLASS IT WAS WRITTEN FOR, AND THE HAND SWEEP IS THE ONE THAT COULD, AND BOTH ARE PRINTED.**
+6. **THE ANCHOR TEST IS NOW A STANDING TEST AND THIS BLOCK RAN IT ON ALL EIGHTEEN OF ITS OWN COLUMNS AND ALL EIGHTEEN HOLD.** A ladder put down in the wrong place is a ladder that rises correctly to nowhere, and the constant-offset test is blind to that whole class, and a close that runs only the slope test will pass a column eight too low on all fifty of its cells.
+7. **THE CLERK-ENTRY SHARE IS 11.02 AND 11.82 PER CENT AGAINST CAPS OF 11.3 AND 12.6, AND THE FIRST DRAFT WAS 25.00 AND 26.77.** The count fell and the shape went somewhere, and that is the first time in this manuscript that the repair on this item was a movement and not a cut. **AND THE THREE FIGURES THIS MANUSCRIPT KEEPS FAILING ON — *clerk*, *a figure* AND *not asked* — ARE ALL STILL ON EVERY DAY OF THIS BLOCK OR ON NINE OF THEM, AND THE ROW IS NOT CLOSED.**
