@@ -207,3 +207,23 @@
 ## 50 (STILL OPEN). THE CONTROLLER ITEMS, RESTATED, NONE OF THEM REPAIRED, NONE OF THEM A WRITER'S
 
 `state/phase-ledger.json` still reads `currentPhase: phase-000-bootstrap`, status `planned`, attempts `0`, after four hundred and seventy chapters. `tools/__pycache__/measure.cpython-312.pyc` is still tracked in git and was rewritten by the interpreter during this block, and every measurement after the first was taken with `PYTHONDONTWRITEBYTECODE=1` exported. The `novel-reviewer` subagent does not dispatch and every review in this repository is a self-review by the writer, including `reviews/volume-10-batch-0002-review.md`, which found sixteen items and repaired one. `outline/volume-04.md` has never existed. **REPORTED, NOT REPAIRED. A WRITER THAT WRITES ITS OWN PHASE STATUS CANNOT BE COUNTED AS HAVING REACHED A PHASE, AND SAYING SO IS THE CORRECT ACTION.**
+
+---
+
+# VOLUME 10, BATCH 0002 — THE REVIEW-FIX PASS OF 2026-09-28, AND WHAT IT DID AND DID NOT CLOSE
+
+**SEVEN CHAPTERS WERE TOUCHED. NO THREAD BELOW WAS CLOSED BY IT AND NO THREAD ABOVE IT WAS REWRITTEN. THE FULL RECORD IS `state/volume-10-batch-0002-summary.md` SECTION 11.**
+
+## 47. THREE THINGS THE INDEPENDENT REVIEWER FOUND THAT THE WRITER'S OWN REVIEW HAD NOT, AND WHAT HAPPENED TO EACH
+
+1. **THE STRING *IN THAT YARD* ROSE FROM 98 ON FIFTEEN DAYS TO 164 AND NO FILE IN THE REPOSITORY HAD MEASURED IT.** Now 134, of which 62 are the register — thirty-three entry forms, fifteen ledger lines, six relays, eight inside the ruled column's own entry — and none of those was touched. **STILL OPEN, AND IT IS THE FRAME THREAD, NOT THIS ONE.** What the fall did not move is the shared twelve-word runs, which stand at 35.1 per cent of a chapter's runs against 29.1 inherited: the repeated runs are the ledger skeletons and no amount of phrase-swapping touches them. **THE ANSWER IS THE OUTLINE'S OWN AND IT IS UNCHANGED: THE STONE IS NOT A FIGURE, AND THE STONE IS THE ONE THING IN THIS BLOCK NOBODY WILL REMEMBER. `a stone` IS 8 OVER 5 CHAPTERS AND `a second table` IS 1 OVER 15, AND BOTH FIGURES ARE ALREADY PRINTED AS A DECISION AT SECTION 4.9 OF THE BLOCK RECORD AND NEITHER IS REPAIRED HERE, BECAUSE ADDING A BEAT IS ADDING A SCENE.**
+2. **THE MAN OF ABOUT FORTY-EIGHT WHO KEEPS A TALLY IS STILL NOT ON A PAGE ANYWHERE IN THIS VOLUME, AND WHAT HE HANDED OVER AT CHAPTER 470 WAS A COUNT OF MARKS AND NOT HIS FIGURE.** Unchanged. Still open. Still nobody thanked.
+3. **THE WORD A WOMAN OF ABOUT THIRTY-SIX WHO KEEPS A SCALE HAS FOR A FIGURE THAT IS TRUE FOR A WHILE AND THEN IS NOT.** Unchanged. She has it, she did not say it, a clerk entered that she had a word and entered no word, and it is still not said.
+
+## 48. ONE THREAD THE REVIEW DID NOT RAISE, WHICH THE REPAIR RAISED ITSELF
+
+**CHAPTER 470 REFERS BACK TWICE TO SOMETHING THE WOMAN OF ABOUT THIRTY-SIX SAID *ON THE EIGHTEENTH OF THIS MONTH*, WHICH IS CHAPTER 460, A CHAPTER SHE IS NOT IN.** The reference now stands at the twenty-eighth, which is Chapter 464, where she said the thing. **A BACK-REFERENCE IS A FIGURE ABOUT A DAY AND IT RE-DERIVES OFF A CHAPTER LIKE EVERYTHING ELSE, AND THE FIFTEEN CHAPTERS OF THIS BLOCK CARRIED A BACK-REFERENCE THAT DID NOT.** The next block's own back-references, if it makes any, are to be checked against the chapter numbers the way every other figure is.
+
+## 49. THE THREE PROCESS THREADS, UNCHANGED AND STILL A WRITER'S TO NAME ONCE EACH
+
+**`state/phase-ledger.json` IS STILL `phase-000-bootstrap` AFTER FOUR HUNDRED AND SEVENTY CHAPTERS. `tools/__pycache__/measure.cpython-312.pyc` IS STILL TRACKED AND `.gitignore` IS NOT A FILE A WRITER IS ASKED TO EDIT. EVERY REVIEW HERE IS A SELF-REVIEW, AND THE MECHANISM IS NOW NAMED CORRECTLY: `novel-reviewer` IS REGISTERED WITH `mode: subagent` AND THE REVIEW PHASE INVOKES IT AS THE PRIMARY AGENT, SO THE RUNNER FALLS BACK TO `default_agent`, WHICH `opencode.json` SETS TO `novel-writer`.** All three reported, none repaired, and the third's wording corrected in the three live state files because the old wording asserted a false blocker rather than a true mechanism.

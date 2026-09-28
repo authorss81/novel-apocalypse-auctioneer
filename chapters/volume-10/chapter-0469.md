@@ -1,6 +1,6 @@
 # Chapter 469: Twenty-Two Paces
 
-A man of about thirty-seven who puts tables up paced the distance from the mark for the first of the twelfth month to the mark for the thirtieth on the edge of that second table on the morning after the count, and said a number out loud, and said why out loud, and nobody asked him for either of them, and a clerk of nineteen years entered the number and the reason in one entry and the reason was his own words and not hers, and the count of things this district has made is still twelve.
+A man of about thirty-seven who puts tables up paced the distance from the mark for the first of the twelfth month to the mark for the thirtieth on the edge of that second table on the morning after the morning after the count, and said a number out loud, and said why out loud, and nobody asked him for either of them, and a clerk of nineteen years entered the number and the reason in one entry and the reason was his own words and not hers, and the count of things this district has made is still twelve.
 
 It was the morning after the morning after the count, and there was a thin frost on the boards of that first table that had gone off the near end by about half past eight, and by ten there were about nineteen people in the yard of Lot Seventeen.
 

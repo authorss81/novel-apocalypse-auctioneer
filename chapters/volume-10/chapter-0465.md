@@ -8,7 +8,7 @@ A clerk of nineteen years entered, at about a quarter to eight and before there 
 
 The man of fifty-six said the four off that wall in the ordinary voice and got all four, and said the word with each of them and got the word four times, and nobody in that yard said one word to him and he said nothing, and about four people at that near end have stopped saying the third of the four along with him altogether.
 
-"**The board carries three hundred and sixty, the train on that siding has stood six hundred and eighty-six days, nobody has entered anything for four hundred, and three hundred and sixty-one days separate the second of January and this morning.**"
+"**The board carries three hundred and seventy, the train on that siding has stood six hundred and eighty-six days, nobody has entered anything for four hundred, and three hundred and sixty-one days separate the second of January and this morning.**"
 
 ---
 
