@@ -470,7 +470,7 @@
 | the marks cut off that board since the first of the twelfth month | 57 | 58 | 72 | 15 of 15 |
 | the marks in chalk along the edge of that second table | — | 44 | 58 | 15 of 15 |
 | the mornings a man of fifty-six has read four figures off that wall | **not a ladder** | the two hundred and twenty-sixth | the two hundred and fortieth | 15 of 15 |
-| the days the copy has been on that second table | 0 | 1 | 15 | 15 of 15 |
+| the days the copy has been on that second table | 0 | 1 | 15 | **12 of 15, corrected by the Volume 11 close review fix from 15 of 15: Chapters 503, 507 and 508, which are all in this block, state no tenure of the copy in any form, so the block is 12 and the volume is 47 of 50** |
 
 ## 4. The three deviations from the last volume, and how each was handled
 
