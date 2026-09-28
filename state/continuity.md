@@ -317,3 +317,91 @@
 - **THE SIX FINDINGS OF THE REVIEW THAT WERE NOT REPAIRED ARE NOT CONTINUITY. THEY ARE THE PROSE, THE STATUS FOOTER, THE NAMING OF THE SECOND TABLE, THE MISSING `.done` MARKER, THE PREMISE DIVERGENCE AND THE QUALITY GATE, AND FIVE OF THE SIX ARE A DECISION AND NOT A CORRECTION.** They are weighed at section 12.3 of `state/volume-10-batch-0004-summary.md` and summarised for a writer at `state/current.md`, and the premise divergence is carried as an open question in `state/open-threads.md`.
 
 **APPENDED TO THE END OF THIS FILE AND NOTHING ABOVE IT REWRITTEN. NO EARLIER VOLUME'S RECORD, NO ROLL AND NO CLOSE WAS EDITED. NO `state/phase-ledger.json` ENTRY WAS CREATED.**
+
+---
+
+# VOLUME 10 CLOSE — CONTINUITY APPEND, 2026-09-28
+
+**Appended by the Volume 10 close phase. It edited no chapter, and no line above this block was rewritten. Every figure below was re-derived from the sixty chapter files and none is carried from an outline, a block record or a handoff prompt. Where a document and a chapter disagreed, the chapter won and the document was reported at `state/volume-10-close.md` section 2 and left unrepaired.**
+
+## 1. The canon position at the end of Chapter 500
+
+**Sixty chapters on fifty days. `c` is the day and runs 1 to 50 and `c = 0` is Chapter 440, the last day of Volume 09. Days 3, 16, 19, 22, 25, 30, 33, 36, 43 and 48 each carry two chapters, a morning and its afternoon. Chapter 441 is the eighth of the twelfth month and Chapter 500 is the twenty-seventh morning after the count, and Chapter 500 prints no date by the decision the four blocks took. There is no Chapter 501, no Batch 0001, and no day-count anywhere in this canon for the length of the month the district is living in now; the twelfth month is thirty and was counted off a board and paid at Chapter 467, and the month after it has never been counted by anybody.**
+
+## 2. The ladder, every column, verified cell by cell
+
+**This is the continuity fact that matters most, because six of these intercepts are printed as day-one values in three other documents and a writer who takes one of the six as an intercept is a day out on forty-nine of the fifty days.**
+
+| the figure | intercept at `c = 0` | at `c = 1` | at `c = 50` | days of 50 |
+|---|---|---|---|---|
+| the days on that board | 348 | 349 | 398 | 50 of 50 |
+| the days the train on that siding has stood | 664 | 665 | 714 | 50 of 50 |
+| the days nobody has entered anything | 378 | 379 | 428 | 50 of 50 |
+| the days from the second of January | 339 | 340 | 389 | 50 of 50 |
+| **how long the bid has been open** | **98** | **99** | **148** | 50 of 50 |
+| **how far back the ninth of the nine printed nights is** | **231** | **232** | **281** | 50 of 50 |
+| **how far behind the figure on the second line is** | **53** | **54** | **103** | 50 of 50 |
+| how long the rule said out loud has stood | 58 | 59 | 108 | **49 of 50 — Chapter 490 prints 99** |
+| **how long since the first day of the eighth month** | **128** | **129** | **178** | 50 of 50 |
+| **how far past a printing a body four hundred miles off is** | **67** | **68** | **117** | 50 of 50 |
+| **the age of the figure on that sheet, as a figure about the figure** | **189** | **190** | **239** | 50 of 50 |
+| the figure on the sheet at that gatepost | **not a ladder** | 411 | 411 | 50 of 50 and unmoved on all fifty |
+| **the night the man of about sixty-four is on** | **139** | **140** | **189 — Ch 500 prints 190** | 49 of 50 |
+| **the nights of that run he has slept on** | **138** | **139** | **188 — Ch 500 prints 189** | 48 of 50 |
+| the marks cut off that board | 7 | 8 | 57 | 50 of 50 |
+| the marks in chalk along the edge of that second table | — | not in the yard on day 1 | 43 | 22 days, 26 chapters, `c` less seven, zero cells failing |
+| the fourth of the five things a document that sets a lot out has to say | **not a ladder** | fourth, a person | fourth, a person | 60 of 60 chapters |
+
+**The three columns that are a day out are worked out in the open on days 15 to 25, entered as days, not corrected, not re-anchored, and not turned into a finding about a person. One of the three is the third of the four figures a man of fifty-six reads. The figure on the board wins on every one of the twenty columns. The re-derived figure exists nowhere on any of the sixty pages and was not printed by this close in any document that a writer will read as canon.**
+
+## 3. The two arithmetic deviations, and they are canon and may not be repaired
+
+**Chapter 500 prints `his hundred and ninetieth night` and `slept on a hundred and eighty-nine of them` where the figures are 189 and 188. It is one high on both and it is the only chapter in the volume that is one high on either. Chapter 490 prints `ninety-nine days` for how long the rule said out loud in that yard has stood where the figure is one hundred, and in the same sentence a clerk enters that figure as a figure about a rule and not about how many days the rule has been kept.**
+
+**Every other figure on every other day holds. Neither deviation is a finding about a hand or a man or anybody. Chapter 490 and Chapter 500 are canon and neither was edited.**
+
+**THE INHERITED WARNING WAS WRONG AND IS CORRECTED HERE. `state/volume-10-batch-0004-summary.md` sections 3 and 8 told a close that section 10.4 of the outline is a day high on seven figures and that the chapters give 189 and 188 for the man of about sixty-four where the outline gives 190 and 189. Measured, the record is right about 282, 149, 399, 715, 430 and 390 — six figures, one of them two high — and wrong about the man of about sixty-four: 189 and 188 are the ladder's own `Stay` and `NightsSlept` columns at `c = 50`, the prose does not print a ladder column, the prose prints the night's own count, and on day 49 the prose prints 188 and 187 while on day 50 it prints 190 and 189. The record attributed a column to the prose and the error is in Chapter 500 and not in the outline. The other inherited formulas are corrected at section 4.**
+
+## 4. The three inherited figures that the chapters contradict, corrected here
+
+1. **The marks in chalk along the edge of that second table are `c` less seven, and the inherited block record and the inherited canon card both give fifteen plus `c`, which is seven out at every cell.** Measured over both surface forms, `there are N marks in chalk` and `there are N of them in a row`: 26 chapters across 22 days, first 5 at day 12 (Chapter 453), last 43 at day 50 (Chapter 500), zero cells failing. **The inherited scope of twenty-four chapters on twenty-one days was itself short by two chapters and one day.**
+2. **Six things stand in that yard that are not a payment and none of the six is one, on fourteen chapters of this volume. `seven things` is at zero across all sixty files. The inherited block record and the inherited canon card both say seven. The chapters say six.**
+3. **`a foot and a half` is 8 occurrences on day 3, Chapter 444, and it is the depth of that ditch. The inherited block record prints it at zero across its own fifteen, which is true of its own fifteen and not of the volume.** This is the seventh time this repository has had to say that a figure at zero for a block is not a figure for the volume.
+
+**And one more, found by this close in its own record and corrected there: the form `was not run` is 61, not 60, because Chapter 454 carries it twice, once inside the clerk's entry in the first line and once on a line of its own. The script that built the day index for the day-lists table was wrong from Chapter 489, and recomputing the whole table on a correct map changed no total and no day count, because each of those strings is either on all fifty days or silent on a run the off-by-one never reached. The two cells that were wrong were hand-written cells and not artefacts of the map.**
+
+## 5. What held, measured, and may not be moved
+
+| the count | figure | note |
+|---|---|---|
+| things this district has made | **12** | moved once, at Chapter 448, with the reason in a mouth; a thumb in a hollow is entered as not a thirteenth at Chapter 500 |
+| things this district does not have | **5** | the fifth named on 50 of 50 days and in a mouth on one of them; **no sixth was proposed on any of the fifty days** |
+| instruments built and not named | **6** | a worn stone and a second stone were each entered as not a seventh, with a person in the room, on the day each went on |
+| documents this district does not own | **3** | a stone, a table and a chalk mark were each refused as a fourth, in a mouth |
+| protected things | **5** | a second reader was asked for and refused out loud with a reason; a stone and a table were each refused as a sixth |
+| conditions with no end on it | **4** | **a wear is not a condition and a wear is the opposite of one, because a condition has no end and a wear has an end and the end is the part nobody wrote down.** On the page at Chapter 500 |
+| readings of the rival record | **7** | the third line, a stone and a chalk mark were each refused as an eighth, in a mouth |
+| different ninths in this district | **5** | a stone is not a sixth ninth and a wear is not a ninth of anything |
+| refusals to read | **9** | a clerk refused twice in front of about nine people, said she could read it and was not going to, and read it on the third morning, and the reading did not advance |
+| refusals with no reason a clerk of a house has given | **8** | did not move |
+| refusals of eleven coppers a week | **9** | did not move; `eleven coppers` is at zero across the volume |
+| refusals about the ninth holding | **7** | did not move; the three figures are three figures and are not added together |
+| boards and lines full | **5 / 6** | nobody put a line on a board on any of the fifty days |
+| columns of not-askings | **4** | no fifth ruled, and a column on a stone is not a column |
+| a rate turning a year into coppers | **none** | a wear is not a rate, a stone is not a price, a chalk mark a morning is not a wage |
+| a new person added to this district | **none** | **nobody arrived on any of the fifty days** |
+| a month length counted | **one** | the twelfth month, thirty, at Chapter 467 |
+
+## 6. The three prohibitions broken in prose, weighed and not repaired
+
+**`outline/batches/volume-10-batch-0004.md` section 5 forbids using a wall, a lane, a gatepost, a rubbed heading, or a looking in front of one as a device. Measured over the volume: `a gatepost` is 2, both on day 33 at Chapter 479, both the sheet nailed to a gatepost nine hundred yards off, and the looking in front of one is used as a device in the same chapter; `a lane` is 1, on day 9 at Chapter 450, a man walking down a lane recalled inside a comparison; and `a wall` is 29 over 15 days of which four are the wall the three columns that are a day out stand on, at Chapters 486, 491, 498 and 499, and the other twenty-five are the low wall at the foot of which the man of about sixty-four sits and the yard's own wall. **The block record and the canon card both printed the `a wall` count as eighteen and both printed every one of them as the low wall. Six chapters are affected and no chapter is a close's to edit.**
+
+**And the protected relay that carries the man of about sixty-four, `at the foot of that low wall with his coat folded on the stones`, is 50 occurrences on 42 of 50 days, silent on days 26, 28, 29, 31, 32, 34, 36 and 37, against 30 of 30 chapters in the first two blocks of this volume. It fell by two thirds inside Batch 0003 after a review repair took a time of day out of a protected string and in taking it out took the sentence that put the man on the stones. None of the six relays may be smoothed by deletion and this close neither lowered it nor raised it, and repairing the eight missing days would be writing prose into a closed volume.**
+
+## 7. What stayed at zero, measured over all sixty files
+
+`a bell`, `hearth`, `a child`, `a market`, `a ship`, `a coast`, `a port`, `a tide`, `a rope`, `removal`, `two walls`, `a chair`, `a shelter`, `a charter`, `a covenant`, `a slate`, `a party`, `a lock`, `a notice`, `eleven words`, `the office`, `an office`, `a shut door`, `a mile apart`, `midnight`, `panel`, `noon` as a whole word. **And the tool's own reserved scan returns an empty dictionary over the sixty files, which is the same as Volume 09 and every block of it: `Adrian`, `Mara`, `auction`, `Iven`, `Tallow`, `Custodian`, `Verdict`, `Midnight` and the rest of the list are all at zero, and the protagonist's name is at zero on all five hundred chapters.**
+
+**THE NAME MAY BE SETTLED IN A LATER VOLUME ON SUCH A DAY AND NOT BEFORE: on a day a person in this district says it out loud in a room or a yard, in a scene, with the prose first and the document second. The volume is closed, so no chapter may be added to it, and the name is not settled in the close record, is not settled in the roll, is not settled in any character file, and may not be taken from a count.**
+
+**APPENDED TO THE END OF THIS FILE AND NOTHING ABOVE IT REWRITTEN. NO EARLIER VOLUME'S RECORD, NO BLOCK RECORD, NO ROLL AND NO CLOSE WAS EDITED. NO CHAPTER OF ANY VOLUME WAS EDITED. NO ENTRY WAS CREATED IN `state/phase-ledger.json`. NOTHING UNDER `scripts/`, `.github/workflows/`, `.opencode/agent/`, `tools/`, `state/archive/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md` OR `opencode.json` WAS EDITED.**

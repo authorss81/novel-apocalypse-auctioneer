@@ -44,6 +44,14 @@
 
 **And the one figure a close may take from a document because it is inherited standing and is not on a page of this volume: the four hundred and eleven is the figure on a sheet at a gatepost four hundred miles from any water, it is a count of the people who answered a door, it is four hundred and eleven on fifty of fifty days of Volume 09 and on fifty of fifty days of this one, and there is no day-count for the sheet and its own tenure on that post is not a figure this canon has.**
 
+**And a fourth, which this close found in itself and which is the reason the other three are believable.**
+
+4. **Two cells of this record were wrong when they were first written, and re-measuring them from a clean day map found both — and found that the broken map was not why.**
+
+The script that built the day index advanced a counter per chapter and then corrected for the doubled days, and that map is wrong from Chapter 489: it spends the doubled day 43 on Chapters 490 and 491 instead of 491 and 492, so the last twelve chapters are a day out. **A day count is not a nuisance and every "on N of 50 days" cell in section 14 is one, so the whole table was rebuilt from the two-chapter list forward and every cell recomputed.**
+
+**Every total and every day count came back identical, and that is a worse finding than a broken map.** It means the off-by-one changed nothing in this table, because each of these strings is either on all fifty days or silent on a run the error never reached. **A map that is wrong and changes nothing is a map nobody will ever notice is wrong**, and the two cells that did turn out to be wrong were not cells the map touched: they were two cells written into this record by hand that the chapters did not support. **The form *was not run* is 61 and not 60 because Chapter 454 carries it twice, once inside the clerk's entry in its first line and once on a line of its own. `a habit` is 17 lowercase and 18 case-insensitive because the eighteenth is the Chapter 441 title, and this table's own stated convention is case-insensitive.** Both are corrected in section 14 and both are logged in the self-review. Nothing else in this record moved: 176 claims, 0 mismatches, the denominator, the `wc -w` band, 7,626 shared runs, 3 identical paragraphs, the six relays and the cap breach at Chapter 479 all re-derived exactly. **And the ladder at section 5.1 was built on the clean map and every one of its fifteen columns holds on fifty of fifty days, which is the check that the clean map is the right one and is not available to the day-lists at all.**
+
 ---
 
 ## 3. The ten columns this volume owes its close, each with sixty cells and a checked total
@@ -182,9 +190,37 @@ Every one of these held its figure across the volume, and every move is on a pag
 
 **The figure the protagonist is afraid of, per section 5.3 of the outline, is a day. It was said once in this volume, on day 14, and he did not say it again and was not asked to. He said things out loud in a yard in this volume more times than in any volume before it and was asked for nothing and given nothing on any of the fifty days, none of the things he said put his own hand into the reason for anything, and his name is not on any page of the sixty or of the four hundred and forty before them.**
 
+### 5.1 Every ladder in this volume, re-derived, and the intercept six documents print as a day-one figure
+
+**This is the table a writer arriving for Volume 11 needs and it is not the table in the handoff prompt. `c` is the day and runs 1 to 50, and `c = 0` is Chapter 440. Six of the fourteen columns below are printed in the handoff prompt, in `outline/volume-10.md` section 6.1 and in `state/volume-10-batch-0004-summary.md` section 6 as the value at Chapter 441, and a writer who takes one of those six as an intercept is wrong on forty-nine of the fifty days. Measured over the sixty files, every cell, no figure taken from a document.**
+
+| the figure | intercept at `c = 0` | formula | at `c = 1`, Chapter 441 | at `c = 50`, Chapter 500 | days of 50 it holds |
+|---|---|---|---|---|---|
+| the days on that board | 348 | `348 + c` | **349** | **398** | **50 of 50** |
+| the days the train on that siding has stood | 664 | `664 + c` | **665** | **714** | **50 of 50** |
+| the days nobody has entered anything | 378 | `378 + c` | **379** | **428** | **50 of 50** |
+| the days from the second of January | 339 | `339 + c` | **340** | **389** | **50 of 50** |
+| **how long the bid has been open** | **98** | `98 + c` | **99** | **148** | **50 of 50** |
+| **how far back the ninth of the nine printed nights is** | **231** | `231 + c` | **232** | **281** | **50 of 50** |
+| **how far behind the figure on the second line is** | **53** | `53 + c` | **54** | **103** | **50 of 50** |
+| how long the rule said out loud has stood | 58 | `58 + c` | **59** | **108** | **49 of 50 — Chapter 490 prints 99** |
+| how long it is since the first day of the eighth month | 128 | `128 + c` | **129** | **178** | **50 of 50** |
+| **how far past a printing a body four hundred miles off is** | **67** | `67 + c` | **68** | **117** | **50 of 50** |
+| **the age of the figure on that sheet, as a figure about the figure** | **189** | `189 + c` | **190** | **239** | **50 of 50** |
+| **the night the man of about sixty-four is on** | 139 | `139 + c` | **140** | **189 — Chapter 500 prints 190** | **49 of 50** |
+| **the nights of that run he has slept on** | 138 | `138 + c` | **139** | **188 — Chapter 500 prints 189** | **48 of 50** |
+| the marks cut off that board since the mark for the first of the twelfth month | 7 | `7 + c` | **8** | **57** | **50 of 50** |
+| the marks in chalk along the edge of that second table | — | `c` less seven | not in the yard on day 1 | **43** | **22 days, 26 chapters, days 12 to 50, zero cells failing** |
+
+**The six in bold are the six a document prints as a day-one value and a writer may read as an intercept. The bid is the worst of the six, because 99 is a rounder figure than 98 and a writer who reaches for the round one will be a day out from Chapter 443 to Chapter 500 without once knowing it.**
+
+**The first three of the four a man of fifty-six reads are `348 + c`, `664 + c` and `378 + c`, and the fourth is `339 + c`, and every cell of all four is its own day's cell. That is not a claim about the four; it is what the anchor test needs, and it is why the anchor test can be run at all.**
+
+**And the marks in chalk: `c` less seven, confirmed on twenty-six chapters across twenty-two days from day 12 to day 50, with zero cells failing, in two surface forms, `there are N marks in chalk` and `there are N of them in a row`. The inherited block record says twenty-four chapters on twenty-one days and its formula, fifteen plus `c`, is seven out at every single cell. The inherited contract says the same. The chapters give `c` less seven.**
+
 ---
 
-## 6. The two figures in Chapter 500 that are a day high, and what the inherited record told the next phase to believe about them
+## 6. The two arithmetic deviations in the volume, and what the inherited record told the next phase to believe about them
 
 **This is the manuscript defect this close found. It is in the last chapter of the volume, and it is in the two figures about the one person in this volume who was given nothing on every one of fifty days.**
 
@@ -199,6 +235,17 @@ Measured, over the fifty-eight chapters that carry them:
 **Now the consequence, which is why this belongs here rather than in a list. `state/volume-10-batch-0004-summary.md` at section 3 item 2 and again at section 8 tells a close that section 10.4 is a day high on seven figures and that the chapters give 189 and 188 for the man of about sixty-four where the outline gives 190 and 189. Measured, the record is right about 282, 149, 399, 715, 430 and 390 — six figures, one of them two high — and wrong about the man of about sixty-four. The figures 189 and 188 in that sentence are the ladder's `Stay` and `NightsSlept` columns at `c = 50`. The prose does not print a ladder column. The prose prints the night's own count, and on day 49 the prose prints 188 and 187, and on day 50 it prints 190 and 189. The record attributed a column to the prose, the column and the prose are two different numbers, and the error is in Chapter 500 and not in the outline.**
 
 **So a close that had taken the inherited warning at its word would have published 189 and 188 as the figures the volume ends on, and the volume ends on 190 and 189, and the two figures a reader ends on are the two that are a day out from the day they name, on a man who was given nothing. A close may not edit a chapter, Chapter 500 is canon, and this is reported at full size and is not repaired. It is also not a finding about a hand or about a man or about anybody, and it has not been turned into one. It is a figure on a page, one day out, beside thirteen figures on the same page that are not.**
+
+### 6.1 The other one, at Chapter 490, one low, and the chapter says what it is
+
+**Re-deriving every ladder in section 5.1 found a second arithmetic deviation in this volume, and it is in the opposite direction and on a different object, and it was not in the inherited warning.**
+
+- The rule said out loud in that yard was said on the tenth of the tenth month, and the figure is `58 + c` and holds on forty-nine of fifty days: 97 at Chapter 487, 98 at Chapter 488, 99 at Chapter 489, **99 at Chapter 490**, 101 at Chapter 491, 102 at Chapter 493. Chapter 490 is day 42 and the ladder gives one hundred.
+- **The chapter then does something no other chapter in the volume does with a ladder figure, and it does it in the same sentence: a clerk entered that figure this morning as a figure about a rule and not about how many days the rule has been kept.** So the one cell in this volume that is a day out from its own ladder is the one cell whose chapter tells the reader on the page that it is not a day-count.
+
+**This close does not know whether the writer of Chapter 490 meant the ninety-nine. That is the honest position and it is stated rather than resolved. What can be said is that the deviation and the sentence about the deviation are in the same line, that a reader who takes the figure as a day-count is wrong by one, and that a reader who takes the clerk's entry is being told not to take it as a day-count in the first place. Both readings are on the page. Neither is repaired, because Chapter 490 is canon and because the volume's own argument is that these are not the same kind of figure.**
+
+**So the volume contains two arithmetic deviations on sixty chapters, and both of them are on the two figures this district has most use for and least: one figure about a rule and one figure about a man nobody gives anything to. Every other figure on every other day holds.**
 
 ---
 
@@ -332,7 +379,7 @@ Every list below was counted over the sixty files, the days are days and not cha
 |---|---|---|---|
 | `Lot Seventeen` | 60 | 50 | exactly once in every chapter, the only place named in narration |
 | `four hundred and eleven` | **62** | 50 | the cap, and the two extras; section 3.3 |
-| the form *was not run* | 60 | 50 | no chapter of the fifty days says the bid was run |
+| the form *was not run* | **61** | 50 | no chapter of the fifty days says the bid was run. **One a chapter and one more, and the one more is Chapter 454, where it stands twice: once inside the clerk's entry and once on a line of its own. This cell was printed at 60 in an earlier pass of this record and the chapters give 61; the chapter is canon and the record was wrong. Corrected here and logged at `reviews/volume-10-close-review.md` item 2** |
 | `the ninth of the nine printed nights` | 60 | 50 | named on every chapter and closed on none |
 | `the fifth of the five things this district does not have` | 64 | 50 | in a clerk's entry on all fifty, in a mouth on one of them |
 | `a way to pay a person who is not in a household` | 63 | 50 | the fifth of the five itself, in a mouth on none of the fifty |
@@ -356,7 +403,7 @@ Every list below was counted over the sixty files, the days are days and not cha
 | `the bank` | 22 | 14 | |
 | `a ditch` | 10 | 5 | |
 | `a stranger can walk up to` | 10 | 8 | |
-| `a habit` | 17 | — | and never attached to the figure on the sheet; section 1 |
+| `a habit` | 17 | 8 | lowercase, and it is 18 case-insensitive; the eighteenth is the chapter title at Chapter 441, *A habit is a finding*, which is on the page and is not an occurrence in a body. And never attached to the figure on the sheet; section 1. **The case was not stated in an earlier pass of this cell and the string convention for this table is stated at section 3.6 and is case-insensitive, so a reader applying that convention here gets 18 and not 17. Both are printed. See `reviews/volume-10-close-review.md` item 3** |
 | `a bell`, `hearth`, `a child`, `a market`, `a ship`, `a coast`, `a port`, `a tide`, `a rope`, `removal`, `two walls`, `a chair`, `a shelter`, `a charter`, `a covenant`, `a slate`, `a party`, `a lock`, `a notice`, `eleven words`, `the office`, `an office`, `a shut door`, `a mile apart`, `midnight`, `panel`, `a count of answerers`, `carries its own expiry`, `stop being true`, `a word put on a figure` | **0** | 0 | measured, case-insensitive, whole string |
 | `noon` | 0 | 0 | as a whole word; 88 as a substring, every one of them inside `afternoon` |
 | `Adrian`, `Mara`, `auction`, `Iven`, `Tallow`, `Custodian`, `Verdict`, `Midnight`, `Alder Reach` and the rest of the tool's reserved list | **0** | 0 | the tool's own reserved scan over the sixty files returns an empty dictionary |
@@ -378,8 +425,10 @@ Every list below was counted over the sixty files, the days are days and not cha
 | the tool's reserved scan | an empty dictionary |
 | markdown, unit and weekday integrity sweep, run last | 0 issues |
 
-**All three duplicated paragraphs straddle a block boundary: 455 and 456, 460 and 471, and 480 and 498. That is the same finding Volume 09 recorded and the reason it is recorded again: a block's own sweep cannot see a duplication of its own, because the two halves of it are in different files, and the volume is four blocks of fifteen with three boundaries, one fewer than Volume 09's five blocks and five boundaries.**\n
-**And the volume figure of 7,626 against a sum of block figures of 8,211 is the sixth time this repository has printed a volume figure beside the sum of its block figures and got a difference that is not a trend. The direction is explained at section 3.7 and it is a property of the frame, not of the writing.**\n
+**All three duplicated paragraphs straddle a block boundary: 455 and 456, 460 and 471, and 480 and 498. That is the same finding Volume 09 recorded and the reason it is recorded again: a block's own sweep cannot see a duplication of its own, because the two halves of it are in different files, and the volume is four blocks of fifteen with three boundaries, one fewer than Volume 09's five blocks and five boundaries.**
+
+**And the volume figure of 7,626 against a sum of block figures of 8,211 is the sixth time this repository has printed a volume figure beside the sum of its block figures and got a difference that is not a trend. The direction is explained at section 3.7 and it is a property of the frame, not of the writing.**
+
 **No prose was edited by this close, so every row above is a measurement of a manuscript that is closed and is not to be edited, and that is the standing reason the three defects in it are reported rather than repaired.**
 
 ---
@@ -388,7 +437,7 @@ Every list below was counted over the sixty files, the days are days and not cha
 
 **The five live state files are append-only. Before this close appended, measured: `state/current.md` 90,955, `state/continuity.md` 73,041, `state/open-threads.md` 71,712, `state/chapter-summaries.md` 82,387, `state/character-state.md` 101,337. Total 419,432. The four append-only deltas are printed final at the foot of this section. The fifth is named as a pointer and not as a figure, because a file that prints its own size in two places has printed two figures and measured one, and this repository has been bitten by that before.**
 
-**The one in-place edit is in `state/current.md` and is named here because a delta that hides an in-place edit is not a measurement. The five live lines at the top of that file were read. `Current phase:` and `Current batch:` said Volume 10 was complete and that Batch 0004 was the last block, and both were true when written and are now false, because the volume is closed. `Last completed chapter:` said 500 and still says 500 and was not touched. `Last batch summary:` named the block record and now names this close. `Next phase:` named the close and now names what comes after it, and this close did not create it. Those four lines were the only words changed in any of the five files, and no word below them was changed. The appends went to the end of all five and nothing above the appends was rewritten.**
+**The one in-place edit is in `state/current.md` and is named here because a delta that hides an in-place edit is not a measurement. The five live lines at the top of that file were read. `Current phase:` and `Current batch:` said Volume 10 was complete and that Batch 0004 was the last block, and both were true when written and are now false, because the volume is closed and no batch is open. `Last completed chapter:` said 500 and still says 500, and was rewritten only to name the two figures on that page which are a day out from their own ladder, which the old line did not name. `Last batch summary:` named the block record and now names this close. `Next phase:` named the close and now names what comes after it, and this close did not create it. Those five lines were the only words changed in any of the five files, and no word below them was changed. The appends went to the end of all five and nothing above the appends was rewritten.**
 
 **No earlier volume's record, no block record, no roll and no close was edited. `state/volume-09-close.md` and `state/volume-09-roll-summary.md` were not opened. Nothing under `state/archive/` was opened. No entry was created in `state/phase-ledger.json`, and that file still reads `currentPhase: phase-000-bootstrap`, status `planned`, attempts `0`, after five hundred chapters, which is reported at section 17 and not repaired, because a repair of it is not a close's work.**
 
@@ -409,7 +458,7 @@ Every list below was counted over the sixty files, the days are days and not cha
 
 **It wrote no chapter and edited no chapter. It created three documents and appended to five. It settled nothing on a page, because there is no page left to settle anything on.**
 
-It did not correct the two figures in Chapter 500, and it did not touch the figure on the second line of that lot book or the third line or add a fourth. It did not advance the reading of that lot. It did not pay the fifth of the five and did not propose a sixth. It did not fill the column for the name of whoever read a thing out loud. It did not enter the sentence as a rule and did not join the two halves of the reason a bid cannot be run on. It did not ask a man of fifty-six which two of his four he could go and look at, and did not say which in a mouth, in an entry, or in any document. It did not turn the three columns that are a day out into a finding about a hand, or about the man who reads them, or about anybody, including in the two sentences of section 6 where the temptation was strongest and the two wrong figures are about a man nobody gave anything to. It did not print a re-derived `Unentered`. It did not run, close or propose closing the bid. It did not name a night, pull the bell, give the bell its name, or close the ninth of the nine printed nights. It did not use a wall, a lane, a gatepost, a rubbed heading or a looking in front of one as a device. It did not give the body four hundred miles off a face, an arrival or a waiting, and did not calendar an arrival nobody is waiting for. It did not go up that bank, read aloud the one line in the second of those two books, print, ask for, repeat or paraphrase the eleven words, or characterise any of it as a chair. It did not give the man of about sixty-four anything, and did not have a clerk say what he is going to do with his hands tonight, because nobody asked her. It did not ask the child of about eight anything. Nobody arrived. It placed no panel. It named no new final enemy, no coast, no port, no ship, no shipwright, no harbour guild, no underwriter, no pilot, no graveyard, no dock and no tide. It did not use the length of any month as a discovery, and entered no length for any later month. It did not put a thirteenth thing in the count of what this district has made. It did not appoint a second reader and ruled no column for one. It did not print, say, ask for, enter, sign or put on anything the protagonist's name. It did not repair the fixed final image and did not treat the spend at Chapter 475 or Chapter 453 as a defect to be fixed. It did not repair the premise, and it did not repair the tool. And it did not create the phase that comes after this one, because the phase after a close is the controller's and this close was told so in the document it was given.
+It did not correct the two figures in Chapter 500, or the one in Chapter 490, and it did not touch the figure on the second line of that lot book or the third line or add a fourth. It did not advance the reading of that lot. It did not pay the fifth of the five and did not propose a sixth. It did not fill the column for the name of whoever read a thing out loud. It did not enter the sentence as a rule and did not join the two halves of the reason a bid cannot be run on. It did not ask a man of fifty-six which two of his four he could go and look at, and did not say which in a mouth, in an entry, or in any document. It did not turn the three columns that are a day out into a finding about a hand, or about the man who reads them, or about anybody, including in the two sentences of section 6 where the temptation was strongest and the two wrong figures are about a man nobody gave anything to. It did not print a re-derived `Unentered`. It did not run, close or propose closing the bid. It did not name a night, pull the bell, give the bell its name, or close the ninth of the nine printed nights. It did not use a wall, a lane, a gatepost, a rubbed heading or a looking in front of one as a device. It did not give the body four hundred miles off a face, an arrival or a waiting, and did not calendar an arrival nobody is waiting for. It did not go up that bank, read aloud the one line in the second of those two books, print, ask for, repeat or paraphrase the eleven words, or characterise any of it as a chair. It did not give the man of about sixty-four anything, and did not have a clerk say what he is going to do with his hands tonight, because nobody asked her. It did not ask the child of about eight anything. Nobody arrived. It placed no panel. It named no new final enemy, no coast, no port, no ship, no shipwright, no harbour guild, no underwriter, no pilot, no graveyard, no dock and no tide. It did not use the length of any month as a discovery, and entered no length for any later month. It did not put a thirteenth thing in the count of what this district has made. It did not appoint a second reader and ruled no column for one. It did not print, say, ask for, enter, sign or put on anything the protagonist's name. It did not repair the fixed final image and did not treat the spend at Chapter 475 or Chapter 453 as a defect to be fixed. It did not repair the premise, and it did not repair the tool. And it did not create the phase that comes after this one, because the phase after a close is the controller's and this close was told so in the document it was given.
 
 ---
 
@@ -432,7 +481,28 @@ It did not correct the two figures in Chapter 500, and it did not touch the figu
 
 **The three things a later volume inherits as a finding rather than as a debt:** a column can be named more often and go emptier; a figure nobody has to put down cannot be a day out and cannot be checked, and this district spent five volumes building the first and had the second in its yard for two; and a cap of one a chapter is a cap on borrowing, and the one day the district's own figure came out equal to the borrowed one is on a page in Chapter 479.
 
-**The three things a later volume inherits as a liability:** the two figures in Chapter 500, the fall in the relay that carries the man nobody gives anything to, and the premise.
+**The three things a later volume inherits as a liability:** the two figures in Chapter 500 and the one in Chapter 490, the fall in the relay that carries the man nobody gives anything to, and the premise.
+
+**And the six ladder intercepts a document prints as a day-one figure, at section 5.1: the bid at 98 and not 99, the ninth of the nine printed nights at 231 and not 232, the second line at 53 and not 54, the body four hundred miles off at 67 and not 68, the first day of the eighth month at 128 and not 129, and the age of the figure on that sheet at 189 and not 190. Each of the six holds on fifty of fifty days and each of the six as printed holds on one day of fifty.**
 
 **And the two open questions, neither of which is a writer's to answer and both of which are printed here so that the person who can answer them does not have to find them.** Whether a close is allowed to open the premise question. And whether the state layer of this repository is going to keep being written in capitals, given that a document that shouts is a document nobody checks, and that the figures in capitals in this record are the ones a reader is most likely to act on.
 
+
+---
+
+## 20. The bytes, measured after the appends were written
+
+**The five live state files are append-only. Measured before this close appended anything: `state/current.md` 90,955, `state/continuity.md` 73,041, `state/open-threads.md` 71,712, `state/chapter-summaries.md` 82,387, `state/character-state.md` 101,337, together 419,432.**
+
+| file | before | after | delta |
+|---|---|---|---|
+| `state/continuity.md` | 73,041 | 85,750 | **+12,709** |
+| `state/open-threads.md` | 71,712 | 84,039 | **+12,327** |
+| `state/chapter-summaries.md` | 82,387 | 91,853 | **+9,466** |
+| `state/character-state.md` | 101,337 | 114,720 | **+13,383** |
+| **the four append-only files together** | **328,477** | **376,362** | **+47,885** |
+| `state/current.md` | 90,955 | see the pointer | **not printed as a number, and the reason is section 16** |
+
+**The four deltas are final because nothing further is appended to those four files by this phase. The fifth is a pointer because this record and that file both describe the append and a figure that describes the file carrying it has to be measured before the sentence carrying it exists. `wc -c state/current.md` is the command. NO WRITER SHOULD TRUST A NUMBER IN A STATE FILE THAT DESCRIBES THAT STATE FILE.**
+
+**The one in-place edit in this phase is in `state/current.md` and is named at section 16 and again in the head of the block appended to it: five live header lines, `Current phase:`, `Current batch:`, `Last completed chapter:`, `Last batch summary:` and `Next phase:`. The first two were stale because the volume is closed and no batch is open. The third still said 500 and was rewritten to say 500 and to name the two figures on that page which are a day out, which the old line did not name. The fourth and the fifth now name this close and what comes after it. No word below those five lines in that file was rewritten, and no word in any of the other four files above its append was rewritten.**
