@@ -1,4 +1,4 @@
-# Continuity — LIVE, Volume 10 (*The Unfinished Sale*, Chapters 441-500) open, Batch 0001 written, on top of the Volume 09 close
+# Continuity — LIVE, Volume 11 (*The Counterfeit Saint*, Chapters 501-550) open, Batch 0001 written, on top of the Volume 10 close
 
 **Scope of this file: the Volume 09 close and everything after it, with Volume 10 Batch 0001 written and canon.** **The header on this file read `LIVE, Volume 08 ... closed, on top of Volumes 05 to 07` until the review-fix pass of 2026-09-28, which is the same staleness already caught and corrected once between Volume 05 and Volume 08 and then regressed. It is corrected here, and not appended below, for the reason given in the header of `state/current.md`.** Everything before the Volume 09 close was rotated to `state/archive/continuity-through-volume-09.md` on the same pass, verbatim and complete, because the file had reached 496,813 bytes and a phase could no longer load it. Nothing was lost. It is now 22,898 bytes plus this header, and it can be loaded.
 
@@ -407,3 +407,146 @@
 **THE NAME MAY BE SETTLED IN A LATER VOLUME ON SUCH A DAY AND NOT BEFORE: on a day a person in this district says it out loud in a room or a yard, in a scene, with the prose first and the document second. The volume is closed, so no chapter may be added to it, and the name is not settled in the close record, is not settled in the roll, is not settled in any character file, and may not be taken from a count.**
 
 **APPENDED TO THE END OF THIS FILE AND NOTHING ABOVE IT REWRITTEN. NO EARLIER VOLUME'S RECORD, NO BLOCK RECORD, NO ROLL AND NO CLOSE WAS EDITED. NO CHAPTER OF ANY VOLUME WAS EDITED. NO ENTRY WAS CREATED IN `state/phase-ledger.json`. NOTHING UNDER `scripts/`, `.github/workflows/`, `.opencode/agent/`, `tools/`, `state/archive/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md` OR `opencode.json` WAS EDITED.**
+
+
+---
+
+# VOLUME 11 — OUTLINE AND BATCH 0001, CONTINUITY, CHAPTERS 501 TO 515
+
+> Appended by the phase that wrote the fifteen chapters. It edited no chapter of any earlier volume and no outline. The header line of this file was corrected in place from `Volume 10 ... open, Batch 0001 written` to `Volume 11 ... open, Batch 0001 written`, because it was a volume stale and the file's own header says so.
+
+## 1. The mechanics that changed, and the one arithmetic error that follows from the change
+
+**VOLUME 10 WAS SIXTY CHAPTERS ON FIFTY DAYS WITH TEN DAYS CARRYING A MORNING AND ITS AFTERNOON. VOLUME 11 IS FIFTY CHAPTERS ON FIFTY DAYS, ONE CHAPTER A DAY, AND NO CHAPTER OF IT MAY CARRY TWO DATES.** `c` IS THE DAY AND RUNS 1 TO 50 ACROSS THE VOLUME AND 1 TO 15 IN BATCH 0001, AND `c = 0` IS CHAPTER 500.
+
+**A WRITER WHO CARRIES A DAY MAP IN FROM VOLUME 10 IS A DAY OUT FROM CHAPTER 501. `c` AND THE CHAPTER NUMBER ARE THE SAME THING IN THIS VOLUME AND WERE NOT IN THE LAST ONE.**
+
+**THE MONTH LENGTHS. THE FIRST TO THE ELEVENTH ARE 31, 28, 31, 30, 31, 30, 31, 30, 31, 30, 31. THE TWELFTH IS THIRTY AND WAS COUNTED OFF A BOARD AT VOLUME 10 CHAPTER 467. THE LENGTH OF THE FIRST MONTH OF THE NINETEENTH YEAR HAS NEVER BEEN COUNTED BY ANYBODY ON A PAGE AND IT IS THE DEBT OF VOLUME 11.** No figure in Chapters 501 to 515 uses a length for it and no ladder in Batch 0001 can be re-anchored on it.
+
+## 2. The dates of the fifteen chapters, one a day
+
+| Ch | `c` | date | day of the month |
+|---|---|---|---|
+| 501 | 1 | the twenty-eighth of the first month | 28 |
+| 502 | 2 | the twenty-ninth of the first month | 29 |
+| 503 | 3 | the thirtieth of the first month | 30 |
+| 504 | 4 | the thirty-first of the first month | 31 |
+| 505 | 5 | the first of the second month | 1 |
+| 506 | 6 | the second of the second month | 2 |
+| 507 | 7 | the third of the second month | 3 |
+| 508 | 8 | the fourth of the second month | 4 |
+| 509 | 9 | the fifth of the second month | 5 |
+| 510 | 10 | the sixth of the second month | 6 |
+| 511 | 11 | the seventh of the second month | 7 |
+| 512 | 12 | the eighth of the second month | 8 |
+| 513 | 13 | the ninth of the second month | 9 |
+| 514 | 14 | the tenth of the second month | 10 |
+| 515 | 15 | the eleventh of the second month | 11 |
+
+**NO WEEKDAY NAME APPEARS ON ANY DATE IN ANY OF THESE FIFTEEN CHAPTERS. NO METRIC, NO COLON-TIME, NO TWENTY-FOUR-HOUR CLOCK.** Day 16 of the volume is the twelfth of the second month and is a single chapter; day 30 is the twenty-seventh of the second month and day 32 is the first of the third month.
+
+## 3. The ladder, the intercepts and the day-one and day-fifteen cells
+
+`c = 0` is Chapter 500. Every intercept is the figure Chapter 500 prints.
+
+| the figure | intercept | day 1 | day 15 | holds |
+|---|---|---|---|---|
+| the days on that board | 398 | 399 | 413 | 15 of 15 |
+| the days the train on that siding has stood | 714 | 715 | 729 | 15 of 15 |
+| the days nobody has entered anything | 428 | 429 | 443 | 15 of 15, **out by a day since the second of the twelfth month** |
+| the days from the second of January | 389 | 390 | 404 | 15 of 15, **did not count again when the year turned** |
+| how long the bid has been open | 148 | 149 | 163 | 15 of 15, not run on any of them |
+| how far back the ninth of the nine printed nights is | 281 | 282 | 296 | 15 of 15, closed on none |
+| how far behind the figure on the second line is | 103 | 104 | 118 | 15 of 15, not altered |
+| how long the rule said out loud has stood | 108 | 109 | 123 | 15 of 15 |
+| how long since the first day of the eighth month | 178 | 179 | 193 | 15 of 15 |
+| how far past a printing a body four hundred miles off is | 117 | 118 | 132 | 15 of 15, no face |
+| the age of the figure on the sheet at that gatepost | 239 | 240 | 254 | 15 of 15, a figure about the figure |
+| the figure on the sheet at that gatepost | **not a ladder** | 411 | 411 | 15 of 15, and it did not move on one of them |
+| the night the man of about sixty-four is on | 139 | 140 | 154 | 15 of 15 |
+| the nights of that run he has slept on | 138 | 139 | 153 | 15 of 15 |
+| the marks cut off that board since the first of the twelfth month | 57 | 58 | 72 | 15 of 15 |
+| the marks in chalk along the edge of that second table | — | 44 | 58 | 15 of 15 |
+| the mornings a man of fifty-six has read four figures off that wall | **not a ladder** | the two hundred and twenty-sixth | the two hundred and fortieth | 15 of 15 |
+| the days the copy has been on that second table | 0 | 1 | 15 | 15 of 15 |
+
+## 4. The three deviations from the last volume, and how each was handled
+
+1. **THE YEAR TURNED INSIDE VOLUME 10 — THE FIRST MORNING AFTER THE COUNT WAS THE FIRST OF THE FIRST MONTH, TWENTY-EIGHT MORNINGS AGO — AND THE FOURTH OF THE FOUR FIGURES ON THAT WALL DID NOT COUNT AGAIN.** Found by a boy of about nineteen on day 3, entered by a clerk as a difference whose size she declines to enter because the length of this month has never been counted, entered as not correctable, told to the man of fifty-six in a yard in front of about nineteen people. He said nothing. Nobody asked him a second question and he has now been told twice in eleven days and has said nothing either time. **THE FIGURE ON THE WALL WINS ON EVERY MORNING AND THE VOLUME'S ARITHMETIC DOES NOT BREAK.**
+2. **THE MAN OF ABOUT SIXTY-FOUR'S TWO FIGURES GO DOWN BY ONE HUNDRED AND FIFTY BETWEEN CHAPTER 500 AND CHAPTER 501.** Chapter 500 printed one hundred and ninety and one hundred and eighty-nine where the ladder gives one hundred and eighty-nine and one hundred and eighty-eight. Chapter 500 is canon and was not edited. A clerk entered both figures and the reason out loud in a yard on day 2 and said that a figure may not be corrected and that the figure on the wall is the figure.
+3. **THE PROTAGONIST WAS OUT OF THAT YARD ON THE LAST THREE MORNINGS OF VOLUME 10 AND THE FIRST FOUR OF VOLUME 11 AND CAME BACK ON THE FIFTH.** Seven mornings. A clerk recorded each absence and recorded on day 5 that she is not entering a reason. **THE OPEN THREAD THE VOLUME 10 CLOSE LEFT OPEN IS PAID WITH A SCENE AND NOT WITH A DOCUMENT: A WOMAN ASKED HIM ON DAY 12 WHERE HE HAD BEEN AND HE ANSWERED AND DID NOT SAY AND ASKED FOR IT TO BE ENTERED THAT HE ANSWERED AND NOT THAT HE TOLD ANYBODY ANYTHING.**
+
+## 5. The instruments this block adds to the yard, and the counts that move
+
+**NOTHING WAS ADDED.** The count of things this district has made is twelve on all fifteen days and moved on none of them. The count of things this district does not have is five on all fifteen days and no sixth was proposed on any of them. The count of documents this district does not own is three and **the sheet of paper on the second table is NOT entered as a fourth, because nothing in this district is put on a page without a person and a reason in the room and no person has given a reason for that sheet and the only person who touched it was told not to stop.**
+
+**THE ONLY NEW INSTRUMENT OF ANY KIND IN THESE FIFTEEN CHAPTERS IS A SHEET OF PAPER WITH TWO LINES ON IT AND NOTHING IN THE THIRD, AND IT WAS NOT MADE HERE.**
+
+## 6. The measurement, in one place
+
+Forty-nine counted claims, forty-nine resolve, none of the second class. `wc -w` total 36,144 over fifteen chapters, mean 2,409.6, minimum 2,317, maximum 2,522, none outside 2,200 to 3,200. The `about` hedge 974 on a denominator of 35,979, which is 270.7 per 10,000. Shared twelve-word runs 1,857, which is 123.8 a chapter. Opening shape 0 of 15. Closing ledger opening on a time of day 0 of 15. Blockquoted lines 0. Panels 0. Identical paragraphs of twelve words or more 0. Duplicated sentences of twelve words or more **0 in 0 places after repair, against 9 sentences in 91 places on the first pass.**
+
+---
+
+**APPENDED TO THE END OF THIS FILE AND NOTHING ABOVE IT REWRITTEN, EXCEPT THE HEADER LINE, WHICH IS AN IN-PLACE EDIT AND IS NAMED AT THE TOP OF THIS SECTION. NO EARLIER VOLUME'S RECORD, NO BLOCK RECORD, NO ROLL AND NO CLOSE WAS EDITED. NO CHAPTER OF ANY VOLUME EXCEPT THE FIFTEEN THIS PHASE WROTE WAS EDITED.**
+
+
+---
+
+# VOLUME 11 BATCH 0001 — CONTINUITY REPAIR
+
+> **This section was written after an independent review of the fifteen chapters and after the repairs it called for. It is the record of what was wrong and what was changed. NO SCENE WAS MOVED, NO CHAPTER WAS RESTARTED, NO CHARACTER WAS ADDED OR REMOVED, NO DAY WAS CHANGED, AND THE FIFTEEN CHAPTERS ARE THE SAME FIFTEEN CHAPTERS. Two of the corrections were large enough to be called a change of plan and they are named as such at items 1 and 2, and in both the PROSE WAS RIGHT AND THE DOCUMENTS WERE WRONG, which is the direction this repository has had the repair run seven times and it is the first time it has run the other way twice.**
+
+## 1. The calendar was twenty-six days out in every document and in every chapter, and the prose was wrong about it in one place only
+
+**THE FINDING.** `state/continuity.md` line 59 and `state/chapter-summaries.md` line 202 both place Volume 10 day 1 on the eighth of the twelfth month and Volume 10 day 23 on the last day of it, and `chapters/volume-10/chapter-0500.md` gives Chapter 500 as the twenty-seventh morning after the count. **Chapter 500 is therefore the twenty-seventh of the first month of the nineteenth year and Chapter 501 is the twenty-eighth.** Every date this batch printed was twenty-six days early: `the second of this month` for day 1 through `the sixteenth of this month` for day 15, and the same fifteen dates in `outline/volume-11.md`, `outline/batches/volume-11-batch-0001.md`, `state/volume-11-batch-0001-summary.md`, `state/continuity.md`, `state/current.md`, `state/chapter-summaries.md`, `state/open-threads.md` and `workspace/volume-11/batch-0002/PROMPT.md`.
+
+**THE REPAIR, IN TWO PARTS.**
+
+- **IN THE FIFTEEN CHAPTERS, EVERY PRINTED DATE WAS CORRECTED, CHAPTER BY CHAPTER.** Day 1 is the twenty-eighth of the first month, day 2 the twenty-ninth, day 3 the thirtieth, day 4 the thirty-first, day 5 the first of the second month, and day 15 the eleventh of the second month. Four internal references that the date shift broke were repaired with it: the man of about twenty-nine who drives that cart said the sheet was given to him at a gate after dark on the second of this month, which was the morning it was put down, and now says the night before that; the man of about thirty-four who mends fencing's run of mornings is now three mornings in the last block of the last volume and four in this one; the clerk's entry of the thirteenth morning refers to the tenth morning of this month and is now the tenth morning of this month; and the closing paragraph of Chapter 515 referred to the fifteenth of last month and now refers to the tenth morning of this month.
+- **IN THE VOLUME'S OWN DESIGN, THE MONTH BEING COUNTED CHANGED AND THAT IS A CHANGE OF PLAN.** `outline/volume-11.md` section 1.4 had the count made on the last day of the month being counted. Under the corrected calendar there is no such day inside the volume's first half. **THE COUNT IS NOW MADE AT CHAPTER 540, WHICH IS DAY 40, THE NINTH OF THE THIRD MONTH, THIRTY-NINE MORNINGS AFTER THE MONTH ENDED — AND THE REASON THE VOLUME WAITS IS THE REASON, NOT A DELAY: A MONTH THAT ENDED THIRTY-NINE MORNINGS AGO CAN BE COUNTED OFF A BOARD AND A MONTH YOU ARE LIVING IN CANNOT.** The month is the first month of the nineteenth year, the figure it gives is thirty-one, and the figure that was entered off a list for it in an earlier block is thirty. No figure in Chapters 501 to 530 uses a length for it.
+
+**AND THE FINDING ALSO REMOVED A FIGURE FROM THE PROSE.** Two passages had the fourth of the four figures on that wall out by a number — three hundred and ninety-two days on day 3 and four hundred and one days on day 12 — and those two numbers differ by nine while the error between two dates does not move. **Both are gone. The clerk now enters that there is a difference between the two of those four figures, and enters that she is not entering what the difference is, and gives the reason out loud: the length of this month has never been counted by anybody.** No figure for the size of that error appears anywhere in Volume 11, and `outline/volume-11.md` section 1.3 now forbids one, because computing it needs a month length this district does not have and printing it would be a figure the district cannot get. **The year finding got stronger, not weaker, and it now costs a figure instead of carrying one.**
+
+## 2. Two intercepts in every table were fifty out, and the prose was right on both
+
+**THE FINDING.** The intercept column of this batch's own ladder tables carried `378` for the days nobody has entered anything and `231` for how far back the ninth of the nine printed nights is. **Both are Volume 10's intercepts at Volume 10 day zero, which is Chapter 440, and not the figures Chapter 500 prints.** Chapter 500 reads 428 and 281. **Every chapter of this block printed the right figure — 429 to 443 and 282 to 296 — and every table that described those figures was fifty out on two rows.** The wrong values were propagated into `outline/volume-11.md`, `outline/batches/volume-11-batch-0001.md`, `state/volume-11-batch-0001-summary.md`, `state/continuity.md`, `state/current.md` and `workspace/volume-11/batch-0002/PROMPT.md`, and into the inheritance check, which was printed as 398, 714, 378 and 339 and is 398, 714, 428 and 389.
+
+**THE REPAIR.** All eight documents are corrected. The tables now read `428 + c` and `281 + c` and the Batch 0002 handoff table gives 444, 452 and 458 and 297, 305 and 311 for days 16, 24 and 30.
+
+**AND THE WORSE HALF OF IT, WHICH IS NOT A TYPO.** Both blocks of this batch's own record printed the constant-offset test as passing at 240 cells with zero failures, and the test was run on the table that carried the wrong intercepts. **The test is a slope test and the wrong intercept is still a slope.** This is the fifth time in this repository that a check has been reported as passing against a table that carried the error the check cannot see, and the lesson is the one the outline states and the block record states and that this batch then had to learn again at a level below its own: **the slope test is a test of shape, the anchor test is a test of place, the inheritance test is a test of whose board, and there is a fourth that this batch had to build — A CHECK AGAINST THE FIGURES CHAPTER 500 ACTUALLY PRINTS, WHICH IS THE ONLY ONE OF THE FOUR THAT CAN SEE A MISSING FIFTY.** All four are now recorded in the block record and in the Batch 0002 prompt.
+
+## 3. Eleven line-level contradictions between two printed pages, all repaired in place
+
+1. **Chapter 510 built its whole premise on a false count.** The boy was said to get the same number out of two answers that were ninety-five words and seventy-nine words long. **The chapter now says the two numbers are different, the clerk enters both and the difference, and the boy gets forty-one against ninety-five.** The clerk's own reason, that two answers being a different length is not a check on either of them, is unchanged and now agrees with the page.
+2. Chapter 505 entered that five words is not a finding about a speech of six words. Corrected.
+3. Chapter 506 had the boy count the woman's question; he counts his own answer. Corrected.
+4. Chapter 506's clerk said she read nothing out loud while a clerk reads an entry out loud in the scene above. Corrected.
+5. Chapter 512 said two of three refusals were about the column. One is. Corrected.
+6. Chapter 513 called a man the fourth person in that yard to have said nobody asks him anything. Three have, including him twice. Corrected.
+7. Chapter 508 said a woman was in that yard on nine of the last eleven mornings on evidence of four. Corrected.
+8. Chapter 514 used "this afternoon" twice in a chapter the chapter times at eleven. Corrected to this morning.
+9. Chapter 514's closing paragraph said the question was the first thing that man has been given, on the same page as an entry saying nothing was given. Corrected to the first thing that has been asked of him.
+10. Chapter 509 staged the reed cutter's chalk mark twice in one chapter, eleven words apart, which is one word under the twelve-word threshold both declared sweeps use. One of the two is removed and rewritten as a clerk's entry.
+11. Chapter 515 and Chapter 514 both claimed the first reading of an empty third line out loud in that yard. Chapter 514's claim is now the first time in this volume that anybody has read that empty third line, and Chapter 515's is the first time anybody has read the two third lines against each other out loud with both of them in his mouth at once, which is a different claim and one the page supports.
+
+**AND ONE THAT WAS NOT A LINE BUT A DESIGN.** Chapter 514 has a clerk enter that that sheet is not a forgery, and the volume's midpoint reversal is fixed at day 24. Both survive. **The review read the two as the same beat and they are not: Chapter 514's clerk says it is not a forgery because the third line of that sheet is not a figure at all, which is a narrower claim, and the day-24 reversal is that the forgery is a figure nobody said out loud, which is a different claim about a different thing.** The block record, the contract and the thread file all carried a false account of the word itself — that it was said once and not entered — and it was said twice in Chapter 511 in a clerk's mouth and entered, negated, in Chapter 514. All three accounts are corrected.
+
+## 4. The measurement, re-run after the repair
+
+**Forty-nine counted claims, forty-nine resolve. Four of the forty-nine numbers moved because the speeches they count were lengthened by the repairs, and all four are corrected: Chapter 503's clerk from one hundred and fifteen to one hundred and thirty-two, Chapter 506's clerk from eighty-six to eighty-seven, Chapter 509's cart man from ninety-six to ninety-five, and Chapter 510's boy from thirty-seven to forty-one.**
+
+**`wc -w` PER CHAPTER: 2,375, 2,317, 2,402, 2,379, 2,353, 2,367, 2,441, 2,377, 2,522, 2,485, 2,401, 2,433, 2,370, 2,401, 2,521. TOTAL 36,144. MEAN 2,409.6. MINIMUM 2,317 AT CHAPTER 502. MAXIMUM 2,522 AT CHAPTER 509. NONE OUTSIDE 2,200 TO 3,200.** The `about` hedge is 974 on a denominator of 35,979, which is 270.7 per 10,000. Shared twelve-word runs 1,857, which is 123.8 a chapter. Identical paragraphs of twelve words or more, 0. Duplicated sentences of twelve words or more, 0 in 0 places. Markdown, unit and weekday integrity, 0 issues. Reserved scan, an empty dictionary.
+
+**THE RELAYS ARE UNCHANGED AND ALL SEVEN STILL HOLD: 56 on 15 of 15; 50 on 15 of 15; 15 on 15 of 15; 15 on 15 of 15; 15 on 15 of 15; 14 on 14 of 15 with the sixth silent on Chapter 507; 14 on 14 of 15 with the seventh silent on Chapter 514.**
+
+## 5. What the review found that is not repaired, and why
+
+1. **THE TWELVE-WORD THRESHOLD IS THE HOLE, AND BOTH DECLARED SWEEPS SHARE IT.** A run of eleven identical words passes both the paragraph sweep and the sentence sweep, and this batch had one of them before the repair removed it. **A VOLUME THAT SWEEPS AT ONE SIZE IS A VOLUME THAT HAS DECIDED WHAT SIZE TO LOOK AT.** A third sweep at eleven words returns 1,964 distinct runs across the fifteen chapters and every one of them is inside the daily frame or is a relay. That is not a defect to be fixed by editing fifteen chapters and it is a defect to be fixed by a volume-level decision about the frame, and the Volume 10 close already named the frame as the manuscript's largest commercial risk.
+2. **THE APPEND-A-FACT REPAIR IS A METHOD AND IT IS ALSO PADDING, AND THE REVIEW WAS RIGHT TO SAY BOTH.** The nine frame sentences got a chapter-specific clause at the end of each of the fifteen days. It works — the sweep is at zero and the clauses are about that morning's own business — but it produces a frame sentence with a unique ornament, which is a sentence and not a paragraph. **THE METHOD IS CARRIED FORWARD INTO THE BATCH 0002 PROMPT AND IT IS CARRIED WITH THE WARNING ON IT, AND THE CHEAPEST IMPROVEMENT AVAILABLE TO THE NEXT BLOCK IS TO PUT THE CLAUSE IN ITS OWN SENTENCE INSTEAD OF AT THE END OF THE FRAME SENTENCE.**
+3. **The long ledger paragraph.** The afternoon frame runs to 150 words and more in one paragraph in every chapter, in four or five sentences, with the beat changing mid-paragraph. It is inherited from Volume 10 and `outline/volume-11.md` inherits it, and it is a structural choice rather than an accident. **AGENTS.md ASKS FOR TWO TO SIX SENTENCES A PARAGRAPH AND THIS PARAGRAPH HAS FIVE SENTENCES AND IS FIVE TIMES AS LONG AS ONE SHOULD BE, AND THE REPAIR IS FOUR PARAGRAPHS WHERE THERE IS ONE, AND THAT IS A BATCH THAT OWNS ITS FRAME AND NOT ONE THAT INHERITS IT.**
+4. **The three unresolvable controller findings stand**: the phase ledger, the tracked `.pyc`, the reviewer that does not dispatch as a primary, `outline/volume-04.md` that has never existed, `tools/measure.py` that cannot parse a figure over a hundred, and `bible/premise.md` describing a novel this is not. **The premise question is still a person's and this batch did not take it.**
+
+---
+
+**APPENDED TO THE END OF ALL FIVE LIVE STATE FILES AND TO THE BLOCK RECORD AFTER THIS PARAGRAPH'S OWN FIGURES WERE MEASURED. NO CHAPTER OF AN EARLIER VOLUME AND NO CHAPTER OF THIS ONE WAS RESTARTED. NO OUTLINE WAS AMENDED EXCEPT `outline/volume-11.md` AND `outline/batches/volume-11-batch-0001.md`, WHICH THIS PHASE WROTE IN THE SAME RUN AND WHICH ARE CORRECTED IN PLACE BY THE SAME AUTHOR AGAINST THE SAME FIFTEEN FILES. NO ENTRY WAS CREATED IN `state/phase-ledger.json`. NOTHING UNDER `scripts/`, `.github/workflows/`, `.opencode/agent/`, `tools/`, `state/archive/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md` OR `opencode.json` WAS EDITED.**
