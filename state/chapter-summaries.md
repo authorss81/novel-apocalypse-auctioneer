@@ -1,5 +1,7 @@
 # Chapter Summaries — LIVE, Volume 11 (*The Counterfeit Saint*, Chapters 501-550) open, Batches 0001 and 0002 written, on top of the Volume 10 close
 
+> **READ-FIRST, ADDED 2026-09-28. THIS FILE IS 162 KB. THIS FILE IS AN INDEX, NOT A BRIEF: FOR THE NEXT BLOCK, READ `workspace/volume-11/batch-0004/PROMPT.md`, WHICH CARRIES THE DAY MAP, THE LADDER AND THE TWENTY-ONE THINGS, AND COME HERE FOR CHAPTERS 531 TO 540 AND FOR NOTHING ELSE UNLESS YOU ARE LOOKING SOMETHING UP. THE SECTIONS IN THE MIDDLE ARE THE HISTORICAL ACCUMULATION OF ELEVEN VOLUMES.**
+
 **Scope of this file: the Volume 09 close chapter index, the Volume 10 chapter index as planned, and the summaries of Chapters 441 to 455.** **The header on this file read `LIVE, Volume 05 (*The Nine Locks*, Chapters 201-250)`, which was five volumes stale, and the same file's four companions read `Volume 08`, which was two volumes stale. All five were corrected on the review-fix pass of 2026-09-28.** Everything before the Volume 09 close was rotated to `state/archive/chapter-summaries-through-volume-09.md` on the same pass, verbatim and complete, because the file had reached 784,588 bytes and was the largest file in the repository. Nothing was lost. It is now 34,401 bytes plus this header, and it can be loaded.
 
 **The sections below are in chronological order, oldest first.**
