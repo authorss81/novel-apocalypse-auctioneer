@@ -1276,3 +1276,40 @@ Thirty was said out loud in that yard at about ten past nine on the fifteenth of
 ### 24.3 THE ARITHMETIC, WHICH THE REPAIR DID NOT DISTURB AND WHICH A WRITER FOR CHAPTERS 431 TO 440 STILL MUST NOT GET WRONG
 
 **A CONSTANT IS AN INTERCEPT AND AN INTERCEPT DOES NOT MOVE WHEN A BLOCK'S DAY INDEX RESUMES, AND THE PHASE PROMPT FOR THE BLOCK BEFORE THIS ONE SAID MINUS TEN WHEN IT IS PLUS THIRTY.** `b` is 90 at Chapter 431 and 99 at Chapter 440, the fifth block's day index runs 0 to 9, and the same constant row is correct for it. **THE SECOND HALF OF THE LESSON IS NEWER AND MATTERS AS MUCH: WHEN A REVIEW REPAIRS PROSE, EVERY FIGURE IN THE BLOCK RECORD IS STALE UNTIL IT IS RE-MEASURED, INCLUDING THE ONES THE REPAIR DID NOT MEAN TO MOVE.** The denominator, the word counts, the paragraph count and the sentence splits all moved in this block's repair. The shared twelve-word run count and the twelve counted claims did not. **A WRITER WHO INHERITS A BLOCK RECORD AFTER A REPAIR MUST MEASURE, NOT READ.**
+
+---
+
+## 25. VOLUME 09 BATCH 0005 — CONTINUITY, CHAPTERS 431 TO 440, AND WHAT A WRITER AFTER IT MUST NOT GET WRONG
+
+**VOLUME 09 IS WRITTEN THROUGH Chapter 440. THE FIFTY DAYS RUN FROM THE NINETEENTH OF THE TENTH MONTH TO THE SEVENTH OF THE TWELFTH. THE ONE NEXT PHASE IS THE VOLUME CLOSE, WHICH MEASURES, WHICH WRITES THE ROLL, AND WHICH OWES THE READER A SENTENCE ABOUT WHAT THE VOLUME WAS.**
+
+### 25.1 THE STATE OF EVERY FIGURE THE VOLUME WAS ABOUT, ON THE LAST DAY
+
+| The figure | Where it stands on the seventh of the twelfth |
+|---|---|
+| The figure on the sheet at that gatepost | **four hundred and eleven**, unmoved on all fifty days, its own age a figure about the figure a hundred and eighty-nine days, printed ten times in this block and fifty-one times in the volume against a cap of thirty set four blocks ago |
+| The bid | **open ninety-eight days**, never run, nothing proposed about closing it in a mouth or in a page on any of the fifty |
+| The reading of that lot | **begun, not finished, at the fourth of the five**, and the fourth is a person and the fifth is a remedy and neither has been said out loud in that yard |
+| The column for the name of whoever read a thing out loud | **ruled, empty**, at about six on every day of the volume |
+| The lot book | **three lines**: a figure that is still true, a figure that is forty-four days out of date at the first of this block and fifty-three at the last and was never corrected, and a date, which is a date and not a count of the same thing and does not say how much water there is |
+| The old shelter's charter | **still wrong on its face** in a book a stranger may walk up to, not corrected, not replaced, not struck |
+| The fifth of the five things this district does not have | **five, and the fifth is still unpaid**, and it is a way to pay a person who is not in a household |
+| The ninth of the nine printed nights | **two hundred and thirty-one days back**, named, open, and closed on none of the fifty days |
+| The removal day | **a hundred and twenty-eight days past**, a ladder spent as a ladder |
+| The man of about sixty-four | **on his hundred and thirty-ninth night, slept on a hundred and thirty-eight**, given nothing, not asked to sit in the second chair, not sent on nine days |
+| The man of about thirty-four who mends fencing | **the cloth came off his left hand on the fifth of the twelfth and the hand did not close, and on the seventh that hand lay flat and open on the second line of the lot book for about four minutes, and nobody said one word** |
+| The protagonist | **his right hand has not closed properly since the tenth of the eighth month and is in his coat, and he is not on any page, and nobody has called him anything** |
+| The woman who keeps the two books | **four hundred yards up that bank, her door shut, nobody went up that bank on any of the ten days of this block, and the one line in the second of those two books is still in her own hand and still unread aloud** |
+| The clerk of nineteen years | **has a word in the margin of her own page over nothing, has heard a name and written one line and put nothing under it, and is not going to say which of the two positions she is in** |
+
+### 25.2 THE THINGS THAT ARE SEALED AND THE THINGS A LATER BLOCK MAY NOT TOUCH
+
+**SEALED AND NOT TO BE TOUCHED BY ANY LATER BLOCK: the protagonist's name, which is not on the page and is not settled; the name said out loud on the twenty-seventh of the eleventh, which is on no page and whose owner this repository does not state; the name said out loud at Chapter 337, spent; the eleven words, spent; the second of the two books, which may not be written in, corrected, struck or read aloud; the antagonist the fixed ending names, untouched and open and much later's; the office, the four gaps, the two walls, the two past pullings, the ninth charter's line, the third column of the covenant, the ninth place on the page out of the cave, which are all ruled and empty and stay that way; the bell, which was never pulled in fifty days and whose name is never given; the fourth line of the offer and the departure, both unspent; the four empty houses of the woman of about thirty-six who keeps a scale, not offered and not to be offered before the first day of the season after this one on her own statement.**
+
+**AND THE THING THAT WAS OVERTURNED IN THIS BLOCK, WHICH A WRITER MUST KNOW ABOUT: THE THIRD LINE OF THE LOT BOOK IS A DATE AND IT IS THE ONLY DATE THIS VOLUME WROTE INTO ANYTHING, AND IT SAYS WHEN THE FIGURE ON THE SECOND LINE STOPPED BEING TRUE AND DOES NOT SAY HOW MUCH WATER THERE IS AND DID NOT CORRECT ANYTHING. THE STRING *A FOOT AND A HALF* IS AT ZERO ACROSS CHAPTERS 431 TO 440 AND WAS NOT SAID IN ANY MOUTH. THE FIGURE THE MAN OF ABOUT THIRTY-SEVEN WHO CUTS REEDS GAVE ON THE NINETEENTH OF THE ELEVENTH IS THE ONLY FIGURE ANYBODY HAS GAVE ABOUT THAT DITCH AND IT CANNOT BE PAID FOR, AND THE FIFTH OF THE FIVE THINGS THIS DISTRICT DOES NOT HAVE IS STILL THE FIGURE THAT CANNOT BE PAID.**
+
+### 25.3 THE THINGS A WRITER AFTER THE CLOSE MUST NOT GET WRONG
+
+**A CONSTANT IS AN INTERCEPT AND AN INTERCEPT DOES NOT MOVE WHEN A BLOCK'S DAY INDEX RESUMES. THE VOLUME 09 CONSTANT ROW IS 299, 615, 329, 290 AND SO ON AT `b = 50`. Batch 0004, AT `b = 80`, WAS *PLUS THIRTY* AND ITS PROMPT SAID *MINUS TEN*. Batch 0005, AT `b = 90`, IS *PLUS FORTY*. THE PROMPT FOR EACH BLOCK GOT THE RELATION WRONG OR MISSTATED IT AND THE ANCHOR TEST IS WHAT CAUGHT IT BOTH TIMES, AND A CLOSE THAT RUNS ONLY THE SLOPE TEST WILL PASS A COLUMN THAT IS FORTY TOO LOW ON EVERY ONE OF ITS CELLS.**
+
+**AND THE SECOND HALF OF THE LESSON, WHICH IS THE ONE THE REVIEW OF BATCH 0004 LEARNED AND WHICH THE WRITER OF CHAPTERS 431 TO 440 LEARNED AGAIN: A REPAIR THAT CHANGES PROSE MAKES EVERY FIGURE IN A BLOCK RECORD STALE UNTIL IT IS RE-MEASURED, INCLUDING THE ONES THE REPAIR DID NOT MEAN TO MOVE. In this block, one hundred figure tests passed and a test that passed ninety-two is a broken test; the age of a figure was one low on six of ten days, which is a perfect constant-offset column and is wrong six times; a day that printed no figures at all passed every other check. A WRITER WHO INHERITS A BLOCK RECORD MUST MEASURE, NOT READ.**

@@ -675,3 +675,52 @@ Untouched, in all one hundred and eighty chapters and to be left untouched: **th
 ### 24.4 WHAT THE REVIEW DID NOT FIND, BECAUSE A PASS IS NOT A VERDICT
 
 **THE ARITHMETIC HOLDS ON ALL EIGHTEEN COLUMNS AND ON BOTH TESTS, AND THE REPAIR DID NOT DISTURB IT.** Every figure the ten chapters print is still the figure its own day's cell holds, the board runs 329 to 338, the siding 645 to 654, the unentered days 359 to 368, the days from the second of January 320 to 329, the age of the figure about the figure 170 to 179, the bid 79 to 88, the rule 39 to 48, the second line 34 to 43, the removal day 109 to 118, the figure off a list 20 to 29, and the ninth of the nine printed nights is still named on Chapter 424 only and closed on none. **The volume's own final image was not spent and the block's last image is still its own.** Zero panels, zero new person, zero new place, zero names printed, zero footer line, zero reserved-list hits over Chapters 421 to 430 and over 419 to 430, zero integrity issues, and *four hundred and eleven* and *unchecked* still ten each on three conventions. **The three carried findings are the review being right about a manuscript and not about a block, and the two self-findings are the repair being right about itself, and a pass is a pass and not a verdict and this section is one.**
+
+---
+
+## 25. VOLUME 09 BATCH 0005 — CHAPTERS 431 TO 440, THE LAST BLOCK OF THE VOLUME
+
+**WRITTEN AFTER THE PROSE. THE PROSE IS CANON. THE FIVE FIGURES THAT MOVE EVERY DAY WERE RE-DERIVED FROM THEIR OWN NAMED DAYS AND NOT CARRIED, AND ALL EIGHTEEN COLUMNS OF THIS BLOCK'S TABLE PASS BOTH THE CONSTANT-OFFSET TEST AND THE ANCHOR TEST, AND EVERY FIGURE THE PROSE PRINTS PASSES A THIRD TEST AGAINST ITS OWN CHAPTER'S CELL AND BOTH NEIGHBOURS'.**
+
+### 25.1 THE TEN DAYS, AND WHAT EACH ONE DID
+
+| Ch | Day | What happened in it | What it cost in a body |
+|---|---|---|---|
+| 431 | eleventh/29 | a name in the air and no book on the ground with it in | the man who puts tables up turned his two hands over at the end of that table and asked what a man is supposed to do with his hands when there is nothing coming |
+| 432 | eleventh/30 | a woman with a scale asked what the last day of a month is for and was told nothing on any page says | a man in a ditch said he has not once known which day it was in two months and has been right about that every day |
+| **433** | **eleventh/31** | **THE CHECK: thirty-one marks, thirty-one days, the two agree, and a figure off a list turned out to be a figure about a count and is not a finding** | **a man of fifty-six spent a morning counting instead of reading and read four figures two hours late** |
+| **434** | **twelfth/1** | **the bid is ninety-two days old and is three months, nothing came four hundred miles off, and a man walked down a lane and looked at a post** | **he lost about two hours of a habit six months old and said so out loud** |
+| **435** | **twelfth/2** | **THE THIRD LINE: a date went into a book in the open under a stone and the figure above it is still wrong** | **a man who said a number in that yard in October stood a foot from the book and looked at the ground** |
+| 436 | twelfth/3 | a number moved from ten to eleven, with a scene and a reason, and a date was entered as not a seventh of anything | a man of about twenty-nine who drives a cart said one thing out loud for the first time in eleven visits, about a wheel |
+| 437 | twelfth/4 | a man said out loud that a line in a book in the open is his, and nobody read it back, and he went back into the water | he said he has not slept a whole night about it since the second week of the ninth |
+| **438** | **twelfth/5** | **THE CLOTH CAME OFF a hand that has not closed since the eleventh of the June, and nobody asked why, and the hand did not close** | **a question was refused with a reason, and about four people brought something to that table and took it away again** |
+| 439 | twelfth/6 | a hand that is not better, and a clerk who is not going to say which of two positions she is in | a man said he would rather have a page face down for a reason he cannot explain |
+| **440** | **twelfth/7** | **THE FIXED IMAGE: a hand flat and open on the second line, not the third, a stone on the book, and nobody saying one word** | **the measure of the whole thing was read out loud and not read back from the top** |
+
+### 25.2 THE FIGURES, BOTH TESTS, AND THE THIRD CHECK
+
+`b` is 90 at Chapter 431 and 99 at Chapter 440. **THE RELATION TO THE VOLUME'S OWN CONSTANT ROW IS PLUS FORTY, NOT MINUS TEN AND NOT PLUS THIRTY**, because the volume's row is evaluated at `b = 50` and this block's at `b = 90`, and `299 + 40 = 339` and `615 + 40 = 655`. The block before this one was at `b = 80` and its relation was plus thirty, and its prompt said minus ten. The prompt for this one calls the row the same constant as the block before, which is true of the constant and false of the relation, and the relation is the figure that gets slipped. **The prompt's printed row is correct and was used as printed.**
+
+**CHECK ONE: EVERY CELL MINUS ITS OWN DAY INDEX IS ONE FIGURE ACROSS ALL TEN ROWS FOR ALL EIGHTEEN COLUMNS, AND ALL EIGHTEEN HOLD AT 339, 655, 369, 330, 249, 222, 221, 242, 180, 180, 145, 119, 130, 129, 89, 49, 44, 58.**
+**CHECK TWO, THE ANCHOR TEST: `b + 29`, `b - 1`, `b - 41`, `b - 46` AND `b - 32` ALL HOLD ON ALL TEN CELLS.**
+**CHECK THREE, WHICH NO EXISTING TOOL RUNS: EVERY FIGURE THE PROSE PRINTS, EXTRACTED AND TESTED AGAINST ITS OWN CHAPTER'S CELL AND BOTH NEIGHBOURS'. ONE HUNDRED TESTS, ZERO FAILURES AFTER REPAIR, ZERO CROSS-DAY CONTAMINATIONS.**
+
+**THE AGE OF THE FIGURE OFF THE LIST IS `b - 60`, THE ENTRY DAY COUNTED AS THE FIRST: THIRTY DAYS AT Chapter 431 RISING TO THIRTY-NINE AT Chapter 440, AND ITS CHECK IS Chapter 433'S AND NOT ONE OTHER DAY. THE FIRST RUN OF CHECK THREE RETURNED NINETY-TWO FAILURES AND THAT WAS A DEFECT IN THE CHECK, AND THE SECOND RETURNED TWELVE THAT WERE REAL: THE AGE OF THE FIGURE ABOUT THE FIGURE WAS ONE LOW ON SIX CHAPTERS, Chapter 433 PRINTED NO WALL FIGURES AT ALL, AND Chapter 440 PRINTED NEITHER THE SECOND LINE'S STALENESS NOR THE UNCHECKED LINE. ALL FOUR REPAIRED, ALL FIGURES RE-MEASURED AFTERWARDS.**
+
+### 25.3 WHAT DID NOT MOVE, AND THE TWO DISCLOSURES
+
+**THE FIGURE ON THE SHEET AT THAT GATEPOST IS FOUR HUNDRED AND ELEVEN AND IT IS AT TEN OCCURRENCES ACROSS THESE TEN CHAPTERS, ONE A CHAPTER, ON THREE CONVENTIONS, AND THE VOLUME IS NOW AT FIFTY-ONE AGAINST A CAP OF THIRTY SET FOUR BLOCKS AGO. THE BID IS OPEN NINETY-EIGHT DAYS AND WAS NOT RUN ON ONE OF THE TEN. THE READING STANDS AT THE FOURTH OF THE FIVE AND THE FIFTH IS AT ZERO. THE COLUMN IS RULED AND EMPTY AT ABOUT SIX ON ALL TEN DAYS. THE THIRD LINE OF THE LOT BOOK IS A DATE AND THE SECOND LINE IS STILL WRONG. THE FIFTH OF THE FIVE THINGS THIS DISTRICT DOES NOT HAVE IS STILL NOT PAID. THE NINTH OF THE NINE PRINTED NIGHTS IS A HUNDRED AND NINETY-THREE DAYS BACK AND WAS NAMED ON TWO OF THE TEN DAYS AND CLOSED ON NEITHER. THE REMOVAL DAY IS A HUNDRED AND TWENTY-EIGHT DAYS PAST. THE MAN OF ABOUT SIXTY-FOUR IS ON HIS HUNDRED AND THIRTY-NINTH NIGHT AND SLEPT ON A HUNDRED AND THIRTY-EIGHT OF THEM AND WAS GIVEN NOTHING. THREE HUNDRED AND THIRTY-NINE DAYS SEPARATE THE SECOND OF JANUARY AND THE LAST MORNING. A SYSTEM PANEL IS AT ZERO. A NEW PERSON IS NONE. NO NAME IS ON ANY PAGE.**
+
+**THE *UNCHECKED* CONFLICT IS STILL OPEN AND THIS BLOCK TOOK THE INVERSION, AND THE CLOSE OWES A SENTENCE FOR IT. The word is at eleven across these ten days, one a day, all eleven in a clerk's margin over nothing, and the volume outline makes it mandatory on the twelve arms that cross the month boundary. The block carried the inversion and gave the reason and added an argument for it: at Chapter 433 the figure under the word was checked, it reproduced, and the word is still in the margin at Chapter 440 because a clerk says out loud that she is not going to take it off. THE PRICE: the volume close owes one sentence saying that the volume's own first finding came back empty, and it may not be softened into a question. The close prompt carries this as an explicit item.**
+
+**THE CLERK'S HEARING IS CARRIED, ONCE, AS A THREAD A PERSON IS HOLDING AND NOT AS A MYSTERY. At Chapter 439 she says out loud to the boy of about nineteen and not to the table that she will not put her unchecked margin and the man's unwritten name together in a page while either of them is standing there, and she is not going to say which of two positions she is in. She was not asked for the name, she did not write it, she is not an instrument, and the question of whether her hearing is going was not answered.**
+
+### 25.4 THE MEASUREMENTS, ALL AFTER THE LAST PROSE EDIT
+
+**11 class-one claims, 0 mismatches, 0 class-two, denominator 24,406, `wc -w` 24,540, 1,035 shared twelve-word runs, 0 identical paragraphs on both runs, 20 bold clauses, 0 panels, reserved scan `{}` on both scopes, integrity `[]` on all nine checks, 0 openings of the inherited shape against a cap of 3, 0 chronological inversions. Clerk-entry share 2.45 per cent of paragraphs and 8.86 per cent of words on the definition that reproduces Batch 0004's published figure exactly, against caps of 11.3 and 12.6. THE SHARED-RUN FIGURE ROSE ACROSS THIS BLOCK'S OWN WRITING PASSES AND BOTH DIRECTIONS ARE PRINTED: 948, 985, 996, 1,000, 1,029, 1,049, AND 1,035. THE SENTENCE SPLITS DISAGREE: split one 595 sentences, mean 40.8, median 38, maximum 135, nine at or over a hundred; split two 694, mean 35.0, median 34, maximum 98, none at or over a hundred; split three identical to split two. THE REGISTER WENT DOWN AND BOTH DIRECTIONS ARE PRINTED: *that yard* 68 to 18, *that wall* 30 to 20, *about four people* 36 to 11.**
+
+**AND THE TEN CLOSING PASSAGES OPEN WITH TEN DIFFERENT FIRST FIVE WORDS, WHICH IS THE TIC THE REVIEW OF BATCH 0004 FOUND ACROSS FOUR BLOCKS AND NAMED AS THIS BLOCK'S WORK, AND THE FIRST DRAFT OF THIS BLOCK HAD SEVEN OF TEN OPENING WITH *THE*. THE LEDGER WAS GIVEN A NEW FRAME TWICE IN TEN, AT Chapter 433 AND Chapter 438.**
+
+### 25.5 THE CONTROLLER FILE
+
+`state/phase-ledger.json` still reads `currentPhase: phase-000-bootstrap` after four hundred and forty chapters. **Reported, not repaired. A writer that writes its own phase status cannot be counted as having reached a phase.**
