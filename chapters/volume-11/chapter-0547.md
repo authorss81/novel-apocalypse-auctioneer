@@ -22,9 +22,9 @@ The woman of about thirty-six who keeps a scale said one thing out loud at about
 
 A clerk of nineteen years entered that a woman said a thing out loud in that yard and entered the thing, and entered that about four people in that yard said out loud, in about four seconds each, that it was not it, and the record about the not asking says not asked.
 
-The man of about forty-eight who keeps a tally said one thing out loud from the east end of that yard, in about nine seconds, and the boy counted what he said and got thirty-three and read the number back to himself in a low voice.
+The man of about forty-eight who keeps a tally said one thing out loud from the east end of that yard, in about nine seconds, and the boy counted what he said and got thirty-six and read the number back to himself in a low voice.
 
-"**No, because will not say who is a promise about the future and this district does not make those and I have been the man who says so here for about thirty years.**"
+"**No, because a line that will not say who is a promise about the future and this district does not make those and I have been the man who says so here for about thirty years.**"
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and the record about the not asking says not asked.
 

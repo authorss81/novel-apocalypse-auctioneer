@@ -14,9 +14,9 @@ The man of about thirty-four who mends fencing was at the end of that second tab
 
 A clerk of nineteen years entered that a man put his hand flat on the boards of that second table this morning and did not put it on that stone and did not put it on that sheet, and entered that she is not entering that as anything, and the record about the not asking says not asked.
 
-The man of about thirty-four who mends fencing said one thing out loud at about half past ten, in about eleven seconds, to about nineteen people, and the boy counted what he said and got seventy-six and read the number back to himself in a low voice.
+The man of about thirty-four who mends fencing said one thing out loud at about half past ten, in about eleven seconds, to about nineteen people, and the boy counted what he said and got one hundred and ten and read the number back to himself in a low voice.
 
-"**That book has four lines on it and the other one has three and there is a copy lying next to the stone it came off, and about nine people in this yard can now tell you which of the two of those is ours, and about four of them would not have been able to do that nine days ago, and neither of those two facts is going to help anybody with the other one.**"
+"**That book has four lines on it and the other one has three and there is a copy lying next to that stone, and about nine people in this yard can now tell you which of the two of those has a line with nothing on it, and about four of them would not have been able to do that nine days ago, and not one of us can tell you which of the two this district made, and about four of them have said that is the first thing this yard has ever said out loud about a page and it is not a way of telling a stranger.**"
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that he was not asked for it, and the record about the not asking says not asked.
 
