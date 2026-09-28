@@ -6,7 +6,7 @@ It was the thirty-first of the eleventh month, which is the last day of it, and 
 
 A clerk of nineteen years entered at about a quarter to eight, before there was anybody else in that ground, that the figure on the sheet at that gatepost is four hundred and eleven and did not move, and that the age of that figure as a figure about the figure is a hundred and eighty-two days, and that there is no day-count for the sheet itself.
 
-The man of fifty-six did not read the four figures off that wall at about half past nine. He stood on the other side of it with his arms down and watched a woman's finger arrive at a mark every eleven or twelve seconds for an hour and a half, and a few people noticed that he had not read them and nine noticed that he had been there the whole time.
+The man of fifty-six did not read the four figures off that wall at about half past nine. He had been on the other side of it since about ten past eight with his arms down, watching a woman's finger arrive at a mark about every four minutes, and a few people noticed that he had not read them and nine noticed that he had been there the whole time.
 
 ---
 
@@ -28,7 +28,7 @@ The man of fifty-six said one word from the other side of those boards.
 
 "Again."
 
-She put her finger on the top mark and went down all thirty-one again in front of about nineteen people, and he read every mark before her finger arrived at it, and he got all thirty-one of them, and some people said out loud that a man who has read four figures off those boards every morning for six months had just read thirty-one marks off them in about an hour and a quarter and had not read a number once.
+She put her finger on the top mark and went down all thirty-one again in front of about nineteen people, and he read every mark before her finger arrived at it, and he got all thirty-one of them, and some people said out loud that a man who has read four figures off those boards every morning for six months had just read thirty-one marks off them in about two hours and had not read a number once.
 
 ---
 
@@ -46,7 +46,7 @@ Nobody argued with her about it. Two people said afterwards that the sentence ha
 
 At about twelve the man of about thirty-seven who cuts reeds came up that bank with the water coming off his coat and the bundle under his arm and stood at that end of the table for about four seconds, and nine people were within four feet of him and nobody said a word to him. He was not asked for anything and nobody asked him what the water had been that morning and nobody asked him what it was that day, and the record about the not asking says not asked, and he went up the lane.
 
-At about one the man the figure of twenty-one years is against came down that bank and stood nine feet off that table with his right hand in his coat and watched a woman count a month for about eleven minutes without saying anything. A voice at that near end said that a man who watches a check instead of running one is a man who has worked out which of the two he is, and he said that was right, and that he had worked it out on the thirtieth of the tenth month and had not been asked to say so then either.
+At about twenty past twelve the man the figure of twenty-one years is against came down that bank and stood nine feet off that table with his right hand in his coat and watched a woman count a month out for about eleven minutes without saying anything. A voice at that near end said that a man who watches a check instead of running one is a man who has worked out which of the two he is, and he said that was right, and that he had worked it out on the thirtieth of the tenth month and had not been asked to say so then either.
 
 At about half past one the man of about thirty-four who mends fencing asked a question out loud and the clerk of nineteen years answered it, and two people listened and one of them wrote nothing.
 
@@ -88,4 +88,4 @@ At about half past five the man of fifty-six read the four figures off that wall
 
 He said that it was the first time that day and that it was, and that he had spent a morning counting instead and would do it again tomorrow and would not be asked to.
 
-Going down from the top, that board carries this morning, then thirty, then the first of the eleventh. The mark below that one is the first of the tenth month. The mark below that one is not there, because the ninth of the ninth is a mark nobody in this district has ever seen or can put a finger on, and a figure somebody wrote down about a mark that is not there is a figure about a list and not a day-count, and it is going to read thirty-one for as long as there is anybody here to read it.
+Going down from the top, that board carries this morning, then thirty, then the first of the eleventh. The mark below that one is the first of the tenth month. The mark below that one is not there, because the first of the ninth is a mark nobody in this district has ever seen or can put a finger on, and a figure somebody wrote down about a mark that is not there is a figure about a list and not a day-count, and it is going to read thirty-one for as long as there is anybody here to read it.

@@ -56,7 +56,7 @@ At about one the man the figure of twenty-one years is against came down that ba
 
 "I have a hand in this coat and it has not closed properly since the tenth of the eighth month. I have not taken it out in the open in front of anybody since the fifteenth of the eleventh, when I put it flat on those boards for about four minutes and it did not close. The only person who saw that was a boy of about nineteen, and he put nothing on his own page, and he has been asked about it four times this month and he has not written it down." He looked at the ground. "I am not going to do that. I have thought about it for two days and I have worked out that I am not going to, and that is not a figure and it is not a decision anybody has made for me."
 
-The clerk of nineteen years entered that a man said a thing out loud there and entered the thing and entered no figure, and the record about the not asking says not asked. Two people at that tableble said afterwards that two men in a yard had compared a hand and had not made anything of it, and that neither of them had said the word out loud, and that the clerk had written down that a hand is not an instrument and had written nothing else about either of them.
+The clerk of nineteen years entered that a man said a thing out loud there and entered the thing and entered no figure, and the record about the not asking says not asked. Two people at that table said afterwards that two men in a yard had compared a hand and had not made anything of it, and that neither of them had said the word out loud, and that the clerk had written down that a hand is not an instrument and had written nothing else about either of them.
 
 ---
 

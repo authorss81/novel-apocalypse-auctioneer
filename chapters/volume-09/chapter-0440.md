@@ -62,7 +62,7 @@ At about half past five the two empty buckets came down that bank and went back 
 
 Then the man of fifty-six read the four figures off that wall for the last time in that fifty days and got all four of them, and the boy of about nineteen turned his own page over at about ten to six, and a few people at that table looked at the front of it and not one of them said a word about what was on it.
 
-The man of about thirty-four who digs loam was still in that ditch at about half past five and was in it at about half past four the day before that, and nobody has ever written down what time he comes out, and the man of fifty-six read the four figures for the last time and got all four of them.
+The man of about thirty-four who digs loam was still in that ditch at about half past five and was in it at about half past four the day before that, and nobody has ever written down what time he comes out.
 
 A woman of about thirty-six who keeps a scale came down that bank at about ten past five with the last of that day's flour on her hip and read the three lines standing up, and said one thing out loud to the stone.
 

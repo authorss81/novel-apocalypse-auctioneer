@@ -44,7 +44,7 @@ Nobody answered him. The clerk of nineteen years entered that a man asked a ques
 
 Then the boy of about nineteen said one thing out loud to the man of fifty-six and it was about four seconds long and nobody else heard it.
 
-"You said on the eighteenth of this month that nobody was going to check me on anything for a fortnight, and that is today, and you are the only person here I would have minded being checked by." He put his page down. "I am not asking you to. I am telling you that a fortnight is up and that about four other people are going to be disappointed and that you will not be one of them."
+"You said on the seventeenth of this month that nobody was going to check me on anything for a fortnight, and that is today, and you are the only person here I would have minded being checked by." He put his page down. "I am not asking you to. I am telling you that a fortnight is up and that about four other people are going to be disappointed and that you will not be one of them."
 
 The man of fifty-six said that he was sorry about it, in the ordinary voice, and a couple of people at that table said afterwards that a man of fifty-six had said he was sorry about a fortnight that a boy of about nineteen had set for himself and nobody had set for him.
 
