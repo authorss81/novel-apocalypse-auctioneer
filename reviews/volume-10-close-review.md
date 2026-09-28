@@ -2,7 +2,7 @@
 
 **This is the Volume 10 close's self-review. It is a list of defects and not a list of things that came out well. It was written by the same agent that wrote the close, and that fact is the first defect on the list and not a footnote to it.**
 
-**Nothing was restarted. No chapter was written and no chapter was edited. Chapter 500 and Chapter 490 are canon and the two arithmetic deviations in them are reported at full size in `state/volume-10-close.md` section 6 and left standing. Every figure below was measured by re-running the measurement over the sixty chapter files, not by reading the close record's own claims, and every measurement in the close record that could be checked was checked again from the chapters.**
+**Nothing was restarted. No chapter was written and no chapter was edited. Chapter 500, Chapter 490 and Chapter 455 are canon, and the three arithmetic deviations in them are reported at full size in `state/volume-10-close.md` sections 6, 6.1 and 6.2 and left standing. Every figure below was measured by re-running the measurement over the sixty chapter files, not by reading the close record's own claims, and every measurement in the close record that could be checked was checked again from the chapters.**
 
 **THE REVIEWER'S OWN STANDING IS THE FIRST ITEM BECAUSE IT GOVERNS THE READING OF EVERY OTHER ITEM. `reviews/volume-08-close-review.md`, `reviews/volume-09-batch-0005-review.md` and `reviews/volume-10-batch-0001-review.md` through `0004` were all written by the default agent because the `novel-reviewer` subagent fell back. The three previous closes each found real defects in the record they were given, which is the argument and not a reason to trust this one. Read this file as the writer's account of the writer's own work.**
 
@@ -72,15 +72,24 @@ What makes this one worth more than a transcription slip is that **the same sent
 
 **Repaired in the documents this phase owns:** section 6.1 of the close record, and the liability is in both the close and the roll.
 
-## 6. MODERATE — the inherited scope for the marks in chalk was understated, though its formula was correctly reported
+## 6. MODERATE — the scope for the marks in chalk has been printed four times under four patterns, and this item installed a third of them and called it a repair
 
-The inherited block record and the inherited contract both give the formula for the marks in chalk as *fifteen plus `c`*. **That is seven out at every cell and the close record caught it.** What the close record then reported as the scope — twenty-four chapters on twenty-one days — is itself short.
+**This item is the reason the two items after it exist, and it is left in the wrong tense on purpose. As first written it said `Repaired`, and it was not, and the thing it repaired was not broken.**
 
-Re-measured with a wider pattern that takes both surface forms, `there are N marks in chalk` and `there are N of them in a row`: **26 chapters across 22 days, from day 12 (Chapter 453, five marks) to day 50 (Chapter 500, forty-three), with zero cells failing `c` less seven.**
+The inherited block record and the inherited contract both give the formula for the marks in chalk as *fifteen plus `c`*. **That is seven out at every cell under every pattern and the close record caught it.** What is in dispute is the scope, and **the inherited scope of twenty-four chapters on twenty-one days is not short. It is exactly what the pattern `there are N marks in chalk` returns, and this item called it short by two chapters and one day, which was wrong.** The defect this item reports is real but it is a different defect, and it is the defect that matters: this close, its own review, and a later pass have now printed four scopes for one measurement and no two of them were produced by the same pattern.
 
-So the close record got the right formula, named the right two-day gap in its count of chapters and days, and was still two chapters and one day short. **This is the seventh time this repository has had to say that a figure taken from an inherited document is a figure about that document's own fifteen chapters and not about the volume**, and the close record says so itself about `a foot and a half` at section 14 while carrying a wrong scope for the chalk in the same table.
+| the pattern | chapters | days | cells failing `c` less seven | published by |
+|---|---|---|---|---|
+| `there are N marks in chalk` | **24** | **21** | 0 | the inherited block record, and the close's first pass. **Right for its pattern** |
+| the same, plus `there are N of them in a row`, matched case-sensitively | **26** | **22** | 0 | the close's first correction, republished in four documents |
+| the same pair, matched case-insensitively | **27** | **23** | 0 | the later pass that reviewed this item |
+| every numbered form, case-insensitive | **32** | **27** | **1** | the repair, and the pattern the tables are now measured on |
 
-**Repaired** in both documents.
+**The second row is the one that is wrong in a way no reader could have caught from the number.** A case-sensitive match requires a lower-case `there are`, and that drops exactly one chapter, and the chapter is Chapter 453, whose first line of the book reads `There are five marks in chalk along the edge of that second table` with a capital on the front of the sentence — the first printed value of the whole ladder and the cell the arithmetic hangs from. **A case convention deleted the anchor, and the number it produced, twenty-six on twenty-two, is lower and tidier than the number it replaced, which is why it survived four documents.** This close has now been bitten by case sensitivity twice in two tables, and the second bite is the same shape as the first, which is item 3: a count that a reader has to apply a stated convention to by hand, where the convention applied mechanically gives a different number.
+
+**And the fourth row found a chapter, which is the reason this item is MODERATE and not MINOR.** The three narrower patterns miss five chapters — 455, 464, 469, 470 and 476 — and four of the five hold the ladder and one does not. Chapter 455, day 14, prints five where `c` less seven gives seven, and five is the figure Chapter 453 prints on day 12. That is a third arithmetic deviation in the volume and it is now at section 6.2 of the close record. **The volume had two deviations for as long as a case-sensitive pattern was in use, and the pattern was in use because it reported zero cells failing.**
+
+**Repaired now, in the four documents this phase owns, with all four patterns printed beside the scope the tables use, the case convention named, and the failing cell named.** The same repair is in the close record at sections 2 item 5, 5.1 and 6.2, in the roll at section 0.3 and section 1, and in the state appends at `state/current.md` sections 3, 4 and 7.1 and at `state/continuity.md` sections 2, 3 and 4.
 
 ## 7. MODERATE — the close record's own paragraph runs contain two literal `\n` sequences
 
@@ -92,11 +101,13 @@ So the close record got the right formula, named the right two-day gap in its co
 
 `outline/batches/volume-10-batch-0004.md` section 5 forbids using a wall, a lane, a gatepost, a rubbed heading, or a looking in front of one as a device. Measured over the volume:
 
-- `a gatepost` — 2 occurrences, both on day 33 at Chapter 479, both the sheet nailed to a gatepost nine hundred yards off. A gatepost used as a device and a looking in front of one used as a device, both, in one chapter.
+- `a wall` — 29 occurrences on 15 days. **Classified by one rule: take the forty-five characters either side of each occurrence and ask whether a figure or a column is named. Twenty-four name a figure. Three name a column, and two of those three are the string `three columns of a wall` at Chapters 486 and 498. Two are a man standing at that wall with nothing on it, at Chapters 482 and 491. The yard's own wall is zero: the phrase does not occur in the volume.** `that low wall`, the existing object the man of about sixty-four sits at the foot of, is 61 on 50 of 50 days and 60 of 60 chapters, and it is a different string, and it is not inside this count. **So the count of wall-as-device occurrences is two, not zero and not eighteen and not four.**
 - `a lane` — 1 occurrence, day 9, Chapter 450, a man walking down a lane recalled inside a comparison.
-- `a wall` — 29 over 15 days, of which **four are the wall the three columns that are a day out stand on, at Chapters 486, 491, 498 and 499.** Twenty-two are the low wall at the foot of which the man of about sixty-four sits and four are the yard's own wall. **The four are the wall the central pressure of the volume stands on, used in four chapters of the last block, and the block record and the canon card both printed the count as eighteen and both printed every one of them as the low wall. Both were wrong and the count of wall-as-device occurrences is four, not zero.**
+- `a gatepost` — 2 occurrences, both on day 33 at Chapter 479, both the sheet nailed to a gatepost nine hundred yards off. A gatepost used as a device and a looking in front of one used as a device, both, in one chapter.
 
-**None of these is a close's to repair, because Chapters 479, 450, 486, 491, 498 and 499 are canon.** They are weighed and printed. The honest summary is that a prohibition inherited into a close's own list of things it may not do was broken six times in prose, and the phase whose job is to weigh had nothing to weigh it with except a count.
+**This item as first written split the twenty-nine as twenty-two, four and three and named four of them as the wall three columns stand on, at Chapters 486, 491, 498 and 499. Both halves were wrong.** The string `three columns of a wall` is at two, at Chapters 486 and 498, and Chapters 491 and 499 are two of the reads. The yard's own wall is not in the volume. **The four-chapter claim was not invented here: it came in from `state/volume-10-batch-0004-summary.md` section 4.9 and its finding 3, and from `outline/batches/volume-10-batch-0004.md` item 13, and from the Batch 0004 review-fix blocks in `state/current.md` and `state/continuity.md`, and the close carried it forward and re-split the same twenty-nine into a different wrong shape.** That is a documented loss carried into a following block for the third time in this repository's history, and it is the same shape as items 1, 6 and 11: a figure believed because the sentence around it read like a measurement.
+
+**None of these is a close's to repair, because Chapters 450, 479, 482, 486, 491, 498 and 499 are canon. They are weighed and printed, and the prohibition's own count is now honest.** The honest summary is that a prohibition inherited into a close's own list of things it may not do was broken three times in prose, in three chapters, and that the phase whose job is to weigh had nothing to weigh it with except a count and inherited that count from the block it was weighing.
 
 ## 9. MINOR — the protected relay that carries the man nobody gives anything to has fallen and the standing is unchanged
 
@@ -156,20 +167,50 @@ Two things went wrong and they are the same mistake. The first is that the edit 
 
 **This is item 1, item 4 and item 11 again, in the close's own instruments: a figure produced by a method the writer did not write down, believed because it was plausible, and printed. A document that states how much of itself it changed is describing its own measurement and gets the same discount as any other.** Both documents now say five lines and name what each one changed for.
 
-## 17. What this review did not find, and what that does not mean
+## 17. MAJOR — the fourth closing-ledger repeat was named from a different measurement, and the doubled-day claim built on it was wrong
 
-**Seventeen items and every one of them is a defect.** There is no item here reporting that a measurement came out well, and that is deliberate and it is also the review's own bias: a self-review that lists successes is a document nobody can act on, and a self-review written by the writer is a document whose omissions cannot be counted. **The absence of an eighteenth item is not evidence that the volume is sound.**
+**Found by re-deriving the closing-ledger column group by group and printing the opening of every colliding chapter, which the close had not done.**
+
+Measured, over all sixty files: **56 distinct five-word openings in 60 closings, which is four repeats, in three groups.**
+
+| the closing opens on | chapters | days |
+|---|---|---|
+| `The man of about thirty four` | 443, 445, 449 | 3, 4, 8 |
+| `The boy of about nineteen` | 444, 446 | 3, 5 |
+| `A clerk of nineteen years` | 464, 496 | 21, 47 |
+
+**The close printed the fourth as 480 with 498. Chapters 480 and 498 close on `Three certainties went onto one page of a clerk's book` and `Four certainties went onto one page of a clerk's book`, which are two different sentences, and the pair is the third identical-paragraph pair at section 15 of the close record.** A pair from the duplication sweep was carried into the closing-ledger sweep and printed as a finding of it, which is the same failure as item 1: two measurements agreed with each other because one of them was copied, and the copy read like a citation.
+
+**The dependent claim was wrong too, and it is the more useful half of this item.** The close printed that two of the four repeats are the first half of a doubled day, and that this is the sixth time a doubled-day pair sits where something repeats itself. Day 3 is the first doubled day in the volume and it carries Chapters 443 and 444, and **each of the two heads one of the two front groups: 443 is the first half of day 3 and opens its closing like 445 and 449, and 444 is the second half of day 3 and opens its closing like 446.** So one of the four repeats involves a first half and one involves a second half, and the third group, 464 with 496, is the only one of the three that is not in the first block at all. A doubled-day pair sitting where something repeats itself is still the shape this repository keeps meeting and the count of how many times is not something this file can verify and is not printed as a finding any more.
+
+**Repaired** at `state/volume-10-close.md` section 3.2 and section 19, at `state/volume-10-roll-summary.md` section 5.5, and in the state appends. The close record's own section 18 and section 19 claims about the pair were the only other places it was printed, and both are corrected.
+
+## 18. MINOR — the volume has three arithmetic deviations and every document in this phase said two
+
+**Found by the item 6 scope repair and not by looking. It is listed separately because it changes a number that a Volume 11 writer would have taken as final, and because the review as first written asserted the opposite in its own preamble.**
+
+Chapter 455, day 14, prints five marks in chalk where `c` less seven gives seven, and five is the figure Chapter 453 prints on day 12. It is the third location in the volume that is off its own ladder, after Chapter 490 and Chapter 500, and the first of the three in reading order. The close record's section 19 also printed the Chapter 500 pair as *the one arithmetic error in the volume*, which contradicted the close record's own section 6 and section 6.1, and both of those had already been right about two.
+
+**Reported, not repaired: Chapter 455 is canon.** Carried as a liability in the roll at section 0.3, in the close record at section 6.2, in `state/current.md` at section 4, in `state/continuity.md` at section 3 and in `state/open-threads.md` at section 2, where it is opened as a thread, and the honest position is the one taken for Chapter 490: the volume nowhere says the man missed two mornings and nowhere says he did not, and this file does not decide it.
+
+## 19. What this review did not find, and what that does not mean
+
+**Eighteen items and every one of them is a defect.** There is no item here reporting that a measurement came out well, and that is deliberate and it is also the review's own bias: a self-review that lists successes is a document nobody can act on, and a self-review written by the writer is a document whose omissions cannot be counted. **The absence of a nineteenth item is not evidence that the volume is sound.**
 
 Specifically, this review did not independently re-derive, from the chapters and without the close record's assistance: the anchor test's eighteen columns, the figure table at section 7, the thirty-one weighed items at section 10, the four sentences at section 1, or the twenty-five prohibitions inherited from `outline/batches/volume-10-batch-0004.md`. **Those were carried from the close record on the strength of the checks that were run, which were: the calibration in five figures, the counting motif in 176 claims and 0 mismatches, the denominator, the `wc -w` band and its two extremes, the shared twelve-word-run volume figure and its four block figures, the three identical paragraphs and their three boundaries, the reserved scan, the footer scan, the six relay totals and their silence lists, thirty-nine of the forty-one day-list cells, and the fifteen ladder columns at section 5.1. Everything else in the close record rests on the writer having been right the first time.**
 
+**And the sentence above is now the wrong sentence, because three of the figures it says were not re-derived have now been re-derived and three of them were wrong.** The closing-ledger repeats, the `a wall` split and the chalk scope have each been measured again from the sixty files, without the close record in hand, and each moved. **A list of what a document did not check is not a list of what is right, and this one was the closest thing in the file to an assurance and it was the assurance that let three figures stand.**
+
 ---
 
-## 18. Disposition
+## 20. Disposition
 
-**Repaired in the documents this phase owns: items 2, 3, 4 (in the two documents), 5, 6, 7, 16, and item 1's table.**
+**Repaired in the documents this phase owns: items 2, 3, 4 (in the two documents), 5, 6, 7, 8, 16, 17, 18, and item 1's table.**
 
-**Reported and not repaired, because the file is not this phase's: items 4's three source documents, 8's six chapters, 11's tool, 12's ledger, 13's `.gitignore`, 14's premise.**
+**Reported and not repaired, because the file is not this phase's: items 4's three source documents, 6's and 8's three inherited documents, 11's tool, 12's ledger, 13's `.gitignore`, 14's premise.**
 
-**No repair available at all: items 9, 10, and the two arithmetic deviations in Chapters 490 and 500, all of which are in a closed volume.**
+**No repair available at all: items 9, 10, and the three arithmetic deviations in Chapters 455, 490 and 500, all of which are in a closed volume.**
 
-**No chapter was edited. No outline was edited. No earlier volume's record was edited. No entry was created in `state/phase-ledger.json`. Nothing under `scripts/`, `.github/workflows/`, `.opencode/agent/`, `tools/`, `state/archive/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md` or `opencode.json` was edited. And no next phase, no next batch directory and no next prompt was created, because the phase after a close is the controller's.**
+**Nothing was restarted, no chapter was written, no chapter was edited, and no plot, no count, no character state and no owed sentence moved. The batch was not reopened.**
+
+**No chapter was edited. No outline was edited. No earlier volume's record was edited. No block record was edited. No entry was created in `state/phase-ledger.json`. Nothing under `scripts/`, `.github/workflows/`, `.opencode/agent/`, `tools/`, `state/archive/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md` or `opencode.json` was edited. And no next phase, no next batch directory and no next prompt was created, because the phase after a close is the controller's.**

@@ -26,14 +26,15 @@
 
 **And the other half of it, which the volume said in four mouths in thirteen days and never entered as a sentence: a clerk of nineteen years has entered two figures in one entry and has refused, out loud, to say which of the two she means, and has entered that she does not know which of the two is the better one, and has said she would rather the page sat there being useless than have her pick one in a yard because about nine people made a face. Both figures are in the open at the fiftieth morning and neither of them is chosen, and a rule may not choose one, and this is the shape the volume ended in.**
 
-### 0.3 The liability: two figures on two pages are a day out from their own ladders
+### 0.3 The liability: three figures on three pages are a day out from their own ladders
 
-**Sixty chapters, two arithmetic deviations. Neither is a finding about a person and neither is a sentence about anybody's hand. Both are figures.**
+**Sixty chapters, three arithmetic deviations, in three chapters and on three days. None is a finding about a person and none is a sentence about anybody's hand. All three are figures.**
 
 - **Chapter 500 prints the man of about sixty-four on `his hundred and ninetieth night` and `slept on a hundred and eighty-nine of them`.** The figures are `139 + c` and `138 + c`, and Chapter 500 is day 50, so the figures are 189 and 188. The chapter is one high on both. It is the only chapter in the volume that is one high on either, and the last block's warning told the close that the chapters gave 189 and 188 where the outline gave 190 and 189 — **that warning was wrong, it had attributed a ladder column to the prose, and the close would have published the wrong pair had it taken it at its word.**
 - **Chapter 490 prints `ninety-nine days` for how long the rule said out loud in that yard has stood.** The figure is `58 + c` and Chapter 490 is day 42, so the figure is 100. It is one low. **And it is the only cell in the volume whose own chapter says, in the same sentence, that a clerk entered that figure as a figure about a rule and not about how many days the rule has been kept.**
+- **Chapter 455 prints `Five marks in chalk on the edge of the second table, entered as a man said them and not as a day-count`.** The count is `c` less seven and Chapter 455 is day 14, so the count is seven. It is two low, and five is the figure Chapter 453 prints on day 12, so the ledger of day 14 repeats the ledger of day 12. **It is the only cell in the volume that is not on its own ladder, and its own chapter says in the same sentence that the figure is not a day-count.** The volume nowhere says the man missed two mornings and nowhere says he did not, and this roll does not decide it.
 
-**A Volume 11 writer inherits both and may edit neither, because Chapter 490 and Chapter 500 are canon. Both are reported here at full size.**
+**A Volume 11 writer inherits all three and may edit none of them, because Chapter 455, Chapter 490 and Chapter 500 are canon. All three are reported here at full size, and the third of them was found by widening the pattern behind a scope cell and not by looking for it.**
 
 ---
 
@@ -58,7 +59,7 @@
 | 13 | **the night the man of about sixty-four is on** | `139 + c` | **140** | **189 — Chapter 500 prints 190** | 49 of 50 |
 | 14 | **the nights of that run he has slept on** | `138 + c` | **139** | **188 — Chapter 500 prints 189** | 48 of 50 |
 | 15 | the marks cut off that board since the mark for the first of the twelfth month | `7 + c` | 8 | **57** | 50 of 50, and a mark is a count of marks and not a figure about a month |
-| 16 | the marks in chalk along the edge of that second table | `c` less seven | not in the yard on day 1 | **43** | 22 days, 26 chapters, days 12 to 50, zero cells failing |
+| 16 | the marks in chalk along the edge of that second table | `c` less seven | not in the yard on day 1 | **43** | 27 days, 32 chapters, days 12 to 50, 26 of 27 cells holding — **Chapter 455 is the one that does not, at day 14 it prints five and the ladder gives seven.** Three narrower patterns give 24 on 21, 26 on 22 and 27 on 23 with zero cells failing, and the middle one is case-sensitive and is wrong by exactly Chapter 453, whose first line of the book begins `There are five marks in chalk` with a capital. All four are printed with their patterns at `state/volume-10-close.md` section 5.1 |
 | 17 | the fourth of the five things a document that sets a lot out has to say | **not a ladder** | fourth, a person | fourth, a person | 60 of 60 chapters. **The reading stood at the fourth from Chapter 441, not from Chapter 454, and did not advance on one of the fifty days. The fifth of the five is a remedy and is unpaid, and that book has no fourth line in it** |
 | 18 | the mornings a man of fifty-six has read four figures off that wall | **not a ladder** | not a figure yet | **the two hundred and twenty-fifth** | and **three of those four figures are a day out from the days they name, and one of the three re-derives one day higher than the board carries. Nothing was corrected, nothing was re-anchored, and the figure on the board wins on every one of the twenty columns** |
 
@@ -118,7 +119,7 @@ Every one of these held its figure across the fifty days, and every move is on a
 | `that second table` | 122 | 38 | inherited form |
 | `a second table` | 11 | 7 | the volume's own resolution object, named on eleven occasions on seven days |
 | `a stone` | 58 | 21 | |
-| `a wall` | 29 | 15 | twenty-two are the low wall at the foot of which the man of about sixty-four sits, four are the yard's own wall, three are a figure about a man reading off a wall |
+| `a wall` | 29 | 15 | classified by whether a figure or a column is named within forty-five characters either side: 24 name a figure, 3 name a column, and 2 are a man standing at that wall with nothing on it, at Chapters 482 and 491. Two of the three that name a column are the string `three columns of a wall`, at Chapters 486 and 498. **The yard's own wall is zero, and the phrase is not in the volume.** `that low wall`, the existing object at the foot of which the man of about sixty-four sits, is 61 on 50 of 50 days and is a different string |
 | `a stranger can walk up to` | 10 | 8 | |
 | `unchecked` | 7 | 7 | in a clerk's margin, in her own hand, over nothing |
 | `a second reader` | 8 | 5 | asked for and refused; never appointed; no column ruled |
@@ -191,7 +192,7 @@ The line, in order: 253 per 10,000 in Volume 09 over a denominator of 120,329; 2
 ### 5.5 The opening shape, the closing ledger, and the panel count
 
 - **The opening shape: 0 of 60, against a cap of 5 of 60.** Method named in advance by the outline: for each file, take the first non-empty line that is not a chapter header and not a horizontal rule, and test it against `The [a-z-]+ of the [a-z-]+ month came in`. **The sixty first lines are sixty different sentences.** The inherited figure, re-measured over Volume 09's fifty files, is zero of fifty. The inherited shape died by writing in Volume 09 and stayed dead.
-- **The closing ledger: 0 of 60 open on a time of day, with 56 distinct five-word openings in 60 closings.** The four collisions are 443 with 445 and 449, 444 with 446, and 480 with 498. **Three of the four are the first line of the chapters named and two of the four are the first half of a doubled day.** That is the sixth time in this manuscript that a doubled-day pair is exactly where something repeats itself.
+- **The closing ledger: 0 of 60 open on a time of day, with 56 distinct five-word openings in 60 closings.** That is three groups and four repeats: `The man of about thirty four` at Chapters 443, 445 and 449, `The boy of about nineteen` at Chapters 444 and 446, and `A clerk of nineteen years` at Chapters 464 and 496. **Day 3 is the volume's first doubled day and its two chapters head the two front groups, 443 as the first half and 444 as the second, and the third group is the only one of the three that is not in the first block.** The pair 480 and 498 is not a repeat of this kind and does not belong in this list: those two chapters close on `Three certainties went onto one page` and `Four certainties went onto one page`, and they are the third identical-paragraph pair at section 6 of this roll.
 - **Panels: 0, against a cap of one in a chapter and two in a block.** Quoted-block lines across the sixty files: 2, at Chapters 443 and 445, one each, and **both are a line of that lot book — the first line at Chapter 443 and the second line at Chapter 445.** `outline/volume-10.md` section 13.3 says a document line that exists to be reproduced character for character is not a panel and is not a second system. The exemption applies to both. A close that counted lines beginning with `>` and printed two would have published a false figure against its own contract. **None of this is a virtue and none is a reward, and zero is not the panel running out.**
 
 ### 5.6 The figure on the sheet, and the cap it passed
