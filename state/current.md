@@ -750,3 +750,50 @@ Untouched, in all one hundred and eighty chapters and to be left untouched: **th
 **AND THE TWO PASSES, WHICH ARE RECORDED AS PASSES AND NOT AS APPROVAL.** The ten openings are genuinely varied, the ten closings have ten different first words, the third line is quoted once, there are zero panels, zero new people, zero new places, one `four hundred and eleven` and one `unchecked` a chapter, and all nine re-derived constant-offset columns hold across all ten cells.
 
 `state/phase-ledger.json` still reads `currentPhase: phase-000-bootstrap` after four hundred and forty chapters. **Reported, not repaired.**
+
+---
+
+# VOLUME 09 CLOSE — CHAPTERS 391 TO 440, THE VOLUME IS CLOSED
+
+> **This section was appended by the Volume 09 close phase. It wrote no chapter. Its verdict is `state/volume-09-close.md` and its index for Volume 10 is `state/volume-09-roll-summary.md`. It edited no prose and it did not open any file under `state/archive/`.**
+
+**THE FIRST ATTEMPT AT THIS CLOSE DIED BEFORE IT WROTE ANYTHING AND COMMITTED A COMPILED PYTHON FILE AND NO DOCUMENT. THE THREE ARTIFACTS WERE ABSENT AND THE REVIEW OF THIS PHASE FOUND IT. THIS IS THE RE-RUN AND EVERY FIGURE IN IT WAS RE-DERIVED FROM THE FIFTY CHAPTER FILES.**
+
+## THE THING THE WRITER WHO COMES NEXT HAS TO LOOK AT FIRST
+
+**VOLUME 09 IS CLOSED. CHAPTERS 391 TO 440, FIFTY CHAPTERS, ONE A DAY, THE NINETEENTH OF THE TENTH MONTH TO THE SEVENTH OF THE TWELFTH MONTH OF THE EIGHTEENTH YEAR AFTER THE LONG FRACTURE. THERE IS NO CHAPTER 441. THE NEXT PHASE IS THE VOLUME 10 OUTLINE AT `workspace/volume-10/outline/PROMPT.md`.**
+
+**WHAT VOLUME 09 RESOLVED, AND IT IS A THING AND NOT A RULE AND NOT A POST: A LOT BOOK IN THE OPEN GETS A THIRD LINE, THE THIRD LINE IS A FIGURE OF WHEN, AND THE FIGURE ON THE SECOND LINE IS NOT CORRECTED. THE THIRD LINE WAS WRITTEN IN THE OPEN UNDER A STONE ON THE SECOND OF THE TWELFTH MONTH AT Chapter 435. THE MEASURE IS ONE LINE. THE COST IS A FIGURE THAT WAS WRONG ON A PAGE NOBODY OWNS FOR FOUR DAYS AND WAS NOT CORRECTED, AND A HAND: the left hand of the man of about thirty-four who mends fencing, out of the cloth he has carried it in since the eleventh of the June, laid flat and open on the SECOND line of that lot book and not on the third, with a stone on the corner of the book, and about nineteen people in that yard and not one of them saying one word about what the hand was doing there.**
+
+**AND THE HALF THAT DID NOT MOVE, WHICH A CLOSE THAT PRINTS ONE HALF HAS PICKED A SIDE: THE FIGURE ON THE SHEET AT THAT GATEPOST IS FOUR HUNDRED AND ELEVEN AND IT IS 51 OCCURRENCES ACROSS FIFTY CHAPTERS IN ALL FIFTY OF THEM AND IT DID NOT MOVE ON ONE OF THE FIFTY DAYS. The bid stayed open ninety-eight days and was not run on one of the fifty, measured, a form of *was not run* on 50 of 50 days. Nothing came four hundred miles off, nobody watched the gatepost, and a body that does not arrive has no face.**
+
+**AND THE SENTENCE THE VOLUME OWED, PAID AT THE HEAD OF `state/volume-09-close.md` SECTION 1, IN ONE SENTENCE, STANDING ALONE, NOT DEFENDED ANYWHERE: the word this volume's own outline made mandatory on twelve arms is on the page in a clerk's own hand, over nothing, and on the last day of the volume a clerk says out loud that she is not going to take it off, and the volume's first finding came back empty.**
+
+## THE FIGURES, RE-DERIVED, AND THE CELLS CHECK AGAINST THE TOTALS BESIDE THEM
+
+**68 counted claims, 0 mismatches, 0 class-two-shaped, a denominator of 120,329, a `wc -w` total of 120,975, a mean of 2,419.5, 4,837 shared twelve-word runs, and 4 identical paragraphs of twelve words or more on two conventions that agree. THE PER-CHAPTER CLAIM COLUMN HAS FIFTY CELLS AND THEY SUM TO SIXTY-EIGHT. TWO CHAPTERS, 438 AND 439, CARRY NO COUNTED CLAIM AT ALL AND ARE THE TWO MOST READABLE PAGES IN THE FIFTH BLOCK AND THE MODEL FOR VOLUME 10.**
+
+**ALL EIGHTEEN COLUMNS OF THE `outline/volume-09.md` SECTION 6.1 TABLE HOLD THE CONSTANT-OFFSET TEST AND THE ANCHOR TEST AT BOTH ENDS. THE PRINTED CONSTANT ROW IS THE VALUE AT `b = 50` AND NOT THE INTERCEPT.**
+
+**THE MEASUREMENT FIGURES THE VOLUME 09 CLOSE PROMPT GUESSED AT AND THAT ARE NOW MEASURED: the shared-run figure is 4,837 and it has risen every block and is still rising. The *about* hedge is 3,048, one per 39.5 words, and is NOT declining. The relay is at saturation and was deleted, reworded and moved by nobody. Chapter 399 is 2,182 words and is EIGHTEEN WORDS UNDER THE 2,200 FLOOR and is the only chapter of the fifty outside the band.**
+
+## THE DAY-LIST THAT FAILED, AND IT IS THE FIFTH OCCURRENCE AND THE FIRST ONE IN AN OUTLINE
+
+**`outline/volume-09.md` SECTION 2.4 SAYS THE WORD *UNCHECKED* IS ON THE PAGE ON THIRTY-EIGHT DAYS, FROM Chapter 403 TO Chapter 440, BOTH DAYS COUNTED. THE ARITHMETIC IS RIGHT AND THE DAY-LIST IS NOT, IN THREE SEPARATE WAYS AT ONCE, AND ALL THREE WERE FOUND BY CHECKING FILE BY FILE AND NOT AGAINST A COUNT OF A STRING:**
+
+1. **THE WORD ENTERS THE PAGE ONE DAY EARLY.** Chapter 402, the thirtieth of the tenth month, is where a clerk enters the length of the eleventh month as a figure about a list with the word as its flag. The claimed span starts on Chapter 403.
+2. **THE WORD IS NOT SPELLED ON SIX DAYS INSIDE THE CLAIMED SPAN: Chapters 405, 406, 407, 408, 409 AND 410.** On all six the device is running at full strength — Chapter 405 has a man ask twice whether the word is staying on the figures, Chapter 410 has a man read twelve figures off the clerk's margin with the word at the end of each — and the prose calls it *the word* and never spells it.
+3. **SO THE STRING IS ON THIRTY-THREE DAYS OF FIFTY, NOT THIRTY-EIGHT, AND THE DEVICE IS ON THIRTY-NINE.**
+
+**THE OUTLINE MAY NOT BE EDITED BY A CLOSE. THE CONFLICT STANDS, IT IS PASSED ON TO VOLUME 10 WITH BOTH FIGURES, AND THE INVERSION IS NOT REVERSED.**
+
+## THE FOUR DECISIONS A CLOSE MADE, AND THREE ARE INHERITED AS SETTLED
+
+1. **THE CLOSING LEDGER DIED IN BLOCK 0003 AND NOT BLOCK 0005 AS THE BLOCK RECORDS SAY.** Eleven of fifty closings open *By the time the light*: six in block 0001, five in block 0002, **zero in blocks 0003, 0004 and 0005**. The new cap: no chapter may close on a sentence that opens by naming a time of day and a change of light before it names a person.
+2. **THE FIGURE-ON-THE-SHEET CAP IS TAKEN DOWN FROM THIRTY TO FIFTY BY ARGUMENT AND NOT BY SAYING IT LESS OFTEN.** The cap was a cap on borrowing a figure somebody else produced and is now a cap on how many times a reader is told it. The figure is at 51 and is published at full size.
+3. **THE SENTENCE, PAID.**
+4. **THE VERDICT, DOUBLE, IN SECTION 2 OF THE CLOSE.**
+
+## THE CONTROLLER, REPORTED AND NOT REPAIRED
+
+`state/phase-ledger.json` still reads `currentPhase: phase-000-bootstrap`, status `planned`, `attempts: 0`, after four hundred and forty chapters and approximately forty-six phases. Because `attempts` never increments there is no durable record that this close failed once and had to be re-run. **Controller-owned. Reported, not repaired.** Two more that are not a writer's: `tools/__pycache__/measure.cpython-312.pyc` is tracked in git and has been swept into automated save commits, and the `novel-reviewer` subagent does not dispatch, so every review in this repository is a self-review. And `outline/volume-04.md` has never existed and may not be reconstructed by a writer.

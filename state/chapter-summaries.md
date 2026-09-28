@@ -1061,3 +1061,103 @@ The bid is ninety-two days old and is three months. Sixty-one days on from the f
 **440, the seventh of the twelfth, the last day of the volume's fifty.** **CHANGED BY SIXTEEN WORDS, AND THEY WERE A REPEAT.** A hand lies flat and open on the second line of that lot book and not on the third, under a stone, in silence, and the volume's measure is read out loud in one paragraph and not read back from the top. **The clause about the man of fifty-six reading the four figures for the last time had closed the chain sixteen words earlier and was closing it a second time; it is removed, and the paragraph now ends on *nobody has ever written down what time he comes out*. The reading itself, at the top of the chapter, is the volume's mandated closing image and was left alone.**
 
 **AND THE FIGURES THESE SEVEN EDITS MADE STALE, RE-MEASURED AFTER THE REPAIR AND NOT CARRIED: block total 24,540 to 24,519, denominator 24,406 to 24,385, shared twelve-word runs 1,035 to 1,036, and the `wc -w` column at Chapters 433 and 440 only. ALL ELEVEN COUNTED CLAIMS STILL REPRODUCE AT 79, 38, 63, 32, 40, 51, 104, 44, 49, 38 AND 64, AND THE IDENTICAL-PARAGRAPH SCAN STILL RETURNS ZERO ON THESE TEN CHAPTERS. NOTHING IN THE REPAIR ADDED OR REMOVED AN EMPHASIS MARKER.**
+
+---
+
+# VOLUME 09 CLOSE — CHAPTER INDEX, CHAPTERS 391 TO 440, ONE LINE EACH
+
+> **Appended by the Volume 09 close phase. It wrote no chapter and edited no prose. Every figure below was re-derived from the chapter files. The block-by-block detail is at `state/volume-09-roll-summary.md`; the verdict is at `state/volume-09-close.md`. A close that prints a figure it did not measure is repeating the failure this volume is about.**
+
+## BLOCK 0001 — CHAPTERS 391 TO 400, THE NINETEENTH TO THE TWENTY-EIGHTH OF THE TENTH
+
+**391, tenth/19.** The volume opens on its debt: the length of the eleventh month is not a figure this canon has, and a man of fifty-six who has read the figures off that board every morning for six months says out loud that he does not know how many days it has, and nobody has an answer, and a clerk enters that a figure somebody entered because they had to is not a promise about a later day. **3 claims [50, 57], 0 mismatches, 2,563 words.**
+**392, tenth/20.** The stone on the lot book has gone green down one side of it in about a week of rain and nobody turned it over. **2 claims, 2,394 words.**
+**393, tenth/21.** The boy of about nineteen comes in with two figures at the top of his own page in his own hand. **2 claims, 2,211 words.**
+**394, tenth/22.** Hard frost on the boards at first light. **3 claims, 2,230 words.**
+**395, tenth/23.** The door four hundred yards up that bank is shut when the yard fills up. **2 claims, 2,286 words.**
+**396, tenth/24.** The trough is drawn from twice in one morning, once by a woman who came up that bank for water with buckets and once by a man who was not carrying anything. **2 claims, 2,263 words.**
+**397, tenth/25.** The man who puts tables up gets the figure off the top board. **2 claims, 2,414 words. THE ONLY CHAPTER IN ALL FIFTY THAT SPELLS THE WORD *REMOVAL*.**
+**398, tenth/26.** The far end of that yard is nine feet from the low wall and four hundred yards down the lane from the step of two stones. **1 claim, 2,227 words.**
+**399, tenth/27.** The low wall at the south end is about four feet high and about nine feet long, and it has a thing on the far side of it that nobody knows about. **1 claim, 2,182 words. THE ONLY CHAPTER IN THE VOLUME OUTSIDE THE 2,200-3,200 BAND, EIGHTEEN WORDS UNDER THE FLOOR. Line 51 of this chapter is one of the two duplicated PROSE paragraphs in the fifty, and it is spoken again verbatim at line 63 of Chapter 408.**
+**400, tenth/28.** Hard clean light on that bank, and about four of them said good and about four of them said nothing at all. **3 claims, 2,279 words.**
+
+**BLOCK 0001 TOTALS: 20 claims, 0 mismatches, 0 class-two, denominator 22,923, `wc -w` 23,049, 628 shared twelve-word runs, 0 identical paragraphs, 6 of 10 closings opening *By the time the light*.**
+
+## BLOCK 0002 — CHAPTERS 401 TO 410, THE TWENTY-NINTH OF THE TENTH TO THE EIGHTH OF THE ELEVENTH
+
+**401, tenth/29.** The boy gets to that board before the man of fifty-six does, which is not a thing he has done in six months. **3 claims, 2,319 words.**
+**402, tenth/30.** **THE COUNT.** The clerk puts her finger on the mark for the first of the tenth month and counts to this morning's mark and gets **thirty**, and enters that the length of the month after this one is **thirty-one, taken off a list, which she did not count, and flagged with the word *unchecked*.** **THE WORD ENTERS THE PAGE HERE, A DAY EARLIER THAN `outline/volume-09.md` CLAIMS.** 2 claims, 2,420 words, and the lowest *about* count in the volume at 43.
+**403, eleventh/1.** The arms cross. She says the word once and writes it twelve times. The third month goes to eight months back, said out loud in the yard and written on her page. **2 claims, 2,417 words.**
+**404, eleventh/2.** **THE ONLY DAY IN FIFTY ON WHICH THE WORD IS SPELLED BESIDE THE FIGURES IN A COUNTED SPEECH: *Three hundred and twelve, unchecked. Six hundred and twenty-eight, unchecked. Three hundred and forty-two, unchecked. Three hundred and three, unchecked.*** 1 claim, 2,292 words.
+**405, eleventh/3.** **THE DAY THE FINDING IS ARGUED FOR.** A man asks twice whether the word is staying on the figures and gets the same answer in the same words, and a third time gets a shorter one, and *that is a refusal* and *it is an answer and the third one is shorter*. Somebody asks her to rule a fifth column to hold the word and she says no before the question is finished, and gives the reason: four columns of not-askings and not one person on the page. **AND AT ABOUT HALF PAST TWO THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST SAYS OUT LOUD THAT HE HAS READ THOSE FOUR FIGURES OVER ANOTHER MAN'S SHOULDER EVERY MORNING OF THIS MONTH AND THAT THIS MORNING HE HAS NOT READ ONE, AND THAT HE DID NOT DECIDE NOT TO.** 1 claim, 2,241 words.
+**406, eleventh/4.** The loam man comes the whole way across the yard at about ten instead of going to the trough. The man of fifty-six asks the clerk why the word is not on one more figure. **2 claims, 2,489 words.**
+**407, eleventh/5.** Two men work out on their fingers when the figure on the second line stopped being true, and the two lines of the lot book are read out loud in the open. **1 claim, 2,313 words. THE TWO DOCUMENT LINES THAT ARE DUPLICATED AT Chapter 412.**
+**408, eleventh/6.** The argument about what the word is a figure of, and the two walls maxim repeated verbatim from Chapter 399. **1 claim, 2,327 words.**
+**409, eleventh/7.** The page is put down open with the corner turned back and the word in the margin facing up. **1 claim, 2,320 words.**
+**410, eleventh/8.** A man reads twelve figures off the clerk's margin going down them with the word at the end of each and gets all twelve. **1 claim, 2,308 words.**
+
+**BLOCK 0002 TOTALS: 15 claims, 0 mismatches, denominator 23,320, `wc -w` 23,446, 887 shared twelve-word runs, 0 identical paragraphs, 5 of 10 closings opening *By the time the light*. Chapters 405 TO 410 DO NOT SPELL THE WORD *UNCHECKED*, SIX DAYS, AND THE DEVICE RUNS ON ALL SIX.**
+
+## BLOCK 0003 — CHAPTERS 411 TO 420, THE NINTH TO THE EIGHTEENTH OF THE ELEVENTH
+
+**411, eleventh/9.** The man of fifty-six says the word again after a morning without it. **A MAN SAYS OUT LOUD THAT HE WROTE THE WORD *UNCHECKED* TWELVE TIMES ON THE FIRST OF THIS MONTH BEFORE THERE WAS ANYBODY IN THAT YARD, AND THAT IT HAS BEEN ON THAT PAGE EVERY MORNING SINCE — AND THE STRING IS AT ZERO ON SIX OF THOSE MORNINGS.** 1 claim, 2,839 words, THE LONGEST CHAPTER IN THE VOLUME.
+**412, eleventh/10.** The two lines of the lot book are the same two lines, and the stone is not turned over. **1 claim, 2,566 words.**
+**413, eleventh/11.** She copies the word from one place on her page to another. **1 claim, 2,377 words.**
+**414, eleventh/12.** A figure is a figure off a list in a room four hundred yards up that bank, and the word says so. **1 claim, 2,477 words.**
+**415, eleventh/13.** A lot with no figure a stranger can check has no way of being wrong in public. **1 claim, 2,710 words, the second longest.**
+**416, eleventh/14.** The word of the day is tomorrow. **1 claim, 2,548 words.**
+**417, eleventh/15.** **THE MONTH BOUNDARY OF THE STANDING STALENESS: the figure on the second line of the lot book is a month out of date and the man who put it there says so out loud, and a man of about nineteen counts what he said.** 1 claim, 2,674 words.
+**418, eleventh/16.** The ninth of the nine printed nights is two hundred and nine days back. 1 claim, 2,411 words.
+**419, eleventh/17.** Nobody standing there said the word *month* out loud yesterday. 1 claim, 2,639 words.
+**420, eleventh/18.** A morning on which nothing in that yard had to be said twice. 1 claim, 2,660 words.
+
+**BLOCK 0003 TOTALS: 10 claims, 0 mismatches, denominator 25,763, `wc -w` 25,901, 802 shared twelve-word runs, 0 identical paragraphs, AND ZERO OF THE TEN CLOSINGS OPEN *BY THE TIME THE LIGHT* — THE EXACT SENTENCE DIES HERE AND THE BLOCK RECORDS NAME BLOCK 0005.**
+
+## BLOCK 0004 — CHAPTERS 421 TO 430, THE NINETEENTH TO THE TWENTY-EIGHTH OF THE ELEVENTH
+
+**421, eleventh/19.** The woman of fifty-eight stops at the trough with her buckets half full and asks the man who cuts reeds a question. 1 claim, 2,351 words.
+**422, eleventh/20.** Two men say the same word on the same morning and one of them said it to a woman at a trough. 1 claim, 2,392 words.
+**423, eleventh/21.** The mender is asked at about a quarter to ten to say the price of a rule out loud. 1 claim, 2,245 words.
+**424, eleventh/22.** Nobody at that table knew what it was going to be. 1 claim, 2,317 words.
+**425, eleventh/23.** A clerk says out loud that a person who has not been asked has not refused and cannot be counted either way. 1 claim, 2,556 words.
+**426, eleventh/24.** The man who puts tables up begins to work out in front of about nine people what a rule is for. 1 claim, 2,321 words.
+**427, eleventh/25.** Two people had known since about eleven that something was going to be said out loud and neither of them had said it. 1 claim, 2,306 words.
+**428, eleventh/26.** The figure on the second line is forty-one days out of date at about a quarter to nine. 1 claim, 2,290 words.
+**429, eleventh/27.** **THE NAME.** At about eleven a man of about thirty-seven who puts tables up said a name out loud in the open, in the ordinary voice, in front of about nineteen people, and it was not the protagonist's, and the person it belongs to was not asked, and **nobody wrote it down.** 1 claim, 2,545 words.
+**430, eleventh/28.** A yard a day after a name went out loud in it went on doing what it does. 1 claim, 2,737 words.
+
+**BLOCK 0004 TOTALS: 12 claims, 0 mismatches, denominator 23,938, `wc -w` 24,060, 971 shared twelve-word runs, 0 identical paragraphs, zero *By the time the light* closings.**
+
+## BLOCK 0005 — CHAPTERS 431 TO 440, THE TWENTY-NINTH OF THE ELEVENTH TO THE SEVENTH OF THE TWELFTH
+
+**431, eleventh/29.** There was a name in the air in that yard and there was not one on a page. 1 claim, 2,259 words.
+**432, eleventh/30.** The woman who keeps a scale comes down the bank with the day's flour on her hip. 1 claim, 2,233 words.
+**433, eleventh/31.** **THE CHECK, THE LAST DAY OF THE MONTH, AND THE FIRST TIME IN THIS CANON THAT A MONTH LENGTH IS COUNTED AFTER THE MONTH IT DESCRIBES HAS RUN OUT.** The clerk counts the marks from the first of the eleventh to this morning's mark and gets **thirty-one**, and the figure entered off a list was thirty-one, and **the two agree, and she enters that a figure that reproduces is a figure about a count and is not a finding, and that the ninth month's length was entered off a list in an earlier block and can never now be checked because nobody wrote down where that mark was, and that is a cost and it is a cost about a board and not about a person.** 1 claim, 2,495 words.
+**434, twelfth/1.** **THE DAY.** A man of fifty-six does not read the figures off that wall and nine people notice, and a body four hundred miles off prints at its sixty-one-day interval and does not come, and he walks down a lane and looks at a gatepost and there is nothing on it, and **a day he spent walking is a day he did not read.** 2 claims [32, 40], 2,306 words.
+**435, twelfth/2.** **THE RESOLUTION, IN ONE LINE.** A man of about thirty-seven who cuts reeds said a day out loud, the fifteenth of the tenth, and a clerk wrote a date under a figure that is wrong and left the figure wrong, and the third line went into the book in the open under a stone: ***One lot. The figure on the second line above stopped being true on the fifteenth of the tenth month.*** And she says out loud that she is not going to enter that the rule has been improved, and is not going to enter that a thing has been solved, and is not going to enter that a stranger walking up to that table tomorrow can tell which of the three lines is current, **because he cannot.** 2 claims [51, 104], 2,802 words.
+**436, twelfth/3.** **THE COUNT OF INSTRUMENTS MOVES FROM TEN TO ELEVEN, WITH A SCENE AND A REASON GIVEN OUT LOUD AND NOT ASKED FOR**, and a clerk enters the move and the reason and not only the number. 1 claim, 2,603 words.
+**437, twelfth/4.** There are three lines and only one of them is a figure, and two men have owned a thing in that yard this month and neither was thanked and neither was given anything. 2 claims [49, 38], 2,448 words.
+**438, twelfth/5.** **THE CLOTH.** At about eleven, in front of about nine people, the man of about thirty-four who mends fencing takes the cloth off his left hand and **the hand does not close**, and nobody says one word about what it is. He says out loud that nobody has thanked him and that he is not going to either, and a woman of about thirty-six who keeps a scale says out loud that she has been waiting two months for about four of them to thank him. **A CLERK MAY NOT ENTER THAT A HAND IS BETTER THAN IT WAS AND DID NOT.** **0 counted claims.**
+**439, twelfth/6.** About four people bring something to the end of that table to put in the book, and the clerk says out loud that she has a word over a figure in her own margin and is not going to take it off, and a man there heard a name on the twenty-seventh and the record says not asked. **0 counted claims.**
+**440, twelfth/7, THE LAST DAY OF THE FIFTY.** **A HAND ON A PAGE.** The left hand of the man who mends fencing comes out from under the boards and lies flat and open on the **second** line of that lot book, and the figure on that line is still wrong, and the third line is a date, and there is a stone on the corner of the book, and about nineteen people are in that yard and **not one of them says one word about what the hand is doing there.** The four figures are read off the wall and got, the word said four times and got four times. At about half past four the clerk reads the measure of the whole thing out loud in one paragraph to about nine people **and does not read it back from the top, and a thing read back by nobody binds nobody**, and a few of them said afterwards that they had wanted to be asked to read it and nobody asked them. The figure on the sheet at that gatepost is four hundred and eleven and has not moved on any of the fifty days. The bid is open ninety-eight days. The column for the name of whoever read a thing out loud is still ruled and still empty. **A clerk entered that a hand was taken off at about eleven and that the hand did not close.** And the last thing is a woman of about thirty-six who keeps a scale, reading the three lines standing up, saying one thing out loud to the stone: **there is a hand on the wrong line and there is a day under the wrong line and both of those are true and neither of them is a figure.** 1 claim [64], 2,368 words.
+
+**BLOCK 0005 TOTALS: 11 claims, 0 mismatches, denominator 24,385, `wc -w` 24,519, 1,036 shared twelve-word runs, 0 identical paragraphs, and the string *unchecked* is at one a chapter on all ten days, which is TEN AND NOT ELEVEN, measured.**
+
+**AND THE FIGURES IN THOSE FIVE LINES THAT DO NOT ADD, WHICH IS THE POINT OF PRINTING ALL SIX ROWS BESIDE EACH OTHER. THE CLAIMS ADD: 20+15+10+12+11 = 68. THE DENOMINATOR ADDS: 120,329. THE `wc -w` ADDS: 120,975. THE SHARED TWELVE-WORD RUNS DO NOT: 628+887+802+971+1,036 = 4,324 against a whole-volume figure of 4,837, a difference of 513 RUNS SHARED ACROSS A BLOCK BOUNDARY. AND THE IDENTICAL-PARAGRAPH FIGURE IS ZERO IN ALL FIVE BLOCKS AND FOUR IN THE WHOLE VOLUME, BECAUSE EVERY ONE OF THE FOUR DUPLICATED PARAGRAPHS STRADDLES A BLOCK BOUNDARY — 399|408, 400|401, AND 407|412 TWICE. A DUPLICATION SWEEP RUN BY A BLOCK CANNOT FIND A DUPLICATION. THE FIGURE A VOLUME 10 WRITER INHERITS IS 4,837 AND 4, NOT THE SUM OF THE FIVE.**
+
+## THE VOLUME, ALL FIFTY, AND THE CELLS CHECK AGAINST THE TOTALS BESIDE THEM
+
+| | volume | 0001 | 0002 | 0003 | 0004 | 0005 |
+|---|---|---|---|---|---|---|
+| class-one claims | **68** | 20 | 15 | 10 | 12 | 11 |
+| mismatches | **0** | 0 | 0 | 0 | 0 | 0 |
+| denominator | **120,329** | 22,923 | 23,320 | 25,763 | 23,938 | 24,385 |
+| `wc -w` | **120,975** | 23,049 | 23,446 | 25,901 | 24,060 | 24,519 |
+| shared twelve-word runs | **4,837** | 628 | 887 | 802 | 971 | 1,036 |
+| identical paragraphs ≥12 words | **4** | **0** | **0** | **0** | **0** | **0** |
+| closings opening *By the time the light* | **11** | 6 | 5 | **0** | **0** | **0** |
+
+**THE PER-CHAPTER CLAIM COLUMN, FIFTY CELLS, WHICH SUM TO SIXTY-EIGHT:**
+> 2, 2, 2, 3, 2, 2, 2, 1, 1, 3, 3, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 2, 0, 0, 1
+
+**CHAPTERS 438 AND 439 CARRY NO COUNTED CLAIM AT ALL AND ARE THE TWO MOST READABLE PAGES IN THE FIFTH BLOCK. A REPAIR THAT QUIETLY LOWERED THE RELAY WOULD HAVE DESTROYED THE MEASUREMENT, AND NOBODY DELETED, REWORDED OR MOVED ANYTHING.**

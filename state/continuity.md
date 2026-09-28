@@ -1335,3 +1335,49 @@ Thirty was said out loud in that yard at about ten past nine on the fifteenth of
 **7. NOTHING ELSE MOVED.** The reading of that lot is begun and not finished and stands at the fourth of the five things a document that sets a lot out has to say, and the fifth is a remedy and there is nobody in this district who can use one. The column for the name of whoever read a thing out loud is ruled and empty on all ten days. The old shelter's charter is still wrong on the face of it. The fifth of the five things this district does not have is still five and still not paid. The two refusals of a price for a name are two. The fourth line of the offer and the departure are both at zero. The man of about sixty-four is a hundred and thirty days in rising to a hundred and thirty-nine, given nothing, not offered a chair, not sent on nine days. The man of about thirty-seven who cuts reeds was not paid, not thanked and not appointed to give anything to anybody. The woman who keeps the two books was not visited and the second of those two books was not touched. The bell was not pulled and no night was named. The protagonist's name is on no page, column, book, sheet, sign or mark, and nobody in any of the ten chapters calls the man the figure of twenty-one years is against anything at all.
 
 **AND THE THING THAT IS STILL OPEN AND STILL NOT OURS TO CLOSE: THE WORD *UNCHECKED*.** It is at **ten** across these ten days, one a chapter, all ten in the clerk of nineteen years' own margin over nothing, and **the count is ten and not eleven, measured file by file in the review repair of 2026-09-28, and three block documents said eleven before it.** The route this block took is still the inversion, the reason is still the one printed at `outline/batches/volume-09-batch-0005.md` section 5, and **the price is still exactly one sentence owed by the volume close, saying that the volume's own first finding came back empty, and it may not be softened into a question and it may not be explained.** `outline/volume-09.md` was not edited by the repair and is not the repair's file.
+
+---
+
+# VOLUME 09 CLOSE — CONTINUITY, CHAPTERS 391 TO 440
+
+> **Appended by the Volume 09 close phase. It wrote no chapter and edited no prose. Its verdict is `state/volume-09-close.md` and its index is `state/volume-09-roll-summary.md`. Every figure below was re-derived from the fifty chapter files. The five live state files totalled 2,501,300 bytes before this append.**
+
+**1. THE CALENDAR IS FIXED AND THE TWELFTH MONTH IS NOT YET A FIGURE.** Volume 09 ran from the nineteenth of the tenth month to the seventh of the twelfth month of the eighteenth year after the Long Fracture, one chapter a day, fifty days. The month lengths this canon has used: first thirty-one, second twenty-eight, third thirty-one, fourth thirty, fifth thirty-one, sixth thirty, seventh thirty-one, eighth thirty, ninth thirty-one, tenth thirty, **eleventh thirty-one**. **THE TWELFTH IS NOT STATED AND VOLUME 09 ENDED ON ITS SEVENTH, SO NO FIGURE IN VOLUME 09 USED ONE. A VOLUME 10 THAT RUNS PAST THE END OF THE ELEVENTH OWES A COUNTED STATEMENT OF BOTH LENGTHS, AND NO FIGURE OF VOLUME 10 MAY USE A TWELFTH-MONTH LENGTH UNTIL A DAY ON THE PAGE NAMES IT.**
+
+**2. `b` IS STILL THE NUMBER OF DAYS SINCE THE THIRTIETH OF THE EIGHTH MONTH, AND IT IS 100 AT CHAPTER 441.** All eighteen intercepts are at `state/volume-09-roll-summary.md` section 1 and every one of them is an INTERCEPT, not the value at the first day. **THE PRINTED CONSTANT ROW IN `outline/volume-09.md` SECTION 6.1 IS THE VALUE AT `b = 50` AND NOT THE INTERCEPT, AND A WRITER WHO SUBTRACTS FIFTY FROM IT AND FAILS IS SUBTRACTING FROM THE WRONG ROW.** All eighteen columns hold the slope test and the anchor test at both ends, and the difference between `Stay` and `NightsSlept` is exactly 1 on every one of the fifty cells, the missing night being the night of the twenty-first of the eighth, when the man of about sixty-four stood in the sound and did not lie down.
+
+**3. THE THIRTEEN THINGS CARRIED FORWARD INTO VOLUME 09 FROM VOLUME 08, AND WHAT CAME BACK OUT OF THEM, MEASURED:**
+
+| the thing | the figure at Chapter 390 | the figure at Chapter 440 | the verdict |
+|---|---|---|---|
+| **the figure on the sheet at that gatepost** | 87, 50 of 50 | **51, 50 of 50, three conventions agreeing** | **DID NOT MOVE. The cap was taken down from thirty to fifty by argument, not by saying it less often** |
+| **the bid** | 48 days | **98 days, never run, a form of *was not run* on 50 of 50** | **OPEN** |
+| **the fifth of the five things this district does not have** | 13 days | **the phrase at ZERO across all fifty files** | **UNPAID. Volume 09 may not pay it and did not** |
+| **the two walls a mile apart** | at zero | **at zero as a device; the maxim repeated verbatim at 399 and 408** | **OPEN, UNPAID BY ANYBODY, NOT USABLE AS A DEVICE** |
+| **the ninth of the nine printed nights** | 181 days back, 19 occurrences, 17 chapters | **231 days back, 25 occurrences, 22 chapters** | **OPEN, THE SIXTEENTH BLOCK IN A ROW, AND BOTH FIGURES ROSE** |
+| **the man of about sixty-four** | 89 nights, 89 slept | **139 nights, 138 slept, nothing in his hands on 31 days** | **OPEN. Not sent on another nine days, not asked to sit in the second chair, given nothing** |
+| **the body four hundred miles off** | 61-day interval, 18 days past | **61-day interval, 67 days past, and it has no face** | **OPEN AND IT MAY NOT BE GIVEN ONE** |
+| **the rival record** | 140 days | **189 days, answered once out loud** | **OPEN** |
+| **the chair at the end of the trestle table** | no figure | **no figure on the page** | **STILL NOT A LADDER AND NOT ONE IN THIS VOLUME** |
+| **the term on that reading** | 19 days past | **not counted, and named as not counted** | **OPEN, AND ITS ANCHOR STILL DOES NOT ADD UP TO THE PAGE. NOT USABLE AS A DATED SPINE** |
+| **the removal day** | 79 days past | **128 days past; the string `removal` at zero across 401 to 440 and once in all fifty, at Chapter 397** | **SPENT AS A LADDER** |
+| **the old shelter's charter** | wrong on its face | **wrong on its face; the phrase at zero across all fifty files** | **OPEN. Not corrected, not replaced, not superseded, not taken out** |
+| **the reading of that lot** | begun, not finished | **begun, not finished, standing at the fourth of the five things, and it is at 440 what it was at 390** | **OPEN. The column for the name of whoever read a thing out loud is ruled and was still empty at about six on the last day** |
+
+**4. THE FIGURES THAT ARE ON ALL FIFTY DAYS ARE *A FIGURE*, *CLERK* AND *FOUR HUNDRED AND ELEVEN*, AND THEY ARE THE THREE THINGS THE VOLUME IS ABOUT.** *Out loud* rose from 607 to 636 and is on all fifty days. *Clerk* rose from 366 to 428. *The column for the name of whoever read a thing out loud* more than doubled, from 22 occurrences to 47, and stayed empty. **THE VOLUME TALKED ABOUT BEING READ ALOUD MORE THAN THE VOLUME BEFORE IT AND DID NOT GET READ ALOUD BY ANYBODY.**
+
+**5. THE PANEL COUNT FOR VOLUME 09 IS ZERO AND NONE IS A VIRTUE AND NONE IS A REWARD.** There was no System panel in fifty chapters. The machinery is present in the ordinary words these people already use.
+
+**6. THE ONLY PLACE NAMED IN NARRATION ACROSS THE FIFTY CHAPTERS IS THE YARD OF LOT SEVENTEEN, ONCE IN EACH OF THE FIFTY, MEASURED.** The district's own name is at zero and the country above the water is at zero.
+
+**7. NO PERSON IS NAMED.** A new person is given an age, a trade and a body in the same paragraph in which he is first named, gives no name, and is never asked for one.
+
+**8. THE RESERVED SCAN IS CLEAN: ZERO.** No term on the tool's own reserved list occurs in any of the fifty chapters, and *Iven* and *Tallow* are at zero, and *a party* is at zero, and *a stranger can walk up to* is on three chapters.
+
+**9. THE DAY-LISTS, EVERY ONE RE-MEASURED FILE BY FILE, AND THE FIFTH OCCURRENCE OF THE STANDING FAILURE.** Ten day-lists were checked and nine hold. **The tenth does not: the word *unchecked* is on the page on 39 days, the string is on 33 of 50, `outline/volume-09.md` claims 38 from Chapter 403, the word enters a day early at Chapter 402, and it is not spelled on Chapters 405 to 410 where the device runs at full strength. THE OUTLINE MAY NOT BE EDITED BY A CLOSE AND THE CONFLICT IS PASSED ON WITH BOTH FIGURES.**
+
+**10. THE RELAY, THE HEDGE AND THE REPETITIONS, MEASURED AND INHERITED AND NOT SMOOTHED.** Six relay phrases at 91, 13, 10, 19, 21 and 46 occurrences. The *about* hedge at 3,048, one per 39.5 words, from 43 to 83 a chapter, not declining. Four identical paragraphs of twelve words or more, of which two are document lines that exist to be reproduced and two are prose, one of them in two adjacent chapters. **Chapters 438 and 439 are the model: no counted claim at all in either.**
+
+**11. THE STANDING MISMATCH AT Chapter 373 IS REAL AND UNREPAIRED AND IS NOT OURS.** Claim 190 against a printed 188, re-derived just now, the only mismatch in fifty chapters of Volume 08. Volume 09 did not repeat it: 68 claims, 0 mismatches.
+
+**12. `state/phase-ledger.json` STILL READS `currentPhase: phase-000-bootstrap`. REPORTED, NOT REPAIRED.**
