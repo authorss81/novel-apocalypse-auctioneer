@@ -306,14 +306,25 @@
 | 493 | 44 | twenty-first morning after the count | 2322 | 4 / 0 | 392, 708, 422, 383 | 142 | 1 | 0 |
 | 494 | 45 | twenty-second morning after the count | 2330 | 4 / 0 | 393, 709, 423, 384 | 143 | 1 | 0 |
 | 495 | 46 | twenty-third morning after the count | 2276 | 3 / 0 | 394, 710, 424, 385 | 144 | 1 | 0 |
-| 496 | 47 | twenty-fourth morning after the count | 2301 | 4 / 0 | 395, 711, 425, 386 | 145 | 1 | 0 |
+| 496 | 47 | twenty-fourth morning after the count | 2324 | 4 / 0 | 395, 711, 425, 386 | 145 | 1 | 0 |
 | **497 & 498** | **48** | **twenty-fifth morning after the count, morning and afternoon** | **2301 / 2640** | **4 / 6 · 0** | **396, 712, 426, 387 in 497 and none in 498, by decision** | **146** | **1 / 1** | **0** |
 | 499 | 49 | twenty-sixth morning after the count | 2412 | 4 / 0 | 397, 713, 427, 388 | 147 | 1 | 0 |
 | 500 | 50 | twenty-seventh morning after the count | 2581 | 2 / 0 | 398, 714, 428, 389 | 148 | 1 | 0 |
 
-**TOTALS. FIFTEEN CHAPTERS ON THIRTEEN DAYS. WORDS 35,963, A MEAN OF 2,397.5, A MINIMUM OF 2,240 AT CHAPTER 488, A MAXIMUM OF 2,640 AT CHAPTER 498, ALL FIFTEEN INSIDE THE 2,200 TO 3,200 BAND. FIFTY-NINE COUNTED CLAIMS, ZERO MISMATCHES, ZERO CLASS-TWO, A DENOMINATOR OF 35,752. FIFTEEN FIGURES ON THE SHEET, FIFTEEN DAYS, THE CAP EXACTLY. FIFTEEN OPENINGS IN THE INHERITED SHAPE, ZERO. FIFTEEN CLOSINGS, FIFTEEN DISTINCT. PANELS ZERO, `>` LINES ZERO, RESERVED TERMS ZERO, ALL-CAPS FOOTERS ZERO, INTEGRITY ISSUES ZERO. PARAGRAPH SWEEP ZERO AND SENTENCE SWEEP ZERO, BOTH INSIDE THE FIFTEEN AND ACROSS THE BOUNDARY WITH CHAPTERS 483, 484 AND 485. CHAPTER 501 DOES NOT EXIST AND IS PRINTED AS NOT EXISTING.**
+**TOTALS. FIFTEEN CHAPTERS ON THIRTEEN DAYS. WORDS 35,986, A MEAN OF 2,399.1, A MINIMUM OF 2,240 AT CHAPTER 488, A MAXIMUM OF 2,640 AT CHAPTER 498, ALL FIFTEEN INSIDE THE 2,200 TO 3,200 BAND. FIFTY-NINE COUNTED CLAIMS, ZERO MISMATCHES, ZERO CLASS-TWO, A DENOMINATOR OF 35,775. FIFTEEN FIGURES ON THE SHEET, FIFTEEN DAYS, THE CAP EXACTLY. FIFTEEN OPENINGS IN THE INHERITED SHAPE, ZERO. FIFTEEN CLOSINGS, FIFTEEN DISTINCT. PANELS ZERO, `>` LINES ZERO, RESERVED TERMS ZERO, ALL-CAPS FOOTERS ZERO, INTEGRITY ISSUES ZERO. PARAGRAPH SWEEP ZERO AND SENTENCE SWEEP ZERO, BOTH INSIDE THE FIFTEEN AND ACROSS THE BOUNDARY WITH CHAPTERS 483, 484 AND 485. CHAPTER 501 DOES NOT EXIST AND IS PRINTED AS NOT EXISTING.**
 
 **AND THE SIX PROTECTED RELAYS AT FIFTEEN OF FIFTEEN DAYS EACH: THE RECORD ABOUT THE NOT ASKING SAYS NOT ASKED AT 98, READ THE NUMBER BACK TO HIMSELF IN A LOW VOICE AT 65, AT THE FOOT OF THAT LOW WALL WITH HIS COAT FOLDED ON THE STONES AT 16, WAS NOT ASKED ABOUT THE ELEVEN MILES AT 15, GOT IT UP ABOUT NINE INCHES AT 15, AND BY TEN THERE WERE ABOUT NINETEEN PEOPLE AT 15, WHICH IS 13 CASE-SENSITIVELY BECAUSE TWO CHAPTERS BEGIN A PARAGRAPH WITH IT.**
+
+## Review-fix pass of 2026-09-28 — the two cells above that moved, and why
+
+**TWO PROSE EDITS WERE MADE IN CHAPTERS 495 AND 496 AFTER THE TABLE ABOVE WAS WRITTEN, AND NOTHING ELSE IN ANY OF THE FIFTEEN CHAPTERS MOVED. THE BATCH WAS NOT RESTARTED, NO SCENE, PERSON, DAY, CLOCK TIME OR COUNT MOVED, AND THE PLOT IS UNCHANGED. THE FIFTEEN CHAPTERS ARE THE FIFTEEN CHAPTERS.**
+
+| Ch | what changed | `wc -w` before | `wc -w` after | what did not move |
+|---|---|---|---|---|
+| 495 | **A FIGURE.** The elapsed count for the fifth of the five things this district does not have, at the twenty-third morning after the count, read **twelve** and reads **ten.** The anchor is the thirteenth morning after the count, which Chapter 497 states in its own ledger. | 2276 | 2276 | its day, `c`, its four figures off the wall, its bid at 144, its sheet figure, its claims at 3 and its mismatches at 0 |
+| 496 | **A SENTENCE SHAPE.** Chapters 486 and 496 closed their ledgers with the same fifty-one-word sentence, differing only in where two commas fell. Chapter 496 now carries a clause about what the people near him were busy with, which is on its own page and is the device eight of the other ten of that frame already use. | 2301 | 2324 | its day, `c`, its four figures off the wall, its bid at 145, its sheet figure, its claims at 4 and its mismatches at 0, and both protected runs |
+
+**AND WHAT DID NOT MOVE ANYWHERE IN THE FIFTEEN, MEASURED AFTER BOTH EDITS: the claim column at 3, 3, 4, 5, 4, 3, 6, 4, 4, 3, 4, 4, 6, 4, 2 and fifty-nine in total with zero mismatches; all six protected relays at fifteen of fifteen days each, at 98, 65, 16, 15, 15 and 15; `four hundred and eleven`, `Lot Seventeen`, `the ninth of the nine printed nights` and a form of *was not run* at fifteen on fifteen days; the fifteen openings in the inherited shape at zero and the fifteen closings distinct; the panel count, the `>` line count, the reserved terms, the all-caps footers and the integrity issues all at zero; and the hedge at 981 against 980, a mean of 65.4 against 65.3, still 274 per 10,000 on its own denominator. THE SENTENCE SWEEP IS NOW GENUINELY ZERO AND WAS NOT AT THE TIME THE TOTALS LINE ABOVE WAS WRITTEN, AND THAT IS THE THIRD FALSE MEASUREMENT IN THIS BLOCK'S OWN RECORDS AND IT IS THE ONE THAT TOOK A SENTENCE TO FIX.**
 
 ## The fifteen chapters, one line each
 
