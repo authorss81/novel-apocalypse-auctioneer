@@ -253,3 +253,22 @@
 ## 53. THE THREADS THE NEXT FIFTEEN CHAPTERS MAY NOT TOUCH
 
 **THE TWENTY-ONE ITEMS AT `outline/batches/volume-10-batch-0003.md` SECTION 5 ARE THE CANON CONTRACT AND THIS LIST IS A POINTER TO IT AND NOT A COPY. THE FIVE THAT A WRITER WHO READS ONLY THIS FILE WILL MOST LIKELY BREAK ARE THESE: DO NOT ENTER THE SENTENCE AS A RULE AND DO NOT JOIN ITS TWO REASONS; DO NOT ASK A MAN OF FIFTY-SIX WHICH TWO OF HIS FOUR; DO NOT ANSWER WHETHER THE BOY'S NUMBER IS A FIGURE; DO NOT RULE A COLUMN FOR A SECOND READER; AND DO NOT TURN THE THREE COLUMNS THAT ARE A DAY OUT INTO A FINDING ABOUT A PERSON, WHICH IS THE ITEM CHAPTER 481 OF THIS BLOCK CAME CLOSEST TO BREAKING AND DID NOT.**
+
+## 54. THE THREADS THE REVIEW OF CHAPTERS 471 TO 485 OPENED, AND THE ONES IT CLOSED
+
+**`state/current.md` SECTION 7 HAS THE FINDING IN FULL. THIS IS THE LIST OF THREADS AND NOT THE FINDING.**
+
+### OPENED, AND CARRIED TO THE VOLUME CLOSE
+
+1. **THE STATE LAYER OF THIS REPOSITORY IS DEGENERATING INTO CAPITALS AND THE ESCALATION IS MEASURED.** The batch record, the canon contract, the handoff prompt, this file, `state/current.md` and `state/character-state.md` all sit between roughly forty and eighty per cent uppercase letters, and Volume 10's own three contracts run 46.5, 56.5 and 59.0 per cent against 2.5 to 4 in Volumes 01 and 02. `NOVEL_SPEC.md` already records that this style produced seven verifiably false figures in Volume 04 Batch 0002. **The handoff for Chapters 486 to 500 now carries a plain-prose section 0 for exactly this reason and the next block is told to write its four documents in ordinary sentence case. If Volume 11 opens in capitals the escalation has won and something has to stop it at the volume level, which is not a block's to do.**
+2. **THE VOLUME'S FIXED FINAL CHAPTER IMAGE IS PARTLY SPENT AND NOTHING HAS RESOLVED IT.** `outline/volume-10.md` section 10.5 fixes the close on a thumb in a hollow in a stone, on the hand of the man of fifty-six. Chapter 475 had the man who mends fencing put his own hand into a spoken reason and say out loud that he cannot make it do anything. Twenty-five chapters remain. **This is a plot problem and no block may repair it and no block invented it, and the honest disposition is the one the handoff now states: do not spend it again, let Chapter 475 stand as the reason, and hand the liability to the close by name.**
+3. **THE BLOCK'S OWN VERIFICATION MEASURED AT THE WRONG GRANULARITY, AND THE WRONGNESS IS THE REPOSITORY'S STRUCTURAL WEAKNESS.** A paragraph-level duplication sweep returned zero on a block with thirty-five verbatimly repeated sentences in it. Four different duplications have now been reported in this manuscript and every one of them was invisible to a sweep that was looking in the right place at the wrong size. **A writer's self-review is not independent, and the fix available is not a better self-review; it is running every sweep at more than one size and printing both.**
+4. **THE PROTAGONIST IS AT ZERO ON EVERY PAGE OF FOUR HUNDRED AND EIGHTY-FIVE CHAPTERS.** Already recorded and already carried; named here once more because the review raised it and because `outline/volume-08.md` section 1 gives exactly one route to it and the close is the last place that route exists. **Not this block's to settle and not a batch's to settle.**
+5. **THE FIGURE OF 2,141 SHARED TWELVE-WORD RUNS IN THE BLOCK RECORD COULD NOT BE REPRODUCED BY THE METHOD PRINTED BESIDE IT.** Four tokenisations all return 2,482 or 2,485 at `HEAD`. The block record now prints the reproducible figure under a stated method with its `HEAD` value beside it and marks the old one as not reproducible. **A figure nobody can reproduce is a figure nobody can check, and this repository has a chapter about that and has not applied it to its own instruments.**
+
+### CLOSED BY THE REPAIR
+
+6. **THE ANCHOR TEST DOES NOT RUN** — closed. It runs. Seventeen of twenty columns hold and `Unentered` is the one that is a day out. The three-block run of the wrong finding is over.
+7. **TWO GARBLED DOUBLED CLAUSES IN CHAPTERS 475 AND 480** — closed.
+8. **THIRTY-FIVE VERBATIM SENTENCES IN THE FIFTEEN CHAPTERS AND SIX ACROSS THE BOUNDARY** — closed in the prose and now a standing method rather than an open defect.
+9. **MIXED-CASE LEAKS INSIDE ALL-CAPS RUNS** — closed. One was live, at `state/chapter-summaries.md`, and it is fixed; a rescan of the six live files returns zero.
