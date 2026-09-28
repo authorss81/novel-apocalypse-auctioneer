@@ -42,15 +42,17 @@ The boy of about nineteen came down that bank at about half past nine, which was
 
 Nobody said it was. The clerk of nineteen years entered that a boy of about nineteen put a page face down on a table for the fourth time in this district, and entered that he gave a reason out loud, and entered the reason, and entered no name, and the record about the not asking says not asked.
 
+She said one thing out loud after that, and she said it to the boy and not to the table. She said that a name was said out loud in that yard at about eleven the day before, and that she heard every part of it, and that she wrote one line and put nothing under it. A person who has heard a thing and written nothing of it is in a different position from a person who has heard nothing at all, and she was not going to say which of those two she was. She said the boy could turn his page over whenever he liked and that it would not make her say it out loud.
+
 At about half past twelve the woman of fifty-eight came down that bank with two empty buckets and stopped at the trough, and she filled them. She read the two lines in that lot book standing up on her way back up the bank, and then she said one thing out loud to the man of about thirty-seven who puts tables up, who was the nearest person to her and who had not asked her anything.
 
 She asked him whether the water was different.
 
 He said he had not been in it yesterday and could not say, and she said that was all right and she had not asked him to say, and she carried the two buckets up the two goes. About nine people were within four feet of her and not one of them said a word, and the clerk of nineteen years entered that a woman of fifty-eight asked a man a question about water and that the man said he could not answer it, and entered that the woman said that was all right, and entered no figure.
 
-"It is the third time this month that a person has asked that man a question," said the man of about thirty-four who mends fencing, at about twenty past one, "and the first one was answered, and the second one was refused, and this one was neither of those, and none of the three has gone onto anybody's page."
+"It is the third question about that ditch since the nineteenth of this month," said the man of about thirty-four who mends fencing, at about twenty past one, "and the first one was answered, and the second one was refused, and this one was neither of those, and none of the three has gone onto anybody's page. And they went to two men and the two men are not the same one, and I would like the yard to notice that before it decides the third one counts."
 
-"Yes," said the clerk of nineteen years, "and I would like the yard to notice that the reason the third one went nowhere is that the man who was asked has not been asked about anything else in six weeks, and that asking him a question he cannot answer is not the same as asking him a question, and that about four of us have been treating them as one thing for a month and they are two."
+"Yes," said the clerk of nineteen years, "and I would like the yard to notice that the reason the third one went nowhere is that the man it went to has had a name in the air in this yard since about eleven this morning. A question about water asked of a man in the middle of that is not received as a question about water, and asking a man a question he cannot answer is not the same as asking him a question, and about four of us have been treating them as one thing for a month and they are two."
 
 ---
 
@@ -60,15 +62,15 @@ At about one the man the figure of twenty-one years is against came down that ba
 
 "No."
 
-The man of about nineteen counted what he said and got forty and read it back to himself in a low voice, and two people at that table heard the number come out of his mouth.
+The man of about nineteen had the count ready before the sentence was said, which is the way he has done it all month, and the count came to forty, and he read the number back to himself in a low voice, and two people at that table heard the number come out of his mouth.
 
 "**Nobody asked you for it and nobody is going to and I have wanted to say that out loud in that yard once and I am saying it now, and I am not saying it because of anything said yesterday.**"
 
-He turned round to the man who puts tables up. "You had a name in your mouth for twenty-one days and you gave it to a yard instead of to a person, and I want to know what you are going to do on the last day of this month, and I am asking you because nobody else here is going to and because I would like to be wrong about you."
+He turned round to the man who puts tables up. "You had a name in your mouth for twenty-two days and you gave it to a yard instead of to a person, and I want to know what you are going to do on the last day of this month, and I am asking you because nobody else here is going to and because I would like to be wrong about you."
 
 The man who puts tables up did not answer that for about as long as it takes the man of fifty-six to read four figures.
 
-"I do not know," he said. "I have not known since the fourth day of this month and I have had a fifth thing in my mouth since the sixth and I have not been able to put either of them down, and that is what a man looks like when he has been holding a thing for twenty-one days, and I would rather about nine people there had seen it than not."
+"I do not know," he said. "I have not known since the fourth day of this month and I have had a fifth thing in my mouth since the sixth and I have not been able to put either of them down, and that is what a man looks like when he has been holding a thing for twenty-two days, and I would rather about nine people there had seen it than not."
 
 At about half past one the man of about thirty-seven who cuts reeds was at the top of that bank with the water coming off his coat, and he put the bundle down on the stones and stood at the end of that table for about four seconds. About nine people were within four feet of him and nobody said a word to him, and he was not asked for anything, and the record about the not asking says not asked, and he went up the lane.
 

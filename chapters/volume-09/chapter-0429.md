@@ -20,7 +20,7 @@ Then the man of about thirty-four who mends fencing said one thing from the far 
 
 "**A name is not a reading. Nobody has read that back from the top and it binds nobody. You have said a man's name in a yard on a morning and it is in about nineteen heads and it is on no page and it is not going to be on a page, and I want the yard to hear me say that before anybody starts.**"
 
-"You told me on the fifteenth of this month," said the man who puts tables up, "that by the end of this month somebody's name would be in something, and that it would be because somebody said a sentence out loud twice. I have said nine words out loud four times to four different men in this yard and a fifth time two days ago, and I have never said the rest of them, and you are right. It is in something. It is in the air. That is all that has happened."
+"You told me on the fifteenth of this month," said the man who puts tables up, "that by the end of this month somebody's name would be in something, and that it would be because somebody said a sentence out loud twice. I have said nine words out loud four times to four different men in this yard and a fifth time three days ago, and I have never said the rest of them, and you are right. It is in something. It is in the air. That is all that has happened."
 
 The man of about thirty-four who digs loam was in that ditch to his thigh at that moment and heard all of it, and he did not come up out of the bank, and two people at that table looked down at the water and then looked at each other.
 
@@ -28,7 +28,7 @@ The man of about thirty-four who digs loam was in that ditch to his thigh at tha
 
 The clerk of nineteen years took her page out at about a quarter past eleven and held it in both hands and did not put it on the table. She said what she was going to say to about nine people and not to the yard, and about nine people heard it and the rest were too far off.
 
-"I am going to write down that a name was said out loud in this yard this morning. I am not going to write down what the name was. I have not been told what the name was, and I was standing nine feet from him when he said it and I did not hear a syllable of it, because I was writing, and I am not going to say I did not hear a syllable of it either, because I have been asked about my hearing twice this month by men who were not asking about my hearing."
+"I am going to write down that a name was said out loud in this yard this morning. I am not going to write down what the name was. I heard it. I was standing nine feet from him and I heard every part of it, and I am not going to stand in a yard of nineteen people and say that I did not, because two men have asked me this month whether my hearing is going and I have worked out that neither of the two of them was asking about my hearing."
 
 She put the page down and wrote one line and turned it round so that two people could read it, and then she did not turn it back.
 
@@ -42,13 +42,13 @@ The line said that a name was said out loud in the open. There was nothing under
 
 She looked at him for about as long as it takes the man of fifty-six to read four figures.
 
-"I am not going to tell you what I have not been told, and I am not going to pretend I did not hear a name. I am not going to look at the line and read it back, because the moment a clerk reads a name back in a yard it has been in the yard twice, and you of all men know what happens to a thing in the air the second time."
+"I am not going to tell you what I heard, and I am not going to stand in this yard and tell anybody that I did not hear it, because I did. I am not going to look at the line and read it back, because the moment a clerk reads a name back in a yard it has been in the yard twice, and you of all men know what happens to a thing in the air the second time."
 
 Nobody read it back. Three people at that table said out loud that the reading of that lot stands exactly where it stood. One of them said the other one had said the same thing on the twentieth and the day before, and the other one said that was because it had not moved and not because either of them had said it twice.
 
 ---
 
-At about twelve the boy of about nineteen put his hand on the clerk's page, flat, over the one line, and asked her a question out loud in front of about nineteen people, and the man of about thirty-four who mends fencing answered him in about four seconds.
+At about twelve the boy of about nineteen put his hand on the clerk's page, flat, over the one line, and asked her a question out loud in front of about nineteen people, and the man of about thirty-four who mends fencing answered him in about four seconds, and she did not, and two people at that table said afterwards that they had not known until that moment that a person could be asked a question in that yard and have it taken off them.
 
 "May I put that on my page."
 

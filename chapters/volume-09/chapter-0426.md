@@ -12,7 +12,7 @@ The figure on the sheet at that gatepost is four hundred and eleven and did not 
 
 ---
 
-He got nine words into it, and the ninth word was a name for her. No such name is on a page in this district and no one at that table uses it. Three people heard all nine words, and a man at the near end of that table put his hand on the boards.
+He got nine words into it, and the ninth word was a name for her. No such name is on a page in this district and no one at that table uses it. Three people heard all nine words, and a man at the far end of that table put his hand flat on the boards and left it there.
 
 "Stop there."
 
@@ -86,4 +86,4 @@ A clerk of nineteen years entered that the bid has stood open eighty-four days a
 
 At about half past five the two empty buckets came down that bank and went back up them full, and the woman of fifty-eight read the two lines in that lot book standing up on her way past, said nothing to anybody, and nobody there said one word to her. Two people said good evening to her and she said good evening back, and three people at that table looked at the man of about thirty-seven who puts tables up when she did it. He said out loud that he was not going to say what he thought, and they said that was the third time this week and that they were not going to keep looking.
 
-Then the man of fifty-six read the four figures for the last time that day and got all four of them. The nine words at the east wall at about eleven this morning were nine words, and there are eight of them left unsaid. A woman who has carried water to eleven houses for nineteen years is not a post and is not a reader and is not a second of anything, and nobody there asked her anything today except the one question she was asked on the nineteenth of this month.
+Then the man of fifty-six read the four figures for the last time that day and got all four of them. The nine words at the east wall at about eleven this morning were nine words, and there are eight of them left unsaid. A woman who has carried water to eleven houses for nineteen years is not a post and is not a reader and is not a second of anything, and nobody there asked her anything today, and on the nineteenth of this month she asked a man a question and not one man asked her one, and that is the way it has been for nineteen years.
