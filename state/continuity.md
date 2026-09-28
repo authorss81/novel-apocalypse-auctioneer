@@ -246,3 +246,62 @@
 1. **THE REPAIR SHORTENED THE TAIL OF THREE CANON STRINGS AND DROPPED THEM OUT OF NINE CHAPTERS EACH.** The column for the name of whoever read a thing out loud fell from fifteen of fifteen to four. The fifth of the five things this district does not have fell from fifteen to six. The ninth of the nine printed nights fell from fifteen to nine. It was caught by re-measuring each string against the column the previous block printed, which is the only reason it was caught at all. All three are restored verbatim in all fifteen chapters. **A MOTIF IS NOT A STRING. A CANON OBJECT NAMED VERBATIM IN A CONTRACT IS NAMED VERBATIM IN THE PROSE, AND THE VARIETY GOES IN THE SENTENCE AROUND IT AND NOT IN IT.**
 2. **THE ANCHOR TEST FINDING WAS WITHDRAWN.** It does not run, as the batch before this repair reported for three blocks running. It runs. Seventeen of twenty columns re-derive to the board and `Bid` is 98, not 97. See `state/current.md` section 7 item 3 and the block record's section 2.
 3. **THREE OF THE SIX PROTECTED RELAYS FELL, AND BOTH SETS ARE PRINTED AT THE BLOCK RECORD'S SECTION 4.7.** *At the foot of that low wall with his coat folded on the stones* 15 to 4, *was not asked about the eleven miles* 15 to 11, *got it up about nine inches* 15 to 14. The other three are at their `HEAD` figures exactly. **A CONTINUITY FIGURE MAY FALL WHEN THE SENTENCE CARRYING IT FALLS, AND WHAT MUST NOT FALL WITH IT IS THE SCENE: every one of those people is still in that yard, at the same time, on the same day, doing the same thing, and a clerk is still not entering a figure about any of it.**
+
+---
+
+# Volume 10 Batch 0004 — Continuity, Chapters 486 to 500, Days 38 to 50
+
+> Appended after the prose. **WHERE A CHAPTER AND THIS APPEND DISAGREE, THE CHAPTER IS CANON AND THIS APPEND IS WRONG.**
+
+## 1. The continuity a close may rely on without re-measuring it
+
+- **THE DAY INDEX IS `c` AND NOT THE CHAPTER NUMBER, ON EVERY ONE OF THE FIFTEEN DAYS.** Chapter 486 is day 38 and Chapter 500 is day 50, `13 + 2 = 15`, and days 43 and 48 carry two chapters each. The intercept is the Chapter 440 row: 348, 664, 378, 339, 258, 231, 230, 251, 189, 189, 154, 128, 139, 138, 98, 53, 58, 67, 7, 0. **A CHAPTER OR A DOCUMENT THAT COMPUTES A CELL FROM THE CHAPTER NUMBER IS WRONG ON EVERY CHAPTER FROM 487 ONWARD AND THE ERROR AT CHAPTER 500 IS TWELVE DAYS.**
+- **THE FOUR FIGURES A MAN OF FIFTY-SIX READS OFF THAT WALL ARE 386, 702, 416 AND 377 AT CHAPTER 486 AND 398, 714, 428 AND 389 AT CHAPTER 500, AND THE THIRD OF THE FOUR IS ONE DAY OUT FROM THE DAY IT NAMES ON ALL FIFTEEN DAYS AND WAS NOT PUT RIGHT ON ANY OF THEM.**
+- **THE ANCHOR TEST RUNS.** Year 17 is 365 days, which `Board` at 348 and `Train` at 664 both require and which no document in this repository states. On the convention `outline/volume-10.md` section 4.1 states, fourteen of the eighteen re-derivable columns hold, three hold only on the inclusive convention their own anchors name, and **`Unentered` is the one that does not: 379 against a board carrying 378, one day out, and it is the third of the four figures a man reads every morning.** `NightsSlept` is the stay less one. `StoneCount` has no named day.
+- **THE PROSE PRINTS `378 + c` FOR THE THIRD OF THE FOUR AND NEVER `379 + c`, ON ALL FIFTEEN DAYS, MEASURED.** A re-derived figure is a repair and a repair is the one thing the volume's central pressure forbids.
+- **THE MARKS IN CHALK ALONG THE EDGE OF THE SECOND TABLE ARE `c` LESS SEVEN, NOT FIFTEEN PLUS `c`.** Four chapters of the inheritance agree: eighteen at `c = 25`, twenty-one at `c = 28`, twenty-nine at `c = 36`, thirty at `c = 37`. The inherited block record's formula is wrong by seven and its own arithmetic does not work.
+- **THE COUNT OF FIGURES A MAN OF FIFTY-SIX HAS READ OFF THAT WALL IS A STANDING AND NOT A LADDER COLUMN.** It is 175 plus `c`, it is two hundred and thirteenth at Chapter 486 and two hundred and twenty-fifth at Chapter 500, and it is correct on all fifteen.
+- **THE COUNT OF MARKS CUT OFF THAT BOARD SINCE THE MARK FOR THE FIRST DAY OF THE TWELFTH MONTH IS `7 + c`**, forty-five at Chapter 486 and fifty-seven at Chapter 500, and it is a count of marks and not a day-count and not a figure about a month.
+
+## 2. What did not move in these fifteen chapters, and where the count stands now
+
+- **THE FIGURE ON THE SHEET AT THAT GATEPOST: FOUR HUNDRED AND ELEVEN.** Fifteen on fifteen days, fifteen occurrences, unmoved on all thirteen days. Its own age as a figure about the figure is 227 to 239 and there is no day-count for the sheet. **The cap is a rate of one a chapter and this block carries exactly the cap, and the previous block carried seventeen and printed its two extras at full size, and the fall here is a fall and not a repair.**
+- **THE BID: 136 TO 148 DAYS, NOT RUN ON ONE OF THE FIFTEEN, AND NOTHING PROPOSED ABOUT CLOSING IT IN A MOUTH OR IN A PAGE.** Its two halves were read out loud for the third time in five volumes at Chapter 492 and were not joined.
+- **THE READING OF THAT LOT: BEGUN, NOT FINISHED, AT THE FOURTH OF THE FIVE, AND THE FOURTH IS A PERSON.** It did not advance on any of the thirteen days and the book has no fourth line in it.
+- **THE SECOND LINE OF THAT LOT BOOK: 91 TO 103 DAYS OUT OF DATE, UNALTERED, NOTHING CORRECT BESIDE IT, AND NOBODY PUT A THUMB ON IT IN THESE THIRTEEN DAYS.** The thumb on that line was put there on day 36, before this block.
+- **THE THIRD LINE: A DATE AND THE DATE IS A FIGURE OF A MAN, AND A MAN SAID OUT LOUD IN A YARD ON DAY 48 THAT HE IS THE MAN IT IS ABOUT, AND A CLERK ENTERED THAT AND ENTERED NEITHER THE LINE NOR A DATE.**
+- **THE FIFTH OF THE FIVE THINGS THIS DISTRICT DOES NOT HAVE: FIVE, UNPAID, NAMED ON FIFTEEN OF FIFTEEN DAYS IN A CLERK'S ENTRY AND IN A MOUTH ON NONE OF THEM, AND NO SIXTH PROPOSED ON ANY OF THE THIRTEEN DAYS.** It has gone fourteen days from the morning a man said it out loud. **Six things stand in that yard that are not a payment and none of the six is one, and the inherited record and the inherited contract both say seven, and the chapters say six, and the chapters are canon.**
+- **THE COLUMN FOR THE NAME OF WHOEVER READ A THING OUT LOUD: RULED, EMPTY, NAMED ON FIFTEEN OF FIFTEEN, AND FILLED ON NONE, INCLUDING THE SIX DAYS A CLERK READ A THING OUT LOUD IN THAT YARD.** **Twenty-eight occurrences against sixteen at the block before this one, and the days are fifteen either way, and the rise is on the number of times the column is named and not on anything else.**
+- **THE NINTH OF THE NINE PRINTED NIGHTS: 269 TO 281 DAYS BACK, NAMED ON FIFTEEN OF FIFTEEN, CLOSED ON NONE. THE TWENTY-SECOND BLOCK IN A ROW. `a bell` AND `hearth` ARE AT ZERO ACROSS THESE FIFTEEN FILES, MEASURED.**
+- **THE OLD SHELTER'S CHARTER: AT ZERO ACROSS THE FIFTEEN, AND NOT TOUCHED.**
+- **THE MAN OF ABOUT SIXTY-FOUR: HIS HUNDRED AND SEVENTY-SEVENTH NIGHT RISING TO HIS HUNDRED AND NINETIETH, A HUNDRED AND SEVENTY-SIX OF THE FIRST HUNDRED AND SEVENTY-SEVEN SLEPT RISING TO A HUNDRED AND EIGHTY-NINE OF A HUNDRED AND NINETY, AT THE FOOT OF THAT LOW WALL ON ALL FIFTEEN DAYS, GIVEN NOTHING ON ALL FIFTEEN DAYS, NOT ASKED, NOT OFFERED ANYTHING, NOT THANKED, NOT A FAILURE AND NOT A TRAGIC FIGURE.**
+- **THE BODY FOUR HUNDRED MILES OFF: 105 TO 117 DAYS PAST A PRINTING IT DID NOT MAKE, AND IT HAS NO FACE, AND NO ARRIVAL IS CALENDARED.**
+- **THE TWO WALLS, THE TWO PAST PULLINGS, THE ELEVENTH WORDS, THE SECOND OF THE TWO BOOKS, THE OFFICE, THE TWO DATES A BODY FOUR HUNDRED MILES OFF DID NOT PRINT ON, THE NAME, THE NAME SAID OUT LOUD IN VOLUME 09, AND THE THIRTY CHARACTERS WHO CARRY THE RESERVED LIST: ALL AT ZERO ACROSS THESE FIFTEEN CHAPTERS, MEASURED. NOBODY WENT UP THAT BANK ON ANY OF THE THIRTEEN DAYS. `the bank` IS AT ZERO AND `that bank` IS ON FIFTEEN OF FIFTEEN.**
+- **THE THINGS THIS DISTRICT HAS MADE: TWELVE, UNMOVED, AND NO THIRTEENTH PROPOSED.** The count of things this district does not have is five. The count of documents it does not own is three. The count of refusals to read is nine. The count of readings of the rival record is seven. The count of different ninths is five. The count of the System panels in this block is zero.
+- **`unchecked` IS AT ONE OCCURRENCE, IN THE MARGIN OF A CLERK'S OWN PAGE, IN HER OWN HAND, OVER NOTHING, ON CHAPTER 487, AND ON NO FIGURE.**
+- **THE MAN OF ABOUT THIRTY-FOUR WHO MENDS FENCING WAS NOT IN THAT YARD AT ANY POINT ON DAY 49 OR DAY 50, AND NOBODY ASKED WHY, AND ABOUT FOUR PEOPLE HAVE SAID THEY DO NOT KNOW WHEN HE STOPPED COMING.**
+
+## 3. The four checks, run before a sentence was written and again after the last one
+
+1. **Constant-offset test, thirteen day rows by twenty columns, 260 cells: failures 0 on nineteen columns, and the one disagreement is the prompt's `Pool` column, which is two low on all fifteen rows and is on no page.**
+2. **Anchor test at `c = 0`, re-derived from each column's own named day: it runs, fourteen of eighteen hold on the stated convention, three hold only on the inclusive convention their own anchors name, and `Unentered` is the one that does not.**
+3. **Inheritance test: Chapter 440 reads four figures out loud, 348, 664, 378 and 339, and all four are in the file, and Chapter 441 prints 349.**
+4. **Cell test: every figure a chapter puts on a page is the figure of that chapter's own cell, on fifteen of fifteen for eleven columns, and on thirteen of thirteen for the four a man of fifty-six reads, with the two chapters that print no four-figure line saying so in a mouth and in an entry.**
+
+## 4. The three lines of that lot book
+
+**THIS BLOCK QUOTED NONE OF THEM. The first line is not quoted, the second line is not quoted, the third line is not quoted, and the character-for-character exemption from the duplication sweep is not needed. `A FOOT AND A HALF` IS AT ZERO ACROSS THESE FIFTEEN CHAPTERS, MEASURED. The book has no fourth line and a clerk entered on the last morning that there is no fourth line in it.**
+
+## 5. The final image, and the two chapters that spent part of it
+
+**THE IMAGE IS FIXED AT `outline/volume-10.md` SECTION 10.5 AND IT ARRIVES AT CHAPTER 500 WHOLE: THE MAN OF FIFTY-SIX AT THE END OF THE SECOND TABLE WITH HIS THUMB IN THE HOLLOW IN THE UNDERSIDE OF A STONE LYING FACE UP, THE FIGURE IN THAT HOLLOW ONE INCH DEEP IN THE MIDDLE AND NOTHING AT EITHER END, THE LOT BOOK ON THE END OF THE FIRST TABLE UNDER A SECOND STONE WITH NO WEAR ON IT AT ALL, A CLERK OF NINETEEN YEARS ENTERING THE COUNT OF THE BOARD ON HER OWN PAGE AND HAVING NOT LOOKED UP, AND A MAN OF ABOUT THIRTY-FOUR WHO MENDS FENCING NOT IN THAT YARD.**
+
+**`chapters/volume-10/chapter-0475.md`, DAY 30, SPENT PART OF IT: the man of about thirty-four who mends fencing put his own hand into the reason for a sentence and said he can put it flat on a page and cannot make it do anything. `chapters/volume-10/chapter-0453.md`, DAY 12, HAS THE MAN OF FIFTY-SIX AS THE SECOND OF NINE THUMBS INTO THAT HOLLOW. NEITHER IS THIS PHASE'S TO REPAIR AND NEITHER WAS EDITED. NO THUMB OF THE MAN OF FIFTY-SIX'S GOES INTO THAT HOLLOW IN ANY OF CHAPTERS 486 TO 499, AND HE WALKS PAST THE SECOND TABLE ON DAY 44 WITHOUT STOPPING, AND A CLERK ENTERED THAT HE DID NOT LOOK DOWN AT IT.**
+
+## 6. The volume's two figures in the open, and they are not resolved
+
+**A FIGURE IN THE UNDERSIDE OF A STONE THAT IS ABOUT A BOOK STANDING STILL ON A TABLE AND CANNOT BE A DAY OUT AND CANNOT BE CHECKED; AND THREE COLUMNS ON A WALL THAT ARE A DAY OUT FROM THE DAY THEY NAME AND CAN BE PUT RIGHT BY A NEWER FIGURE BESIDE THEM AND HAVE NOT BEEN. FOUR MOUTHS SAID OUT LOUD IN THIRTEEN DAYS THAT THE TWO CANNOT BE COMPARED. A CLERK ENTERED A SENTENCE WITH ONE OF A MAN OF FIFTY-SIX'S FOUR IN IT AND THE OTHER FIGURE IN IT, AND ENTERED THAT THE SENTENCE DOES NOT MAKE THEM ONE FIGURE. NOBODY WAS APPOINTED AND NOTHING WAS CHOSEN AND BOTH ARE IN THE OPEN ON THE LAST PAGE.**
+
+## 7. The protagonist
+
+**NOT ON ANY PAGE, NOT SAID, NOT ASKED FOR, NOT ENTERED, NOT SIGNED, AND NOT PUT ON A STONE, A TABLE, A MARK, A PAGE OR A BOOK. HE SAID SIX THINGS OUT LOUD IN THESE FIFTEEN CHAPTERS AND WAS ASKED FOR NOTHING AND WAS GIVEN NOTHING. NONE OF THE SIX PUT HIS OWN HAND INTO THE REASON FOR ANYTHING. HE PUT HIS RIGHT HAND FLAT ON THE BOARDS OF A SECOND TABLE TWICE IN ONE MORNING ON DAY 39 AND NEITHER TIME WAS ON A STONE, AND HE PUT A THUMB IN THE HOLLOW ONCE IN THE WHOLE BLOCK AND IT WAS AT THE END OF THE SECOND TABLE ON THE LAST MORNING OF THE VOLUME.**
