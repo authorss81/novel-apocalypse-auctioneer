@@ -22,7 +22,7 @@ The arithmetic went round that yard the ordinary way, in the ordinary voices, an
 
 "That is the first sentence anybody has said in this yard this month that I have not had a way of arguing with," said the man of about thirty-four who mends fencing, from the end of that trestle table, with his left hand in its cloth. "I am not going to argue with it. I am going to ask you a question, and I want you to notice that I have asked you, and that I am not going to say the answer out loud."
 
-The yard did not say the answer out loud. About four people looked at him and four of them looked away, and nobody there filled the gap. The gap went on for about nine seconds.
+The yard did not say the answer out loud. Two people looked at him and two of them looked away, and nobody there filled the gap. The gap went on for about nine seconds.
 
 "There is a reason and none of us is going to get it," said the man of about thirty-seven who puts tables up. "It is the same reason as on the fifth of this month, and the clerk wrote it down as a no about an explanation and not as a no about a figure, and that entry is the only thing in this district that has kept that reason where it is."
 
@@ -34,7 +34,7 @@ At about eleven the man the figure of twenty-one years is against came down to t
 
 "**I have said a month four times in nine days in this yard, and I have said it with a figure beside it twice. I am saying it again this morning because tomorrow it will be a different word. When it is a different word I am going to have to stand in this yard and be a man who let a figure go past on the day it became something else, and there is no rule about that and there is not going to be one.**"
 
-Nobody read it back from the top. About four people said that the number of days a figure has been out of date is not a promise and is not a warning. About four people said that a man who says the same word four times in nine days has made a habit of the word and not of the thing.
+Nobody read it back from the top. One person said that the number of days a figure has been out of date is not a promise and is not a warning. Another said that a man who says the same word four times in nine days has made a habit of the word and not of the thing.
 
 The clerk of nineteen years entered that a man of fifty-six had said out loud in that yard on the eighth of this month that he was not going to make a habit of saying the word with the figures. She entered that he said it again this morning, four times, and she did not enter what that made it.
 
@@ -44,27 +44,27 @@ The clerk of nineteen years entered that a man of fifty-six had said out loud in
 
 "Have you minded," said the man the figure of twenty-one years is against, from nine feet off that table.
 
-The man of fifty-six stopped. He had his hand flat on the boards and he looked at the hand for a moment before he answered. About four people there waited to hear a man say whether a thing he does every morning of his life is a thing he minds.
+The man of fifty-six stopped. He had his hand flat on the boards and he looked at the hand for a moment before he answered. Two people there waited to hear a man say whether a thing he does every morning of his life is a thing he minds.
 
-"I minded the chalk on the eighth of this month," he said. "I do not mind the word. I have had three days to work out the difference and I have not worked it out. I am saying it to you and not to the yard, because you asked me and nobody else did, and I would like about four people who were standing here to have heard it."
+"I minded the chalk on the eighth of this month," he said. "I do not mind the word. I have had three days to work out the difference and I have not worked it out. I am saying it to you and not to the yard, because you asked me and nobody else did, and I would like the people who were standing here to have heard it."
 
-The same clerk entered that a man of fifty-six said that he minded the chalk and did not mind the word. She entered that he had not worked out the difference between the two. She entered that the question was asked by a person and not by the yard, and about four people said that was the correct entry.
+The same clerk entered that a man of fifty-six said that he minded the chalk and did not mind the word. She entered that he had not worked out the difference between the two. She entered that the question was asked by a person and not by the yard, and somebody said that was the correct entry.
 
 ---
 
 At about one the man of about thirty-four who digs loam came up that bank with the water to his thigh and got the four figures at the end of that table and went back down into the water, and that right arm of his stayed below the level of that shoulder, and nobody asked him about it.
 
-At about half past one the boy of about nineteen read the four figures off that wall and got all of them with the word four times. The clerk of nineteen years asked him, out loud and in front of about nine people, whether he would read the twelve as well. He said he would, and he read them going down the margin, and got all twelve, and about four people said the ninth one was where his voice went.
+At about half past one the boy of about nineteen read the four figures off that wall and got all of them with the word four times. The clerk of nineteen years asked him, out loud and in front of about nine people, whether he would read the twelve as well. He said he would, and he read them going down the margin, and got all twelve, and two people said the ninth one was where his voice went.
 
 "Tomorrow," somebody said, from the middle of that yard.
 
-"Tomorrow is a day," the boy said. "I can read tomorrow. That is not the same as being able to read what is on the page on tomorrow, and about four of you have been mixing those two up since the twelfth of this month, and I have been standing here listening to it."
+"Tomorrow is a day," the boy said. "I can read tomorrow. That is not the same as being able to read what is on the page on tomorrow, and the rest of you have been mixing those two up since the twelfth of this month, and I have been standing here listening to it."
 
 At about two the road keeper came up that lane, got the four figures off that wall as he went by, and went on up without stopping at the low wall at all, which he had done on the first. Nobody said anything about that either.
 
 The man of about thirty-seven who cuts reeds was in that ditch all morning. He came up about half past four wet to the chest with his bundle under his arm, and stopped at the end of that table for about four seconds. About nine people were within four feet of him, and nobody said anything to him, and he went up the lane, and the record about the not asking says not asked.
 
-At about half past two the man of about nineteen got his own page out and read the whole of it back to himself from the top, standing at the east wall and not at the table. About four people near him said that he had been doing that every day this month at about the same hour, and that nobody had ever asked him why he did it at the wall and not at the table.
+At about half past two the man of about nineteen got his own page out and read the whole of it back to himself from the top, standing at the east wall and not at the table. Two people near him said that he had been doing that every day this month at about the same hour, and that nobody had ever asked him why he did it at the wall and not at the table.
 
 "You read it at the wall and not at the table," somebody said.
 
@@ -74,11 +74,11 @@ At about half past two the man of about nineteen got his own page out and read t
 
 "I have finished for the day," he said, "and the page is going in my coat, and it is not going in that book, and that is a fact about a coat and not a decision about a book."
 
-At about four the man the figure of twenty-one years is against was at the end of that trestle table with his hand in his coat. He had said the word four times and had a fifth one in him that he did not say. About four people knew that he had it, and the clerk of nineteen years saw him not say it and entered nothing about it.
+At about four the man the figure of twenty-one years is against was at the end of that trestle table with his hand in his coat. He had said the word four times and had a fifth one in him that he did not say. Two people knew that he had it, and the clerk of nineteen years saw him not say it and entered nothing about it.
 
-At about half past four a man who stands at the near end of that trestle table on most days said out loud that he was going to come in first thing in the morning and look at that figure before anybody else was in the yard. About four people said that he had not done that on any morning of his life and had not said he would on any morning of his life. He said he knew, and that he had not done it before because there had not been a day before.
+At about half past four a man who stands at the near end of that trestle table on most days said out loud that he was going to come in first thing in the morning and look at that figure before anybody else was in the yard. Somebody said that he had not done that on any morning of his life and had not said he would on any morning of his life. He said he knew, and that he had not done it before because there had not been a day before.
 
-At about five he came back to that table and said that he was not going to do it. About four of them wanted to know why, and he said it in the ordinary voice, and it went like this.
+At about five he came back to that table and said that he was not going to do it. Two of them wanted to know why, and he said it in the ordinary voice, and it went like this.
 
 "If I go and look at that figure first thing in the morning then I am a man who looks at figures first thing in the morning, and I am not that. If I am that by tomorrow, then in a month there is a man in this district who looks at figures first thing in the morning, and everybody knows it, and nobody asked him to be it. I have watched four things go that way in this yard this month and I am not going to be the fifth."
 

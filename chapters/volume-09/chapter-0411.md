@@ -1,6 +1,6 @@
 # Chapter 411: The Word Back On
 
-The man of fifty-six said the word again on the ninth of this month after a morning without it, and the clerk of nineteen years wrote on her own page that a word a man has skipped once is a word a man can skip, and about four people at that wall said nothing at all.
+The man of fifty-six said the word again on the ninth of this month after a morning without it, and the clerk of nineteen years wrote on her own page that a word a man has skipped once is a word a man can skip, and nobody at that wall said anything at all.
 
 It was the ninth of the eleventh month, the light was flat, and there was no wind in the yard at all. By ten there were about nineteen people in the yard of Lot Seventeen.
 
@@ -26,7 +26,7 @@ Then the clerk of nineteen years said one thing out loud in the ordinary voice, 
 
 Nobody read it back from the top. A thing read back by nobody binds nobody, and about four people said that out loud, and about four of them did not, and a woman who has said it out loud in this yard four times in a fortnight was the fourth to say it this morning.
 
-The clerk of nineteen years put her own page down flat on the boards after that and did not pick it up again for about an hour. About four people came and stood at it and read the twelve words in her hand going down the page. One of them said that he could not read the ninth one from where he was standing. The clerk said that was the ninth one's own fault and not his.
+The clerk of nineteen years put her own page down flat on the boards after that and did not pick it up again for about an hour. Three of them came and stood at it and read the twelve words in her hand going down the page. One of them said that he could not read the ninth one from where he was standing. The clerk said that was the ninth one's own fault and not his.
 
 "A habit is a finding," somebody said at the near end of that trestle table.
 
@@ -36,11 +36,11 @@ The clerk of nineteen years put her own page down flat on the boards after that 
 
 "I am not going to put my name to a word in a margin," the clerk said, "and it is not because I am frightened of it, and I want that said in the same breath, because about four of you have been putting those two things together since the first of this month and they are not the same thing. A name on a figure is a thing that cannot be taken off the figure by the person whose name it is, and a column with a name in it is a different instrument from a word in a margin, and I have been asked this month which of the two I would rather have been right about and I have not answered it and I am not going to answer it today."
 
-Nobody asked her what that meant and about four of them wanted to and did not, and the yard went back to what it was doing.
+Nobody asked her what that meant and two of them wanted to and did not, and the yard went back to what it was doing.
 
 ---
 
-At about half past twelve the man of about nineteen came back from the trough with his own page in his hand and stood beside the man of fifty-six at that wall. About four people watched a boy of about nineteen stand at a wall beside a man of fifty-six, and neither of them said anything for about a minute.
+At about half past twelve the man of about nineteen came back from the trough with his own page in his hand and stood beside the man of fifty-six at that wall. Two people watched a boy of about nineteen stand at a wall beside a man of fifty-six, and neither of them said anything for about a minute.
 
 "You have not read them out loud since this morning," the boy said.
 
@@ -54,7 +54,7 @@ The man of fifty-six put his palm flat on those boards and looked at it.
 
 "You have got a figure on that page a stranger could check, and you have got eleven you could get four times this morning, and you have not said the word out loud once since ten. I am not saying it to be clever. I am saying it because you asked me a question on the seventh of this month and I have not been able to put it down anywhere, and it is sitting on my page under a line, and it is about your mouth and not about the figures."
 
-The man of fifty-six did not answer that. The boy went and did his page. About four people who had heard all of it said afterwards that the boy had asked the man a question and had been told nothing, and the record about the not answering says not answered, and does not say refused.
+The man of fifty-six did not answer that. The boy went and did his page. Two of the people who had heard all of it said afterwards that the boy had asked the man a question and had been told nothing, and the record about the not answering says not answered, and does not say refused.
 
 At about one the man of about thirty-four who mends fencing came the length of that trestle table and put his right hand flat on the boards and his left hand in its cloth where it has been since the eleventh of the June, and read the four figures off the wall over the mender's shoulder and got every one of them.
 
@@ -68,7 +68,7 @@ At that somebody said that the label was the only checkable thing about the twel
 
 "A figure anybody can check is a figure somebody can be wrong about," the man who puts tables up said from the east wall, without coming over. "I have been putting that table up for anybody who will use it for six months and I have never once known what I was putting it up for, and I worked that out about four months ago and I have not told anybody, and the reason I have not told anybody is that the answer is a sentence and a sentence is not a table."
 
-Nobody wrote the answer down, and about four people said afterwards that they would have written it down if they had heard it, and he said he knew that and that was the point of saying it to about four people at the end of a long day.
+Nobody wrote the answer down, and two people said afterwards that they would have written it down if they had heard it, and he said he knew that, and that was the point of saying it to the few people still at the end of a long day.
 
 Nobody wrote either of those down. The clerk of nineteen years had her own page under her arm and did not take it out.
 
@@ -86,17 +86,17 @@ The line under the twelve words on that page was ten days old this afternoon. It
 
 ---
 
-At about half past two a man came up that lane with a hand-cart, did not come into the yard, and stopped at the low wall. About four people at that table looked up when he stopped. It was the man of about twenty-nine who drives a cart, and he read nothing at all, not the boards, not the page, and not the two lines in the book.
+At about half past two a man came up that lane with a hand-cart, did not come into the yard, and stopped at the low wall. Everybody at that table looked up when he stopped. It was the man of about twenty-nine who drives a cart, and he read nothing at all, not the boards, not the page, and not the two lines in the book.
 
 The near wheel was dragging. He got it up about nine inches off the ground with one arm and set it down, and did it again about four seconds later, and got back on the seat.
 
 "He has been at that wall nine times since the middle of the ninth month," somebody said, "and he has never once read anything on any of those nine days."
 
-"He has never once read anything because nobody has ever asked him to read anything," said the man of about thirty-seven who puts tables up, from the east wall. "Those are two different things and about four of you have been counting him as a finding for six weeks."
+"He has never once read anything because nobody has ever asked him to read anything," said the man of about thirty-seven who puts tables up, from the east wall. "Those are two different things and the rest of you have been counting him as a finding for six weeks."
 
-Then he went down that lane and did not come up it again that day, and about four people said good evening as he went past the end of that table, and he said good evening back.
+Then he went down that lane and did not come up it again that day, and two of them said good evening as he went past the end of that table, and he said good evening back.
 
-The man the figure of twenty-one years is against came down to that table at about four and stood nine feet off it, which is the distance he has stood at every day this month, with his right hand in his coat. He looked at the twelve words in the margin and at the one line under them that carried a figure and nothing behind it, and he said nothing out loud, and about four people said that a man standing nine feet off a page in the open is not a reading and is not a finding.
+The man the figure of twenty-one years is against came down to that table at about four and stood nine feet off it, which is the distance he has stood at every day this month, with his right hand in his coat. He looked at the twelve words in the margin and at the one line under them that carried a figure and nothing behind it, and he said nothing out loud, and a voice at the near end of that trestle table said that a man standing nine feet off a page in the open is not a reading and is not a finding.
 
 He came down that bank at about four with one thing in his head, which was the word. He was going to say it out loud with a figure beside it, the way the man of fifty-six said it. By the time he got to the end of that table he had understood that he was not going to say it. A man of fifty-six who has said it four times a morning since the first of this month does not need a man with a bad hand to come and do it also. He did not say that to anybody, and it is the reason he said nothing at all.
 
@@ -110,4 +110,4 @@ A clerk of nineteen years entered that the bid has stood open sixty-nine days an
 
 The two empty buckets came down that bank at about half past five and went back up them full. The woman of fifty-eight read the two lines in that lot book standing up on her way past and said nothing to anybody. Nobody there said one word to her.
 
-The man of fifty-six was the last one at that wall. He put his palm flat on those boards for a while, the way he has for ten mornings. About four people said good evening to each other on their way out. The word in the margin of a clerk's page was still on it under a stone in the dark, and it will be there in the morning.
+The man of fifty-six was the last one at that wall. He put his palm flat on those boards for a while, the way he has for ten mornings. People said good evening to each other on their way out. The word in the margin of a clerk's page was still on it under a stone in the dark, and it will be there in the morning.

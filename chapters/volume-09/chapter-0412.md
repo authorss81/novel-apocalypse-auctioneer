@@ -36,7 +36,7 @@ The man in the coat said that a man four hundred miles off who walked up to that
 
 "This is not a market," the man in the coat said, "and I want that said before either of us says anything else. A market is a place where a person is asked a question. Nobody has been asked a question about that book since it was put on that table and it is not going to be today, and a yard is a room with no roof and that is all a yard is."
 
-At that the man of about nineteen counted what he said and got eighty-one and put it down on his own page under a line. About four people said he had underlined it, and he said he underlined everything that month.
+At that the man of about nineteen counted what he said and got eighty-one and put it down on his own page under a line. Somebody said he had underlined it, and he said he underlined everything that month.
 
 "**I know it is not a market. I have said it is not a market four times in six weeks and it has not stopped being one to anybody, because there is a bid in it that has been open for two months and no one has run, and a man four hundred miles off is not going to be able to tell the difference between a yard where nothing is asked and a place where nothing has been asked yet.**"
 
@@ -46,7 +46,7 @@ At that the man of about nineteen counted what he said and got eighty-one and pu
 
 ---
 
-The man of fifty-six asked the clerk of nineteen years one question at about eleven, which was the second question anybody has asked her in three days, and about four people turned round at the near end of that table to hear it.
+The man of fifty-six asked the clerk of nineteen years one question at about eleven, which was the second question anybody has asked her in three days, and two people at the near end of that table turned round to hear it.
 
 "Is the word on that page the same word as yesterday."
 
@@ -56,9 +56,9 @@ The man of fifty-six asked the clerk of nineteen years one question at about ele
 
 "Somebody said it this morning," the man who puts tables up said, without turning round. "I heard it from the east wall."
 
-Then the woman of about thirty-six who keeps a scale came down that bank with a folded thing under her arm and did not stop at that table. A man at the near end of it said, out loud enough for her to hear, that he had heard she had four houses and was not asking her about them. She stopped and said, "It is a blanket," and went on down the bank. About four people looked at the man who had said it, and nobody said anything to him either.
+Then the woman of about thirty-six who keeps a scale came down that bank with a folded thing under her arm and did not stop at that table. A man at the near end of it said, out loud enough for her to hear, that he had heard she had four houses and was not asking her about them. She stopped and said, "It is a blanket," and went on down the bank. Everybody at that table looked at the man who had said it, and nobody said anything to him either.
 
-The man of about forty-eight who keeps a tally, and has said of himself that he is fifty-one, was at the far end, where the ground is dry, with his flat book under his left arm. Nobody went over to him and he did not come over. About four people noticed that the two of them had been in the same yard on every day of this month and had not once spoken. A clerk entered that as a fact about two people in one yard and not as a finding about either of them.
+The man of about forty-eight who keeps a tally, and has said of himself that he is fifty-one, was at the far end, where the ground is dry, with his flat book under his left arm. Nobody went over to him and he did not come over. Somebody at the near end of that table noticed that the two of them had been in the same yard on every day of this month and had not once spoken. A clerk entered that as a fact about two people in one yard and not as a finding about either of them.
 
 ---
 
@@ -70,11 +70,11 @@ The man of about thirty-seven who puts tables up went round the end of that tres
 
 "I have not been asked, and it is going to keep that way. There is a difference between a man who says a thing about a table leg because he happened to be crouched down and a man who has been asked what a table is worth."
 
-He got up in two movements instead of one and stood with his hand on the corner of the table for a moment afterwards. About four people watched a man of about thirty-seven get up in two movements and said nothing about it. He said he had got up in two movements for about four years and was not going to make a thing of it in a yard.
+He got up in two movements instead of one and stood with his hand on the corner of the table for a moment afterwards. Three people watched the man who puts tables up get up in two movements and said nothing about it. He said he had got up in two movements for about four years and was not going to make a thing of it in a yard.
 
 ---
 
-At about half past twelve the man of about thirty-four who mends fencing came the whole length of that table and put his right hand flat on the boards beside the man in the coat. The two of them stood there for about a minute with their hands about nine inches apart on the same piece of wood, and about four people looked at the two hands and said nothing about them.
+At about half past twelve the man of about thirty-four who mends fencing came the whole length of that table and put his right hand flat on the boards beside the man in the coat. The two of them stood there for about a minute with their hands about nine inches apart on the same piece of wood, and two people at the near end of that table looked at the two hands and said nothing about them.
 
 "Two hands on one table," somebody said.
 
@@ -100,6 +100,6 @@ What went on there for the rest of the afternoon was the same as it goes on ever
 
 A clerk of nineteen years entered that the bid has stood open seventy days and was not run today, and that the two lines in that lot book are the same two lines that were on the face of it on the thirteenth of the tenth month. Neither of them has been altered. The first day of the eighth month is a hundred days past, and nobody has said out loud what the ladder was for. The rule said out loud in that yard on the tenth of the tenth month is thirty days standing, and no bell was pulled today and no night was named. The figure on the second line of that lot book is twenty-five days out of date, was not altered, and has nothing written beside it. There is no second figure. The six households of the man at the far end have not moved for two hundred and two days, and he was not asked for the figure on any day this month. The column for the name of whoever read a thing out loud was empty at about six, and the word unchecked is still in the margin of a clerk's page, and it is still over nothing.
 
-The two empty buckets came down that bank at about half past five and went back up them full. The woman of fifty-eight read those two lines standing up on her way past, and about four people were standing three feet from her at the time. She said nothing to anybody, and nobody there said one word to her.
+The two empty buckets came down that bank at about half past five and went back up them full. The woman of fifty-eight read those two lines standing up on her way past, and three people were within three feet of her at the time. She said nothing to anybody, and nobody there said one word to her.
 
 Then the light went off the face of that book. The stone on it did not move, and it did not get any bigger, and it did not get any smaller. In the morning there will be two lines on that book again, and the same stone, and the same table with four legs.

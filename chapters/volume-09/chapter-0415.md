@@ -1,6 +1,6 @@
 # Chapter 415: Not a Lot Anybody Can Bid On
 
-The man the figure of twenty-one years is against had been standing at the top of that bank since about eight and had not come down to that table. About four people had noticed that he was not doing it and about four of them had not. At about eleven he came down to it anyway and stood nine feet off it.
+The man the figure of twenty-one years is against had been standing at the top of that bank since about eight and had not come down to that table. Three people had noticed that he was not doing it and three of them had not. At about eleven he came down to it anyway and stood nine feet off it.
 
 It was the thirteenth of the eleventh month and about nineteen people were in the yard of Lot Seventeen by ten.
 
@@ -36,13 +36,13 @@ The man of fifty-six had not moved off that wall, and he said the next thing him
 
 "It is not a belief," the man of fifty-six said. "It is a thing I noticed while I was reading four figures for six months and nobody asked me to notice it. I have not read it back to anybody and I am not going to."
 
-"Then say that out loud and let somebody else read it back," somebody said, and about four people at that table said that a thing nobody has read back binds nobody, and the man of fifty-six said that was correct and that he had been counting the days since a rule was said in this yard and not the days anybody had kept it, and that those are two figures and this yard has been printing the first one for six weeks and calling it the second.
+"Then say that out loud and let somebody else read it back," somebody said, and three people at that table said that a thing nobody has read back binds nobody, and the man of fifty-six said that was correct and that he had been counting the days since a rule was said in this yard and not the days anybody had kept it, and that those are two figures and this yard has been printing the first one for six weeks and calling it the second.
 
 "You are not going to read it back because you are frightened somebody will say it is wrong," somebody said.
 
-"I am not going to read it back because a second reader is nobody in particular. If I ask for one in this yard this afternoon then about four of you will pick somebody before I have finished the sentence. That somebody will be a man of about sixty-four, or a boy of about nineteen, or a man with a cloth on his hand, and none of them asked. I have been reading four figures off that wall for six months without any of them and I am not starting today."
+"I am not going to read it back because a second reader is nobody in particular. If I ask for one in this yard this afternoon then half of you will pick somebody before I have finished the sentence. That somebody will be a man of about sixty-four, or a boy of about nineteen, or a man with a cloth on his hand, and none of them asked. I have been reading four figures off that wall for six months without any of them and I am not starting today."
 
-Then about four people at the near end of that table said that if the bid cannot be run then what is the book for. About four of them said that a bid that cannot be run is still a thing a person can read. About four of them said that a book is not a bid and never was. None of those three was an answer to anybody, and all three of them were said in the same four minutes.
+Then three people at the near end of that table said, in three different words, that if the bid cannot be run then what is the book for. One of them said that a bid that cannot be run is still a thing a person can read. Another said that a book is not a bid and never was. None of those three was an answer to anybody, and all three of them were said in the same four minutes.
 
 "The book is not the bid, and anybody who needs it to be is the reason the bid has not been run," said the man of about thirty-seven who puts tables up. "I have been putting that table up for six months for anybody who will use it. A bid needs about four people who want the same thing badly enough to say so out loud in the same morning. This yard has four people who want four different things. One of the four wants a figure nobody can check, and one of the four wants a figure that never goes out of date, and those two men are never going to be in the same morning."
 
@@ -52,7 +52,7 @@ Then about four people at the near end of that table said that if the bid cannot
 
 ---
 
-At about one somebody said the sentence that everybody in that yard had been circling since eleven o'clock. The sentence is that somebody in this district has to go over that book every morning and look at the figures on it. About four other people said the same thing in four other ways inside a minute.
+At about one somebody said the sentence that everybody in that yard had been circling since eleven o'clock. The sentence is that somebody in this district has to go over that book every morning and look at the figures on it. Two other people said the same thing in two other ways inside a minute.
 
 The mender answered it and it took him about four seconds.
 
@@ -86,9 +86,9 @@ At about half past two the man of about thirty-seven who puts tables up came up 
 
 "I have not, and I have not counted them, and that is the first figure I have said in this yard that I cannot put a mark against. I am going to stand here for four minutes and then I am going to take my hands off that table, and nobody is going to thank me for it."
 
-About four people counted the four minutes and about four of them did not. The clerk of nineteen years entered that a man of about thirty-seven put both hands either side of a book and did not touch it, and entered that a figure he said out loud could not be checked by anybody including himself, and did not enter the figure itself, because nobody had asked her to.
+Three people counted the four minutes and three of them did not. The clerk of nineteen years entered that the man of about thirty-seven who puts tables up put both hands either side of a book and did not touch it, and entered that a figure he said out loud could not be checked by anybody including himself, and did not enter the figure itself, because nobody had asked her to.
 
-At about four he went up the bank, and at the step of two stones at the foot of it he put his right hand out of his coat in the cold and it was shaking. About four people were coming down that bank and saw it, and none of them said a word about it, and he put the hand back in before he went up the other side.
+At about four he went up the bank, and at the step of two stones at the foot of it he put his right hand out of his coat in the cold and it was shaking. Two people were coming down that bank and saw it, and neither of them said a word about it, and he put the hand back in before he went up the other side.
 
 ---
 
@@ -96,6 +96,6 @@ The man of about thirty-four who digs loam was in that ditch before nine and cam
 
 A clerk of nineteen years entered that the bid has stood open seventy-three days and was not run today, and that a man said out loud there that a lot with no figure a stranger can read is not a lot anybody can bid on. She entered that nobody read it back from the top, and that the record about the not reading says not read back. The first day of the eighth month is a hundred and three days past. The rule said out loud in that yard on the tenth of the tenth month is thirty-three days standing. The figure on the second line of that lot book is twenty-eight days out of date, was not altered, and nothing was written beside it, and the book was not taken off that table. The word unchecked is in the margin of a clerk's page and is over nothing. The line under those twelve words is fourteen days old and was not checked. Nothing went into the column for the name of whoever read a thing out loud, and it was empty at about six, and the fifth of the five things this district does not have is still not paid.
 
-At about half past five the two empty buckets came down that bank and went back up them full, and the woman of fifty-eight read the two lines in that lot book standing up on her way past. She said nothing to anybody, and nobody there said one word to her, and about four people said good evening to her and about four of them did not.
+At about half past five the two empty buckets came down that bank and went back up them full, and the woman of fifty-eight read the two lines in that lot book standing up on her way past. She said nothing to anybody, and nobody there said one word to her, and two of them said good evening to her and two of them did not.
 
 Nobody standing there could have said what the sentence had changed by half past five. The pressure had a name on it for the first time, and it was still exactly where it had been at ten in the morning.

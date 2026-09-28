@@ -2,9 +2,9 @@
 
 Thirty was said out loud in that yard at about ten past nine in the morning, before anybody had read a figure off a wall, and the man who said it had not come down the bank on purpose to say it.
 
-It was the fifteenth of the eleventh month and about four people had been standing at the end of that trestle table since about eight. By ten there were about nineteen people in the yard of Lot Seventeen.
+It was the fifteenth of the eleventh month and three people had been standing at the end of that trestle table since about eight. By ten there were about nineteen people in the yard of Lot Seventeen.
 
-"A month," the man of about thirty-seven who puts tables up said, to about four people and not to the yard. "That figure has been out of date a month today. None of us said it out loud yesterday, and I have been in this yard since about half past eight waiting for somebody else to say it."
+"A month," the man of about thirty-seven who puts tables up said, to those three and not to the yard. "That figure has been out of date a month today. None of us said it out loud yesterday, and I have been in this yard since about half past eight waiting for somebody else to say it."
 
 The man of fifty-six read the four figures out loud with his hand flat on the boards and got all of them and said the word with them and got the word four times.
 
@@ -16,19 +16,19 @@ A clerk of nineteen years entered that the figure on that gatepost is four hundr
 
 A clerk of nineteen years entered that the figure on the second line of that lot book is thirty days out of date. The count is from the fifteenth of the tenth month, with the day it stopped being true not counted in. It was not altered, and nothing was written beside it. A line which has stopped being true is not a wrong line and is not a mistake anybody made.
 
-"That is the whole of the entry," she said, when about four people came over to read it. "I could put a second figure next to it. I have got the figure. I have had it since the seventh of this month. I am not going to, and I entered that I am not going to. The reason I am not going to is not that the first figure is right, because the first figure is not right. Anybody in this yard can go and look at that ditch and see that it is not right, and it is on the face of a book under a stone where a stranger can walk up and read it this afternoon."
+"That is the whole of the entry," she said, when two people came over to read it. "I could put a second figure next to it. I have got the figure. I have had it since the seventh of this month. I am not going to, and I entered that I am not going to. The reason I am not going to is not that the first figure is right, because the first figure is not right. Anybody in this yard can go and look at that ditch and see that it is not right, and it is on the face of a book under a stone where a stranger can walk up and read it this afternoon."
 
 "It is a month old," somebody said, "and it is on the face of a book a stranger can walk up to, and that is the whole finding."
 
 "It is a month old and it is still on the face of that book, and it is still not corrected, and I entered both of those things this morning in one breath. A month old is a figure about a figure and not a finding about a lot."
 
-"You have entered it in one breath so that neither of them can be read without the other," said the man of about thirty-four who mends fencing, from the end of that trestle table, with his left hand in its cloth. "That is a thing a person can do and it is not a rule. I have watched about four of you in this yard this month do it about four times each. I want to say that I have done it too, that I did it first, and that I am not going to stop."
+"You have entered it in one breath so that neither of them can be read without the other," said the man of about thirty-four who mends fencing, from the end of that trestle table, with his left hand in its cloth. "That is a thing a person can do and it is not a rule. I have watched four of you in this yard this month do it more than once each. I want to say that I have done it too, that I did it first, and that I am not going to stop."
 
-Nobody argued with him about that. About four people said that the mender had done it first, and about four people did not. The clerk of nineteen years entered that a man said out loud that he had done a thing before anybody else there, and that nobody was able to put a day to it. She entered the two figures and did not add them.
+Nobody argued with him about that. Two people said that the mender had done it first, and two people did not. The clerk of nineteen years entered that a man said out loud that he had done a thing before anybody else there, and that nobody was able to put a day to it. She entered the two figures and did not add them.
 
 ---
 
-At about half past ten the boy of about nineteen read the four figures off that wall and got all of them with the word four times. Then he read the twelve off the margin of the clerk's page going down them, and got all twelve. The clerk of nineteen years asked him, in front of about nine people, whether the twelfth figure was the one off a list. He said it was, and she said so out loud. About four people said that a clerk has now said out loud in a yard that one of her own figures cannot be checked. She said yes, on the seventh of this month, and that saying it twice was not a different fact, and that she was not going to pretend it was.
+At about half past ten the boy of about nineteen read the four figures off that wall and got all of them with the word four times. Then he read the twelve off the margin of the clerk's page going down them, and got all twelve. The clerk of nineteen years asked him, in front of about nine people, whether the twelfth figure was the one off a list. He said it was, and she said so out loud. Two people said that a clerk has now said out loud in a yard that one of her own figures cannot be checked. She said yes, on the seventh of this month, and that saying it twice was not a different fact, and that she was not going to pretend it was.
 
 ---
 
@@ -36,11 +36,11 @@ At about eleven the man the figure of twenty-one years is against came down to t
 
 "**That figure is a month old this morning and I put it there, and it came out of a man's mouth on the thirteenth of the tenth month and I wrote it on the page the same afternoon because there was a line to fill and I filled it, and the man it came out of is standing in that ditch nine feet from where I am standing and has not been asked about it and is not going to be.**"
 
-Nobody read it back from the top. About four people looked at the man of about thirty-four who digs loam, who was in that ditch to his thigh at that moment, and about four of them did not. A man who has said a thing out loud in a yard and has not had it read back has not refused anything and cannot be counted either way.
+Nobody read it back from the top. Two people looked at the man of about thirty-four who digs loam, who was in that ditch to his thigh at that moment, and two of them looked at the water instead. A man who has said a thing out loud in a yard and has not had it read back has not refused anything and cannot be counted either way.
 
 "You put it there," the loam man said, without moving, and he said it to the water and not to the man in the coat. "I said a number in a yard and a man wrote it down. I did not give him a number to write down. I have been thinking about that for a month and I have not got a better way of saying it than that one."
 
-"Then say the number," the man of about nineteen said, from eleven feet off, and the man of about thirty-four who digs loam said that the number was in a book nine feet from where the boy was standing and that the boy could read it, and the boy said he could read the two lines and not the day, and about four people standing there said that out loud, and the man the figure of twenty-one years is against said, "That is the first sentence anybody has said in this yard for a month that I have not had to argue with," and the loam man said, "Then argue with it tomorrow, because I am going back in."
+"Then say the number," the man of about nineteen said, from eleven feet off, and the man of about thirty-four who digs loam said that the number was in a book nine feet from where the boy was standing and that the boy could read it. The boy said he could read the two lines and not the day, and two people standing there said that out loud. The man the figure of twenty-one years is against said, "That is the first sentence anybody has said in this yard for a month that I have not had to argue with," and the loam man said, "Then argue with it tomorrow, because I am going back in."
 
 "I have not got one either," the man in the coat said.
 
@@ -48,21 +48,21 @@ The loam man went back to what he was doing and that right arm of his did not go
 
 ---
 
-Then about four people at the near end of that table said the same thing inside a minute, in four different words, and it was that the day the figure stopped being true ought to go on the page beside it.
+Then three people at the near end of that table said the same thing inside a minute, in three different words, and it was that the day the figure stopped being true ought to go on the page beside it.
 
 The mender answered it from the end of that trestle table with his left hand in its cloth and it took him about four seconds.
 
-"No," he said. "And the reason is not that the idea is wrong. If you want to know whether the idea is wrong, ask me again in a week, and I will tell you it is not wrong, and I will tell you why I have said no this morning. The reason I have said no this morning is that the only person in this district who knows that day is a man of about thirty-seven who cuts reeds out of that ditch, and he has not been asked for it, and he was not asked for it when that figure went stale, and nobody in this yard is going to be the one who starts asking him now, because he would not be able to say no to a question he has never been asked and that is not fair and I am not going to be the man who does it."
+"No," he said. "And the reason is not that the idea is wrong. If you want to know whether the idea is wrong, ask me again in a week, and I will tell you it is not wrong, and I will tell you why I have said no this morning. The reason I have said no this morning is that the only person in this district who knows that day is a man of about thirty-seven who cuts reeds out of that ditch, and he has not been asked for it, and he was not asked for it when that figure went stale, and nobody in this yard is going to be the one who starts asking him now. He would not be able to say no to a question he has never been asked. That is not fair, and I am not going to be the man who does it."
 
 "You have just said he would not be able to say no," somebody said.
 
-"I have just said he has never been asked. Those are two different things, and about four of you in this yard know the difference, and the rest of you have about four minutes."
+"I have just said he has never been asked. Those are two different things, and half of you in this yard know the difference, and the rest of you have about four minutes."
 
 Nobody wrote the day down. Nobody wrote anything beside anything. The book was on the end of that trestle table with four legs, under a stone, and the stone had not moved and was not going to.
 
 ---
 
-At about half past eleven the woman of fifty-eight came down that bank with two empty buckets and stopped at the trough. About four people near the trough stopped talking. The man of fifty-six read his four figures again at the wall and got them while she filled them. She did not look at that wall, and about four people said that she has not looked at that wall in nineteen years, and the clerk of nineteen years entered that a figure about a habit is not a figure about a person and entered it anyway, and entered that nobody asked her.
+At about half past eleven the woman of fifty-eight came down that bank with two empty buckets and stopped at the trough. Two people near the trough stopped talking. The man of fifty-six read his four figures again at the wall and got them while she filled them. She did not look at that wall, and two people said that she has not looked at that wall in nineteen years, and the clerk of nineteen years entered that a figure about a habit is not a figure about a person and entered it anyway, and entered that nobody asked her.
 
 Then she carried the two buckets up the two goes and read the two lines in that lot book standing up on her way past. The second of those two lines was a month old that morning, and she had read it that morning and on the morning before, and she said nothing to anybody, and nobody there said one word to her.
 

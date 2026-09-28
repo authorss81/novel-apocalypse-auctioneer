@@ -16,7 +16,7 @@ The first piece was said at about a quarter to ten, to nine people. It is in thr
 
 "There is one way to stop a stranger being misled by that book and I have known it since the twenty-fifth of the tenth month, and it is the ordinary way, and the ordinary way is that the book comes off the table."
 
-Nobody answered that, and the yard went on with what it was doing, and about four people at the near end of that trestle table said afterwards that they had not heard anything.
+Nobody answered that, and the yard went on with what it was doing, and two people at the near end of that trestle table said afterwards that they had not heard anything.
 
 The second piece was said at about ten, louder, and it was heard by about nineteen people.
 
@@ -36,19 +36,19 @@ The man the figure of twenty-one years is against came down that bank at about h
 
 "**There are two things true about that book at the same time and neither of them can be put down, and one of them is that a stranger can walk up to it and read it, and the other one is that the figure on the second line has been out of date for twenty-six days and has nothing written beside it, and a district that has made a thing nobody can walk up to has thrown away the only thing it has made, and a district that leaves a wrong figure on the face of a page in the open has left a wrong figure on the face of a page in the open, and there is no third thing in that sentence and I have looked.**"
 
-Nobody read it back from the top. About four people said that the second of those two things was a figure about a figure and not a figure about a lot. About four people said that the first of them was a reason for having made a book and not a reason for leaving it alone. A man who has said a thing out loud in a yard and has not had it read back has not refused anything and cannot be counted either way, and the record about the not asking says not asked.
+Nobody read it back from the top. One said that the second of those two things was a figure about a figure and not a figure about a lot. Another said that the first of them was a reason for having made a book and not a reason for leaving it alone. A man who has said a thing out loud in a yard and has not had it read back has not refused anything and cannot be counted either way, and the record about the not asking says not asked.
 
-The mender came the whole length of that trestle table to stand at the other end of it from the man in the coat, which is about nine feet. About four people counted the nine feet without counting them. He said what he had come to say in a low voice, and not to the yard.
+The mender came the whole length of that trestle table to stand at the other end of it from the man in the coat, which is about nine feet. Nobody counted the nine feet. He said what he had come to say in a low voice, and not to the yard.
 
 "You have said the first of those two things in this yard before."
 
 "I have said it four times in nine days. That is a habit, and the clerk can tell you what a habit is, and I am not going to stand here and pretend that saying it a fifth time is a finding."
 
-"Then do not say it a fifth time," the mender said, "and I am not asking you to give it up, I am asking you to stop pretending it is new. There is a difference between a man who has run out of things to say and a man who has said the same thing until nobody can hear it any more, and you are the second one, and about four of us noticed it this morning and none of us said anything until you said it yourself."
+"Then do not say it a fifth time," the mender said, "and I am not asking you to give it up, I am asking you to stop pretending it is new. There is a difference between a man who has run out of things to say and a man who has said the same thing until nobody can hear it any more, and you are the second one, and three of us noticed it this morning and none of us said anything until you said it yourself."
 
 "You have been listening to me for six months," the man in the coat said, "and I have been listening to you, and there is not one of the two of us who can read a thing back from the top."
 
-"Nobody can," the mender said, "and that is not the two of us. That is about nineteen of us and it is standing on the fifth of the ninth month and it is going to be standing there on the fifteenth of the twelfth, and neither of us is going to be able to do anything about it, and I have said that out loud now so that the sentence is not said for the first time in the next ten days."
+"Nobody can," the mender said, "and that is not the two of us. That is about nineteen of us and it is standing on the fifth of the ninth month and it is going to be standing there on the fifteenth of the twelfth, and neither of us is going to be able to do anything about it, and I have said that out loud now so that the sentence is not said for the first time a month from now."
 
 Nobody read that back from the top either. About four people said afterwards that it was the fourth thing anybody had said there this month that had not been read back. About four of them said it was the fourth thing that had been said out loud this month at all. The second answer is the one that was right.
 
@@ -68,7 +68,7 @@ At about two the road keeper came up that lane and got the four figures off the 
 
 The clerk of nineteen years had her page out from about two and she was not entering a figure. She was copying the word unchecked from one place on that page to another place on it, twelve times, in her own hand.
 
-About four people asked her why, and she said that a word a clerk writes once is a word a clerk has to be able to find again. A page is a page and not a wall, and a word on a wall is a thing a person can rub out with a sleeve.
+Two people asked her why, and she said that a word a clerk writes once is a word a clerk has to be able to find again. A page is a page and not a wall, and a word on a wall is a thing a person can rub out with a sleeve.
 
 "You could have said that on the first," somebody said.
 
@@ -78,7 +78,7 @@ About four people asked her why, and she said that a word a clerk writes once is
 
 The man of about thirty-seven who puts tables up did not say anything else about it that day. He stayed at the end of that trestle table with his forearm on the boards until about half past three. Then he went back to the east wall with his hand-cart. The tent is still rolled on the back of it, where it has been since the thirtieth of the June. Nobody asked him about it, and he was given nothing.
 
-At about half past three a man of about sixty-four got up off the stones at the foot of that low wall. About four people near him stopped what they were doing. He stood for about four seconds with nothing in his hands, then sat down on the stones again about two feet along. Nobody offered him a hand, nobody said a word about it, and the clerk of nineteen years entered that a man moved his coat two feet and that nobody was asked about it and nobody was given anything.
+At about half past three a man of about sixty-four got up off the stones at the foot of that low wall. Two people near him stopped what they were doing. He stood for about four seconds with nothing in his hands, then sat down on the stones again about two feet along. Nobody offered him a hand, nobody said a word about it, and the clerk of nineteen years entered that a man moved his coat two feet and that nobody was asked about it and nobody was given anything.
 
 "He has done that before," somebody said.
 
@@ -95,4 +95,4 @@ A clerk of nineteen years entered that the bid has stood open seventy-one days a
 
 About half past five the two empty buckets came down that bank and went back up them full, and the woman of fifty-eight went up them with the water in them. She read the two lines in that lot book standing up on her way past and said nothing to anybody, and nobody there said one word to her.
 
-The last thing that happened there was a man of about nineteen writing a figure off a list on his own page for the second time, under a line, with a space after it. Then he read the whole page back to himself. About four people who had watched him do it on the seventh of this month said nothing at all about it this time.
+The last thing that happened there was a man of about nineteen writing a figure off a list on his own page for the second time, under a line, with a space after it. Then he read the whole page back to himself. Nobody who had watched him do it on the seventh of this month said anything about it this time.

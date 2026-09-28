@@ -14,7 +14,7 @@ A clerk of nineteen years entered that the figure on that gatepost is four hundr
 
 The figure on the second line of that lot book is thirty-two days out of date. It is on the face of a book under a stone on the end of a trestle table with four legs, and anybody may walk up to that table and read it. Four people did so between ten and eleven without being asked to and without saying anything.
 
-At about half past ten the man of about thirty-four who mends fencing asked the clerk of nineteen years a question. It was the second question anybody had asked her that week, and about four people at the near end of that table turned round to hear it.
+At about half past ten the man of about thirty-four who mends fencing asked the clerk of nineteen years a question. It was the second question anybody had asked her that week, and two people at the near end of that table turned round to hear it.
 
 "What does a man write when he wants the next man to know the figure was not got off a board."
 
@@ -32,7 +32,7 @@ The man of about thirty-four who digs loam was in that ditch before it was light
 
 "I said it four times yesterday," he said, "and I said it four times the day before, and I have not read a figure off a wall with that word on it for the last two months of my life, and there is no figure in this district that has changed because I said a word with it, and I am not going to pretend that I said it this morning for anybody."
 
-Then he went back down the bank into the water, and that right arm of his did not go above the level of that shoulder at any point in the day. About four people noticed the arm, and nobody said one word about it.
+Then he went back down the bank into the water, and that right arm of his did not go above the level of that shoulder at any point in the day. Two people noticed the arm, and nobody said one word about it.
 
 "You put a figure in that book on the thirteenth of the tenth month and I said the number," somebody said to him, from the middle of the yard.
 
@@ -42,13 +42,13 @@ Then he went back down the bank into the water, and that right arm of his did no
 
 "I have not asked anybody for anything because the first time anybody asked me anything in this yard I got asked about my hands. Four of you were standing there when that happened, and I am not going to do the second one over again for a figure in a book."
 
-He said it to the yard and not to the man who had asked him, and about nine people heard all of it. Nobody said one word. The clerk of nineteen years did not enter it, because she was not asked to enter it and had not been asked to be there. About four people said afterwards that a clerk not being asked is the only thing this district has done properly all month.
+He said it to the yard and not to the man who had asked him, and about nine people heard all of it. Nobody said one word. The clerk of nineteen years did not enter it, because she was not asked to enter it and had not been asked to be there. Somebody said afterwards that a clerk not being asked is the only thing this district has done properly all month.
 
 ---
 
-At about half past eleven the man of about thirty-four who mends fencing read the four figures off that wall out loud with his left hand in its cloth and got every one of them. About four people said that a man who reads four figures with one hand in a cloth is doing a thing that is on no page in this district. He said it was not a job, that nobody was going to give him one, and that he would thank them not to.
+At about half past eleven the man of about thirty-four who mends fencing read the four figures off that wall out loud with his left hand in its cloth and got every one of them. Two people said that a man who reads four figures with one hand in a cloth is doing a thing that is on no page in this district. He said it was not a job, that nobody was going to give him one, and that he would thank them not to.
 
-"You have just read a thing out loud here for the sixth time this month," somebody said. "About four people have said out loud since the first of this month that somebody ought to do it every morning. You are the only person here who could, and you have said no every time, and nobody has asked you to say yes."
+"You have just read a thing out loud here for the sixth time this month," somebody said. "Four people have said out loud since the first of this month that somebody ought to do it every morning. You are the only person here who could, and you have said no every time, and nobody has asked you to say yes."
 
 "I have said no five times," the mender said. "The sixth time I said nothing, and I noticed that I said nothing, and that is a habit and not a refusal. I am telling you about it because I would rather somebody else found it than have me hand it to them."
 
@@ -58,7 +58,7 @@ The road keeper came up that lane at about eleven and again at about four and go
 
 At about two the man of about nineteen wrote the twelve words out in his own hand on his own page, in a column, one under the other, with the figure beside each of them. He did it to see whether he could get the whole of it in one afternoon.
 
-A figure takes him a second. A word takes him about four. He got to the sixth at about twenty past two and the fingers of his right hand began to cramp. He kept the pencil in them for another eleven minutes and got to the eleventh. He did not get the twelfth. About four people at the near end of that trestle table watched a boy of about nineteen hold a pencil in a hand that would not open, and said nothing about it then.
+A figure takes him a second. A word takes him about four. He got to the sixth at about twenty past two and the fingers of his right hand began to cramp. He kept the pencil in them for another eleven minutes and got to the eleventh. He did not get the twelfth. Two people at the near end of that trestle table watched a boy of about nineteen hold a pencil in a hand that would not open, and said nothing about it then.
 
 He put the page down flat on the boards. He put the heel of his left hand on the back of his right and counted to about nine. Then he picked the pencil up again, wrote the twelfth, and read the whole of it back to himself.
 
@@ -66,7 +66,7 @@ He put the page down flat on the boards. He put the heel of his left hand on the
 
 "I did not get the figure beside the twelfth," he said, "and I am not going to say a number out loud this afternoon that I have only just written down, and if you want the number you can have it in a fortnight when I have looked at it twice."
 
-Nobody asked him twice, and about four people said that the boy had just said out loud that he would not be checked on anything for a fortnight, and the clerk of nineteen years entered that a person said out loud that he would not be asked a second time, and entered that nobody asked him a second time.
+Nobody asked him twice, and two people said that the boy had just said out loud that he would not be checked on anything for a fortnight, and the clerk of nineteen years entered that a person said out loud that he would not be asked a second time, and entered that nobody asked him a second time.
 
 "You have got the word on eleven of them and not the twelfth," somebody said.
 
@@ -76,15 +76,15 @@ The clerk of nineteen years entered that a word on a figure is a figure about ho
 
 ---
 
-At about two the mender read the four figures out loud a second time, from the end of that trestle table, with his left hand in its cloth, and got every one of them again. Nobody said anything about the cloth the second time, and about four people said afterwards that the second time a man reads four figures in a yard is the harder one, because the first time is about the figures and the second time is about whether anybody is going to ask him for a third.
+At about two the mender read the four figures out loud a second time, from the end of that trestle table, with his left hand in its cloth, and got every one of them again. Nobody said anything about the cloth the second time, and two people said afterwards that the second time a man reads four figures in a yard is the harder one, because the first time is about the figures and the second time is about whether anybody is going to ask him for a third.
 
-At about three a man came up that lane and went up it. About four people at that table looked up when he passed. It was the man of about twenty-nine who drives a cart, and he did not stop, and he did not read anything, and he went up the lane at the same speed he came down it.
+At about three a man came up that lane and went up it. Two people at that table looked up when he passed. It was the man of about twenty-nine who drives a cart, and he did not stop, and he did not read anything, and he went up the lane at the same speed he came down it.
 
 The near wheel on that cart was dragging, and it had been dragging for about a month. He got it up about nine inches off the ground with one arm and set it down. He did it again about four seconds later, and got back on the seat. About nine people in the yard watched a man lift a wheel with one arm, and not one of them said a word about it. One of them said afterwards that a thing nobody says anything about is not a thing anybody has checked.
 
 The man who puts tables up said that a dragging wheel is the only figure on that lane that is the same every morning, and that it is a figure about a cart and not about a road. He said he has been watching it for about nine visits and has never once written it down, and that if he wrote it down it would be the second figure on that page, and the first one about a thing that is going to get worse.
 
-Then the man of about thirty-four who mends fencing said one thing out loud at the end of that trestle table with his left hand in its cloth. The man of about nineteen counted what he said and got seventy-six, and read it back to himself in a low voice, and about four people heard the count, and one of them said it was the same figure twice in a morning.
+Then the man of about thirty-four who mends fencing said one thing out loud at the end of that trestle table with his left hand in its cloth. The man of about nineteen counted what he said and got seventy-six, and read it back to himself in a low voice, and two people heard the count, and one of them said it was the same figure twice in a morning.
 
 "**A word on a figure is a figure about how that figure was got, and a second word on the same figure would be a figure about how the first word was got, and this district does not have a third word and is not going to get one, and every one of you who has wanted a fifth column this month has wanted a third word without knowing that is what a fifth column is.**"
 
@@ -96,4 +96,4 @@ A clerk of nineteen years entered that the bid has stood open seventy-seven days
 
 At about half past five the two empty buckets came down that bank and went back up them full. The woman of fifty-eight read the two lines in that lot book standing up on her way past, said nothing to anybody, and nobody there said one word to her.
 
-Then the man of fifty-six read the four figures for the last time that day at about half past five and got all four of them, and stood with his palm on those boards afterwards for about as long as it takes to say a number twice, and about four people said good evening to each other on their way out, and the second line of that lot book was on the face of a book in the open all day and is on it now, and it is a month old and has nothing beside it.
+Then the man of fifty-six read the four figures for the last time that day at about half past five and got all four of them, and stood with his palm on those boards afterwards for about as long as it takes to say a number twice, and people said good evening to each other on their way out, and the second line of that lot book was on the face of a book in the open all day and is on it now, and it is a month old and has nothing beside it.
