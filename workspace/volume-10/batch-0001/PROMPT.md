@@ -12,32 +12,32 @@
 
 **VOLUME 10 IS CHAPTERS 441 TO 500: SIXTY CHAPTERS ON FIFTY DAYS. FORTY DAYS CARRY ONE CHAPTER AND TEN DAYS CARRY TWO. `40 x 1 + 10 x 2 = 60`. THIS BLOCK IS CHAPTERS 441 TO 455, WHICH IS DAYS 1 TO 14, AND DAY 3 CARRIES TWO CHAPTERS.**
 
-**THE DAY INDEX IS `c` AND NOT THE CHAPTER NUMBER. EVERY FIGURE IN EVERY ONE OF THESE FIFTEEN CHAPTERS IS `INTERCEPT + c` AND NEVER `INTERCEPT + CHAPTER`. A BLOCK THAT COMPUTES A CELL FROM THE CHAPTER NUMBER IS WRONG FROM 444 ONWARD. THE CHAPTER COLUMN IS PRINTED BESIDE THE DAY COLUMN FOR THAT REASON AND BOTH ARE AUTHORITATIVE.**
+**THE DAY INDEX IS `c` AND NOT THE CHAPTER NUMBER. EVERY FIGURE IN EVERY ONE OF THESE FIFTEEN CHAPTERS IS `INTERCEPT + c` AND NEVER `INTERCEPT + CHAPTER`. A BLOCK THAT COMPUTES A CELL FROM THE CHAPTER NUMBER IS WRONG FROM 444 ONWARD. THE CHAPTER COLUMN IS PRINTED BESIDE THE DAY COLUMN FOR THAT REASON AND BOTH ARE AUTHORITATIVE. THE INTERCEPT IS THE FIGURE `chapters/volume-09/chapter-0440.md` PRINTS, AND CHAPTER 440 READS FOUR OF THEM OUT LOUD — 348, 664, 378 AND 339 — SO A BLOCK CAN CHECK THE WHOLE TABLE AGAINST FOUR FIGURES IN ONE CHAPTER, AND `c = 1` IS THE DAY AFTER CHAPTER 440 AND NOT CHAPTER 440 ITSELF. THE ONE CELL IN THE FIRST VERSION OF THIS TABLE THAT DID NOT ANSWER TO THE RULE WAS `RemovalDay` ON DAY 14, WHICH READ 144 WHERE THE RULE GIVES 142, AND IT IS NOW 142. IF YOU FIND A CELL THAT DISAGREES WITH `INTERCEPT + c`, PRINT BOTH SETS AND DO NOT SILENTLY CORRECT EITHER ONE.**
 
 | Ch | c | Date | Board | Train | Unentered | From2Jan | Pool | NinthNights | SixHouseholds | NoLineOnBoard | RivalRecord | AgeOfFigure | TableMornings | RemovalDay | Stay | NightsSlept | Bid | Line2Stale | RuleSaid | BodyPast | DayCount | StoneCount |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **441** | **1 | twelfth/8 | 350 | 666 | 381 | 341 | 260 | 233 | 232 | 252 | 191 | 191 | 155 | 130 | 141 | 140 | 100 | 55 | 60 | 69 | 8 | 1 |
-| 442 | 2 | twelfth/9 | 351 | 667 | 382 | 342 | 261 | 234 | 233 | 253 | 192 | 192 | 156 | 131 | 142 | 141 | 101 | 56 | 61 | 70 | 9 | 2 |
-| **443 & 444** | **3 | twelfth/10 | 352 | 668 | 383 | 343 | 262 | 235 | 234 | 254 | 193 | 193 | 157 | 132 | 143 | 142 | 102 | 57 | 62 | 71 | 10 | 3 |
-| 445 | 4 | twelfth/11 | 353 | 669 | 384 | 344 | 263 | 236 | 235 | 255 | 194 | 194 | 158 | 133 | 144 | 143 | 103 | 58 | 63 | 72 | 11 | 4 |
-| 446 | 5 | twelfth/12 | 354 | 670 | 385 | 345 | 264 | 237 | 236 | 256 | 195 | 195 | 159 | 134 | 145 | 144 | 104 | 59 | 64 | 73 | 12 | 5 |
-| 447 | 6 | twelfth/13 | 355 | 671 | 386 | 346 | 265 | 238 | 237 | 257 | 196 | 196 | 160 | 135 | 146 | 145 | 105 | 60 | 65 | 74 | 13 | 6 |
-| 448 | 7 | twelfth/14 | 356 | 672 | 387 | 347 | 266 | 239 | 238 | 258 | 197 | 197 | 161 | 136 | 147 | 146 | 106 | 61 | 66 | 75 | 14 | 7 |
-| 449 | 8 | twelfth/15 | 357 | 673 | 388 | 348 | 267 | 240 | 239 | 259 | 198 | 198 | 162 | 137 | 148 | 147 | 107 | 62 | 67 | 76 | 15 | 8 |
-| 450 | 9 | twelfth/16 | 358 | 674 | 389 | 349 | 268 | 241 | 240 | 260 | 199 | 199 | 163 | 138 | 149 | 148 | 108 | 63 | 68 | 77 | 16 | 9 |
-| 451 | 10 | twelfth/17 | 359 | 675 | 390 | 350 | 269 | 242 | 241 | 261 | 200 | 200 | 164 | 139 | 150 | 149 | 109 | 64 | 69 | 78 | 17 | 10 |
-| 452 | 11 | twelfth/18 | 360 | 676 | 391 | 351 | 270 | 243 | 242 | 262 | 201 | 201 | 165 | 140 | 151 | 150 | 110 | 65 | 70 | 79 | 18 | 11 |
-| 453 | 12 | twelfth/19 | 361 | 677 | 392 | 352 | 271 | 244 | 243 | 263 | 202 | 202 | 166 | 141 | 152 | 151 | 111 | 66 | 71 | 80 | 19 | 12 |
-| 454 | 13 | twelfth/20 | 362 | 678 | 393 | 353 | 272 | 245 | 244 | 264 | 203 | 203 | 167 | 142 | 153 | 152 | 112 | 67 | 72 | 81 | 20 | 13 |
-| 455 | 14 | twelfth/21 | 363 | 679 | 394 | 354 | 273 | 246 | 245 | 265 | 204 | 204 | 168 | 144 | 154 | 153 | 113 | 68 | 73 | 82 | 21 | 14 |
+| **441** | **1 | twelfth/8 | 349 | 665 | 379 | 340 | 259 | 232 | 231 | 252 | 190 | 190 | 155 | 129 | 140 | 139 | 99 | 54 | 59 | 68 | 8 | 1 |
+| 442 | 2 | twelfth/9 | 350 | 666 | 380 | 341 | 260 | 233 | 232 | 253 | 191 | 191 | 156 | 130 | 141 | 140 | 100 | 55 | 60 | 69 | 9 | 2 |
+| **443 & 444** | **3 | twelfth/10 | 351 | 667 | 381 | 342 | 261 | 234 | 233 | 254 | 192 | 192 | 157 | 131 | 142 | 141 | 101 | 56 | 61 | 70 | 10 | 3 |
+| 445 | 4 | twelfth/11 | 352 | 668 | 382 | 343 | 262 | 235 | 234 | 255 | 193 | 193 | 158 | 132 | 143 | 142 | 102 | 57 | 62 | 71 | 11 | 4 |
+| 446 | 5 | twelfth/12 | 353 | 669 | 383 | 344 | 263 | 236 | 235 | 256 | 194 | 194 | 159 | 133 | 144 | 143 | 103 | 58 | 63 | 72 | 12 | 5 |
+| 447 | 6 | twelfth/13 | 354 | 670 | 384 | 345 | 264 | 237 | 236 | 257 | 195 | 195 | 160 | 134 | 145 | 144 | 104 | 59 | 64 | 73 | 13 | 6 |
+| 448 | 7 | twelfth/14 | 355 | 671 | 385 | 346 | 265 | 238 | 237 | 258 | 196 | 196 | 161 | 135 | 146 | 145 | 105 | 60 | 65 | 74 | 14 | 7 |
+| 449 | 8 | twelfth/15 | 356 | 672 | 386 | 347 | 266 | 239 | 238 | 259 | 197 | 197 | 162 | 136 | 147 | 146 | 106 | 61 | 66 | 75 | 15 | 8 |
+| 450 | 9 | twelfth/16 | 357 | 673 | 387 | 348 | 267 | 240 | 239 | 260 | 198 | 198 | 163 | 137 | 148 | 147 | 107 | 62 | 67 | 76 | 16 | 9 |
+| 451 | 10 | twelfth/17 | 358 | 674 | 388 | 349 | 268 | 241 | 240 | 261 | 199 | 199 | 164 | 138 | 149 | 148 | 108 | 63 | 68 | 77 | 17 | 10 |
+| 452 | 11 | twelfth/18 | 359 | 675 | 389 | 350 | 269 | 242 | 241 | 262 | 200 | 200 | 165 | 139 | 150 | 149 | 109 | 64 | 69 | 78 | 18 | 11 |
+| 453 | 12 | twelfth/19 | 360 | 676 | 390 | 351 | 270 | 243 | 242 | 263 | 201 | 201 | 166 | 140 | 151 | 150 | 110 | 65 | 70 | 79 | 19 | 12 |
+| 454 | 13 | twelfth/20 | 361 | 677 | 391 | 352 | 271 | 244 | 243 | 264 | 202 | 202 | 167 | 141 | 152 | 151 | 111 | 66 | 71 | 80 | 20 | 13 |
+| 455 | 14 | twelfth/21 | 362 | 678 | 392 | 353 | 272 | 245 | 244 | 265 | 203 | 203 | 168 | 142 | 153 | 152 | 112 | 67 | 72 | 81 | 21 | 14 |
 
 **AND THE DATE COLUMN WAS CHECKED ONE ROW AT A TIME AND NOT BY SUBTRACTING, BECAUSE A TABLE THAT NAMES A WRONG DAY IS THE STANDING FAILURE OF THIS MANUSCRIPT. Day 1 is the eighth of the twelfth month of the eighteenth year, and the fourteenth day of this block is the twenty-first of that month, and the fifteenth day, which is the first day of Batch 0002, is the twenty-second, and a writer who needs the date for a day in the next block takes it from `outline/volume-10.md` section 6.1 and not from a rule.**
 
-**AND THE CONSTANT ROW FOR THESE FOURTEEN DAYS, PRINTED BESIDE THE TABLE SO THAT A WRITER CAN CHECK A CELL: 349, 665, 380, 340, 259, 232, 231, 251, 190, 190, 154, 129, 140, 139, 99, 54, 59, 68, 7, 0. THAT IS THE INTERCEPT, AT `c = 0`. THE ROW OF VALUES AT `c = 1` IS THE INTERCEPT PLUS ONE AND IS NOT THE CONSTANT: 350, 666, 381, 341, 260, 233, 232, 252, 191, 191, 155, 130, 141, 140, 100, 55, 60, 69, 8, 1.**
+**AND THE CONSTANT ROW FOR THESE FOURTEEN DAYS, PRINTED BESIDE THE TABLE SO THAT A WRITER CAN CHECK A CELL: 348, 664, 378, 339, 258, 231, 230, 251, 189, 189, 154, 128, 139, 138, 98, 53, 58, 67, 7, 0. THAT IS THE INTERCEPT, AT `c = 0`, AND `c = 0` IS CHAPTER 440, WHICH IS THE SEVENTH OF THE TWELFTH MONTH AND THE LAST DAY OF VOLUME 09. THE ROW OF VALUES AT `c = 1` IS THE INTERCEPT PLUS ONE AND IS NOT THE CONSTANT: 349, 665, 379, 340, 259, 232, 231, 252, 190, 190, 155, 129, 140, 139, 99, 54, 59, 68, 8, 1.**
 
 ### 1.1 THE THREE FIGURES YOU MAY NOT GET RIGHT BY HABIT, AND WHY
 
-**THREE OF THE EIGHTEEN INHERITED COLUMNS ARE ONE DAY OUT FROM THE DAYS THEY NAME. THEY ARE `Unentered`, `NoLineOnBoard` and `TableMornings`, AND THE FULL FINDING IS AT `outline/volume-10.md` SECTION 4.1. THE COLUMNS IN THE TABLE ABOVE ARE THE RE-DERIVED ONES, WHICH ARE THE ONES THAT MATCH THEIR OWN NAMED DAYS. **A CHAPTER THAT PRINTS THREE HUNDRED AND EIGHTY-ONE OFF THE TABLE IS RIGHT AND A CHAPTER THAT PRINTS THREE HUNDRED AND EIGHTY OFF THE INHERITED FIGURE IS ALSO RIGHT, BECAUSE BOTH HAVE BEEN ON THE PAGE, AND THE VOLUME'S FINDING IS ABOUT THE DIFFERENCE AND THE DIFFERENCE IS NOT REPAIRED AND IS NOT HIDDEN.** YOU MAY USE either in a mouth. You may not print both in the same chapter without saying why, and the reason is a scene, not a sentence.**
+**THREE OF THE EIGHTEEN INHERITED COLUMNS ARE ONE DAY OUT FROM THE DAYS THEY NAME. THEY ARE `Unentered`, `NoLineOnBoard` and `TableMornings`, AND THE FULL FINDING IS AT `outline/volume-10.md` SECTION 4.1. **THE TABLE IN SECTION 1 CARRIES THE FIGURE THE BOARD PRINTED, NOT THE FIGURE RE-DERIVED FROM THE NAMED DAY, AND THAT IS DELIBERATE AND IT IS NOT A TIE: A FIGURE MAY NOT BE CORRECTED, STRUCK, REPLACED, SUPERSEDED OR TAKEN OUT (SECTION 5.4 OF THE OUTLINE), AND A LADDER BUILT ON THE RE-DERIVED FIGURES WOULD HAVE SILENTLY REPAIRED ALL THREE OF THESE COLUMNS ON THE FIRST MORNING OF THIS VOLUME, WHICH IS THE ONE THING THE VOLUME'S CENTRAL PRESSURE FORBIDS. THE DAY-ONE `Unentered` IS THEREFORE 379 AND NOT 380, AND CHAPTER 440 PRINTED 378 THE DAY BEFORE. A CHAPTER THAT PRINTS THREE HUNDRED AND SEVENTY-NINE OFF THE TABLE IS RIGHT, AND A CHAPTER THAT PRINTS THREE HUNDRED AND EIGHTY IS WRONG AND IS A REPAIR.** ONE COLUMN IS FLAGGED AND NOT SETTLED: `NoLineOnBoard` IS RE-DERIVED AT 4.1 ON THE EXCLUSIVE CONVENTION AND SECTION 6 NAMES IT INCLUSIVE, AND ON THE INCLUSIVE CONVENTION 251 IS THE DAY COUNT AND THE BOARD IS RIGHT. THE TABLE CARRIES 252 ON DAY 1 EITHER WAY, AND `outline/volume-10.md` SECTION 4.5 ROW FOUR PRINTS BOTH SETS AND DOES NOT RESOLVE THEM. YOU MAY USE either in a mouth. You may not print both in the same chapter without saying why, and the reason is a scene, not a sentence.**
 
 **AND THE THREE YOU MAY NOT INVENT: THE LENGTH OF THE TWELFTH MONTH IS NOT A FIGURE IN THIS BLOCK AND NO FIGURE IN CHAPTERS 441 TO 455 MAY USE ONE. THE FIGURE THAT WAS ENTERED OFF A LIST FOR IT IN AN EARLIER BLOCK IS NOT PRINTED IN THE OUTLINE AND IS NOT TO BE PRINTED BY YOU. THE COUNT THAT SETTLES IT IS AT CHAPTER 467 AND IS NOT IN THIS BLOCK.**
 
@@ -62,7 +62,7 @@
 
 **EVERY CARD HAS ITS FIFTEEN FIELDS. A CARD THAT DOES NOT SAY WHAT CHANGED IN IT IS A CARD THAT WILL BE WRITTEN AS A TRANSCRIPT. NO CHAPTER MAY CARRY TWO DATES. NO CHAPTER MAY END THE SAME WAY AS THE CHAPTER BEFORE IT.**
 
-**THE FIGURE THE MAN OF FIFTY-SIX READS OFF THAT BOARD EVERY MORNING, IN THIS ORDER, AND THE ORDER IS CANON AND IS NOT CHANGED IN THIS BLOCK: Board, Train, Unentered, From2Jan. On day 1 that is 350, 666, 381, 341. On day 14 it is 363, 679, 394, 354.**
+**THE FIGURE THE MAN OF FIFTY-SIX READS OFF THAT BOARD EVERY MORNING, IN THIS ORDER, AND THE ORDER IS CANON AND IS NOT CHANGED IN THIS BLOCK: Board, Train, Unentered, From2Jan. On day 1 that is 349, 665, 379, 340. On day 14 it is 362, 678, 392, 353. CHAPTER 440, THE DAY BEFORE DAY 1, IS 348, 665, 378, 339, AND EACH FIGURE IS ITS SUCCESSOR AND NOT ITSELF.**
 
 ---
 
@@ -199,10 +199,10 @@ Ending type: earned hook. Next-chapter pull: the fifth of the five is going to b
 
 **Chapter 454. Day 13. The twentieth of the twelfth month.**
 POV: the yard, mid-morning.
-Immediate goal: the bid has been open a hundred and twelve days and has not been run and nobody proposes anything about closing it, and a clerk enters that.
-Resistance: a bid is what a person says out loud about what a lot would be worth for a term and what another person says back, and either an offer stands or it does not, and this bid has been standing for a hundred and twelve days without either of those things happening, and a bid a district runs on its own building is not a bid.
+Immediate goal: the bid has been open a hundred and eleven days and has not been run and nobody proposes anything about closing it, and a clerk enters that.
+Resistance: a bid is what a person says out loud about what a lot would be worth for a term and what another person says back, and either an offer stands or it does not, and this bid has been standing for a hundred and eleven days without either of those things happening, and a bid a district runs on its own building is not a bid.
 Information revealed: **a figure a stranger cannot check is not a figure a bid can be run on, and the third line of the book is a date and the date is a figure of a man, and both of those are true in the same yard.**
-Action: the clerk enters that the bid is open a hundred and thirteen days and was not run, and enters that nobody proposed anything about it, and enters neither as a failure nor as a plan.
+Action: the clerk enters that the bid is open a hundred and twelve days and was not run, and enters that nobody proposed anything about it, and enters neither as a failure nor as a plan.
 Emotional change: a reader sees the oldest open thing in this district get one day older and be entered.
 Continuity: **THE BID IS NOT RUN, NOT CLOSED AND NOT PROPOSED FOR CLOSING IN THIS BLOCK. THE FIGURE ON THE SHEET AT THAT GATEPOST IS FOUR HUNDRED AND ELEVEN AND DOES NOT MOVE.**
 Ending type: cost. Next-chapter pull: the protagonist has not said his reason for being afraid of a day.
@@ -236,9 +236,9 @@ Ending type: decision. Next-chapter pull: Batch 0002 opens on the fifteenth day,
 | **the old shelter's charter** | at **zero** case-sensitively and on **one** day case-insensitively across the inherited fifty files | **NOT CORRECTED, NOT REPLACED, NOT SUPERSEDED, NOT TAKEN OUT. A WRONG COUNT IS NOT STRUCK** |
 | **the two walls a mile apart** | `two walls`, `wall a mile` and `walls a mile` at **zero** across the inherited fifty files | **UNTOUCHED. MAY BE CARRIED AS A QUESTION AND MAY NOT BE CLOSED. **NO CHAPTER OF THIS BLOCK MAY PUT A WALL, A LANE, A RUBBED HEADING, A GATEPOST, A NIGHT OR A LOOKING IN FRONT OF IT AS A DEVICE** |
 | **the two past pullings** | Neither is pulled; `a bell` at **zero** across the inherited fifty files | **NOT PULLED, NOT READ, AND NO NIGHT IS NAMED. A STONE IS NOT A CLAPPER AND A TABLE IS NOT AN OAK FRAME** |
-| **the ninth of the nine printed nights** | **22 chapters and 25 occurrences** case-insensitively, **3 chapters** case-sensitively | **OPEN AT TWO HUNDRED AND EIGHTY-TWO DAYS BACK AT CHAPTER 441 AND NOT CLOSED. THAT IS THE SEVENTEENTH BLOCK IN A ROW. NO PLANK, NO BOOK, NO FIGURE, NO BELL AND NO STONE STANDS IN FOR A PLANK** |
-| **the figure on the sheet at that gatepost** | **51 occurrences in 50 of 50 inherited chapters case-sensitively, 50 case-insensitively** | **FOUR HUNDRED AND ELEVEN AND IT DOES NOT MOVE ON ANY DAY OF THIS BLOCK. The cap is inherited as a RATE, one per chapter every chapter, and the figure is not said less often to stay inside it. Its own age as a figure about the figure is 191 days at Chapter 441 and 204 days at Chapter 455** |
-| **the bid** | a form of *was not run* on **50 of 50 inherited chapters** | **OPEN. 100 DAYS AT CHAPTER 441 AND 113 DAYS AT CHAPTER 455. NOT RUN, NOT CLOSED, NOT PROPOSED FOR CLOSING** |
+| **the ninth of the nine printed nights** | **22 chapters and 25 occurrences**, case-insensitively, and that is the count of the thing. A case-sensitive search on the same literal string gives 396, 406 and 436 only, which are a **subset** of the twenty-two and not a second population: on the other nineteen days the phrase opens its sentence. There is no capitalised variant of the thing | **OPEN AT TWO HUNDRED AND EIGHTY-ONE DAYS BACK AT CHAPTER 441 AND TWO HUNDRED AND THIRTY AT CHAPTER 440, AND NOT CLOSED. THAT IS THE SEVENTEENTH BLOCK IN A ROW. NO PLANK, NO BOOK, NO FIGURE, NO BELL AND NO STONE STANDS IN FOR A PLANK. DO NOT REPORT THREE CHAPTERS AS A DAY-LIST** |
+| **the figure on the sheet at that gatepost** | **51 occurrences in 50 of 50 inherited chapters on BOTH conventions — the same figure on each — one chapter carrying it twice** | **FOUR HUNDRED AND ELEVEN AND IT DOES NOT MOVE ON ANY DAY OF THIS BLOCK. The cap is inherited as a RATE, one per chapter every chapter, and the figure is not said less often to stay inside it. Its own age as a figure about the figure is 190 days at Chapter 441 and 203 days at Chapter 455** |
+| **the bid** | a form of *was not run* on **50 of 50 inherited chapters** | **OPEN. 99 DAYS AT CHAPTER 441 AND 112 DAYS AT CHAPTER 455, WHICH IS 98 AT CHAPTER 440 PLUS THE DAY. NOT RUN, NOT CLOSED, NOT PROPOSED FOR CLOSING** |
 | **the term on that reading** | the anchor does not add up to the page | **NOT COUNTED AS A DATE ON ANY DAY OF THIS BLOCK** |
 | **the body four hundred miles off** | `four hundred miles` on **9 of 50 inherited chapters and 20 occurrences**; one hundred and seventeen days past at the end of Volume 09 | **OPEN AND IT HAS NO FACE. NOBODY WATCHES ANYTHING. NO CHAPTER MAY GIVE IT A FACE, A NAME, AN ARRIVAL OR A WAITING** |
 | **the man of about sixty-four** | nothing in his hands on **31 of 50 inherited chapters and 42 occurrences** | **GIVEN NOTHING. Not sent on another nine days, not asked to sit in the second chair, not offered the third line, not offered the stone, not offered a day, not thanked. A clerk is not going to say what he is going to do with his hands because nobody asked her** |
