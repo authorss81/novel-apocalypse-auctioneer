@@ -906,3 +906,70 @@ Untouched, in all one hundred and eighty chapters and to be left untouched: **th
 ## 8. THE CONTROLLER ITEMS, RESTATED, NONE OF THEM REPAIRED, NONE OF THEM A WRITER'S
 
 `state/phase-ledger.json` still reads `currentPhase: phase-000-bootstrap`. `tools/__pycache__/measure.cpython-312.pyc` is still tracked and was modified by the outline phase's own save commit, which is the phase breaking its own rule about writing artifacts and not a compiled file. The `novel-reviewer` subagent still does not dispatch, so this review is a self-review and the findings above are a writer measuring its own work. `outline/volume-04.md` has still never existed. **AND THE ALL-CAPS SHARE OF THE OUTLINE SERIES IS 43.4 PER CENT IN VOLUME 10 AGAINST 40.4 IN VOLUME 09 AND 35.5 IN VOLUME 08, WHICH IS AN INHERITED STYLE AND A ONE-DIRECTIONAL TREND AND IS NOT A FINDING THIS PASS ACTS ON, BECAUSE UNCAPSING A HUNDRED AND EIGHTY-FIVE KILOBYTES IS NOT A REPAIR AND IS NOT A REVERSAL OF THE DECISIONS IN IT.**
+
+---
+
+# VOLUME 10, BATCH 0001 — CHAPTERS 441 TO 455, DAYS 1 TO 14, APPENDED BY THE BATCH PHASE
+
+**APPENDED TO THE END OF THIS FILE. NOT A WORD ABOVE THIS SECTION WAS REWRITTEN. FIFTEEN CHAPTERS, FOURTEEN DAYS, THE EIGHTH OF THE TWELFTH MONTH TO THE TWENTY-FIRST OF THE TWELFTH MONTH OF THE EIGHTEENTH YEAR. `c` IS THE DAY INDEX AND `c = 0` IS CHAPTER 440, THE LAST DAY OF VOLUME 09. `40 x 1 + 10 x 2 = 60` ACROSS THE VOLUME, AND DAY 3 CARRIES CHAPTERS 443 AND 444.**
+
+## 1. THE BLOCK'S HEADLINE, IN ONE SENTENCE
+
+**THE VOLUME OPENS ON A DEBT AND ON A STONE, AND THE PROTAGONIST SAYS OUT LOUD ON THE FOURTEENTH MORNING THAT HE IS AFRAID OF A DAY, AND THE MAN OF FIFTY-SIX WHO READS FOUR FIGURES OFF THAT WALL EVERY MORNING IS NOT TOLD ANYTHING.**
+
+## 2. THE FOUR FIGURES A MAN OF FIFTY-SIX READS OFF THAT BOARD, ON EVERY ONE OF THE FIFTEEN DAYS, IN ORDER, AND THE ORDER IS CANON
+
+| Ch | c | Board | Train | Unentered | From2Jan |
+|---|---|---|---|---|---|
+| 441 | 1 | 349 | 665 | **379** | 340 |
+| 442 | 2 | 350 | 666 | 380 | 341 |
+| **443 & 444** | **3** | **351** | **667** | **381** | **342** |
+| 445 | 4 | 352 | 668 | 382 | 343 |
+| 446 | 5 | 353 | 669 | 383 | 344 |
+| 447 | 6 | 354 | 670 | 384 | 345 |
+| 448 | 7 | 355 | 671 | 385 | 346 |
+| 449 | 8 | 356 | 672 | 386 | 347 |
+| 450 | 9 | 357 | 673 | 387 | 348 |
+| 451 | 10 | 358 | 674 | 388 | 349 |
+| 452 | 11 | 359 | 675 | 389 | 350 |
+| 453 | 12 | 360 | 676 | 390 | 351 |
+| 454 | 13 | 361 | 677 | 391 | 352 |
+| 455 | 14 | 362 | 678 | 392 | 353 |
+| **the intercept, `c = 0`, which is what Chapter 440 printed** | | **348** | **664** | **378** | **339** |
+
+**CHAPTER 440 READS THOSE FOUR OUT LOUD AND THIS BLOCK'S CHAPTER 441 CELL IS THE SUCCESSOR OF EACH OF THEM AND NOT THE FIGURE ITSELF. `Unentered` IS 379 ON DAY 1 AND NOT 380. THAT IS THE FIGURE THE BOARD CARRIES AND THE BOARD WINS.**
+
+## 3. THE FIGURES THIS BLOCK PUT ON A PAGE, EVERY ONE AGAINST ITS OWN CHAPTER'S CELL
+
+**BID: 99 AT CHAPTER 441 TO 112 AT CHAPTER 455, NOT RUN ON ONE OF THE FIFTEEN, NOTHING PROPOSED ABOUT CLOSING IT. THE FIGURE ON THE SECOND LINE OF THAT LOT BOOK: 54 DAYS OUT OF DATE AT CHAPTER 441 TO 67 AT CHAPTER 455, NOT ALTERED, NOTHING CORRECT BESIDE IT, A DATE UNDER IT. THE RULE SAID OUT LOUD ON THE TENTH OF THE TENTH: 59 TO 72. THE FIRST DAY OF THE EIGHTH MONTH: 129 TO 142. THE NINTH OF THE NINE PRINTED NIGHTS: 232 DAYS BACK TO 245, NAMED ON ALL FIFTEEN DAYS AND CLOSED ON NONE. A BODY FOUR HUNDRED MILES OFF: 68 DAYS PAST A PRINTING IT DID NOT MAKE TO 81, AND IT HAS NO FACE. THE MAN OF ABOUT SIXTY-FOUR: HIS HUNDRED AND FORTIETH NIGHT TO HIS HUNDRED AND FIFTY-THIRD, A HUNDRED AND THIRTY-NINE OF THE FIRST HUNDRED AND FORTY NIGHTS SLEPT TO A HUNDRED AND FIFTY-TWO OF A HUNDRED AND FIFTY-THREE, GIVEN NOTHING. THE FIGURE ON THE SHEET AT THAT GATEPOST: FOUR HUNDRED AND ELEVEN, FIFTEEN OCCURRENCES ON FIFTEEN DAYS, NOT MOVED, ITS OWN AGE AS A FIGURE ABOUT THE FIGURE 190 TO 203. THE COUNT OF MARKS OFF THAT BOARD SINCE THE MARK FOR THE FIRST DAY OF THE TWELFTH MONTH: 8 TO 21, ENTERED FIFTEEN TIMES AS A FIGURE ABOUT A COUNT OF MARKS AND NOT AS A FIGURE ABOUT A MONTH. THE COUNT OF THINGS THIS DISTRICT HAS MADE: ELEVEN, MOVED TO TWELVE ON DAY 9 AT CHAPTER 450 WITH A SCENE AND A REASON AND BOTH IN ONE ENTRY.**
+
+**AND THE FIGURES THIS BLOCK DELIBERATELY DID NOT PUT ON A PAGE: `SixHouseholds`, WHICH IS NOT ON A PAGE ANYWHERE IN THIS VOLUME, AND `NoLineOnBoard`, AND `TableMornings`, AND `RivalRecord`, AND `Pool`, AND `RemovalDay` AS A STANDING ENTRY, AND `StoneCount` OFF THE LADDER. A CLERK MAY USE EITHER CONVENTION FOR `NoLineOnBoard` IN A MOUTH, MAY NOT PRINT BOTH IN ONE CHAPTER WITHOUT SAYING WHY, AND THIS BLOCK PRINTS NEITHER.**
+
+## 4. WHAT IS NOW TRUE OF THE PEOPLE IN THAT YARD, AND WAS NOT TRUE BEFORE CHAPTER 441
+
+- **The man of about thirty-four who mends fencing IS THE PROTAGONIST AND THE BLOCK SAYS SO ONCE, IN CHAPTER 455, IN HIS OWN WORDS, IN A MOUTH, IN FRONT OF ABOUT NINETEEN PEOPLE.** He turned a stone over with his right hand on day 1, and the left hand came out of its cloth for the turn and did not close and went back into the cloth on day 2, and on day 14 he said out loud that he is afraid of a day, and that every figure in this district is a multiple of a day, and that he put the first figure of his into a book a stranger may walk up to and read, and that a figure in such a book is a figure he has to keep, and that there is no way to stop keeping it. He was not asked for it a second time, nobody agreed with him, and nobody asked him for his name.
+- **The clerk of nineteen years walked a column of that wall twice on day 10 with her hands behind her back and wrote nothing down, and the reader is told what she found and nobody in that yard is told.** She said out loud that she had found something and that she was not going to say what it was in that yard. She may not enter a result of it and did not.
+- **The man of about thirty-four who digs loam said the fifteenth of the tenth month out loud on day 4, and that date was already printed under a figure in a public book, and the date is his day.** The third line was not altered and no fourth line exists.
+- **The man of about thirty-seven who puts tables up put a second table up on day 7 in about eleven minutes, unasked, and said out loud beforehand that nobody had asked him and that he was not going to be thanked, and nobody thanked him.** The count of instruments moved on day 9 because of what he did for his trade.
+- **The man of about thirty-seven who cuts reeds gave a figure out loud on day 3 on a day he was not asked for, and cannot be paid for it, and began keeping a count of marks in chalk on the second table on day 8, one a morning, and cannot be paid for that either.** A clerk entered on day 12 that a mark in chalk is not a toll and is not a rate and is not a price and is not a wage and is not a way to pay a person who is not in a household.
+- **The woman of fifty-eight has read the three lines in that lot book standing up every working day since the day the book came out, and it takes her about half a second longer on the third line than on the first two, and a clerk asked her once in two months whether she would like the reading entered and she said no, and nobody has asked her since and nobody will.**
+- **The boy of about nineteen ruled a second column on a sheet of his own on day 5, a day in the left half and a page in the right half, and a clerk did not rule it and did not refuse it and is not entering it as a fifth column of not-askings and is not entering it as the column for the name of whoever read a thing out loud.** On day 14 he put the count of what a man said down in the margin of that sheet, outside both columns, and did not read it back to himself, which is the first time in fourteen days that he has not done that with a number he counted.
+- **The man of about fifty-six read four figures off that wall on all fifteen days and got all four on all fifteen days, and on day 14 he had got that figure right for a hundred and eighty-ninth morning running, and he does not know anything.**
+- **The man of about forty-eight who keeps a tally stood at the east end of that yard for about four hours a day with a flat book under his left arm and nobody walked over to him and nobody asked him for a figure that came off a ladder, and the ladder figure is not on a page anywhere in this volume.**
+- **About nine people put a thumb in the hollow in the underside of the stone on day 12, one after another, and not one of them said a word about how deep it is, and the child of about eight was not one of the nine.**
+
+## 5. THE DEBT, TWENTY-ONE DAYS OLD AT THE END OF THIS BLOCK AND NOT PAID
+
+**THE LENGTH OF THE TWELFTH MONTH IS NOT A FIGURE THIS CANON HAS. IT WAS NAMED IN A YARD IN CHAPTER 441, ON DAY 1, BY A BOY OF ABOUT NINETEEN AND CONFIRMED OUT LOUD BY A MAN OF FIFTY-SIX WHO READS FIGURES OFF A BOARD EVERY MORNING, AND A CLERK ENTERED FOR THE THIRD TIME IN FIVE VOLUMES THAT A FIGURE SOMEBODY ENTERED BECAUSE THEY HAD TO ENTER ONE IS NOT A PROMISE ABOUT A LATER DAY, AND SAID OUT LOUD THAT THE SECOND TIME WAS A HABIT AND A HABIT IS A FINDING. NO FIGURE IN CHAPTERS 441 TO 455 USES A LENGTH FOR ANY MONTH, AND THE BLOCK'S OWN ANCHOR TEST USES THE FIRST TO THE ELEVENTH OF THE MONTH LENGTHS AND NOT THE TWELFTH, AND EVERY FIGURE ON EVERY PAGE OF THESE FIFTEEN CHAPTERS RE-DERIVES WITHOUT IT. THE COUNT IS MADE AT CHAPTER 467, WHICH IS DAY 23, WHICH IS NOT IN THIS BLOCK. ON DAY 14 THE CLERK ENTERED THAT THE SENTENCE SHE WROTE ON DAY 1 IS THE THIRD TIME SHE HAS WRITTEN IT IN FIVE VOLUMES, AND THAT THERE IS STILL NO FIGURE FOR HOW LONG THIS MONTH IS.**
+
+## 6. THE THREE THINGS THAT ARE REPORTED AND NOT REPAIRED, WHICH A WRITER MAY NAME ONCE EACH
+
+`state/phase-ledger.json` still reads `currentPhase: phase-000-bootstrap`, status `planned`, attempts `0`. `tools/__pycache__/measure.cpython-312.pyc` is still tracked in git. The `novel-reviewer` subagent still does not dispatch, and `reviews/volume-10-batch-0001-review.md` is a self-review. **NONE OF THE THREE IS A WRITER'S AND NONE WAS TOUCHED.**
+
+## 7. THE FIGURE OF THE RESERVED LIST, MEASURED OVER THE FIFTEEN FILES, AND THE SCOPE OF EACH
+
+**THE RESERVED SCAN RETURNS AN EMPTY DICTIONARY. FOUR HUNDRED AND ELEVEN: FIFTEEN ON FIFTEEN DAYS. `Lot Seventeen`: FIFTEEN ON FIFTEEN, ONCE EACH. A FORM OF *WAS NOT RUN*: FIFTEEN ON FIFTEEN. THE COLUMN FOR THE NAME OF WHOEVER READ A THING OUT LOUD: RULED, EMPTY AT ABOUT SIX ON FOURTEEN OF THE FIFTEEN, AND NOTHING WENT INTO IT ON ANY OF THEM. THE FIFTH OF THE FIVE THINGS THIS DISTRICT DOES NOT HAVE: FIFTEEN ON FIFTEEN AND NOT PAID AND NO SIXTH PROPOSED. THE NAME SAID OUT LOUD IN THE YARD ON THE TWENTY-SEVENTH OF THE ELEVENTH MONTH OF VOLUME 09: NOT IDENTIFIED AND NOT ASKED FOR. THE NINTH OF THE NINE PRINTED NIGHTS: FIFTEEN ON FIFTEEN AND NOT CLOSED. THE PROTAGONIST'S NAME: NOT ON A PAGE. `a bell`, `hearth`, `the office`, `two walls`, `wall a mile`, `a child`, `a market`, `noon`, `midnight`, `auction`, `bidder`, `panel`, `metric`, `guarantor`: ZERO ON ALL FIFTEEN. PANELS: ZERO.**
+
+## 8. THE NEXT FIFTEEN CHAPTERS OPEN ON DAY 15, WHICH IS THE TWENTY-SECOND OF THE TWELFTH MONTH
+
+**THE DEBT NAMED AT CHAPTER 441 IS TWENTY-ONE DAYS OLD AND IS NOT PAID. THE THREE COLUMNS THAT ARE A DAY OUT ARE NOT YET WORKED OUT IN THE OPEN. THE FIGURE THE PROTAGONIST IS AFRAID OF HAS BEEN SAID ONCE IN A YARD AND HE HAS NOT BEEN ASKED FOR IT AGAIN. THE STONE IS FACE UP ON A SECOND TABLE WITH NO WEAR AND A SECOND STONE WITH NO WEAR ON IT IS ON THE CORNER OF THE BOOK, AND NINE THUMBS WENT INTO IT ON DAY 12 AND NONE WENT IN ON DAY 13, AND THE CHALK COUNT ON THE EDGE OF THAT TABLE IS A MAN'S AND NOT A FIGURE. `workspace/volume-10/batch-0002/PROMPT.md` IS CHAPTERS 456 TO 470, DAYS 15 TO 25, FIFTEEN CHAPTERS ON ELEVEN DAYS, AND DAYS 19, 22 AND 25 EACH CARRY TWO OF THEM.**
