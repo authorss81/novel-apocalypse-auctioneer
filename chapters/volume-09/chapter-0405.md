@@ -4,7 +4,7 @@ About four people asked the same question at the near end of that trestle table 
 
 It was the third of the eleventh month. The ground had gone soft at the south end of that yard and dry under the boards. By ten there were about nineteen people in the yard of Lot Seventeen.
 
-The man of fifty-six read the four figures out loud over the mender's shoulder and got all four, and said the word four times with them, and got the word four times.
+The man of fifty-six read the four figures out loud over the mender's shoulder and got all of them, and said the word four times with them, and got the word four times.
 
 "**The board carries three hundred and thirteen, the train on that siding has stood six hundred and twenty-nine days, nobody has entered anything for three hundred and forty-three, and three hundred and four days separate the second of January and this morning.**"
 
@@ -20,11 +20,11 @@ That was the first one, from a man who had not asked it to anybody in particular
 
 "That is not a reason for a word," somebody said. "That is a reason for a column."
 
-"It is a reason for a word and it is not a reason for a column, and the two of those are about four seconds apart and everybody in this yard can hear the gap between them."
+"It is a reason for a word and it is not a reason for a column, and the two of those are a breath apart and everybody in this yard can hear the gap between them."
 
 At about eleven the second man asked the same question and got the same answer in the same words, and two people who had been standing at the far end of that yard for ten minutes said out loud that they could tell from about nine feet off that it was the same answer, and the man of fifty-six said that was the point of it.
 
-At about a quarter past eleven the third man asked it, and the man of fifty-six got about eleven words into the answer and stopped, and put his hand flat on the boards, and stood there for about four seconds, and then he said the rest of it in shorter sentences than he had started with.
+At about a quarter past eleven the third man asked it, and the man of fifty-six got about eleven words into the answer and stopped, and put his hand flat on the boards, and stood there for a few seconds, and then he said the rest of it in shorter sentences than he had started with.
 
 "It is staying. I am not going to take it off. I have got a reason and I have given it twice and I am not going to give it a third time in one morning to a different man who has not heard the first two."
 
@@ -86,7 +86,7 @@ The man of about nineteen came about four feet along that table and stopped and 
 
 ---
 
-The rest of that day went ordinary and nothing about the twelve figures changed in it. The man of about thirty-four who digs loam was in that ditch before nine, came up out of it about ten, and read the four figures at the end of that table and got all four, and said the word with them, and his right hand did not go above the level of that shoulder at any point in that day. The road keeper came up that lane at about eleven and again at about four, read the four figures off that wall both times, got all four both times, said the word with them, and nobody in the yard asked him about the eleven miles or about whether the word was staying. The reed cutter came up that bank at about half past four and was wet to the chest, and he was not asked about the word or about anything else. The man of about thirty-seven who puts tables up was against the east wall with his hand-cart, the tent still rolled on the back of it, and he was given nothing and nobody asked him about it.
+Ordinary is the word for what was left of that day, and nothing about the twelve figures changed in it. The man of about thirty-four who digs loam was in that ditch before nine, came up out of it about ten, and took the four figures off the end of that table and got every one of them, and said the word with them, and that right hand of his stayed below the level of that shoulder at every hour of that day. The road keeper was up that lane at about eleven and once more at about four, was right off that wall both times, said the word with them, and nobody in the yard asked him about the eleven miles or about whether the word was staying. The reed cutter came up that bank at about half past four and was wet to the chest, and he was not asked about the word or about anything else. The man of about thirty-seven who puts tables up was against the east wall with his hand-cart, the tent still rolled on the back of it, and he was given nothing and nobody asked him about it.
 
 A clerk of nineteen years entered that a figure carrying a word is a figure nobody will read out loud again, and that one man of about nineteen in that yard has already stopped reading four figures out loud and did not decide to and was not asked to stop and has not been asked about it since. The bid has stood open sixty-three days and was not run today. The first day of the eighth month is ninety-three days past and has been entered every morning this month by a clerk and has not been asked about. The ninth of the nine printed nights is a hundred and ninety-six days back and is open and was not named out loud today. The rule said out loud in that yard on the tenth of the tenth month is twenty-three days standing. The figure on the second line of that lot book is eighteen days out of date and was not altered. The fifth of the five things this district does not have is still not paid and the count is still five.
 

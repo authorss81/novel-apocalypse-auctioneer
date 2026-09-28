@@ -22,7 +22,7 @@ He said the rest of it out loud then, with a reason, and the boy counted it and 
 
 The man of fifty-six said that was the first thing he had said in the yard for six months that he had not said before, and about four of them said good, and about four of them said nothing.
 
-The man of fifty-six read the four figures off that wall again at about ten and got all four, and read the four figures again at about four and got all four, and said the word four times each time, and by the last time of the day the word took him a second longer than the figure did.
+The man of fifty-six read the four figures off that wall again at about ten and got them, and read the four figures again at about four and got them, and said the word four times each time, and by the last time of the day the word took him a second longer than the figure did.
 
 ---
 
@@ -46,7 +46,7 @@ At about half past one the man the figure of twenty-one years is against came do
 
 He was the only man in the yard who had put a figure in a book a stranger could walk up to and had watched it stop being true, and nobody had been able to do one single thing about it. This morning a clerk of nineteen years had written down, in a word, the whole of what he had been unable to say out loud for twenty-two days. She had done it at half past seven, before there was anybody in the yard, and nobody had asked her to, and he had not been there to see her do it.
 
-He wanted to say something about that. He worked out about four sentences and took all four of them apart again standing nine feet off that table, and what he said in the end was not one of them.
+He wanted to say something about that. He worked out three sentences and took all three of them apart again standing nine feet off that table, and what he said in the end was not one of them.
 
 "**I have been reading that page since half past seven from about nine feet off, and I have got twelve words off it, and I want it entered that I am not the one who is going to say what they are for, because I have got a figure in a book on this table that has been out of date for seventeen days and I have not been able to say one word about it in this yard, and a man who cannot say a word about one figure does not get to say a word about twelve.**"
 
@@ -78,7 +78,7 @@ It was not a reading of that lot. It was not a reading of anything in the yard, 
 
 "You could," the man of fifty-six said, "and if you did it, then about four people in this yard would be bound by a word I made up at half past nine this morning, and none of them asked for it, and I am not doing it to you."
 
-The rest of that day went ordinary. The road keeper came up that lane at about eleven and again at about four, read the four figures off that wall both times, got all four both times, and nobody in the yard asked him about the word or about the eleven miles. The man of about thirty-four who digs loam was in that ditch before nine and was still in it at about half past four, and his right hand did not go above the level of that shoulder at any point. The reed cutter came up that bank at about half past four and was wet to the chest. The man who puts tables up for anybody who will use them was against the east wall with his cart, and the tent was rolled on the back of it, and he was given nothing. A man of about sixty-four was at the foot of the low wall from about ten with nothing in his hands, and he was not asked to sit in the second chair and nobody proposed it.
+What was left of that day was the wall, the word, and the light going off them, in that order. The road keeper came up that lane at about eleven and again at about four, read the four figures off that wall both times, was right both times, and nobody in the yard asked him about the word or about the eleven miles. The man of about thirty-four who digs loam was in that ditch before nine and was still in it at about half past four, and his right hand did not go above the level of that shoulder at any point. The reed cutter came up that bank at about half past four and was wet to the chest. The man who puts tables up for anybody who will use them was against the east wall with his cart, and the tent was rolled on the back of it, and he was given nothing. A man of about sixty-four was at the foot of the low wall from about ten with nothing in his hands, and he was not asked to sit in the second chair and nobody proposed it.
 
 A clerk of nineteen years entered that a word was read out loud with four figures off a wall this morning by a man of fifty-six, and that it bound nobody, because no second person read it back from the top. The figure on the second line of that lot book has been out of date for seventeen days and was not altered, and not one person in the yard said a word about the water in that ditch. The ninth of the nine printed nights is a hundred and ninety-five days back and is open. The bid has stood open sixty-two days and was not run today. The first day of the eighth month is ninety-two days past. The fifth of the five things this district does not have is still not paid, the count is still five, and no sixth has been proposed.
 

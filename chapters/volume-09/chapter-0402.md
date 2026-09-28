@@ -4,7 +4,7 @@ The clerk of nineteen years put her finger on the mark at the top of that board 
 
 It was the thirtieth of the tenth month, which is the last day of it, and about nine people in that yard had known that since before light and had not said the word for it to anybody. The frost was gone off those boards by eight. By ten there were about nineteen people in the yard of Lot Seventeen.
 
-The man of fifty-six had his palm on those boards before the mender got to that end of the table and read the four figures out loud over his shoulder and got all four, the way he has done every morning for six months.
+The man of fifty-six had his palm on those boards before the mender got to that end of the table and read the four figures out loud over his shoulder and got all of them, the way he has done every morning for six months.
 
 "**The board carries three hundred and ten, the train on that siding has stood six hundred and twenty-six days, and nobody has entered anything for three hundred and forty, and three hundred and one days separate the second of January and this morning.**"
 
@@ -34,7 +34,7 @@ She got to the mark for the first of this month at about twenty past ten, put he
 
 "Somebody has," the man of about nineteen said. "It is what I have been putting on my own page since the nineteenth of this month and it has got no name on it, and I am not going to give it one in a yard."
 
-The man of fifty-six read the thirty marks out loud once more as she put her finger on them, and got all thirty of them, and about four people said out loud that a man who has read a figure off that wall every morning for six months had just read thirty of them off it in about four minutes and had never once read a mark that was not there.
+The man of fifty-six read the thirty marks out loud once more as she put her finger on them, and got all thirty of them, and about four people said out loud that a man who has read a figure off that wall every morning for six months had just read thirty of them off it in a few minutes and had never once read a mark that was not there.
 
 ---
 
@@ -62,7 +62,7 @@ She did not stop.
 
 A clerk of nineteen years entered that the length of the month after this one is thirty-one, that she did not count it, that she took it off a list, that she is entering it as a figure about a list and not as a day-count, and that the word unchecked is on it and is going to stay on it for as long as the figure does.
 
-A clerk of nineteen years entered that a date is not a seventh of the six instruments this district has built and not named. She named two days out loud in that yard this morning and about four people wrote them down. A day a clerk names is not a lot, is not a figure of a lot, is not a figure of a person, is not a toll, is not a holder, is not a remedy and is not a term. There is a person in the room and there were four.
+A clerk of nineteen years entered that a date is not a seventh of the six instruments this district has built and not named. She named two days out loud in that yard this morning and about four people wrote them down. A day a clerk names is not a lot, is not a figure of a lot, is not a figure of a person, is not a toll, is not a holder, is not a remedy and is not a term. There is a person at that wall and there were four of them behind her, and what she wrote down says the two days and nobody's name.
 
 Somebody said out loud, to about four of them, that a figure nobody can check has just gone on that page in front of about nineteen people, and that about four of them thought the whole of this morning was that and the rest of it was counting.
 
@@ -88,7 +88,7 @@ A clerk of nineteen years entered that a figure of thirty-one for the ninth mont
 
 ---
 
-The rest of that day went ordinary and it went ordinary more slowly than the day before. The road keeper came up that lane twice, near eleven and near four, read the four figures off that wall both times, got all four both times, and asked nobody about the eleventh month or about anything else. The reed cutter came up that bank at about half past four and was wet to the chest and said good evening to nobody in particular. The man who puts tables up for anybody who will use them was against the east wall with his hand-cart and the tent rolled on the back of it where it has been since the thirtieth of the June, and he was given nothing. A man of about sixty-four was at the foot of the low wall from about ten with his coat folded on the stones beside him, and nothing in his hands, and he was not asked to sit in the second chair and nobody in that yard proposed it.
+What was left of that day was the same four things it is every day, and it took longer than the day before, and about four people said so at the low wall and one of them said it was the first time in a month that a day had been called ordinary out loud in that yard. The road keeper came up that lane twice, near eleven and near four, had the four figures off that wall both times, missed nothing either time, and asked nobody about the eleventh month or about anything else. The reed cutter came up that bank at about half past four and was wet to the chest and said good evening to nobody in particular. The man who puts tables up for anybody who will use them was against the east wall with his hand-cart and the tent rolled on the back of it where it has been since the thirtieth of the June, and he was given nothing. A man of about sixty-four was at the foot of the low wall from about ten with his coat folded on the stones beside him, and nothing in his hands, and he was not asked to sit in the second chair and nobody in that yard proposed it.
 
 A clerk of nineteen years entered that the bid has stood open sixty days and was not run today, that no person in that yard said one word about closing it, and that a bid nobody has run does not have a birthday anybody in this district is keeping. The first day of the eighth month is ninety days past, and nobody in that yard has given a reason for that figure in a month. The ninth of the nine printed nights is a hundred and ninety-three days back, was named once that afternoon, and was closed in nothing. The figure on the second line of that lot book is fifteen days out of date and was not altered. The column for the name of whoever read a thing out loud was ruled before the first of the ninth and it was empty at about six, and a thing read back by nobody binds nobody. The fifth of the five things this district does not have is still not paid, and the count is still five.
 

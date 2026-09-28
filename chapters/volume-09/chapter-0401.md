@@ -28,9 +28,9 @@ About four people at the near end of that table had been working round to the sa
 
 Somebody at the back said the boards count days and not months, which is what the man of fifty-six had said on the nineteenth of this month and had not said since. Somebody else said that a figure nobody has is not a different thing from a figure that is hard to get. A third said those two were the same thing. A fourth said they were not and did not finish the sentence, and about four of them let it go, and that is how most things in the yard end.
 
-The clerk of nineteen years was asked the same question three times between ten and half past ten, by three different people, and gave the same answer to all three of them, and the man of about nineteen counted what she said and got forty-nine, and about four of them heard that count come out of his mouth and none of them asked him to say it again.
+The clerk of nineteen years was asked the same question three times between ten and half past ten, by three different people, and gave the same answer to all three of them, and the man of about nineteen counted what she said and got forty-seven, and about four of them heard that count come out of his mouth and none of them asked him to say it again.
 
-"**I am not going to say tonight what I am going to do tomorrow, and I have not not said that before, and about four of you have noticed, and I would rather you noticed it than that I gave you a figure tonight I cannot get off anything.**"
+"**I am not going to say tonight what I am going to do tomorrow, and I have said that before, and about four of you have noticed, and I would rather you noticed it than that I gave you a figure tonight I cannot get off anything.**"
 
 "You could say it and be wrong," somebody said.
 
@@ -58,7 +58,7 @@ At the far end of that yard, which is the only part of it that is dry, the man o
 
 About four people said her four empty houses out loud, and then about four other people said that four empty houses are four figures about four houses and are not a figure about her, and that she has said on her own account that they are not going to be offered again before the first day of the season after this one. She did not answer, and she was not asked, and people said the word *asked* out loud in the yard four times in a minute and not one of the four was aimed at anybody.
 
-Then one of the people at the near end of that table walked about four steps towards the far end and the man of about forty-eight shifted the flat book from under his left arm to under his right, and stopped.
+Then one of the people at the near end of that table walked about six steps towards the far end and the man of about forty-eight shifted the flat book from under his left arm to under his right, and stopped.
 
 "Nobody is going to ask you for it," somebody said.
 
@@ -82,11 +82,11 @@ He read the two lines in that lot book standing up without touching the book and
 
 "No," the loam man said. "It is not."
 
-Then the man in the coat stood there for another half hour and did not say anything else, and the man of about thirty-four who digs loam came up out of that ditch, read the four figures at the end of that table and got all four, and went back down the bank to the ditch, and his right hand did not go above the level of that shoulder at any point in the rest of that day.
+Then the man in the coat stood there for another half hour and did not say anything else, and the man of about thirty-four who digs loam came up out of that ditch, read the four figures at the end of that table and got every one of them, and went back down the bank to the ditch, and that right hand of his did not go above the level of that shoulder at any point in the rest of that day.
 
 ---
 
-The rest of the day went ordinary. The road keeper came up that lane at about eleven and again at about four, read the four figures both times, got all four both times, and nobody in the yard asked him about the eleven miles. The reed cutter came up that bank at about half past four with his hook in his hand and a bundle under his arm and was wet to the chest, and nobody there said one word to him about a month. The man who puts tables up for anybody who will use them was against the east wall with his hand-cart, and the tent was still rolled on the back of it where it has been since the thirtieth of the June, and he was given nothing and nobody asked him about it. A man of about sixty-four was at the foot of the low wall from about ten in the morning with his coat folded on the stones beside him and nothing in his hands, and nobody asked him about them and the record about the not asking says not asked.
+The rest of the day went ordinary. The road keeper came up that lane at about eleven and again at about four, read the four figures both times, and was right both times, and nobody in the yard asked him about the eleven miles. The reed cutter came up that bank at about half past four with his hook in his hand and a bundle under his arm and was wet to the chest, and nobody there said one word to him about a month. The man who puts tables up for anybody who will use them was against the east wall with his hand-cart, and the tent was still rolled on the back of it where it has been since the thirtieth of the June, and he was given nothing and nobody asked him about it. A man of about sixty-four was at the foot of the low wall from about ten in the morning with his coat folded on the stones beside him and nothing in his hands, and nobody asked him about them and the record about the not asking says not asked.
 
 A clerk of nineteen years entered that the bid has stood open fifty-nine days and was not run today, and that no person in the yard proposed anything about closing it. The first day of the eighth month is eighty-nine days past and a ladder is spent as a ladder. The ninth of the nine printed nights stands a hundred and ninety-two days back, was named out loud once that afternoon, and was closed in nothing. The figure on the second line of that lot book is fourteen days out of date, was not altered, and nobody wrote a second figure beside it. The column for the name of whoever read a thing out loud was ruled and was empty at about six. The fifth of the five things this district does not have is still not paid, the count is still five, and no sixth has been proposed.
 
@@ -94,7 +94,7 @@ About half past five the woman of fifty-eight came down that bank with two empty
 
 Then the man of about nineteen went and put his finger on that mark about the fourth of the way down again, and left it there, and the mark is the one for the first of this month, and it had been on that board for four weeks, and nobody in the yard had ever counted back to it or forward from it.
 
-The man of fifty-six read the four figures for the last time that day at about half past five and got all four, and then he stood with his hands under his arms for another quarter of an hour.
+The man of fifty-six read the four figures for the last time that day at about half past five and got them, and then he stood with his hands under his arms for another quarter of an hour.
 
 "I will be here at half past eight," he said, to nobody and to everybody.
 
