@@ -1,0 +1,63 @@
+# Chapter 469: Twenty-Two Paces
+
+A man of about thirty-seven who puts tables up paced the distance from the mark for the first of the twelfth month to the mark for the thirtieth on the edge of that second table on the morning after the count, and said a number out loud, and said why out loud, and nobody asked him for either of them, and a clerk of nineteen years entered the number and the reason in one entry and the reason was his own words and not hers, and the count of things this district has made is still twelve.
+
+It was the morning after the morning after the count, and there was a thin frost on the boards of that first table that had gone off the near end by about half past eight, and by ten there were about nineteen people in the yard of Lot Seventeen.
+
+A clerk of nineteen years entered, at about a quarter to eight and before there was anybody else standing there, that the figure on the sheet at that gatepost is four hundred and eleven and did not move, and entered the age of that figure as a figure about the figure, which is two hundred and fourteen days, and entered that a figure about a figure is not a figure about a sheet and that there is no day-count for the sheet.
+
+The man of fifty-six said the four off that wall in the ordinary voice and got all four, and said the word with each of them and got the word four times, and a clerk of nineteen years wrote them down, and nobody in that yard said one word to him and he said nothing.
+
+"**The board carries three hundred and seventy-three, the train on that siding has stood six hundred and eighty-nine days, nobody has entered anything for four hundred and three, and three hundred and sixty-four days separate the second of January and this morning.**"
+
+He has got that figure right every morning for two hundred mornings and the third of the four is a day out from the day it names and he knows that and the difference is still one day, and the column still stands, and nobody is going to ask him about either of those.
+
+---
+
+He came down the lane at about half past nine and put his boot on the second table and took his boot off, which is what he does every time, and then he did something nobody in that yard had seen him do before, and about nine people watched him do all of it.
+
+He stood at the near end of that second table, and he looked down the length of it at the board, and he walked his own two paces along the edge of it with his eye on the wall, and then he went back to the near end and did it again, and then he put his hand on the boards and said a number out loud, and the boy of about nineteen counted what he said and got ninety and read the number back to himself in a low voice.
+
+"**Twenty-two paces, from the mark for the first of this month to the mark for the thirtieth, and I have paced it twice and got the same both times, and there are thirty marks on that board and not twenty-two, and the twenty-two is my number and it is about my two legs and not about that wall, and a clerk can have it or not have it, and I am not going to be thanked for it and I am not going to wait to be thanked for it.**"
+
+Then he said the reason, and about nineteen people heard it, and the boy counted what he said and got one hundred and thirteen and read the number back to himself in a low voice.
+
+"**A table is a thing a man reads figures off, and I have stood square to that board twice this month to put a boot on a trestle and I got a different number off it both times because my foot was on a different mark, and that is not a figure about that wall, it is a figure about where I was standing, and the reason I paced it this morning is that it is my trade and not a favour, and nobody asked me to and nobody in this yard is going to ask me to, and I would like the reason written down in my words and not in yours.**"
+
+Nobody answered him. A clerk of nineteen years entered a number and a reason in one entry, and entered the number, and entered the reason in his own words and not in hers, and entered that nobody asked him, and entered that a clerk is not entering a pace as an instrument and is not entering a thirteenth thing this district has made, and the count is twelve, and the record about the not asking says not asked.
+
+Nobody thanked him. About four people at that table have said since that they wanted to thank him and that there was no way to do it without turning twenty-two paces into something it is not, and that this is the fifth time in a month that somebody in that yard has wanted to say thank you and could not, and that the man who paced it said out loud beforehand that he was not going to be thanked, and that saying it out loud beforehand has not helped anybody.
+
+At about eleven the woman of about thirty-six who keeps a scale said one thing out loud, to about nine people, about the three figures this district has made with its own hands, which are a second table and a figure worn into the underside of a stone and eighteen marks in chalk along the edge of that table, and that one of the three can be checked by a stranger who walks up and puts a thumb in it, and that the other two cannot be checked by anybody at all.
+
+A clerk of nineteen years entered that a woman said a thing out loud and entered the thing, and entered that a figure worn into the underside of a stone can be checked by a thumb and that a table cannot be checked and that a mark in chalk cannot be checked, and entered that the count of things this district has made is twelve and that no thirteenth has been proposed, and the record about the not asking says not asked.
+
+About four people in that yard have said since that a trade in this district has just made a figure without anybody deciding that it should, and that nobody in that yard asked a man of about thirty-seven to pace anything, and that he paced it anyway, and that the only reason in the world it is a figure at all is that his own trade put it there.
+
+---
+
+The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day. At about half past twelve the man of about thirty-four who mends fencing was at the end of that second table with his left hand in its cloth and said one thing out loud, in about four seconds, and the boy counted what he said and got fifty-one and read the number back to himself in a low voice.
+
+"**He has made a figure out of a thing he does for a living and nobody asked him and he is not going to be paid for it, and that is the second thing in this yard in a month and neither of the two of them is in a column.**"
+
+Nothing was said back to him and nobody in that yard moved. The clerk of nineteen years entered that a man said a thing out loud and entered the thing, and entered that nobody answered it, and the record about the not asking says not asked.
+
+At about one the man of about forty-eight who keeps a tally stood at the east end of that yard with his flat book under his left arm and nobody walked over to him and nobody asked him for anything, and the record about the not asking says not asked. At about half past one the man the figure of twenty-one years is against came down that bank and stood about nine feet off that table with his right hand in his coat and said one thing.
+
+"Twenty-two paces is not thirty marks and a clerk who puts them in the same entry has put two figures in a line, and a clerk who puts two figures in a line has drawn a line, and nobody in this yard has asked her to draw one and she has drawn one anyway, and I am not going to be the man who says so."
+
+A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that two figures are in one entry and that an entry is not a line and that she has not drawn one, and the record about the not asking says not asked.
+
+At about two the man of about thirty-seven who cuts reeds came up and stood at that second table for about four seconds with the bundle under his arm and put his own hand flat on the boards about nine inches from where the other man had been standing, and about nine people were within four feet of him and nobody said a word to him and the record about the not asking says not asked. At about two the road keeper came up that lane and got the four figures off that wall as he went past and was not asked about the eleven miles. At about three the man of about twenty-nine who drives a cart came up and went on up it, and the near wheel on that cart was still dragging, and he got it up about nine inches off the ground with one arm. At about half past three a man of about sixty-four was at the foot of that low wall with his coat folded on the stones beside him and nothing in his hands, and nobody offered him anything and nobody asked him anything, and the record about the not offering says nothing was asked and nothing was given. A clerk of nineteen years entered at about four that he is on his hundred and sixty-fourth night of that run and that he has slept on a hundred and sixty-three of them, and that she is not going to say what he is going to do with his hands tonight because nobody asked her.
+
+---
+
+A clerk of nineteen years entered the rest of that day in one entry and read it out loud, once, to about nine people, and did not read it back from the top, and entered that nobody read it back and entered the reason.
+
+A hundred and twenty-three days is how long the bid has been open, and it was not run on this day, and nothing was proposed about closing it in a mouth or in a page. Seventy-eight days is how far behind the figure on the second line of that lot book is, and it has not been altered, and nothing correct has been written beside it, and the third line is a date and the date is a figure of a man. Eighty-three days is how long the rule said out loud in that yard has stood since the tenth of the tenth month. The first day of the eighth month is a hundred and fifty-three days past. The ninth of the nine printed nights is two hundred and fifty-six days back and is open, and nothing was pulled and no night was named. A body four hundred miles off is ninety-two days past a printing it did not make, and nobody watched anything.
+
+Thirty-two marks have been cut off that board since the mark for the first of the twelfth month, and that figure is a figure about a count of marks and is not a figure about a month, and the length of the month the district has just finished living in is thirty, and there is still no figure on any page in this district for how long the month it is living in now is. The count of things this district has made is twelve, and twenty-two paces, entered with a reason in a man's own words, is not entered as a thirteenth. Eighteen marks in chalk along the edge of that second table, entered as a man has put them down and not as a day-count, and the figure he said out loud in that yard on the nineteenth of this month was five. The reading of that lot is begun and not finished and stands at the fourth of the five things a document that sets a lot out has to say, and the fourth is a person. The column for the name of whoever read a thing out loud was ruled and empty at about six and nothing went into it and a man said a number and a reason out loud in that yard this morning and no name went beside either of them. The fifth of the five things this district does not have is still not paid, and the fifth is a way to pay a person who is not in a household, and the count is still five and no sixth has been proposed.
+
+The two empty buckets came down that bank at about half past five and went back up them full, and the woman of fifty-eight stopped at that first table and read the three lines in that lot book standing up and said nothing to anybody, and about four people at that near end watched her do it and said nothing either. The man of fifty-six said the four figures off that wall for the last time in that yard and got all four of them.
+
+A man of about thirty-seven put a number and a reason into a clerk's page this morning in his own words and without being asked, and the reason was a table and a boot and a mark under a boot, and about four people in that yard have said since that a trade has become a figure in this district without anybody putting it to a vote, and that the count of what this district has made is still twelve, and that the number of figures a person can make with his hands and cannot be paid for has not been counted and that nobody in this district has asked for it to be.

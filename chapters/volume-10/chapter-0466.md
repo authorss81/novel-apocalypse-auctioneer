@@ -1,0 +1,59 @@
+# Chapter 466: Two Figures On One Day
+
+A clerk of nineteen years entered a second figure about the same water on the same afternoon in the yard of Lot Seventeen on the twenty-ninth of the twelfth month that a woman of about thirty-six who keeps a scale said out loud at about four, and a figure about that water had already been entered on that same day at about eleven, and the second line of that lot book still says about a foot, and about nine people in that yard have said since that the yard has now carried a thing whose figure is true for a while and then is not twice in one day, and that it did the same thing on the tenth of this month, and that nobody in this district has a word for what a yard is for.
+
+It was the middle of the afternoon and the boards of that first table had been in the sun since about one and the stone on the corner of that book had got warm under about four people who had not noticed it, and the man of fifty-six was at that wall with his palm on the boards and about nine feet off the table.
+
+A clerk of nineteen years entered, at about a quarter to eight, that the figure on the sheet at that gatepost is four hundred and eleven and has not moved, and entered that the age of that figure, as a figure about the figure, is two hundred and eleven days, and entered that the sheet has no day-count of its own, because a figure about a figure is not a figure about a sheet.
+
+The four figures were said out loud once in that yard this morning and a clerk of nineteen years entered them once, and a figure a man says every morning is not entered into a page twice in one day, and the man of fifty-six said them again at about four and got all four of them, and about four people have said since that the third of the four is a day out and that it was right this morning and that it will be a different figure tonight and that is a thing about the figure and not about the man.
+
+---
+
+The woman of about thirty-six who keeps a scale went down that bank at about ten past four with a bucket in her hand and came back up it, and about nine people watched her do it and about four of them counted what she said when she said it, and the boy of about nineteen counted what she said and got sixty-three and read the number back to himself in a low voice.
+
+"**It is about nine bucketfuls to bring that up to the near end and no man in this district is going to do it, and that is a figure about a job and not about a morning, and I am saying it out loud because somebody asked about that water this morning and I have been standing here thinking about it all afternoon.**"
+
+Nobody answered her. A clerk of nineteen years entered that a woman said a figure out loud in that yard and entered the figure and entered that she was not asked for it, and entered that the figure is a figure about a job and is not a figure about a morning and is not a figure about the second line of that book, and the record about the not asking says not asked.
+
+At about half past two the boy of about nineteen stood at the top of that bank and said out loud, to about nine people and to the clerk, that the two figures on the page this morning and this afternoon are both about the same water and that he did not know when he woke up this morning that he was going to be the reason a page in that yard had two lines on it, and the clerk of nineteen years said that he was not the reason, he was the person who asked, and that those are two different things and that a boy of nineteen is the only person in that yard who can tell them apart without being told.
+
+A clerk of nineteen years entered that a boy said a thing out loud in that yard and entered the thing, and the record about the not asking says not asked.
+
+The man of about thirty-four who digs loam was in that ditch until about half past four and came up out of it at about five and said one thing to about four people and not to the yard, and the boy counted what he said and got seventy-eight and read the number back to himself in a low voice.
+
+"**There is a figure about that water on a page this morning and there is a figure about that water on the same page this afternoon and both of them were right and neither of them is going to be right this evening, and I have been in that ditch every morning of this month and I did not know until about ten minutes ago that I was the reason two people had to say things out loud.**"
+
+Nobody answered him. A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that a figure is not a figure about the man who was standing next to it, and the record about the not asking says not asked. That right arm of his did not go above the level of that shoulder at any point in the day.
+
+The woman of about thirty-six who keeps a scale said one more thing out loud at about half past four, to about nine people, and the boy counted what she said and got fifty-five and read the number back to himself in a low voice.
+
+"**There is a word for a figure that is true for a while and then is not, and I have got it, and I am not going to say it in this yard, and a clerk may enter that a woman had a word and would not say it and may not enter the word.**"
+
+Nobody answered her. A clerk of nineteen years entered that a woman said a thing out loud in that yard and entered that she had a word and would not say it, and entered no word, and the record about the not asking says not asked.
+
+Then the boy of about nineteen asked her, out loud, in the ordinary voice, which of the two columns on his own sheet a day goes in when a day is also the day two figures were entered on, and about nineteen people heard the question.
+
+A clerk of nineteen years entered that a boy asked a question out loud in that yard and entered the question and entered that she is not going to answer it, and the record about the not asking says not asked. She then said one thing, out loud, and the boy counted what she said and got one hundred and two and read the number back to himself in a low voice.
+
+"**I am entering the day. I am not entering the chapter, and a chapter is not a thing I have, and a day is a day and a page is a page and you ruled those two apart yourself on the twelfth of this month and I am not going to rule them together again in a page. Two figures on this day were entered on this day, and I am entering the day once, and it is going to be one line, and about nineteen people are going to read one line about two figures and that is what they get.**"
+
+Nobody said anything. A clerk of nineteen years entered that two figures on the same day were entered on the same day and entered that she is entering the day and is not entering a chapter, and entered that a day and a page are two figures and are not the same figure, and the record about the not asking says not asked.
+
+By ten there were about nineteen people in that yard and about four of them have said since that they watched a boy of nineteen ask a question he had written the answer to on his own sheet, and that the clerk did not answer him, and that the answer was on his sheet in two columns and that he has not said which one, and that a boy who has ruled a day apart from a page and then watched a clerk enter a day without a page has found the third thing about the two, and the third thing is that neither of them is the thing that is happening in that ditch.
+
+---
+
+At about two the road keeper came up that lane and got the four figures off that wall as he went past and was not asked about the eleven miles. At about three the man of about twenty-nine who drives a cart came up and went on up it, and the near wheel on that cart was still dragging, and he got it up about nine inches off the ground with one arm, and about four people watched him do it and said nothing. At about half past three a man of about sixty-four was at the foot of that low wall with his coat folded on the stones beside him and nothing in his hands, and nobody offered him anything and nobody asked him anything, and the record about the not offering says nothing was asked and nothing was given. A clerk of nineteen years entered at about four that he is on his hundred and sixty-first night of that run and that he has slept on a hundred and sixty of them, and that she is not going to say what he is going to do with his hands tonight because nobody asked her.
+
+The two empty buckets came down that bank at about half past five and went back up them full, and the woman of fifty-eight read the three lines in that lot book standing up on her way past, and it took her about two seconds, which is about half a second longer on the third line than on the first two, and she said nothing to anybody and nobody there said one word to her.
+
+---
+
+The bid is open a hundred and twenty days. It was not run on this day and nothing was proposed about closing it in a mouth or in a page. Seventy-five days is how far behind the figure on the second line of that lot book is, and it has not been altered, and nothing correct has been written beside it, and the third line is a date and the date is a figure of a man. Eighty days is how long the rule said out loud in that yard has stood since the tenth of the tenth month. The first day of the eighth month is a hundred and fifty days past. The ninth of the nine printed nights is two hundred and fifty-three days back and is open, and nothing was pulled and no night was named. A body four hundred miles off is eighty-nine days past a printing it did not make, and nobody watched anything.
+
+Twenty-nine marks have been cut off that board since the mark for the first of this month, and twenty-nine marks is a figure about a count of marks and is not a figure about a month, and there is still no figure in this district for how long this month is, and a clerk is going to stand at that wall in the morning and count, and about nine people in that yard have said since that they have been asked to stand behind a woman tomorrow morning for no figure at all, and that a figure nobody is going to be given is the only reason anybody can be asked to stand somewhere.
+
+The count of things this district has made is twelve. Two figures about the water in that ditch were entered on this day, one about a morning and one about a job, and both are right, and the second line of that book is a third figure about that water and is not right, and it has not been altered, and nothing correct has been written beside it. The reading of that lot is begun and not finished and stands at the fourth of the five things a document that sets a lot out has to say, and the fourth is a person. The column for the name of whoever read a thing out loud was ruled and empty at about six and nothing went into it and three people said a figure out loud in that yard this afternoon and no name went beside any of them. The fifth of the five things this district does not have is still not paid, and the fifth is a way to pay a person who is not in a household, and the count is still five and no sixth has been proposed.
+
+That yard has now carried a thing whose figure is true for a while and then is not, twice in one day, and it carried one twice in one day on the tenth of this month as well, and about four people in that yard have said out loud that this is twice and that twice is a number and not a habit, and that a woman in that yard has got a word for the thing and would not say it, and that nobody in this district has got a yard and is not going to be given one, and that what the yard has got is a board, a table, a stone, a hollow in a stone, a page and about nineteen people, and that two of those can be checked and five of them cannot, and that the two which can be checked are the board and the hollow, and that the board is a day out three times over and the hollow is right.
