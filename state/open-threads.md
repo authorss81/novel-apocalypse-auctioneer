@@ -1566,3 +1566,38 @@ The protagonist's name, which is not printed, not said, not asked for and not on
 - **THE OPENING SHAPE IS DEAD: ZERO OF FIFTY against a cap of ten.** The inherited fifty-of-one is gone and it went by writing.
 - **CHAPTER 399 IS EIGHTEEN WORDS UNDER THE LENGTH FLOOR AND IS THE ONLY CHAPTER OF FIFTY OUTSIDE THE BAND.**
 - **THERE ARE FOUR IDENTICAL PARAGRAPHS AND TWO OF THEM ARE PROSE**, one of them repeated in two adjacent chapters.
+
+---
+
+# THE THREADS A VOLUME 10 WRITER INHERITS, APPENDED 2026-09-28 BY THE VOLUME OUTLINE PHASE
+
+**Source: `outline/volume-10.md` section 11 and the twenty-six inherited mysteries at `state/volume-09-roll-summary.md` section 7. AN OUTLINE MAY NOT CLOSE ANY OF THEM. Every row below is carried with its measured scope and a verdict, and none of them was closed by this phase.**
+
+1. **The protagonist's name and the amendment.** PROPOSED AND NOT SETTLED. Not on the page in any of the four hundred and forty chapters. Settled by prose first and an outline second, a day in a scene. **MAY NOT BE SETTLED, CONDITIONED, OR GIVEN A CONDITION THAT WOULD SETTLE IT BY ANOTHER ROUTE.**
+2. **The name said out loud in the yard on the twenty-seventh of the eleventh month of Volume 09.** DELIBERATELY UNANSWERED AND NOT THE PROTAGONIST'S. Said in the open, in the ordinary voice, before about nineteen people, written down by nobody, the person not asked. A later volume may say whose it was; it would be a scene and a cost and the person would be asked first.
+3. **The name said out loud at Chapter 337.** CLOSED AND SEALED. Not on a page, not priced, not asked for again, not carried into a column.
+4. **The eleven words, the fourteenth of the eighth.** SPENT AND SEALED, at zero.
+5. **The one line in the second of the two books, in her own hand.** OPEN AND UNREAD ALOUD BY ANYBODY AND NOBODY HAS ASKED HER. *the second of those two books* on two chapters of Volume 09. Nobody went up the bank on any of Volume 09's fifty days. **MAY NOT BE RESOLVED BY A VOLUME AND MAY NOT BE CONDITIONED.**
+6. **The office and its four gaps in four books in four rooms.** UNTOUCHED AND OPEN, at zero.
+7. **The two walls a mile apart, and the man of fifty-six told nothing.** OPEN AND UNPAID BY ANYBODY AND THE LARGEST STANDING COST IN THE MANUSCRIPT. At zero as a device across ninety chapters. **MAY NOT BE USED AS A DEVICE AND MAY NOT BE CLOSED.**
+8. **The two past pullings and the earliest day the bell could be pulled.** OPEN, nothing pulled, nothing named. `a bell` at zero in Volume 09.
+9. **The ninth of the nine printed nights.** OPEN AT TWO HUNDRED AND EIGHTY-TWO DAYS BACK AT CHAPTER 441. On 22 chapters and 25 occurrences of Volume 09 case-insensitively and 3 chapters case-sensitively, both printed. **THE SEVENTEENTH BLOCK IN A ROW.**
+10. **The fourth line of the offer and the departure.** UNTOUCHED AND OPEN, at zero.
+11. **The ninth charter's line, the third column of the covenant, the ninth place on the page out of the cave.** RULED AND EMPTY, carried whole.
+12. **The old shelter's charter, still wrong on its face.** OPEN AND UNTOUCHED: not corrected, not replaced, not superseded, not taken out. At zero case-sensitively in Volume 09.
+13. **The removal day.** OPEN, spent as a ladder. The string `removal` at one occurrence in Volume 09, at Chapter 397.
+14. **The rival record.** OPEN, answered once out loud and unanswered in the sense that matters. On 5 of 50 days of Volume 09.
+15. **The term on that reading.** OPEN AND DELIBERATELY NOT COUNTED AS A DATE. Its anchor does not add up to the page.
+16. **The body four hundred miles off.** OPEN AND IT HAS NO FACE. One hundred and seventeen days past at Chapter 500. **MAY NOT BE GIVEN A FACE AND NO ARRIVAL MAY BE CALENDARED.**
+17. **The figure on the sheet at that gatepost.** OPEN AND UNMOVED. Fifty-one occurrences in fifty of fifty chapters of Volume 09. Its own age as a figure about the figure is 191 days at Chapter 441 and 240 at Chapter 500.
+18. **The bid, open ninety-eight days at Chapter 440, never run.** OPEN AND CARRIED. A hundred days at Chapter 441 and a hundred and forty-nine at Chapter 500. **NOT RUN, NOT CLOSED AND NOT PROPOSED FOR CLOSING IN VOLUME 10.**
+19. **The man of about sixty-four, nothing in his hands.** OPEN. GIVEN NOTHING. On 31 of 50 chapters of Volume 09.
+20. **The third line of the lot book, a date.** THE ONE THING VOLUME 09 RESOLVED, AND IT IS A THING AND NOT A RULE. **VOLUME 10 MAY NOT REPEAT IT AS A RULE, MAY NOT ADD A FOURTH LINE TO THAT BOOK, AND MAY NOT ALLOW A CHAPTER TO DESCRIBE WHAT IT IS FOR, WHICH IS THE SENTENCE AT SECTION 15.1 OF THE OUTLINE, SAID ONCE, IN A YARD, AND NOT AGAIN.**
+21. **The reading of that lot, begun and not finished, at the fourth of the five things.** OPEN. The column for the name of whoever read a thing out loud is ruled and was still empty at about six on the last day of Volume 09, after forty-seven occurrences across forty-seven days, up from twenty-two across twenty.
+22. **The protagonist's usefulness and the limit of it.** THE LIMIT WAS SPENT AND THE CHOICE WAS NOT, AND IT WAS SPENT IN A MAN AND NOT IN A RULE.
+23. **The antagonist of the whole series.** A COUNT, A HABIT AND TWO DATES, AND NONE OF THEM HAS A FACE. **NO NEW FINAL ENEMY WAS ADDED AND NONE MAY BE. THE NAME IS NOT IN THE OUTLINE AND MAY NOT BE PUT IN IT, INCLUDING AS A DENIAL AND INCLUDING AS A FALSIFIED CLAIM.**
+24. **The five things this district does not have, and the unpaid fifth.** OPEN AND UNPAID. **The phrase is on thirty-nine days of Volume 09 and three inherited documents print it at zero; the exact phrase about the fifth is on ten days; the count is five and no sixth is proposed; and Volume 10 says it out loud in a yard and does not pay it.**
+25. **The coastal block.** DISCLOSED AND GIVEN A DESTINATION AGAIN, AND THIS VOLUME NAMES NO COAST, NO PORT, NO SHIP, NO HARBOUR, NO GRAVEYARD, NO DOCK, NO TIDE AND NO SCALE ON ANY PAGE.
+26. **`outline/series.md`'s own Volume 10 block.** UNBUILT, AT ZERO ACROSS FOUR HUNDRED AND FORTY CHAPTERS, MEASURED, AND RESERVED. The emergency constitution, the Lock Council, the Upland gates, the Underwriters' court, the assembly, the mandate and the Great Closing on every public ledger are all reserved and much later's.
+
+**AND THE FOUR NEW THREADS THIS VOLUME OPENS, ALL OF THEM A VOLUME-SIZED THING AND NOT A DAY: the length of the twelfth month, which is a debt named in Chapter 441 and settled at Chapter 467; the three columns that are a day out, which are said out loud in the second movement and not put right; the stone, which is a figure nobody has to enter and therefore cannot be a day out and also cannot be checked; and the sentence at section 15.1 of the outline, which is a figure of a person in a public book and which no close and no volume may soften.**

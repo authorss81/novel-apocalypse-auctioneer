@@ -1381,3 +1381,27 @@ Thirty was said out loud in that yard at about ten past nine on the fifteenth of
 **11. THE STANDING MISMATCH AT Chapter 373 IS REAL AND UNREPAIRED AND IS NOT OURS.** Claim 190 against a printed 188, re-derived just now, the only mismatch in fifty chapters of Volume 08. Volume 09 did not repeat it: 68 claims, 0 mismatches.
 
 **12. `state/phase-ledger.json` STILL READS `currentPhase: phase-000-bootstrap`. REPORTED, NOT REPAIRED.**
+
+---
+
+# VOLUME 10 OUTLINE, CHAPTERS 441 TO 500 — appended 2026-09-28 by the volume outline phase
+
+**Source: `outline/volume-10.md`. The verdict it inherits: `state/volume-09-close.md`. The index it inherits from: `state/volume-09-roll-summary.md`. No chapter of Volume 10 exists. No state file above this section was rewritten and no earlier volume's record was edited.**
+
+**1. THE CALENDAR.** Volume 10 is Chapters 441 to 500, sixty chapters, fifty days, from the eighth of the twelfth month of the eighteenth year. The month lengths this canon has are unchanged: thirty-one, twenty-eight, thirty-one, thirty, thirty-one, thirty, thirty-one, thirty, thirty-one, thirty, thirty-one. The twelfth is not a figure this canon has. Day 1 is the eighth of the twelfth month; day 23 is the last day of the twelfth month and is the day the length is counted off the board at Chapter 467; no date after day 23 is printed anywhere until that count is entered. NO WEEKDAY, NO METRIC, NO TWENTY-FOUR-HOUR CLOCK, NO COLON-TIME, AND NO LENGTH FOR THE TWELFTH MONTH BEFORE CHAPTER 467.
+
+**2. THE DAY INDEX IS `c` AND NOT THE CHAPTER NUMBER.** Every figure in Volume 10 is `intercept + c`. Forty days carry one chapter and ten carry two: days 3, 16, 19, 22, 25, 30, 33, 36, 43 and 48. The twenty ladder columns and their intercepts, in the order of the table at `outline/volume-10.md` section 6.1, are **349, 665, 380, 340, 259, 232, 231, 251, 190, 190, 154, 129, 140, 139, 99, 54, 59, 68, 7, 0**. The printed constant row is the intercept plus one and is not the intercept. Slope test and anchor test both run over all one thousand cells and all twenty columns and both hold; every anchor is re-derived from its own named day and not read off the constant.
+
+**3. THE THREE FIGURES THAT WERE ONE DAY OUT ARE INHERITED AS FINDINGS AND NOT REPAIRED.** `Unentered`, `NoLineOnBoard` and `TableMornings` are one day out from the days they name on every cell of Volume 09, and both inherited tests passed them, and `outline/volume-09.md` section 6.2 asserted the anchor test for twelve of eighteen columns. Volume 10's table uses the re-derived intercepts. No chapter in any volume was edited and no closed outline was edited.
+
+**4. THE FIFTH OF THE FIVE THINGS.** The phrase was said out loud on 39 days of Volume 09 against 13 days of Volume 08 and three inherited documents print the Volume 09 figure as zero. The thing itself, a way to pay a person who is not in a household, is on 10 days against 13. The count of things this district does not have stays at five, no sixth is proposed, and Volume 10 says the fifth out loud in a yard in front of about nineteen people with the man it is about hearing it and does not pay it.
+
+**5. WHAT VOLUME 10 MAY NOT TOUCH, IN ONE LINE.** The bid, the ninth of the nine printed nights, the two walls a mile apart, the old shelter's charter, the term on that reading, the body four hundred miles off, the rival record, the removal day, the office, the fourth line of the offer, the departure, the second of the two books, the eleven words, the name said at Chapter 337, the protagonist's name, the bell, the night, the child of about eight, the man of about sixty-four, the four ruled-and-empty columns, the reading of that lot, and the fifth of the five things this district does not have.
+
+**6. THE PANEL COUNT FOR VOLUME 10 IS ZERO**, against a cap of one in a chapter and two in a block, and none is a virtue and none is a reward.
+
+**7. THE CAPS INHERITED.** The opening shape is measured at zero of fifty in Volume 09 and the cap for Volume 10 is five of sixty. The figure of the figure is inherited as a rate of one per chapter every chapter and is not re-argued; Volume 10 has sixty chapters and the figure will be on sixty of them and the total will be sixty-one, which is the cap kept and not beaten. The closing ledger is inherited as settled. The length band is 2,200 to 3,200 words, against a Volume 09 mean of 2,419.5, a minimum of 2,182 at Chapter 399 and a maximum of 2,839 at Chapter 411. The *about* hedge is 3,048 across Volume 09 on a case-insensitive whole-word count, a mean of 61.0 a chapter, and is not declining; no cap is set on it and every block prints its own count.
+
+**8. THE INHERITED MEASUREMENTS, RE-DERIVED BY THIS PHASE AGAINST CHAPTERS 391 TO 440.** Sixty-eight class-one counted claims, zero mismatches, zero class-two, a denominator of 120,329, a `wc -w` total of 120,975, 4,837 shared twelve-word runs, four identical paragraphs of twelve words or more, all four crossing a block boundary, the whole reserved scan an empty dictionary, and no all-caps footer lines at all. The per-chapter claim column of fifty cells sums to sixty-eight, and Chapters 438 and 439 carry no counted claim at all and are the model.
+
+**9. THE CONTROLLER.** `state/phase-ledger.json` still reads `currentPhase: phase-000-bootstrap`, status `planned`, `attempts: 0`. Reported, not repaired.

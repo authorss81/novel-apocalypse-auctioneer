@@ -797,3 +797,47 @@ Untouched, in all one hundred and eighty chapters and to be left untouched: **th
 ## THE CONTROLLER, REPORTED AND NOT REPAIRED
 
 `state/phase-ledger.json` still reads `currentPhase: phase-000-bootstrap`, status `planned`, `attempts: 0`, after four hundred and forty chapters and approximately forty-six phases. Because `attempts` never increments there is no durable record that this close failed once and had to be re-run. **Controller-owned. Reported, not repaired.** Two more that are not a writer's: `tools/__pycache__/measure.cpython-312.pyc` is tracked in git and has been swept into automated save commits, and the `novel-reviewer` subagent does not dispatch, so every review in this repository is a self-review. And `outline/volume-04.md` has never existed and may not be reconstructed by a writer.
+
+---
+
+# VOLUME 10 OUTLINE — CHAPTERS 441 TO 500 — *The Unfinished Sale* — appended 2026-09-28 by the volume outline phase
+
+**THE PLAN IS `outline/volume-10.md` AND IT IS THE FIRST FILE IN THIS REPOSITORY THAT BEGINS A VOLUME AFTER A CLOSE HAS NAMED WHAT THE DISTRICT DOES NOT HAVE. The verdict it answers is `state/volume-09-close.md` and the index it inherits from is `state/volume-09-roll-summary.md`. There is no Chapter 441 and no Batch 0001 record and no roll and no close. The next phase is `workspace/volume-10/batch-0001/PROMPT.md` and it is Chapters 441 to 455.**
+
+## 1. THE RANGE, AND THE ARITHMETIC THAT CLOSES THE TEN-CHAPTER DRIFT
+
+**VOLUME 10 IS CHAPTERS 441 TO 500. SIXTY CHAPTERS. FIFTY DAYS. `441 + 59 = 500`. `outline/series.md` PLACES VOLUME 10 AT 451 TO 500. WRITING 441 TO 500 TAKES UP THE TEN CHAPTERS NO VOLUME OWNS AND LANDS ON 500 EXACTLY, SO THE DRIFT DISCLOSED AT `outline/volume-07.md` SECTION 14 IS CLOSED AT BOTH ENDS AND NOT AT ONE. `outline/series.md` MAY NOT BE AMENDED BY ANY PHASE AND WAS NOT.**
+
+**AND IT IS NOT ONE CHAPTER A DAY. FORTY DAYS CARRY ONE CHAPTER AND TEN DAYS CARRY TWO. `40 x 1 + 10 x 2 = 60`. THE TEN DOUBLED DAYS ARE DAYS 3, 16, 19, 22, 25, 30, 33, 36, 43 AND 48, CARRYING CHAPTERS 443/444, 457/458, 461/462, 465/466, 469/470, 475/476, 479/480, 483/484, 491/492 AND 497/498. THE REASON IS ON THE PAGE: the figure on the second line of the lot book is true for a while and then is not, twice in a day, on a schedule nobody chose, and a record of a thing that changes twice in a day needs two entries in a day.**
+
+**EVERY LADDER IN VOLUME 10 IS A DAY COUNT AND NEVER A CHAPTER COUNT. A BLOCK THAT COMPUTES A CELL AS INTERCEPT PLUS CHAPTER INDEX IS WRONG FROM CHAPTER 444 ONWARD, AND THE ERROR AT CHAPTER 500 IS TEN DAYS, WHICH IS EXACTLY THE DRIFT THIS VOLUME CLOSED, COMING BACK INSIDE THE ARITHMETIC.**
+
+**THE FOUR BATCHES ARE FIFTEEN CHAPTERS, NOT TEN, BECAUSE A BATCH OF TEN CANNOT END ON A DAY BOUNDARY IN A VOLUME THAT IS NOT ONE CHAPTER A DAY. 0001 IS 441–455 (days 1–14), 0002 IS 456–470 (days 15–25), 0003 IS 471–485 (days 26–37), 0004 IS 486–500 (days 38–50). `15 x 4 = 60` AND THE CUMULATIVE COUNT REACHES 15, 30, 45 AND 60 AT DAY ENDS 14, 25, 37 AND 50.**
+
+## 2. THE TWO FINDINGS THE OUTLINE PHASE MADE IN THE INHERITANCE, BOTH PRINTED WITH BOTH SETS, NEITHER REPAIRED
+
+**THREE OF THE EIGHTEEN INHERITED FIGURE COLUMNS ARE ONE DAY OUT FROM THE DAYS THEY NAME, ON EVERY CELL, AND BOTH INHERITED TESTS PASS THEM. Re-derived at Chapter 440 and at Chapter 391 from each column's own named day: `Unentered` 379 against 378 and 330 against 329; `NoLineOnBoard` 250 against 251 and 201 against 202; `TableMornings` 153 against 154 and 104 against 105. `outline/volume-09.md` SECTION 6.2 PRINTED `in the constant` in the anchor column for twelve of the eighteen columns, which is a figure saying nothing, and the three that are wrong are all among the twelve it did not anchor. ONE OF THE THREE IS ONE OF THE FOUR FIGURES A MAN OF FIFTY-SIX READS OFF THAT BOARD EVERY MORNING. NO CHAPTER AND NO STATE FILE WAS EDITED.**
+
+**THE PHRASE *THE FIFTH OF THE FIVE THINGS THIS DISTRICT DOES NOT HAVE* IS ON THIRTY-NINE DAYS AND FORTY-ONE OCCURRENCES OF VOLUME 09, AGAINST THIRTEEN DAYS AND SEVENTEEN OCCURRENCES OF VOLUME 08, AND THREE INHERITED DOCUMENTS PRINT THE VOLUME 09 FIGURE AS ZERO. The Volume 08 day-list reproduces exactly: 348, 350, 351, 352, 359, 363, 370, 372, 378, 380, 385, 387, 390. The exact phrase *a way to pay a person who is not in a household* went the other way, from 13 days and 15 occurrences to 10 days and 10 occurrences. A RISE REPORTED AS A ZERO IS THE SIXTH OCCURRENCE OF THE STANDING FAILURE IN TWO VOLUMES. NO STATE FILE WAS EDITED, A CLOSE MAY NOT EDIT A CLOSE, AND AN OUTLINE IS NOT AUTHORITY OVER A CHAPTER.**
+
+**AND TWO MORE, SMALLER: the maximum chapter length is 2,839 words AND IT IS AT CHAPTER 411, and the roll names Chapter 421, which is 2,351 words; and the string `unchecked` is on 33 days and 37 occurrences on both a case-sensitive and a case-insensitive count, so this phase could not find any string that separates the claimed thirty-nine days from the thirty-three.**
+
+## 3. THE CENTRAL PRESSURE, THE RESOLUTION, AND THE MEASURE
+
+**A FIGURE IN THIS DISTRICT IS A DAY OUT FROM THE DAY IT NAMES, NONE OF THE THREE CAN NOW BE RE-ANCHORED BECAUSE NOBODY WROTE DOWN WHERE THE MARK WAS, AND THE ONLY INSTRUMENT THAT DOES NOT NEED A DAY IS NOT CHECKABLE EITHER. THE RESOLUTION IS A THING AND NOT A RULE AND NOT A POST AND NOT A FOURTH LINE: the stone that has been on the corner of that lot book since the book went out is turned over, its underside is worn one inch deep in the middle and nothing at either end, it goes face up on a SECOND TABLE put up unasked, and A SECOND STONE GOES ON THE CORNER OF THE BOOK AND THE NEW STONE HAS NO WEAR ON IT. The count of instruments this district has made moves from eleven to twelve with a scene and a reason and a clerk who enters both.**
+
+**THE FIGURE THE PROTAGONIST IS AFRAID OF IS A DAY. THE FIFTH OF THE FIVE THINGS IS SAID OUT LOUD IN A YARD IN FRONT OF ABOUT NINETEEN PEOPLE WITH THE MAN IT IS ABOUT HEARING IT, AND IT IS STILL NOT PAID, AND THE COUNT STAYS AT FIVE.**
+
+**THE FINAL IMAGE, FIXED IN THE OUTLINE AND NOT CHOSEN BY A WRITER BATCH: the man of fifty-six at the end of the second table with his thumb in the hollow in the underside of a stone lying face up, the figure in the hollow being one inch deep in the middle and nothing at either end, the lot book on the first table under a second stone that has no wear on it at all, a clerk entering the count of the board on her own page and not looking up, and the man of about thirty-four who mends fencing not in that yard. IT IS NOT A HAND ON A STONE, A HAND ON A PAGE, A HAND ON A WALL, A HAND RAISED OR A HAND THAT CLOSES.**
+
+## 4. THE SENTENCE THE OUTLINE OWED, PAID AT SECTION 15.1 OF THE OUTLINE
+
+**The third line of that lot book was put in so a stranger would know which figure on the page had gone out of date, and what it turned out to be a figure of was the man who had been in the ditch: the only person in this district who knew the day the water stopped being a foot is the one who was standing in it, and a date in a book a stranger may walk up to and read is a figure of a person, and this district has spent nine volumes saying that a public record in this basin is a record of a thing and not of a person. THE FIGURE ON THE SHEET AT THAT GATEPOST OWES ITS OWN SENTENCE AND PAYS IT IN THE SAME PLACE: the figure on that sheet is four hundred and eleven and it is a count of the people who answered a door, and what it turned out to be a figure of is a habit, and the habit is a body's, and the body is four hundred miles off and has no face, and a habit is not a person and a count of answerers is not a count of the people.**
+
+## 5. THE THREE DECISIONS A CLOSE ALREADY MADE, INHERITED AS SETTLED AND NOT REOPENED
+
+**THE CLOSING LEDGER: no chapter may close on a sentence that opens by naming a time of day and a change of light before it names a person. The exact shape died in block 0003 and not block 0005, measured. THE FIGURE-ON-THE-SHEET CAP: inherited as a RATE, one per chapter every chapter, and NOT re-argued, and the figure is not said less often to stay inside it. THE PAID SENTENCE OF VOLUME 09: owed by Volume 09, not owed here, and the sentence this outline owes is the one at section 4 above.**
+
+## 6. THE CONTROLLER, REPORTED AND NOT REPAIRED
+
+`state/phase-ledger.json` still reads `currentPhase: phase-000-bootstrap`, status `planned`, `attempts: 0`, after four hundred and forty chapters and approximately forty-seven phases. `tools/__pycache__/measure.cpython-312.pyc` is tracked in git. The `novel-reviewer` subagent does not dispatch, so every review in this repository is a self-review and this phase wrote a self-review of its own measurements. `outline/volume-04.md` has never existed and this phase did not create one. All four are reported and not repaired, and none of them is a writer's to make.

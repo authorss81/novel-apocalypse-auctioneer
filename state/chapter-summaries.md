@@ -1161,3 +1161,36 @@ The bid is ninety-two days old and is three months. Sixty-one days on from the f
 > 2, 2, 2, 3, 2, 2, 2, 1, 1, 3, 3, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 2, 0, 0, 1
 
 **CHAPTERS 438 AND 439 CARRY NO COUNTED CLAIM AT ALL AND ARE THE TWO MOST READABLE PAGES IN THE FIFTH BLOCK. A REPAIR THAT QUIETLY LOWERED THE RELAY WOULD HAVE DESTROYED THE MEASUREMENT, AND NOBODY DELETED, REWORDED OR MOVED ANYTHING.**
+
+---
+
+# VOLUME 10 CHAPTER INDEX — PLANNED, NOT WRITTEN — appended 2026-09-28 by the volume outline phase
+
+**THERE ARE NO CHAPTERS OF VOLUME 10. THERE IS NO CHAPTER 441. THIS IS AN INDEX OF WHAT THE OUTLINE PLANS AND NOT A RECORD OF WHAT WAS WRITTEN, AND IT IS HERE SO THAT A WRITER WHO READS THIS FILE AND NOT `outline/volume-10.md` CANNOT THINK A CHAPTER EXISTS. EVERY FIGURE BELOW IS A FIGURE ABOUT A PLAN. A CLOSE MAY NOT TREAT ANY OF IT AS PROSE.**
+
+**VOLUME 10 IS CHAPTERS 441 TO 500, SIXTY CHAPTERS, FIFTY DAYS. FOUR BATCHES OF FIFTEEN. THE DAY INDEX IS `c` AND NOT THE CHAPTER NUMBER.**
+
+| Batch | Chapter | c | Date planned | What the outline plans, in one line |
+|---|---|---|---|---|
+| 0001 | 441 | 1 | twelfth/8 | The debt: the length of the twelfth month is not a figure this canon has, and the stone on the corner of the lot book is turned over and its underside is worn one inch deep in the middle and nothing at either end |
+| 0001 | 442 | 2 | twelfth/9 | The left hand goes back into a cloth and the stone goes face up on the ground by the boards, and nobody is thanked |
+| 0001 | 443 | 3 | twelfth/10 | The morning of day 3: the second line of the lot book may be wrong this morning as well as being wrong since the fifteenth of the tenth |
+| 0001 | 444 | 3 | twelfth/10 | **THE AFTERNOON OF THE SAME DAY**: the water is a foot and a half, on a schedule nobody chose, and the ladder did not move between the two chapters |
+| 0001 | 445 | 4 | twelfth/11 | The man who cut reeds gives a day out loud that nobody asked him for, and the third line of the book turns out to be a figure of him |
+| 0001 | 446 | 5 | twelfth/12 | A boy of about nineteen finds out that a day and a chapter are two figures |
+| 0001 | 447 | 6 | twelfth/13 | A woman of fifty-eight reads the three lines standing up and says nothing and is asked nothing |
+| 0001 | 448 | 7 | twelfth/14 | A man who puts tables up puts up a second table, unasked, and says he is not going to be thanked |
+| 0001 | 449 | 8 | twelfth/15 | The worn stone goes face up on the second table and a second stone goes on the corner of the book with no wear on it |
+| 0001 | 450 | 9 | twelfth/16 | A clerk enters the count of instruments moving from eleven to twelve, and enters the reason, and the measure is read out loud once |
+| 0001 | 451 | 10 | twelfth/17 | A man of fifty-six reads four figures and gets four, and one of the four is a day out, and nobody tells him in this block |
+| 0001 | 452 | 11 | twelfth/18 | A man keeps a figure nobody comes and gets, out of a ladder and not off a board |
+| 0001 | 453 | 12 | twelfth/19 | Nine people put a thumb in the hollow and say nothing, and a chalk mark a morning is kept by a man who cannot be paid |
+| 0001 | 454 | 13 | twelfth/20 | The bid is a hundred and twelve days open and is not run and nobody proposes closing it |
+| 0001 | 455 | 14 | twelfth/21 | The protagonist says out loud why he is afraid of a day, once, and nobody asks him twice, and nobody asks him for his name |
+| 0002 | 456–470 | 15–25 | twelfth/22 to day 3 | The three columns that are a day out are worked out in the open one at a time and entered as days and not corrected; a man of fifty-six is told in a yard and says nothing; **Chapter 467, day 23, is the count of the twelfth month, and the outline does not print what the count gives** |
+| 0003 | 471–485 | 26–37 | day 4 to day 15 | The midpoint reversal: a figure nobody has to enter cannot be a day out and cannot be checked either, and the district builds one |
+| 0004 | 486–500 | 38–50 | day 16 to day 28 | Two stones and two figures that contradict each other in the open; the fifth of the five said out loud and not paid; the final image at `outline/volume-10.md` section 10.5 |
+
+**THE RESOLUTION'S MEASURE, PLANNED: one stone, one inch deep in the middle of a hollow and nothing at either end, a second stone on the corner of the book with no wear on it, and the count of instruments moving from eleven to twelve. THE COST, PLANNED: a right hand that turns a stone and a left hand that has not closed since the eleventh of the June; a man of fifty-six told in the open and not asked twice; a man who cuts reeds keeping a chalk count he cannot be paid for; and the fifth of the five things this district does not have, which is still not paid.**
+
+**AND THE STANDING MEASUREMENT A CLOSE WILL RUN OVER THESE SIXTY CHAPTERS WHEN THEY EXIST, WITH THE VOLUME 09 BASE RE-DERIVED BY THIS PHASE: class-one claims 68 on 50 chapters, 0 mismatches, 0 class-two, denominator 120,329, `wc -w` 120,975, 4,837 shared twelve-word runs against 4,324 for the sum of the five block figures, four identical paragraphs of twelve words or more all crossing a block boundary, the reserved scan an empty dictionary, and no all-caps footer lines. THE PER-CHAPTER CLAIM COLUMN OF FIFTY CELLS THAT SUMS TO SIXTY-EIGHT IS PRINTED AT `outline/volume-10.md` SECTION 13.1 AND CHAPTERS 438 AND 439 CARRY NO COUNTED CLAIM AT ALL AND ARE THE MODEL.**
