@@ -398,3 +398,63 @@ Untouched, in all one hundred and eighty chapters and to be left untouched: **th
 ## 19.4 THE CONTROLLER FILE, REPORTED AND NOT REPAIRED
 
 **`state/phase-ledger.json` STILL READS `currentPhase: phase-000-bootstrap`, `status: planned`, `attempts: 0`, `range: null`, AFTER FOUR HUNDRED CHAPTERS AND SIX BLOCKS AND TWO CLOSES. IT IS CONTROLLER-OWNED, IT WAS READ AND NOT TOUCHED BY THIS PHASE, AND A WRITER THAT WRITES ITS OWN PHASE STATUS CANNOT BE COUNTED AS HAVING REACHED A PHASE. AND THE ONE next phase WAS CREATED BY A WRITER'S COMMIT AND NOT BY `scripts/novel_runner.sh`, WHOSE `ensure_next_phase` ONLY WRITES A GENERIC CONTINUATION STUB AND HAS NO CONCEPT OF A BATCH OR OF A VOLUME CLOSE.**
+
+## 20. VOLUME 09 BATCH 0002 — THE POSITION AFTER CHAPTERS 401 TO 410, AND WHAT A WRITER FOR CHAPTERS 411 TO 420 MUST NOT CARRY BY ACCIDENT
+
+**VOLUME 09 IS OPEN. Chapter 391 IS ITS FIRST CHAPTER AND Chapter 410 IS THE LAST CHAPTER OF ITS SECOND BLOCK, TEN DAYS FOR TEN CHAPTERS, ONE CHAPTER A DAY, THE TWENTY-NINTH OF THE TENTH TO THE EIGHTH OF THE ELEVENTH MONTH OF THE EIGHTEENTH YEAR AFTER THE LONG FRACTURE, AND NO CHAPTER CARRIES TWO DATES. The one next phase is `workspace/volume-09/batch-0003/PROMPT.md`, WHICH IS CHAPTERS 411 TO 420: THE NINTH TO THE EIGHTEENTH OF THE ELEVENTH.**
+
+### 20.1 THE FIGURE TABLE FOR THE NEXT TEN DAYS, DERIVED AND NOT CARRIED
+
+`b` is the number of days since the thirtieth of the eighth month, which is Chapter 341. **`b` IS 70 AT CHAPTER 411 AND 79 AT CHAPTER 420.** Every figure below is derived from a day it names. The full table with both tests is at `state/volume-09-batch-0002-summary.md` section 2 and the outline's own fifty-day table is at `outline/volume-09.md` section 6.1.
+
+| The live field says | at Chapter 400 | at Chapter 401 | at Chapter 410 | at Chapter 411 | at Chapter 420 |
+|---|---|---|---|---|---|
+| the board | 308 | **309** | **318** | 319 | 328 |
+| the train on the siding, in days | 624 | **625** | **634** | 635 | 644 |
+| the days nobody has entered | 338 | **339** | **348** | 349 | 358 |
+| the days from the second of January | 299 | **300** | **309** | 310 | 319 |
+| the pool of refusals with no reason a clerk of a house has given | 218 | **219** | **228** | 229 | 238 |
+| the ninth of the nine printed nights, days back | 191 | **192** | **201** | 202 | 211 |
+| the rival record, days in force | 149 | **150** | **159** | 160 | 169 |
+| the age of the figure about the figure | 149 | **150** | **159** | 160 | 169 |
+| the mornings that table has stood | 114 | **115** | **124** | 125 | 134 |
+| the first day of the eighth month, days past | 88 | **89** | **98** | 99 | 108 |
+| the man of about sixty-four, days in | 99 | **100** | **109** | 110 | 119 |
+| the nights of his run slept on | 98 of 99 | **99 of 100** | **108 of 109** | 109 of 110 | 118 of 119 |
+| the bid, days open | 58 | **59** | **68** | 69 | 78 |
+| the days since the rule was said | 18 | **19** | **28** | 29 | 38 |
+| the days the second line has been out of date | 13 | **14** | **23** | 24 | 33 |
+| the days a body four hundred miles off is past a printing it did not make | 27 | **28** | **37** | 38 | 47 |
+| the days since the first of the fourth month with no line on a board | 211 | **212** | **221** | 222 | 231 |
+| the days the six households have not moved | 190 | **191** | **200** | 201 | 210 |
+| the figure on the sheet at that gatepost | four hundred and eleven | **four hundred and eleven** | **four hundred and eleven** | four hundred and eleven | four hundred and eleven |
+
+**THE NIGHT HE FOLDS HIS COAT FOR IS A HUNDRED AND FIRST AT CHAPTER 401 AND A HUNDRED AND TENTH AT CHAPTER 410, AND IT IS THE STAY PLUS ONE, AND IT IS THE ONLY NIGHT IN THIS DISTRICT THAT IS ONE MORE THAN A DAY. A STAY IS COUNTED WITHOUT THE DAY OF ARRIVAL. THE ARRIVAL DAY OF THE TRAIN IS NOT COUNTED IN. THE SHEET'S OWN TENURE ON THAT POST IS NOT A FIGURE THIS CANON HAS AND NO CHAPTER PRINTED ONE.**
+
+**THE FIGURE ON THE SHEET AT THAT GATEPOST DID NOT MOVE ON ANY OF THE TEN DAYS AND IS AT TEN OCCURRENCES ACROSS THE TEN CHAPTERS ON A CASE-SENSITIVE WHOLE-WORD COUNT AND TEN ON A CASE-INSENSITIVE ONE, AND THE TWO ARE THE SAME FIGURE BECAUSE THIS BLOCK HAS NO UPPERCASE RESTATEMENT OF IT, AND THE PER-CHAPTER COLUMN IS 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 AND ADDS TO TEN.**
+
+### 20.2 WHAT THE BLOCK SPENT, AND WHAT IT DID NOT
+
+**SPENT, ALL ON THE PAGE AND IN A BODY:** a month counted, thirty marks, thirty days, both days named, a man reading the marks beside a clerk; the length of the month after that one entered off a list and flagged unchecked, and the ninth month's thirty-one said out loud as a figure whose mark nobody wrote down; twelve figures crossed with the word on them in a clerk's own hand at half past seven; the third month going to eight months back out loud in a yard and a clerk writing eight and not going back; a word read out loud with a figure and binding nobody; a man declining to put a word in chalk and giving the reason once; a boy who could not read her hand past the fourth word; a question asked three times and a third answer unfinished; a fifth column refused before the question was finished; a description of how a figure got into a book, with the man nine feet away in standing water who said five words; two people stopped in their tracks; a month said out loud without crossing to it, and the two dates on a page and in no book, and the reason for the interval refused; a stranger's distance and a third thing not said and an eleven-second silence; eight days off a list and a figure a boy cannot get twice; and the clean wood above the topmost mark.
+
+**DID NOT MOVE, AND EVERY ONE WAS CHECKED AGAINST THE CHAPTER FILES BEFORE IT WAS PRINTED:** the figure on that sheet, the bid, the reading of that lot, the four empty columns, the column for the name of whoever read a thing out loud, the second of the two books, the old charter's wrong fifth line, the fifth of the five things this district does not have, the ninth of the nine printed nights, the two refusals of a price for a name, the fourth line of the offer and the departure, the man of about sixty-four, the man of about thirty-seven who cuts reeds, the woman who keeps the two books, the man of about thirty-four who mends fencing, and the protagonist's name.
+
+**AND THE THREE THINGS A CLOSE OR A LATER WRITER MUST NOT FIND BY ASSUMING THEM. *UNCHECKED* IS AT ZERO AT CHAPTER 401 AND AT SIX OCCURRENCES ACROSS THE BLOCK, ONE AT 402, ONE AT 403 AND FOUR AT 404, AND IT IS ON NO FIGURE THAT DID NOT CROSS A MONTH. *EIGHT MONTHS BACK* IS AT TWO ACROSS THE BLOCK AND BOTH ARE AT 403, AND *SEVEN MONTHS BACK*, *FIVE MONTHS BACK*, *FOUR MONTHS BACK* AND *THREE MONTHS BACK* ARE ALL AT ZERO ACROSS THE BLOCK, AND THE PAGES THAT CARRY THREE, FOUR, FIVE AND SEVEN ARE ON A PILE FOUR HUNDRED YARDS UP THAT BANK AND WERE NOT ALTERED AND WERE NOT LOOKED AT. AND THE LENGTH OF THE ELEVENTH MONTH IS A FIGURE ABOUT A LIST AND NOT A COUNT, AND THE CHECK ON IT IS CHAPTER 433 AND NOT BEFORE.**
+
+### 20.3 THE FIGURES OF THIS BLOCK, ON A MEASUREMENT, AND NOT A VERDICT
+
+**`python3 tools/measure.py calib` RETURNS 53 CLASS-ONE CLAIMS, 0 MISMATCHES, A DENOMINATOR OF 25,569, A `wc -w` TOTAL OF 25,689 AND 675 SHARED TWELVE-WORD RUNS, AND ALL FOUR REPRODUCE. THE TOOL IS HARD-CODED TO CHAPTERS 251 TO 260 FOR EVERY MODE BUT `calib`, SO FOR YOUR BLOCK IT HAS TO BE RUN THROUGH A WRAPPER IN A TEMPORARY DIRECTORY THAT IMPORTS THE MODULE AND CALLS THE SAME FUNCTIONS. NOTHING UNDER `tools/` IS EDITED. YOUR BLOCK RECORD SAYS THIS IN THE SAME WORDS, AND THE CLOSE SAYS IT IN THE SAME WORDS AGAIN, AND THAT IS THE POINT OF IT BEING THE SAME WORDS.**
+
+**Chapters 401 to 410: 15 class-one claims, 0 mismatches, 0 class-two claims, a denominator of 23,133, a `wc -w` total of 23,259 with a per-chapter column of 2,318, 2,363, 2,375, 2,283, 2,241, 2,482, 2,281, 2,299, 2,282 and 2,335, 947 shared twelve-word runs, zero identical paragraphs of twelve words or more, thirty-four bold clauses, zero System panels, zero reserved-list hits, and zero markdown, unit or weekday integrity issues. THE PER-CHAPTER CLASS-ONE CLAIM COLUMN IS 3, 2, 2, 1, 1, 2, 1, 1, 1, 1 AND THE CELLS ADD TO FIFTEEN. THE 144-PATTERN META LIST AS ENUMERATED RETURNS ZERO HITS OVER THESE TEN CHAPTERS AND ZERO OVER CHAPTERS 399 AND 400, AND THE BARE WORDS ARE ALL AT ZERO EXCEPT *READER*, TWICE AT CHAPTER 407, BOTH INSIDE *THE SECOND READER*, WHICH IS IN-WORLD. THE THREE FIGURES IN THIS ROW THAT A REPAIR MOVED ARE THE DENOMINATOR, THE `wc -w` COLUMN AND THE RUN COUNT, AND ALL THREE WERE RE-MEASURED AFTER THE LAST PROSE EDIT AND NOT CARRIED, AND THE RUN COUNT WAS 1,009 AT THE FIRST MEASURE OF THIS BLOCK AND 947 AT THE LAST AND IS AGAINST BATCH 0001's 628 AND A VOLUME 08 RANGE OF 682 TO 1,088.**
+
+**AND THE OPENING-FIGURE, MEASURED: **ZERO** OF THIS BLOCK'S TEN OPENINGS MATCH `The [a-z-]+ of the [a-z-]+ month came in`, AGAINST A CAP OF THREE ON THE BLOCK AND FIFTY OF FIFTY ACROSS THE FIFTY CHAPTERS THIS BLOCK INHERITS, AND THE TEN OPENINGS ARE A FIGURE ON A BOARD, A COUNT, A PAGE AND A WORD IN A MARGIN, A FIGURE READ WITH A WORD, A QUESTION ASKED THREE TIMES, A MAN COMING ACROSS A YARD, TWO MEN WORKING ON THEIR FINGERS, A MAN AT A STRANGER'S DISTANCE, A PAGE TURNED BACK, AND A MORNING. THE CAP WAS NOT RAISED. THE WORDS THAT OPEN EACH CHAPTER ARE PRINTED IN THE BLOCK RECORD SO THAT A CLOSE CAN CHECK THE LIST.**
+
+**AND THE CLERK-ENTRY SHARE IS 5.93 PER CENT OF BODY PARAGRAPHS AND 12.57 PER CENT OF BODY WORDS AGAINST CAPS OF 11.3 AND 12.6, MEASURED ON THE STRICT DEFINITION, A PARAGRAPH THAT OPENS WITH *A clerk of nineteen years entered*. IT WAS 25.00 AND 26.77 IN THE FIRST DRAFT OF BATCH 0001 AND 11.02 AND 11.82 AFTER ITS FIRST REPAIR AND 5.75 AND 10.21 AFTER ITS SECOND. THIS BLOCK'S FIGURE IS 12.57 PER CENT OF WORDS AND IT IS UNDER THE CAP AND IT IS TWENTY PER CENT ABOVE BATCH 0001's, AND THE RAW COUNTS ARE IN THE BLOCK RECORD BESIDE THE RATES, AND A RATE THAT FALLS BECAUSE THE DENOMINATOR ROSE IS NOT THE SAME REPAIR AS A RATE THAT FALLS BECAUSE THE LEDGER SHRANK.**
+
+**AND THE PROSE FIGURES, MEASURED AFTER THE LAST EDIT AND AFTER ONE HUNDRED AND SIXTEEN HAND REPAIRS TO SPLITTER DAMAGE: NARRATION SENTENCES 530, MEAN 32.1 WORDS, MEDIAN 29, MAXIMUM 88, NONE AT OR OVER 100, 104 UNDER TEN WORDS, 133 LINES CARRYING SPOKEN DIALOGUE, THE STRING *THAT YARD* 32, THE OPENING *ABOUT FOUR PEOPLE IN THAT YARD SAID* 0, AND THE 144-PATTERN LIST AT ZERO. THE MEDIAN IS FOUR OVER THE BRIEF'S FIGURE OF AROUND TWENTY-FIVE AND THE MEAN IS TWO OVER THIRTY, AND BOTH ARE PRINTED AND NEITHER IS SOFTENED. THE PROSE REPAIR OF THIS BLOCK IS THE ONE THE BLOCK RECORD NAMES AS A DEFECT: A MECHANICAL SPLITTER DELETED A CONNECTIVE AT ONE HUNDRED AND SIXTEEN PLACES, EVERY ONE WAS FOUND BY READING THE FILES, AND EVERY ONE WAS REPAIRED BY HAND.**
+
+**A FIGURE THAT REPRODUCES IS NOT A CHAPTER THAT IS SOUND. A REVIEW IS A PASS AND NOT A VERDICT AND A CLOSE IS A PASS AND NOT A VERDICT, AND THIS BLOCK'S OWN RECORD SAYS BOTH OF THOSE SENTENCES.**
+
+### 20.4 THE CONTROLLER FILE, REPORTED AND NOT REPAIRED
+
+**`state/phase-ledger.json` STILL READS `currentPhase: phase-000-bootstrap`, `status: planned`, `attempts: 0`, `range: null`, AFTER FOUR HUNDRED AND TEN CHAPTERS. IT IS CONTROLLER-OWNED, IT WAS READ AND NOT TOUCHED BY THIS PHASE, AND A WRITER THAT WRITES ITS OWN PHASE STATUS CANNOT BE COUNTED AS HAVING REACHED A PHASE. AND THE ONE next phase WAS CREATED BY A WRITER'S COMMIT AND NOT BY `scripts/novel_runner.sh`, WHOSE `ensure_next_phase` ONLY WRITES A GENERIC CONTINUATION STUB AND HAS NO CONCEPT OF A BATCH OR OF A VOLUME CLOSE.**
