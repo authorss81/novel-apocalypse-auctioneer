@@ -28,15 +28,15 @@ Then she entered the other half of it, and she said the other half out loud befo
 
 "**A figure in this district that a stranger can check has to be checked by somebody standing there, and the only people who check anything in that yard are people who are carrying something, and about four of the people who carry something have read that book every working day for two months and not one of them has been asked what they make of it, and that is not a rule anybody made. It is what happens when nobody is asked.**"
 
-Nobody answered her. The clerk of nineteen years entered that a clerk said a thing out loud in that yard and entered the thing, and entered that no rule in this district says a person who is carrying something may not be asked what they make of a page, and entered that there is no rule that says they may, and that the second of those two is the finding, and the record about the not asking says not asked.
+Nobody answered her. The clerk of nineteen years entered that a clerk said a thing out loud in the open there and entered the thing, and entered that no rule in this district says a person who is carrying something may not be asked what they make of a page, and entered that there is no rule that says they may, and that the second of those two is the finding, and the record about the not asking says not asked.
 
 ---
 
-The man of about thirty-four who mends fencing was at the far end of that table with his left hand in its cloth and he said one thing out loud at about half past ten, to about four people and not to the rest, and the boy of about nineteen counted what he said and got fifty-eight and read the number back to himself in a low voice.
+The man of about thirty-four who mends fencing was at the far end of that table with his left hand in its cloth and he said one thing out loud at about half past ten, to about four people and not to the rest, and the boy of about nineteen counted what he had said and got fifty-eight and read the number back to himself in a low voice.
 
 "**She has been the only person in this yard who has ever checked a figure by standing in front of the thing it is about, and she has done it about four hundred times, and not one of those four hundred was written down, and a check nobody writes down is not a check anybody can do again.**"
 
-Nobody answered him. The clerk of nineteen years entered that a man said a thing out loud there and entered the thing, and entered that she has not written down one of them and is not going to, and entered that a clerk entering a check she has not made is a clerk inventing an instrument, and the record about the not asking says not asked.
+Nobody answered him. She entered that a man had said a thing out loud in that yard, and entered the thing, and entered that she has not written down one of them and is not going to, and entered that a clerk entering a check she has not made is a clerk inventing an instrument, and the record about the not asking says not asked.
 
 Then the woman of fifty-eight came back down that bank with the two full buckets and stopped at the end of that table again on her way up with them, and read the three lines again from the top, and took the half second on the third one, and went up the bank.
 

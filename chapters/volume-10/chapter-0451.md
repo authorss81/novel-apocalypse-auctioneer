@@ -18,7 +18,7 @@ A woman of about thirty-six who keeps a scale asked him at about half past nine,
 
 "It is right this morning," said the man of fifty-six, "the same as it has been right every morning since the middle of the sixth month, and I have got it every morning and I have never once counted the marks behind it, and there are no marks behind that one. It is a figure somebody wrote down once and we have all been saying it out loud ever since."
 
-Nobody answered him. The clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that a man of fifty-six said that he has never counted a mark against that figure and did not do so this morning, and the record about the not asking says not asked. She entered that separately, on the same page, and she entered no figure with it.
+Nobody answered him. The She entered that a man had had said a thing out loud in that yard, and entered the thing, and entered that a man of fifty-six said that he has never counted a mark against that figure and did not do so this morning, and the record about the not asking says not asked. She entered that separately, on the same page, and she entered no figure with it.
 
 ---
 

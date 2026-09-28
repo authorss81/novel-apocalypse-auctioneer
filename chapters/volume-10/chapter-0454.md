@@ -2,7 +2,7 @@
 
 A clerk of nineteen years entered, at about half past four on the twentieth of the twelfth month, that a bid in this district has now been open one hundred and eleven days, that it was not run on this day, and that nobody proposed anything about it in a mouth or in a page, and she entered neither of those as a failure and entered neither of them as a plan, and about nine people at that table heard her say all three of those things and about four of them said afterwards that it was the first time a clerk had entered an old thing getting older instead of a thing going wrong.
 
-It was the twentieth of the twelfth month and there was sleet in the air that did not fall, and the boards of the second table were wet underneath and the chalk marks on its edge had run a very little at the wet end and had not run at the other. By ten there were about nineteen people in the yard of Lot Seventeen.
+It was the twentieth of the twelfth month and there was sleet in the air that did not fall, and the boards of the second table were wet underneath and the chalk marks on its edge had run a very little at the wet end and had not run at the other.
 
 A clerk of nineteen years entered, at about a quarter to eight and before there was anybody else standing there, that the figure on the sheet at that gatepost is four hundred and eleven and did not move, and entered the age of that figure as a figure about the figure, which is two hundred and two days, and entered that a figure about a figure is not a figure about a sheet and that there is no day-count for the sheet.
 
@@ -22,15 +22,17 @@ The man of about thirty-four who mends fencing said one thing out loud at about 
 
 "**A figure a stranger cannot check is not a figure a bid can be run on, and the figure on that sheet has not moved on a single day of this month or the last, and the date under the figure in that book is a man, and both of those are true in this yard at the same time, and about four of us have known both of them since the eleventh of this month and not one of us has put them in the same sentence in front of the man who reads four figures off that wall every morning.**"
 
-Nobody answered him. The clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that the two halves of it are both entered elsewhere on her page and that she is not joining them, and the record about the not asking says not asked.
+Nobody answered him. The She entered that a man had had said a thing out loud in that yard, and entered the thing, and entered that the two halves of it are both entered elsewhere on her page and that she is not joining them, and the record about the not asking says not asked.
 
 The boy of about nineteen said out loud, in that yard, in the ordinary voice, that the man of fifty-six should be told, and the clerk of nineteen years said no before he had got to the end of the sentence, and she said it in about four seconds, and the boy of about nineteen counted what she said and got eighty-six and read the number back to himself in a low voice.
 
 "**No. A clerk does not take a figure to a man and stand in front of him holding it. A clerk says a figure out loud in a yard, in the ordinary voice, in front of about nineteen people, and then a man who has not been asked whether he wanted to be told finds out that he has been told, and that has happened to him once already in this district and I am not going to do it to him twice in a fortnight.**"
 
-Nobody said anything to her about that. A clerk of nineteen years entered that a boy of about nineteen said a thing out loud in that yard and entered the thing, and entered that she said no to it, and entered the reason she gave, and entered that the man of fifty-six was not asked whether he wanted to be told and the record about the not asking says not asked.
+Nobody said anything to her about that. A clerk of nineteen years entered that a boy of about nineteen said a thing out loud there and entered the thing, and entered that she said no to it, and entered the reason she gave, and entered that the man of fifty-six was not asked whether he wanted to be told and the record about the not asking says not asked.
 
 ---
+
+By ten there were about nineteen people in the yard of Lot Seventeen, and the sleet in the air had not come down on one of them.
 
 The man of about forty-eight who keeps a tally was at the east end of that yard from about ten until about one with a flat book under his left arm, and nobody walked over to him, and he was not asked for anything, and the record about the not asking says not asked.
 
@@ -40,7 +42,7 @@ At about one the man the figure of twenty-one years is against came down that ba
 
 "A hundred and eleven days is not a failure. It is what a thing looks like when nobody in a district can do the one thing that would let it finish, and the one thing is somebody saying a number and somebody else saying a number back, and this yard has not had that in six months and cannot have it while the only figures anybody can see are figures about a wall that is not in the open."
 
-A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that she has not entered it as a failure and has not entered it as a plan, and entered that a man said a thing in that yard and that about four people at that table said afterwards that it was the first time anybody had said out loud what the bid is waiting for, and that she is not entering what any of them would do about it, and the record about the not asking says not asked.
+A clerk of nineteen years entered that a man said a thing out loud, and entered the thing, and entered that she has not entered it as a failure and has not entered it as a plan, and entered that a man said a thing in that yard and that about four people at that table said afterwards that it was the first time anybody had said out loud what the bid is waiting for, and that she is not entering what any of them would do about it, and the record about the not asking says not asked.
 
 At about half past one the man of about thirty-four who digs loam came up out of that bank and got the four figures at the near end of the table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day, and he did not put a thumb in the hollow on the second table on his way past and about four people noticed that he did not. At about two the man of about thirty-seven who cuts reeds came up and stood at that table for about four seconds with the bundle under his arm and about nine people were within four feet of him and nobody said a word to him, and the record about the not asking says not asked. At about half past two the road keeper came up that lane and got the four figures off that wall as he went past and was not asked about the eleven miles. At about three the man of about twenty-nine who drives a cart came up and went on up it, and the near wheel on that cart was still dragging, and he got it up about nine inches off the ground with one arm, and nobody said a word about it.
 

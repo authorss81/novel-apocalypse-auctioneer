@@ -24,7 +24,7 @@ The man of about thirty-four who mends fencing was at the far end of that table.
 
 "**She is not going to do it so that I do not have to, and I would rather it was said out loud than not said at all, and it is a thing about about four of you and not a thing about her.**"
 
-The clerk of nineteen years entered that a woman said a thing out loud in that yard and entered the thing, and entered that nobody thanked anybody, and entered that she is not entering what anybody in that yard was thinking, and the record about the not asking says not asked.
+The clerk of nineteen years entered that a woman said a thing out loud, and entered the thing, and entered that nobody thanked anybody, and entered that she is not entering what anybody in that yard was thinking, and the record about the not asking says not asked.
 
 ---
 
@@ -66,7 +66,7 @@ At about half past three a man of about sixty-four was at the foot of that low w
 
 ---
 
-A clerk of nineteen years entered the rest of that day in one paragraph at about half past four, and nine people at that table heard every word of it and the rest of that ground did not.
+A clerk of nineteen years entered the rest of that day in one paragraph at about ten past four, and nine people at that table heard every word of it and the rest of that ground did not.
 
 The bid is open a hundred days and was not run on this day and nothing was proposed about closing it in a mouth or in a page. Fifty-five days is how far behind the figure on the second line of that lot book is, and it has not been altered, and it has nothing written beside it, and there is a date under it. Sixty days is how long the rule said out loud in that yard has been standing since the tenth of the tenth month. The first day of the eighth month is a hundred and thirty days past. The ninth of the nine printed nights is two hundred and thirty-three days back. A body four hundred miles off is sixty-nine days past a printing it did not make, and nobody watched anything, and a clerk may not enter that anybody was waiting for it. The reading of that lot is begun and not finished and stands at the fourth of the five things a document that sets a lot out has to say, and the fourth is a person. Nine marks have been cut off that board since the mark for the first of this month, and nine marks is a figure about a count of marks and is not a figure about a month, and there is still no figure in this district for how long this month is. The word unchecked is in the margin of her own page, in her own hand, over nothing. Nothing went into the column for the name of whoever read a thing out loud, and it was empty at about six. The fifth of the five things this district does not have is still not paid, and the fifth is a way to pay a person who is not in a household.
 

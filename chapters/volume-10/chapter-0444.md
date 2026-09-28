@@ -36,17 +36,17 @@ A few people at that table said afterwards that a foot and a half was in a book 
 
 The man of about thirty-four who digs loam was in that ditch until about half past three and came up out of the bank and got the four figures at the near end of the boards and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day.
 
-He stood at the end of that table and looked at the lot book and said one thing out loud, in about four seconds, and the boy of about nineteen counted what he said and got fifty-one and read the number back to himself in a low voice, and the boy of about nineteen was not sure for about a second whether the number was right and read it again to himself and it was.
+He stood at the end of that table and looked at the lot book and said one thing out loud, in about four seconds, and the boy of about nineteen counted what he had said and got fifty-one and read the number back to himself in a low voice, and the boy of about nineteen was not sure for about a second whether the number was right and read it again to himself and it was.
 
 "**Nobody has to write down a foot and a half and nobody is going to, and I was in the water at one o'clock and I am telling that yard it was a foot and not a foot and a half, and those two figures are both of them about today.**"
 
-Nobody answered him. The clerk of nineteen years entered that a man said a thing out loud there and entered the thing, and entered that a figure a man gives out loud about a day is not a figure about a day until somebody has counted it, and entered that she is not going to count it and why, and the reason is that a count made by a clerk of a thing nobody asked her to count is a count of the clerk, and the record about the not asking says not asked.
+Nobody answered him. The She entered that a man had said a thing out loud, and entered the thing, and entered that a figure a man gives out loud about a day is not a figure about a day until somebody has counted it, and entered that she is not going to count it and why, and the reason is that a count made by a clerk of a thing nobody asked her to count is a count of the clerk, and the record about the not asking says not asked.
 
 At about four the man the figure of twenty-one years is against came down that bank and stopped at the top of it and looked into the water for about as long as it takes the man of fifty-six to read four figures, and then he turned round and said one sentence to the yard and did not say it loud.
 
 "**It has rained, and everything in this valley is holding what it has been given this week, and a figure on a page does not know what it is raining, and the man standing in it does.**"
 
-The clerk of nineteen years entered that a man said a thing out loud there and entered the thing, and entered no figure about the rain, and the record about the not asking says not asked.
+The The clerk entered that a man said a thing out loud there and entered the thing, and entered no figure about the rain, and the record about the not asking says not asked.
 
 At about half past two the road keeper came up that lane and got the four figures off that wall as he went past and was not asked about the eleven miles, and about four people at that wall counted him doing it and one of them counted out loud that it was the second time that day the four had been read off that wall in front of a stranger. At about three the man of about twenty-nine who drives a cart came up and went on up it, and the near wheel on that cart was still dragging, and he got it up about nine inches off the ground with one arm.
 

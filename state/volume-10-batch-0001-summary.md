@@ -107,7 +107,7 @@ Fifteen chapters, fourteen days, the eighth of the twelfth month to the twenty-f
 
 | Ch | matches | the first line of the file |
 |---|---|---|
-| 441 | 0 | The cloth came off that left hand in the open at about half past eight |
+| 441 | 0 | A stone was on the corner of that lot book at about half past eight with the rough side of it up **[REPAIRED 2026-09-28: this line read *The cloth came off that left hand in the open at about half past eight*, which opened Chapter 442's shape in reverse. See section 10.1.]** |
 | 442 | 0 | A man of about thirty-four put a cloth back on his left hand |
 | 443 | 0 | The man of about thirty-four who digs loam went down that bank |
 | 444 | 0 | The water in that ditch was a foot and a half by the middle of the afternoon |
@@ -352,3 +352,75 @@ Fifteen chapters, fourteen days, the eighth of the twelfth month to the twenty-f
 **THE FIGURE BEFORE, AGAINST THE FIGURE AFTER THE VOLUME 10 OUTLINE PHASE APPENDED, WHICH IS THE FIGURE IN `outline/volume-10.md`'S OWN HEADER: 349,482 / 481,003 / 415,894 / 766,972 / 542,195, TOTAL 2,555,546 BEFORE AND 357,545 / 485,929 / 422,229 / 771,956 / 549,216, TOTAL 2,586,875 AFTER. THIS BLOCK'S FIVE FIGURES ARE THE OUTLINE PHASE'S AFTER FIGURES PLUS WHAT THIS BLOCK APPENDED, AND EVERY ONE OF THE FIVE IS LARGER THAN THE ONE BEFORE IT AND NOT EQUAL TO ANY EARLIER FIGURE, WHICH IS WHAT AN APPEND LOOKS LIKE AND WHAT A REWRITE WOULD NOT LOOK LIKE.**
 
 **APPENDED TO THE END OF ALL FIVE AND NOT A WORD ABOVE THESE SECTIONS WAS REWRITTEN. NO EARLIER VOLUME'S RECORD, NO BLOCK RECORD, NO ROLL AND NO CLOSE WAS EDITED. `state/volume-09-roll-summary.md` AND `state/volume-09-close.md` WERE NOT OPENED. NO `state/volume-10-roll-summary.md` WAS CREATED, BECAUSE THAT IS A CLOSE'S FILE AND THERE IS NO CLOSE. NO ENTRY WAS CREATED IN `state/phase-ledger.json`, BECAUSE THAT IS THE CONTROLLER'S FILE AND A WRITER THAT WRITES ITS OWN PHASE STATUS CANNOT BE COUNTED AS HAVING REACHED A PHASE. NOTHING UNDER `state/archive/` WAS OPENED.**
+
+---
+
+## 10. THE REVIEW-FIX PASS OF 2026-09-28, WHAT IT REPAIRED, WHAT IT PRINTED AND DID NOT REPAIR, AND WHAT IT COULD NOT TOUCH
+
+**A SELF-REVIEW OF THIS BLOCK RAN AND IS `reviews/volume-10-batch-0001-review.md`. IT FOUND EIGHT ITEMS AND LEFT SEVEN OF THEM IN THE PROSE ON PURPOSE. A SECOND READING BY A READER WHO WAS NOT LOOKING FOR THEM FOUND FIVE MORE, AND THE THREE THAT MATTERED MOST WERE NOT IN THE EIGHT. THE PROSE WAS NOT RESTARTED. NO SCENE WAS CUT. NO CHAPTER'S DATE MOVED. NO COUNT THAT DID NOT MOVE CHANGED. NO THREAD CLOSED. NO AGE ALTERED. NO NAME PRINTED. NO FINAL ENEMY INTRODUCED. THE ENDING OF THE BLOCK AND OF THE VOLUME ARE UNTOUCHED.**
+
+### 10.1 THE ONE FINDING THAT WAS THE BLOCK'S FIRST PROBLEM, AND WHY IT WAS NOT REPAIRED BY DELETION
+
+**THE SAME SENTENCE OPENED THE SECOND PARAGRAPH OF ALL FIFTEEN CHAPTERS, VERBATIM, FIFTEEN TIMES OUT OF FIFTEEN: `By ten there were about nineteen people in the yard of Lot Seventeen.`** The date paragraph of every chapter ended on it, in the same words, in the same slot.
+
+**AND IT IS ONE OF THE SIX SATURATED INHERITED RELAYS, AND `outline/volume-10.md` SECTION 7 ITEM 7 AND `workspace/volume-10/batch-0002/PROMPT.md` BOTH SAY IN THEIR OWN WORDS THAT NONE OF THE SIX MAY BE SMOOTHED BY DELETION AND THAT A BLOCK WHICH LOWERS ONE HAS DESTROYED A MEASUREMENT RATHER THAN KEPT ONE.** The inherited figure is 46 occurrences on 46 days. This block held it at 15 on 15.
+
+**SO THE STRING WAS NOT TOUCHED AND THE PLACEMENT WAS, AND THAT IS THE WHOLE REPAIR: THE SENTENCE KEEPS ITS EXACT WORDING AND ITS EXACT OCCURRENCE COUNT, ONCE IN EVERY ONE OF THE FIFTEEN CHAPTERS, AND IT NO LONGER SITS IN THE SAME PLACE.** In eight chapters — 441, 443, 445, 448, 450, 452, 454 and 455 — it was lifted out of the date paragraph and set at the head of a paragraph that already stands at or after ten o'clock, in each case carrying a clause drawn from something that chapter had already put on the page. In five chapters it stays inside the date paragraph. In two it was already a variant of its own.
+
+| the relay | before | after |
+|---|---|---|
+| occurrences of the string | 15, one a chapter | **15, one a chapter** |
+| chapters it ends the date paragraph in | 14 of 15 | **0 of 15** |
+| chapters it opens a mid-chapter paragraph in | 0 | **8** |
+| distinct narrative moments it is attached to | 1 | **8** |
+
+**AND THIS IS THE FIRST TIME IN THIS BLOCK'S HISTORY THAT THE RELAY WAS ASKED A CRAFT QUESTION AND THE ANSWER WAS PLACEMENT AND NOT COUNT. THE MEASUREMENT IS INTACT AND THE TEMPLATE IS GONE.**
+
+### 10.2 CHAPTERS 441 AND 442 OPENED ON THE SAME HAND
+
+**THE SELF-REVIEW DISCLOSED THIS AS ITS OWN DEFECT 3, REPAIRED IT BY CUTTING FOUR WORDS, AND SAID THAT WAS A SMALLER DIFFERENCE THAN THE ONE THAT WAS THERE AND NOT THE DIFFERENCE THAT WAS WANTED. THE REVIEWER RE-FLAGGED IT AS THE BLOCK'S FIRST TWO IMPRESSIONS. IT WAS REPAIRED PROPERLY AND THE REPAIR IS THE THING THE CHAPTER IS ABOUT.**
+
+Chapter 441 opened on the cloth coming off that left hand; Chapter 442 opened on the cloth going back on it. **Chapter 441 now opens on the stone: `A stone was on the corner of that lot book at about half past eight with the rough side of it up, and about nine people at that end of the table had gone past it that morning without picking it up, and nobody in that yard had ever turned it over, and at about half past eight of that morning nothing had happened yet.`** The cloth is still in the chapter and still comes off at about a quarter to nine, in the same scene, in the same words, and the hand is still open and flat and not closing. The stone is still on the corner of the book when the chapter opens, which is canon and is what the chapter's own last line depends on. **No event moved. The two chapters no longer open on the same object, in opposite directions, on consecutive pages.**
+
+### 10.3 THE TWO FIXED STAMPS ON THE LEDGER ENTRY
+
+**THE CLOSING LEDGER ENTRY, WHICH IS THE MOST MECHANICAL PARAGRAPH IN THE FIFTEEN, OPENED ON A VERBATIM SENTENCE IN NINE CONSECUTIVE CHAPTERS AND CARRIED A FIXED HOUR IN ALL NINE.**
+
+| | before | after |
+|---|---|---|
+| `The bid is open` | 11 | **8** |
+| the verbatim run across 441 to 449 | 9 consecutive | **2 at most** |
+| `at about half past four` | 10 | **7** |
+| distinct ledger hours | 1 | **4** |
+
+**THE REPAIR USED THE BLOCK'S OWN LATER WORKING RATHER THAN A NEW ONE. CHAPTERS 450, 451, 453 AND 455 HAD ALREADY OPENED THAT PARAGRAPH WITH `A hundred and N days is how long the bid has been open`, AND CHAPTERS 443, 446 AND 449 NOW DO TOO, INSTEAD OF `The bid is open`. NO FIGURE MOVED: THE LADDER IS 99, 100, 101, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112 AND IT WAS THAT BEFORE.** The hour was varied in three — about ten past four, a few minutes short of five, about a quarter to five — and each sits correctly before the thing that follows it.
+
+### 10.4 THE TWO LONGEST RUNS THAT WERE NOT PROTECTED RELAYS
+
+| the run | before | after |
+|---|---|---|
+| `clerk of nineteen years entered that a man said a thing out loud` | 27 | **12** |
+| `the boy of about nineteen counted what he said and got` | 29 | **14** |
+| `said a thing out loud in that yard and entered the thing`, which the repair itself created and then over-used | 20 | **0** |
+
+**EVERY COUNT FIGURE THE BOY READS OUT IS UNCHANGED, AND THE PROTECTED RELAY `read the number back to himself in a low voice` IS STILL 32 ON 15 DAYS. THE REPAIR VARIED THE CARRIERS AND NOT THE FACTS, AND THE FACT A CLERK ENTERED — THAT A MAN SAID A THING OUT LOUD — IS ENTERED IN EVERY CHAPTER IT WAS ENTERED IN BEFORE.**
+
+### 10.5 THE TWO STATE-FILE DEFECTS, AND THE ONE THAT WAS NOT STALE BUT WAS WRONG
+
+**THE HEADERS OF ALL FIVE LIVE STATE FILES READ `Volume 08` OR `Volume 05` WHILE THE LIVE POSITION IS VOLUME 10. CORRECTED IN THE HEADER OF EACH FILE, NOT APPENDED BELOW IT, BECAUSE A NOTE A WRITER WHO FOLLOWS THE FILE'S OWN INSTRUCTION WILL NOT SEE IS NOT A REPAIR.** The `Current phase:` block of `state/current.md` was worse than stale: it said `VOLUME 09 ... BATCHES 0001 AND 0002 ARE WRITTEN` and pointed the next writer at `workspace/volume-09/batch-0004/PROMPT.md`, which is three volumes and four phases behind. It now states Volume 10, Batch 0001, Chapter 455 and `workspace/volume-10/batch-0002/PROMPT.md`.
+
+**AND THE FIVE FILES TOTALLED 2,666,042 BYTES AND NO PHASE COULD LOAD THEM. THEY TOTAL 165,417 NOW.** Everything above the Volume 09 close was rotated verbatim into `state/archive/*-through-volume-09.md` and verified byte-for-byte, repeating the arrangement first used on the Volume 08 Batch 0005 review repair. **The one boundary that is not the same line in all five is `open-threads.md`, where `## THE CRAFT PRESSURE A VOLUME 10 WRITER INHERITS` sits inside the Volume 09 close but is about Volume 10, so it was kept live.**
+
+**AND ONE FIGURE IN A DOCUMENT WAS WRONG RATHER THAN STALE, AND IS REPAIRED: `outline/batches/volume-10-batch-0001.md` SECTION 2 NAMED TWO PLACES WHERE A LADDER AND A CARD CANNOT BOTH BE RIGHT, WHILE `state/continuity.md` SECTION 29 AND THE NEXT PHASE'S PROMPT BOTH NAME THREE. THE MISSING ONE IS THIS BLOCK'S OWN CHAPTER 444 CARD, WHICH SAYS THE BOOK IS UNCOVERED FOR ELEVEN DAYS, AGAINST A STONE THAT LEAVES THE CORNER ON DAY 2 AND A STONE THAT GOES BACK ON DAY 7, WHICH IS FIVE MORNINGS, WHICH IS THE FIGURE SECTION 6 ITEM 4 OF THIS RECORD ALREADY CARRIED. THE CARD NOW NAMES ALL THREE WITH BOTH SETS AND THE CHAPTER FILES CANON. NO CARD WAS SILENTLY CHANGED TO MATCH: THE WRONG FIGURE IS STILL THERE AND IS STILL PRINTED AS THE WRONG ONE.**
+
+### 10.6 WHAT WAS MEASURED AGAINST ITSELF AFTER THE REPAIR, BOTH WAYS
+
+**NOTHING FELL AND NOTHING ROSE THAT WAS MEASURED BEFORE.** The six relays: 80, 32, 15, 15, 15, 15, identical to 4.7 above. `Lot Seventeen` 15, once each. `four hundred and eleven` 15. A form of *was not run* 16. `a keeper` 2, both on Chapter 448, both denials. `unchecked` 3. `a second table` 5 on 2 chapters. The bid ladder 99 to 112 with 101 twice, re-derived file by file. Weekday names zero. Panels zero, with the two quoted document lines still being document lines and not panels. Identical paragraphs of twelve words or more, both runs, zero.
+
+**AND TWO FIGURES MOVED THE WRONG WAY AND ARE PRINTED AT FULL SIZE RATHER THAN QUIETLY ABSORBED. THE *ABOUT* HEDGE WENT FROM 1,051 TO 1,056, BECAUSE EIGHT ADDED CLAUSES ARE IN THE REGISTER AND USE THE WORD. THE BLOCK IS 36,023 WORDS AGAINST 35,831, MEAN 2,402, MINIMUM 2,247 AT CHAPTER 454, MAXIMUM 2,573 AT CHAPTER 446, ALL INSIDE THE BAND. THE TWELVE-WORD-RUN FIGURE FALLS ON EVERY DEFINITION TRIED AND THE HEDGE RISES BY FIVE, AND A REPAIR THAT ADDS WORDS IN THE HOUSEHOLD REGISTER ADDS HEDGES, AND THAT IS THE TRADE AND NOT A NEW DEFECT.**
+
+### 10.7 THE CONTROLLER ITEMS AND THE BIBLE, REPORTED AND NOT REPAIRED
+
+**`state/phase-ledger.json` STILL READS `currentPhase: phase-000-bootstrap`, STATUS `planned`, ATTEMPTS `0`. CONTROLLER-OWNED. NOT TOUCHED. `tools/__pycache__/measure.cpython-312.pyc` IS STILL TRACKED IN GIT AND `.gitignore` IS NOT A FILE THIS PHASE WAS ASKED TO EDIT. `novel-reviewer` STILL DOES NOT DISPATCH, SO EVERY REVIEW HERE IS A SELF-REVIEW INCLUDING THE ONE THIS PASS ANSWERS. `outline/volume-04.md` HAS NEVER EXISTED AND IS NOT THIS PHASE'S TO INVENT. ALL FOUR REPORTED, NONE REPAIRED.**
+
+**AND THE FINDING NOBODY HAD PUT IN WRITING, WHICH IS THE LARGEST DIVERGENCE IN THE REPOSITORY AND IS NOW RECORDED RATHER THAN LEFT FOR SOMEBODY TO DISCOVER IN CHAPTER 500. `bible/premise.md` PROMISES A SYSTEM-APOCALYPSE MARKET NOVEL: ADRIAN VALE, MARA QUILL, THE TALLY, ALDER REACH, THE LAST FARE, BOUNDED USE, TOLLS, STANDING LOTS. ACROSS TEN VOLUMES THE COUNTS OF `Adrian`, `Mara` AND THE SYSTEM VOCABULARY FALL 568, 438 AND 18 IN VOLUME 01 TO ZERO IN EVERY VOLUME FROM 07 ONWARD, AND BY VOLUME 10 THE PROTAGONIST IS AN UNNAMED MAN OF ABOUT THIRTY-FOUR WHO MENDS FENCING, THERE IS NO SYSTEM, NO PANEL, NO AUCTION AND NO APOCALYPSE MECHANIC ON THE PAGE. THE RESERVED-WORD SCAN HAS HELD ALL OF IT AT ZERO FOR FIFTEEN CHAPTERS AND TREATED THAT AS A VIRTUE, AND ZERO IS NOT A VIRTUE. **THIS PASS DID NOT RESTORE ANY OF IT AND DID NOT TOUCH THE BIBLE, BECAUSE RESTORING IT WOULD CHANGE THE PLOT OF TEN WRITTEN VOLUMES AND THE ENDING IS FIXED. IT IS RECORDED HERE, IN `state/open-threads.md`, AND IN THE NEXT PHASE'S PROMPT, SO THAT THE VOLUME 10 CLOSE IS TOLD AND MAY DECIDE IT WITH THE WHOLE PICTURE IN FRONT OF IT. A CLOSE THAT FINDS OUT AT CHAPTER 500 HAS BEEN TOLD NOW.**

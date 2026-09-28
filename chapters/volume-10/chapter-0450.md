@@ -2,7 +2,7 @@
 
 A clerk of nineteen years entered a number that had not moved in two months and a reason under it, in one entry, in the ordinary voice, to about nine people, and the count of things this district has made is twelve, and the thing that made it twelve is a table and a stone and nothing anybody can be paid for.
 
-It was the sixteenth of the twelfth month and there was rain in the night again and no rain in the day, and the boards of that second table were wet on the underside and dry on the top, which about four people noticed. By ten there were about nineteen people in the yard of Lot Seventeen.
+It was the sixteenth of the twelfth month and there was rain in the night again and no rain in the day, and the boards of that second table were wet on the underside and dry on the top, which about four people noticed.
 
 A clerk of nineteen years entered, at about a quarter to eight and before there was anybody else standing there, that the figure on the sheet at that gatepost is four hundred and eleven and did not move, and entered the age of that figure as a figure about the figure, which is a hundred and ninety-eight days, and entered that a figure about a figure is not a figure about a sheet.
 
@@ -16,7 +16,7 @@ Nobody said anything for about a minute and a half. A few people took that as a 
 
 ---
 
-The man of about thirty-four who mends fencing said it from the far end of that table with his left hand in its cloth, and the boy of about nineteen counted what he said and got eighty-seven and read the number back to himself in a low voice, and about nine people heard every word of it.
+The man of about thirty-four who mends fencing said it from the far end of that table with his left hand in its cloth, and the boy of about nineteen counted what he had said and got eighty-seven and read the number back to himself in a low voice, and about nine people heard every word of it.
 
 "**A figure in the open that a stranger cannot see is not a figure anybody can check, and the figure on the underside of that stone has been in the open in this yard under a book for two months and has not been seen by one person, and the reason there is a second table is that a hollow nobody can see is a figure about a book, and a hollow lying face up on a table in the open is a figure about a hollow.**"
 
@@ -28,7 +28,7 @@ He said out loud that he would read it back from the top, and the clerk of ninet
 
 "**I am not going to ask anybody to read that back, and I am not going to rule a column for it either. A second reader is nobody in particular, and he is found by whoever is standing there, and he is not found the same way twice, and if I ask one of about nineteen people to read it back this morning then that person is a reader for the rest of his life and I am not going to do that to anybody over a number about a table.**"
 
-Nobody read it back. The clerk of nineteen years entered that a man said a thing out loud there and entered the thing, and entered that a thing read back by nobody binds nobody, and that a clerk entered a number and a reason and not the hearing of it, and the record about the not reading says not read back.
+Nobody read it back. The clerk of nineteen years entered that a man had said a thing out loud there, and entered the thing, and entered that a thing read back by nobody binds nobody, and that a clerk entered a number and a reason and not the hearing of it, and the record about the not reading says not read back.
 
 ---
 
@@ -42,7 +42,7 @@ The man of about thirty-seven who puts tables up said one thing out loud at abou
 
 "**She has just entered the reason for the number under a number on a page in her own hand, and the reason is what I said four days ago, and a thing I said in that yard on the fourteenth of this month is now the reason under a figure on her page, and I am not going to be paid for either of those and neither is she, and that is a sentence and not a thing and it costs nothing.**"
 
-Nobody answered him. The clerk of nineteen years entered that a man said a thing out loud there and entered the thing, and entered that she has not been paid for the reason and did not expect to be, and entered that the fifth of the five things this district does not have is a way to pay a person who is not in a household, and entered that a clerk of nineteen years is in a household, and entered that a sentence is not a way to pay anybody, and the count of the five stays at five and no sixth is proposed.
+Nobody answered him. The She entered that a man had said a thing out loud there and entered the thing, and entered that she has not been paid for the reason and did not expect to be, and entered that the fifth of the five things this district does not have is a way to pay a person who is not in a household, and entered that a clerk of nineteen years is in a household, and entered that a sentence is not a way to pay anybody, and the count of the five stays at five and no sixth is proposed.
 
 ---
 
@@ -50,7 +50,9 @@ At about one the man the figure of twenty-one years is against came down that ba
 
 "That is the first figure in this district that anybody could put a hand on and get the same answer twice, and I am not going to be the man who says that is a good thing, because the last time this district had a figure it could put a hand on, a man walked down a lane and stood in front of a post and lost two hours of a morning he has been doing for six months."
 
-A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered no figure about the lane, and the record about the not asking says not asked.
+A clerk of nineteen years entered that a man said a thing out loud in the open there and entered the thing, and entered no figure about the lane, and the record about the not asking says not asked.
+
+By ten there were about nineteen people in the yard of Lot Seventeen, and about four people had already noticed the underside of that second table.
 
 At about half past one the man of about thirty-four who digs loam came up out of that bank and got the four figures at the near end of the first table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day. At about two the man of about thirty-seven who cuts reeds came up and stood at the second table for about four seconds with the bundle under his arm and about nine people were within four feet of him and nobody said a word to him and the record about the not asking says not asked. At about half past two the road keeper came up that lane and got the four figures off that wall as he went past and was not asked about the eleven miles. At about three the man of about twenty-nine who drives a cart came up and went on up it, and the near wheel on that cart was still dragging, and he got it up about nine inches off the ground with one arm.
 

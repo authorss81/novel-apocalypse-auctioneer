@@ -2,7 +2,7 @@
 
 A man of about forty-eight who keeps a tally stood at the east end of that yard from about half past nine until about one with a flat book held under his left arm against his ribs, and nobody walked over to him, and he was not asked for anything, and that is four hours of a morning in a yard with about nineteen people in it.
 
-It was the eighteenth of the twelfth month and the light was the colour of a wet road and it did not get any lighter. By ten there were about nineteen people in the yard of Lot Seventeen.
+It was the eighteenth of the twelfth month and the light was the colour of a wet road and it did not get any lighter.
 
 A clerk of nineteen years entered, at about a quarter to eight and before there was anybody else standing there, that the figure on the sheet at that gatepost is four hundred and eleven and did not move, and entered the age of that figure as a figure about the figure, which is two hundred days exactly, and entered that a figure about a figure is not a figure about a sheet and that there is no day-count for the sheet.
 
@@ -22,9 +22,11 @@ The boy of about nineteen went over to that end of the yard at about half past t
 
 "It is a tally of six households and I keep it and it is not yours and it is not hers." He did not open it. "It came out of a ladder and not off a board, and the day it was started is a day I can show you on a piece of paper, and nobody has ever asked me for the piece of paper, and if I show it to about nine people this morning then a figure of mine moves for a reason I made up standing here, and it has not moved in two volumes and I am not going to move it on the eighteenth of the twelfth month because a boy of nineteen stood near me."
 
-Nobody answered him. The clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that she did not ask for the piece of paper, and entered that the piece of paper is a thing about a man and is not a thing she can enter, and the record about the not asking says not asked.
+Nobody answered him. The She entered that a man had said a thing out loud there and entered the thing, and entered that she did not ask for the piece of paper, and entered that the piece of paper is a thing about a man and is not a thing she can enter, and the record about the not asking says not asked.
 
 ---
+
+By ten there were about nineteen people in the yard of Lot Seventeen and the man of about forty-eight who keeps a tally had been at the east end of it since about half past nine with the flat book under his arm.
 
 The man of about thirty-four who mends fencing came up out of the lane at about eleven with his left hand in its cloth and went and stood at the second table and put his right thumb in the hollow of the stone lying face up on it, and took it out, and did not say one word about it, and about four people at that table have now done that and not one of them has said how deep the hollow is.
 

@@ -1,8 +1,8 @@
 # Chapter 441: A Figure Nobody Had To Put Down
 
-The cloth came off that left hand in the open at about half past eight, and about nine people at that end of the table watched it happen, and not one of them said one word about it.
+A stone was on the corner of that lot book at about half past eight with the rough side of it up, and about nine people at that end of the table had gone past it that morning without picking it up, and nobody in that yard had ever turned it over, and at about half past eight of that morning nothing had happened yet.
 
-It was the eighth of the twelfth month and the light came up clean behind that bank and there was no wind at all in that ground. By ten there were about nineteen people in the yard of Lot Seventeen.
+It was the eighth of the twelfth month and the light came up clean behind that bank and there was no wind at all in that ground.
 
 A clerk of nineteen years entered, at about a quarter to eight and before there was anybody else standing there, that the figure on the sheet at that gatepost is four hundred and eleven and did not move. She entered the age of that figure as a figure about the figure, which is a hundred and ninety days, and entered that a figure about a figure is not a figure about a sheet and that there is no day-count for the sheet.
 
@@ -26,11 +26,11 @@ The man of fifty-six turned round from the boards. He is a slow man with a grey 
 
 "I have read that board every morning since the middle of the sixth month," he said. "I have got four figures off it every morning and I have never been wrong about one of them in your hearing or out of it. I do not know how many days this month has. Neither does anybody standing in this yard. That is not a figure about a board. It is a figure about a month, and nobody has counted the month, and I am not going to stand here and invent one because a boy of nineteen has asked me a fair question."
 
-Nobody said anything for about as long as it takes to fill a bucket. The man of about thirty-seven who puts tables up said one thing out loud from the east wall, in about four seconds, and the boy of about nineteen counted what he said and got sixty-seven and read the number back to himself in a low voice.
+Nobody said anything for about as long as it takes to fill a bucket. The man of about thirty-seven who puts tables up said one thing out loud from the east wall, in about four seconds, and the boy of about nineteen counted what he had said and got sixty-seven and read the number back to himself in a low voice.
 
 "**A month is the shortest interval this district has any evidence for, and the length of this one is the last figure in the calendar nobody has counted, and a man of fifty-six is about to have to read two of his four off a length that has never been counted by anybody. He is not wrong. There is nothing in this yard to be right with.**"
 
-The clerk of nineteen years entered that a man said a thing out loud there and entered the thing, and entered no figure about it, and the record about the not asking says not asked.
+She entered that a man had said a thing out loud there and entered the thing, and entered no figure about it, and the record about the not asking says not asked.
 
 Then she entered, in her own hand, on the same page, a second thing, and she said the second thing out loud before she wrote it, which she has done twice in five volumes.
 
@@ -59,6 +59,8 @@ Nobody said a better word. A clerk of nineteen years entered that a stone that h
 She did not enter that the hand was better than it had been the day before, and a clerk may not enter that.
 
 ---
+
+By ten there were about nineteen people in the yard of Lot Seventeen, and the four figures on that wall had been read off it once already that morning, and the stone was face up in the right hand of a man at the far end of that table.
 
 At about ten the man of about thirty-four who digs loam came up out of that bank with the water to his thigh and got the four figures at the near end of the boards and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day. He stood about two feet from the far end of that table for about a minute and a half looking at the underside of a stone, and then he went back down the bank without saying one word about it.
 
