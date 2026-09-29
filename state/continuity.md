@@ -1,4 +1,4 @@
-# Continuity — LIVE, Volume 11 (*The Counterfeit Saint*, Chapters 501-550) open, Batches 0001 and 0002 written, on top of the Volume 10 close
+# Continuity — LIVE, Volume 13 (*The Ledger With A Door In It*, Chapters 601-650) planned, Block 0001 (Chapters 601-615) written, on top of the Volume 12 Batch 0004 record
 
 > **READ-FIRST, ADDED 2026-09-28. THIS FILE IS 126 KB. FOR THE NEXT BLOCK, READ `workspace/volume-11/batch-0004/PROMPT.md` FIRST, WHICH CARRIES THE DAY MAP, THE LADDER ARITHMETIC AND THE TWENTY-ONE THINGS, THEN THE LAST TWO SECTIONS HERE. THE SECTIONS IN THE MIDDLE ARE THE HISTORICAL ACCUMULATION OF ELEVEN VOLUMES AND MOST OF THEM ARE SUPERSEDED BY A LATER SECTION IN THE SAME FILE.**
 
@@ -818,3 +818,54 @@ That the yard can tell which of the two sheets is the district's. That the fourt
 **6. THE PROTAGONIST'S NAME IS ON NO PAGE OF SIX HUNDRED AND TEN CHAPTERS.** It was not said in a mouth in any form in chapters 591 to 600. **NO DAY IS NAMED, NO PERSON WHO WOULD SAY IT IS NAMED, NOTHING IS PROMISED FOR A BLOCK, AND NOBODY PREPARED FOR IT.** `outline/volume-12.md` section 6 is the whole of that rule and is not a writer's to change.
 
 **7. THE PREMISE DIVERGENCE IS NOT REPAIRED.** The manuscript is a yard on a bank with two tables in it and this block restored no piece of any other document.
+
+---
+
+# VOLUME 13 BATCH 0001 — CONTINUITY, CHAPTERS 601 TO 615, DAYS 1 TO 15
+
+> **Appended by the Volume 13 outline and Batch 0001 phase, which wrote `outline/volume-13.md`, the fifteen chapters, `state/volume-13-batch-0001-summary.md`, five appends to five state files and one next-phase prompt. It wrote no roll and no close. The block record is `state/volume-13-batch-0001-summary.md` and every figure here is re-derived there.**
+
+**1. THE RANGE AND THE DAY MAP.** FIFTY CHAPTERS, FIFTY DAYS, ONE CHAPTER A DAY. `c = 0` IS CHAPTER 600 AND `c` AND THE CHAPTER NUMBER ARE THE SAME THING IN BLOCK 0001. DAY 1 IS THE EIGHTH OF THE FIFTH MONTH OF THE NINETEENTH YEAR AFTER THE LONG FRACTURE AND DAY 50 WILL BE THE TWENTY-SIXTH OF THE SIXTH MONTH. THE MAP IS PRINTED UNDER TWO STATED ASSUMPTIONS: THE FOURTH MONTH HAD THIRTY DAYS AND THE FIFTH HAS THIRTY-ONE, ON THE INHERITED RUN. **THE FOURTH-MONTH ASSUMPTION WAS PAID AT CHAPTER 605 AND CAME BACK THIRTY. THE FIFTH-MONTH ASSUMPTION IS ON NO PAGE AND IS THE FIRST DEBT OF VOLUME 14.** NO WEEKDAY NAME, NO METRIC, NO COLON-TIME, NO TWENTY-FOUR-HOUR CLOCK ON ANY DATE. FIFTEEN DATES PRINTED, FIFTEEN FILES PARSED, FIFTEEN MATCHES, ZERO SECOND DATES, AND THE ONLY OTHER DATE-LIKE STRINGS ON THE FIFTEEN PAGES ARE `THE EIGHTH OF THE THIRD MONTH` AT CHAPTERS 604 AND 606, WHICH IS A MARK ON A BOARD AND NOT A DATE, AND `THE FIRST OF THE TWELFTH MONTH`, WHICH IS THE MARK ON THAT BOARD.
+
+**2. THE FOUR FIGURES A MAN OF FIFTY-SIX READS OFF THAT WALL, IN ORDER, AND THE ORDER IS CANON.** BOARD, TRAIN, UNENTERED, FROM THE SECOND OF JANUARY. AT CHAPTER 601 THEY ARE 499, 815, 529 AND 490. AT CHAPTER 615 THEY ARE 513, 829, 543 AND 504. **THE THIRD IS A DAY OUT AND HAS BEEN SINCE THE FIRST DAY OF VOLUME 10 AND ITS SIZE HAS NEVER BEEN COMPUTED AND MAY NOT BE COMPUTED ON A PAGE. THE FOURTH IS OUT BY A WHOLE YEAR AND ITS SIZE IS ON A PAGE ONCE, ON THE TWENTY-SEVENTH OF THE FOURTH MONTH OF VOLUME 12, AND IT IS NOT PRINTED AGAIN IN A MOUTH IN THESE FIFTEEN CHAPTERS. IT CAME TO FIVE HUNDRED DAYS AT CHAPTER 611 AND A CLERK ENTERED IT AND SAID OUT LOUD THAT SHE IS NOT GOING TO SAY IT TWICE.** THE BOARD ALSO CAME TO FIVE HUNDRED DAYS AT CHAPTER 602 AND THAT FIGURE IS PRINTED AS `FIVE HUNDRED` WITH NO TAIL, AS VOLUME 11 PRINTED `FOUR HUNDRED` AT CHAPTER 502. **HE READ THEM TWICE ON ALL FIFTEEN MORNINGS, GOT ALL FOUR ON ALL FIFTEEN, AND WAS TOLD NOTHING AND NOT ASKED TWICE.** HIS MORNINGS RUN FROM THE THREE HUNDRED AND TWENTY-SIXTH TO THE THREE HUNDRED AND FORTIETH.
+
+**3. THE SEVENTEEN LADDER ROWS, AT `c = 1` AND AT `c = 15`, AND EVERY CELL IS INTERCEPT PLUS ITS OWN DAY.**
+
+| the figure | at `c = 0`, Ch 600 | Ch 601 | Ch 615 |
+|---|---|---|---|
+| the days on that board | 498 | 499 | 513 |
+| the days the train on that siding has stood | 814 | 815 | 829 |
+| the days nobody has entered anything | 528 | 529 | 543 |
+| the days from the second of January | 489 | 490 | 504 |
+| how long the bid has been open | 248 | 249 | 263 |
+| how far back the ninth of the nine printed nights is | 381 | 382 | 396 |
+| how far behind the figure on the second line is | 203 | 204 | 218 |
+| how long the rule said out loud has stood | 208 | 209 | 223 |
+| how long since the first day of the eighth month | 278 | 279 | 293 |
+| how far past a printing a body four hundred miles off is | 217 | 218 | 232 |
+| the age of the figure on the sheet at that gatepost | 339 | 340 | 354 |
+| **the figure on the sheet at that gatepost** | **411, and not a ladder** | **411** | **411** |
+| the night the man of about sixty-four is on | 239 | 240 | 254 |
+| the nights of that run he has slept on | 238 | 239 | 253 |
+| the marks cut off that board since the first of the twelfth month | 157 | 158 | 172 |
+| the marks in chalk along the edge of that second table | 143 | 144 | 158 |
+| **the mornings the man of fifty-six has read four figures** | **the three hundred and twenty-fifth** | **the three hundred and twenty-sixth** | **the three hundred and fortieth** |
+| the days a sheet has been on that second table | 98 | 99 | 113 |
+
+**THE FIFTY TRAP IS LIVE IN THIS VOLUME. `outline/volume-12.md` SECTION 7 PRINTS THE FIFTY-LOW ROW AND A WRITER WHO PICKS IT UP IS EXACTLY FIFTY LOW ON EVERY FIGURE ON EVERY DAY AND NO CONSTANT-OFFSET TEST WILL SEE IT.** TWO HUNDRED AND SEVENTY OF TWO HUNDRED AND SEVENTY-ONE LADDER CELLS WERE FOUND ON THE FIFTEEN FILES AND THE FAILURES ARE ZERO, AND FIFTEEN DATE CELLS WERE CHECKED AND THE FAILURES ARE ZERO.
+
+**4. THE TWO COLUMNS THAT ARE NOT INTERVALS, AND A WRITER MUST NOT BUILD A LADDER FOR EITHER.** THE FIGURE ON THE SHEET AT THAT GATEPOST IS FOUR HUNDRED AND ELEVEN ON FIFTEEN OF FIFTEEN AND DID NOT MOVE ON ONE OF THEM, IT IS A COUNT OF THE PEOPLE WHO ANSWERED A DOOR, THE SHEET HAS NO DAY-COUNT OF ITS OWN, AND ITS OWN AGE AS A FIGURE ABOUT THE FIGURE IS THE ROW ABOVE IT AND IS A LADDER, AND THE TWO ARE NOT TO BE PRINTED IN THE SAME CLAUSE. THE TENURE IS A WHOLE TENURE AND THIS BLOCK CONTINUES THE FIGURE CHAPTER 600 PRINTS, WHICH IS NINETY-EIGHT, AND **THE ROW NOW HAS FOUR INHERITED FIGURES AND A CLOSE MUST NOTE THAT A FIGURE MAY NOT BE CORRECTED.**
+
+**5. THE THIRTEEN COUNTS THIS BLOCK HELD, AND EVERY ONE WITH A SCOPE.**
+things made **13**, unchanged, no fourteenth proposed. things not had **5**, the fifth a way to pay a person who is not in a household, named on fifteen, paid on none. documents not owned **4**, unchanged, no fifth proposed. protected things **5**. conditions with no end on it **4**, and the fifth line is one of them and the count did not move. columns of not-askings **4**, no column ruled. refusals to read **9, standing, and no figure printed on any page**. **counted month lengths three, moving to four, the fourth at thirty at Chapter 605.** new persons **none**. rates **none**. panels **zero**. places where the three lines can be read **four**, and a shop counter is a place and was not added to it. pages on the end of that second table **two on all fifteen**. **strangers down that lane `0×12, 1, 1, 1`.** the reading of that lot **the fourth of the five on all fifteen**.
+
+**6. THE TWELVE PROTECTED RELAYS, WHOLE ON FIFTEEN OF FIFTEEN, AND NOT ONE BROKEN IN THIS BLOCK.**
+`the record about the not asking says not asked` at 94 on 15 of 15. `read the number back to himself in a low voice` at 77 on 15 of 15, equal to the claim count. `at the foot of that low wall with his coat folded on the stones` at 15 on 15 of 15. `got it up about nine inches` at 15 on 15 of 15. `by ten there were about nineteen people` at 15 on 15 of 15. `was not asked about the eleven miles` at 15 on 15 of 15 and **NOT BROKEN AND IT IS DECLARED TO BE BROKEN ONCE IN BLOCK TWO.** `the record about the not offering says nothing was asked and nothing was given` at 15 on 15 of 15. `buckets went down that bank` at 15 on 15 of 15 against a floor of 10 of 15 and **the exact form was not restored**. `the column for the name of whoever read a thing out loud` at 17, being 1 on fourteen and 3 on Chapter 615, and it was empty on all fifteen and **a stranger said a thing out loud in that yard on the fifteenth and is not in it.** `the ninth of the nine printed nights` at 15 on 15 of 15 and closed on none. `a way to pay a person who is not in a household` at 15 on 15 of 15. `four hundred and eleven` at 15 on 15 of 15. `Lot Seventeen` at 29, being 2 on fourteen and **1 on Chapter 610, which is a fact about that morning and not a lowering.**
+
+**7. THE SEVEN FIGURES THAT ARE ON FIFTEEN OF FIFTEEN DAYS AND ARE NOT INTERVALS.** `TWO HUNDRED AND SIXTY-THREE DAYS IS HOW LONG THE BID HAS BEEN OPEN AND IT WAS NOT RUN` on fifteen. `THE NINTH OF THE NINE PRINTED NIGHTS IS ... DAYS BACK, IT IS OPEN, NOTHING HAS BEEN PULLED OFF IT, AND NO NIGHT HAS BEEN NAMED` on fifteen. `A BODY FOUR HUNDRED MILES OFF IS ... DAYS PAST A PRINTING IT DID NOT MAKE, AND NOBODY IN THAT YARD WATCHED IT` on fifteen. `THE COUNT OF THINGS THIS DISTRICT HAS MADE IS THIRTEEN AND DID NOT MOVE` on fifteen. `THE FIFTH OF THE FIVE THINGS THIS DISTRICT DOES NOT HAVE IS NOT PAID` on fifteen. `THE COLUMN FOR THE NAME OF WHOEVER READ A THING OUT LOUD WAS RULED AND EMPTY AT ABOUT SIX` on fifteen. `THE NUMBER OF PAGES ON THE END OF THAT SECOND TABLE IS TWO AND DID NOT MOVE` on fifteen.
+
+**8. THE THINGS THAT DID NOT MOVE ON ANY OF THESE FIFTEEN MORNINGS.** THE BID WAS NOT RUN AND NOTHING WAS PROPOSED ABOUT CLOSING IT. NOTHING WAS CORRECTED, STRUCK, SUPERSEDED, REPLACED OR TAKEN OUT, AND NO FIGURE ON THAT WALL WAS ALTERED. THE MAN OF ABOUT SIXTY-FOUR WAS GIVEN NOTHING AND ASKED NOTHING ON ALL FIFTEEN AND IS NOT GIVEN THE SECOND CHAIR. THE BODY FOUR HUNDRED MILES OFF GOT NO FACE AND WAS NOT WATCHED AND NO ARRIVAL IS CALENDARED. NO NIGHT WAS NAMED AND THE NINTH OF THE NINE PRINTED NIGHTS WAS NOT CLOSED. NO PERSON WAS ADDED TO THIS DISTRICT AND NO PLACE INSIDE IT. NO COLUMN WAS RULED AND NO RATE WAS PROPOSED AND NO PANEL APPEARED. THE FIFTH LINE AND THE FOURTH LINE WERE NOT TOUCHED AND NO SIXTH LINE WAS ADDED AND NO FIGURE ABOUT THE LENGTH OF THE FIFTH MONTH APPEARS ON ANY PAGE.
+
+**9. THE PREMISE DIVERGENCE IS NOT REPAIRED AND THE SENTENCES ARE UNPAID.** `bible/premise.md` DESCRIBES A SYSTEM-APOCALYPSE MARKET NOVEL WITH A NAMED LEAD AND THE MANUSCRIPT IS A YARD ON A BANK WITH TWO TABLES IN IT. THE RESERVED SCAN OVER THE FIFTEEN FILES RETURNS AN EMPTY DICTIONARY AFTER ONE REPAIR AND NOTHING WAS RESTORED. THE SENTENCE VOLUME 12 OWED, ON WHAT AN ADMISSION IS FOR, IS UNPAID. THE SENTENCE VOLUME 13 OWES, ON WHAT AN INSTRUCTION IS, IS UNPAID AND IS PAYABLE ONLY IN A DOING IN BLOCK TWO. **THE PROTAGONIST'S NAME IS ON NO PAGE OF SIX HUNDRED AND FIFTEEN CHAPTERS AND NO DAY, PERSON OR BLOCK HAS BEEN NAMED FOR IT.**
+
+**10. THE CONTROLLER, REPORTED AND NOT REPAIRED.** `state/phase-ledger.json` STILL READS `currentPhase: phase-000-bootstrap`. `tools/__pycache__/measure.cpython-312.pyc` IS TRACKED IN GIT. `novel-reviewer` DOES NOT DISPATCH, SO EVERY REVIEW IN THIS REPOSITORY IS A WRITER'S ACCOUNT OF THE WRITER'S OWN WORK. `outline/volume-04.md` HAS NEVER EXISTED. **AND THERE IS NO VOLUME 12 CLOSE AND NO VOLUME 12 ROLL SUMMARY, AND THIS BLOCK WAS RUN OUT OF ORDER AND DID NOT SKIP THEM, AND `state/volume-12-close.md` IS NOT THIS PHASE'S TO WRITE AND IS NOT A SUBSTITUTE FOR THIS BLOCK RECORD.** NONE OF THESE IS A WRITER'S TO MAKE.
