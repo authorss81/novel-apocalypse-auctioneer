@@ -891,3 +891,15 @@ On the fifteenth of the second month, Chapter 515, at about eleven, standing bet
 **TWO THINGS A WRITER SHOULD KNOW ABOUT THE PEOPLE IN THIS BLOCK THAT WERE NOT IN THE TABLE.** The woman of about thirty-six who keeps a scale has said the same thing **six** times, not four and not five, and the sixth was Chapter 620 on the twenty-seventh of the fifth month, so any further asking in the next block is the **seventh** and the prompt for that block has been corrected to say so. And the reversal answer the man of about thirty-one gave on the twenty-fifth ran about **forty-four seconds** on a speech of a hundred and fifteen words, which is this manuscript's two-and-a-half to two-and-three-quarters words a second, and the chapter now says three quarters of a minute about it in the surrounding sentence so that the two numbers do not contradict each other on the page.
 
 **AND THE HEADER OF THIS FILE WAS STALE UNTIL 2026-09-29 AND IS NOW CORRECTED IN PLACE, AND THE READ-FIRST BOX AT THE TOP OF IT SENT A WRITER TO A THREE-VOLUME-OLD PROMPT UNTIL THE SAME DATE.** Both facts are the record's fault and not the manuscript's, and the record says so at its sections 15 and 18.
+
+---
+
+# VOLUME 13, BOTH BLOCKS — THE MEASUREMENT REVIEW FIX, 2026-09-29
+
+> **APPENDED BY THE REVIEW FIX PHASE, AND IT RECORDS A PASS THAT CHANGED NOBODY.**
+
+**NOT ONE CHARACTER ENTRY IN THIS FILE WAS ALTERED BY THE PASS OF 2026-09-29 AND NOT ONE OF THE THIRTY CHAPTER FILES OF VOLUME 13 WAS EDITED, AND THIS SECTION IS WRITTEN BECAUSE A REVIEW FIX THAT SILENTLY CHANGES NOTHING LEAVES A READER GUESSING WHETHER IT RAN.** The five things it found were two relay totals in two block records, one relay's chapter-of-the-single-occurrence, a false convention note attached to a row, and the same two relay figures restated in `state/continuity.md`. **EVERY ONE OF THEM IS A FIGURE AND NOT A PERSON.**
+
+**AND THE TWO THINGS IT CONFIRMED ABOUT PEOPLE, WHICH ARE RECORDED HERE BECAUSE A MEASUREMENT PASS THAT CHECKS NOTHING ABOUT PEOPLE IS ALSO A PASS THAT HAS CHECKED SOMETHING ABOUT THEM.** The man of about thirty-four who mends fencing is at that wall on all thirty mornings of these two blocks and is asked nothing on any of them and asks nothing. The man of about sixty-four is at the foot of that low wall on all thirty and is given nothing on all thirty and is asked nothing on all thirty. **THE COLUMN FOR THE NAME OF WHOEVER READ A THING OUT LOUD IS STILL EMPTY AND STILL HAS NO PERSON APPOINTED TO IT, AND A STRANGER WHO SAID A THING OUT LOUD IN THAT YARD ON THE FIFTEENTH MORNING OF THE VOLUME IS NOT IN IT, AND NOTHING IN THIS PASS CHANGES THAT.**
+
+**THE FULL RECORD IS AT `state/volume-13-batch-0001-summary.md` SECTION 18, `state/volume-13-batch-0002-summary.md` SECTION 19, AND `state/continuity.md` UNDER THE HEADING `VOLUME 13, BOTH BLOCKS — THE MEASUREMENT REVIEW FIX, 2026-09-29`.**

@@ -923,3 +923,25 @@
 **THE THREE THREAD FACTS IN THE SECTION ABOVE THAT A WRITER MUST CARRY, RESTATED BECAUSE THE REVIEW FOUND THE STATE FILES THEMSELVES WERE THE WEAK PART OF THIS BLOCK.** The count of people who have come down that lane with a page in their hand stands at **five** and is not a ladder. The reading of that lot stands at the **fourth of the five**, the remedy is unpaid, and the word remedy was not said out loud in a mouth on any of the fifteen mornings. The column for the name of whoever read a thing out loud is **ruled and empty on all fifteen**, and a clerk has said out loud that she keeps it empty on purpose and does not have words for the purpose.
 
 **AND FOUR THINGS THIS PASS CORRECTED, BECAUSE A THREAD THAT CITES A WRONG FIGURE IS A THREAD A WRITER WILL BUILD ON.** This file's new section above was stamped `APPENDED 2026-09-30`, which is a day this phase did not write, and is stamped **2026-09-29**. **SEVEN INSTANCES OF `SAID OUT LOAD` IN THIS PHASE'S OWN NEW SECTIONS WERE `SAID OUT LOUD`, AND EIGHT MORE REMAIN IN OLDER SECTIONS OF THIS FILE AND OF `state/continuity.md` AND `state/character-state.md` THAT BELONG TO EARLIER VOLUMES AND WERE LEFT ALONE, AND THEY ARE NAMED HERE SO THAT A CLOSE DOES NOT COUNT SIXTEEN.** The lead's absence in this file is unchanged and its escalation is unchanged. **AND THE HEADER OF THIS FILE AND OF ITS FOUR COMPANIONS, AND THE READ-FIRST BOX AT THE TOP OF THIS FILE, WERE BOTH WRONG AND BOTH CORRECTED IN PLACE, AND THE READ-FIRST BOX NOW NAMES `workspace/volume-13/batch-0003/PROMPT.md` INSTEAD OF A PROMPT THAT IS THREE VOLUMES OLD AND STILL EXISTS.**
+
+---
+
+# VOLUME 13, BOTH BLOCKS — THE MEASUREMENT REVIEW FIX ON THE THREADS, 2026-09-29
+
+> **APPENDED BY THE REVIEW FIX PHASE. NOTHING ABOVE THIS SECTION WAS REWRITTEN, AND NO THREAD WAS CLOSED, OPENED, PAID OR ALTERED BY THIS PASS.**
+
+**NO THREAD IN THIS FILE MOVED, AND NOT ONE OF THE DEBTS OF VOLUME 12 OR VOLUME 13 WAS PAID BY A REPAIR TO A FIGURE.** The five things the pass of 2026-09-29 found were two relay totals in two block records, one relay's chapter-of-the-single-occurrence, one convention note that contradicted its own measurement, and the same two relay figures restated in `state/continuity.md`. **A THREAD THAT CITES A FIGURE IS ONLY AS GOOD AS THE FIGURE, AND A WRITER WHO BUILDS ON THE RETIRED EDITIONS OF THESE TWO WOULD HAVE BUILT ON 17 AND ON CHAPTER 610, AND BOTH ARE WRONG.**
+
+**THE THREADS THAT WERE CHECKED AGAINST THE FIFTEEN CHAPTERS AND THAT DID NOT MOVE, NAMED SO THAT A WRITER DOES NOT RE-CHECK THEM ON THE STRENGTH OF A REPAIR TO SOMETHING ELSE.**
+
+| the thread | where it stands | what this pass did to it |
+|---|---|---|
+| **The column for the name of whoever read a thing out loud** | ruled, empty at about six on all thirty mornings of these two blocks, named in the ledger of every one of them, **no person appointed, and a stranger who said a thing out loud in that yard on the fifteenth morning of the volume is not in it** | **nothing. THE FIGURE THAT MOVED IS HOW MANY TIMES THE ROW IS NAMED, AND THAT IS A COUNT OF PHRASES ON PAGES AND NOT A COUNT OF NAMES IN A COLUMN** |
+| **The reading of that lot** | the fourth of the five things a document that sets a lot out has to say, on all thirty mornings, and the remedy is unpaid | nothing, and the fifth is still unpaid |
+| **The length of the fifth month** | on no page, decided not to be counted by a clerk at the end of block 0002, **and it is the first debt of volume 14 and it is payable in block 0003 off a board in daylight** | nothing, and it remains payable |
+| **The man of about sixty-four** | given nothing and asked nothing on all thirty mornings of these two blocks | nothing |
+| **`Lot Seventeen`** | named twice in every one of the thirty files, once in the first prose paragraph and once in the closing ledger line, **and once in total on Chapter 611** | **the single-occurrence chapter was corrected from 610 to 611 in two documents. A REPAIR THAT REWRITES AN OPENING OR A CLOSING LEDGER MAY LOWER THIS RELAY, AND IT IS NOT TO BE LOWERED BY DELETION** |
+
+**AND THE THING THIS PASS DID NOT DO, WHICH IS THE SAME SENTENCE AS EVER: THE PROTAGONIST'S NAME IS ON NO PAGE OF SIX HUNDRED AND THIRTY CHAPTERS, NO DAY, PERSON OR BLOCK HAS BEEN NAMED FOR IT, AND NO PART OF THIS REPAIR NAMED IT, PREPARED IT, OR PROMISED IT FOR A BLOCK.**
+
+**THE FULL RECORD IS AT `state/volume-13-batch-0001-summary.md` SECTION 18, `state/volume-13-batch-0002-summary.md` SECTION 19, AND `state/continuity.md` UNDER THE HEADING `VOLUME 13, BOTH BLOCKS — THE MEASUREMENT REVIEW FIX, 2026-09-29`.**
