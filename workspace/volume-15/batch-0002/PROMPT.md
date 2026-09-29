@@ -161,7 +161,7 @@
 
 **MEASURED OVER THE FIFTEEN CHAPTERS OF BLOCK 0001, WHOLE STRING, CASE-INSENSITIVELY. EVERY FIGURE IS A FLOOR AND NOT A TARGET.**
 
-| the string | occurrences in Block 0001 | files of 15 | the rule |
+| the string | occurrences in Block 0001, on the repaired files | files of 15 | the rule |
 |---|---|---|---|
 | `the record about the not asking says not asked` | **62** | 15 | a floor, three to five a chapter |
 | `read the number back to himself in a low voice` | **32** | 15 | **equal to the claim count, and checked three times** |
@@ -171,11 +171,11 @@
 | **`was not asked about the eleven miles`** | **15** | 15 | **SILENT ON NONE, AND IT IS THE ONE VOLUME 13 BROKE. IT MAY NOT BE BROKEN IN THIS BLOCK** |
 | `the record about the not offering says nothing was asked and nothing was given` | **15** | 15 | a floor, and it holds the man of about sixty-four |
 | `buckets went down that bank` | **15** | 15 | a floor |
-| **`the column for the name of whoever read a thing out loud`** | **34** | 15 | **RULED AND EMPTY AT ABOUT SIX ON ALL FIFTEEN MORNINGS, NAMED AND NEVER FILLED, AND EVERY ONE OF THE CLAUSES THAT FOLLOWS THE PHRASE IS A REFUSAL** |
+| **`the column for the name of whoever read a thing out loud`** | **36** | 15 | **RULED AND EMPTY AT ABOUT SIX ON ALL FIFTEEN MORNINGS, NAMED AND NEVER FILLED, AND EVERY ONE OF THE CLAUSES THAT FOLLOWS THE PHRASE IS A REFUSAL** |
 | `the ninth of the nine printed nights` | **15** | 15 | a floor, and **no night is named on any morning** |
 | `a way to pay a person who is not in a household` | **21** | 15 | named on all fifteen and paid on none |
-| `four hundred and eleven` | **19** | 15 | **and NOTHING IS ADDED TO THE END OF IT ON ANY PAGE** |
-| `Lot Seventeen` | **30** | 15 | once or twice a chapter |
+| `four hundred and eleven` | **17** | 15 | **and NOTHING IS ADDED TO THE END OF IT ON ANY PAGE** |
+| `Lot Seventeen` | **21** | 15 | once or twice a chapter |
 | `a count of nothing is not a count of nobody` | **0** | 0 | **NOT A FLOOR FOR THIS BLOCK. THE TENURE BEGAN AT FOURTEEN AND WAS NEVER NOTHING IN THIS VOLUME** |
 
 **A PER-FILE SWEEP IS BLIND TO A PAIR THAT CROSSES A BLOCK EDGE. RUN THE SWEEP ACROSS THE WHOLE VOLUME AS WELL AS ACROSS YOUR OWN FIFTEEN FILES.**
@@ -184,10 +184,10 @@
 
 ## 8. THE MEASUREMENT CONVENTIONS, NAMED BECAUSE A FIGURE WITHOUT ONE IS NOT A MEASUREMENT
 
-- **LENGTH: `wc -w`, whole file, nothing removed. That is the only length denominator in this repository.** Block 0001: 46,570 words, mean 3,104.7, minimum 2,979, maximum 3,194, none outside 2,200 to 3,200. **No chapter was padded or cut to fit the band and none may be.**
-- **BODY WORDS: title line and the `---` rules out, whitespace count. This is a different denominator and the hedge and both sentence readings use it.** Block 0001: 46,124.
-- **SENTENCES: split `(?<=[.!?])(?=\s|\*|")`. There are two honest readings — break at a paragraph boundary and per line, no paragraph break — and a third, the naive `(?<=[.!?])\s+`, which merges rather than splits, because every spoken paragraph ends on `.**"`. Block 0001: 674 and 598, means of 68.43 and 77.13. **Report the reading you used.**
-- **THE `about` HEDGE: case-sensitive whole word, titles out. Block 0001: 1,156, which is 25.1 per 1,000 body words. NO CAP WAS SET ON IT IN ADVANCE AND NONE MAY BE SET BY A BLOCK.**
+- **LENGTH: `wc -w`, whole file, nothing removed. That is the only length denominator in this repository.** Block 0001, on the fifteen files as they stand after the repair recorded in `state/volume-15-batch-0001-summary.md` section 18: 46,376 words, mean 3,091.7, minimum 2,964, maximum 3,186, none outside 2,200 to 3,200. **No chapter was padded to fill the band and none may be. FIFTEEN CHAPTERS WERE DRAFTED AND FIFTEEN CAME IN OVER THE CEILING AND EVERY ONE WAS BROUGHT UNDER IT BY DELETION AND NOT BY CUTTING A SCENE, AND A RECORD THAT SAYS IT WAS NOT CUT AND A RECORD THAT SAYS IT WAS CUT ARE BOTH WRONG, AND THE FIGURES ARE THE FIGURES.**
+- **BODY WORDS: title line and the `---` rules out, whitespace count. This is a different denominator and the hedge and both sentence readings use it.** Block 0001: 45,911.
+- **SENTENCES: split `(?<=[.!?])(?=\s|\*|")`. There are two honest readings — break at a paragraph boundary and per line, no paragraph break — and a third, the naive `(?<=[.!?])\s+`, which merges rather than splits, because every spoken paragraph ends on `.**"`. Block 0001, on the repaired files: 359 paragraphs and 702 sentences, and the naive reading gives 655. **Report the reading you used, and say which of the two honest readings you used, because a sentence count without its convention is not a figure.**
+- **THE `about` HEDGE: case-sensitive whole word, titles out. Block 0001, on the repaired files: 1,099, which is 24.0 per 1,000 body words, against an inherited 24.2. NO CAP WAS SET ON IT IN ADVANCE AND NONE MAY BE SET BY A BLOCK.**
 - **PANELS: zero against a cap of one a chapter. Lines beginning `>` are zero. The four-figure line is a bolded pull-quote inside quotation marks and is on every chapter, and is the first bolded line on every chapter.**
 - **UNITS: the prohibition is on a metric unit, a weekday name, a colon-form time and a twenty-four-hour clock, and all four are zero. `one inch`, `nine inches`, `four feet`, `nine feet`, `two hundred feet`, `eleven miles` and `four hundred miles` are the manuscript's own and are correct.**
 - **TITLES: count the title text only, with the `#` marker and the `Chapter NNN:` label both removed. Volume 14 ran 16 to 29, median 24, none over thirty. TITLES ARE OWNED BY THE BLOCK THAT WRITES THE CHAPTER, AND NO BLOCK REWRITES ANOTHER BLOCK'S TITLES.**
