@@ -1221,3 +1221,23 @@
 
 **AND THE SIX THAT WERE NOT DEFECTS.** `logs/batch-0001.review.log` reports the eighteen-row ladder broken on all fifteen chapters, `three hundredth` resolving to 103, Chapter 661 missing a row, Chapter 660 missing its ledger line, the clerk's short speeches stamped at twice the block's speaking rate, and six titles without a date. All six are wrong and all six were bugs in the reviewer's own hand-built word-number parser — compound ordinals, round-hundred ordinals, ordinal suffixes after `hundred`, the singular verb on a single-claim morning, a reciprocal rate, and hyphenated date words. The ladder is 270 cells with zero failures, Chapter 661 carries its row, Chapter 660 correctly reads `About one thing was said out loud`, and all fifteen titles carry their date. **A later block that builds its own resolver should read the two traps the block record already names at Section 2 and Section 3, because this review re-derived them from nothing and reported them as new.**
 
+
+---
+
+# VOLUME 14, BLOCK 0002 — OPEN THREADS, CHAPTERS 666 TO 680
+
+**LIVE. THE MIDPOINT IS SPENT AND MAY NOT BE SPENT AGAIN.** On the twentieth of the seventh month, Chapter 675, a man of about forty-eight who keeps a tally asked out loud, in the ordinary voice, in the open, at about eleven, to about nineteen people, **Who is going to answer a stranger next week?** Nobody answered it for fourteen seconds, the boy counted the fourteen, a clerk entered the question and the fourteen and no answer. **The question is asked once in fifty chapters. A later block may refer to that a question was asked in that yard; it may not ask it, may not put it in a title, may not answer it, and may not have a person answer it unasked.**
+
+**LIVE, THE LANE COUNT.** Ten on day 1, twelve on day 30, moved twice, never a ladder. Whoever comes next must move it with a person and a reason in the room before the hand, and must enter it every morning at about a quarter to eight and again at about four.
+
+**LIVE, THE CARRYING.** Day 36, Chapter 686, is not this block's. The second table has not left the yard. The man of about thirty-two who puts tables up has not been asked to carry it. Nothing in chapters 666 to 680 prepares it, and a clerk entered on day 30 that the seventh month has not been counted by anybody.
+
+**LIVE, THE NAME.** Not before day 41. Day 41 is eleven days after Chapter 680. This block named no day, no person, and no promise, and put nobody in a position to say it.
+
+**LIVE, THE SENTENCE THIS VOLUME OWES.** Owed, unpaid, not printed in any of the fifteen files in any form, payable only in a doing, by a close, on a day a close chooses.
+
+**LIVE, THE LIABILITY.** The sentence Volume 12 owed is not ours, was not paid and was not re-printed, and a volume that re-prints it owns it.
+
+**LIVE, THE FIGURES NOBODY MAY QUOTE.** The size of the error in the fourth of the four. And any figure between four hundred and twelve and four hundred and twenty-six as the figure on the sheet at that gatepost, which is four hundred and eleven and did not move on one of the fifteen mornings.
+
+**AND THE TWO FIGURES A SUCCESSOR MUST RE-DERIVE RATHER THAN INHERIT: the eighteen intercepts, re-anchored on the page of Chapter 700 and not on any document, printed with the Chapter 650 row beside them and not the Chapter 600 row. THE CHAPTER 650 ROW IS `548, 864, 578, 539, 298, 431, 253, 258, 328, 267, 389, 411, 289, 288, 207, 193, 375, 148`.**

@@ -1156,3 +1156,29 @@ Came up at about three on all fifteen mornings with the near wheel still draggin
 
 **AND THE SIX THAT WERE NOT DEFECTS.** `logs/batch-0001.review.log` reports the eighteen-row ladder broken on all fifteen chapters, `three hundredth` resolving to 103, Chapter 661 missing a row, Chapter 660 missing its ledger line, the clerk's short speeches stamped at twice the block's speaking rate, and six titles without a date. All six are wrong and all six were bugs in the reviewer's own hand-built word-number parser — compound ordinals, round-hundred ordinals, ordinal suffixes after `hundred`, the singular verb on a single-claim morning, a reciprocal rate, and hyphenated date words. The ladder is 270 cells with zero failures, Chapter 661 carries its row, Chapter 660 correctly reads `About one thing was said out loud`, and all fifteen titles carry their date. **A later block that builds its own resolver should read the two traps the block record already names at Section 2 and Section 3, because this review re-derived them from nothing and reported them as new.**
 
+
+---
+
+# VOLUME 14, BLOCK 0002 — CHARACTER STATE AT CHAPTER 680
+
+**THE PROTAGONIST, THE MAN OF ABOUT THIRTY-FOUR WHO MENDS FENCING, IS UNNAMED AND HIS NAME IS ON NO PAGE OF CHAPTERS 1 TO 680. HE CAME UP THAT BANK AT ABOUT A QUARTER TO EIGHT ON ALL FIFTEEN MORNINGS AND WAS AT THE NEAR END OF THAT SECOND TABLE UNTIL ABOUT TEN AND WAS NOT IN THAT YARD AT ABOUT ELEVEN ON ALL FIFTEEN. HE WAS AT THE BOTTOM OF THAT BANK ON ALL FIFTEEN AND A CLERK ENTERED THAT AND ENTERED NO REASON. HE SAID ONE THING OUT LOUD IN FIFTEEN MORNINGS, ON CHAPTER 677, ABOUT A POST IN HIS OWN FENCE AND FOUR VISITS TO IT, AND HE SAID IN THAT SPEECH THAT HE IS NOT GOING TO SAY A THING A FOURTH TIME. HE DID NOT SAY THE SENTENCE ABOUT WHAT HIS YARD IS FOR ON ANY OF THE FIFTEEN. HE WAS NOT ASKED WHERE HE HAD BEEN ON ANY OF THEM.**
+
+**THE MAN OF ABOUT THIRTY-ONE WHO DIGS LOAM, THE MAN THE FIFTH LINE NAMES, IS UNNAMED AND IS UNPAID. HE CAME UP THAT BANK AT ABOUT HALF PAST ELEVEN ON DAYS 16 TO 25 AND WAS AT THE FAR END OF THAT SECOND TABLE AT ABOUT ELEVEN ON DAYS 26 TO 30, WITH HIS OWN TWO HANDS ON THE RAIL. HE WAS AT THE BOTTOM OF THAT BANK BEFORE IT WAS LIGHT ON all fifteen mornings. HE SAID ONE THING OUT LOUD IN FIFTEEN MORNINGS, ON CHAPTER 679, ABOUT THE COLD UNDER THE TOP INCH OF THE LOAM AND ABOUT NOT GUESSING WHAT HE IS TO BE USED FOR. HE WAS NOT ASKED ONE THING ABOUT WHAT HE IS TO BE USED FOR ON ANY OF THE FIFTEEN, WAS NOT PAID ON ANY OF THEM, AND A CLERK ENTERED THAT NOBODY HAS ASKED HIM TO STAY AND NOBODY IS GOING TO.**
+
+**A CLERK OF NINETEEN YEARS.** Said one thing out loud on fourteen of the fifteen mornings and entered every count before anything else. On Chapter 678 she said out loud that a figure somebody has to enter is not a figure anybody is paid by. On Chapter 680 she entered that the seventh month of this year has not been counted off that board by anybody.
+
+**A BOY OF ABOUT NINETEEN.** Counted twenty-nine things said out loud on fifteen mornings, read every number back to himself in a low voice, asked no question on any of the fifteen, and counted the fourteen seconds of the silence on Chapter 675. On Chapter 674 he counted that yard at about ten and at about eleven, got the same number both times, said out loud that the two men who were not in it were not the reason, and named nobody.
+
+**THE MAN OF ABOUT FIFTY-SIX.** Read four figures off that wall twice a morning on all fifteen mornings, got all four on all fifteen, and was asked about none of them on any of them. On Chapter 675 he was standing about nine feet from a question about a stranger and did not look up.
+
+**THE MAN OF ABOUT FORTY-EIGHT WHO KEEPS A TALLY.** Asked the volume's question out loud on Chapter 675 and said nothing else in this block.
+
+**THE WOMAN OF ABOUT THIRTY-SIX WHO KEEPS A SCALE.** NAMED SEVENTEEN TIMES ACROSS THE FIFTEEN FILES, PUT IN NO MOUTH ON ANY OF THEM, ASKED ONE THING ON NONE OF THEM. HER SHOP IS OPEN ON ALL FIFTEEN AND THAT IS A FACT AND NOT A SCENE.
+
+**THE MAN OF ABOUT SIXTY-FOUR.** AT THE FOOT OF THAT LOW WALL ON ALL FIFTEEN MORNINGS, ON HIS THREE HUNDRED AND FIFTH NIGHT THROUGH HIS THREE HUNDRED AND NINETEENTH, HAVING SLEPT ON THREE HUNDRED AND FOUR THROUGH THREE HUNDRED AND EIGHTEEN. GIVEN NOTHING AND ASKED NOTHING ON ALL FIFTEEN.
+
+**THE MAN OF ABOUT THIRTY-TWO WHO PUTS TABLES UP.** Said one thing out loud on Chapters 667, 670 and 673 and nothing on the other twelve. Put a number on a lane on Chapter 670 and a clerk entered it. Carried nothing down that bank.
+
+**THE MAN OF ABOUT THIRTY-SEVEN WHO CUTS REEDS.** IS NOT NAMED ON ANY OF THE FIFTEEN PAGES AND IS NOT GIVEN ONE WORD.
+
+**THE MAN OF ABOUT TWENTY-NINE WHO DRIVES THAT CART, THE ROAD KEEPER, THE WOMAN OF ABOUT FIFTY-EIGHT.** All three present on all fifteen mornings in the house form. The road keeper was not asked about the eleven miles on any of the fifteen.
