@@ -1,4 +1,4 @@
-# Chapter 652: On The Twenty-Eighth Of The Sixth Month The Rime Came Back To Those Boards And A Clerk Of Nineteen Years Said Out Loud That She Has Never Once Seen Anybody Cut A Mark Off That Board
+# Chapter 652: On The Twenty-Eighth Of The Sixth Month Nobody Has Asked That Man What Is Down The Lane
 
 There was a hard white rime on the boards of that second table by about seven on the twenty-eighth of the sixth month, which was the hundred and seventy-ninth morning after the count, and the whole of that bank was white along the top of it and hard underfoot and had gone the colour of a road that has not been touched since the frost, and about four people in that yard had come up that bank before eight and had gone on to the top of that lane, and by ten there were about nineteen people in the yard of Lot Seventeen. Two pages were lying along the end of that second table and the copy at the near end of them has now been on that wood for a hundred and fifty mornings, and the number of pages on the end of that second table is two, and it is entered as two, and it is not one more than it was the day before.
 

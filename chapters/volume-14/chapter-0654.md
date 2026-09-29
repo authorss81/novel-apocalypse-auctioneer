@@ -1,4 +1,4 @@
-# Chapter 654: On The Thirtieth Of The Sixth Month, The Last Morning Of This Month Before Anybody Had Counted It, The Man Who Digs Loam Said Out Loud That He Has Not Once Put That Spade Down
+# Chapter 654: On The Thirtieth Of The Sixth Month A Man Who Digs Loam Said Out Loud That He Has Not Put His Own Spade Down Once
 
 There was no rime on the boards of that second table on the thirtieth of the sixth month, and the boards were dry and hard and had gone back to the colour of a road that has not been touched since the frost, and that was the hundred and eighty-first morning after the count, and about four people in that yard had come up that bank before eight and had gone on to the top of that lane, and by ten there were about nineteen people in the yard of Lot Seventeen. Two pages were lying along the end of that second table and the copy at the near end of them has now been on that wood for a hundred and fifty-two mornings, and the number of pages on the end of that second table is two, and it is entered as two, and it is not one more than it was the day before.
 
