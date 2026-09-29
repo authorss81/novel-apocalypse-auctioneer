@@ -1085,3 +1085,60 @@
 **8. THE STALE TENURE FIGURE IN BLOCK 0003. OPEN, DELIBERATELY, AND NOT REPAIRABLE BY A FIX PASS.** `five weeks` remains on Chapters 631, 632, 634, 636 and 639, ten times. **Chapter 635 is exact; the other nine are a person estimating aloud.** Those chapters are canon from an earlier block. **A CLOSE MAY WEIGH THESE AND MAY NOT REPAIR THEM, AND IT IS NAMED AT `workspace/volume-13/close/PROMPT.md` SECTION 5 ITEM 3.**
 
 **9. THE VOLUME 13 CLOSE IS THE NEXT PHASE AND ITS BRIEF NOW EXISTS.** `workspace/volume-13/close/PROMPT.md` was created by the review fix of 2026-09-29 because the block it follows forbade the writer from creating it and the pipeline had nothing dispatchable. **It writes no chapter.**
+
+---
+
+# VOLUME 13 CLOSE — OPEN THREADS, APPENDED 2026-09-29
+
+> **Appended by the Volume 13 close phase. It wrote no chapter and edited no chapter and it edited nothing above this line. Its verdict is `state/volume-13-close.md` and its index is `state/volume-13-roll-summary.md`. Every thread below is carried forward with a state and not closed, because a close does not close threads.**
+
+## THE TWO SENTENCES, AND THE AMOUNT OF EACH, AND NEITHER IS VOLUME 14'S TO PAY
+
+| the debt | where it is owed | amount | owner | state after this volume |
+|---|---|---|---|---|
+| **on what an instruction is** | `outline/volume-13.md` section 12 | one sentence | the Volume 13 close | **PAID, in a doing, on Chapter 626, the twenty-sixth morning.** Two men scraping a wet table at the far end of the second table, in the ordinary voice, to about nine people, and nobody wrote it down, and the reason it could be is that the sentence is the volume's and not the district's |
+| **on what an admission is for** | `outline/volume-12.md` section 11 | one sentence | a Volume 12 close that has not been written | **UNPAID, six hundred and fifty chapters, two volumes. Fifth time printed by a close and fifth time not paid. `state/volume-12-close.md` and `state/volume-12-roll-summary.md` do not exist** |
+
+**A VOLUME 14 OUTLINE MAY NOT RE-PRINT EITHER SENTENCE AS ITS OWN AND MAY NOT PAY EITHER. THE ONE IS PAID AND THE OTHER IS NOT AND NEITHER BELONGS TO YOU.**
+
+## THREAD 1 — THE PROTAGONIST'S NAME. NOT PERMITTED TO BE CLOSED BY ANY PHASE THAT IS MEASURED AGAINST IT
+
+**STATE: UNRESOLVED, AND WEIGHED ONCE BY THE VOLUME 13 CLOSE AND NOT RESOLVED BY IT. `Adrian` IS ON 43 OF 50 FILES IN VOLUME 01, 30 IN VOLUME 02, 15 IN VOLUME 03, ONE IN VOLUME 04, AND ON NO PAGE IN VOLUMES 05 TO 13, WHICH IS FIVE HUNDRED CHAPTERS. `auction` IS ON NO PAGE SINCE CHAPTER 200. `Common Measure` AND `Great Closing` ARE ON NO PAGE OF THE ENTIRE MANUSCRIPT. `outline/ending.md` REQUIRES THAT MAN'S THREE CHOICES, A FOUNDING TOLL AND A BRASS BELL IN A PUBLIC MARKET, AND `outline/series.md` STILL PLANS VOLUMES 14 TO 17 OUT PAST CHAPTER 840. THERE IS NO ON-PAGE MECHANISM BY WHICH HE RETURNS, BECAUSE HE IS NOT ON ANY PAGE. THE THREE MOVES — TO RECONVERGE, TO RETCON A RETURN, OR TO RE-SCOPE THE ENDING — ARE ALL A MAINTAINER'S. THE RULE AT `outline/volume-11.md` SECTION 6 STANDS: THE NAME MAY BE SETTLED ONLY ON A DAY A PERSON IN THIS DISTRICT SAYS IT OUT LOUD IN A ROOM OR A YARD, IN A SCENE, WITH THE PROSE FIRST AND THE DOCUMENT SECOND.**
+
+**WHAT IS ON THE PAGE NEAR IT, AND NONE OF IT IS A SETTLING: on the twenty-fifth of the sixth month a stranger asked the protagonist in that yard, in front of about nineteen people, what he thinks, and he answered out loud about himself — that he put that line on the book, that he asked the question in that yard on the second of the fifth month and did not ask whether a stranger might come down that lane with something else, that he knew the answer at the time and said it out loud anyway, and that he should not be thanked for that morning. It was the first time in thirteen volumes that a person in that yard had heard him say a thing about himself that he did not already know, and he did not say his name, and neither did anybody else, and about four people at that table were within four feet of him.**
+
+**THE COST OF LEAVING IT, NAMED AT FULL SIZE: this volume's own method, that a person says a thing out loud in a yard and a clerk writes it down, was demonstrated two hundred and thirty-three times and applied zero times to the protagonist.**
+
+## THREAD 2 — AN INSTRUCTION THAT SENDS ANYBODY ANYWHERE, AND A NO THAT DOES NOT SCALE. OPEN, AND THE CENTRAL PRESSURE OF THE NEXT VOLUME
+
+**STATE: OPEN AND WIDER THAN IT LOOKS. The fifth line works, it has never been ambiguous, and nine strangers came down that lane on the words of it in fifty days and the count is nine and the page is still on the table. A man said no on the twenty-fifth of the sixth month, in front of about nineteen people, to a thing he was never asked about and was never told he would be asked about, and he said out loud that he is not taking it back, and the reading of that lot moved from the fourth of the five to the fifth of the five and stopped. THE ONLY THING IN THIRTEEN VOLUMES THAT HAS EVER PROTECTED A PAGE FROM BEING USED FOR THE WRONG THING IS A PERSON SAYING NO, AND A PERSON SAYING NO IS NOT A THING THAT SCALES, AND THE COUNT OF STRANGERS WENT FROM NOTHING TO NINE ACROSS THE SAME FIFTY DAYS AND DID NOT STOP.**
+
+**AND THE SHAPE A LATER WRITER MUST NOT ACT ON BY ACCIDENT: the volume is about a man who became the answer to a question nobody asked, and the protagonist is the man who put him there, and the yard noticed the shape of that on the morning of the twenty-fifth, and the column for the name of whoever read a thing out loud is still empty, and it is emptier than it was at the first morning of this volume because a clerk who has just entered a refusal on it named it again and put nobody in it. A writer who sees the shape and fills the column has broken the only ordering rule the name has.**
+
+## THREAD 3 — A WAY TO PAY A PERSON WHO IS NOT IN A HOUSEHOLD. NAMED FIFTY TIMES AND PAID ON NONE
+
+**STATE: OPEN AND UNPAID AND IT IS THE FIFTH OF THE FIVE THINGS THIS DISTRICT DOES NOT HAVE AND IT IS NOT THE FIFTH OF THE FIVE THINGS A DOCUMENT THAT SETS A LOT OUT HAS TO SAY, AND THE TWO ARE ON FACING CLAUSES IN THE CLOSING LEDGER OF CHAPTER 650 SO THAT A WRITER WHO CONFLATES THEM CONFLATES THEM VISIBLY. A remedy being paid is not a way of paying a person, because a remedy is a thing a person does and a payment is a thing a district does. Named on all fifty mornings of Volume 13. Paid on none of them. A man saying no out loud is not a payment. A man saying he is still paid nothing is not a payment. A clerk entering a no on a page is not a payment. A man who puts tables up and a man who keeps a tally saying two things to each other over a table is not a payment.**
+
+## THREAD 4 — THE COPY VERSUS THE INSTRUCTION. OPEN
+
+**STATE: OPEN AND THE FINDING IS TWO-HANDED AND BOTH HALVES ARE ON A PAGE. A copy of an admission costs nothing, and a copy of an instruction is worse than a copy of an admission, because an admission protects nobody and an instruction sends anybody anywhere. On the twenty-sixth of the sixth month a man who puts tables up said out loud, in that yard, to about nine people, that a page this yard wrote is the only thing in this parish that can send a man who has never set foot in it up a bank he has never climbed, and that it does that by not saying what it is for, and that every way of saying what it is for would have cost them the sending. A man who keeps a tally said back, without stopping, that he has kept a tally for nineteen years and that nothing he has ever written down has sent anybody anywhere either, and that on the sixth of the fifth month somebody wrote four lines on a page in a clerk's hand and a stranger walked two days and stood in that yard with it, and that a clerk entered all three of those and entered neither of these two. NEITHER OF THEM SAID ANYTHING ELSE ABOUT IT AND THE SCRAPING WENT ON.**
+
+## THREAD 5 — THE FOUR FIGURES ON THAT WALL. TWO OF THEM OUT AND NEITHER CORRECTED
+
+**STATE: OPEN AND PERMANENT ON THE CURRENT ORDERING. Row 3 is out by a day and its size was never computed on a page. Row 4 is out by a whole year and its size is in a mouth twice, on Chapters 608 and 609, and nowhere else in fifty chapters, and in no ledger. A figure may not be corrected, struck, replaced, superseded or taken out, and neither of these was, and the man of about fifty-six was not asked about either on any of the fifty days, and a close that prints the size of either error a third time has done the thing `outline/volume-11.md` section 10.1.12 forbids.**
+
+## THREAD 6 — THE FOUR DOCUMENTS THIS DISTRICT DOES NOT OWN. UNCHANGED AT FOUR AND THE REASON IS THE THREAD
+
+**STATE: OPEN. A page a stranger carried down that lane is not a fifth of them, because a person brought it and there was a person and a reason in the room. A page a stranger put down on a table and took off it again is not a fifth of them, and a clerk entered that reason with the figure on the twenty-fourth of the sixth month. The rule is still the one it has been since Volume 11: nothing is put on a page in this district without a person and a reason in the room, and nothing comes off a table in it either, and the reason comes before the hand.**
+
+## THREAD 7 — THE TWELVE DUPLICATED SENTENCES AND THE NINE STALE TENURE FIGURES. REPORTED, NOT REPAIRED, AND NOT A WRITER'S TO REPAIR
+
+**STATE: OPEN AND UNREPAIREABLE BY ANY PHASE THAT IS MEASURED AGAINST IT. The volume has twelve distinct duplicated sentences of twelve words or more across twenty-five of its fifty chapters and one identical paragraph at Chapters 603 and 619. Ten of the twelve pairs straddle a block boundary and are therefore invisible to a per-block sweep. TWO ARE INSIDE BATCH 0001'S OWN TEN FILES — Chapters 603 and 609, and Chapters 604 and 610 — and that block's record prints `0 in 0 places` about its own sweep. Separately, `five weeks` stands on Chapters 631, 632, 634, 636 and 639, ten times, on days 31 to 39, where the tenure is thirty-one to thirty-nine mornings; one of the ten, Chapter 635, is correct because thirty-five mornings is exactly five weeks, and the other nine are a person estimating aloud. The last block's twelve instances of the same fault were repaired on 2026-09-29 by a two-words-for-two-words substitution that moved no count, no claim and no duration. THE NINE IN BLOCK 0003 WERE LEFT ALONE BECAUSE CHAPTERS 631 TO 640 ARE CANON FROM AN EARLIER PHASE AND A FIX PASS DOES NOT EDIT ANOTHER BLOCK'S CHAPTERS. A MAINTAINER CAN CORRECT THEM WITH THE SAME SUBSTITUTION AND NOTHING ELSE IN THOSE FIVE FILES WILL MOVE.**
+
+## THREAD 8 — THE MISSING VOLUME 12 CLOSE AND ROLL. A LIABILITY, NOT A DEBT
+
+**STATE: OPEN AND UNOWNED. `state/volume-12-close.md` DOES NOT EXIST AND `state/volume-12-roll-summary.md` DOES NOT EXIST, MEASURED BY LISTING `state/`. `state/` CARRIES A BLOCK RECORD FOR EVERY BLOCK OF VOLUME 12 AND NOTHING ELSE. A VOLUME 13 OUTLINE INHERITED FROM THE LAST BLOCK RECORD AND FROM CHAPTER 600 AND FROM NOWHERE ELSE. A VOLUME 13 CLOSE HAS NOW PRINTED THE UNPAID SENTENCE A FIFTH TIME ALONGSIDE ITS OWN, AND NEITHER IS PAID. THE DIFFERENCE THAT MATTERS: A DEBT HAS AN OWNER AND A LIABILITY HAS A CREDITOR WHO CANNOT FIND THE OWNER.**
+
+## THREAD 9 — THE PREMISE DIVERGENCE. UNREPAIRED AND A MAINTAINER'S
+
+**STATE: OPEN. `bible/premise.md` DESCRIBES A SYSTEM-APOCALYPSE MARKET NOVEL WITH A NAMED LEAD AND A BOUNDED-USE MARKET. THE MANUSCRIPT IS A YARD ON A BANK WITH TWO TABLES IN IT. THE RESERVED SCAN OVER THE FIFTY CHAPTERS OF VOLUME 13 RETURNS AN EMPTY DICTIONARY FOR FORTY-FIVE RESERVED STRINGS, AND NO METRIC UNIT APPEARS AFTER A FIGURE ANYWHERE IN THE FIFTY FILES, AND NO WEEKDAY NAME AND NO COLON-TIME AND NO TWENTY-FOUR-HOUR CLOCK APPEAR ON ANY PAGE. NOTHING WAS RESTORED AND NOTHING WAS TOUCHED. THIS IS A RE-SCOPE AND NOT A TYPO AND IT IS NOT A CLOSE'S, A BATCH'S, AN OUTLINE'S, OR A REVIEW'S.**

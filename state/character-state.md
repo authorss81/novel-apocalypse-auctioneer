@@ -1023,3 +1023,75 @@ On the fifteenth of the second month, Chapter 515, at about eleven, standing bet
 **6. THE WOMAN OF ABOUT FIFTY-EIGHT.** Reads three lines standing up on her own errand and has never been asked one thing, and a clerk decided out loud on the twenty-third of the sixth month that she was not going to ask her a second time.
 
 **7. THE REVIEW REPAIR TOUCHED NO CHARACTER.** The twelve substitutions it made to Chapters 643, 645, 646, 647, 648 and 650 were all of one stale tenure figure in bystanders' mouths, describing how long a table had stood in a yard. **NO PERSON'S ACTION, SPEECH, ENTRY, PAYMENT, REFUSAL OR RELATIONSHIP CHANGED, AND NO CHARACTER FILE ABOVE THIS SECTION IS WITHDRAWN OR QUALIFIED BY IT.** Every speech in which a substitution was made keeps its exact word count, its counted figure and its stamped duration.
+
+---
+
+# VOLUME 13 CLOSE — CHARACTER STATE, APPENDED 2026-09-29
+
+> **Appended by the Volume 13 close phase. It wrote no chapter and edited no chapter. Every figure below was measured off the fifty chapter files. A cast is a thing a close reports and does not rescore.**
+
+## THE PROTAGONIST. THE MAN OF ABOUT THIRTY-FOUR WHO MENDS FENCING. UNNAMED.
+
+**In the yard of Lot Seventeen on all fifty mornings. In the fifty chapters of this volume his name is on no page, he is not asked to state it, he does not offer it, and nobody in that yard says it.** He put the fifth line on that book at his own dictation and has said out loud that he would put it there again. On day 43 he says out loud that he is not going to pretend he does not know what his own yard is for, and a man at the far end of the same table says out loud that he is not going to say it after him. On day 46 he says the reason out loud before he gets down on that bank and levers half an inch of footing out from under the low leg of the second table with a bar and a wedge of his own, and nobody asks him why. On day 49 a stranger asks him what he thinks, and he answers out loud about himself: that he put that line on the book, that he asked the question in that yard on the second of the fifth month, and did not ask whether a stranger might come down that lane with something else, that he knew the answer to that at the time and said it out loud anyway, and that he is the only person in that yard who can be asked that this morning. He says out loud that he is not to be thanked for that morning and that nobody should thank him for that morning and he would like that entered before anything else anybody says about it. **He is not thanked. He is never thanked in any chapter of this volume.**
+
+## THE MAN OF ABOUT THIRTY-ONE WHO DIGS LOAM. THE ANSWER TO A QUESTION NOBODY ASKED.
+
+**On all fifty mornings, at the far end of the second table, with his spade against the leg of it and his hands on the rail. Says one thing out loud on most mornings and nothing at all on some. Says NO on the twenty-fifth of the sixth month, in the ordinary voice, in front of about nineteen people, to a stranger who came down that lane on the words of a line he wrote, and says out loud that he is not taking it back, and says out loud that he is going to go on standing at that end of that table in the morning and saying things out loud now and then and that he is not going to be a person that a line in a book points at. On the twenty-sixth he says one thing: that he is still paid nothing and that he is not going to make it into more than that.**
+
+**He is not asked one question before day 49. No mouth of his foreshadows the asking. He agreed to be asked once, in that yard, in front of about nineteen people, and he said out loud on the morning after that he did not ask to be written down and is not taking it back. He is still findable in the morning and he is still not paid, and the fifth of the five things this district does not have — a way to pay a person who is not in a household — is unpaid on all fifty mornings, and his saying no is not a payment.**
+
+## A CLERK OF NINETEEN YEARS
+
+**Enters every count before anything else on all fifty mornings. Counts the fourth month of this year off a board at thirty on day 5 and the fifth month at thirty-one on day 33, both in about eleven and about nine minutes, both in the open, in daylight, with a finger on the wood and about nineteen people at the wall, and neither corrects a date on any page. Says out loud that a count of zero is not a count of nobody. Says out loud that she will enter the same figure again that afternoon whether it moves or not, on the ground that a figure is what I write in the morning and a fact is what I write in the afternoon. Says the word remedy out loud in that yard and the yard does not move. Says out loud why she is not going to ask a woman one thing a second time, before she did not ask it the first time. SAYS OUT LOUD ON DAY 49 THAT SHE HAS BEEN RIGHT ABOUT A GREAT MANY THINGS THIS MONTH AND THAT A CLERK WHO IS NEVER WRONG IS NOT A CLERK, AND THE CHAPTER SAYS SO ONCE OUT LOUD, IN HER OWN MOUTH, ON THE MORNING OF THE NO.**
+
+**ON DAY 49 SHE ENTERS A NO ON HER OWN PAGE AND ENTERS THE REASON, WHICH IS THAT A PERSON SAID NO IN THAT YARD AND A PAGE IS WHERE A PERSON SAYS A THING WHEN IT IS GOING TO BE SAID TWICE. IT IS THE FIRST REFUSAL SHE HAS ENTERED IN NINETEEN YEARS. SHE SAYS OUT LOUD THAT SHE IS NOT GOING TO STRIKE IT OUT IN THE MORNING AND ENTERS THAT NOW, SO THAT IT IS IN THE BOOK BEFORE SHE DOES IT.**
+
+**She is not right every morning and the volume says so once out loud, in her own mouth.**
+
+## THE MAN OF ABOUT FIFTY-SIX
+
+**Reads four figures off that wall twice a morning, in the ordinary voice, without looking at the wall, on all fifty mornings, and got all four of them both times, on his three hundred and twenty-sixth morning through his three hundred and seventy-fifth. He is not asked about any of the four on any of the fifty days and is asked nothing at all. The third of his four is out by a day and the fourth is out by a whole year and neither was corrected and the size of the second was said out loud in that yard twice, on Chapter 608 and on Chapter 609, and by nobody else in fifty chapters. No gate in this repository can see that figure, because every gate reads ladders and this is a mouth.**
+
+## THE BOY OF ABOUT NINETEEN
+
+**Counts what is said out loud in that yard and reads the number back to himself in a low voice, 233 times across fifty chapters, and the figure he reads back equals the word count of the speech above it in all 233 cases, and equals the ledger's own count of things said out loud in all 233 cases. He counted the fourth month of this year off the end of that board with his own thumbnail after a clerk had taken her finger off the wood, and got the same number twice, and said out loud that he was not counting that board, he was counting the people counting it, and that that is the one thing in that yard he has never once tried to do, and that he has found out this morning that he cannot. He asks no question on any morning of this volume.**
+
+## THE MAN OF ABOUT THIRTY-TWO WHO PUTS TABLES UP. THE MAN OF ABOUT FORTY-EIGHT WHO KEEPS A TALLY
+
+**Two men, one morning, the twenty-sixth of the sixth month, about forty minutes at the far end of the second table with a scraper and a cross rail, saying two things to each other in the ordinary voice that nobody in that yard wrote down. The man who puts tables up: a page this yard wrote is the only thing in this parish that can send a man who has never set foot in it up a bank he has never climbed, and it does that by not saying what it is for, and every way of saying what it is for would have cost them the sending. The man who keeps a tally: he has kept a tally for nineteen years and nothing he has ever written down has sent anybody anywhere either, and on the sixth of the fifth month somebody wrote four lines on a page in a clerk's hand and a stranger walked two days and stood in that yard with it, and a clerk entered all three of those and entered neither of these two. Then neither of them said anything else about it and the scraping went on until about half past eleven. The closing ledger of the same chapter refuses it as a payment, on the separate ground that the fifth of the five things this district does not have is a way to pay a person who is not in a household and two men saying two things to each other over a table is not one.**
+
+## THE MAN OF ABOUT THIRTY-SEVEN WHO CUTS REEDS
+
+**Says one thing out loud on day 49, and it is the line that a man at the far end of that table has said no out loud and then said out loud that he is not taking it back, and that those two sentences have never been in the same morning before in that yard, and that a man who says both of them on one morning has made a thing this district has no word for, and that he has been cutting reeds on that water since he was about eleven years old and has got a word for a good many things and has not got one for that. He is the man who asks the reversal question on day 25, once, in the ordinary voice, in front of about nineteen people, and nobody answers it for eleven seconds.**
+
+## THE MAN OF ABOUT TWENTY-NINE WHO DRIVES THAT CART
+
+**Comes up that lane at about three on all fifty mornings with the near wheel still dragging, gets it up about nine inches off the ground with one arm, and goes on up the bank. He says no number out loud to nobody in particular on any morning of this volume. His sentence is the most-repeated sentence in the volume and the duplication sweep at `state/volume-13-close.md` section 5.6 finds it whole and identical in four chapters beyond the two that straddle a boundary.**
+
+## THE ROAD KEEPER
+
+**Comes up that lane twice a day on all fifty mornings and reads the four figures off that wall as he goes by. He is asked about the eleven miles on forty-nine of the fifty mornings. On the twenty-seventh of the sixth month, Chapter 627, he is asked `How far is the eleven miles.` and he answers it: `It is eleven miles and it has been eleven miles all my life and about a mile and a half of it has gone since the frost, and I have told that council twice about the mile and a half and been told twice, and that is my answer and I have not got another one`, and he adds that he is telling them what he came up that lane to say and is not asking anybody for anything. THE CLOSING LEDGER OF THAT CHAPTER SAYS THAT A ROAD KEEPER WHO HAS WALKED ELEVEN MILES TWICE A DAY FOR NINETEEN YEARS AND TOLD A COUNCIL TWICE AND BEEN TOLD TWICE IS NOT A PAYMENT AND DID NOT PAY THE FIFTH OF THE FIVE. That is the one break in a protected relay in fifty chapters, and it is the break `outline/volume-13.md` section 10 declared in advance.**
+
+## THE MAN OF ABOUT SIXTY-FOUR
+
+**At the foot of that low wall on all fifty mornings, with his coat folded on the stones beside him and nothing in his hands, on his two hundred and fortieth night of that run through his two hundred and eighty-ninth, having slept on two hundred and thirty-ninth of the first through two hundred and eighty-eighth of the last. Nobody offers him anything and nobody asks him anything on any of the fifty days. He is not given a chair. He is not sent on another nine days. He is not given the second chair. He is not entered in any count of anything in this volume. The relay `the record about the not offering says nothing was asked and nothing was given` is on one paragraph in each of the fifty files and the volume did not soften it.**
+
+## THE WOMAN OF ABOUT THIRTY-SIX WHO KEEPS A SCALE
+
+**HER SHOP IS OPEN ON ALL FIFTY MORNINGS AND THAT IS A FACT AND NOT A SCENE. SHE IS PUT IN NO MOUTH ON ANY MORNING OF THIS VOLUME. SHE IS NOT ASKED ONE THING ON ANY OF THE FIFTY DAYS. SHE SAID ON CHAPTER 620 THAT SHE CANNOT TELL, FOR THE SIXTH TIME IN THIS DISTRICT'S HISTORY, AND THE COUNT OF THAT FIGURE STANDS WHERE CHAPTER 620 PUT IT AND DID NOT MOVE. ON CHAPTER 650 SHE IS NAMED ONCE, IN A LEDGER SENTENCE, IN THE CLAUSE THAT SAYS NOBODY IN THAT YARD HAS ASKED HER ONE THING THIS MONTH. A SHOP COUNTER IS A PLACE WHERE THOSE THREE LINES CAN BE READ AND IT IS NOT ONE OF THE FOUR AND IS NOT ADDED TO THEM.**
+
+## THE WOMAN OF ABOUT FIFTY-EIGHT
+
+**Reads three lines in that lot book standing up on her way past in the evening on all fifty mornings, and says nothing to anybody. On day 47 she stands at that table for about twenty-five minutes, which is the first time anybody at that wall can remember, and says nothing to anybody, and a clerk does not ask her one thing and enters the reason for not asking before she does not ask it. She is not a resident and is not added to this district.**
+
+## A BODY FOUR HUNDRED MILES OFF
+
+**No face. Nobody watches it. No arrival of anything is calendared anywhere in the fifty chapters. The figure for how far past a printing it is rises by one a morning from two hundred and eighteen to two hundred and sixty-seven and nothing ever comes.**
+
+## THE STRANGERS, NINE OF THEM BY NINE MORNINGS, NONE OF THEM A RESIDENT
+
+**Nine mornings of this volume carry a person who came down that lane with a page in their hand. A man of about forty-one on the twentieth of the fifth month, who said one thing out loud in that yard before anybody asked him anything. A man of about thirty-three on the twenty-fourth and twenty-fifth of the sixth month, who is the same person twice and stood in that yard a whole day and was asked nothing and came down it again in the morning. A person of about twenty-nine on the second of the sixth month, who put a page down face down on that table for about a minute and took it up again. And others, unnamed, on the other six mornings. NONE OF THEM IS A RESIDENT. NONE OF THEM IS ENTERED IN THE COLUMN FOR THE NAME OF WHOEVER READ A THING OUT LOUD. AND A CLERK ENTERED ON DAY 44 THAT A PAGE A PERSON CARRIED DOWN A LANE IS NOT A FIFTH OF THE FOUR DOCUMENTS THIS DISTRICT DOES NOT OWN, BECAUSE A PERSON BROUGHT IT AND THERE WAS A PERSON AND A REASON IN THE ROOM.**
+
+## THE COLUMN FOR THE NAME OF WHOEVER READ A THING OUT LOUD, AND ITS STATE
+
+**RULED AND EMPTY AT ABOUT SIX ON ALL FIFTY MORNINGS. NAMED FIFTY-NINE TIMES ACROSS THE FIFTY FILES. NEVER FILLED. NO PERSON APPOINTED TO IT. NO STRANGER ENTERED IN IT. NEITHER THE MAN WHO SAID NO NOR THE MAN WHO ANSWERED A STRANGER ABOUT HIMSELF NOR THE MAN WHO SAID WHAT HIS OWN YARD IS FOR IS IN IT. IT IS EMPTIER AT THE FIFTIETH MORNING THAN IT WAS AT THE FIRST, BECAUSE A CLERK WHO HAS JUST ENTERED A REFUSAL ON IT NAMED IT AGAIN AND PUT NOBODY IN IT AND SAID SO IN HER OWN BOOK. NO COLUMN WAS RULED ON ANY OF THE FIFTY DAYS AND THE COUNT OF COLUMNS OF NOT-ASKINGS IS FOUR AND DID NOT MOVE.**
