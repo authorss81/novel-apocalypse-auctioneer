@@ -46,7 +46,7 @@ Nobody in the yard knew what had been said in that doorway and a clerk of ninete
 
 The woman of fifty-eight came down the bank at about four with two buckets and put them down where she puts them and nobody counted them, and the man of about thirty-four who mends fencing carried one up and said nothing about it, and a clerk entered that a count of buckets is not a count of houses and is not a figure about a woman and that the record about the two buckets says not asked.
 
-The man of about thirty-four who digs loam, whose right hand was still not closing properly on a cold handle and who had not mentioned it since the second of this month, said the half of the day that nobody had wanted to say, and it was counted and came to a hundred and thirty.
+The man of about thirty-one who digs loam, whose right hand was still not closing properly on a cold handle and who had not mentioned it since the second of this month, said the half of the day that nobody had wanted to say, and it was counted and came to a hundred and thirty.
 
 "**A first book in one room by one person is the reason a notice four hundred miles away could be written without anybody's name on it. A second book in one room by one person is the reason four hundred and eleven people on a piece of paper do not have to be asked anything this month. Both of those are true and they cannot both be a rule. One of them is a rule about what a record is for and one of them is a rule about what a person is worth, and this district has spent five months refusing to say which is which, and somebody in that room has just said it out loud in about nine seconds and did not have to be asked twice.**"
 

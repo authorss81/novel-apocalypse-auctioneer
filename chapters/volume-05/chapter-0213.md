@@ -28,7 +28,7 @@ Under the yoke there was a folded sheet of paper and it had not been on the cart
 
 Before it was read, the man of about thirty-one put the strip of paper on the trestle table face up, which is the way he put it down on the third of this month, and a clerk of nineteen years entered that he was not asked to put it there and that nobody asked him about it and that she is not going to.
 
-A man of about thirty-four who digs loam said one thing about it and said it in the ordinary voice and a man of about nineteen counted it and got sixty-six, and it went in the minute in his own words.
+A man of about thirty-one who digs loam said one thing about it and said it in the ordinary voice and a man of about nineteen counted it and got sixty-six, and it went in the minute in his own words.
 
 "**That is a strip of paper with his own name on it saying the name came off a sheet, and it has been in a coat that went up a road and has come back down that road in a pocket, and a document somebody owns that nobody will produce is still a document somebody owns, and the three this district does not own are three.**"
 
@@ -44,7 +44,7 @@ A clerk of nineteen years read it out in the yard of Lot Seventeen in one run of
 >
 > **THE COLUMN HEADED KEEPER CARRIES A HOUSE ON EVERY ONE OF THE NINE ROWS AND A PERSON ON NONE OF THEM.**
 
-Nobody said anything for about nine seconds and then the man of about thirty-four who digs loam said the whole of what it was, and nobody had asked him, and a clerk of nineteen years entered that nobody asked him and that she is not going to put a number on it.
+Nobody said anything for about nine seconds and then the man of about thirty-one who digs loam said the whole of what it was, and nobody had asked him, and a clerk of nineteen years entered that nobody asked him and that she is not going to put a number on it.
 
 "**A stranger's schedule has eight days in it and a word in the ninth row and this has nine nights in it, and the eight of them are the same eight nights in the same order, and so two lists of nine that agree on eight are not one list, and the one they disagree about is the ninth, and the ninth is the twentieth of this month, and that is six days off and nobody in this district can get to it.**"
 
@@ -62,13 +62,13 @@ Then a man of about thirty-four who mends fencing said the other half of the pap
 
 A man of fifty-six said that a Registry prints a house and does not print a person, and that this district's own records office prints a house and does not print a person and has said so four times in five months, **and that the keepers' page has been doing it for four generations, and that those three are the same sentence told three times by three bodies and are one finding and not three, and that the count of documents nobody owns in this district is three and did not move at about a quarter to five in the afternoon on the fourteenth of the fourth month and a sheet that came down on a cart is a document this district has and did not write and is not a fourth.**
 
-A man of about thirty-four who digs loam said that a page that names a house and not a person is a true page, and that the woman of fifty-eight walked up a bank this morning and came down it and filled two buckets and is not on that page and is not on any page, **and that a house can be a bearer of a toll and a woman carrying two buckets up a hill is a job, and that the two have never been in the same sentence in this district until this afternoon and that I am not going to let a yard join them tonight.**
+A man of about thirty-one who digs loam said that a page that names a house and not a person is a true page, and that the woman of fifty-eight walked up a bank this morning and came down it and filled two buckets and is not on that page and is not on any page, **and that a house can be a bearer of a toll and a woman carrying two buckets up a hill is a job, and that the two have never been in the same sentence in this district until this afternoon and that I am not going to let a yard join them tonight.**
 
 ---
 
 The board was asked about at about half past four and it is the one thing in this district a person can read without a clerk standing next to it, and a man of about thirty-four who mends fencing asked whether the twentieth ought to go on it.
 
-A man of about thirty-four who digs loam said no in four seconds and gave the reason, and a man of about nineteen counted the reason and got fifty-five, and it went in the minute in his own words.
+A man of about thirty-one who digs loam said no in four seconds and gave the reason, and a man of about nineteen counted the reason and got fifty-five, and it went in the minute in his own words.
 
 "**A date is not a finding. The seventh line at the ninth place is ruled and has nothing on it and it has been ruled since the second of January and the reason it is empty is that nobody has ever had a finding to put there, and a printed day is not a finding.**"
 

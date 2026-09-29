@@ -6,7 +6,7 @@ The sixth of April was the day a man said no for the second time and nothing hap
 
 A clerk of nineteen years entered that a stranger has slept three nights in this district at a cost of his own and has not been charged for anything and has not asked to be, **and that this district has no instrument for a person who is in it and not in a book and did not make one on the second of the fourth month and did not make one this morning and that a man of about thirty-four who mends fencing said on the second that a man who is in a place and not in a book is the ordinary case, and that the ordinary case is the case nobody writes down.**
 
-The list of the five was read out again at about half past ten because a man of about thirty-four who mends fencing asked for it and a man of about thirty-four who digs loam read it in one run of words with a stop at the end of each of them, and a clerk of nineteen years read it back afterwards and got nothing wrong, which is the rule of the counter.
+The list of the five was read out again at about half past ten because a man of about thirty-four who mends fencing asked for it and a man of about thirty-one who digs loam read it in one run of words with a stop at the end of each of them, and a clerk of nineteen years read it back afterwards and got nothing wrong, which is the rule of the counter.
 
 > **THE THINGS THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST HAS POSTED SINCE THE SECOND OF DECEMBER. FIVE.**
 >
@@ -26,7 +26,7 @@ Nothing was said for about nine seconds and then the man with the portfolio said
 
 Nobody picked it up. A man of fifty-six said that a stranger has just told this district that its list of five is better than his list of nineteen pages, and that this is the first time in four months a man from outside this basin has said anything about this district that was not an ask, **and that a man who says a thing is good is a man who has read it twice and that a clerk of nineteen years entered that he read it and that she did not ask him to and that neither of those is a joining of anything and the refusals to join two things did not move at half past ten on the sixth of the fourth month.**
 
-A man of about thirty-four who digs loam said the thing that was actually in the yard, and he said it before anybody asked him for it.
+A man of about thirty-one who digs loam said the thing that was actually in the yard, and he said it before anybody asked him for it.
 
 "**A Registry does not want a list. A Registry wants a person. This yard has spent four months getting to the end of a list and a stranger walked in on Monday and asked for the one thing the list was never going to be.**"
 
@@ -34,7 +34,7 @@ A man of fifty-six said that the four posted securities are four pieces of paper
 
 ---
 
-They asked him again at about half past eleven, in the six things, in front of about nineteen people, and it was a new day and a clerk of nineteen years entered that it was a new day and that the panel which came at eleven o'clock yesterday said a person may not be asked twice in the same six things and that this is not the same six things, **and that a man of about thirty-four who mends fencing entered the panel's second line as the reason he was asking and that a man of about thirty-four who digs loam said nineteen words about it yesterday and that a clerk is not going to rule a column for a man who has been right.**
+They asked him again at about half past eleven, in the six things, in front of about nineteen people, and it was a new day and a clerk of nineteen years entered that it was a new day and that the panel which came at eleven o'clock yesterday said a person may not be asked twice in the same six things and that this is not the same six things, **and that a man of about thirty-four who mends fencing entered the panel's second line as the reason he was asking and that a man of about thirty-one who digs loam said nineteen words about it yesterday and that a clerk is not going to rule a column for a man who has been right.**
 
 He said it again, and it was not the same words, and a man of about nineteen counted it and got fifty-eight, and it went in the minute in his own words.
 
@@ -48,7 +48,7 @@ A man of fifty-six said the other half of it, and he said it in the voice he use
 
 Nobody contradicted him. A man of about thirty-four who mends fencing said that a man who says no in a yard is doing the district's only instrument and that the district's only instrument does not stop a page, **and that a page a stranger can read is a door and a door stops a person and does not stop a page, and that the two are different jobs and this district has one of them and has had it for four months.**
 
-The man of about thirty-four who digs loam said the part that had not been said, and a clerk of nineteen years entered that she was not asked and that she is not going to put a number on it.
+The man of about thirty-one who digs loam said the part that had not been said, and a clerk of nineteen years entered that she was not asked and that she is not going to put a number on it.
 
 "**He is the only person in this district who can be fastened to a toll and he has said no in a yard twice and a house thirty-four miles east already knows his name, and the only reason that has not cost anything this week is that the house has not asked for it. That is not a defence. That is a week.**"
 
@@ -72,9 +72,9 @@ He copied the schedule of nine rows onto the back of a sheet of his own buying, 
 
 A clerk of nineteen years read the copy against the sheet at the counter in the yard and got nothing wrong, which is the rule of the counter, and entered that the copy is a copy and that a copy a man keeps in a coat is a copy and not a fourth document nobody owns, **and that the three documents nobody owns in this district are the printed sheet at the fourth place, the notice about a party of nine who went thirty-four miles east, and a line in a public book with four names on it and a figure under the four names, and that the three did not move at about half past three in the afternoon on the sixth of the fourth month and a fourth was not made this afternoon and the man made one and gave it away and it is not a fourth.**
 
-A man of about thirty-four who digs loam said that a man who copies a stranger's schedule for nothing and gives the copy to a clerk is the fourth instrument this district has built and not named and that he is not going to count him, **and that the count is six and it is six and a copy is a copy and a clerk is a person and a man who copies for nothing is a man and none of those three is an instrument and a clerk of nineteen years entered that he said it and that she is not going to put a number on it.**
+A man of about thirty-one who digs loam said that a man who copies a stranger's schedule for nothing and gives the copy to a clerk is the fourth instrument this district has built and not named and that he is not going to count him, **and that the count is six and it is six and a copy is a copy and a clerk is a person and a man who copies for nothing is a man and none of those three is an instrument and a clerk of nineteen years entered that he said it and that she is not going to put a number on it.**
 
-Nobody argued with it. A man of about thirty-four who mends fencing said that the man is owed eleven coppers a week and that the man has now produced a document for this district worth more than eleven coppers a week and that this district is not going to pay him, **and that a man who knows that and does it anyway is a man who is going to do it again and that the four of those this district has are a man of about thirty-four who mends fencing, a man of about thirty-four who digs loam, a woman of fifty-eight and a man of about thirty-one, and that four is not nine and is not a column and is not a rate.**
+Nobody argued with it. A man of about thirty-four who mends fencing said that the man is owed eleven coppers a week and that the man has now produced a document for this district worth more than eleven coppers a week and that this district is not going to pay him, **and that a man who knows that and does it anyway is a man who is going to do it again and that the four of those this district has are a man of about thirty-four who mends fencing, a man of about thirty-one who digs loam, a woman of fifty-eight and a man of about thirty-one, and that four is not nine and is not a column and is not a rate.**
 
 ---
 
@@ -84,7 +84,7 @@ The registrar of this district's records office was in the yard at about two in 
 
 A man of fifty-six said that she has said a version of that sentence four times in five months and that a fifth reason was given in a room on the twenty-eighth of the third month with no clerk in it, **and that the registrar is the only person in this district whose instrument is a room and the man the figure of twenty-one years is against is the only person who has put his own name at the back of one and that those two facts came together on the twenty-eighth of the third month and have not come apart since and that a yard is not where that gets fixed.**
 
-A man of about thirty-four who digs loam said that it is not going to get fixed in a yard and that nobody in this yard was going to fix it and that the man who digs loam has been saying so in four yards in a fortnight, **and that the man the figure of twenty-one years is against has said in this yard that he is not going to stand in a room and tell her that makes it a different thing and that a man who says that in a yard has said the only thing there is to say and that it is not a resolution and is not going to be one this week.**
+A man of about thirty-one who digs loam said that it is not going to get fixed in a yard and that nobody in this yard was going to fix it and that the man who digs loam has been saying so in four yards in a fortnight, **and that the man the figure of twenty-one years is against has said in this yard that he is not going to stand in a room and tell her that makes it a different thing and that a man who says that in a yard has said the only thing there is to say and that it is not a resolution and is not going to be one this week.**
 
 She did not look at him and he did not look at her and a clerk of nineteen years entered that and entered that nobody asked and that the not-asking is entered and that the count is where it was, **and that the two of them have been in the same yard at the same hour on purpose nine times since the eighteenth of December and this was not one of the nine and is not going to be entered as one.**
 

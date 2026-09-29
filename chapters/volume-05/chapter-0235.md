@@ -12,7 +12,7 @@ The book is nineteen ruled rows and four columns and it weighs about as much as 
 
 A clerk of nineteen years entered that a man of nineteen carried a book two hundred yards each way on a morning when he was well, and that a person who has not been asked to carry a thing and has carried it has not refused it and has not consented to it, and that the record about the fourteen days before this morning says not asked, and that a book is a book and is not a bearer and is not a figure about a person and is not a column.
 
-The man of about thirty-four who digs loam said the thing about the fifteen days in the ordinary voice without being asked to, and a man of about nineteen counted it and got a hundred and thirteen, and it went in the minute in his own words.
+The man of about thirty-one who digs loam said the thing about the fifteen days in the ordinary voice without being asked to, and a man of about nineteen counted it and got a hundred and thirteen, and it went in the minute in his own words.
 
 "**Fifteen days on a table four feet high under a hatch, and on four of those days a man was not well and on one of the other four a woman carried it two hundred yards because it was in her arms and did not know it was a job, and on this morning the man carried it himself because he was well. Nobody has been asked. The work did not stop. It stopped for one man in the third week of last month and it went somewhere else, and on this morning it went somewhere else again, and a book that moves itself is not the same as a book somebody carries.**"
 
@@ -46,7 +46,7 @@ Nobody answered it. The clerk entered that a document which names no place and n
 
 The woman of about thirty-six who keeps a scale came into the yard at about two in the afternoon, looked at the notice under the leg of the table without bending down to it, said nothing, and went out again, and the clerk entered that she was there and that nobody sent for her and that she was not asked a first thing.
 
-The man of about thirty-four who digs loam was at the sluice end of the loams from about one until about three and came back with his boots wet to the knee, and nobody asked him what the water was doing and he did not say, and the clerk entered that he was out and that he was not asked and that the record says not asked.
+The man of about thirty-one who digs loam was at the sluice end of the loams from about one until about three and came back with his boots wet to the knee, and nobody asked him what the water was doing and he did not say, and the clerk entered that he was out and that he was not asked and that the record says not asked.
 
 The chair was still at the end of the trestle table where a man of about twenty-three had put it down on the twenty-third of last month, and it has now stood in that yard for fourteen days, and nobody has sat in it, and the clerk entered that a chair is a place a person is put and is not a bearer and is not a holder and is not a founder and did not become a founder by standing still for a fortnight.
 
@@ -54,6 +54,6 @@ The man of about thirty-four who mends fencing read the notice out one more time
 
 The woman of fifty-eight came down the bank at about half past twelve with the twelfth bucket and put it beside the other two, and nobody counted the buckets, and the clerk entered that nobody counted them and that a count of buckets is not a count of houses and is not a figure about a woman.
 
-The day came down about five and the ground under the leg of the trestle table was soft where the notice had been pressed into it, and the man of about thirty-four who digs loam went out of the gate and up the bank with his arm in the sling and did not ask anybody to walk with him.
+The day came down about five and the ground under the leg of the trestle table was soft where the notice had been pressed into it, and the man of about thirty-one who digs loam went out of the gate and up the bank with his arm in the sling and did not ask anybody to walk with him.
 
 **AND ON THE SEVENTH OF THE FIFTH MONTH A BOOK OF NINETEEN ROWS AND FOUR COLUMNS WENT BACK TWO HUNDRED YARDS ON A MORNING WHEN THE MAN WHO KEEPS THAT COUNTER WAS WELL AND NOBODY HAD ASKED HIM, THE SIX HOUSEHOLD FIGURES HAVE NOT MOVED FOR SIXTEEN DAYS, AND A NOTICE THAT NAMES NO PLACE AND NO PERSON WAS ASKED ABOUT IN A YARD BY A MAN WHO SAID OUT LOUD THAT NOBODY WAS GOING TO ANSWER IT.**

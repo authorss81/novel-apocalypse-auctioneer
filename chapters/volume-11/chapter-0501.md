@@ -34,7 +34,7 @@ The woman of about thirty-six who keeps a scale came down that bank at about hal
 
 Nobody asked her. A clerk of nineteen years entered that a woman read two books standing up and said nothing, and entered that she is not going to enter a comparison, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and then he stood at the near end of that second table and read the three lines on that sheet in the ordinary voice, slowly, and about nine people heard all of it, and he said nothing at the end of the third one and went and sat down on the low step at the end of that first table for about a minute, and nobody asked him what the third one said.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and then he stood at the near end of that second table and read the three lines on that sheet in the ordinary voice, slowly, and about nine people heard all of it, and he said nothing at the end of the third one and went and sat down on the low step at the end of that first table for about a minute, and nobody asked him what the third one said.
 
 The man of about forty-eight who keeps a tally stood at the east end of that yard with the flat book under his left arm and said nothing at all, and nobody said a word to him all morning.
 

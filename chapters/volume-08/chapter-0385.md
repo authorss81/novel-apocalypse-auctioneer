@@ -44,7 +44,7 @@ A clerk of nineteen years entered that the fifth of the five things this distric
 
 ---
 
-At about two the clerk of nineteen years wrote a second line in that lot book and about nine people in that yard watched her do it, and the figure in it came out of the mouth of the man of about thirty-four who digs loam and out of nobody else's.
+At about two the clerk of nineteen years wrote a second line in that lot book and about nine people in that yard watched her do it, and the figure in it came out of the mouth of the man of about thirty-one who digs loam and out of nobody else's.
 
 He had said at about one that there was about a foot of standing water in that ditch at the near end and about two inches at the far end, and that he had put his bar into it twice this month, and that the outlet at the low end has been silted up since before he came to that ditch. Nobody asked him for a figure and he gave one, and two people in that yard said out loud that is the first time anybody has said a figure about a thing in that yard on purpose and that the thing is a ditch, and he said that a ditch is a thing a man can put a bar into and that is the whole of what he knows about it.
 
@@ -56,7 +56,7 @@ A clerk of nineteen years entered that the lot book has two lines written in it 
 
 The man of about thirty-four who keeps a road read that second line out loud standing up at about half past two and got it right, and nobody read it back from the top, and three people in that yard said out loud that there were two lines in that book now and that a book with two lines in it is still a book with nothing in it to hold, and he said that he had not said that and had only read it.
 
-The man of about thirty-four who digs loam was at the end of that trestle table for about four minutes after that and said out loud, to nobody in particular, that a figure about a ditch is a figure about a ditch and that his name is not on it and he would like it to stay off it, and he was not asked to sign it and did not offer to, and a man who would like his name kept off a page has not been entered in one.
+The man of about thirty-one who digs loam was at the end of that trestle table for about four minutes after that and said out loud, to nobody in particular, that a figure about a ditch is a figure about a ditch and that his name is not on it and he would like it to stay off it, and he was not asked to sign it and did not offer to, and a man who would like his name kept off a page has not been entered in one.
 
 The man of about thirty-seven who cuts reeds came up out of that ditch at about half past four, wet to the waist, with his bundle in his right hand and his hook in his left, and put both of them down against the wall, and crossed that yard and sat down in the second chair for about a minute, and got up again, and picked his hook and his bundle up off the ground where he had put them, one in each hand.
 

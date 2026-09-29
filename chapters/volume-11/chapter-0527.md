@@ -1,6 +1,6 @@
 # Chapter 527: The Only Thing Anybody Can Say About It
 
-The man of about thirty-four who digs loam said, out loud, in front of about nineteen people in the yard of Lot Seventeen on the morning of the twenty-third of the second month, the only thing anybody in that district can say about a sheet of paper with three lines on it and nothing in the third, which is that it does not go out of date, and a clerk of nineteen years entered the whole of that and entered that it is the only sentence anybody in that yard has about that sheet and entered no reason why.
+The man of about thirty-one who digs loam said, out loud, in front of about nineteen people in the yard of Lot Seventeen on the morning of the twenty-third of the second month, the only thing anybody in that district can say about a sheet of paper with three lines on it and nothing in the third, which is that it does not go out of date, and a clerk of nineteen years entered the whole of that and entered that it is the only sentence anybody in that yard has about that sheet and entered no reason why.
 
 It was the twenty-third morning of the second month and the sky was low and grey and stayed low and grey until about two in the afternoon, and the boards of that second table had a skin of water on the underside of them and not on the top, and by ten there were about nineteen people in that yard.
 
@@ -22,7 +22,7 @@ The boy of about nineteen asked him then, out loud, in front of about nine peopl
 
 "**You have just told this yard that a page with nothing in the third line cannot be got rid of by getting old, and I have been asking that yard who made it for twenty-three mornings, and I want to ask you whether anybody ought to be going round taking them off.**"
 
-The man of about thirty-four who digs loam looked at the boy for about four seconds and then said one thing, in about four seconds, and the boy counted it and got forty-six and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam looked at the boy for about four seconds and then said one thing, in about four seconds, and the boy counted it and got forty-six and read the number back to himself in a low voice.
 
 "**No. Nobody ought to be going round taking them off, and I am the wrong man to ask, and I have been in a ditch every morning since before the second of the twelfth month and I have not gone and looked at one of them.**"
 

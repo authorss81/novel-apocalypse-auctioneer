@@ -74,7 +74,7 @@ A man stood about nine feet off two people at the far end of that yard and said 
 
 ---
 
-The rest of that day went ordinary and nothing in it changed on purpose. The man of about thirty-four who digs loam was in that ditch before nine and stood on the bank at about ten, and his right hand did not go above the level of that shoulder at any point in this day. The reed cutter came up that bank at about half past four with his hook in his hand and was wet to the chest. The man who puts tables up for anybody who will use them was against the east wall with his cart and the tent rolled on the back of it where it has been since the thirtieth of the June, and he was given nothing.
+The rest of that day went ordinary and nothing in it changed on purpose. The man of about thirty-one who digs loam was in that ditch before nine and stood on the bank at about ten, and his right hand did not go above the level of that shoulder at any point in this day. The reed cutter came up that bank at about half past four with his hook in his hand and was wet to the chest. The man who puts tables up for anybody who will use them was against the east wall with his cart and the tent rolled on the back of it where it has been since the thirtieth of the June, and he was given nothing.
 
 The man the figure of twenty-one years is against was in the yard from about ten until about four and said nothing out loud today, and nobody asked him for anything, and he asked for nothing. About four people said out loud that there are a great many things in this district that nobody asks anybody about, and that a day on which none of them moved is a day.
 

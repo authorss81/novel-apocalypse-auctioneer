@@ -4,7 +4,7 @@
 
 The twenty-second of April was colder than that yard had been since the second month, and the gate would not open without a man putting a foot against the post, and about nine people were standing in the yard of Lot Seventeen at about ten in the morning.
 
-The man of about thirty-four who digs loam had it open by about a minute past ten with his left hand flat on the post and his right arm held against his ribs, and he did not say a word about the arm in a yard, and a clerk of nineteen years entered that he said nothing and that she was not asked to make anything of it and that she was not going to.
+The man of about thirty-one who digs loam had it open by about a minute past ten with his left hand flat on the post and his right arm held against his ribs, and he did not say a word about the arm in a yard, and a clerk of nineteen years entered that he said nothing and that she was not asked to make anything of it and that she was not going to.
 
 He had put a spade into a wet bank at the sluice end of the loams at about half past six that morning, and the bank had gone out from under the blade about a foot and a half down, and he had felt it go in his shoulder and had carried on for about a quarter of an hour after that because there was a ditch to finish, and he told the yard about it before anybody had thought to ask him, and a man of about nineteen counted it and got sixty-four, and it went in the minute in his own words.
 
@@ -32,7 +32,7 @@ The clerk of nineteen years read it out in one run of words with a stop at the e
 >
 > **AN ANSWER IS ASKED FOR BY THE LAST DAY OF THIS MONTH AND THE BODY SENDS ITS REGARDS AGAIN.**
 
-Nobody said anything for about nine seconds, which is the only time in eleven days that nobody in that yard has said anything at all, and the man of about thirty-four who digs loam said the whole of what it was, and he was not asked for it, and no man counted it.
+Nobody said anything for about nine seconds, which is the only time in eleven days that nobody in that yard has said anything at all, and the man of about thirty-one who digs loam said the whole of what it was, and he was not asked for it, and no man counted it.
 
 "**One sheet, one holder, one term with no end on it and one name, and the name is not on it. There is a place ruled for it the way there is a place ruled at the ninth on a board outside the room, and a person is a name, and this district does not put a name into a ruled place because somebody printed a line round it.**"
 
@@ -48,7 +48,7 @@ He asked next, in the six things, in front of about nine people, what a chair is
 
 "**A chair is a place a person is put, and a founder is a man somebody has already decided about, and the two of them together on one line of one sheet is a thing that does not need a man in the room to work.**"
 
-The man of about thirty-four who digs loam said that a figure with a person to be put in it is not a figure, and that a chair with a name in it is a job nobody has been offered, and that the man who takes a job up is not the man it is handed to, and that this district has spent four months finding out that the two are not the same person and has not written it down anywhere yet.
+The man of about thirty-one who digs loam said that a figure with a person to be put in it is not a figure, and that a chair with a name in it is a job nobody has been offered, and that the man who takes a job up is not the man it is handed to, and that this district has spent four months finding out that the two are not the same person and has not written it down anywhere yet.
 
 The woman of about thirty-six who keeps a scale stood at the back of that yard for about ten minutes and then went out of the gate without saying anything, and a clerk of nineteen years entered that she was there and that nobody sent for her and that she was not asked a first thing, and that the four houses she offered on the last day of last month still stand and have not been taken up and were not added to eleven this morning and are not going to be.
 
@@ -60,7 +60,7 @@ She said the honest answer and a man of about nineteen counted it and got sevent
 
 She picked the two buckets up again and went out of the yard and up the bank, and it is about a hundred and forty steps from the gate to the top of it and she took them without stopping. The clerk entered that she did that and that nobody asked her to and that nobody followed her, **and that a woman holding eleven houses of a round of about ninety and no figure on them at all put two buckets down in a yard this morning and picked them up again and went out of it, and that the round of about seventy-nine is not coming back, and that about ninety is not a figure so that is not a subtraction.**
 
-The man of about thirty-four who digs loam asked for one thing at about half past eleven, in front of everybody, it was the fourth time in eleven days, and a man of about nineteen counted it and got sixty-three, and it went in the minute in his own words.
+The man of about thirty-one who digs loam asked for one thing at about half past eleven, in front of everybody, it was the fourth time in eleven days, and a man of about nineteen counted it and got sixty-three, and it went in the minute in his own words.
 
 "**I would like that offer written down in my own words. I have asked three times in ten days and I have not been written down three times, and this is the fourth time, and I am telling you now that it is not going to happen, so that the not-happening is a thing this yard did and not a thing I did.**"
 

@@ -60,7 +60,7 @@ The man of about thirty-four who mends fencing went up that lane at about two an
 
 ---
 
-The man of about thirty-four who digs loam was at the top of that ditch from about three until about five. The man who keeps a road was not in that yard on this day and was out on that road and got back to that low wall before the light went, and his boots were black to the ankle, and about four people in that yard said that he had told them eleven miles of it yesterday and had not told them a single thing about himself, and nobody in that yard asked him for a second thing.
+The man of about thirty-one who digs loam was at the top of that ditch from about three until about five. The man who keeps a road was not in that yard on this day and was out on that road and got back to that low wall before the light went, and his boots were black to the ankle, and about four people in that yard said that he had told them eleven miles of it yesterday and had not told them a single thing about himself, and nobody in that yard asked him for a second thing.
 
 That man said one thing out loud at about four, from the head of that lane, to about four people who had walked up it with him, and it was not counted, because he was about a quarter of a mile off and the man of about nineteen could not get one figure out of it. A clerk of nineteen years entered that the two men of about thirty-seven in this district were not asked anything this afternoon and were given nothing, and that the tent on the back of that hand-cart is still rolled and has not gone up on any day since the thirtieth of the sixth month, and that a tent that has not gone up is not a shelter and is not a sixth of the five protected things this district has.
 

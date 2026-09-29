@@ -18,7 +18,7 @@ The hand opened about halfway and stopped. It did not close on itself. He held i
 
 About four people at that table said afterwards that they had expected something else, and about four of them said they had expected exactly that, and two people said that they had no idea what they had expected and that it had not mattered.
 
-The man of about thirty-seven who puts tables up said one thing out loud from the east wall and nobody had asked him anything.
+The man of about thirty-two who puts tables up said one thing out loud from the east wall and nobody had asked him anything.
 
 "Six months."
 
@@ -60,7 +60,7 @@ The clerk of nineteen years entered that a man said a thing out loud there and e
 
 ---
 
-At about half past one the man of about thirty-four who digs loam came up out of that bank and got the four figures at that end of the table and said the word with them four times, and that right arm of his did not go above the level of that shoulder, and he went and stood at the end of the table about a foot from the man whose cloth was off, and neither of them said anything, and about nine people watched two men stand a foot apart and say nothing.
+At about half past one the man of about thirty-one who digs loam came up out of that bank and got the four figures at that end of the table and said the word with them four times, and that right arm of his did not go above the level of that shoulder, and he went and stood at the end of the table about a foot from the man whose cloth was off, and neither of them said anything, and about nine people watched two men stand a foot apart and say nothing.
 
 At about two the man of about thirty-seven who cuts reeds came up that bank and stood at that end of the table for about four seconds, and about nine people were within four feet of him and nobody said a word to him, and he was not asked for anything, and the record about the not asking says not asked. At about half past two the road keeper came up that lane and got the four figures off that wall as he went past and was not asked about the eleven miles. At about three the man of about twenty-nine who drives a cart came up and went on up it, and the near wheel was still dragging, and he got it up about nine inches with one arm, and nobody said a word.
 

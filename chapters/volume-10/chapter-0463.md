@@ -20,7 +20,7 @@ She waited until about eleven to say it, and she said it to about four people an
 
 Nobody answered her. A clerk of nineteen years entered that she said a date out loud in that yard and entered that she said a date and not a figure, and entered that the length of this month is not a figure on any page in this district, and entered that saying a date is not entering a figure and that about four people heard the date and that no figure was given to any of them, and the record about the not asking says not asked.
 
-The man of about thirty-seven who puts tables up said out loud, to about four people, that he has stood in that yard every day this month and has known for three weeks that this month was going to end and has had no idea when, and that a man who puts tables up for a living is asked about a date before he is asked about anything, and that nobody in this yard has asked him one.
+The man of about thirty-two who puts tables up said out loud, to about four people, that he has stood in that yard every day this month and has known for three weeks that this month was going to end and has had no idea when, and that a man who puts tables up for a living is asked about a date before he is asked about anything, and that nobody in this yard has asked him one.
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that he has not been given a figure and has not asked for one, and the record about the not asking says not asked.
 
@@ -36,7 +36,7 @@ Nobody answered her. A clerk of nineteen years entered that she is going to coun
 
 ---
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day. At about half past twelve the man of about thirty-four who mends fencing was at the end of that second table with his left hand in its cloth and said one thing out loud, in about four seconds, and the boy of about nineteen counted what he said and got thirty-six and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day. At about half past twelve the man of about thirty-four who mends fencing was at the end of that second table with his left hand in its cloth and said one thing out loud, in about four seconds, and the boy of about nineteen counted what he said and got thirty-six and read the number back to himself in a low voice.
 
 "**Three days is a short time to be right in, and it is the only time anybody in this district will ever get, and I am not going to stand here and wish it were longer.**"
 

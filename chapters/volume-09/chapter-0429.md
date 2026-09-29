@@ -1,6 +1,6 @@
 # Chapter 429: A Name Out Loud
 
-At about eleven a man of about thirty-seven who puts tables up said a name out loud in the open, in the ordinary voice, in front of about nineteen people, and it took about four seconds, and nobody wrote it down, and a clerk of nineteen years entered that a name was said and did not enter what it was.
+At about eleven a man of about thirty-two who puts tables up said a name out loud in the open, in the ordinary voice, in front of about nineteen people, and it took about four seconds, and nobody wrote it down, and a clerk of nineteen years entered that a name was said and did not enter what it was.
 
 It was the twenty-seventh of the eleventh month and the light was hard and clean and there was no wind. By ten there were about nineteen people in the yard of Lot Seventeen.
 
@@ -22,7 +22,7 @@ Then the man of about thirty-four who mends fencing said one thing from the far 
 
 "You told me on the fifteenth of this month," said the man who puts tables up, "that by the end of this month somebody's name would be in something, and that it would be because somebody said a sentence out loud twice. I have said nine words out loud four times to four different men in this yard and a fifth time three days ago, and I have never said the rest of them, and you are right. It is in something. It is in the air. That is all that has happened."
 
-The man of about thirty-four who digs loam was in that ditch to his thigh at that moment and heard all of it, and he did not come up out of the bank, and two people at that table looked down at the water and then looked at each other.
+The man of about thirty-one who digs loam was in that ditch to his thigh at that moment and heard all of it, and he did not come up out of the bank, and two people at that table looked down at the water and then looked at each other.
 
 ---
 
@@ -38,7 +38,7 @@ The line said that a name was said out loud in the open. There was nothing under
 
 "I have put a line on a page with a date on it and a place on it and a man on it and nothing under it, and that is not a column and it is not a not-asking and it is not a figure. I have nine columns on this page and there is not one of them for this, and I am not ruling a tenth one today for a thing that was said in the air and not in the yard."
 
-"Who was it," said the man of about thirty-seven who puts tables up.
+"Who was it," said the man of about thirty-two who puts tables up.
 
 She looked at him for about as long as it takes the man of fifty-six to read four figures.
 
@@ -76,7 +76,7 @@ At about one the man the figure of twenty-one years is against came down that ba
 
 "Not mine."
 
-"No. If it had been yours you would have known it, and you are the only man here who could have stopped it going into a book and you are not going to be able to stop it going into anybody's head, and neither am I, and that is the whole of what happened this morning." The man of about thirty-seven who puts tables up had his hands in his pockets. "I have said it four times to four men and I have never once said it in front of you, and I have thought about that for eleven days and I have not worked out why, and I have stopped working on it."
+"No. If it had been yours you would have known it, and you are the only man here who could have stopped it going into a book and you are not going to be able to stop it going into anybody's head, and neither am I, and that is the whole of what happened this morning." The man of about thirty-two who puts tables up had his hands in his pockets. "I have said it four times to four men and I have never once said it in front of you, and I have thought about that for eleven days and I have not worked out why, and I have stopped working on it."
 
 The man the figure of twenty-one years is against did not answer that. Three people at that table said afterwards that a man who had said, on the thirteenth of this month, the sentence this month has turned on had said seven words to a man who had just put a name into the air. Neither of the two sentences had been read back from the top, and the two of them together were the eleventh month of this district in about four sentences.
 

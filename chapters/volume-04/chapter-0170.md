@@ -56,7 +56,7 @@ A man of fifty-six said that a route keeper is a Binder's counterparty and not a
 
 Nobody argued and a clerk of nineteen years entered that a man who keeps a road is not a bearer of the road and was not asked to be, **and that about nine hundred households in this district are in no row of anything and that a figure for four of them is a figure for four and not a figure for the rest, and that the two are not the same and are not added.**
 
-A man of about thirty-four who digs loam and does nine days of it in ten said that a sluice with no term on it is a thing that will be open in the fourth month and closed in the fifth and open again, and that a man who says that is a man describing a season and not a lot, **and that a season is not a figure and that a year is not a figure and that a year and a half is not a figure and that this district has never had a rate that turns one into coppers.**
+A man of about thirty-one who digs loam and does nine days of it in ten said that a sluice with no term on it is a thing that will be open in the fourth month and closed in the fifth and open again, and that a man who says that is a man describing a season and not a lot, **and that a season is not a figure and that a year is not a figure and that a year and a half is not a figure and that this district has never had a rate that turns one into coppers.**
 
 ---
 

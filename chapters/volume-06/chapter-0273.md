@@ -20,7 +20,7 @@ The bell hangs in the middle of it on a headstock of iron and it is about two fe
 
 A clerk of nineteen years entered the three things a bell has to have before this district will call a sounding safe, in the same hand as the rest and not as a paragraph, and entered that all three of them are absent in this district this morning, and that the first of them is that a bell that is rung records everybody who hears it for one night, and that the second of them is that a bell rung when there is nothing to answer it cannot be rung again for a month, and that the third of them is that a community has to provide a shelter and a way to take the record off, and that a bell is not a figure and a bell is not a sixth of the five protected things in this district and a person standing in a doorway is not a sixth of the five either.
 
-Then the man of about thirty-four who digs loam said the two walls out loud so that about nine people standing under a frame of oak could hear them, and a clerk of nineteen years entered that they are set out here in full and that either of them has to reproduce exactly if it is read out again in a room.
+Then the man of about thirty-one who digs loam said the two walls out loud so that about nine people standing under a frame of oak could hear them, and a clerk of nineteen years entered that they are set out here in full and that either of them has to reproduce exactly if it is read out again in a room.
 
 The first is on the gable end of a barn about a mile back toward the loams, and it is in whitewash, and the top of the last rung has gone and there is nothing above the first line of it.
 

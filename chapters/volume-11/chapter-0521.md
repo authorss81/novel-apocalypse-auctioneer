@@ -1,6 +1,6 @@
 # Chapter 521: He Put The Post Up And Not The Paper
 
-The man of about thirty-seven who puts tables up said, out loud, in front of about nineteen people at the near end of that first table in the yard of Lot Seventeen on the morning of the seventeenth of the second month, that he has seen that shape on a post at the first channel, and that he put that post up himself in the last month of last volume, and that he put nothing on it, and about nine people have said since that this is the first sighting of that shape anywhere that is not one table or another table.
+The man of about thirty-two who puts tables up said, out loud, in front of about nineteen people at the near end of that first table in the yard of Lot Seventeen on the morning of the seventeenth of the second month, that he has seen that shape on a post at the first channel, and that he put that post up himself in the last month of last volume, and that he put nothing on it, and about nine people have said since that this is the first sighting of that shape anywhere that is not one table or another table.
 
 It was the seventeenth morning of the second month and the ground under that yard had been wet since about four in the morning and had not dried at the south end by about eleven, and the boards of that second table were dry because they are off the ground on four legs he built himself, and by ten there were about nineteen people in that yard.
 
@@ -30,7 +30,7 @@ Then the man of about forty-eight who keeps a tally, who has stood at the east e
 
 About nine people at the east end of that yard have said since that a man who has said one whole sentence out loud in that yard in six volumes has now said two, and that the second one was four seconds long and was not addressed to anybody, and that nobody in that yard is going to ask him a third question about it. A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that he was not asked for it and entered that she did not ask.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got fifty-eight and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got fifty-eight and read the number back to himself in a low voice.
 
 "**A post at the first channel and a post at the second channel and a woman who has taken in washing at the second channel for about nine years, and this district has one figure for how many days a man has said four things out loud and has not got one for how many posts there are.**"
 

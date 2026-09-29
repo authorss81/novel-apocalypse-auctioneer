@@ -4,7 +4,7 @@
 
 The first withdrawal notice in this district was filled in on the thirtieth of October at about eleven in the morning by a man of twenty-six who has been in a bed of brine for a year and a half. **It took him about nine minutes and he did it himself, because a form is a thing people use and not a thing people read, and he had been told that by a man of about thirty-eight who deals in second-hand paper.**
 
-**It was filled in at a table in a room with two benches that face each other, with a clerk of nineteen years, a man of about thirty-four who digs loam and does nine days of it in ten, and the man of fifty-six who is a secretary of a cooperative of nine households, and about nine people who were not asked to leave and did not.**
+**It was filled in at a table in a room with two benches that face each other, with a clerk of nineteen years, a man of about thirty-one who digs loam and does nine days of it in ten, and the man of fifty-six who is a secretary of a cooperative of nine households, and about nine people who were not asked to leave and did not.**
 ---
 
 The form itself was settled on the twenty-eighth and it is a single sheet. **It is in the minute in the hand of a man of about thirty-eight who deals in second-hand paper, who wrote it out twice and would not sign it, and a clerk of nineteen years entered that a man who writes a form and will not sign it is a man who has been in this district eleven weeks.**
@@ -21,7 +21,7 @@ The form itself was settled on the twenty-eighth and it is a single sheet. **It 
 
 The line at the top is the whole of the argument and it took about four hours on the twenty-eighth and about nine minutes on the thirtieth **and a man of thirty-four who mends fencing said that four hours is one day and a half in this district and that nobody has ever been charged for the difference.**
 
-A man of fifty-six said that the line could be left blank and a man of about thirty-four who digs loam said no in thirty words, and the thirty words went in, and the reason came after in thirty.
+A man of fifty-six said that the line could be left blank and a man of about thirty-one who digs loam said no in thirty words, and the thirty words went in, and the reason came after in thirty.
 
 "**A blank at the top of a form is not a space. It is a place for the next person to write, and the next person is always a stranger.**"
 
@@ -48,7 +48,7 @@ The trouble began four minutes after the man of twenty-six had written his name,
 
 Nobody answered for nine seconds and a clerk of nineteen years entered that nine seconds is the fourth-longest silence in the party's minute in eleven weeks and that the three longer ones are all the same man not finishing a sentence, and that this one is not a man not finishing a sentence and that she entered the two in one line and did not join them.
 
-A man of fifty-six said that he was withdrawing from the season and a man of about thirty-four who digs loam said that he was withdrawing from the frame. A woman of about thirty-three who takes in washing at the second channel said that a frame is a thing a person stands in and a season is a length of time, and that the notice has one line at the top of it and the line says a length of time, and that the two are not the same and the notice has only room for one of them.
+A man of fifty-six said that he was withdrawing from the season and a man of about thirty-one who digs loam said that he was withdrawing from the frame. A woman of about thirty-three who takes in washing at the second channel said that a frame is a thing a person stands in and a season is a length of time, and that the notice has one line at the top of it and the line says a length of time, and that the two are not the same and the notice has only room for one of them.
 
 A man of thirty-four who mends fencing then asked him **properly, in the six things, whether the notice as it stood was what he wanted, and he said yes, and the six things were done in the six things and were a proper asking and not a formality, and a clerk of nineteen years entered that the asking was proper and that she had checked.**
 
@@ -141,7 +141,7 @@ A man of fifty-six said the arithmetic of the whole thing out loud in a room in 
 
 Nobody argued and a man of thirty-four who mends fencing entered that a withdrawal notice is not one of the five things this district does not have and is not one of the six it has built and not named, and is not one of the three documents nobody owns, and that he had wanted to put it in one of the two lists and had not, and that a thing that belongs to neither list is not promoted into either one by being said out loud in a room.
 
-And a man of about thirty-four who digs loam said the other half and he is the fourth of the six and he is the one who will have to fill the page, and the clerk of nineteen years entered that the man who will have to fill it said the thing and that she had wanted to put the two in one line and had not.
+And a man of about thirty-one who digs loam said the other half and he is the fourth of the six and he is the one who will have to fill the page, and the clerk of nineteen years entered that the man who will have to fill it said the thing and that she had wanted to put the two in one line and had not.
 
 "**You cannot put a refusal in a column headed what a thing did. A ledger is what happened. A right is what somebody did not let happen, and there is no column on this page for what somebody did not let happen, and I am the one who has to rule it or not rule it.**"
 

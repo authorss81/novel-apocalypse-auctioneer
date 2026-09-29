@@ -66,7 +66,7 @@ He read the two lines in that lot book out loud from the top, in the ordinary vo
 
 A man stood at the end of that table this afternoon and said out loud that he is not the second reader of anything, and has not been told he is, and has not been asked. A fact, a rule and a finding are three things, and putting a figure about a man with a cart next to a figure about a rule is not arithmetic. Nothing was printed on any sheet in this district today.
 
-Then the man of about thirty-seven who puts tables up for anybody who will use them said one thing out loud at the east wall about the second chair, and about four of them heard it and nobody counted it, and the tent was still rolled on the back of his hand-cart.
+Then the man of about thirty-two who puts tables up for anybody who will use them said one thing out loud at the east wall about the second chair, and about four of them heard it and nobody counted it, and the tent was still rolled on the back of his hand-cart.
 
 "**I put that chair at the end of that table on the eighth of this month without being asked and nobody has asked me about it since, and a man of fifty-six sat in it on the eighteenth and got up out of it and I have not asked him about that either, and a chair is a chair and a forearm is a forearm and I have got neither of mine and I have not been given anything.**"
 
@@ -82,7 +82,7 @@ The road keeper came up that lane at about four, read the four figures as he wen
 
 At about four the man with the cart went down that lane and did not come up it again that day. About four people said good evening to him as he went past the end of that table, and he said good evening back, and about four of them said good evening to each other instead. Nobody there said one word to him about the column for the name of whoever read a thing out loud, which was ruled and was empty at about six, and no name went into it by anybody.
 
-The rest of that day went ordinary. The man of about thirty-four who digs loam was in that ditch before nine, came up out of it at about ten, and went in again after lunch, and his right hand did not go above the level of that shoulder at any point in this day. The reed cutter was in that ditch until about half past four and came up the bank wet to the chest, and nobody offered him an arm and he did not ask for one.
+The rest of that day went ordinary. The man of about thirty-one who digs loam was in that ditch before nine, came up out of it at about ten, and went in again after lunch, and his right hand did not go above the level of that shoulder at any point in this day. The reed cutter was in that ditch until about half past four and came up the bank wet to the chest, and nobody offered him an arm and he did not ask for one.
 
 The fifth of the five things this district does not have, which is a way to pay a person who is not in a household, is still not paid and the count is still five, and no sixth is proposed. Two days' work have gone into things in this district since the sixth of this month and neither of them has been paid for. A day's work is not a toll.
 

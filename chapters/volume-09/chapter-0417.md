@@ -4,7 +4,7 @@ Thirty was said out loud in that yard at about ten past nine in the morning, bef
 
 It was the fifteenth of the eleventh month and three people had been standing at the end of that trestle table since about eight. By ten there were about nineteen people in the yard of Lot Seventeen.
 
-"A month," the man of about thirty-seven who puts tables up said, to those three and not to the yard. "That figure has been out of date a month today. None of us said it out loud yesterday, and I have been in this yard since about half past eight waiting for somebody else to say it."
+"A month," the man of about thirty-two who puts tables up said, to those three and not to the yard. "That figure has been out of date a month today. None of us said it out loud yesterday, and I have been in this yard since about half past eight waiting for somebody else to say it."
 
 The man of fifty-six read the four figures out loud with his hand flat on the boards and got all of them and said the word with them and got the word four times.
 
@@ -36,11 +36,11 @@ At about eleven the man the figure of twenty-one years is against came down to t
 
 "**That figure is a month old this morning and I put it there, and it came out of a man's mouth on the thirteenth of the tenth month and I wrote it on the page the same afternoon because there was a line to fill and I filled it, and the man it came out of is standing in that ditch nine feet from where I am standing and has not been asked about it and is not going to be.**"
 
-Nobody read it back from the top. Two people looked at the man of about thirty-four who digs loam, who was in that ditch to his thigh at that moment, and two of them looked at the water instead. A man who has said a thing out loud in a yard and has not had it read back has not refused anything and cannot be counted either way.
+Nobody read it back from the top. Two people looked at the man of about thirty-one who digs loam, who was in that ditch to his thigh at that moment, and two of them looked at the water instead. A man who has said a thing out loud in a yard and has not had it read back has not refused anything and cannot be counted either way.
 
 "You put it there," the loam man said, without moving, and he said it to the water and not to the man in the coat. "I said a number in a yard and a man wrote it down. I did not give him a number to write down. I have been thinking about that for a month and I have not got a better way of saying it than that one."
 
-"Then say the number," the man of about nineteen said, from eleven feet off, and the man of about thirty-four who digs loam said that the number was in a book nine feet from where the boy was standing and that the boy could read it. The boy said he could read the two lines and not the day, and two people standing there said that out loud. The man the figure of twenty-one years is against said, "That is the first sentence anybody has said in this yard for a month that I have not had to argue with," and the loam man said, "Then argue with it tomorrow, because I am going back in."
+"Then say the number," the man of about nineteen said, from eleven feet off, and the man of about thirty-one who digs loam said that the number was in a book nine feet from where the boy was standing and that the boy could read it. The boy said he could read the two lines and not the day, and two people standing there said that out loud. The man the figure of twenty-one years is against said, "That is the first sentence anybody has said in this yard for a month that I have not had to argue with," and the loam man said, "Then argue with it tomorrow, because I am going back in."
 
 "I have not got one either," the man in the coat said.
 
@@ -72,7 +72,7 @@ The man of about nineteen was the only person there who saw it. He was about ele
 
 The man of about thirty-four who mends fencing watched it from the other end of that table, said nothing about it, and went back to the fence.
 
-At about a quarter past one the man of about thirty-seven who puts tables up came up the bank with his hand-cart and stopped at that end of the table. He said that he was going to say the third thing, and about nine people stopped what they were doing.
+At about a quarter past one the man of about thirty-two who puts tables up came up the bank with his hand-cart and stopped at that end of the table. He said that he was going to say the third thing, and about nine people stopped what they were doing.
 
 "Do not," said the man of about thirty-four who mends fencing, from about nine feet away, without raising his voice. "I am asking you as a man and not as a rule. Do not say it."
 

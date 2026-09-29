@@ -8,13 +8,13 @@ The eighth of the tenth month came in with the first of the light on the roof of
 
 A clerk of nineteen years entered that the sheet at that gatepost is four hundred and eleven and did not move, and that this is the last day of the run of figures this district began at the end of the month before last, and that whether anybody is going to read them out loud in that yard tomorrow is not a thing she has been asked and is not a thing she has offered, and the record about the not asking says not asked.
 
-The morning went the way this yard goes. The man of about thirty-four who digs loam was in the bottom of that ditch with a bar in his right hand held down at his side before nine and worked his way along it. Further along that same ditch the man who cuts reeds was working with his hook and his bundle, and neither of those two men said one word to the other all morning. The man who keeps a road went out of that yard at about ten and did not stop in it, and nobody in that yard asked him anything and the record about the not asking says not asked.
+The morning went the way this yard goes. The man of about thirty-one who digs loam was in the bottom of that ditch with a bar in his right hand held down at his side before nine and worked his way along it. Further along that same ditch the man who cuts reeds was working with his hook and his bundle, and neither of those two men said one word to the other all morning. The man who keeps a road went out of that yard at about ten and did not stop in it, and nobody in that yard asked him anything and the record about the not asking says not asked.
 
 The man of about forty-eight who keeps a tally was not in that yard today. Nobody in that yard said where he was, and nobody in that yard said anything about the six households, and the figure for those has not moved for a hundred and seventy days and came out of a ladder and not out of his mouth and he was not asked for it.
 
 ---
 
-At about half past eleven the man of about thirty-seven who puts tables up for anybody who will use them came down that lane with a chair.
+At about half past eleven the man of about thirty-two who puts tables up for anybody who will use them came down that lane with a chair.
 
 He could not carry it. He has had no use in either of his hands since before this district began keeping figures and nobody in that yard has ever asked him about it and nobody in that yard asked him about it today, and so he came down about forty yards of that lane with the chair going along the ground beside him, walking it on with the side of his right boot every few steps, and it went along in the mud and against the stones of that lane and twice it stopped and he got it going again with his hip.
 
@@ -24,7 +24,7 @@ The chair had been tied to the front of that hand-cart for as long as anybody in
 
 He set it down at the end of that trestle table at the corner the other chair is not at, and pushed it square with his boot, and stood there for about a minute, and said nothing at all, and went back up the lane to his hand-cart.
 
-A clerk of nineteen years entered that a chair is a chair, and that a second chair put down at the end of a trestle table in that yard this morning is not a sixth of the five things this district protects and is not a seventh of the six instruments this district has built and not named and carries no job, and that a man of about thirty-seven who puts tables up for anybody who will use them is not a keeper of tables and is not a holder of anything, and that nobody in that yard asked him to put it down.
+A clerk of nineteen years entered that a chair is a chair, and that a second chair put down at the end of a trestle table in that yard this morning is not a sixth of the five things this district protects and is not a seventh of the six instruments this district has built and not named and carries no job, and that a man of about thirty-two who puts tables up for anybody who will use them is not a keeper of tables and is not a holder of anything, and that nobody in that yard asked him to put it down.
 
 Nobody sat in it today. It stood at the end of that trestle table from about half past eleven until the light went with about nine people in that yard knowing where it came from, and about four people said that a person can read a book standing up and does not need a chair for it, and about four other people said that a chair is a chair, and neither of those is a finding.
 
@@ -36,7 +36,7 @@ The man the figure of twenty-one years is against looked at that chair for about
 
 The man who mends fencing read the four figures out loud at about one and looked at that chair once while he was saying the second one and went back to the boards without stopping.
 
-At about half past four the man of about thirty-seven who puts tables up for anybody who will use them came back down that lane to his hand-cart and stopped at the end of that trestle table on his way past, and said one thing out loud to nobody in particular, and the man of about nineteen counted what he said and got seventy-seven.
+At about half past four the man of about thirty-two who puts tables up for anybody who will use them came back down that lane to his hand-cart and stopped at the end of that trestle table on his way past, and said one thing out loud to nobody in particular, and the man of about nineteen counted what he said and got seventy-seven.
 
 "**I did not put that chair there for anybody. I put it there because it was on my cart and I have been carrying it since before this yard had anything in it worth sitting down for, and I am not asking anybody to use it and I am not going to ask anybody to use it, and if somebody sits in it one day that is a thing they did and not a thing I got.**"
 
@@ -48,7 +48,7 @@ The man of about nineteen wrote one line on his own page about that chair at abo
 
 The rest of that day went the way the last day of a run goes.
 
-The man of about thirty-four who digs loam was in the bottom of that ditch before nine and came up the bank at about ten and went out of that yard, and was in it again from about two until about half past four.
+The man of about thirty-one who digs loam was in the bottom of that ditch before nine and came up the bank at about ten and went out of that yard, and was in it again from about two until about half past four.
 
 The man who keeps a road came up that lane at about three with his boots black to the ankle, read the four figures off the boards as he went past, got all four, and went on up the lane, and nobody in that yard asked him about the eleven miles and nobody in that yard said one word to him about the chair, and what the book says about it is not asked.
 

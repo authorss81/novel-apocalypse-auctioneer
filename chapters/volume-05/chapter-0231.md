@@ -30,7 +30,7 @@ A clerk of nineteen years asked for the sheet to be read at about half past ten,
 
 The clerk wrote down that a sheet of four lines printed by a body four hundred miles away and sent to a yard is a document somebody owns, and named the three this district does not own, the printed sheet at the fourth place, the notice about a party of nine who went thirty-four miles east, and a line in a public book with four names on it and a figure under the four names, and entered that the three did not move at about half past ten in the morning on the third of the fifth month and that a sheet from a body is not a fourth of them.
 
-The man of about thirty-four who digs loam stood about nine feet back from the table with his right arm across his body the way he had stood for a fortnight, and he said what the thing was, and a man of about nineteen counted it and got eighty-four, and it went in the minute in his own words.
+The man of about thirty-one who digs loam stood about nine feet back from the table with his right arm across his body the way he had stood for a fortnight, and he said what the thing was, and a man of about nineteen counted it and got eighty-four, and it went in the minute in his own words.
 
 "**A toll is a thing a named person pays under a term. That is what a toll is and that is the only thing a toll has ever been in this basin. This sheet has got four parties on it and not one person on it, and a party is not a person, and a toll that cannot be fastened to a person cannot be collected and cannot be refused either, and the record on all four of these is that nobody was asked.**"
 
@@ -56,7 +56,7 @@ She gave the honest answer and it was counted and got seventy-two, and it went i
 
 The clerk entered that a refusal with a reason is not one of the refusals with no reason a clerk of a house has given, that the eight did not move, and that a woman holding eleven houses of a round of about ninety and no figure on them at all is a person and not a party of anything, **and that the fifth of the five things this district does not have is a way to pay a person who is not in a household and did not move at about eleven in the morning on the third of the fifth month.**
 
-Nobody said thank you. The man of about thirty-four who digs loam said the half of it that nobody had said, and it was not counted because he had not asked for it to be.
+Nobody said thank you. The man of about thirty-one who digs loam said the half of it that nobody had said, and it was not counted because he had not asked for it to be.
 
 He said the shoulder was going the other way. For a fortnight it had got no better and no worse and had been the same thing every morning, and since the second of this month he had been getting it up off the ground without the two goes the second had needed, and he did not know whether that was good news or whether it was a thing that gets worse later, and a man who announces a thing about his own body before anybody can ask him about it is doing the one thing this yard is worth more than the yard itself.
 
@@ -68,6 +68,6 @@ A clerk of nineteen years entered that a refusal with a reason is not one of the
 
 The man of about forty-eight who keeps a tally for six households was in that yard for about six minutes in the middle of the morning and had not been sent for and was not asked a first thing, and the clerk entered that he was there and that the three households that have not been asked again are three and that nobody in that yard is going to ask him about them today.
 
-The day came down hard about half past four. The man of about thirty-four who digs loam went out of the gate and up the bank with his right arm in the sling the woman of fifty-eight had lent him and had not been asked about, and the sheet with the four places on it was still on the trestle table, and the ninth place on the slate underneath it was still ruled and empty, and nobody had put a line on a board on any of the thirty-three days since the first of the fourth month.
+The day came down hard about half past four. The man of about thirty-one who digs loam went out of the gate and up the bank with his right arm in the sling the woman of fifty-eight had lent him and had not been asked about, and the sheet with the four places on it was still on the trestle table, and the ninth place on the slate underneath it was still ruled and empty, and nobody had put a line on a board on any of the thirty-three days since the first of the fourth month.
 
 **AND ON THE THIRD OF THE FIFTH MONTH A SHEET ARRIVED ON A TRESTLE TABLE THAT NOBODY HAD PUT IT ON, IT CARRIED A TOLL ON FOUR PLACES AND NOT ONE PERSON, A TOLL IS A THING A NAMED PERSON PAYS UNDER A TERM, AND THIS DISTRICT SPENT THE MORNING FINDING OUT THAT IT HAD BEEN SENT FOUR TOLLS TO FOUR PLACES THAT DID NOT SIGN FOR THEM.**

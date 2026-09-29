@@ -2,7 +2,7 @@
 
 ---
 
-The rotation is four people and the first sheet names them in a hand a clerk of nineteen years wrote out on the twelfth of December from a page a man of about thirty-four who digs loam and does nine days of it in ten had filled in, **and none of the four is Adrian, and the second line of the sheet says NOT A BEARER four times, and a man of fifty-six entered that the man the figure of twenty-one years is against was not asked to be one of the four and was not asked and that the not-asking is entered and the count is where it was.**
+The rotation is four people and the first sheet names them in a hand a clerk of nineteen years wrote out on the twelfth of December from a page a man of about thirty-one who digs loam and does nine days of it in ten had filled in, **and none of the four is Adrian, and the second line of the sheet says NOT A BEARER four times, and a man of fifty-six entered that the man the figure of twenty-one years is against was not asked to be one of the four and was not asked and that the not-asking is entered and the count is where it was.**
 
 A man of about thirty-four who mends fencing said on the twelfth of December that a rotation of four people with a term is the one thing this district has got right and that it was got right in the middle of the year by five other people, and that the four-bearer charter of the railway ran to the twenty-ninth of July and one of those weeks ran out with nobody in it, and that the two rotations are separate instruments and are not merged and are not to be merged.
 
@@ -40,7 +40,7 @@ Nobody took that up and a man of fifty-six said that the finding of the whole of
 
 The third is a man of about twenty-seven who came west in the first week of December and has never stood in a frame and was asked whether he would and said he would, and then said the second half, and a clerk of nineteen years entered that he said yes and then said the half of it that made it true and that this is the third time in eleven weeks a person has done that and that he is not the second one and the first and the second are in October and November and are not joined to this one.
 
-The fourth is the man of about thirty-four who digs loam and does nine days of it in ten, and he filled in his own name, and a man of fifty-six asked him why and he gave the reason in twenty-five words, **and a clerk of nineteen years counted them twice and got twenty-five both times and did not say so and entered that he had not been asked to be on the rotation and had not offered and had written his name down and that the not-asking is entered and the count is where it was.**
+The fourth is the man of about thirty-one who digs loam and does nine days of it in ten, and he filled in his own name, and a man of fifty-six asked him why and he gave the reason in twenty-five words, **and a clerk of nineteen years counted them twice and got twenty-five both times and did not say so and entered that he had not been asked to be on the rotation and had not offered and had written his name down and that the not-asking is entered and the count is where it was.**
 
 "**I fill the page. If I stand in the channel I cannot fill the page and the page is the part somebody can ask about.**"
 
@@ -62,7 +62,7 @@ A man of about thirty-eight said that the word beautiful is the first thing anyb
 
 ---
 
-The second of the four sheets in the charter is the ledger as it stands, six columns and a page ruled to thirty-one rows with eleven filled and twenty ruled and empty, **and a man of about thirty-four who digs loam said on the thirteenth of December that he is putting a page with twenty empty rows in it into a charter and that this is correct and that he is not going to rule the twenty rows out of it.**
+The second of the four sheets in the charter is the ledger as it stands, six columns and a page ruled to thirty-one rows with eleven filled and twenty ruled and empty, **and a man of about thirty-one who digs loam said on the thirteenth of December that he is putting a page with twenty empty rows in it into a charter and that this is correct and that he is not going to rule the twenty rows out of it.**
 
 A man of fifty-six asked him what happens to the twenty rows and he said a thing that is in the minute in his own words and it is thirty-nine words, and a clerk of nineteen years counted them twice and got thirty-one both times and did not say so and a man of about nineteen who walked in from the road counted them and got thirty-one and said it out loud and then said it again.
 
@@ -120,7 +120,7 @@ The room let it stand and a man of about thirty-four who mends fencing said that
 
 The train on the siding had stood three hundred and six days on the fourteenth of December and a man of seventeen wrote the figure in an index in a hand that is not a clerk's hand, and the sum was put under the figure in a minute for the ninth time in four weeks and every figure is built from the eleventh of February and none is carried forward.
 
-A man of about thirty-four who digs loam said again that a man who does a sum in front of strangers is not checking a number and is teaching it, **and that this district has been teaching numbers in lanes for eleven weeks and calling it counting, and that he is going to stop saying it in December and start again in January and that he has told nobody why and was not asked.**
+A man of about thirty-one who digs loam said again that a man who does a sum in front of strangers is not checking a number and is teaching it, **and that this district has been teaching numbers in lanes for eleven weeks and calling it counting, and that he is going to stop saying it in December and start again in January and that he has told nobody why and was not asked.**
 
 Nobody asked him. A clerk of nineteen years entered that he had said he was going to start again in January and had not been asked why and that the not-asking is entered and the count is where it was, and that the count of conditions with no end on it is four and the count of protected things is five and he is in neither and neither moved.
 

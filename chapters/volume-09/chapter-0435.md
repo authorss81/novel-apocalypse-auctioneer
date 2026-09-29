@@ -38,11 +38,11 @@ Nobody said anything for about as long as it takes the man of fifty-six to read 
 
 "**A wrong count is not struck by writing a correct one beside it, and what she has just written is not a correct one and does not strike anything, and the rule this district is working on was written against a second figure and not against a second kind of thing.**"
 
-Then the man of about thirty-seven who puts tables up said one thing from the east wall, in about four seconds, and it was not a question.
+Then the man of about thirty-two who puts tables up said one thing from the east wall, in about four seconds, and it was not a question.
 
 "It is a date. A date is not a figure of a lot and it is not a figure of a person and it is not a toll and it is not a holder and it is not a remedy and it is not a term. She has put a day under a number and the number is still wrong and she has not touched the number." He turned round and looked at the book. "I have been in this yard for two months waiting for somebody to do something to that book and what she has done is the only thing anybody could have done to it without breaking six things."
 
-The man of about thirty-four who digs loam was in that ditch to his thigh at that moment. He did not come up out of the bank, and a few people at that table looked down into the water and then looked at each other, and one of them said out loud that a man who has said a number in a yard and had it written down was not going to want to be looked at this morning.
+The man of about thirty-one who digs loam was in that ditch to his thigh at that moment. He did not come up out of the bank, and a few people at that table looked down into the water and then looked at each other, and one of them said out loud that a man who has said a number in a yard and had it written down was not going to want to be looked at this morning.
 
 Nobody looked at him on purpose. The clerk of nineteen years entered that a man who said a figure in the open on the thirteenth of the tenth was standing there this morning, and entered that the figure on the second line of that book is the one he said, and entered no name against it, and the record about the not asking says not asked.
 
@@ -70,7 +70,7 @@ At about one the man the figure of twenty-one years is against came down that ba
 
 Nobody wrote that down. The clerk of nineteen years entered that a man said a thing out loud there and entered the thing and entered no figure, and the record about the not asking says not asked. She entered separately that a man asked a question in that yard and that it was not answered by the person it was asked of, and that a clerk does not enter which of the two people at that table stopped it.
 
-At about half past one the man of about thirty-four who digs loam came up out of that bank with the water to his thigh and got the four figures at that end of the table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day. He stood at the near end of that table for about a minute and looked at the ground between the boards and the low wall, and did not look at the book, and nobody told him to and nobody asked him why he did not.
+At about half past one the man of about thirty-one who digs loam came up out of that bank with the water to his thigh and got the four figures at that end of the table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day. He stood at the near end of that table for about a minute and looked at the ground between the boards and the low wall, and did not look at the book, and nobody told him to and nobody asked him why he did not.
 
 Then a woman of about thirty-six who keeps a scale came down that bank at about twenty past one and stopped, and read the three lines standing up, and said one thing out loud to the stone rather than to anybody.
 

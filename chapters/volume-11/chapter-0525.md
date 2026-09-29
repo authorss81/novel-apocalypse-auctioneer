@@ -24,7 +24,7 @@ The man of about thirty-four who mends fencing said one thing out loud at about 
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that she entered it, and entered that a man said in advance that she would have to, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got sixty-six and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got sixty-six and read the number back to himself in a low voice.
 
 "**About four of you are going to ask me this morning whether I meant it, and I am telling you now that I meant it and that it changes nothing about the third line being my day, and that a man who has not asked me anything since the fifteenth morning of last month is not going to start this morning because I said a sentence.**"
 

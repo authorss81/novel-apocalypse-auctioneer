@@ -92,7 +92,7 @@ A man of fifty-six asked the man of about thirty-one who mends a dray at a forge
 
 A woman of about thirty-three who takes in washing at the second channel said that a shelter is a roof and a floor and a stove and a list, **and that the list is the part that matters, and that a man of about fifty-five keeps the one at the sluice end of a lane off the lower terrace and has kept it nine years, and that nobody has asked him what a bearer column is and that he would not know.**
 
-The man of about thirty-four who digs loam and does nine days of it in ten was not in the yard and was not asked about any of it. A clerk of nineteen years entered that he was not asked and that the not-asking is entered and the count is where it was, **and that the count of not-askings about one man who digs loam is not a column and has no number on it, because a number on it would have been a column and a column is a thing a person is paid for.**
+The man of about thirty-one who digs loam and does nine days of it in ten was not in the yard and was not asked about any of it. A clerk of nineteen years entered that he was not asked and that the not-asking is entered and the count is where it was, **and that the count of not-askings about one man who digs loam is not a column and has no number on it, because a number on it would have been a column and a column is a thing a person is paid for.**
 
 The man the figure of twenty-one years is against was in the yard for about forty minutes and read the four printed things twice and said nothing, and a clerk of nineteen years entered that he said nothing and that she was not asked to write that down and did, and that a man who says nothing in a yard is a fact and not a finding.
 

@@ -34,7 +34,7 @@ A few people at that table said afterwards that a foot and a half was in a book 
 
 ---
 
-The man of about thirty-four who digs loam was in that ditch until about half past three and came up out of the bank and got the four figures at the near end of the boards and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day.
+The man of about thirty-one who digs loam was in that ditch until about half past three and came up out of the bank and got the four figures at the near end of the boards and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day.
 
 He stood at the end of that table and looked at the lot book and said one thing out loud, in about four seconds, and the boy of about nineteen counted what he had said and got fifty-one and read the number back to himself in a low voice, and the boy of about nineteen was not sure for about a second whether the number was right and read it again to himself and it was.
 
@@ -58,7 +58,7 @@ A clerk of nineteen years entered the rest of that day in one entry at about hal
 
 The bid is open a hundred and one days and was not run on this day and nothing was proposed about closing it in a mouth or in a page, and a hundred and one is the same figure it was this morning and the clerk is entering it once. Fifty-six days is how far behind the figure on the second line of that lot book is, and it has not been altered, and nothing correct has been written beside it, and a figure was given out loud this afternoon and entered and it is not on that book. Sixty-one days is how long the rule said out loud in that yard has stood since the tenth of the tenth month. The first day of the eighth month is a hundred and thirty-one days past. The ninth of the nine printed nights is two hundred and thirty-four days back. A body four hundred miles off is seventy days past a printing it did not make, and nobody watched anything. The reading of that lot is begun and not finished and stands at the fourth of the five things a document that sets a lot out has to say, and the fourth is a person, and nobody in that yard is a fourth of anything. Ten marks have been cut off that board since the mark for the first of this month, and ten marks is a figure about a count of marks and is not a figure about a month, and there is no figure in this district for how long this month is. The column for the name of whoever read a thing out loud was ruled and empty at about six and nothing went into it. The fifth of the five things this district does not have is still not paid, and the fifth is a way to pay a person who is not in a household.
 
-The man of about thirty-seven who puts tables up said one thing out loud at about five, and the boy of about nineteen counted what he said and got fifty-nine and read the number back to himself in a low voice.
+The man of about thirty-two who puts tables up said one thing out loud at about five, and the boy of about nineteen counted what he said and got fifty-nine and read the number back to himself in a low voice.
 
 "**Four figures off that wall twice in one day is a day and not two days, and the second time round this morning was the same four and not four more, and there is not one figure on any page in this yard that can say which of the two halves of that day a stranger is looking at.**"
 

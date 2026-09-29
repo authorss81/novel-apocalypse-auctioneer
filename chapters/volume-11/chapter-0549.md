@@ -10,7 +10,7 @@ The man of fifty-six said the four off that wall in the ordinary voice and got a
 
 ---
 
-The man of about thirty-seven who puts tables up put the stone back on the corner of that lot book at about half past eight, with both hands, without being asked, and said one thing out loud while he was doing it, in about nine seconds, and the boy counted what he said and got fifty-four and read the number back to himself in a low voice.
+The man of about thirty-two who puts tables up put the stone back on the corner of that lot book at about half past eight, with both hands, without being asked, and said one thing out loud while he was doing it, in about nine seconds, and the boy counted what he said and got fifty-four and read the number back to himself in a low voice.
 
 "**That book had its stone off it all day yesterday and it is a book anybody can walk up to and read, and it has had four lines on it since about ten yesterday morning. I am not going to be thanked and I am not going to be asked what it is for.**"
 

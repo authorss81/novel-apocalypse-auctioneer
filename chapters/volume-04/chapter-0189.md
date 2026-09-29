@@ -10,11 +10,11 @@ A man of about thirty-four who mends fencing asked the man the figure of twenty-
 
 He went down the lane off the lower terrace and along the road to the tide on foot, and the lane is not metalled for about sixty yards and the road for the first mile and a half of it is not metalled either, **and there was no clerk on that road and nothing was entered on the way and both of them said so, and the man who can be found went alone and a clerk of nineteen years entered that he went alone and that nobody sent for him.**
 
-The first mile and a half of that road is clay under about two inches of gravel and it had been raining since about four in the morning, and a man of about thirty-four who digs loam said that a man who walks that road once in a season is doing a thing and a man who walks it nine times is a road, and that the man the figure of twenty-one years is against has now walked it once and it has made him no roads at all.
+The first mile and a half of that road is clay under about two inches of gravel and it had been raining since about four in the morning, and a man of about thirty-one who digs loam said that a man who walks that road once in a season is doing a thing and a man who walks it nine times is a road, and that the man the figure of twenty-one years is against has now walked it once and it has made him no roads at all.
 
 A clerk of nineteen years entered in the yard at about six in the evening that he came back and that nothing came back with him, **and that a visit which produces no document is not a visit which produced nothing, and that a page in a man's own hand is worth less than a minute and is a different kind of thing and this was not even that.**
 
-That went no further. A man of about thirty-four who digs loam said that a man who goes four miles to a door and comes back with nothing has done a thing and has not made a record, **and that a record a man brings back is worth more than a thing he did, and that the district has spent four months believing the second of those and the first of those is what a man does on a wet road.**
+That went no further. A man of about thirty-one who digs loam said that a man who goes four miles to a door and comes back with nothing has done a thing and has not made a record, **and that a record a man brings back is worth more than a thing he did, and that the district has spent four months believing the second of those and the first of those is what a man does on a wet road.**
 
 A man of about thirty-eight who deals in second-hand paper on a lane off the lower terrace said that a man who comes back with nothing has been the only person in that room who did not come back with a sentence off a counter, **and that four people in this yard have now said something about carrying a page and not one of them has said anything about carrying a question to a door, and that the man who came back up the hill this morning is the only one of the four who has been to the far end of anything.**
 
@@ -22,17 +22,17 @@ A man of about thirty-eight who deals in second-hand paper on a lane off the low
 
 ---
 
-The Road House has a door and a shutter and a bar across the inside of it, and the bar was not on because it was about four in the afternoon, and a man of about thirty-four who digs loam said later that a bar that is not on in the afternoon is a thing a person has decided about every morning and the district has no instrument for that.
+The Road House has a door and a shutter and a bar across the inside of it, and the bar was not on because it was about four in the afternoon, and a man of about thirty-one who digs loam said later that a bar that is not on in the afternoon is a thing a person has decided about every morning and the district has no instrument for that.
 
 She was behind the bar with it off and the boy of nine was on a stool by the stove with a piece of paper in his hand, and a clerk of nineteen years entered that he was not asked a second thing and that his name is not in the minute and that the minute says a boy of nine.
 
 The boy got off the stool and went into the back room and came in again with a piece of folded paper and put it on the table, and nobody asked him where he had got it and nobody asked him anything else, **and a clerk of nineteen years entered that he was asked nothing further and that the not-asking is entered and the count is where it was, and that a child who puts a piece of paper on a table and is not asked where it came from is a child and not a document.**
 
-A man of about thirty-four who digs loam asked the woman of about forty-four whether the boy knew what was on it, and she said that she did not know and that he had not told her, and a clerk of nineteen years entered that a mother who does not know what her child has is not a mother who has refused to know, **and that a house in this district's business is kept by people who do not know what is in it nine days in ten and that the two of those are not a finding about either of them.**
+A man of about thirty-one who digs loam asked the woman of about forty-four whether the boy knew what was on it, and she said that she did not know and that he had not told her, and a clerk of nineteen years entered that a mother who does not know what her child has is not a mother who has refused to know, **and that a house in this district's business is kept by people who do not know what is in it nine days in ten and that the two of those are not a finding about either of them.**
 
 It was not picked up. A man of fifty-six said that a man who came four miles to tell a woman what to do afterwards did not ask her what her son had, and that the not-asking is in the same line and is not joined to the other not-asking, **and that a clerk of nineteen years has four separate columns of not-askings in this district and has entered two of them on one day and is not adding any of them to another and is not going to.**
 
-A man of about thirty-four who digs loam said that a piece of paper in a child's hand and a page in a man's hand are two things and that the one in the child's hand came out of a back room and not out of a counter on the second of the third month, and a clerk of nineteen years entered that both of those are facts and are not joined.
+A man of about thirty-one who digs loam said that a piece of paper in a child's hand and a page in a man's hand are two things and that the one in the child's hand came out of a back room and not out of a counter on the second of the third month, and a clerk of nineteen years entered that both of those are facts and are not joined.
 
 Then he told her, and he told her three things and he did not write any of them down, and a clerk of nineteen years entered that he did not write them down on his own account and was not asked about it.
 
@@ -86,7 +86,7 @@ She asked it at about half past four in the afternoon and she asked it once and 
 
 "**What does the water cost if we say no.**"
 
-The man the figure of twenty-one years is against said that he did not know, and a man of about thirty-four who digs loam said afterwards that those are four words and that a man who has come four miles to say four words has had a day, and a clerk of nineteen years entered that he said it on the fourth of the third month and that she is not going to put a number on the count of the second half said before being asked.
+The man the figure of twenty-one years is against said that he did not know, and a man of about thirty-one who digs loam said afterwards that those are four words and that a man who has come four miles to say four words has had a day, and a clerk of nineteen years entered that he said it on the fourth of the third month and that she is not going to put a number on the count of the second half said before being asked.
 
 A man of fifty-six said in the yard that the figure exists and is being held by a route keeper who keeps a road and is not a bearer of it, and who said in forty-two words on the second of the third month that he had never said he would say it after, **and that nobody in this district is going to ask him to and that the yard decided on the nineteenth of the second month not to do anything about it and has not gone back on that.**
 

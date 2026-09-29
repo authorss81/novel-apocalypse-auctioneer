@@ -2,7 +2,7 @@
 
 ---
 
-The third form of the notice was written on the twenty-eighth of November in about four hours by a man of about thirty-four who digs loam and does nine days of it in ten, and it is the last of the three and none of the three is on a guild form, **and he would not let anybody help him and a clerk of nineteen years entered that he is the fourth of the six who hold the ledger and that he is not a clerk of anything and was not asked to be one.**
+The third form of the notice was written on the twenty-eighth of November in about four hours by a man of about thirty-one who digs loam and does nine days of it in ten, and it is the last of the three and none of the three is on a guild form, **and he would not let anybody help him and a clerk of nineteen years entered that he is the fourth of the six who hold the ledger and that he is not a clerk of anything and was not asked to be one.**
 
 The second form said a person, a frame and a date on one line in the middle of the sheet. **The third form says the same three things in the same place, and it has four lines under them that the second form did not have, and none of the four lines is a figure.**
 
@@ -36,7 +36,7 @@ A man of fifty-six asked her whether it can be read out loud in a house, and she
 
 A man of fifty-six read the first line of the third form aloud at about half past ten on the twenty-eighth of November and then read the first line of the first form, which is in a book, and put the two side by side, **and the two first lines begin with the same nine words and the season in them is the first of October to the thirty-first of March and that season has not started.**
 
-Nobody took that up. A man of about thirty-four who digs loam said that the first form failed because it named a season and the third form has the same words at the top of it, and that he wrote the third form and did not write the first, and that a man who has been wrong twice about a form does not get to be right a third time by writing it himself.
+Nobody took that up. A man of about thirty-one who digs loam said that the first form failed because it named a season and the third form has the same words at the top of it, and that he wrote the third form and did not write the first, and that a man who has been wrong twice about a form does not get to be right a third time by writing it himself.
 
 A man of fifty-six asked him what he was going to do about it and he gave the reason in thirty-one words, **and a clerk of nineteen years counted them twice and got thirty-one both times and a man of about nineteen who walked in from the road counted them and got thirty-one and said it out loud and then said it again.**
 
@@ -52,7 +52,7 @@ A woman of fifty-eight who carries water and does not read figures read the thir
 
 "**Who is it handed to, and what does the house think it is.**"
 
-A man of fifty-six did not answer it and a man of about thirty-four who digs loam said that the form is handed to the person and that a house finds out what a form is in about nine days the way every house in this district has found out, and that nobody has ever written down how long that takes, and that he wrote the line about the frame being oak on the back of the second form in his own hand and would not let it be printed, and that the woman carrying water is right and that the printing is the mistake.
+A man of fifty-six did not answer it and a man of about thirty-one who digs loam said that the form is handed to the person and that a house finds out what a form is in about nine days the way every house in this district has found out, and that nobody has ever written down how long that takes, and that he wrote the line about the frame being oak on the back of the second form in his own hand and would not let it be printed, and that the woman carrying water is right and that the printing is the mistake.
 
 The room let it stand and a clerk of nineteen years entered that a woman of fifty-eight who carries water was asked one question and it was answered and she was not asked about the ninety houses and was not asked about the third house up from the sluice, **and that the not-asking is entered and the count is where it was, and that no family in this district is named in any book at all, and that the reason she gave is a thing a person who carries water knows and is not a thing anybody in the room knows.**
 
@@ -118,7 +118,7 @@ A man of fifty-six did the arithmetic on the twenty-eighth of November at about 
 
 A woman of thirty-eight who has been in the second channel four years said on the thirtieth of October that the same interval was twenty-two weeks, and she was not asked on the twenty-eighth of November, **and a clerk of nineteen years entered that the twenty-two weeks is in a minute of the thirtieth of October and the hundred and twenty-three days is in a lane on the twenty-eighth of November and that the two are in two places and are not joined and that the third place is a house and the house has not been asked.**
 
-A man of about thirty-four who digs loam said that a hundred and twenty-three days is the time it takes a person to be told by somebody she has not met, **and that a man who is a stranger to a house can turn up in about nine days and cannot turn up in a hundred and twenty-three, and that the district has spent eleven weeks finding out that it is slow.**
+A man of about thirty-one who digs loam said that a hundred and twenty-three days is the time it takes a person to be told by somebody she has not met, **and that a man who is a stranger to a house can turn up in about nine days and cannot turn up in a hundred and twenty-three, and that the district has spent eleven weeks finding out that it is slow.**
 
 The man of fifty-six said that the interval is the finding of the form and not of the arithmetic, and that a form which is good for a hundred and twenty-three days is a form about a season and not about a week, and that the first form was about a season that never started and the second form was about a frame and the third form is about a hundred and twenty-three days and says what that costs is not known.
 
@@ -128,7 +128,7 @@ And on the twenty-eighth of November **THE INTERVAL FROM THE TWENTY-EIGHTH OF NO
 
 A man of about thirty-eight who deals in second-hand paper on a lane off the lower terrace was asked on the twenty-eighth of November to sign the third form and said no in four seconds, and a man of fifty-six did not ask him why, **and a clerk of nineteen years entered that he had said no on the twenty-fourth of November to a different sheet and no on the twenty-eighth to this one, and that the two are two sheets and one man and that the count of them is not the count of not-askings.**
 
-A man of about thirty-four who digs loam said that the man who will not sign a form is the only man in this district who has found out what a form is for, and that a signature on a notice means the person who wrote it agrees that the person signing it was in the room, **and that a person who was not in the room can still be handed the paper, and that the paper does not stop travelling when nobody signs it.**
+A man of about thirty-one who digs loam said that the man who will not sign a form is the only man in this district who has found out what a form is for, and that a signature on a notice means the person who wrote it agrees that the person signing it was in the room, **and that a person who was not in the room can still be handed the paper, and that the paper does not stop travelling when nobody signs it.**
 
 The room let it stand and a man of fifty-six said that a form with no signature on it is a form that has been made by one person and can be made by anybody, and that this is the thirtieth of October again in a third shape, and that the first time it was a form about a season and the second time it was a form about a frame and the third time it is a form nobody will put their name to, and that the three are not joined and that he is not going to join them in a lane.
 

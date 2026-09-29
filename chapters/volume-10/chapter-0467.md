@@ -64,7 +64,7 @@ A clerk of nineteen years entered that a man said a thing out loud in that yard 
 
 At about half past one the woman of about thirty-six who keeps a scale asked the clerk of nineteen years, out loud, in front of about nine people, whether a clerk who counts a month she could have got off the month before it has found anything, and the clerk said that she had found that the two of them are the same figure, and that the finding is about the way this district carries a number and not about the month, and that a figure about a method is a figure this district has never entered before, and entered that a woman said a thing out loud and entered the thing and entered the answer and the record about the not asking says not asked.
 
-At about two the man of about thirty-seven who puts tables up came off that east wall and asked her one question, which is whether the word in her margin is still there, and she said that it was.
+At about two the man of about thirty-two who puts tables up came off that east wall and asked her one question, which is whether the word in her margin is still there, and she said that it was.
 
 "Sixty-eight days."
 

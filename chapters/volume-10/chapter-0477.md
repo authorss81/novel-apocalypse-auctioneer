@@ -1,6 +1,6 @@
 # Chapter 477: Nine Thumbs And A Number
 
-Nineteen days after nine people put a thumb in the hollow in the underside of that stone one after another in front of about nineteen people, a man of about thirty-four who digs loam came up out of that bank at about ten past ten, wet to the knee, and put his thumb in it, and he was not one of the nine, and he said nothing whatever about how deep it is, and by four in the afternoon nine people had put a thumb in it one after another and a clerk of nineteen years entered the number and entered no figure about the hollow at all.
+Nineteen days after nine people put a thumb in the hollow in the underside of that stone one after another in front of about nineteen people, a man of about thirty-one who digs loam came up out of that bank at about ten past ten, wet to the knee, and put his thumb in it, and he was not one of the nine, and he said nothing whatever about how deep it is, and by four in the afternoon nine people had put a thumb in it one after another and a clerk of nineteen years entered the number and entered no figure about the hollow at all.
 
 It was the eighth morning after the count in the yard of Lot Seventeen and the light came up hard off the south end of that ground, and a second table that a man put up with his own hands in the first week of this month had gone from cold to warm on its boards in about half an hour, and the stone was lying face up on them where it has lain since the sixteenth of this month, and the hand of a man who mends fencing had not put a thumb in it since the nineteenth of this month.
 
@@ -8,7 +8,7 @@ At about a quarter to eight a clerk of nineteen years entered that the figure on
 
 "**The board carries three hundred and seventy-nine, the train on that siding has stood six hundred and ninety-five days, nobody has entered anything for four hundred and nine, and three hundred and seventy days separate the second of January and this morning.**"
 
-By ten there were about nineteen people in that yard and about four of them were standing at the near end of that first table and about nine of them were within nine feet of the second one, and the man of about thirty-four who digs loam was not one of the nineteen, because he was at the bottom of that ditch with the water to his knee, and nobody standing in that yard knew where he was at any point in the morning.
+By ten there were about nineteen people in that yard and about four of them were standing at the near end of that first table and about nine of them were within nine feet of the second one, and the man of about thirty-one who digs loam was not one of the nineteen, because he was at the bottom of that ditch with the water to his knee, and nobody standing in that yard knew where he was at any point in the morning.
 
 He came up the bank on the east side at about ten past ten and did not go to the first table and did not look at that wall, and he crossed the ground in four steps and put his right thumb into the hollow in the underside of that stone without taking the stone off the boards and without turning it, and he had to lift it about two inches to get his thumb under it, and he held it that way for about four seconds with his thumb in and about nine people watching him do it.
 

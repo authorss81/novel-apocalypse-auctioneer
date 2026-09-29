@@ -10,7 +10,7 @@ He read them the way he reads everything, which is as one run of words with a st
 
 Nobody argued with it. A man of fifty-six said that a man who does the counting for a living does not get to do all of it, and a man of about thirty-four who mends fencing said that he was not a man who does the counting for a living and had been told so, **and that a man of fifty-six who objects to another man doing his counting in a yard and then does two of the counts himself has said a thing out loud and is not going to be thanked for it and has not been thanked.**
 
-Nobody took that up. A man of about thirty-four who digs loam said that the two of them have now read figures out loud in this yard more times in one month than anybody in this district has done anything, **and that the count of the second half said before being asked has not been looked at since the twenty-ninth of December and that a count of readings is a count of readings and is not one of the counts in the list and is not going to be.**
+Nobody took that up. A man of about thirty-one who digs loam said that the two of them have now read figures out loud in this yard more times in one month than anybody in this district has done anything, **and that the count of the second half said before being asked has not been looked at since the twenty-ninth of December and that a count of readings is a count of readings and is not one of the counts in the list and is not going to be.**
 
 Then the man of fifty-six read the last two himself at about ten minutes past ten, and a clerk of nineteen years entered that he read them and that she did not ask him to and that the two of them are the only two figures in the whole of it that change, **and that a count of unentered days since the twenty-fourth of November is one hundred and six today and the board outside the room has carried the twenty-fourth of December for seventy-six days and that nobody wrote on it.**
 
@@ -22,13 +22,13 @@ Nobody in that yard said anything about the seventy-six. A man of about thirty-f
 
 On the tenth of the third month, at about eleven in the morning, the man of about fifty-five who keeps the flood shelter at the sluice end of a lane off the lower terrace was at the top of the bank, and nothing had been put on the trestle table for him, and a clerk of nineteen years entered that he came on his own account and that the not-asking is entered and the count is where it was.
 
-He said that the mend in the crack is on the ninth day, and that the tank is at about a day and a half, and that a man of about thirty-four who digs loam has said three days and has not said the other figure because he was not asked for it.
+He said that the mend in the crack is on the ninth day, and that the tank is at about a day and a half, and that a man of about thirty-one who digs loam has said three days and has not said the other figure because he was not asked for it.
 
 A clerk of nineteen years entered that nobody has checked the figure of a day and a half and nobody was asked to check it, and that it was the man of about fifty-five who gave it, **and that a tank at about a day and a half is a figure and not a term and has nobody standing under it, and that a tank at about a day and a half is not a condition with no end on it and is not one of the four and the count of four did not move on the tenth of the third month.**
 
 It was not contradicted. A man of about thirty-four who mends fencing asked whether anybody was going to be told about that in this district, and a man of fifty-six said that a man who keeps a building is not its bearer and is not going to be entered as one, **and that a tank in a building nobody owns is a tank nobody is responsible for, and that the shelter has not denied anybody entry at any time in nine years and is not going to and that is not the same sentence as the one about responsibility.**
 
-That went no further. A man of about thirty-four who digs loam said that the fourth holding of the nine has now not taken a drop for a month, since the first of the second month, and that the house has not written to anybody about it and is not obliged to, **and that a month of a house not writing is a month of a figure not moving and the two are one silence and not two.**
+That went no further. A man of about thirty-one who digs loam said that the fourth holding of the nine has now not taken a drop for a month, since the first of the second month, and that the house has not written to anybody about it and is not obliged to, **and that a month of a house not writing is a month of a figure not moving and the two are one silence and not two.**
 
 The woman of fifty-eight who carries water and does not read figures was at the top of the hill with a yoke when he came up the bank and she was not asked for anything, and she said that the loam under the plate is about a foot deep in the wet and that it was about a foot deep in the ninth year, and that her shoulder has been the same shoulder for nine years and is not the same shoulder this month.
 
@@ -48,7 +48,7 @@ A clerk of nineteen years entered that the rule was not reached for on the tenth
 
 The page, and the man of about fifty-five did the sum in his own head on the step at the back of his building and would not do it out loud, and a clerk of nineteen years entered that he was not asked for it and that she is not going to ask him again.
 
-A man of about thirty-four who digs loam worked it out afterwards from the days the man of fifty-five had said out loud in this yard and got to the end of it, and a clerk of nineteen years entered that the working out was done by a man who was not a clerk and was not asked to be one and is not going to be, **and that a page with about forty spaces and thirty-four days in it has about six of the first left in it and that a third is not a rate and two thirds is not a rate either.**
+A man of about thirty-one who digs loam worked it out afterwards from the days the man of fifty-five had said out loud in this yard and got to the end of it, and a clerk of nineteen years entered that the working out was done by a man who was not a clerk and was not asked to be one and is not going to be, **and that a page with about forty spaces and thirty-four days in it has about six of the first left in it and that a third is not a rate and two thirds is not a rate either.**
 
 Nobody argued with that. A man of fifty-six said that a page which is going to be full in about six days is a page with an end in it that a man brought about by doing the right thing, **and that an end to a page is the only ending in this district's business that a person can reach by doing the right thing, and that he said that on the fifteenth of the second month and has said it again and is not going to say it a third time.**
 
@@ -98,7 +98,7 @@ Nothing was said to it. The man who digs loam said that the boy is in a column i
 
 ---
 
-The last of the tenth of the third month was the gate, and a man of about thirty-four who digs loam read out at about half past four in the afternoon what the district had that it had not had on the twentieth of the second month, and it is in the minute in his own words and a man of about nineteen counted it and got thirty-seven.
+The last of the tenth of the third month was the gate, and a man of about thirty-one who digs loam read out at about half past four in the afternoon what the district had that it had not had on the twentieth of the second month, and it is in the minute in his own words and a man of about nineteen counted it and got thirty-seven.
 
 "**A man who came on his own and was not asked. A copy in a coat. A man who has said out loud that he is one man in a room. A stub in a woman's hand.**"
 

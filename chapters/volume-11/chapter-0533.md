@@ -18,7 +18,7 @@ The boy went at the board first, before the light was properly on it, and he put
 
 A clerk of nineteen years entered that a boy counted a row of marks in that yard in the open and entered the figure, and entered that a boy got a different figure the first time he counted it and entered no figure for that one because he did not ask her to enter it, and entered that a count of marks is not a count of a month, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and then went and stood at that board and put the flat of his hand on the wood about a foot from the end of the row, and said one thing out loud, in about eleven seconds, and the boy counted it and got eighty-three and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and then went and stood at that board and put the flat of his hand on the wood about a foot from the end of the row, and said one thing out loud, in about eleven seconds, and the boy counted it and got eighty-three and read the number back to himself in a low voice.
 
 "**There is more than one of them and I am not going to count them for you. A count that a man gives you is a count you did not do. I cut those. I cut the ones I cut, and I have never asked anybody for anything back, and a clerk can put a finger on that wood and find them herself in about four seconds, and she does not need me to stand here and show her which ones they are.**"
 

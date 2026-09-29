@@ -12,7 +12,7 @@ Then he did the thing he does, which is to put two documents into the same parag
 
 "**The sheet on that table wants one toll paid by four places, and the notice under the leg of that table wants a record asked against four places, and two of the four have not answered, and this yard has held the fourth of the four since the third of this month and a house nine miles up has held it since the same morning. I have said twice in this yard that those two fours are not the same four, and I am saying it a third time this morning with both documents in the same breath, and if a clerk writes down that they are one four then a clerk has written down the only false sentence in this district's books this month.**"
 
-The man of about thirty-four who digs loam refused the join in the ordinary voice, standing at the end of the trestle table with the sling still on, and the count came to ninety-seven, and it is in the minute in his own words.
+The man of about thirty-one who digs loam refused the join in the ordinary voice, standing at the end of the trestle table with the sling still on, and the count came to ninety-seven, and it is in the minute in his own words.
 
 "**A toll and a rival record are two instruments with two purposes, and a notice that asks four places a question is not a sheet that takes four tolls, and a body that has put up a notice about a room is not a body that has asked a house for money, and if you cannot keep those two apart in one paragraph then this yard has started believing what it is given, and I have been the man who refuses that for nine days in front of about nineteen people and I am not stopping today.**"
 
@@ -54,9 +54,9 @@ Nobody said thank you to her for coming, and she did not wait to be thanked, and
 
 They came back into the yard at about half past three and the notice was still under the leg of the trestle table and the chair was still at the end of it and the ground under the leg was still soft, and the man of about thirty-four who mends fencing read the notice out one more time for about nine people who had not heard it and got nothing wrong for the fifth time, and a clerk of nineteen years entered that the notice has now been read out in that yard five times in seven days and that five is not five consents and is not a column, and that a notice read out five times in a yard a stranger can walk into is a notice this district has made its own without anybody deciding to.
 
-The man of about thirty-four who digs loam said that a man who does not thank a person for walking four miles in order to stand next to a piece of iron has understood something about the piece of iron, and that the iron does not care and neither does the man.
+The man of about thirty-one who digs loam said that a man who does not thank a person for walking four miles in order to stand next to a piece of iron has understood something about the piece of iron, and that the iron does not care and neither does the man.
 
-The man of about thirty-four who digs loam said the half of that which is about the pin, and it was counted, and it came to eighty-eight, and it went in the minute in his own words.
+The man of about thirty-one who digs loam said the half of that which is about the pin, and it was counted, and it came to eighty-eight, and it went in the minute in his own words.
 
 "**A rule this yard wrote this month about being wrong is a rule about being thanked, and one of the nine who wrote a rule four hundred years ago wrote the same sentence under it and underlined it twice, and I have known that since the twenty-ninth of last month and I have not said it out loud in this yard until this morning because I was the one who put the seventh instrument up and I did not want to be the one who took it back.**"
 

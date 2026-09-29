@@ -34,7 +34,7 @@ The woman of about thirty-three who takes in washing at the second channel came 
 
 A clerk of nineteen years entered that a woman said a thing out loud in that yard and entered the thing, and entered that a woman asked a question in that yard on a morning of last month and got four words, and the record about the not asking says not asked.
 
-A man of about thirty-four who digs loam came up that bank at about a quarter to ten with a barrow and went down it again without stopping at either table and without looking at anything, and about four people in that yard have said since that a man can cross a yard and not be a part of a morning, and that about four of them have said it as a complaint.
+A man of about thirty-one who digs loam came up that bank at about a quarter to ten with a barrow and went down it again without stopping at either table and without looking at anything, and about four people in that yard have said since that a man can cross a yard and not be a part of a morning, and that about four of them have said it as a complaint.
 
 The man of about thirty-four who mends fencing was at the end of that second table at about ten with his right hand flat on the boards, and said one thing out loud, in about nine seconds, to about nineteen people, and the boy counted what he said and got fifty-one and read the number back to himself in a low voice.
 

@@ -34,7 +34,7 @@ The boy of about nineteen then wrote something in the right half of the sheet of
 
 About nine people near that first table have said since that what the boy wrote was four words and that two of them were a month and a day and that the other two were not anything at all, and that about four of them have said that he copied a date out of a shop into his own book this morning and that nobody has asked him why and that he is not going to be asked.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got sixty and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got sixty and read the number back to himself in a low voice.
 
 "**A man asked a woman in that yard this morning whether she would take a page off her own counter, and about four of you have already worked out that there is nothing in that yard that can make her do it, and the only thing that can is somebody being asked in a shop, and nobody has done that.**"
 

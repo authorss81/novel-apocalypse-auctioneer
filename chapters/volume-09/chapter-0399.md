@@ -72,7 +72,7 @@ At about four the man of about twenty-nine who drives a cart went up that lane a
 
 At about half past three the reed cutter was in the standing water at the low end of a ditch about three feet deep behind a building with two doors. About four people said out loud that a man who has been in standing water since the middle of the ninth month is the only man in this district who knows what is in that ditch every morning, and about four of them said that nobody has ever asked him.
 
-"Nobody is going to ask him either," the man of about thirty-four who digs loam said. "A man who works in a thing every day and has never been asked what is in it is a man who has said something already by standing in it."
+"Nobody is going to ask him either," the man of about thirty-one who digs loam said. "A man who works in a thing every day and has never been asked what is in it is a man who has said something already by standing in it."
 
 "That is not an answer."
 
@@ -82,7 +82,7 @@ A man who works in standing water in a ditch was in that ditch this afternoon an
 
 ---
 
-The rest of that day went ordinary. The man of about thirty-four who digs loam was in that ditch before nine, was on the bank about ten, and went back in after lunch, and his right hand did not go above the level of that shoulder at any point. The road keeper came up that lane at about four, got the four figures off that wall without stopping, and went on up without stopping at that wall either. The reed cutter came up that bank at about half past four, wet to the chest, and said good evening to nobody in particular.
+The rest of that day went ordinary. The man of about thirty-one who digs loam was in that ditch before nine, was on the bank about ten, and went back in after lunch, and his right hand did not go above the level of that shoulder at any point. The road keeper came up that lane at about four, got the four figures off that wall without stopping, and went on up without stopping at that wall either. The reed cutter came up that bank at about half past four, wet to the chest, and said good evening to nobody in particular.
 
 That bid has stood open fifty-seven days and was not run today. The first of the eighth month went past eighty-seven days ago. The figure on the second line of that lot book is twelve days out of date and was not altered. The ninth of the nine printed nights is a hundred and ninety days back and is open, and it was named out loud in the yard once this afternoon and closed in nothing. The column for the name of whoever read a thing out loud was ruled and was empty at about six, and no name went into it by anybody.
 

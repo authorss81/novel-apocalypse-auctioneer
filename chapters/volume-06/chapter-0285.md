@@ -20,7 +20,7 @@ A man of fifty-six said one thing back, and it was counted and came to two hundr
 
 A clerk of nineteen years entered that a man of fifty-six is not a clerk and has said so about himself about a dozen times in four months, and that a man who has said out loud that a yard is not a market has not refused the yard and cannot be counted either way, and that no public market is built out of one reader and a sheet at a gate in ten days is not a market.
 
-Then the man of about thirty-seven who puts tables up for anybody who will use them proposed the join, and it was refused on the page.
+Then the man of about thirty-two who puts tables up for anybody who will use them proposed the join, and it was refused on the page.
 
 He wanted the five lines of his own sheet and the four lines of the printed sheet put on one page, in this yard, in front of about nineteen people, and read out together, so that anybody standing in that gate could see the two of them at once and work out for himself what the offer was and what the rule about it was.
 

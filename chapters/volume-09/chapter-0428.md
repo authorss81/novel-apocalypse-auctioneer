@@ -1,6 +1,6 @@
 # Chapter 428: About Four Seconds
 
-The figure on the second line of that book was forty-one days out of date at about a quarter to nine in the morning. The man of about thirty-seven who puts tables up said so out loud to nobody at about ten, and a boy of about nineteen asked a question about it at about eleven and got an answer in about four seconds that he did not like and has not yet worked out.
+The figure on the second line of that book was forty-one days out of date at about a quarter to nine in the morning. The man of about thirty-two who puts tables up said so out loud to nobody at about ten, and a boy of about nineteen asked a question about it at about eleven and got an answer in about four seconds that he did not like and has not yet worked out.
 
 It was the twenty-sixth of the eleventh month and there was no wind at all in the place for the first time in about a week. By ten there were about nineteen people in the yard of Lot Seventeen.
 
@@ -34,7 +34,7 @@ He did not say what was going to be said and he was not asked. A clerk of ninete
 
 ---
 
-At about half past eleven the man of about thirty-four who digs loam was in that ditch to his thigh and said one thing up the bank without raising his voice, which is the third time in about a week that he has not raised it.
+At about half past eleven the man of about thirty-one who digs loam was in that ditch to his thigh and said one thing up the bank without raising his voice, which is the third time in about a week that he has not raised it.
 
 "You are all getting ready for it. I have been in this ditch for two months getting ready for nothing and I can tell the difference from where I am standing." He did not stop work. "If it is a figure then you are all going to be standing about four feet from me in about a day, and I would like one of you to have worked out in advance what you are going to do with your hands."
 

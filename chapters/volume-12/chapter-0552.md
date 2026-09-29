@@ -16,7 +16,7 @@ A clerk of nineteen years entered the number of sheets on the end of that second
 
 A clerk of nineteen years entered that a clerk said a thing out loud in that yard and entered the thing, and entered that the number of sheets on the end of that second table is one for the second morning running, and the record about the not asking says not asked.
 
-The man of about thirty-seven who puts tables up was at the near end of that first table with his hands in his pockets, and said one thing out loud, in about nine seconds, and the boy counted what he said and got sixty-four and read the number back to himself in a low voice.
+The man of about thirty-two who puts tables up was at the near end of that first table with his hands in his pockets, and said one thing out loud, in about nine seconds, and the boy counted what he said and got sixty-four and read the number back to himself in a low voice.
 
 "**I have been building tables in this valley for about thirty years and I do not keep a book of people and I am not going to start one to tell you who comes down that lane, and if I did I would have to write down the ones who come down it twice and I have never once seen the same one twice.**"
 

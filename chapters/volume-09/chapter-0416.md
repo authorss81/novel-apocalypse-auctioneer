@@ -24,7 +24,7 @@ The arithmetic went round that yard the ordinary way, in the ordinary voices, an
 
 The yard did not say the answer out loud. Two people looked at him and two of them looked away, and nobody there filled the gap. The gap went on for about nine seconds.
 
-"There is a reason and none of us is going to get it," said the man of about thirty-seven who puts tables up. "It is the same reason as on the fifth of this month, and the clerk wrote it down as a no about an explanation and not as a no about a figure, and that entry is the only thing in this district that has kept that reason where it is."
+"There is a reason and none of us is going to get it," said the man of about thirty-two who puts tables up. "It is the same reason as on the fifth of this month, and the clerk wrote it down as a no about an explanation and not as a no about a figure, and that entry is the only thing in this district that has kept that reason where it is."
 
 The clerk of nineteen years entered that the reason for the interval was asked for out loud in that yard a second time and was not given. She entered that the record about the not asking says not asked. She did not enter what the reason was, because she had not been told it.
 
@@ -52,7 +52,7 @@ The same clerk entered that a man of fifty-six said that he minded the chalk and
 
 ---
 
-At about one the man of about thirty-four who digs loam came up that bank with the water to his thigh and got the four figures at the end of that table and went back down into the water, and that right arm of his stayed below the level of that shoulder, and nobody asked him about it.
+At about one the man of about thirty-one who digs loam came up that bank with the water to his thigh and got the four figures at the end of that table and went back down into the water, and that right arm of his stayed below the level of that shoulder, and nobody asked him about it.
 
 At about half past one the boy of about nineteen read the four figures off that wall and got all of them with the word four times. The clerk of nineteen years asked him, out loud and in front of about nine people, whether he would read the twelve as well. He said he would, and he read them going down the margin, and got all twelve, and two people said the ninth one was where his voice went.
 
@@ -86,7 +86,7 @@ The clerk of nineteen years entered that a person said out loud that he was goin
 
 ---
 
-Nothing there was decided for the rest of the afternoon. The man of about thirty-seven who puts tables up for anybody who will use them was against the east wall with his hand-cart. The tent is still rolled on the back of it, where it has been since the thirtieth of the June, and he was given nothing and nobody asked him about it. A man of about sixty-four was at the foot of the low wall from about ten with his coat folded on the stones beside him and nothing in his hands. Nobody offered him anything, and the record about the not offering says nothing was asked and nothing was given. The man of about nineteen did his own page at about five and read all of it back to himself. He did not write tomorrow's day on it, and he did not say why.
+Nothing there was decided for the rest of the afternoon. The man of about thirty-two who puts tables up for anybody who will use them was against the east wall with his hand-cart. The tent is still rolled on the back of it, where it has been since the thirtieth of the June, and he was given nothing and nobody asked him about it. A man of about sixty-four was at the foot of the low wall from about ten with his coat folded on the stones beside him and nothing in his hands. Nobody offered him anything, and the record about the not offering says nothing was asked and nothing was given. The man of about nineteen did his own page at about five and read all of it back to himself. He did not write tomorrow's day on it, and he did not say why.
 
 A clerk of nineteen years entered that the bid has stood open seventy-four days and was not run today, and that nobody there proposed anything about closing it. The first day of the eighth month is a hundred and four days past. The rule said out loud in that yard on the tenth of the tenth month is thirty-four days standing. The figure on the second line of that lot book is twenty-nine days out of date and was not altered. There is a second figure for tomorrow, and it is a figure about a day and not a figure about a lot. Nothing went into the column for the name of whoever read a thing out loud, and it was empty at about six. The word unchecked is in the margin of a clerk's page and is over nothing, and the line under those twelve words is fifteen days old.
 

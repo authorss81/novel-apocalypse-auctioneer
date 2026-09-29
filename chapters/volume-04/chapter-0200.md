@@ -18,13 +18,13 @@ The man the figure of twenty-one years is against said one thing, out in the ope
 
 "**I am not going to be a man who says he did not know what a page is. I have known what a page is since the fifteenth of the second month and I put my hand on one anyway.**"
 
-It was not disputed. A man of about thirty-four who digs loam said that a man who says that in front of nine people on a cold morning has said the second half of it before the asking and that a clerk is not going to put a number on it, **and that the registrar of this district's records office said one thing about the two of them on the thirtieth and did not say a second thing and has not been asked for a second thing and is not going to be.**
+It was not disputed. A man of about thirty-one who digs loam said that a man who says that in front of nine people on a cold morning has said the second half of it before the asking and that a clerk is not going to put a number on it, **and that the registrar of this district's records office said one thing about the two of them on the thirtieth and did not say a second thing and has not been asked for a second thing and is not going to be.**
 
 A man of about thirty-four who mends fencing said the part that was being said around him without being said to him, and he said it to the man who digs loam and not to the yard. He said that two people were in a room on the twenty-eighth and a sheet went up on a wall on the thirtieth and a page of a man's hand went into a drawer in between, and that the whole of it took two days and one sentence, and that a thing which takes two days and one sentence can be undone in two days and one sentence and has not been.
 
 A man of fifty-six entered afterwards that nothing was said to that and that the fence man was not asked where he had heard it and is not going to be, **and that a room with a door on it is still a room with a door on it and is not an instrument and is not a seventh of the six.**
 
-The man of about thirty-four who digs loam said the other half of it, and he said it before anybody asked him for it, and a clerk of nineteen years entered the two halves in the order they came and that she is not going to put a number on that order.
+The man of about thirty-one who digs loam said the other half of it, and he said it before anybody asked him for it, and a clerk of nineteen years entered the two halves in the order they came and that she is not going to put a number on that order.
 
 He said that the registrar is the only person in this district whose instrument is a room, and that the man the figure of twenty-one years is against is the only person in this district who has put his own name at the back of one, and that those two facts came together on the twenty-eighth of this month.
 
@@ -54,7 +54,7 @@ Nothing was said to it for a moment. A man of about thirty-four who mends fencin
 
 A clerk of nineteen years entered that the third line of the second sheet refuses to send for anybody, and that the two counts of not-joining stand at thirteen and at twelve and that neither of them moved on any of the eight days from the twenty-fourth of the third month to the thirty-first of it, **and that a court which cannot fetch a person is not a court that can end anything and that this district has not got the second of those and did not get it on the twenty-ninth and has not entered it as a delay.**
 
-Nobody picked it up. A man of about thirty-four who digs loam said that the fifth line is the only line in five boards and nine copies and eleven hands that anybody in this district is going to be able to use in a year, **and that it is a door and not a remedy and that a house's terms being valid until the people inside them can be heard is a thing a house is owed and not a thing a person is given.**
+Nobody picked it up. A man of about thirty-one who digs loam said that the fifth line is the only line in five boards and nine copies and eleven hands that anybody in this district is going to be able to use in a year, **and that it is a door and not a remedy and that a house's terms being valid until the people inside them can be heard is a thing a house is owed and not a thing a person is given.**
 
 **AND ON THE THIRTY-FIRST OF THE THIRD MONTH THE FIRST PUBLIC COURT FOR DEBTS IN THIS DISTRICT READ ITSELF OUT IN A YARD, AND ITS FIFTH LINE SAYS THAT THE TERMS OF A HOUSE THIRTY-FOUR MILES EAST ARE VALID UNTIL THE PEOPLE INSIDE THEM CAN BE HEARD, AND THE PEOPLE INSIDE THEM HAVE NOT BEEN HEARD.**
 
@@ -64,7 +64,7 @@ The first thing brought to it was the four sheets of the eighteenth of December 
 
 The third one is the withdrawal notice in its third form with twenty-nine words on its face and the season in the top line of it that has not started, and the fourth one carries the figure of twenty-one years in the same line as one name, and the entry runs to this date.
 
-A man of about thirty-four who mends fencing asked the man of about thirty-four who digs loam, in the six things, what the court was going to do with a charter that cannot be certified, and a man of about nineteen counted the answer and got forty-eight.
+A man of about thirty-four who mends fencing asked the man of about thirty-one who digs loam, in the six things, what the court was going to do with a charter that cannot be certified, and a man of about nineteen counted the answer and got forty-eight.
 
 "**The court can hear a figure and write it down and that is all it can do, and the four sheets cannot be argued with because there is nothing in them to argue at, and a thing nobody can argue with is a thing a court cannot touch.**"
 
@@ -74,7 +74,7 @@ The food agreement of six sheets was the second thing brought to it and the two 
 
 The two buildings about four hundred yards apart at the sluice end were both named out loud on the morning of the thirty-first and neither of them sent anybody, and the man of about fifty-five who keeps one of them and the woman of about thirty-eight who keeps the other were in the same yard at different ends of it for about an hour and did not speak, and a clerk of nineteen years entered that neither was asked what the other had said.
 
-The man of about thirty-four who digs loam asked the woman of about thirty-eight, in the six things, in front of about fourteen people, whether the claim that passed on the twenty-fourth was against her place, and she said that she had been told it was a place at the sluice and had not been told it was hers, and that she was not going to be asked a second thing about it in a yard on the morning the court was sitting.
+The man of about thirty-one who digs loam asked the woman of about thirty-eight, in the six things, in front of about fourteen people, whether the claim that passed on the twenty-fourth was against her place, and she said that she had been told it was a place at the sluice and had not been told it was hers, and that she was not going to be asked a second thing about it in a yard on the morning the court was sitting.
 
 A man of fifty-six said that a woman who keeps a building and has one place in it has learned in four years what a sheet of four printed things does, **and that a sheet which will not name a place leaves the person who keeps it holding a claim she cannot see, and that this district is not going to make her a party to a claim in order to find out about it.**
 
@@ -136,7 +136,7 @@ The man the figure of twenty-one years is against said that he is going on the s
 
 The tank at the back of the building four miles down a lane was within a hand's breadth of the lip at about half past four in the afternoon and it is the first time since the first of the second month, and the crack is still in it and is still weeping and the man of about fifty-five has not put a fifth mend in it and is not going to.
 
-Eleven days have gone into the fifth page in that book since the twenty-first of the third month, under a column a finger wide with nothing written above it, and a man of about thirty-four who digs loam said that the ruling is the best in the district and would not call that a finding or a rate, **and that the counting of days in a column in a book in a building was turned down as a seventh instrument in this yard in the month before last, and that the six this district built is the six it built on the second of January, and that this month did not add to it.**
+Eleven days have gone into the fifth page in that book since the twenty-first of the third month, under a column a finger wide with nothing written above it, and a man of about thirty-one who digs loam said that the ruling is the best in the district and would not call that a finding or a rate, **and that the counting of days in a column in a book in a building was turned down as a seventh instrument in this yard in the month before last, and that the six this district built is the six it built on the second of January, and that this month did not add to it.**
 
 The woman of fifty-eight came up the bank at about half past four with a yoke and two buckets and nobody sent for her, and a clerk of nineteen years entered that she was not asked a first thing.
 

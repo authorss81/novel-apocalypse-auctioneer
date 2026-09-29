@@ -82,7 +82,7 @@ He read the two lines in that lot book standing up without touching the book and
 
 "No," the loam man said. "It is not."
 
-Then the man in the coat stood there for another half hour and did not say anything else, and the man of about thirty-four who digs loam came up out of that ditch, read the four figures at the end of that table and got every one of them, and went back down the bank to the ditch, and that right hand of his did not go above the level of that shoulder at any point in the rest of that day.
+Then the man in the coat stood there for another half hour and did not say anything else, and the man of about thirty-one who digs loam came up out of that ditch, read the four figures at the end of that table and got every one of them, and went back down the bank to the ditch, and that right hand of his did not go above the level of that shoulder at any point in the rest of that day.
 
 ---
 

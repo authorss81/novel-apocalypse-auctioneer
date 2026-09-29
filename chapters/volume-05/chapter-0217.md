@@ -2,13 +2,13 @@
 
 ---
 
-The eighteenth of April was a day with nothing on the printed sheet and nothing in the road house's book, and about nineteen people were in the yard of Lot Seventeen at about ten in the morning, and a man of about thirty-four who digs loam had been up the only road in this district that climbs and had come back down it before any of them arrived.
+The eighteenth of April was a day with nothing on the printed sheet and nothing in the road house's book, and about nineteen people were in the yard of Lot Seventeen at about ten in the morning, and a man of about thirty-one who digs loam had been up the only road in this district that climbs and had come back down it before any of them arrived.
 
 A man of about thirty-four who mends fencing gave the figures and a man of fifty-six read the board out after him and got both of them right, and neither of them had been up the road.
 
 "**A hundred and fifteen days on the board and four hundred and thirty-one days on the train, and the days nobody has entered since the twenty-fourth of November stand at a hundred and forty-five, and a man walked up a road at about six in the morning and came down it at about ten and nobody sent for him and nobody has asked him why.**"
 
-A clerk of nineteen years entered that a man of about thirty-four who digs loam went up the only road in this district that climbs on his own account, and that the fourth holding on the delivery sheet at the second reservoir is the top field of a farm four miles out on that road, **and that the fourth holding has not taken a drop since the first of the second month, which is seventy-six days, and that a channel at the head of that field has been dry since the same day, and that a man who digs loam opened a sluice for that holding on the night of the thirteenth of last month, which is thirty-six days ago, and that nobody has asked him to do it again and that he has not done it again.**
+A clerk of nineteen years entered that a man of about thirty-one who digs loam went up the only road in this district that climbs on his own account, and that the fourth holding on the delivery sheet at the second reservoir is the top field of a farm four miles out on that road, **and that the fourth holding has not taken a drop since the first of the second month, which is seventy-six days, and that a channel at the head of that field has been dry since the same day, and that a man who digs loam opened a sluice for that holding on the night of the thirteenth of last month, which is thirty-six days ago, and that nobody has asked him to do it again and that he has not done it again.**
 
 ---
 
@@ -54,7 +54,7 @@ She gave the honest answer and a man of about nineteen counted it and got fifty-
 
 A man of fifty-six said that a woman who keeps a scale has now told this yard three times in fourteen days that her instrument does not measure the thing she is being asked about, **and that the six instruments this district has built and not named are a rehearsal, a platform, a rail, a correction, a question and a security, and that a scale is not a seventh of them, and that a person who is corrected by their own instrument is a person and not a finding and the six did not move at about half past one in the afternoon on the eighteenth of the fourth month.**
 
-A man of about thirty-four who digs loam said that the woman who keeps a scale is the only person in this district who has ever been corrected by her own question and that she said so out loud on the fifth of this month, **and that a man who sells the wrong one on purpose is doing the district a kindness and is not a party to anything, and that the fifth of the five things this district does not have is a way to pay a person who is not in a household and a person who cannot weigh a day is the reason it is on the list.**
+A man of about thirty-one who digs loam said that the woman who keeps a scale is the only person in this district who has ever been corrected by her own question and that she said so out loud on the fifth of this month, **and that a man who sells the wrong one on purpose is doing the district a kindness and is not a party to anything, and that the fifth of the five things this district does not have is a way to pay a person who is not in a household and a person who cannot weigh a day is the reason it is on the list.**
 
 The woman of about thirty-four who keeps a goat at the third house up the lane from the scale was in that yard at about two in the afternoon and was not sent for and was not asked anything, and a clerk of nineteen years entered that she was there and that she is in a pool of tolls with her name not written on anything and has been since the thirtieth of last month, **and that nobody has asked her about the pool and that the not-asking is entered and that it is not one of the four columns and is not a fifth and she did not rule one this afternoon and is not going to.**
 

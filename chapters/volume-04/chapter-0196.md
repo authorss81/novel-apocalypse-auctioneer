@@ -10,7 +10,7 @@ A man of about thirty-four who mends fencing asked who was going to write it, an
 
 A clerk of nineteen years entered that the man of fifty-six said that before he was asked and that she is not going to put a number on it, **and that a man who does the counting for a living and will not read his own arithmetic is a man and not a clerk and is not a rule and is not written down and he would not have it written down.**
 
-It took him about fifty minutes and he wrote it in a hand that anybody can read, and a man of about thirty-four who digs loam said that a board a person can read is a board a person can argue with and that a hand that can be read is the same kind of thing, **and that a hand is not a board and is not an instrument and is not a security and the count of six did not move on the twenty-first of the third month.**
+It took him about fifty minutes and he wrote it in a hand that anybody can read, and a man of about thirty-one who digs loam said that a board a person can read is a board a person can argue with and that a hand that can be read is the same kind of thing, **and that a hand is not a board and is not an instrument and is not a security and the count of six did not move on the twenty-first of the third month.**
 
 > **THE THINGS THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST HAS POSTED SINCE THE SECOND OF DECEMBER. FIVE.**
 >
@@ -24,7 +24,7 @@ It took him about fifty minutes and he wrote it in a hand that anybody can read,
 >
 > **FIVE. A MAN OF ABOUT THIRTY-ONE WHO MENDS A DRAY AT A FORGE END OFF SALT ROW.**
 
-Nobody in that yard said anything for a moment. A man of about thirty-four who digs loam said that the fifth of the five had been left off the page in the ward market's own book for four months because a man is not a line, **and that a man is not a line and this district has said so every day for four months and has now written him on the back of a page in a yard.**
+Nobody in that yard said anything for a moment. A man of about thirty-one who digs loam said that the fifth of the five had been left off the page in the ward market's own book for four months because a man is not a line, **and that a man is not a line and this district has said so every day for four months and has now written him on the back of a page in a yard.**
 
 A clerk of nineteen years entered that the list of the five is written for the first time in this district and that it is on the back of a page and not in the book, **and that a list on the back of a page is a list a stranger cannot walk up to and read, and that the reason the Underwriter's power is not begun is not that the list is unwritten but that the list is on the wrong side of a page.**
 
@@ -40,7 +40,7 @@ A clerk of nineteen years entered that no one in that lane was asked anything by
 
 A man of about thirty-eight who deals in second-hand paper said that he has been in that trade for thirty years and that in thirty years about nine people have come to him with a page and that none of them came with eleven inches of water, **and that a man who trades in what a page is worth cannot tell anybody what a night on a floor is worth, and that there is no instrument for that either and the count of six did not move on the twenty-first of the third month.**
 
-Nobody said the opposite. A man of about thirty-four who digs loam said that the district emptied that butt on the seventeenth and has not put the four of them anywhere, and that the sheet on the wall is still on the wall, **and that a district which can prove a breach and cannot put a family anywhere is a district with a finding and not a remedy, and that is the same sentence this district has been living on since the sixteenth of January.**
+Nobody said the opposite. A man of about thirty-one who digs loam said that the district emptied that butt on the seventeenth and has not put the four of them anywhere, and that the sheet on the wall is still on the wall, **and that a district which can prove a breach and cannot put a family anywhere is a district with a finding and not a remedy, and that is the same sentence this district has been living on since the sixteenth of January.**
 
 The woman of about thirty-eight who keeps the brick building was not in that lane and was not sent for, and a clerk of nineteen years entered that she was not asked what she was going to do about the four of them and is not going to be asked, **and that a person who keeps a building is not its bearer and is not a keeper of it and is not a party to a claim on a place in it and is not going to be entered as one.**
 
@@ -74,9 +74,9 @@ A man of about forty-eight who keeps a tally for six households was at the back 
 
 A man of about thirty-four who mends fencing asked him, in the six things, whether the six households at the sluice end of the loams knew there was a list, and the man of about forty-eight said that they did not and that a man who keeps a tally for six households is not a way of telling six households anything, **and that he has said what he is going to do about three of them and has not said it and that the three are not asked again and have not refused and are not going to be asked again by anybody in this yard.**
 
-A man of about thirty-four who digs loam said that the next cart is in ten days and that a second sheet will come down on it to six households whether anybody in that yard asks for it or not, **and that one has signed and two have refused and three have not been asked again and that those are three states of six pieces of paper and are not a column and are not a rate and are not added to anything.**
+A man of about thirty-one who digs loam said that the next cart is in ten days and that a second sheet will come down on it to six households whether anybody in that yard asks for it or not, **and that one has signed and two have refused and three have not been asked again and that those are three states of six pieces of paper and are not a column and are not a rate and are not added to anything.**
 
-A man of about thirty-four who digs loam said that writing the list has not given this district a power and has taken away a way of not having one, **and that a man who can list what he has posted is a man who can be pooled, and that being poolable is not the same as being safe, and that the difference between those two is the whole of what the next three days are.**
+A man of about thirty-one who digs loam said that writing the list has not given this district a power and has taken away a way of not having one, **and that a man who can list what he has posted is a man who can be pooled, and that being poolable is not the same as being safe, and that the difference between those two is the whole of what the next three days are.**
 
 **AND ON THE TWENTY-FIRST OF THE THIRD MONTH A MAN OF ABOUT THIRTY-ONE READ OUT THE LIST OF THE FIVE IN A YARD INCLUDING HIS OWN LINE, AND SAID THAT A NAME ON A PAGE IS A CLAIM ON THE PERSON AND NOT ON THE HOUSE, AND THE TWO FIGURES OF FIVE YEARS AND NINE YEARS ARE NOT JOINED.**
 
@@ -84,7 +84,7 @@ A man of about thirty-four who digs loam said that writing the list has not give
 
 The afternoon was the part nobody had thought of, and it came out of a man of about thirty-four who mends fencing asking which of the five could actually be looked at, and the room went quiet for about nine seconds.
 
-A man of about thirty-four who digs loam took them one at a time in the ordinary voice and did not put a figure on any of them. The first cannot be certified and a thing that cannot be inspected is not a security. The second is a printed notice on a counter and it is not kept by a person. The third has two witnesses who were not in the room and the sheet says so on its face. The fourth is in a building thirty-four miles east and a stranger may read it and may not carry it out. The fifth is a man and a man cannot be carried either.
+A man of about thirty-one who digs loam took them one at a time in the ordinary voice and did not put a figure on any of them. The first cannot be certified and a thing that cannot be inspected is not a security. The second is a printed notice on a counter and it is not kept by a person. The third has two witnesses who were not in the room and the sheet says so on its face. The fourth is in a building thirty-four miles east and a stranger may read it and may not carry it out. The fifth is a man and a man cannot be carried either.
 
 A man of fifty-six said that the only one of the five a stranger can walk up and read and take away is the third, and that the third's witnesses were not in the room when the reason was read out, **and that a security whose two witnesses were not in the room is a security about a room and not about a person, and that this district has been carrying that on a page since the eighth of December and has not looked at it once.**
 
@@ -116,7 +116,7 @@ Nobody contradicted him. A man of fifty-six said that the man of about thirty-on
 
 The woman of fifty-eight came up the bank into that yard at about half past two in the afternoon on the twenty-second and she was not sent for and a clerk of nineteen years entered that she came and that nobody sent for her and that she was not asked for anything.
 
-A man of about thirty-four who digs loam said the thing about the round that nobody had asked him for and that nobody in that yard was going to ask him about, and a clerk of nineteen years entered that he said the second half before the asking and that she is not going to put a number on it.
+A man of about thirty-one who digs loam said the thing about the round that nobody had asked him for and that nobody in that yard was going to ask him about, and a clerk of nineteen years entered that he said the second half before the asking and that she is not going to put a number on it.
 
 "**If the water comes down a channel on the twenty-fourth and it keeps coming, then nobody will be carrying anything up that hill in April and the whole of the round goes and there is no round.**"
 
@@ -124,7 +124,7 @@ Nobody argued with that. A man of fifty-six said that a woman of fifty-eight has
 
 A clerk of nineteen years entered that the woman of fifty-eight was not asked about the round and that the not-asking is entered and the count is where it was, **and that a woman of fifty-eight whose round ends because a sluice went up is not a protected thing and is not a condition with no end on it and is not one of the five and is not one of the four and is not going into any of the counts.**
 
-The woman of fifty-eight said the other half of it and she said it to the man of about thirty-four who digs loam and not to the yard, and a man of about nineteen counted it and got thirty-three.
+The woman of fifty-eight said the other half of it and she said it to the man of about thirty-one who digs loam and not to the yard, and a man of about nineteen counted it and got thirty-three.
 
 "**Then I will be a woman with nothing to do and I will still be here, and I have been here nine years, and you can write that down or you can not.**"
 

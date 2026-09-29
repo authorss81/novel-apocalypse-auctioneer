@@ -14,11 +14,11 @@ A man of about thirty-four who mends fencing said that a rule a body will not pr
 
 Then the asking turned, and it turned the way it turns in this yard, which is that the person on the end of it answers the second half before anybody has asked for it.
 
-The Registry man said that the lease wanted a bearer named and that a bearer was a person at the end of a toll and that the toll on this one was paid at the ninth place, and a man of about thirty-four who mends fencing said the next question in the six things, and it was who, and a man of about thirty-four who digs loam said the answer out loud before the man with the portfolio could get to it.
+The Registry man said that the lease wanted a bearer named and that a bearer was a person at the end of a toll and that the toll on this one was paid at the ninth place, and a man of about thirty-four who mends fencing said the next question in the six things, and it was who, and a man of about thirty-one who digs loam said the answer out loud before the man with the portfolio could get to it.
 
 "**The man at the back of the book. There is one of him in this district and he is standing in this yard and everybody in this yard knows it and two people thirty-four miles east and four hundred yards from here know it and neither of them was in this yard when it happened.**"
 
-Nothing was said for about nine seconds. A clerk of nineteen years entered that a man of about thirty-four who digs loam said the whole of a thing in a yard that had taken four months and eleven pages to arrive at, **and that she is not going to put a number on it and that a man who is right in a yard is a man and not a rule and is not written down and he would not have it written down.**
+Nothing was said for about nine seconds. A clerk of nineteen years entered that a man of about thirty-one who digs loam said the whole of a thing in a yard that had taken four months and eleven pages to arrive at, **and that she is not going to put a number on it and that a man who is right in a yard is a man and not a rule and is not written down and he would not have it written down.**
 
 ---
 
@@ -32,7 +32,7 @@ He said it, and a man of about nineteen counted it and got sixty-seven, and it w
 
 A man of fifty-six said that is the second time a man has refused a bearing in eleven days and that the first was a route keeper standing on a bank saying nothing, **and that the two refusals are not the same refusal and are not added to anything and that the count of refusals with no reason a clerk of a house has given is six and this is not one of them because no reason is required where a reason is given.**
 
-A man of about thirty-four who digs loam said the other half of it, and he said it to the yard and not to the man who said no, and a clerk of nineteen years entered that she was not asked to write the order down and entered the order.
+A man of about thirty-one who digs loam said the other half of it, and he said it to the yard and not to the man who said no, and a clerk of nineteen years entered that she was not asked to write the order down and entered the order.
 
 "**He has said no and he has said why and the why is the only reason anybody in this yard has given for anything in four months that was not about a figure.**"
 
@@ -78,7 +78,7 @@ Then he was asked a seventh thing, and it was a new one, and a man of about thir
 
 "**Where do the four sheets go when you have put them down.**"
 
-He looked at the man of about thirty-four who digs loam and then at the man with the portfolio and a clerk of nineteen years entered that he looked at both of them and that she entered that and entered that the two men did not look at each other at any point in the afternoon, **and that a man who has been asked a seventh thing and has not answered is not a refusal and the record says not asked and that not asked is the fourth of the four columns in this district and none of them is added to another.**
+He looked at the man of about thirty-one who digs loam and then at the man with the portfolio and a clerk of nineteen years entered that he looked at both of them and that she entered that and entered that the two men did not look at each other at any point in the afternoon, **and that a man who has been asked a seventh thing and has not answered is not a refusal and the record says not asked and that not asked is the fourth of the four columns in this district and none of them is added to another.**
 
 A man of fifty-six said that the seventh refusal is seven and the seventh thing was not answered and the two are not joined, **and that a house thirty-four miles east and a Registry are two bodies and that this district has no way of holding two bodies in one book and did not build one this afternoon and the count of five things it does not have did not move at two in the afternoon on the fourth of the fourth month.**
 
@@ -96,13 +96,13 @@ Nobody was asked whether the rest of it had been said. A man of fifty-six entere
 
 ---
 
-The nine holdings were read out in that yard at about three in the afternoon because a man of about thirty-four who mends fencing asked for them and a man of about thirty-four who digs loam read them in one run of words, and a clerk of nineteen years entered that he read them and that she did not ask him to.
+The nine holdings were read out in that yard at about three in the afternoon because a man of about thirty-four who mends fencing asked for them and a man of about thirty-one who digs loam read them in one run of words, and a clerk of nineteen years entered that he read them and that she did not ask him to.
 
 "**One holds and takes. Two holds and takes. Three holds and takes. Four is the top field of the farm four miles out and it has not taken a drop since the first of the second month. Five holds and takes. Six holds and takes. Seven was given up on the twenty-fourth of the second month and has a bar down. Eight holds. Nine is the one nobody can account for.**"
 
 A man of fifty-six said that nine holdings are four states of four pieces of paper and are not a column, **and that the ninth has been refused five times since the second of January and the twelfth time was this afternoon and the seventh thing a man of about thirty-four who mends fencing asked him was not answered and that the two are not the same and are not added.**
 
-A man of about thirty-four who digs loam said the thing about the ninth that he has said before and said again because it keeps being true, and a clerk of nineteen years entered that he said it and that she is not going to put a number on how many times.
+A man of about thirty-one who digs loam said the thing about the ninth that he has said before and said again because it keeps being true, and a clerk of nineteen years entered that he said it and that she is not going to put a number on how many times.
 
 "**The water in the rota does not stop for that and it is not the house that decides where it goes, and a man at a counter is the only man in this basin who can tell anybody where it goes and he will not, and that has been the position for thirteen weeks and a day and it did not change this afternoon.**"
 
@@ -118,7 +118,7 @@ She said it, and a man of about nineteen counted it and got thirty-nine, and it 
 
 A man of fifty-six said that a woman who keeps a scale has just said out loud that her instrument does not measure the thing she is being asked about, **and that a scale is a thing that weighs a sack and that the fifth of the five things this district does not have is a way of saying where a toll lands on a place, and that a scale is a place and a yoke-load is a place and there are two places and a figure and no way of saying where either of them lands.**
 
-Nobody argued with it. A man of about thirty-four who digs loam said that the offer stands and the woman has not taken it and that both of those are correct and that the offer is going to stand there until one of them moves and it is not a pressure because nobody is going to be asked again this week, **and that a man who offers a job and a woman who does not take it are two people in a lane and a clerk is not going to make it a column.**
+Nobody argued with it. A man of about thirty-one who digs loam said that the offer stands and the woman has not taken it and that both of those are correct and that the offer is going to stand there until one of them moves and it is not a pressure because nobody is going to be asked again this week, **and that a man who offers a job and a woman who does not take it are two people in a lane and a clerk is not going to make it a column.**
 
 The woman of fifty-eight was at the top of the hill and did not come down and nobody sent for her and nobody asked her anything, and a clerk of nineteen years entered that she was not asked and that the not-asking is entered and that the count is where it was.
 
@@ -130,6 +130,6 @@ A man of fifty-six said that a man who has had a thing read out in a yard and fo
 
 A clerk of nineteen years entered that the strip of paper is not in the ward market's own book and is not on a board of eleven and is not in a drawer in a building, **and that it is a fourth piece of paper in this district this month and not a fourth document nobody owns, and that the three are the printed sheet at the fourth place, the notice about a party of nine going thirty-four miles east, and a line in a public book with four names on it and a figure under the four names, and that the three are not the same three as they were in September and are the same three and did not move.**
 
-Nobody said the opposite. A man of about thirty-four who digs loam said that a man who has a claim on himself is a man who can be found and not released, and that this is what he came back with and it is not what he went for, **and that a district which sent nobody with him has one person back and one strip of paper and the two of those are the whole of the result and the two of those are not a column.**
+Nobody said the opposite. A man of about thirty-one who digs loam said that a man who has a claim on himself is a man who can be found and not released, and that this is what he came back with and it is not what he went for, **and that a district which sent nobody with him has one person back and one strip of paper and the two of those are the whole of the result and the two of those are not a column.**
 
 **AND ON THE FOURTH OF THE FOURTH MONTH A MAN OF ABOUT THIRTY-FOUR WHO DIGS LOAM SAID IN A YARD THAT THE BEARER OF A LEASE ANYBODY WANTS IS THE ONLY PERSON IN THIS DISTRICT WHO STANDS AT THE BACK OF A BOOK, AND THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST REFUSED IN SIXTY-SEVEN WORDS AND GAVE A REASON, AND THE REGISTRAR OF THIS DISTRICT'S RECORDS OFFICE REFUSED IN FOUR SECONDS TO HAVE THE NINTH PLACE ENTERED UNDER A TOLL.**

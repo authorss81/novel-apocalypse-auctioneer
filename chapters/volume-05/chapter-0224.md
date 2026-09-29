@@ -10,7 +10,7 @@ The man of about thirty-four who mends fencing put the three figures out and the
 
 It was entered that it is the fifth day counted off the twentieth, and that a day a man is not here is not a day he has been here, and that nobody in that yard is keeping a day for him.
 
-The man of about thirty-four who digs loam had his right arm out of the sling at about eleven and in it again by half past, and a clerk of nineteen years entered that he had asked for it back and that the woman of fifty-eight had not been asked whether she wanted him to have it back, and that a man who has taken back a thing he was lent has not refused the loan and has not been given the thing.
+The man of about thirty-one who digs loam had his right arm out of the sling at about eleven and in it again by half past, and a clerk of nineteen years entered that he had asked for it back and that the woman of fifty-eight had not been asked whether she wanted him to have it back, and that a man who has taken back a thing he was lent has not refused the loan and has not been given the thing.
 
 ---
 
@@ -26,7 +26,7 @@ A man of about thirty-four who mends fencing walked down that lane at about ten 
 
 The woman of about thirty-eight who keeps that building was at the end of the lane with a pail of her own and did not come over, and a clerk entered that she was there and that nobody sent for her and that she was not asked a first thing, **and that a building which has denied nobody entry in nine years has not denied anybody entry this morning either, and that the protected things in this district are five and no sixth was added to them today.**
 
-The man of about thirty-four who digs loam said that a man who decides in advance to say nothing for about eight hours is a man who has decided that a figure gets to be a figure for about eight hours, and that he said that on the twentieth in this district's own yard, and that this is the second time and a second time is not a habit.
+The man of about thirty-one who digs loam said that a man who decides in advance to say nothing for about eight hours is a man who has decided that a figure gets to be a figure for about eight hours, and that he said that on the twentieth in this district's own yard, and that this is the second time and a second time is not a habit.
 
 The book has it that the butt at the back of that building was at four days on the first of this month and at nine days on the twentieth and has not been looked at since, and that the tank is over its lip and has been since before the twentieth, **and that a figure which describes a butt does not describe a night nine miles off, and that the tank is not joined to the ninth of the nine nights and was refused as a join in this district on the twentieth and is not joined to the channel at the head of the top field either.**
 
@@ -50,11 +50,11 @@ Then he said one thing to a man of about thirty-four who mends fencing and not t
 
 The man who keeps a road was not in that yard and had not been in it since the thirteenth of this month, and a clerk of nineteen years entered that he was not there and had not been sent for and that the record says not asked, **and that a man who is named in a yard in order to be somewhere else is a man who has been put in a column by a person he cannot see, and that the four columns of not-askings in this district are four and she did not rule one this afternoon and is not going to.**
 
-The man of about thirty-four who mends fencing said that a man who comes down a road after five days and asks for a room instead of a yard has changed his mind about something in five days, and the man of about thirty-four who digs loam said that a man who has not said what the thing is has not refused to say it in a yard and is not a refusal of anything and the record says not asked.
+The man of about thirty-four who mends fencing said that a man who comes down a road after five days and asks for a room instead of a yard has changed his mind about something in five days, and the man of about thirty-one who digs loam said that a man who has not said what the thing is has not refused to say it in a yard and is not a refusal of anything and the record says not asked.
 
 The man of fifty-six said that the man of about thirty-one had put the strip of paper back on the trestle table when he came off the cart, without being asked, in the same place and in the same way he had put it down on the third and on the fourteenth of this month, **and that a man who puts a thing in the same place three times is a man who is asking to be asked and has not been asked and is not going to be.**
 
-The man of about thirty-four who digs loam asked him one question in the yard, in front of about nine people, and it was not in the six things, and he gave the honest answer and a man of about nineteen counted it and got sixty-four, and it went in the minute in his own words.
+The man of about thirty-one who digs loam asked him one question in the yard, in front of about nine people, and it was not in the six things, and he gave the honest answer and a man of about nineteen counted it and got sixty-four, and it went in the minute in his own words.
 
 "**I did not go up there for the sheet. I went up there because somebody was going to be at the top of that road on the twentieth and I wanted to see whether they were, and I did not find out, and I am not going to say that I did not find out as though it were a thing I had done.**"
 
@@ -64,7 +64,7 @@ A man of about thirty-four who mends fencing asked him how long the road is at t
 
 "**It is about a mile of it after the turn, and there is a house on it and no name on the house, and a wall.**"
 
-The man of about thirty-four who digs loam went up the bank at about half past four to take a bucket up for the woman of fifty-eight and could not get it off the ground, and she took it off him with one hand without a word and went up, and it was entered that she said nothing and that nobody asked her to and that a person who takes a bucket off a man and says nothing has not been asked and has not refused and the record says not asked.
+The man of about thirty-one who digs loam went up the bank at about half past four to take a bucket up for the woman of fifty-eight and could not get it off the ground, and she took it off him with one hand without a word and went up, and it was entered that she said nothing and that nobody asked her to and that a person who takes a bucket off a man and says nothing has not been asked and has not refused and the record says not asked.
 
 At about half past five the man of about thirty-one who mends a dray walked four hundred yards to the records office and the door with the fanlight over it shut behind him, and the man of about thirty-four who mends fencing stood at the gate and did not go with him, and it was entered that nobody followed him and that she was not asked to follow him and that she was not going to.
 

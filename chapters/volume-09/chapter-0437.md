@@ -1,6 +1,6 @@
 # Chapter 437: The Man Who Said It Out Loud
 
-A man of about thirty-four who digs loam came up out of that ditch on the fourth of the twelfth month and stood at the end of that trestle table and looked at the first line of that book and at the third line of that book, and did not look at the second one, and about nine people watched a man not look at a line for about a minute and a half and not one of them said one word.
+A man of about thirty-one who digs loam came up out of that ditch on the fourth of the twelfth month and stood at the end of that trestle table and looked at the first line of that book and at the third line of that book, and did not look at the second one, and about nine people watched a man not look at a line for about a minute and a half and not one of them said one word.
 
 It was the fourth of the twelfth month and the frost had gone off the boards of that table by about half past eight. By ten there were about nineteen people in the ground of Lot Seventeen.
 
@@ -38,7 +38,7 @@ Nobody asked him whether he was still afraid of the figure, and a few people at 
 
 "I know what I could do. I have worked out what I could do about once a week for two months and I have not done any of it, and the reason I have not done it is that the second line is a line in a book in the open, and a wrong count is not struck by writing a correct one beside it, and a correct one is not a strike." He turned round and looked at the ditch and not at the table. "There is a day under it now. I did not put that day there and I cannot take it out and I would not if I could, because a day is not a number and it is the only one of the three things on that page that anybody can stand a finger on and check, and the other two you cannot."
 
-Then the man of about thirty-four who digs loam went back down the bank into the water, and four people at that table said after he had gone that a man who says a thing out loud and then goes back into a ditch is a man who has said the whole of it, and the clerk of nineteen years entered that a man said a thing out loud and went away, and entered the thing, and entered no figure.
+Then the man of about thirty-one who digs loam went back down the bank into the water, and four people at that table said after he had gone that a man who says a thing out loud and then goes back into a ditch is a man who has said the whole of it, and the clerk of nineteen years entered that a man said a thing out loud and went away, and entered the thing, and entered no figure.
 
 At about twenty past twelve the man of about thirty-four who mends fencing said one thing out loud from that far end, and the boy of about nineteen counted what he said and got thirty-eight and read the number back to himself in a low voice, and a few people heard the number and the rest of that ground did not.
 
@@ -52,7 +52,7 @@ At about one the man the figure of twenty-one years is against came down that ba
 
 "That is the second time this month somebody has come into this yard and owned a thing out loud and not one word of it has been read back from the top," he said. "A name on the twenty-seventh and a number this morning, and both of them in the open, and both of them on nobody's page, and both of them given to about nineteen people and not to a second one."
 
-The man of about thirty-four who digs loam said one thing up the bank without stopping work and without coming out of the water.
+The man of about thirty-one who digs loam said one thing up the bank without stopping work and without coming out of the water.
 
 "That is because a second one would make it a reading and a reading that is read back by one person binds nobody anyway, and you have been in this yard long enough to know that better than I do." He did not stop. "And you have got a name of your own you are not saying and we have all worked that out in about a fortnight and nobody has asked you, and I am not asking you, and I want it understood that I am not asking you because I have not been asked myself this morning."
 
@@ -62,7 +62,7 @@ At about half past one the man of about thirty-seven who cuts reeds came up that
 
 At about two the road keeper came up that lane and got the four figures off that wall as he went past and was not asked about the eleven miles. At about half past two the man of about twenty-nine who drives a cart came up and went on up it, and the near wheel was still dragging, and he got it up about nine inches off the ground with one arm, and about nine people watched him and nobody said a word.
 
-At about half past three the man of about thirty-seven who puts tables up came off the east wall and stood at that table and said one thing out loud and a few people heard it clearly and the rest of that ground did not.
+At about half past three the man of about thirty-two who puts tables up came off the east wall and stood at that table and said one thing out loud and a few people heard it clearly and the rest of that ground did not.
 
 "Two men have owned a thing in this yard this month and neither of them was thanked and neither of them was given anything, and the man who has the day in that book has not been asked whether he is right about it once in two days, and the reason nobody has asked him is that about four of us have worked out that if we ask him and he says no then the day is a day nobody can stand a finger on, and that is the one thing on that page we have got."
 

@@ -14,7 +14,7 @@ A clerk of nineteen years entered, at about a quarter to eight and before there 
 
 The man who mends fencing was at the far end of that table from about half past eight and he did not go to the end of it for three hours. At about half past eleven two people at the near end said out loud that about four of them had been waiting since yesterday afternoon and that he had said in this yard at one the day before that he was going to do something and would not say what it was, and neither of those two people said what they thought it was.
 
-The man of about thirty-seven who puts tables up came off the east wall at about a quarter to twelve and stood about nine feet off that table and said one thing out loud, to a few people and not to the rest.
+The man of about thirty-two who puts tables up came off the east wall at about a quarter to twelve and stood about nine feet off that table and said one thing out loud, to a few people and not to the rest.
 
 "He is not going to do it because anybody is watching and everybody in this yard knows that and I would like about four of you to be honest about whether you would have said something to him this morning if you had thought he was not going to do it until this afternoon."
 
@@ -30,9 +30,9 @@ The hand went down and stayed down for about four minutes. It did not close. The
 
 Nobody standing there said one word about what the hand was doing there. The clerk of nineteen years did not write anything about it and said out loud to the boy of about nineteen that she was not going to write anything about it, and he said that he was not going to either, and a few people at that table heard the two of them say that and the rest of that ground did not.
 
-The man of about thirty-four who digs loam was in that ditch and he came up out of the bank at about ten past one and got the four figures at that end of the table and said the word with them four times, and he stood about two feet from that end of the table and looked at the second line of that book and at the hand on it for about a minute and a half, and then he went back down the bank. That right arm of his did not go above the level of that shoulder at any point in the day.
+The man of about thirty-one who digs loam was in that ditch and he came up out of the bank at about ten past one and got the four figures at that end of the table and said the word with them four times, and he stood about two feet from that end of the table and looked at the second line of that book and at the hand on it for about a minute and a half, and then he went back down the bank. That right arm of his did not go above the level of that shoulder at any point in the day.
 
-Then the man of about thirty-seven who puts tables up said one thing out loud, in about four seconds, and the boy of about nineteen counted it and got sixty-four and read the number back to himself in a low voice, and two people near the east wall heard the number.
+Then the man of about thirty-two who puts tables up said one thing out loud, in about four seconds, and the boy of about nineteen counted it and got sixty-four and read the number back to himself in a low voice, and two people near the east wall heard the number.
 
 "**Nobody is going to say anything about that hand and that is the correct thing to do, and the reason it is correct is that about four of you have been waiting two days for somebody to say something about it, and a sentence said about a hand by the first person in the yard is a rule by the end of the week.**"
 
@@ -62,7 +62,7 @@ At about half past five the two empty buckets came down that bank and went back 
 
 Then the man of fifty-six read the four figures off that wall for the last time in that fifty days and got all four of them, and the boy of about nineteen turned his own page over at about ten to six, and a few people at that table looked at the front of it and not one of them said a word about what was on it.
 
-The man of about thirty-four who digs loam was still in that ditch at about half past five and was in it at about half past four the day before that, and nobody has ever written down what time he comes out.
+The man of about thirty-one who digs loam was still in that ditch at about half past five and was in it at about half past four the day before that, and nobody has ever written down what time he comes out.
 
 A woman of about thirty-six who keeps a scale came down that bank at about ten past five with the last of that day's flour on her hip and read the three lines standing up, and said one thing out loud to the stone.
 

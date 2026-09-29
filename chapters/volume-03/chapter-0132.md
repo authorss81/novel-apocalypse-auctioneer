@@ -45,7 +45,7 @@ And on the twenty-fifth a woman of fifty-eight who carries water and does not re
 
 ---
 
-And a man of about thirty-four who digs loam and a man of twenty-six who has been in a bed of brine for a year and a half had an argument on the twenty-fifth afternoon that lasted about nine minutes and that a clerk of nineteen years wrote down in full because she said it was the first one in eleven weeks where two people were arguing about the same word from opposite ends of it.
+And a man of about thirty-one who digs loam and a man of twenty-six who has been in a bed of brine for a year and a half had an argument on the twenty-fifth afternoon that lasted about nine minutes and that a clerk of nineteen years wrote down in full because she said it was the first one in eleven weeks where two people were arguing about the same word from opposite ends of it.
 
 A man of thirty-four said that a man who cannot remember a year cannot check the figure of it in a book, and that this district had been treating that as the same thing as a man who cannot answer, and that it was not the same thing and had not been the same thing since the second of October.
 
@@ -70,7 +70,7 @@ She was not asked and she is not an officer of anything and not asked is in the 
 
 "Nobody in this room has said out loud what a worker does on the last day of a season. I have been the last one out of a frame eleven times and I have not once been asked by anybody, and I would like it said in a room and written down, and it is not for tonight, it is for the thirty-first of March."
 
-A man of about thirty-four who digs loam and does nine days of it in ten asked her what a worker does on the last day of a season, and she answered him in the minute in her own words, and it is sixty-six words and it is the finding of the twenty-sixth of October before anybody has voted on anything.
+A man of about thirty-one who digs loam and does nine days of it in ten asked her what a worker does on the last day of a season, and she answered him in the minute in her own words, and it is sixty-six words and it is the finding of the twenty-sixth of October before anybody has voted on anything.
 
 "**A worker who says no on the last day of a season is a worker who has already paid. The year went out of me in the third week and the no comes on the last day, and the no is about the next one and I have not got the thing back and nobody can give it to me because there is nothing to give.**"
 
@@ -142,7 +142,7 @@ The person who asked said that a thing that has to be started by whoever starts 
 
 ---
 
-And then a man of about thirty-four who digs loam and does nine days of it in ten said the thing that made the room go quiet for nine seconds, and it is in the minute in his own words, and a clerk of nineteen years entered that four people in the room stopped writing while he said it.
+And then a man of about thirty-one who digs loam and does nine days of it in ten said the thing that made the room go quiet for nine seconds, and it is in the minute in his own words, and a clerk of nineteen years entered that four people in the room stopped writing while he said it.
 
 "**A person who says no on the thirty-first of March has not refused a season. A person who says no on the thirty-first of March has been told what a season is by the person who is asking. This clause is a door and a door only opens one way and I want somebody to write down which way it opens.**"
 

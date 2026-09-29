@@ -10,19 +10,19 @@ The man of fifty-six said the four off that wall in the ordinary voice and got a
 
 ---
 
-The man of about twenty-nine who drives that cart came up that lane at about eight with the cart behind him and put the shafts up against the end of that first table and left them there, which he has not done in two volumes, and said one thing out loud, in about nine seconds, to about nineteen people, and the boy counted what he said and got eighty-eight and read the number back to himself in a low voice.
+The man of about twenty-nine who drives that cart came up that lane at about eight with the cart behind him and put the shafts up against the end of that first table and left them there, which he has not done in two volumes, and said one thing out loud, in about thirty-three seconds, to about nineteen people, and the boy counted what he said and got eighty-eight and read the number back to himself in a low voice.
 
 "**I do not sleep in this parish. I have slept in nine places since the first morning of that year and none of them is within a day's walk of here, and I have got four of my own teeth, and I am standing here telling about nineteen people that because for a month you have all been looking at the end of that table as though there were something on it about me, and there is not, and there is about nine feet of man standing here.**"
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that she is not entering it as a name, and entered that she is not entering where he sleeps, and entered the reason for both, which is that a clerk is not the person anybody owes a thing to, and the record about the not asking says not asked.
 
-Then the man of about twenty-nine who drives that cart said one more thing out loud from where he was standing with the shafts against that table, in about nine seconds, and the boy counted what he said and got seventy and read the number back to himself in a low voice.
+Then the man of about twenty-nine who drives that cart said one more thing out loud from where he was standing with the shafts against that table, in about twenty-seven seconds, and the boy counted what he said and got seventy and read the number back to himself in a low voice.
 
 "**I am not saying it because anybody asked me and I am not saying it because a clerk has a column, and I have watched about four of you work out that a man who sleeps in nine places is a man a stranger could ask things about, and I have watched that happen this morning and I am telling you that I have not got a use for it.**"
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that a man said a thing about himself that is not a name, and the record about the not asking says not asked.
 
-The clerk of nineteen years said one thing out loud at about a quarter to nine, in about eleven seconds, to about nineteen people, and the boy counted what she said and got seventy-four and read the number back to himself in a low voice.
+The clerk of nineteen years said one thing out loud at about a quarter to nine, in about twenty-eight seconds, to about nineteen people, and the boy counted what she said and got seventy-four and read the number back to himself in a low voice.
 
 "**A man has said a thing about himself in that yard for the first time in six volumes and I am entering all of it and I am entering that it is not a name, and there is no column in that book for a man telling you where he sleeps, and if somebody rules one this morning I will refuse to fill it and I will say out loud that I am refusing.**"
 
@@ -30,21 +30,21 @@ A clerk of nineteen years entered that a clerk said a thing out loud in that yar
 
 The man of about fifty-eight read three lines in that lot book standing up on her way past at about half past nine and said nothing to anybody, and a clerk of nineteen years entered that a woman read three lines in that book standing up and entered that she did not read the fourth, and the record about the not asking says not asked.
 
-The woman of about thirty-six who keeps a scale was at the near end of that first table at about ten with her shop open behind her, and said one thing out loud, in about nine seconds, and the boy counted what she said and got seventy-nine and read the number back to himself in a low voice.
+The woman of about thirty-six who keeps a scale was at the near end of that first table at about ten with her shop open behind her, and said one thing out loud, in about thirty seconds, and the boy counted what she said and got seventy-nine and read the number back to himself in a low voice.
 
 "**A man has just told about nineteen people that he sleeps in nine places and none of them is here, and I have had that page on my counter for a month and I do not know where it was made, and I am not going to connect the two of those together in front of people because it would be the first interesting thing I have said in about a year and I would like to keep it.**"
 
 A clerk of nineteen years entered that a woman said a thing out loud in that yard and entered the thing, and entered that she is not entering a connection between two things, and the record about the not asking says not asked.
 
-A man of about thirty-four who digs loam came up that bank at about half past ten and stood at the end of that second table and read the fourth line of the second sheet from the beginning to the end and said nothing at all to anybody, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man read a line in that yard and entered that she is not entering what he made of it, and the record about the not asking says not asked.
+A man of about thirty-one who digs loam came up that bank at about half past ten and stood at the end of that second table and read the fourth line of the second sheet from the beginning to the end and said nothing at all to anybody, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man read a line in that yard and entered that she is not entering what he made of it, and the record about the not asking says not asked.
 
-The man of about thirty-four who mends fencing was at the end of that second table at about eleven with his right hand flat on the boards, and said one thing out loud, in about nine seconds, and the boy counted what he said and got sixty-nine and read the number back to himself in a low voice.
+The man of about thirty-four who mends fencing was at the end of that second table at about eleven with his right hand flat on the boards, and said one thing out loud, in about twenty-seven seconds, and the boy counted what he said and got sixty-nine and read the number back to himself in a low voice.
 
 "**I have been at this end of this table every morning for two volumes and I have not asked one person one thing, and a man said something about himself in this yard today and it is the first time that has happened in as long as I have been standing here, and I have not asked him what he said it for and I am not going to.**"
 
 A clerk of nineteen years entered, at the near end of that first table in that yard, that a man said a thing out loud in that yard and entered the thing, and entered that a man put his right hand flat on the boards of that second table and not on the stone and not on any of the four sheets, and the record about the not asking says not asked.
 
-The man of about thirty-seven who cuts reeds said one thing out loud from the edge of that table at about half past eleven, in about nine seconds, and the boy counted what he said and got seventy-three and read the number back to himself in a low voice.
+The man of about thirty-seven who cuts reeds said one thing out loud from the edge of that table at about half past eleven, in about twenty-eight seconds, and the boy counted what he said and got seventy-three and read the number back to himself in a low voice.
 
 "**Thirty years I have been at that end of that table and I have never once said one word about myself to about nineteen people, and I do not think there is anything in me worth saying, and the man who said a thing today has nine places to sleep and four teeth and I have got a wife at the second channel and that is the whole of what I have got.**"
 

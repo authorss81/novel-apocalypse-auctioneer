@@ -42,7 +42,7 @@ And on the first of december HE WAS ASKED, IN THE FIVE THINGS, TO READ THE THIRD
 
 A man of fifty-six counted the days out loud in that room on the first of December and there are twenty-three of them between the first and the twenty-fourth, **and a woman of thirty-eight who has been in the second channel four years said that twenty-three days is not a season and that a season is what she is standing in, and that nobody is going to close a charter in twenty-three days that is about a season of about five months.**
 
-Nobody argued with her and a man of about thirty-four who digs loam said that the charter is not about the season and is about the next one, and that the next one starts on the first of April and has not been certified and that a charter that says what a person may do in a season that has not been certified is a charter about a season and not about twenty-three days.
+Nobody argued with her and a man of about thirty-one who digs loam said that the charter is not about the season and is about the next one, and that the next one starts on the first of April and has not been certified and that a charter that says what a person may do in a season that has not been certified is a charter about a season and not about twenty-three days.
 
 A clerk of nineteen years entered that the two are two things and that the woman of thirty-eight was asked in the five things whether she will be in the rotation and said that she will be asked in December and not on the first of December, **and that she was not asked about the four seasons and was not asked about the eleventh year and was not asked about the four hundred coppers and that the not-asking is entered and the count is where it was.**
 
@@ -116,7 +116,7 @@ And on the first of december A WOMAN OF ABOUT THIRTY-ONE WHO HAS BEEN IN THE THI
 
 The train on the siding had stood two hundred and ninety-two days on the thirtieth of November and two hundred and ninety-three on the first of December, **and a man of seventeen wrote both figures in an index in a hand that is not a clerk's hand, and the sum was put under the figure in a minute for the seventh time in four weeks and every figure is built from the eleventh of February.**
 
-The room let it stand and a man of about thirty-four who digs loam and does nine days of it in ten said again that a man who does a sum in front of strangers is not checking a number and is teaching it, and that this district has been teaching numbers in lanes for eleven weeks and calling it counting, and that a person who has been taught a figure by a lane is a person who will say it out loud in four years in a room they have not been in.
+The room let it stand and a man of about thirty-one who digs loam and does nine days of it in ten said again that a man who does a sum in front of strangers is not checking a number and is teaching it, and that this district has been teaching numbers in lanes for eleven weeks and calling it counting, and that a person who has been taught a figure by a lane is a person who will say it out loud in four years in a room they have not been in.
 
 Nobody asked him about the four years. A clerk of nineteen years entered that he had said the four years out loud and had not been asked why and that the not-asking is entered and the count is where it was, **and that the count of conditions with no end on it is four and the count of protected things is five and the boy of seventeen is in neither and neither moved.**
 

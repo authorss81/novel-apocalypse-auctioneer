@@ -18,7 +18,7 @@ She entered that from this morning *last month* means the sixth month and *the m
 
 Then the stranger came through the gate, which takes two goes, at about half past ten in the morning with a hand-cart and a tent rolled on the back of it.
 
-He is a man of about thirty-seven who puts tables up for anybody who will use them, and he came down the eleven mile road on the last day of last month and slept one night at a farm about a mile out past the loams and did not say where he had come from before the road, and he gave no name to anybody in this district and nobody asked him for one, and a clerk entered that he was not asked and that the record about the not asking says not asked.
+He is a man of about thirty-two who puts tables up for anybody who will use them, and he came down the eleven mile road on the last day of last month and slept one night at a farm about a mile out past the loams and did not say where he had come from before the road, and he gave no name to anybody in this district and nobody asked him for one, and a clerk entered that he was not asked and that the record about the not asking says not asked.
 
 A clerk of nineteen years entered that a man who puts tables up is not a keeper of a table and is not a party of anything and is not one of the five things this district does not have, and that a hand-cart and a tent rolled on the back of it are not a document and are not a page and did not become a fourth of the three documents this district does not own.
 

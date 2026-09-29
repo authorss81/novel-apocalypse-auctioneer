@@ -38,7 +38,7 @@ The man of about fifty-six said it out loud, in the ordinary voice, with his han
 
 "**Four generations of people have kept this and not one of them is on a page and not one of them has ever been asked, and none of us is a keeper, and I want that written down before anybody starts. We are nine people standing on a shoulder in the cold looking at a piece of iron that a family put a plank into. If the four generations knew we were here they would not come out. That is not a complaint. It is the reason a man of about thirty-four could walk to one of these in a morning and did not, and he was not a coward about it, he was the wrong kind of person for it, and so am I.**"
 
-The man of about thirty-four who digs loam said the finding, and he said it standing at the edge of the shoulder with his right arm across his body, and the count came to a hundred and fifty-three, and it went in the minute in his own words.
+The man of about thirty-one who digs loam said the finding, and he said it standing at the edge of the shoulder with his right arm across his body, and the count came to a hundred and fifty-three, and it went in the minute in his own words.
 
 "**We have been for nine hours. We can say three things and we could not say the fourth one and I am going to say all four out loud. We can say the board is in. We can say the water is about a foot over the board and the road below is shut. And we can say that nobody in this basin is holding this, because there is nothing on it to hold. What we cannot say is whether the ninth of the nine nights happened on the twentieth of last month, and we cannot say it because a plank does not keep nights, and there is not one mark on this frame and no book and no man, and it is not anybody's job to remember it, and that is the first thing this district has ever found out by walking to a thing instead of saying a number out loud.**"
 
@@ -52,7 +52,7 @@ A man of fifty-six said that a man of about nineteen who declines to count a thi
 
 A man of fifty-six said that the man who digs loam had not refused a join all day, and that he had listened to two refusals on the way up and had not made one, and that a day a man does not refuse is not a day he has agreed to anything and the record about it says not asked.
 
-The man of about thirty-four who mends fencing got his arm above his head at about half past two to point at something on the far bank, and it took him two goes, and nobody counted it, and the man of about thirty-four who digs loam did not offer to do it and neither did anybody else and the clerk entered that nobody offered and that the record about two goes says not asked.
+The man of about thirty-four who mends fencing got his arm above his head at about half past two to point at something on the far bank, and it took him two goes, and nobody counted it, and the man of about thirty-one who digs loam did not offer to do it and neither did anybody else and the clerk entered that nobody offered and that the record about two goes says not asked.
 
 They came down. It took about five hours and the light going, and the last half mile of the goat track was in the dark by the time they were off it, and the man of about thirty-four who keeps a road went down it in front of the nine of them with a lamp he had not been asked to carry and that nobody asked him about, and the wind had gone round to the north by then and came up the shoulder behind all of them.
 

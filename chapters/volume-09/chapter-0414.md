@@ -38,7 +38,7 @@ Then he read the twelve in the margin of her page, going down them, in the ordin
 
 ---
 
-The man of about thirty-four who digs loam came up that bank at about half past ten with the water to his thigh. He got the four figures at the end of that table and went back down into the water. That right arm of his stayed below the level of that shoulder the whole of the day, and nobody said one word to him about it. The road keeper came up that lane at about eleven, got the four figures off that wall as he went by, and went on up without stopping. Nobody asked him about the eleven miles.
+The man of about thirty-one who digs loam came up that bank at about half past ten with the water to his thigh. He got the four figures at the end of that table and went back down into the water. That right arm of his stayed below the level of that shoulder the whole of the day, and nobody said one word to him about it. The road keeper came up that lane at about eleven, got the four figures off that wall as he went by, and went on up without stopping. Nobody asked him about the eleven miles.
 
 At the far end of the yard, which is the only part of it that stays dry, the man of about forty-eight who keeps a tally, and has said of himself that he is fifty-one, stood from about ten until about two with a flat book under his left arm. The woman of about thirty-six who keeps a scale stood a few feet off him with her arms folded. She did not speak to him and was not spoken to. Somebody said out loud at the near end of that table that his six households have not moved for two hundred and four days, that the figure is out of a ladder, and that nobody has asked him for it and nobody is going to.
 

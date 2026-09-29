@@ -26,7 +26,7 @@ At about half past ten the man of about thirty-four who mends fencing asked the 
 
 Nobody read that back from the top. A clerk of nineteen years entered that a question about a figure off a list was asked out loud in that yard a second time and was answered the same way, and entered that the number of times a question has been asked and the number of times it has been answered are two figures.
 
-The man of about thirty-four who digs loam was in that ditch before it was light. He was in it at about ten and came up out of it at about eleven with the water to his thigh. The four figures at the end of that table were on the boards, and he read them and got all of them, and he did not say the word with them.
+The man of about thirty-one who digs loam was in that ditch before it was light. He was in it at about ten and came up out of it at about eleven with the water to his thigh. The four figures at the end of that table were on the boards, and he read them and got all of them, and he did not say the word with them.
 
 "You did not say it," somebody said.
 
@@ -38,7 +38,7 @@ Then he went back down the bank into the water, and that right arm of his did no
 
 "You said a number in a yard and a man wrote it down," the loam man said, "and I have been standing in this ditch for a month thinking about that. I have got nowhere with it, and I am not going to get anywhere with it today either, so you will have to do without."
 
-"You have got nowhere with it because you have not asked anybody for anything," said the man of about thirty-seven who puts tables up, from the east wall.
+"You have got nowhere with it because you have not asked anybody for anything," said the man of about thirty-two who puts tables up, from the east wall.
 
 "I have not asked anybody for anything because the first time anybody asked me anything in this yard I got asked about my hands. Four of you were standing there when that happened, and I am not going to do the second one over again for a figure in a book."
 
@@ -88,7 +88,7 @@ Then the man of about thirty-four who mends fencing said one thing out loud at t
 
 "**A word on a figure is a figure about how that figure was got, and a second word on the same figure would be a figure about how the first word was got, and this district does not have a third word and is not going to get one, and every one of you who has wanted a fifth column this month has wanted a third word without knowing that is what a fifth column is.**"
 
-The man of about thirty-seven who puts tables up for anybody who will use them was against the east wall with his hand-cart, and the tent is still rolled on the back of it, and he was given nothing, and nobody asked him about it. A man of about sixty-four was at the foot of the low wall from about ten with his coat folded on the stones beside him and nothing in his hands. Nobody there offered him anything, and the record about the not offering says nothing was asked and nothing was given.
+The man of about thirty-two who puts tables up for anybody who will use them was against the east wall with his hand-cart, and the tent is still rolled on the back of it, and he was given nothing, and nobody asked him about it. A man of about sixty-four was at the foot of the low wall from about ten with his coat folded on the stones beside him and nothing in his hands. Nobody there offered him anything, and the record about the not offering says nothing was asked and nothing was given.
 
 ---
 

@@ -38,7 +38,7 @@ Nobody argued and a clerk of nineteen years entered that the count of uses of a 
 
 The interval was done twice in the yard after lunch, and a man of fifty-six said both times that the figure of the interval travels with the date it ends on, and that a figure given without an end date is a figure and not an interval, and that the district learned that in the middle of December the hard way.
 
-The first was from the first of January to the thirty-first of March, and a man of fifty-six said the sum out loud and a clerk of nineteen years entered it, and a man of about thirty-four who digs loam and does nine days of it in ten was not in the yard and was not asked and had sent word before the month turned that he would start again in January.
+The first was from the first of January to the thirty-first of March, and a man of fifty-six said the sum out loud and a clerk of nineteen years entered it, and a man of about thirty-one who digs loam and does nine days of it in ten was not in the yard and was not asked and had sent word before the month turned that he would start again in January.
 
 "**Thirty days left in the first month after the first, then the whole of the second month, then the whole of the third month to its last day. Thirty and twenty-eight and thirty-one is eighty-nine days.**"
 

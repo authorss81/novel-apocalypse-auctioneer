@@ -14,7 +14,7 @@ They gave him two things and a clerk of nineteen years entered both and did not 
 
 A man of about thirty-eight who deals in second-hand paper on a lane off the lower terrace gave him a sheet of about nine inches by six and said that it is clean paper and that a clean sheet is the only thing a man can be asked to sign and that anything else is a document.
 
-A man of about thirty-four who digs loam and does nine days of it in ten gave him a stub of pencil about two inches long and said that he had had it in a pocket since the ninth year and had never once written anything with it.
+A man of about thirty-one who digs loam and does nine days of it in ten gave him a stub of pencil about two inches long and said that he had had it in a pocket since the ninth year and had never once written anything with it.
 
 A clerk of nineteen years entered that the yard gave a man going to a counter two objects and neither of them was money, **and that a column is a thing a person is paid for and that nobody in this yard has been paid anything this month and that the two facts are a count and not a payment and are not added to each other.**
 
@@ -90,9 +90,9 @@ Nobody asked about the sentences. A stranger at the ward market counter asked th
 
 The stranger wrote the third of the five down in a hand of his own and did not write the second one down, and a man of fifty-six said that a stranger who copies the third of five and leaves the second has done the same thing this district did in the twenty-seventh of December with a corner of a page, **and that the two are not joined and that a district which notices a resemblance on a slipper is a district using the calendar again.**
 
-The man of about thirty-four who digs loam and does nine days of it in ten was in the market and said that the second of the five terms is the one to write down, because it is the one that decides what happens to a person, and that he was not going to say why he knows that and nobody asked him.
+The man of about thirty-one who digs loam and does nine days of it in ten was in the market and said that the second of the five terms is the one to write down, because it is the one that decides what happens to a person, and that he was not going to say why he knows that and nobody asked him.
 
-A clerk of nineteen years entered that the count of not-askings about the man of about thirty-four who digs loam is not a column and has no number on it, **because a number on it would have been a column and a column is a thing a person is paid for, and he is not paid and was not asked whether he would be.**
+A clerk of nineteen years entered that the count of not-askings about the man of about thirty-one who digs loam is not a column and has no number on it, **because a number on it would have been a column and a column is a thing a person is paid for, and he is not paid and was not asked whether he would be.**
 
 A woman of about forty-four who keeps a Road House on the tide was in the market and did not go up to the counter, and a clerk of nineteen years entered that she did not go up and that she was not asked why and that the not-asking is entered and the count is where it was.
 

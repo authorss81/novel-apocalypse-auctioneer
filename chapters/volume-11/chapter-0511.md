@@ -1,6 +1,6 @@
 # Chapter 511: The Wrong Figure Copied Faithfully
 
-The man of about thirty-four who digs loam came up out of that ditch at about ten on the morning of the seventh of the second month, put that sheet of paper on the end of that first table beside that lot book with his right hand, read the first line of one of them out loud and then the first line of the other one out loud, then the second line of one of them and then the second line of the other one, and they are the same, and about nineteen people in that yard heard all of it and about nine of them have said since that they did not know they were listening to the wrong figure being proved right.
+The man of about thirty-one who digs loam came up out of that ditch at about ten on the morning of the seventh of the second month, put that sheet of paper on the end of that first table beside that lot book with his right hand, read the first line of one of them out loud and then the first line of the other one out loud, then the second line of one of them and then the second line of the other one, and they are the same, and about nineteen people in that yard heard all of it and about nine of them have said since that they did not know they were listening to the wrong figure being proved right.
 
 It was the seventh morning of the second month and the frost was on the low step at the end of that first table until about nine and the boards of that second table were cold to the hand until about half past nine, and by ten there were about nineteen people in that yard.
 
@@ -24,7 +24,7 @@ Then she said the rest of it out loud, standing at the near end of that first ta
 
 Nobody said anything to that. A clerk of nineteen years entered that a clerk said a thing out loud in that yard and entered the thing, and entered that a defence about conduct is not a check anybody can run, and entered that she is not entering the word forgery beside it, and the record about the not asking says not asked.
 
-The boy of about nineteen asked the man of about thirty-four who digs loam, out loud, in front of about nine people, whether that third line is his day, and he answered without being asked twice and the boy counted what he said and got twenty-nine and read the number back to himself in a low voice.
+The boy of about nineteen asked the man of about thirty-one who digs loam, out loud, in front of about nine people, whether that third line is his day, and he answered without being asked twice and the boy counted what he said and got twenty-nine and read the number back to himself in a low voice.
 
 "**That line is mine on the other one. On that one there is nothing and I have not asked what the nothing is and I am not going to.**"
 

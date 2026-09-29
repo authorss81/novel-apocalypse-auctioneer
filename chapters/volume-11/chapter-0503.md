@@ -28,7 +28,7 @@ Then she walked the four feet to that wall and told the man of fifty-six, in the
 
 About nine people at the near end of that first table have said since that a man who has said those four off that wall every morning for two hundred and twenty-eight mornings was told one morning that one of them was three hundred and ninety-two days out and did not say one word, and that he was told a thing like it in the last month of the last volume and did not say one word then either, and that he has now been told twice and nobody in that yard has asked him a question either of the two times.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and then he read the three lines on that sheet out loud in the ordinary voice, and about nine people heard all of it, and he said one more thing out loud after it in about four seconds, and the boy counted it and got thirty-five and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and then he read the three lines on that sheet out loud in the ordinary voice, and about nine people heard all of it, and he said one more thing out loud after it in about four seconds, and the boy counted it and got thirty-five and read the number back to himself in a low voice.
 
 "**Four lines on that wall and nobody in this yard has ever written one of them down, and I have been in that ditch for every one of the days they have been out there.**"
 

@@ -40,7 +40,7 @@ A clerk of nineteen years entered that the page says a person is entered on the 
 
 The tank is at the back of the building and it is stone and it is about a person deep, and the woman of fifty-eight who carries water put her hand flat on the stone and said that it is down to about two days and that she has been filling it since the ninth year with a bucket and a yoke.
 
-Nobody argued with that. A man of about thirty-four who digs loam and does nine days of it in ten was in the yard in the afternoon and said that a tank is fed off the fourth holding on a sheet nailed in a shed eleven miles up a road, and that the fourth holding is a farm, and that the farm's owner has not been at his house in about four years.
+Nobody argued with that. A man of about thirty-one who digs loam and does nine days of it in ten was in the yard in the afternoon and said that a tank is fed off the fourth holding on a sheet nailed in a shed eleven miles up a road, and that the fourth holding is a farm, and that the farm's owner has not been at his house in about four years.
 
 A clerk of nineteen years entered that the fourth of the nine holdings is a farm four miles out past the loams with a house and four fields and a sluice of its own, and that the person named in the entry of the registry of the western tide is the owner, **and that a register is a register and not a mystery, and that nobody in this district is going to say for the man at the crossing that he is dead, and that the not-saying is not entered as a claim and is not a column.**
 
@@ -102,7 +102,7 @@ The room let it stand **and a clerk of nineteen years entered that neither of th
 
 ---
 
-A man of about thirty-four who digs loam and does nine days of it in ten was in the yard on the twenty-fifth and said the other half of the sluice, and the other half is the half nobody has said out loud in eleven weeks, and it is in the minute in his own words and it is fifty-four words.
+A man of about thirty-one who digs loam and does nine days of it in ten was in the yard on the twenty-fifth and said the other half of the sluice, and the other half is the half nobody has said out loud in eleven weeks, and it is in the minute in his own words and it is fifty-four words.
 
 "**A sluice is the only piece of the water in this district that can be moved a mile, and it is four miles out past the loams on a farm nobody owns, and nobody has ever come and asked me to open it and I would not know whose it was to answer for.**"
 

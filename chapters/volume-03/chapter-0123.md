@@ -66,7 +66,7 @@ The woman of sixty-one who had signed from a market two days' walk away answered
 
 The third said yes in nine words and the clerk wrote the nine down and read them back, and the third is a woman of thirty-eight who has been in the second channel four years and who is the only one of the four who asked what the release was before she was asked the toll.
 
-Then the fourth said no, and he was a man of about thirty-four who digs loam and does nine days of it in ten, and he was not on the list of the five things because he had been asked and had not been chosen, and the clerk entered that he was in the room and that he had not been asked and that not asked was written against his name, and that he then asked to be asked.
+Then the fourth said no, and he was a man of about thirty-one who digs loam and does nine days of it in ten, and he was not on the list of the five things because he had been asked and had not been chosen, and the clerk entered that he was in the room and that he had not been asked and that not asked was written against his name, and that he then asked to be asked.
 
 ---
 

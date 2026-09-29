@@ -54,7 +54,7 @@ Saying out loud in a yard that he is not going to find a job for another man has
 
 ---
 
-The man of about thirty-four who keeps a road came up that lane at about two and went into that yard and stood at the end of that table for about a quarter of an hour and then went out again, and nobody asked him one question about eleven miles. At the foot of the east wall the man of about thirty-seven who puts tables up for anybody who will use them had his hand-cart against the brick and the tent still rolled on the back of it, and it has not gone up on any day since the thirtieth of the sixth month, and about nine people in that yard looked at the cart and looked away again.
+The man of about thirty-four who keeps a road came up that lane at about two and went into that yard and stood at the end of that table for about a quarter of an hour and then went out again, and nobody asked him one question about eleven miles. At the foot of the east wall the man of about thirty-two who puts tables up for anybody who will use them had his hand-cart against the brick and the tent still rolled on the back of it, and it has not gone up on any day since the thirtieth of the sixth month, and about nine people in that yard looked at the cart and looked away again.
 
 The man of about thirty-seven who cuts reeds out of that ditch was at the top of it at about four with a bundle on his shoulder and a hook in his hand, and the thing he said in about four seconds on the eleventh of the eighth month is not being said again in that yard and has not been asked for again, and nobody in that yard has asked him to repeat it.
 

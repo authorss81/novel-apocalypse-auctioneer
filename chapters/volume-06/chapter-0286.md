@@ -8,7 +8,7 @@ The sixth of the seventh month was low and warm and the woman of fifty-eight was
 
 A clerk of nineteen years entered that twenty-six is twenty-five days to the end of the seventh month plus the first of the eighth, and that the length of the eighth month is not stated in this district and was not used this morning, and that two buckets were not counted and that nobody counted them.
 
-Then the man of about thirty-seven who puts tables up for anybody who will use them asked that yard one question, out loud, in the ordinary voice, and a clerk of nineteen years entered that he asked it in front of about nineteen people and that nobody was asked whether they wanted to hear it.
+Then the man of about thirty-two who puts tables up for anybody who will use them asked that yard one question, out loud, in the ordinary voice, and a clerk of nineteen years entered that he asked it in front of about nineteen people and that nobody was asked whether they wanted to hear it.
 
 "**I am going to ask a question in this yard and I want to say first that I am asking it because I do not know the answer and not because I have got one, and I am asking it in daylight where a stranger can walk into because a question asked in a lane is a question with no answer on the record. Does anybody in this district carry water to a house in the ground.**"
 
@@ -34,7 +34,7 @@ Then the thing came into that yard with nothing else and nobody asked for it.
 
 A man of fifty-six disagreed with it out loud in about four seconds, and a clerk of nineteen years entered that he disagreed with it and that nobody had asked him to and that the record about the not asking says not asked.
 
-"**That is the fifth sentence of mine that has been said back to me in twenty days and I have not said it once. I have said a version of it four times in five months and I have never once said those words, and I have watched a man of about thirty-four who digs loam say the true thing about a table with four legs and say it in a yard in the middle of the afternoon so that nobody found out in six months, and I have never once been able to do that. I do not think that is wrong. I think it is the fourth time this month that something in this district has been right and been said by somebody who is not me, and I am not going to stand in this yard and take it off the shelf it is on.**"
+"**That is the fifth sentence of mine that has been said back to me in twenty days and I have not said it once. I have said a version of it four times in five months and I have never once said those words, and I have watched a man of about thirty-one who digs loam say the true thing about a table with four legs and say it in a yard in the middle of the afternoon so that nobody found out in six months, and I have never once been able to do that. I do not think that is wrong. I think it is the fourth time this month that something in this district has been right and been said by somebody who is not me, and I am not going to stand in this yard and take it off the shelf it is on.**"
 
 A clerk of nineteen years entered that a panel does not create a consent and does not make a person a bearer and does not make a house into a party and does not turn a right to give something up into a refusal and does not decide who hears a bell, and that a man who has disagreed with one has not refused it and cannot be counted either way, and that the instruments this district has built and not named are six and that this is not a seventh of them and did not become one, and that the six did not move on the sixth of the seventh month.
 
@@ -42,7 +42,7 @@ A clerk of nineteen years entered that a panel does not create a consent and doe
 
 ---
 
-At about half past four in the afternoon the man of about thirty-seven who puts tables up for anybody who will use them was at the top of the bank with the man of fifty-six, and a clerk of nineteen years entered that the two of them were not in that yard and that about six people in it knew they were at the top of the bank and that nobody was sent and that the record about the sending says not asked.
+At about half past four in the afternoon the man of about thirty-two who puts tables up for anybody who will use them was at the top of the bank with the man of fifty-six, and a clerk of nineteen years entered that the two of them were not in that yard and that about six people in it knew they were at the top of the bank and that nobody was sent and that the record about the sending says not asked.
 
 The man of about thirty-seven said one thing about the ninth of the eleven houses, out loud, in the ordinary voice, and it was counted and came to a hundred and fifty-nine, and a clerk entered that he said it about forty feet from a step of two stones outside the second house up that lane and that the record about the distance says not asked.
 

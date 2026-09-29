@@ -12,7 +12,7 @@ The woman of about thirty-six who keeps a scale came down that lane at about ten
 
 ---
 
-At about half past ten the man of about thirty-four who digs loam came up out of that ditch with his right arm held down at his side and the wet of that ditch standing in the legs of his breeches to the middle of his thigh, and he came across that yard to the end of that trestle table and sat down in the second chair.
+At about half past ten the man of about thirty-one who digs loam came up out of that ditch with his right arm held down at his side and the wet of that ditch standing in the legs of his breeches to the middle of his thigh, and he came across that yard to the end of that trestle table and sat down in the second chair.
 
 Nobody said anything at all. About nine people in that yard were standing close enough to see it happen and not one of them said a word, and about four of them looked at the chair and then at him and then at the chair again.
 
@@ -42,7 +42,7 @@ The man the figure of twenty-one years is against was in that yard from about te
 
 Two people in that yard started to say something to the woman of fifty-eight between about eleven and about four and did not finish it, and what they finished it with was the weather.
 
-At about half past three the man of about thirty-four who digs loam was at the fence end of that lane on his way up out of it and the mender was at the end of that trestle table with about nine inches of wire and nothing to do with it, and the two of them said one thing each, in the ordinary way, and about four people heard both.
+At about half past three the man of about thirty-one who digs loam was at the fence end of that lane on his way up out of it and the mender was at the end of that trestle table with about nine inches of wire and nothing to do with it, and the two of them said one thing each, in the ordinary way, and about four people heard both.
 
 The man who digs loam said that a chair is a thing for a person who has been on their feet all morning, and that he was on his feet all morning, and that a chair is the only thing in that yard that has been put there for no reason at all. The mender said that is the first thing anybody has said out loud about that chair that he agrees with, and that he had been thinking the same and had not said it, and then he said that a person is not a thing a chair was put there for, and went back to the wire.
 
@@ -50,7 +50,7 @@ Neither of those is a finding. About four people in that yard said one of them w
 
 ---
 
-The man of about thirty-four who digs loam came up the bank at about four and stood at the end of that trestle table for about two minutes with the water still coming off him, and looked at the second chair, and did not sit in it, and went back down and was in the bottom of that ditch again by about a quarter past four.
+The man of about thirty-one who digs loam came up the bank at about four and stood at the end of that trestle table for about two minutes with the water still coming off him, and looked at the second chair, and did not sit in it, and went back down and was in the bottom of that ditch again by about a quarter past four.
 
 About four people in that yard said out loud that he would sit in it again later in the day. About four other people in that yard said that a man who has said he sat for his legs is not a man anybody is going to count, and neither of those is a finding, and a chair is not a job and a man in a chair is not a figure about the chair.
 

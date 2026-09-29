@@ -36,7 +36,7 @@ A man of about thirty-four who mends fencing asked him, in the six things, wheth
 
 The man the figure of twenty-one years is against put his name down on the second of December as a guarantor of nothing, and as the man responsible for the aggregate unpaid toll, and a clerk wrote it and did not read it back, and a man of fifty-six said out loud in the yard on the eighteenth of December that the word steward does not go on the charter.
 
-Nobody took that up. A man of about thirty-four who digs loam said that a man responsible for a figure of twenty-one years and a man who cannot list what he has posted is a man carrying two things with nothing written on either of them, and that a man carrying two blanks is not a man with two lots. A man of about thirty-eight who deals in second-hand paper said that a guarantor of nothing is a man who has put his name under a line to prove he can be asked about something and has not yet found out what.
+Nobody took that up. A man of about thirty-one who digs loam said that a man responsible for a figure of twenty-one years and a man who cannot list what he has posted is a man carrying two things with nothing written on either of them, and that a man carrying two blanks is not a man with two lots. A man of about thirty-eight who deals in second-hand paper said that a guarantor of nothing is a man who has put his name under a line to prove he can be asked about something and has not yet found out what.
 
 A clerk of nineteen years entered that a name cannot be taken off a figure by the person it is put on, and that the rule is in the market's own book, and that the man who wrote his own name under a line in the fourth week of December has not asked for it to be taken off and has not been asked to.
 
@@ -58,7 +58,7 @@ The room waited about nine seconds. The registrar of this district's records off
 
 A clerk of nineteen years entered that she said the second half of that before she was asked for it and that she is not going to put a number on it, **and that the count of the second half said before being asked has not been looked at since the twenty-ninth of December, and that a woman who has said the same sentence about a book in three yards in four months has not been asked why and is not going to be.**
 
-Nobody took that up and a man of about thirty-four who digs loam said that a district which cannot certify a document and cannot argue with it has to be able to do both, **and that a book that works if a person comes is a book that has an answer about it, and that the answer is about thirty-four miles and the two of those are not the same figure and are not the same thing.**
+Nobody took that up and a man of about thirty-one who digs loam said that a district which cannot certify a document and cannot argue with it has to be able to do both, **and that a book that works if a person comes is a book that has an answer about it, and that the answer is about thirty-four miles and the two of those are not the same figure and are not the same thing.**
 
 A man of fifty-six said that a document a district cannot argue with is a document the district has and is not a thing the district lacks, and that the two halves of that are both true, **and that this district has only ever put one of them on a wall and has now put the other one in a minute in a woman's own words on the twentieth of the second month.**
 
@@ -72,7 +72,7 @@ The sheets come down at the end of a month on a cart with the seed, and a man of
 
 A clerk of nineteen years entered that the sheets come down at the end of a month and that the seed came on the sixteenth of the second month and that the next cart is nine days off, and that the two of those are a fact about a cart and not about a house, and that they are not joined.
 
-Nobody took that up. A man of about thirty-four who digs loam said that a sheet about a season that has already started is a sheet a household cannot read in the state it was written in, and that the sheet this district has never seen says the Underwriters give water and seed before the season and take the labour of the family after it, and that both halves of that have to be true at once for a house that means it.
+Nobody took that up. A man of about thirty-one who digs loam said that a sheet about a season that has already started is a sheet a household cannot read in the state it was written in, and that the sheet this district has never seen says the Underwriters give water and seed before the season and take the labour of the family after it, and that both halves of that have to be true at once for a house that means it.
 
 A man of fifty-six said that a house which gives before and takes after is a house whose sheet is only honest at one hour of a year, and that a household which signs at that hour is signing a thing that is true for about a day.
 
@@ -118,7 +118,7 @@ The last of the day was the yard, and a man of about thirty-four who mends fenci
 
 The gate stayed shut for about nine seconds. A man of fifty-six said that the question is not going to be answered on the twentieth of the second month and is not going to be answered by anybody who is waiting for it, **and that a man who has put a month on a refusal has given this district nine days and that a district which spends the nine days preparing an answer to a question nobody has been asked is going to be ready on the first of the next month and is going to have nothing to say.**
 
-A man of about thirty-four who digs loam said that the first of the next month is nine days off and that the month turns on it and that a month turning is not an event anybody in this district has an instrument for, **and that this district has had two month turns in the year and has said the name of the month out loud both times and has not once had anything to do about either of them.**
+A man of about thirty-one who digs loam said that the first of the next month is nine days off and that the month turns on it and that a month turning is not an event anybody in this district has an instrument for, **and that this district has had two month turns in the year and has said the name of the month out loud both times and has not once had anything to do about either of them.**
 
 A clerk of nineteen years entered that the second month turned on the first of the second month and that the turn was named once and is not going to be named again, **and that the first of the next month is nine days off and that a turn of a month is not a season and is not a term and is not going into any of the three counts.**
 

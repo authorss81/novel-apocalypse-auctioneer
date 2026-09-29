@@ -48,7 +48,7 @@ At about half past eleven the clerk of nineteen years said that she was not goin
 
 ---
 
-At about twelve the man of about thirty-four who digs loam was in that ditch to his thigh and heard all of it from the water. He said one thing up the bank and he did not raise his voice to say it, which was the first time in about a month that he had said anything and not raised his voice.
+At about twelve the man of about thirty-one who digs loam was in that ditch to his thigh and heard all of it from the water. He said one thing up the bank and he did not raise his voice to say it, which was the first time in about a month that he had said anything and not raised his voice.
 
 "You have all been telling each other a thing is going to happen in a yard for two days," he said, "and not one of you has said what, and if you had said what then it would have been said twice, and the second time would have been the one that stuck, and about four of you would be standing here on the day remembering that somebody said it in advance, and that is how the last four things in this yard died."
 
@@ -68,7 +68,7 @@ Nobody had asked him for a name. The clerk of nineteen years entered that a pers
 
 ---
 
-At about two the man of about thirty-seven who puts tables up was against the east wall with his hand-cart, and the tent is still rolled on the back of it, and he was given nothing, and nobody asked him about it. He had been quiet all morning, which four people at that table noticed, and one of them said out loud that a man who has been carrying something in his mouth for sixteen days has not been carrying it out loud this morning. The man who puts tables up said that was a figure about a mouth and not about a thing.
+At about two the man of about thirty-two who puts tables up was against the east wall with his hand-cart, and the tent is still rolled on the back of it, and he was given nothing, and nobody asked him about it. He had been quiet all morning, which four people at that table noticed, and one of them said out loud that a man who has been carrying something in his mouth for sixteen days has not been carrying it out loud this morning. The man who puts tables up said that was a figure about a mouth and not about a thing.
 
 At about half past two the road keeper came up that lane and got the four figures off that wall as he went past and did not stop at the low wall at all, which he had done three times in the last four days. Two people noticed and neither of them said anything about it until he was out of sight.
 

@@ -2,7 +2,7 @@
 
 ---
 
-The tenth of the fifth month came in grey from the west and about nineteen people were in the yard of Lot Seventeen at about ten in the morning, and the man of about thirty-four who digs loam was in it with his right arm in a sling that was not his.
+The tenth of the fifth month came in grey from the west and about nineteen people were in the yard of Lot Seventeen at about ten in the morning, and the man of about thirty-one who digs loam was in it with his right arm in a sling that was not his.
 
 The sling came from the woman of fifty-eight, who is in that yard most mornings and was in it this morning. The clerk entered that she lent it and that nobody asked her to and that the record says not asked, and that a thing a person lends is a thing a person has not given away.
 
@@ -56,6 +56,6 @@ Nobody said the opposite. A man of fifty-six said that a man of twenty-one years
 
 The man of about fifty-five who keeps a building four miles down a lane sent nothing and nobody sent anything to him, and the two chalk lines on the inside of that brick are still there, and the crack is about the length of his hand, and he has still not asked anybody for a fifth mend in four months, and a clerk of nineteen years entered all five of those things at about four in the afternoon and entered that the man who drew two lines on the inside of a tank in the dark is not a clerk of a house and is not on a page and is not a bearer of anything, and that the record about the tank says not asked.
 
-The day came down and the man of about thirty-four who digs loam went up the bank with his arm in a sling and stopped halfway and stood there for about a minute looking at the channel, and the man of about thirty-four who mends fencing stood at the gate and let him, and it was entered that he was let and that nobody asked him to let him and that the record says not asked.
+The day came down and the man of about thirty-one who digs loam went up the bank with his arm in a sling and stopped halfway and stood there for about a minute looking at the channel, and the man of about thirty-four who mends fencing stood at the gate and let him, and it was entered that he was let and that nobody asked him to let him and that the record says not asked.
 
 **AND ON THE TENTH OF THE FIFTH MONTH A MAN OF ABOUT THIRTY-FOUR WHO DIGS LOAM CAME BACK INTO THAT YARD AFTER A DAY OUT OF IT AND SAID THAT A LOCK IS THE ONLY INSTRUMENT IN THIS BASIN THAT HAS NEVER NEEDED A PERSON, AND THAT NINE OF THEM WILL DO IT AGAIN TOMORROW WITHOUT ASKING ANY OF US FOR ANYTHING, AND THAT NOBODY IN THIS DISTRICT HAS BEEN TO LOOK AT ONE OF THEM.**

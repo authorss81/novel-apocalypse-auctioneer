@@ -22,7 +22,7 @@ The registrar of this district's records office was in that yard and had come on
 
 It was entered that the rule was written on the twenty-first of this month in a book four hundred yards from that yard, and that a rule a registrar writes about her own room is not a rule this district voted on, and that it is the only rule in this district anybody has ever written down and enforced, and that a man who would have been protected by it is not protected by it today.
 
-The man of about thirty-four who digs loam said the shape of it in the ordinary voice with his right arm in the sling, and a man of about nineteen counted it and got a hundred and thirty-eight, and it went in the minute in his own words.
+The man of about thirty-one who digs loam said the shape of it in the ordinary voice with his right arm in the sling, and a man of about nineteen counted it and got a hundred and thirty-eight, and it went in the minute in his own words.
 
 "**That is the third column this district has found in a month that is headed with a word and not a name, and the first carried a house nine times and a person no times, and this one carries a man once, and a column is a column, and a man who is in one is not in it because anybody asked him. What is in front of this yard is not that a man has been stolen. It is that a name went off one sheet at a counter on the second of this month and onto a page in a body four hundred miles away that nobody in this district has ever been inside, and nobody told the man whose name it was, and the page says he serves an office he has never been given.**"
 
@@ -32,7 +32,7 @@ Then the man of about thirty-one who mends a dray came into that yard at about h
 
 "**I did the work. I carried a ledger from that room to the counter at the end of the lane and back on the twenty-second, and I did it because the man who keeps that counter was not well and because I was in the room and it was in my arms, and I have carried things for that office nine or ten times since the second of this month and nobody asked me to and I would have carried them anyway. I am not a man of that office. Nobody has ever given me a job in it and nobody has ever paid me a penny of it.**"
 
-The man of about thirty-four who digs loam asked him, in front of about nineteen people, what he thought he was going to get out of saying it in a yard, and the man of about thirty-one answered in twenty-five words, which a man of about nineteen counted, and nobody argued with him.
+The man of about thirty-one who digs loam asked him, in front of about nineteen people, what he thought he was going to get out of saying it in a yard, and the man of about thirty-one answered in twenty-five words, which a man of about nineteen counted, and nobody argued with him.
 
 "**I thought somebody would take my name off it. I was wrong about that, and I knew it was wrong, and I said it anyway.**"
 
@@ -50,7 +50,7 @@ The registrar said then what she was going to do about it, in the ordinary voice
 
 The four lines were written out in the yard in the ordinary voice by the man of about thirty-four who mends fencing, and a clerk of nineteen years wrote them down in her own book and not in the market's, and a man of about nineteen counted the lines and got four, and it was entered that four is a figure and that four is not a page about a man and is not a page about anybody.
 
-A man of about thirty-four who digs loam said that four lines with no name in them is the most this district has ever put on a page about a man, and that it is a page about a man without the man on it, and that he was not going to say what that was, and that a man of fifty-six is not a clerk.
+A man of about thirty-one who digs loam said that four lines with no name in them is the most this district has ever put on a page about a man, and that it is a page about a man without the man on it, and that he was not going to say what that was, and that a man of fifty-six is not a clerk.
 
 The man of about thirty-one said one more thing before he went, and he said it to the yard and not to anybody, and a man of about nineteen counted it and got fifty-eight, and it went in the minute in his own words.
 
@@ -58,7 +58,7 @@ The man of about thirty-one said one more thing before he went, and he said it t
 
 She entered that a man said two nights and that she was not going to put a day of the week on a date in this district, and that a man who has not slept two nights is not a man who has been asked a question and is not in any of the seven lists this district keeps.
 
-The man of about thirty-four who digs loam said the whole of what this yard has now, and it was counted and it came to sixty-two, and it went in the minute in his own words.
+The man of about thirty-one who digs loam said the whole of what this yard has now, and it was counted and it came to sixty-two, and it went in the minute in his own words.
 
 "**A sentence in a man's own words in a yard is the best instrument this district has, and a sentence in a man's own words in a yard is not a page, and the whole of the difference between this district and a body four hundred miles away is that this one can be stood in front of and that one cannot.**"
 

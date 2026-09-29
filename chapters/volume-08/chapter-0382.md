@@ -8,7 +8,7 @@ The tenth of the tenth month came in with the wind off the low ground and about 
 
 A clerk of nineteen years entered that the sheet at that gatepost is four hundred and eleven and did not move, and that the term on that reading is eleven days past and did not renew, and that a rule said out loud in a yard is not a document and did not become a fourth of the three this district does not own.
 
-Before ten the man of about thirty-four who digs loam was in the bottom of that ditch with a bar in his right hand held down at his side, and the man of about thirty-seven who cuts reeds was about nine feet along the same ditch with his hook and his bundle, and neither of those two men said one word to the other all morning.
+Before ten the man of about thirty-one who digs loam was in the bottom of that ditch with a bar in his right hand held down at his side, and the man of about thirty-seven who cuts reeds was about nine feet along the same ditch with his hook and his bundle, and neither of those two men said one word to the other all morning.
 
 ---
 
@@ -58,7 +58,7 @@ Nobody sat in either chair at any point in that day, and that was said out loud 
 
 At about half past three the man the figure of twenty-one years is against asked one question out loud, which was how anybody is supposed to know whether the second person got it right, and two people in that yard said that the second person is the one who knows, and a man who knows whether he got it right is a man doing a check and is not a man being one.
 
-The man of about thirty-four who keeps a road came up that lane at about eleven and again at about four with his boots black to the ankle, read the four figures off the boards both times and got all four, and nobody in that yard asked him about the eleven miles on either occasion and the page in her own hand says not asked. The man of about thirty-seven who puts tables up for anybody who will use them had his hand-cart against the east wall with the tent still rolled on the back of it, and it has not gone up on any day since the thirtieth of the sixth month, and he was given nothing and nobody asked him about the tent, and three people in that yard said that a man who cannot use either hand is the obvious one to ask and he said that a rule is not a pair of hands and that nobody had asked him for either.
+The man of about thirty-four who keeps a road came up that lane at about eleven and again at about four with his boots black to the ankle, read the four figures off the boards both times and got all four, and nobody in that yard asked him about the eleven miles on either occasion and the page in her own hand says not asked. The man of about thirty-two who puts tables up for anybody who will use them had his hand-cart against the east wall with the tent still rolled on the back of it, and it has not gone up on any day since the thirtieth of the sixth month, and he was given nothing and nobody asked him about the tent, and three people in that yard said that a man who cannot use either hand is the obvious one to ask and he said that a rule is not a pair of hands and that nobody had asked him for either.
 
 The man of about twenty-nine who drives a cart was out on that road and did not come up that lane today. That is four days in this week he has not come up it.
 

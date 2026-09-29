@@ -58,7 +58,7 @@ The clerk of nineteen years was at the foot of that bank at about twenty past on
 
 ---
 
-The rest of that afternoon went ordinary and nobody in that yard said one word about a bank for the rest of it. The man of about thirty-four who digs loam was in the bottom of that ditch from about two until about half past four and got his right hand above the level of that shoulder once, for about a second, putting a bar into a stone, and took it straight back down, and nobody in that yard asked him about the second it took.
+The rest of that afternoon went ordinary and nobody in that yard said one word about a bank for the rest of it. The man of about thirty-one who digs loam was in the bottom of that ditch from about two until about half past four and got his right hand above the level of that shoulder once, for about a second, putting a bar into a stone, and took it straight back down, and nobody in that yard asked him about the second it took.
 
 The man of about thirty-four who keeps a road came up that lane at about four with his boots black to the ankle, read the four figures as he went past, got all four, and went on up, and nobody in that yard asked him about the eleven miles and nobody in that yard said one word to him about a bank. The man of about thirty-seven who cuts reeds was in that ditch with his hook and his bundle until about half past four. The man who puts tables up for anybody who will use them was at the east wall with his cart and was given nothing.
 

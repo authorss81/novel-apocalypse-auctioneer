@@ -1,6 +1,6 @@
 # Chapter 412: What a Man Four Hundred Miles Off Would Do With It
 
-The man of about thirty-seven who puts tables up for anybody who will use them put his palm flat on the stone at the corner of that book and left it there. A man with a bad hand came and stood at the other end of the same table. Neither of them said anything for the first minute.
+The man of about thirty-two who puts tables up for anybody who will use them put his palm flat on the stone at the corner of that book and left it there. A man with a bad hand came and stood at the other end of the same table. Neither of them said anything for the first minute.
 
 It was the tenth of the eleventh month and about half past nine. By ten there were about nineteen people in the yard of Lot Seventeen.
 
@@ -62,7 +62,7 @@ The man of about forty-eight who keeps a tally, and has said of himself that he 
 
 ---
 
-The man of about thirty-seven who puts tables up went round the end of that trestle table at about half past twelve and crouched down. He put his fingers round the leg nearest the boards and worked it up and down about an inch, twice, and then sat back on his heels.
+The man of about thirty-two who puts tables up went round the end of that trestle table at about half past twelve and crouched down. He put his fingers round the leg nearest the boards and worked it up and down about an inch, twice, and then sat back on his heels.
 
 "The leg is sound," he said. "It has been sound since the seventh of the seventh month, and it is the only thing about that table I would put a hand on without being asked."
 
@@ -96,7 +96,7 @@ At about two the road keeper came up that lane, got the four figures off that wa
 
 ---
 
-What went on there for the rest of the afternoon was the same as it goes on every day of this month, and nothing in it was a decision anybody made. The man of about thirty-four who digs loam was in that ditch before nine and came up out of it about ten. He got the four figures at the end of that table and went back down the bank, and that right arm of his stayed below the level of that shoulder all day. The man of about thirty-seven who cuts reeds was in that ditch until about half past four, came up it wet to the chest, and was not asked about anything. The man who puts tables up went back to the east wall with his hand-cart at about two. He did not put the tent up and he did not take the table down, nobody asked him about the tent, and he was given nothing. A man of about sixty-four was at the foot of the low wall from about ten with his coat folded on the stones beside him and nothing in his hands. Nobody there offered him a chair, a page or a figure, and the record about the not offering says nothing was asked and nothing was given.
+What went on there for the rest of the afternoon was the same as it goes on every day of this month, and nothing in it was a decision anybody made. The man of about thirty-one who digs loam was in that ditch before nine and came up out of it about ten. He got the four figures at the end of that table and went back down the bank, and that right arm of his stayed below the level of that shoulder all day. The man of about thirty-seven who cuts reeds was in that ditch until about half past four, came up it wet to the chest, and was not asked about anything. The man who puts tables up went back to the east wall with his hand-cart at about two. He did not put the tent up and he did not take the table down, nobody asked him about the tent, and he was given nothing. A man of about sixty-four was at the foot of the low wall from about ten with his coat folded on the stones beside him and nothing in his hands. Nobody there offered him a chair, a page or a figure, and the record about the not offering says nothing was asked and nothing was given.
 
 A clerk of nineteen years entered that the bid has stood open seventy days and was not run today, and that the two lines in that lot book are the same two lines that were on the face of it on the thirteenth of the tenth month. Neither of them has been altered. The first day of the eighth month is a hundred days past, and nobody has said out loud what the ladder was for. The rule said out loud in that yard on the tenth of the tenth month is thirty days standing, and no bell was pulled today and no night was named. The figure on the second line of that lot book is twenty-five days out of date, was not altered, and has nothing written beside it. There is no second figure. The six households of the man at the far end have not moved for two hundred and two days, and he was not asked for the figure on any day this month. The column for the name of whoever read a thing out loud was empty at about six, and the word unchecked is still in the margin of a clerk's page, and it is still over nothing.
 

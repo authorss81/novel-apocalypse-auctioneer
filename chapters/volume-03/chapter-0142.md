@@ -6,7 +6,7 @@ The board outside the room had the twenty-fourth of November on it in a hand tha
 
 A man of fifty-six put it in the minute in those words and a clerk of nineteen years entered that she had entered the word *watch* on the strength of nine pairs of eyes and not eleven, and that the difference of two is not a finding, and that a man who counts what people have come to watch has started a column this district does not have and will not have.
 
-Nobody argued with her and a man of about thirty-four who mends fencing said that the two who were not watching were a man of about thirty-four who digs loam and does nine days of it in ten, and a woman of fifty-eight who carries water, **and that both of them had come to say something and that the room would find out what it was in about an hour and would not find out anything.**
+Nobody argued with her and a man of about thirty-four who mends fencing said that the two who were not watching were a man of about thirty-one who digs loam and does nine days of it in ten, and a woman of fifty-eight who carries water, **and that both of them had come to say something and that the room would find out what it was in about an hour and would not find out anything.**
 
 It did not find out. A clerk of nineteen years entered at the end of the day that neither of them said anything, that she was asked in the six things at the end and both of them said no, and in the same words, and neither of them said what the words were, and that the not-asking is entered and the count is where it was, and that the man who digs loam is the fourth of the six who hold the ledger and is the one who will have to fill the page.
 

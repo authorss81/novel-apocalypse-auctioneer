@@ -82,7 +82,7 @@ The second is a page in the ward market's own book with four entries on it, and 
 
 Nobody took that up and a man of fifty-six said that three instruments in one yard and not one of them about water, and that the water is in the first week of the second month and is a mile and a bit long at the top of a road, **and that the count of instruments this district has built and not named is six and did not move, and that a page is not a sluice and a sluice is not a page, and that a district that has spent eleven weeks naming its own paper has a mile of standing water it cannot see.**
 
-Then the man of about thirty-four who digs loam and does nine days of it in ten came into the yard at about half past three in the afternoon and had sent word in the first of January that he would start again in January, and a clerk of nineteen years entered that he came and that he was not asked why he had not come before and that the not-asking is entered and the count is where it was.
+Then the man of about thirty-one who digs loam and does nine days of it in ten came into the yard at about half past three in the afternoon and had sent word in the first of January that he would start again in January, and a clerk of nineteen years entered that he came and that he was not asked why he had not come before and that the not-asking is entered and the count is where it was.
 
 He said one thing about the four dates on a bucket, and it is in the minute in his own words and it is thirty words, and a clerk of nineteen years counted them once and got thirty and did not count them again.
 
@@ -90,7 +90,7 @@ He said one thing about the four dates on a bucket, and it is in the minute in h
 
 Nobody took it up and a man of fifty-six said that a man who fills a page for nothing has just told the yard that the two best instruments in this district are not instruments, and that the district has six that it has built and not named and that a bucket is not going to be a seventh because a bucket belongs to a woman, **and that a sheet and a frame and a nail and a bucket and a page are five things in this district that a person can go and look at and that the count of instruments it has built and not named did not move and is six.**
 
-A clerk of nineteen years entered that the count of protected things is five and did not move and that a passage twice, a loss once, a failure of a remedy once and a refusal to be asked again once are the five, and that nobody added a sixth in January, and that the man of about thirty-four who digs loam and does nine days of it in ten is in none of the five and did not go in one by coming into a yard.
+A clerk of nineteen years entered that the count of protected things is five and did not move and that a passage twice, a loss once, a failure of a remedy once and a refusal to be asked again once are the five, and that nobody added a sixth in January, and that the man of about thirty-one who digs loam and does nine days of it in ten is in none of the five and did not go in one by coming into a yard.
 
 **AND THERE ARE THREE PAGES IN THIS DISTRICT AND NOT ONE OF THEM IS ABOUT WATER, AND THE COUNT OF INSTRUMENTS BUILT AND NOT NAMED IS SIX AND DID NOT MOVE, AND THE COUNT OF THINGS THE DISTRICT DOES NOT HAVE IS FIVE AND DID NOT MOVE, AND A NAIL IN A SHED IS NOT A BOARD AND THE COUNT OF BOARDS IS FIVE AND THE COUNT OF LINES IS SIX AND THE SEVENTH LINE AT THE NINTH PLACE IS RULED AND EMPTY.**
 

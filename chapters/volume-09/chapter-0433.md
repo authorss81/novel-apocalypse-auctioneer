@@ -36,7 +36,7 @@ The man of about thirty-four who mends fencing was at that end of the table thro
 
 "That is the first check anybody has run in this district since the middle of the sixth month, and it is the only one of the two figures this yard has ever had that anybody could have got wrong."
 
-Somebody in the middle of that ground said that nothing had been got wrong. The mender said yes, and that was the whole of what he was going to say about it, and the man of about thirty-four who digs loam was in that ditch and did not come up and did not say one word.
+Somebody in the middle of that ground said that nothing had been got wrong. The mender said yes, and that was the whole of what he was going to say about it, and the man of about thirty-one who digs loam was in that ditch and did not come up and did not say one word.
 
 Then the clerk of nineteen years said out loud at that table, to the yard and not to the boy, that a figure somebody has entered because they had to enter one is not a promise about a later day, and that she had written that sentence on the eighteenth of the sixth month and was writing it again, and that the second time a clerk writes a sentence is a habit and a habit is a finding, and she was entering that she had a habit.
 
@@ -58,7 +58,7 @@ Nobody said anything about that. The clerk of nineteen years entered that a figu
 
 ---
 
-At about two the man of about thirty-seven who puts tables up came off that east wall and asked her a question and she answered it in one breath. He asked her whether the word was still in her margin. She said it was.
+At about two the man of about thirty-two who puts tables up came off that east wall and asked her a question and she answered it in one breath. He asked her whether the word was still in her margin. She said it was.
 
 "Thirty-two days."
 

@@ -36,7 +36,7 @@ Nobody wrote that down. She entered that a man asked a question there and was an
 
 ---
 
-At about half past ten the man of about thirty-four who digs loam came up out of that ditch with the water to his thigh and got the four figures at that end of the table and said the word with them four times. That right arm of his did not go above the level of that shoulder at any point in that morning, and two people noticed it and neither of them said a word.
+At about half past ten the man of about thirty-one who digs loam came up out of that ditch with the water to his thigh and got the four figures at that end of the table and said the word with them four times. That right arm of his did not go above the level of that shoulder at any point in that morning, and two people noticed it and neither of them said a word.
 
 He said one thing up that bank at about eleven and it was not addressed to anybody.
 
@@ -48,7 +48,7 @@ At about a quarter to eleven the man the figure of twenty-one years is against c
 
 ---
 
-The man of about thirty-seven who puts tables up came off that east wall at about ten and put his hand-cart down against the low wall and came and stood at the end of that table, and about nine people were within four feet of him.
+The man of about thirty-two who puts tables up came off that east wall at about ten and put his hand-cart down against the low wall and came and stood at the end of that table, and about nine people were within four feet of him.
 
 "You have got nothing in your hands," said the man of about thirty-four who mends fencing.
 

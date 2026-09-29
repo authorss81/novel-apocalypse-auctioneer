@@ -28,7 +28,7 @@ The woman of about thirty-six who keeps a scale came down that bank at about hal
 
 A clerk of nineteen years entered that a woman said a thing out loud in that yard and entered the thing, and entered that she is not entering it as a finding about the column and entered the reason, which is that a column is either filled or it is not and a reason is neither of those, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice and about nine people heard all of it and he said nothing at the end of the third one and went and sat down on the low step.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice and about nine people heard all of it and he said nothing at the end of the third one and went and sat down on the low step.
 
 The man of about thirty-seven who cuts reeds was at the end of that second table from about ten and put his own mark in chalk on the edge of that table at about a quarter past eleven in the ordinary way and said nothing at all, and there are fifty-one of them in a row going back to the ninth day of the last volume. A clerk entered that he was there and entered that nobody asked him whether he would hold that column either and entered the reason.
 

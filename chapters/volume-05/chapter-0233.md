@@ -30,7 +30,7 @@ The man of about thirty-four who mends fencing said the thing about it out loud 
 
 "**A sheet that numbers four places and a man at the top of a road are two things about the number four, and the number four is not a place and four is not a finding. I am not going to be the man who puts this yard in a column and a house nine miles up in the same column because two of them are the same number.**"
 
-The man of about thirty-four who digs loam refused the join in the plain voice and it was the seventh refusal of that join in this district, and a man of about nineteen counted it and got seventy-nine, and it went in the minute in his own words.
+The man of about thirty-one who digs loam refused the join in the plain voice and it was the seventh refusal of that join in this district, and a man of about nineteen counted it and got seventy-nine, and it went in the minute in his own words.
 
 "**A toll on a gate and a man walking down a road in the cold are two things about two different arrangements, and a man who has walked four hours to tell us his house has not signed has not refused a toll and has not accepted a toll and has not been asked about a toll, and a seventh is a seventh with seven people watching it and the number of people watching it is not a reason.**"
 
@@ -48,7 +48,7 @@ Then the man of about thirty-four who mends fencing said that the yard ought to 
 
 The man of about twenty-three who sells nothing and copies for nothing was at the back of that yard from about one and did not come nearer the table than the edge of it, and the man of about thirty-four who mends fencing read the sheet out again for about nine people who had come in after one and got nothing wrong the second time either, and the clerk entered that the sheet has now been read out in that yard twice and that a sheet read out in a yard is not a sheet anybody in that yard has agreed to.
 
-The man of about thirty-four who digs loam disagreed with something that arrived in the yard at about two in the afternoon and that nobody had asked for, and the clerk entered that nobody in that yard asked for it and that she wrote down what it said and not what anybody thought of it.
+The man of about thirty-one who digs loam disagreed with something that arrived in the yard at about two in the afternoon and that nobody had asked for, and the clerk entered that nobody in that yard asked for it and that she wrote down what it said and not what anybody thought of it.
 
 > **A TOLL ATTACHED TO A GATE ATTACHES TO THE PARTY NAMED AGAINST IT. WHERE THERE IS NO PARTY NAMED, THE TOLL ATTACHES TO NOTHING.**
 >

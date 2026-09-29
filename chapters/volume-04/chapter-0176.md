@@ -50,7 +50,7 @@ The second of the four printed things says that the named person shall not be be
 
 Nobody argued. A man of fifty-six said that this district has had both of those sentences in front of it for a month and has spent the month on the fourth of the four printed things and on the fourth of the five terms, and that the two sentences about a child are the two nobody has read out loud, **and that a sheet which says a named person shall not be below fifteen and carries the name of a person of nine has been broken by the hand that wrote the name and not by the person it names.**
 
-A man of about thirty-four who digs loam said that a man at a counter who fills a column in about eleven seconds without asking a man of forty-five anything has this district's own sentence on the face of the paper and is working from both ends of it at once, **and that a rule which looks like protection and can be turned into a way of not asking anybody is doing the same work from both sides, and that this district wrote that down on the seventeenth of January and has not done anything with it since.**
+A man of about thirty-one who digs loam said that a man at a counter who fills a column in about eleven seconds without asking a man of forty-five anything has this district's own sentence on the face of the paper and is working from both ends of it at once, **and that a rule which looks like protection and can be turned into a way of not asking anybody is doing the same work from both sides, and that this district wrote that down on the seventeenth of January and has not done anything with it since.**
 
 A clerk of nineteen years entered that the two facts are that the sheet says the named person shall not be below fifteen and that the name in the column is the name of a person of nine, and that the two are in one line and are joined, and that the finding of the sixteenth of the second month is about a house and is not about a boy.
 
@@ -70,7 +70,7 @@ A man of fifty-six asked him why not, and he gave the reason in a sentence that 
 
 Nobody took that up. A clerk of nineteen years entered that the page records a person in a building on the day they arrive, and that a boy standing in a yard is not a person in a building, **and that a man who has been writing days in his own book since the fourth of the second month and has been asked once to put a name in it has said no, and that the no is entered and is not a refusal of a rule and is not a refusal of the boy.**
 
-A man of about thirty-four who digs loam said that a man keeping a page for nine years with a column and about forty names and a space the width of a finger beside every one of them has just declined the only thing anybody in this district has offered him, **and that the offer was a name, and that the district keeps offering people names as though names were the thing they have been short of.**
+A man of about thirty-one who digs loam said that a man keeping a page for nine years with a column and about forty names and a space the width of a finger beside every one of them has just declined the only thing anybody in this district has offered him, **and that the offer was a name, and that the district keeps offering people names as though names were the thing they have been short of.**
 
 A man of fifty-six said that a sheet a stranger can look at is worth something and that a name a person has not asked to have written anywhere is worth more, **and that those two sentences have been in this yard since the eighth of March and have never once been said in the same breath, and that the reason is that one of them was said by this district and the other one was said by a man of about fifty-five in a lane and neither of them has been entered together.**
 
@@ -94,7 +94,7 @@ Then the thing nobody had offered, and it came out of the yard in about nine sec
 
 "**The house's own counter says a man may take his name off a sheet. That is on the counter in front of a nail. Nobody has ever told this boy that.**"
 
-The yard did not argue with that. A man of about thirty-four who digs loam said that a right a person does not know they have is not a right, and that this district has spent eleven weeks learning the shape of a sheet and has not once handed the shape to the person standing in front of it.
+The yard did not argue with that. A man of about thirty-one who digs loam said that a right a person does not know they have is not a right, and that this district has spent eleven weeks learning the shape of a sheet and has not once handed the shape to the person standing in front of it.
 
 A man of fifty-six said that a boy of nine cannot be given a form and cannot be asked to sign one and cannot be walked thirty-four miles to a counter to be shown a line, and that the only person in this district who could put a sheet in front of that boy is the woman he came with, and that she has not done it and was not asked why.
 
@@ -122,7 +122,7 @@ The day was named at about half past two in the afternoon by the woman of about 
 
 A clerk of nineteen years entered that the day is the twenty-ninth of December and that it is forty-nine days before the sixteenth of the second month, and that the claim did not pass, and that the only reason it did not pass is that nobody did anything, **and that a sheet in a pocket is not a book and a man of about twenty-three who keeps the copy is not a record, and that the count of documents nobody owns is three and did not move on the sixteenth of the second month.**
 
-A man of about thirty-four who digs loam said that the day was on the copy in a corner in a hand that is not the mother's and not the counter's and not the house's, and that the hand has still not been looked at by anybody in this district, **and that a hand in a corner on a copy kept by a man who is not paid and does not own it is the only evidence in this district's business that anybody exists, and that it is a hand and not a person.**
+A man of about thirty-one who digs loam said that the day was on the copy in a corner in a hand that is not the mother's and not the counter's and not the house's, and that the hand has still not been looked at by anybody in this district, **and that a hand in a corner on a copy kept by a man who is not paid and does not own it is the only evidence in this district's business that anybody exists, and that it is a hand and not a person.**
 
 Nobody took that up. A man of fifty-six said that a hand is not a person and may not be entered as one, and that the district wrote that down in the ninth week of January about a mark on a page in a book and has not stopped writing it down, **and that the count of things this district does not have is five and did not move, and that a hand in a corner is not one of the five and is not a sixth.**
 

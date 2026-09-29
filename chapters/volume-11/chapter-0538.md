@@ -32,7 +32,7 @@ The man of about thirty-four who mends fencing said one thing out loud at about 
 
 About nine people at the near end of that first table have said since that a man who has spent a month asking this yard questions said out loud this afternoon that he stopped asking one on purpose, and that about four of them have said that a man at that wall has now told a yard twice that he is not going to be the one who hands anybody a number, and that the two of those are the same sentence said by two men four weeks apart. A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that she is not joining those two sentences, and the record about the not asking says not asked.
 
-The man of about thirty-seven who puts tables up was at the end of that second table at about eleven and said one thing out loud, in about four seconds, to about nine people, and the boy counted it and got seventy-four and read the number back to himself in a low voice.
+The man of about thirty-two who puts tables up was at the end of that second table at about eleven and said one thing out loud, in about four seconds, to about nine people, and the boy counted it and got seventy-four and read the number back to himself in a low voice.
 
 "**Nobody is going to hold anything on that morning. A table is not a stand and a man is not a weight for a page. I put the second one up in about eleven minutes six volumes ago and I have watched four people put things on it since and the only one of them who is still there is a sheet of paper with a line on it that nobody has filled in.**"
 

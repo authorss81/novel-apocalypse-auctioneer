@@ -88,7 +88,7 @@ And the road keeper said one thing out loud at about three that about four peopl
 
 Nobody asked him which two. Neither of the two was named out loud, and nobody there said one word about it again that day, and it stayed that way, which was not unusual and which is the only reason a district like this one is still standing.
 
-Then the man of about thirty-seven who puts tables up for anybody who will use them said one thing out loud at the east wall, to about four of them and not to anybody else, and his hand-cart was behind him with the tent still rolled on the back of it where it has been since the thirtieth of the June.
+Then the man of about thirty-two who puts tables up for anybody who will use them said one thing out loud at the east wall, to about four of them and not to anybody else, and his hand-cart was behind him with the tent still rolled on the back of it where it has been since the thirtieth of the June.
 
 "**A table with four legs out of a door is a table until somebody asks somebody a question at it, and nobody has asked anybody a question at that table in six months, and I put the second chair at the end of it on the eighth of this month and I have not been asked about it once since, and I am not going to be asked, and that is the end of what I know about that table.**"
 
@@ -96,7 +96,7 @@ About four people said out loud that a table with four legs standing in the open
 
 ---
 
-The rest of that day went ordinary. The man of about thirty-four who digs loam was in that ditch before nine and stood on the bank at about ten with the water to his thigh. He went back in after lunch and was still in it at about half past four. His right hand did not go above the level of that shoulder at any point in this day, and nobody asked him about it. The road keeper came up that lane at about eleven and again at about four, read the four figures both times, got all four both times, and nobody there said one word to him about a month or about a figure going out of date.
+The rest of that day went ordinary. The man of about thirty-one who digs loam was in that ditch before nine and stood on the bank at about ten with the water to his thigh. He went back in after lunch and was still in it at about half past four. His right hand did not go above the level of that shoulder at any point in this day, and nobody asked him about it. The road keeper came up that lane at about eleven and again at about four, read the four figures both times, got all four both times, and nobody there said one word to him about a month or about a figure going out of date.
 
 The reed cutter came up the bank at the end of that afternoon with his hands white to the knuckle and stood at the top of it for about a minute before he went. About four people said good evening to him as he went up the lane and he said good evening back, and nobody said one word to him about the second line of that lot book, and he was not asked about it.
 

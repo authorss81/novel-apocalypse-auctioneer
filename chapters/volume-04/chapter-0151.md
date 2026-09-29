@@ -22,13 +22,13 @@ Nobody took it up for about nine seconds. Then a woman of about thirty-three who
 
 A man of fifty-six said that the two sentences are the whole of the problem and that neither of them is about a date. **And a clerk of nineteen years entered that the count of entries carrying a finding in them since the eighteenth of December is two, that the first is hers, that the second is the room's, and that she entered the count before she wrote the line and not after.**
 
-A man of about thirty-four who digs loam and does nine days of it in ten was in the room, and he had come the two miles twice in a month and a half and had not been asked to, and he said that a room that meets because a board says so is a room that meets on somebody else's ink, and that the woman who wrote the first three dates is not a clerk of this room and was never made one.
+A man of about thirty-one who digs loam and does nine days of it in ten was in the room, and he had come the two miles twice in a month and a half and had not been asked to, and he said that a room that meets because a board says so is a room that meets on somebody else's ink, and that the woman who wrote the first three dates is not a clerk of this room and was never made one.
 
 Nobody argued with him, and a man of fifty-six said that nobody was going to ask her to take it and that she said in December that she is not going to say why she writes in a hand that cannot be read, **and that a clerk of the ward market asked her the same question on the second of December and she gave the same answer, and that the two occasions are not joined.**
 
 Of the six who hold the ledger, two came. A clerk of nineteen years entered that four of the six did not come and that nobody asked them why, **and that the six are not a column and a number on them would have been a column and a column is a thing a person is paid for.**
 
-The two that came were the man of about thirty-four who digs loam and the man of about nineteen who walked in from the road, and they did not speak to each other before the noon hour, **and a clerk of nineteen years entered both of those things and entered that she had not asked either of them why and that the not-asking is entered and the count is where it was.**
+The two that came were the man of about thirty-one who digs loam and the man of about nineteen who walked in from the road, and they did not speak to each other before the noon hour, **and a clerk of nineteen years entered both of those things and entered that she had not asked either of them why and that the not-asking is entered and the count is where it was.**
 
 The man the figure of twenty-one years is against was in the room for an hour and a half and was not asked to speak, and a clerk of nineteen years entered that this is the second time in a fortnight a man who can be found has been in a room and let, **and that the first was on the eighteenth of December and that the two are not joined and that she is not going to join them.**
 
@@ -62,7 +62,7 @@ He wrote the word ROOM and four lines under it, and the four lines were about el
 
 **AND A STRANGER ASKED AT ABOUT ELEVEN IN THE MORNING ON THE TWENTY-FOURTH OF DECEMBER WHAT THE ROOM WAS FOR, AND FOUR PEOPLE GAVE FOUR ANSWERS IN ABOUT NINE MINUTES, AND HE WROTE THE FIRST ONE DOWN ON THE BACK OF THE FOURTH TOLL BOARD, AND THE COUNT OF BOARDS IS FIVE AND DID NOT MOVE AND THE COUNT OF LINES IS SIX AND DID NOT MOVE AND THE SEVENTH LINE AT THE NINTH PLACE IS RULED AND EMPTY.**
 
-Nobody took it up and a man of about thirty-four who digs loam said that the district's own instrument is a page of six columns and eleven rows on a trestle table and that it is a better description of a year than this plank is of a room, **and that the two are two things and that a stranger holding both in the same afternoon has not been given one of them twice.**
+Nobody took it up and a man of about thirty-one who digs loam said that the district's own instrument is a page of six columns and eleven rows on a trestle table and that it is a better description of a year than this plank is of a room, **and that the two are two things and that a stranger holding both in the same afternoon has not been given one of them twice.**
 
 ---
 
@@ -72,7 +72,7 @@ He gave the reason and it is in the minute in his own words: the fourth date is 
 
 A clerk of nineteen years entered that the board was not washed and that a man of fifty-six said out loud that it would not be, and that a rule a man says out loud against his own advantage in a room is not written down, **and that she was asked whether to write it down and he said no in four seconds, and that the asking is entered and the count is where it was.**
 
-The man of about thirty-four who digs loam said the other half, and it is in the minute in his own words.
+The man of about thirty-one who digs loam said the other half, and it is in the minute in his own words.
 
 "**Leave it up. A man who cannot read it will ask me what it says and that is the point of a board.**"
 
@@ -104,7 +104,7 @@ The train on the siding had stood three hundred and sixteen days on the twenty-f
 
 Add thirty to two hundred and one and it is two hundred and thirty-one, and thirty-one more is two hundred and sixty-two, and thirty more is two hundred and ninety-two, and the first of December is two hundred and ninety-three, **and the twenty-fourth is the twenty-third day after the first, so two hundred and ninety-three and twenty-three is three hundred and sixteen, and the thirty-first of December is three hundred and twenty-three, and the day after that is three hundred and twenty-four, and that day is in the month after this one and the month has a name and nobody in this yard uses it before it comes.**
 
-A man of about thirty-four who digs loam said again that a man who does a sum in front of strangers is not checking a number and is teaching it, and that he said in December that he would stop saying it in December and start again in January, and that it is still the twenty-fourth of December and that he has not started.
+A man of about thirty-one who digs loam said again that a man who does a sum in front of strangers is not checking a number and is teaching it, and that he said in December that he would stop saying it in December and start again in January, and that it is still the twenty-fourth of December and that he has not started.
 
 Nobody asked him, and a clerk of nineteen years entered that he had said it and that nobody was asked, **and that beside the index there are six dates on one line and a rule under the sixth and no seventh date, and that the count of readings is one for April, none for May, one for the twenty-ninth of June, one for the sixth of September, one for the ninth of October and one for the third of November, and that the refusals to read are nine.**
 

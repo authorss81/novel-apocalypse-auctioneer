@@ -8,11 +8,11 @@ The man of about thirty-four who mends fencing gave the figures and the man of f
 
 "**A hundred and thirty-one days on the board and four hundred and forty-seven days on the train, and the days nobody has entered since the twenty-fourth of November stand at a hundred and sixty-one, and the twelfth of this month is eight days off, and there is a lock on a barrow at the end of this yard and nobody in this district has ever read one in a street.**"
 
-It had been in the channel at the sluice end of the loams for longer than the man of about thirty-four who digs loam has dug beside it. It came out of that channel at about seven in the morning onto a barrow with two men on the shafts, and it is a frame of cast iron about four feet high with a screw through the middle of it and a long handle on the top of the screw and a pin through the screw where the handle meets it, and a sill at the bottom of it with a notch cut in the sill. It weighs about a hundred and ninety pounds.
+It had been in the channel at the sluice end of the loams for longer than the man of about thirty-one who digs loam has dug beside it. It came out of that channel at about seven in the morning onto a barrow with two men on the shafts, and it is a frame of cast iron about four feet high with a screw through the middle of it and a long handle on the top of the screw and a pin through the screw where the handle meets it, and a sill at the bottom of it with a notch cut in the sill. It weighs about a hundred and ninety pounds.
 
 It went up the bank in about eleven minutes with the gate shut behind the barrow and the man who digs loam at the near shaft and the man of about thirty-four who mends fencing at the far one, and it was put down at the end of the trestle table, and the barrow was not a figure and is not one of the six instruments this district built and not named and did not become a seventh.
 
-It was asked, and by a man of fifty-six in the six things, in front of about nineteen people, who had asked for it, and the answer was that the man of about thirty-four who digs loam had asked for it, because the lock stands four feet from where he has been standing for nine years and he is the only man in this district who knows where the two ends of that channel are.
+It was asked, and by a man of fifty-six in the six things, in front of about nineteen people, who had asked for it, and the answer was that the man of about thirty-one who digs loam had asked for it, because the lock stands four feet from where he has been standing for nine years and he is the only man in this district who knows where the two ends of that channel are.
 
 He gave the reason and a man of about nineteen counted it and got eighty, and it went in the minute in his own words.
 
@@ -54,7 +54,7 @@ The man of about thirty-four who mends fencing read the second sheet with the ch
 
 The woman of fifty-eight came down the bank at about half past one with two buckets and put them down where she puts them, and nobody in that yard asked her anything about a barrow or about a hundred and ninety pounds, and the clerk entered that nobody asked her and that the record says not asked.
 
-The man of about thirty-four who digs loam put his right arm back into the sling at about half past eleven without being asked and without saying anything about it, and the man of about thirty-four who mends fencing saw him do it and asked him about it in his own words, and the answer was counted and came to eighty-three.
+The man of about thirty-one who digs loam put his right arm back into the sling at about half past eleven without being asked and without saying anything about it, and the man of about thirty-four who mends fencing saw him do it and asked him about it in his own words, and the answer was counted and came to eighty-three.
 
 "**That barrow went up a bank in about eleven minutes at the near shaft and I am fifty-eight pounds of a man and I was fine at the bottom of it and I am not fine now. Do not write that down as a complaint. Write down that a barrow with a hundred and ninety pounds on it goes up a bank at the near shaft and the man at the near shaft is the one who pays for it in the shoulder.**"
 

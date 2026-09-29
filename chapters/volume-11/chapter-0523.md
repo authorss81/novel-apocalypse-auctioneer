@@ -24,7 +24,7 @@ The man of about forty-eight who keeps a tally, who has stood at the east end of
 
 About nine people at the east end of that yard have said since that a man who keeps a tally in this district for about thirty years has now said three whole things out loud in that yard in about a fortnight, and that all three of them have been about this district not having something, and that about four of them have said that a man who has kept a tally for thirty years is the last person anybody would expect to be the one who notices a question nobody has asked. A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that he was not asked for it.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got forty and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got forty and read the number back to himself in a low voice.
 
 "**You have all got that wrong and I am the only one in this yard who can, and I am not going to say it, and I want it entered that I was asked by nobody and I said no.**"
 

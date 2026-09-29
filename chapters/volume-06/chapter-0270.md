@@ -28,7 +28,7 @@ She entered that the man of about thirty at a counter is at the sixteenth time d
 
 The woman of about thirty-six who keeps a scale was at the far end of the trestle table at about eleven with her sleeves turned up and told the man of about thirty-four who mends fencing that her four empty houses were still standing and were not going to be offered again before the first day of the season after this one, and a clerk of nineteen years entered that she said it before she was asked and that a woman who keeps houses is not a clerk of a house, and that the four houses were not added to the eleven of the woman of fifty-eight, and that nobody in this yard asked her why.
 
-Then the man of about thirty-four who digs loam put his right hand flat on the end of the trestle table to turn the board over and could not get his fingers under the edge of it, and he did it with two fingers of the same hand a minute later, and a clerk entered that a man whose hand has not been right since the ditch behind the building with two doors on the eleventh of this month has not been asked about it by anybody in that yard and that the record about the two fingers says not asked.
+Then the man of about thirty-one who digs loam put his right hand flat on the end of the trestle table to turn the board over and could not get his fingers under the edge of it, and he did it with two fingers of the same hand a minute later, and a clerk entered that a man whose hand has not been right since the ditch behind the building with two doors on the eleventh of this month has not been asked about it by anybody in that yard and that the record about the two fingers says not asked.
 
 ---
 

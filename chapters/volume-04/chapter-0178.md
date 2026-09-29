@@ -16,13 +16,13 @@ A man of fifty-six said that the eleven minutes a clerk of nineteen years counte
 
 A clerk of nineteen years entered that the man of about fifty-five gave the day out of his own book without being asked for it and that she is not going to put a number on that, **and that the days before the fourth of the second month are not in the page and are not in any other page and are not in any book in this district, and that about forty names on that page are forty absences and that a day which is absent is not a day of zero and cannot be given to anybody.**
 
-A man of about thirty-four who digs loam said that a man who cannot say whether his brother was here on the thirteenth has not failed at anything, **and that the reason he cannot is that nobody asked him to write it until the fourth of the second month and that the failure belongs to the fourth of the second month and not to the man.**
+A man of about thirty-one who digs loam said that a man who cannot say whether his brother was here on the thirteenth has not failed at anything, **and that the reason he cannot is that nobody asked him to write it until the fourth of the second month and that the failure belongs to the fourth of the second month and not to the man.**
 
 **AND ON THE EIGHTEENTH OF THE SECOND MONTH A MAN OF ABOUT FORTY-FIVE CAME DOWN A LANE LOOKING FOR A MAN OF ABOUT FORTY-ONE AND THE MAN OF ABOUT FIFTY-FIVE TOLD HIM THE FOURTEENTH OF THE SECOND MONTH OUT OF HIS OWN BOOK, AND HE COULD NOT SAY THE THIRTEENTH, AND THE THIRTEENTH IS NOT IN ANY PAGE ANYWHERE.**
 
 ---
 
-The man of about thirty-four who digs loam went and looked at the crack before he said anything else about it, and came back and said that it is about two feet long and about the width of a hand and that the water goes out of it at about the rate of a thumb moved twice in the morning, **and that he has put loam and stone in it twice and it has not held and that a thing a man mends twice and does not hold is a thing that wants a different man and that a different man costs money nobody has.**
+The man of about thirty-one who digs loam went and looked at the crack before he said anything else about it, and came back and said that it is about two feet long and about the width of a hand and that the water goes out of it at about the rate of a thumb moved twice in the morning, **and that he has put loam and stone in it twice and it has not held and that a thing a man mends twice and does not hold is a thing that wants a different man and that a different man costs money nobody has.**
 
 Nobody took that up. A man of fifty-six said that a stone tank with a crack in it is a lot with a condition and that a lot with a condition is a thing this district has a word for, **and that the word is condition and it is a word about a thing and not about a person, and that a man who keeps a building with a crack in the tank is a man who has a thing with a condition on it and is not a bearer of it.**
 
@@ -38,7 +38,7 @@ A man of fifty-six asked him, in the six things, what happens to the day when th
 
 "**The page says a person comes in on a day. It does not say a person goes out on one, and I did not write the heading, and I wrote it in the fourth year.**"
 
-Nobody took that up. A man of about thirty-four who digs loam said that a man who wrote a heading himself in the fourth year is the only person in this district whose own words are the instrument and that nobody is allowed to argue with, **and that a heading a man wrote himself is the last thing anybody is going to get changed and the first thing anybody is going to need changed.**
+Nobody took that up. A man of about thirty-one who digs loam said that a man who wrote a heading himself in the fourth year is the only person in this district whose own words are the instrument and that nobody is allowed to argue with, **and that a heading a man wrote himself is the last thing anybody is going to get changed and the first thing anybody is going to need changed.**
 
 A clerk of nineteen years entered that the heading is three sentences long and has been on that page since the fourth year and is not reprinted here, and that it is in the minute of the fourth of January in this district's own hand, **and that a man of about fifty-five said in a yard in the fourth month of the year that he had never once written a day and that he has now written one every day since the fourth of the second month, and that the two of those are the same man and the two occasions are not a column.**
 
@@ -58,7 +58,7 @@ A clerk of nineteen years entered that a day in a space in a page in a building 
 
 A man of fifty-six said that a building which can say who was in it and on what day is a building which can be asked, and that a building which can be asked can be refused, **and that nobody in this district has thought about what a building says when it is asked, and that the answer is that it says whatever is in the book the man keeps, and that a man who keeps nine years of names in a drawer in a room nobody owns has just become a party.**
 
-Nobody argued. A man of about thirty-four who digs loam said that a man who has become a party is a man who can be asked about a person and has to answer, and that a man who is asked about a person and answers is a witness, **and that a witness is not a bearer and is not a holder and is not a responsible party, and that the district's own list of things an address is not has a man in it now and the man is not an address.**
+Nobody argued. A man of about thirty-one who digs loam said that a man who has become a party is a man who can be asked about a person and has to answer, and that a man who is asked about a person and answers is a witness, **and that a witness is not a bearer and is not a holder and is not a responsible party, and that the district's own list of things an address is not has a man in it now and the man is not an address.**
 
 A man of fifty-six said that a man who keeps a page and can now be asked about it has crossed a line this district drew in the eighth month of last year, and that the line was drawn around a rule that a mark may not carry a job, **and that a day in a space is not a mark and a page in a drawer is not a mark and neither of them carries a job, and that the rule has not been retired and is not being bent.**
 
@@ -78,7 +78,7 @@ It is stone and it is about a person deep, and the woman of fifty-eight put her 
 
 Nobody argued with that. A man of about thirty-four who mends fencing asked who is filling it now, and the woman of fifty-eight said that nobody is and that it is not being filled. The water that came in the night of the thirty-first of January has been going out through a crack in the stone, and the crack has been in that stone since the fourth year, and it has been put twice with loam and stone and has not held. **A clerk of nineteen years entered that a crack in a stone is not a way of saying where a toll lands on a place and is not the fifth thing this district does not have, and that the count of five did not move.**
 
-A man of about thirty-four who digs loam said that a sluice four miles out past the loams would put nine days into that tank in about nine hours and that the sluice is open now and has been since before the first of the second month, **and that opening it and closing it are two different acts and that closing it is the one that needs a bearer and that there is no bearer and has not been for four years.**
+A man of about thirty-one who digs loam said that a sluice four miles out past the loams would put nine days into that tank in about nine hours and that the sluice is open now and has been since before the first of the second month, **and that opening it and closing it are two different acts and that closing it is the one that needs a bearer and that there is no bearer and has not been for four years.**
 
 A clerk of nineteen years entered both of those facts, that the fourth holding of the nine on a sheet nailed in a shed eleven miles up a road had not taken a drop, and that the tank at the back of the building is down to about four days, in one line and did not join them, **and that she has entered both of them in one line more than once and is not going to say how many times and that the number is not a column.**
 
@@ -114,7 +114,7 @@ A man of fifty-six said that the eleventh of the second month was forty-eight an
 
 A clerk of nineteen years entered that the count of unentered days since the twenty-fourth of November is eighty-six and is a count of days and not a column, **and that the count of protected things is five and the count of conditions with no end on it is four, and that a tank coming down to about four days is not one of the four and is not one of the five and is not a column.**
 
-A man of about thirty-four who digs loam asked, in the six things, what the man of about fifty-five is going to do on the morning the tank is empty, and the man of about fifty-five said that he is going to fill it with a bucket and a yoke, and a clerk of nineteen years entered that he has one yoke and the woman of fifty-eight has one and there are about nine households in that lane.
+A man of about thirty-one who digs loam asked, in the six things, what the man of about fifty-five is going to do on the morning the tank is empty, and the man of about fifty-five said that he is going to fill it with a bucket and a yoke, and a clerk of nineteen years entered that he has one yoke and the woman of fifty-eight has one and there are about nine households in that lane.
 
 **AND ON THE EIGHTEENTH OF THE SECOND MONTH THE TANK AT THE BACK OF THE SHELTER IS DOWN TO ABOUT FOUR DAYS, A MAN OF ABOUT FIFTY-FIVE CAN NOW BE ASKED ABOUT A PERSON AND SAID HE IS NOT GOING TO USE IT, AND THE THIRTY-FIRST OF MARCH IS FORTY-ONE DAYS AWAY.**
 

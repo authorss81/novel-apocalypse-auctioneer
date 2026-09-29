@@ -10,39 +10,43 @@ The man of fifty-six said the four off that wall in the ordinary voice and got a
 
 ---
 
-The woman of about thirty-three who takes in washing at the second channel came up that bank at about ten with a basket on her hip and said one thing out loud, in about eleven seconds, to about nineteen people, and the boy counted what she said and got eighty-nine and read the number back to himself in a low voice.
+The woman of about thirty-three who takes in washing at the second channel came up that bank at about ten with a basket on her hip and said one thing out loud, in about thirty-four seconds, to about nineteen people, and the boy counted what she said and got eighty-nine and read the number back to himself in a low voice.
 
 "**A document that sets a lot out has five things to say and the fourth of them is a person and the fifth of them is a remedy, and the remedy is what happens when that person says no, and it is the fifteenth of this month and nobody in this district has ever said what that is, and I have washed for eleven houses for nineteen years and I have watched about nine of them not pay a bill they owed and I know exactly what that is.**"
 
 A clerk of nineteen years entered that a woman said a thing out loud in that yard and entered the thing, and entered that the fifth of the five things a document that sets a lot out has to say is a remedy, and entered that it is not paid, and entered the reason, which is that a remedy is what happens after a person has been asked and has answered, and that nobody in that yard has asked, and the record about the not asking says not asked.
 
-Then the clerk of nineteen years said one thing out loud, in about eleven seconds, to about nineteen people, and the boy counted what she said and got seventy-five and read the number back to himself in a low voice.
+Then the clerk of nineteen years said one thing out loud, in about twenty-nine seconds, to about nineteen people, and the boy counted what she said and got seventy-five and read the number back to himself in a low voice.
 
 "**The fifth of those five is a remedy and it is unpaid, and I am entering that it was named in that yard this morning and not paid, and I am not going to have the two of those confused in my book, because a fifth line is not a remedy and a remedy is not a line, and about four of you have been using the word line this week for something else entirely.**"
 
 A clerk of nineteen years entered that a clerk said a thing out loud in that yard and entered the thing, and entered that a fifth line is not a remedy, and the record about the not asking says not asked.
 
-The man of about forty-eight who keeps a tally was at the east end of that yard with the flat book under his left arm, where he has stood every morning of this volume, and said one thing out loud, in about nine seconds, and the boy counted what he said and got seventy-three and read the number back to himself in a low voice.
+The rain came off those boards again while she was standing there and went again, and the woman who keeps a scale put her hand flat on her own counter inside her doorway and then took it off it again, and about four people near that first table were looking at the boards of the second table and not at the sheets on the end of them.
+
+The man of about forty-eight who keeps a tally was at the east end of that yard with the flat book under his left arm, where he has stood every morning of this volume, and said one thing out loud, in about twenty-eight seconds, and the boy counted what he said and got seventy-three and read the number back to himself in a low voice.
 
 "**That reading has not moved since the beginning of this volume and it cannot move until somebody says no or yes to being asked, and about four of you have worked that out this week and about four of you have been using it as a reason not to ask, and I have got a book under my arm with a remedy in it that I have never once been asked to produce.**"
 
 A clerk of nineteen years entered, and she read it back to herself before she wrote it, that a man said a thing out loud in that yard and entered the thing, and the record about the not asking says not asked.
 
-The boy of about nineteen said one thing out loud at about eleven, in about nine seconds, and the boy counted what he said and got sixty-nine and read the number back to himself in a low voice.
+The boy of about nineteen said one thing out loud at about eleven, in about twenty-six seconds, and the boy counted what he said and got sixty-nine and read the number back to himself in a low voice.
 
 "**It is four. It has been four every morning I have been in this yard and I am not going to say the other one, and about four of you have been talking about a fifth all week as though a fifth were a number and it is not a number, it is a thing somebody has to do, and I am nineteen and I have not done it.**"
 
 A clerk of nineteen years entered that a boy said a thing out loud in that yard and entered the thing, and entered that the reading of that lot is the fourth of the five, and the record about the not asking says not asked.
 
-The woman of about thirty-six who keeps a scale was at the near end of that first table at about half past eleven with her shop open behind her, and said one thing out loud, in about nine seconds, and the boy counted what she said and got seventy-three and read the number back to himself in a low voice.
+The woman of about thirty-six who keeps a scale was at the near end of that first table at about half past eleven with her shop open behind her, and said one thing out loud, in about twenty-nine seconds, and the boy counted what she said and got seventy-three and read the number back to himself in a low voice.
 
 "**If somebody in this district is going to be put on that page so that a stranger can come and ask him, then somebody is going to have to tell that stranger what to do when he has said no, and my counter has had a page on it for a month and I have never once been asked what I would do if a stranger asked me something I could not answer.**"
 
 A clerk of nineteen years entered, at about half past nine in the ordinary way, that a woman said a thing out loud in that yard and entered the thing, and entered that her shop was open, and the record about the not asking says not asked.
 
-A man of about thirty-four who digs loam came up that bank at about twelve and stood at the end of that second table and said nothing at all to anybody, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man was in that yard and entered that nobody asked him anything, and the record about the not asking says not asked.
+A man of about thirty-one who digs loam came up that bank at about twelve and stood at the end of that second table and said nothing at all to anybody, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man was in that yard and entered that nobody asked him anything, and the record about the not asking says not asked.
 
-The man of about thirty-four who mends fencing was at the end of that second table at about twelve with his right hand flat on the boards, and said one thing out loud, in about nine seconds, and the boy counted what he said and got sixty-seven and read the number back to himself in a low voice.
+He came up it the way he has come up it all month, which is slowly, and he stopped at the top of it for about as long as it takes the man of fifty-six to say four figures before he came the rest of the way, and the man of about thirty-four who mends fencing did not look up off the boards and did not move his right hand an inch, and about four people at that end of that table found all three of those things at once and none of them said one word about any of them to anybody.
+
+The man of about thirty-four who mends fencing was at the end of that second table at about twelve with his right hand flat on the boards, and said one thing out loud, in about twenty-five seconds, and the boy counted what he said and got sixty-seven and read the number back to himself in a low voice.
 
 "**A remedy is a thing you have in your pocket before you need it and this district has not got one, and about four of you have been treating a man standing in a yard as though he were one, and I have been standing about nine feet off him for a month and I have not said a word and I am not going to today.**"
 

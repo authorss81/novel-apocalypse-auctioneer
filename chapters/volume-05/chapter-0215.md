@@ -4,7 +4,7 @@
 
 The sixteenth of April was a day with nothing on the printed sheet and nothing in the road house's book after the ninth, and about nineteen people were in the yard of Lot Seventeen at about ten in the morning, and the man of about thirty-four who mends fencing was not in it.
 
-A man of about thirty-four who digs loam said at about ten that the man who mends fencing had gone up the bank at about half past eight with nothing in his hands, and a clerk of nineteen years entered that he was not sent for and that nobody went with him and that the record says not asked.
+A man of about thirty-one who digs loam said at about ten that the man who mends fencing had gone up the bank at about half past eight with nothing in his hands, and a clerk of nineteen years entered that he was not sent for and that nobody went with him and that the record says not asked.
 
 A man of about thirty-four who mends fencing gave the figures out loud at about half past ten when he came back down, and a man of fifty-six read the board out afterwards and got both of them right.
 
@@ -48,7 +48,7 @@ The man the figure of twenty-one years is against read it out in the yard at abo
 >
 > **THE COUNCIL ASKS FOR AN ANSWER BY THE LAST DAY OF THIS MONTH. THE COUNCIL SENDS ITS REGARDS AGAIN.**
 
-A clerk of nineteen years read it back afterwards and got nothing wrong, which is the rule of the counter, and a man of about thirty-four who digs loam read the third of the four lines out again in the ordinary voice and a clerk entered that he did it and that she did not ask him to.
+A clerk of nineteen years read it back afterwards and got nothing wrong, which is the rule of the counter, and a man of about thirty-one who digs loam read the third of the four lines out again in the ordinary voice and a clerk entered that he did it and that she did not ask him to.
 
 Nothing was said for about nine seconds and then the man of about thirty-four who mends fencing said the thing that was actually in the yard, and a man of about nineteen counted it and got fifty-four, and it went in the minute in his own words.
 
@@ -56,7 +56,7 @@ Nothing was said for about nine seconds and then the man of about thirty-four wh
 
 A man of fifty-six said that this is the first letter this district has ever had from anything like that, and that a body that has never heard of this district sent a stranger into it on the second of this month, and that the two are the same body and are not joined, **and that the refusals to join two things are thirteen and the registrar's own count is twelve and neither of them moved at about two in the afternoon on the sixteenth of the fourth month, and that a second refusal of the same join is the same refusal.**
 
-Then the man of about thirty-four who digs loam said the other half, and nobody had asked him for it.
+Then the man of about thirty-one who digs loam said the other half, and nobody had asked him for it.
 
 "**That letter asks this district for a man. This yard has been unable to produce a person on demand for the sixteen days since the thirty-first of last month, when a figure of twenty-one years came off this district's own page in the same line as the date, and the reason was said in eighty-two words by a woman in this yard on the eighth of this month, and a name on a line is a name off a sheet, and there is not one name in this district that anybody in this district has the right to put on a line for that letter.**"
 
@@ -84,7 +84,7 @@ A clerk of nineteen years read that out afterwards in the ordinary voice and a m
 
 A man of fifty-six said that a document somebody owns and will not produce is the fifth thing this district cannot do with a piece of paper and that it is not the fifth of the five and is not one of them, **and that the count of documents nobody owns is three, and that a letter a body sent to a village is the first of a kind and a kind is not a count, and that the three are the printed sheet at the fourth place, the notice about a party of nine who went thirty-four miles east, and a line in a public book with four names on it and a figure under the four names, and the three did not move at about four in the afternoon on the sixteenth of the fourth month.**
 
-A man of about thirty-four who digs loam said the half of it that nobody had said, and a man of about nineteen counted it and got seventy-one, and it went in the minute in his own words.
+A man of about thirty-one who digs loam said the half of it that nobody had said, and a man of about nineteen counted it and got seventy-one, and it went in the minute in his own words.
 
 "**A letter is the one thing a body can send that does not need a bearer and does not need a man to be found and cannot be refused by a man who is not in the room, and it has been sitting in this district for four days, and a body that has worked that out about this district is not a body that has never heard of this district.**"
 

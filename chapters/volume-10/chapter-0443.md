@@ -1,6 +1,6 @@
 # Chapter 443: A Figure About A Morning
 
-The man of about thirty-four who digs loam went down that bank at about a quarter to eight with a spade over his shoulder and into the water, and the water came over the top of his boot before he had got his other leg down, and nobody standing on the bank said one word about it.
+The man of about thirty-one who digs loam went down that bank at about a quarter to eight with a spade over his shoulder and into the water, and the water came over the top of his boot before he had got his other leg down, and nobody standing on the bank said one word about it.
 
 It was the tenth of the twelfth month and it had been raining in the night for the first time since the end of the eleventh, lightly and sideways, and the ditch at the back of that ground had taken all of it and was holding it.
 
@@ -20,7 +20,7 @@ At about nine a woman of about thirty-six who keeps a scale came down that bank,
 
 Nobody asked her how deep it is. The clerk of nineteen years had her pencil about two inches out of her pocket and she did not put it the rest of the way back and she did not take it out, and about four people at that end of the table watched her hand stay where it was.
 
-"Write that down," said the man of about thirty-seven who puts tables up, from the east wall. "Write the figure beside it. Then a stranger who walks up to that table gets two numbers and picks the one that is not a foot."
+"Write that down," said the man of about thirty-two who puts tables up, from the east wall. "Write the figure beside it. Then a stranger who walks up to that table gets two numbers and picks the one that is not a foot."
 
 A She entered that a man had said a thing out loud in the open there and entered the thing, and entered no figure, and the record about the not asking says not asked.
 
@@ -34,7 +34,7 @@ Nobody answered her. She entered that a man asked a question in that yard and th
 
 By ten there were about nineteen people in the yard of Lot Seventeen, and the ditch at the back of that ground had taken all the rain of that night and was still holding it.
 
-At about ten the man of about thirty-four who digs loam came up out of that bank with the water to his thigh, and about four people stepped back, and he got the four figures at the near end of the table in the ordinary voice and said the word with them four times, and then he stood about two feet from that table with the water running off him and looked at the second line of that lot book for about a minute and a half.
+At about ten the man of about thirty-one who digs loam came up out of that bank with the water to his thigh, and about four people stepped back, and he got the four figures at the near end of the table in the ordinary voice and said the word with them four times, and then he stood about two feet from that table with the water running off him and looked at the second line of that lot book for about a minute and a half.
 
 The second line of that lot book is the whole of what he is paid for and it is the whole of what about four people in that yard can check by putting a hand in a ditch, and it says this.
 
@@ -70,7 +70,7 @@ The clerk of nineteen years entered the rest of that day at about half past four
 
 A hundred and one days is how long the bid has been open, and it was not run on this day, and nothing was proposed about closing it in a mouth or in a page. Fifty-six days is how far behind the figure on the second line of that lot book is, and it has not been altered, and nothing correct has been written beside it, and a date sits under it naming the fifteenth of the tenth month. Sixty-one days is how long the rule said out loud in that yard has stood since the tenth of the tenth month. The first day of the eighth month is a hundred and thirty-one days past. The ninth of the nine printed nights is two hundred and thirty-four days back. A body four hundred miles off is seventy days past a printing it did not make, and nobody watched anything. The reading of that lot is begun and not finished and stands at the fourth of the five things a document that sets a lot out has to say. Ten marks have been cut off that board since the mark for the first of this month, and ten marks is a figure about a count of marks and is not a figure about a month, and there is no figure in this district for how long this month is. The column for the name of whoever read a thing out loud was ruled and empty at about six and nothing went into it. The fifth of the five things this district does not have is still not paid, and the fifth is a way to pay a person who is not in a household.
 
-The man of about thirty-seven who puts tables up said one thing out loud at about five, in about four seconds, and the boy of about nineteen counted what he said and got fifty-six and read the number back to himself in a low voice.
+The man of about thirty-two who puts tables up said one thing out loud at about five, in about four seconds, and the boy of about nineteen counted what he said and got fifty-six and read the number back to himself in a low voice.
 
 "**The book is not wrong and the water is not wrong and the two of them are a figure about a morning, and this district has spent two volumes writing down the day a figure stopped being true and has never once been asked whether the figure is the same on both sides of that day.**"
 
@@ -80,4 +80,4 @@ Nobody answered him. The clerk of nineteen years entered that a man said a thing
 
 At about half past five the two empty buckets came down that bank and went back up them full, and the woman of fifty-eight read the three lines in that lot book standing up and said nothing to anybody and nobody there said one word to her. Then the man of fifty-six read the four figures off that wall for the last time in that yard and got all four of them.
 
-The man of about thirty-four who digs loam went back down that bank at about ten past six with the water above his knee, and the second line of that lot book did not change, and the water did not come back to a foot before the light went, and about nine people in that yard were the only people in this district who knew both of those things, and not one of them could say so to a stranger.
+The man of about thirty-one who digs loam went back down that bank at about ten past six with the water above his knee, and the second line of that lot book did not change, and the water did not come back to a foot before the light went, and about nine people in that yard were the only people in this district who knew both of those things, and not one of them could say so to a stranger.

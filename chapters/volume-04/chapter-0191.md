@@ -6,13 +6,13 @@ He came up the bank at about seven in the morning on the eleventh of the third m
 
 The mark in charcoal on the board against the wall for the eleventh is a finger below the mark for the tenth, and the man of about fifty-five said the figure himself and asked nobody to check it, and a clerk of nineteen years entered that she was not asked to check it and is not going to ask him again.
 
-A man of about thirty-four who digs loam put his hand flat on the stone and said that it is cold all the way down and colder at the top than it was the day before, and that a tank with a cold top on a hill in the third month is a tank with a day and a half in it, **and that the number is a thing you find out with a hand and is not a rate and has nobody standing under it.**
+A man of about thirty-one who digs loam put his hand flat on the stone and said that it is cold all the way down and colder at the top than it was the day before, and that a tank with a cold top on a hill in the third month is a tank with a day and a half in it, **and that the number is a thing you find out with a hand and is not a rate and has nobody standing under it.**
 
 Nothing in the lane said anything about the figure for a moment. A man of fifty-six came down the bank afterwards and said that **a tank down to about a day and a half is a figure and not a term, and that the fourth holding of the nine on a sheet nailed in a shed eleven miles up a road has now not taken a drop of anything for a month and a half.**
 
 A clerk of nineteen years entered the two of those in one line and did not join them, **and entered that she has put both of them in one line more than once and is not going to say how many times, because the number is not a column and a number on it would make it one, and that a tank four miles down a lane and a holding eleven miles up a road are two pieces of water and are not one subject and never have been.**
 
-The man of about fifty-five said the other thing then, and he said it to the man of about thirty-four who digs loam and not to the lane, and a clerk of nineteen years entered that nobody asked him for it and that she is not going to ask him why he said it in a lane at seven in the morning.
+The man of about fifty-five said the other thing then, and he said it to the man of about thirty-one who digs loam and not to the lane, and a clerk of nineteen years entered that nobody asked him for it and that she is not going to ask him why he said it in a lane at seven in the morning.
 
 "**I do not want a yoke up that hill. I want the water to come out of the ground by itself and I have wanted that since the fourth year and I have never said it out loud.**"
 
@@ -42,13 +42,13 @@ The hill did not argue with it. A man of fifty-six said that a man who thanks an
 
 The woman of fifty-eight who carries water and does not read figures came up the hill at about half past seven with a yoke and two buckets and she was not asked for anything, and she said that she has done two and is going to do four and that the fourth is not because anybody asked her and is not because of the tank.
 
-A man of fifty-six entered afterwards that she did the second pair at about eleven and sat on the loam at the top of the hill for about a minute, **and that the only person who saw it was the man of about thirty-four who digs loam, and that nobody in this district was told about it by him and is not going to be, and that the reason is that she would stop coming up the hill.**
+A man of fifty-six entered afterwards that she did the second pair at about eleven and sat on the loam at the top of the hill for about a minute, **and that the only person who saw it was the man of about thirty-one who digs loam, and that nobody in this district was told about it by him and is not going to be, and that the reason is that she would stop coming up the hill.**
 
 A clerk of nineteen years entered that the man of fifty-six had been asked about it and had said no, and that she was not asked why.
 
 The man of about thirty-four who mends fencing asked her, in the six things, at about half past twelve in the afternoon, whether anybody had told her there was a sluice four miles out, and she said that she had not heard of it and did not want to.
 
-It was not picked up. A man of about thirty-four who digs loam said that a woman who carries four yoke-loads a day up a hill four miles from a yard and does not want to hear about a sluice is a woman with the only opinion about a sluice that has ever been given in this district, **and that an opinion is not a column and is not a not-asking and is not entered as one and she is not to be asked about it again.**
+It was not picked up. A man of about thirty-one who digs loam said that a woman who carries four yoke-loads a day up a hill four miles from a yard and does not want to hear about a sluice is a woman with the only opinion about a sluice that has ever been given in this district, **and that an opinion is not a column and is not a not-asking and is not entered as one and she is not to be asked about it again.**
 
 Nobody argued with that. A man of fifty-six said that this district wanted the round to be somebody else's job in the second month and could not have it, and that the round is still hers on the eleventh of the third month and that he said that on the twenty-eighth of the second month and is not going to say it a second time.
 
@@ -68,11 +68,11 @@ A man of about thirty-four who mends fencing asked what a mark on that wall woul
 
 The tank was the rest of the afternoon and it was not a conversation, and a clerk of nineteen years entered that nothing was said in that lane for about two hours and that she is not going to write two hours down as a figure.
 
-The man of about thirty-four who digs loam went up the bank four times with a yoke because the man who keeps the building could not lift it off the nail, and the man the figure of twenty-one years is against went up it with the second bucket, and the man of about fifty-five came out and took the yoke off the hook and carried the second pair himself and did not say anything about it.
+The man of about thirty-one who digs loam went up the bank four times with a yoke because the man who keeps the building could not lift it off the nail, and the man the figure of twenty-one years is against went up it with the second bucket, and the man of about fifty-five came out and took the yoke off the hook and carried the second pair himself and did not say anything about it.
 
 A clerk of nineteen years entered that a man of about fifty-five carrying his own water for about nine hundred yards is not a bearer of the tank and is not a keeper of the building and is not a security, **and that he is a man with a yoke and the count of six did not move on the eleventh of the third month and he is not going to be made a seventh of anything.**
 
-Nobody took that up. A man of about thirty-four who digs loam said that a man who has said for nine days that he would rather have a crack than a mend is now carrying his own water and the two of those are the same decision about not being helped, **and that a man who will not be helped in front of a room is a man who has been helped in front of a room, and that the man the figure of twenty-one years is against was on that hill four times and was not thanked and was not paid and is not in a book.**
+Nobody took that up. A man of about thirty-one who digs loam said that a man who has said for nine days that he would rather have a crack than a mend is now carrying his own water and the two of those are the same decision about not being helped, **and that a man who will not be helped in front of a room is a man who has been helped in front of a room, and that the man the figure of twenty-one years is against was on that hill four times and was not thanked and was not paid and is not in a book.**
 
 A man of fifty-six said the interval out loud at about half past four in the afternoon, and a clerk of nineteen years stood close enough to write it down, and the sum went under the figure the way it always goes.
 
@@ -106,11 +106,11 @@ He said that he has not been paid eleven coppers a week since the twenty-second 
 
 A man of fifty-six said that there is no money in this district that anybody can pay anybody with and that he said it on the twenty-second of the second month and is not going to be embarrassed about saying it twice, **and that a refusal with the same reason behind it a second time is not a new refusal and is not added to anything and is not a column and is not a rate.**
 
-Nothing was said against that. A man of about thirty-four who digs loam said that a man who copies for nothing and has just said he is going to keep asking is the only person in this district with a plan, **and that a plan is not an instrument and is not a security and is not a post and the count of six did not move on the eleventh of the third month and he is not going to be made a seventh of anything.**
+Nothing was said against that. A man of about thirty-one who digs loam said that a man who copies for nothing and has just said he is going to keep asking is the only person in this district with a plan, **and that a plan is not an instrument and is not a security and is not a post and the count of six did not move on the eleventh of the third month and he is not going to be made a seventh of anything.**
 
 A clerk of nineteen years entered that the eleven coppers were refused twice and that the second refusal has the same reason behind it as the first, **and that neither refusal was asked to be refused, and that a person who has not asked has not refused and cannot be counted either way and the record says asked and answered and not asked why.**
 
-The man of about thirty-four who digs loam said the other half of what the man of about fifty-five had wanted, and a man of about nineteen counted it and got forty-eight, and it went in the minute in his own words.
+The man of about thirty-one who digs loam said the other half of what the man of about fifty-five had wanted, and a man of about nineteen counted it and got forty-eight, and it went in the minute in his own words.
 
 "**A man who keeps a building for nine years and asks nobody is not a man who does not need anybody. He is a man who has found out what asking costs, and the sluice is the first thing he has asked for that anybody can give him.**"
 

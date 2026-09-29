@@ -32,7 +32,7 @@ Nobody had named a fourth room. A man of fifty-six said that a district can name
 
 The two forms are the third form of the notice of a withdrawal and a line in the address of a public lot book.
 
-A man of about thirty-four who digs loam and does nine days of it in ten wrote the third form in four hours in the second month of last year, and a clerk of nineteen years entered that he wrote it and that he is a clerk of nothing, **and that the two forms are in two rooms and that neither of them has the other's date on it and that a person holding one of them cannot find out what day the other one is.**
+A man of about thirty-one who digs loam and does nine days of it in ten wrote the third form in four hours in the second month of last year, and a clerk of nineteen years entered that he wrote it and that he is a clerk of nothing, **and that the two forms are in two rooms and that neither of them has the other's date on it and that a person holding one of them cannot find out what day the other one is.**
 
 Then the interval, and a man of fifty-six did it out loud in the yard after lunch with a clerk of nineteen years standing close enough to write it down, and the sum was put under the figure the way it always is.
 
@@ -58,11 +58,11 @@ Nobody argued with it. A man of about thirty-four who mends fencing said that th
 
 Everything else the district holds is a day something happens to somebody, **and that a date a person can act on and a date a person is acted on are two things, and that the form is the only one of the two this district has ever printed.**
 
-The man of about thirty-four who digs loam was in the yard and said that he wrote the four lines in a shed in four hours and that he took the sentence about not asking the person off the district's own argument and not off any form, and that he has thought about the sentence every day since and has not improved it, **and that a form a man writes in four hours can be argued with for four years and he is not going to be asked to write another one.**
+The man of about thirty-one who digs loam was in the yard and said that he wrote the four lines in a shed in four hours and that he took the sentence about not asking the person off the district's own argument and not off any form, and that he has thought about the sentence every day since and has not improved it, **and that a form a man writes in four hours can be argued with for four years and he is not going to be asked to write another one.**
 
 Nobody took that up and a clerk of nineteen years entered that he was entered before he spoke as not speaking for the room, and that this is a count of not-speaking and not a count of not-askings, and that the two are not added to each other.
 
-Then the address, and the man of about thirty-four who digs loam said the line in the lot book was in his own hand and that he would not have written it, and a man of fifty-six read it out of the book.
+Then the address, and the man of about thirty-one who digs loam said the line in the lot book was in his own hand and that he would not have written it, and a man of fifty-six read it out of the book.
 
 > **ADDRESS: THE YARD OF LOT SEVENTEEN AND THE LOT BOOK AT THE WARD MARKET. THIS ADDRESS IS GOOD UNTIL THE THIRTY-FIRST OF MARCH, AND AFTER THAT DAY IT IS A PLACE AND NOT AN ADDRESS.**
 
@@ -142,7 +142,7 @@ Nobody said anything for about nine seconds. A man of fifty-six said that the qu
 
 A clerk of nineteen years entered that the twenty-ninth of December came and went and the claim did not pass and that the only reason it did not pass is that nobody did anything, **and entered that a house that has not written to anybody can write tomorrow, and that a district cannot wake a house up, and that a day on which somebody else decides what this district does is not a day this district has an instrument for.**
 
-Nobody argued with that. A man of about thirty-four who digs loam said that he has dug loam nine days in ten for about eleven years and that in eleven years he has never once had to be told to be somewhere by a house, **and that the man the figure of twenty-one years is against put a man in a bond in the ninth year and did not ask him, and that those two are two things and he is the second one and not the first.**
+Nobody argued with that. A man of about thirty-one who digs loam said that he has dug loam nine days in ten for about eleven years and that in eleven years he has never once had to be told to be somewhere by a house, **and that the man the figure of twenty-one years is against put a man in a bond in the ninth year and did not ask him, and that those two are two things and he is the second one and not the first.**
 
 Nobody took that up and a man of fifty-six said that a man who says a thing about himself that another man did to him has said a finding and not an opinion, and that the finding is not entered against anybody today.
 

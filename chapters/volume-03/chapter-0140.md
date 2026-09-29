@@ -2,7 +2,7 @@
 
 ---
 
-A man of about thirty-four who digs loam and does nine days of it in ten ruled a line under the eleventh row of the ledger on the morning of the sixteenth of November and wrote nothing under it, and about nineteen people were in the room, and a clerk of nineteen years asked him what the line was for and he said he did not know and she entered that she had asked and that he had said he did not know and that she was not going to ask again.
+A man of about thirty-one who digs loam and does nine days of it in ten ruled a line under the eleventh row of the ledger on the morning of the sixteenth of November and wrote nothing under it, and about nineteen people were in the room, and a clerk of nineteen years asked him what the line was for and he said he did not know and she entered that she had asked and that he had said he did not know and that she was not going to ask again.
 
 The line is the only part of this instrument that has not been argued about **and a man of thirty-four who mends fencing said that a line nobody can argue about is either the most important part of a document or the part that has not been understood yet, and that in this district it is usually the second, and that the two are two things.**
 
@@ -20,15 +20,15 @@ The entry of the nineteenth of October is unchanged and carries the date the wor
 
 Nobody took that up and 
 
-A man of about twenty-six who is at the third channel and has been in a bed of brine for a year and a half was told about the line under the eleventh row on the seventeenth of November and he asked whether his third cell was still empty, and a man of about thirty-four who digs loam said yes, and the man of twenty-six said that was correct and that he wanted it to stay empty until somebody could put a figure in it that he could not check, and that this was the first thing he had wanted since the first of April.
+A man of about twenty-six who is at the third channel and has been in a bed of brine for a year and a half was told about the line under the eleventh row on the seventeenth of November and he asked whether his third cell was still empty, and a man of about thirty-one who digs loam said yes, and the man of twenty-six said that was correct and that he wanted it to stay empty until somebody could put a figure in it that he could not check, and that this was the first thing he had wanted since the first of April.
 
 **AND ON THE SEVENTEENTH OF NOVEMBER A MAN OF TWENTY-SIX ASKED WHETHER HIS CELL IN THE THIRD COLUMN WAS STILL EMPTY AND WAS TOLD THAT IT WAS, AND SAID THAT HE WANTED IT TO STAY EMPTY UNTIL SOMEBODY COULD PUT A FIGURE IN IT THAT HE COULD NOT CHECK, AND THAT THIS WAS THE FIRST THING HE HAD WANTED SINCE THE FIRST OF APRIL, AND A CLERK OF NINETEEN YEARS ENTERED IT AND THE MAN WAS NOT ASKED ABOUT THE NOTICE.**
 
 ---
 
-On the eighteenth of November the room dealt with the letter, and the man of about thirty-four who digs loam made two entries and one of them was to leave a cell alone.
+On the eighteenth of November the room dealt with the letter, and the man of about thirty-one who digs loam made two entries and one of them was to leave a cell alone.
 
-The four seasons went into the third column of the eleventh row. The sixth column of the eleventh row still says NOT ASKED, and it was left as it was, and a man of fifty-six asked why and the man of about thirty-four who digs loam gave the reason in fifty-one words and a clerk of nineteen years did not count them and a man of about nineteen who walked in from the road counted them and got fifty-one.
+The four seasons went into the third column of the eleventh row. The sixth column of the eleventh row still says NOT ASKED, and it was left as it was, and a man of fifty-six asked why and the man of about thirty-one who digs loam gave the reason in fifty-one words and a clerk of nineteen years did not count them and a man of about nineteen who walked in from the road counted them and got fifty-one.
 
 "**He wrote it on the eleventh and nobody asked him. The column is for what this district asked. If I change the cell now then the page says we asked, and we did not, and a page that lies about an asking is the form with no column on it again.**"
 
@@ -54,9 +54,9 @@ A woman of thirty-eight who has been in the second channel four years was asked 
 
 "I will be told before the first of April that I am in it, or I will not stand in it, and I do not want it in writing and I do not want a form."
 
-A man of about thirty-four who digs loam asked her why she does not want a form and she said that a form is a thing a person finds out about from a stranger, and that she has been in this flat for four seasons and there are nine people in it she can ask and about eighty she cannot, and that a form would be handed to her by somebody she has not met and would say what she is owed and what she is not.
+A man of about thirty-one who digs loam asked her why she does not want a form and she said that a form is a thing a person finds out about from a stranger, and that she has been in this flat for four seasons and there are nine people in it she can ask and about eighty she cannot, and that a form would be handed to her by somebody she has not met and would say what she is owed and what she is not.
 
-Nobody took it up and the man of about thirty-four who digs loam said that a person who does not want a form has said something about the form and not about the year, and that the year is not the part she objects to, and that this is the fourth time in eleven weeks that a person in this district has refused a document on the grounds of who would bring it.
+Nobody took it up and the man of about thirty-one who digs loam said that a person who does not want a form has said something about the form and not about the year, and that the year is not the part she objects to, and that this is the fourth time in eleven weeks that a person in this district has refused a document on the grounds of who would bring it.
 
 A clerk of nineteen years entered that a woman of thirty-eight in the second channel was asked in the six things and answered and that she was not asked about the four seasons and was not asked about the eleventh year and was not asked about the four hundred coppers, and that not asked is in the count and that the count is where it was.
 
@@ -82,7 +82,7 @@ Nobody joined them and a man of thirty-four who mends fencing entered that the c
 
 ---
 
-The line under the eleventh row was still under the eleventh row on the twenty-first of November, and the man of about thirty-four who digs loam had been asked about it four times in five days by three different people and had said the same nine words four times. **A clerk of nineteen years entered that a person who is asked the same question four times and gives the same answer four times has either one answer or is saying a thing he has been asked to say, and that she does not know which and did not ask, and that this is the first time she has entered that sentence about anybody other than the boy of nineteen at the fourth place.**
+The line under the eleventh row was still under the eleventh row on the twenty-first of November, and the man of about thirty-one who digs loam had been asked about it four times in five days by three different people and had said the same nine words four times. **A clerk of nineteen years entered that a person who is asked the same question four times and gives the same answer four times has either one answer or is saying a thing he has been asked to say, and that she does not know which and did not ask, and that this is the first time she has entered that sentence about anybody other than the boy of nineteen at the fourth place.**
 
 The nine words were that a line is a place the next person starts.
 
@@ -104,7 +104,7 @@ The room let it stand and a man of thirty-four who mends fencing said that this 
 
 ---
 
-The arithmetic was done out loud on the twenty-first in a lane by a man of fifty-six and a clerk of nineteen years wrote it down for the third time in three weeks and got the same figure and the sum was under it again, and a man of about thirty-four who digs loam said that a man who does a sum three times in front of strangers is not checking a number and is teaching it, and that this district has been teaching numbers in lanes for eleven weeks and calling it counting.
+The arithmetic was done out loud on the twenty-first in a lane by a man of fifty-six and a clerk of nineteen years wrote it down for the third time in three weeks and got the same figure and the sum was under it again, and a man of about thirty-one who digs loam said that a man who does a sum three times in front of strangers is not checking a number and is teaching it, and that this district has been teaching numbers in lanes for eleven weeks and calling it counting.
 
 The last entry of the twenty-first of November is eleven lines long and it is in the clerk of nineteen years' own hand and it is the third-shortest entry this book has carried since the eighth of March, and it was read out twice at the counter by a reader who is about fifty and who did not stop in the middle of it this time and did not say why she had stopped the last time.
 

@@ -54,7 +54,7 @@ A clerk of nineteen years entered that the month after this one has thirty days 
 
 The rest of that day did what the rest of those days did. The reading of the lot is begun and not finished and the man who convened the bid was not at the end of that trestle table at any point in the afternoon and nobody in that yard asked him why.
 
-The man of about thirty-four who digs loam came in at about one and went out at about half past one and said nothing to anybody. The man who keeps a road came through at about two and stood at the end of that table with his back to it and read the four figures off the boards over his own shoulder without saying anything to anybody, which is a thing he has done once before this month, and getting a figure right twice is not a habit and is not a finding and is not a figure about the man who got it right.
+The man of about thirty-one who digs loam came in at about one and went out at about half past one and said nothing to anybody. The man who keeps a road came through at about two and stood at the end of that table with his back to it and read the four figures off the boards over his own shoulder without saying anything to anybody, which is a thing he has done once before this month, and getting a figure right twice is not a habit and is not a finding and is not a figure about the man who got it right.
 
 The woman of fifty-eight came down that bank at about half past four with two empty buckets and filled them at the trough and put them inside that building, and she stood at the foot of the bank for about four minutes with about nine people in that yard and she did not ask anybody anything and nobody asked her anything.
 

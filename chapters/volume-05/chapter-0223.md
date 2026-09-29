@@ -10,7 +10,7 @@ The three figures went out loud early, and a man of fifty-six read the board ove
 
 The clerk of nineteen years entered that he said he was going to say why and that he had not said it, and that she was not asked to, and that the count of conditions with no end on it is four and did not move at about ten in the morning on the twenty-fourth of the fourth month.
 
-Nobody asked him anything else about it. The man of about thirty-four who digs loam was in the yard with his right arm back in the sling, and it was entered that he had asked for it back and that the woman of fifty-eight had not been asked whether she wanted him to have it back.
+Nobody asked him anything else about it. The man of about thirty-one who digs loam was in the yard with his right arm back in the sling, and it was entered that he had asked for it back and that the woman of fifty-eight had not been asked whether she wanted him to have it back.
 
 At about two in the afternoon the man the figure of twenty-one years is against said the reason out loud in the yard, in front of about nine people, and a man of about nineteen counted it and got seventy-five, and it went in the minute in his own words.
 
@@ -18,7 +18,7 @@ At about two in the afternoon the man the figure of twenty-one years is against 
 
 A man of fifty-six said that a man who says a thing in a room and then says it again in a yard has said it twice, and that two is not a habit, and that the first one is in a room with a shut door in it and a clerk cannot enter what was said in a room she was not standing in, and that the whole instrument of this district is a page.
 
-The man of about thirty-four who digs loam said that a man who repeats himself on purpose so that one of the two repetitions is in a book is doing the thing this district was built to do and that he has not seen a man do it before in four months, and that a man who says a true thing in a room and then buys himself a witness is a man who has worked out what a witness is, and that nobody is going to put that in a column.
+The man of about thirty-one who digs loam said that a man who repeats himself on purpose so that one of the two repetitions is in a book is doing the thing this district was built to do and that he has not seen a man do it before in four months, and that a man who says a true thing in a room and then buys himself a witness is a man who has worked out what a witness is, and that nobody is going to put that in a column.
 
 ---
 
@@ -58,9 +58,9 @@ The man of about thirty-four who mends fencing said the part nobody had said, an
 
 The clerk entered that both of the two things said in that room were said to a clerk of nineteen years afterwards and not in it, and that a shut door is not a page, **and that a sentence said behind one is not a document and is not one of the three documents nobody owns, and that the three did not move at about one in the afternoon on the twenty-fourth of the fourth month, and that a room with a shut door in it is the only place this district has found where a person can be told no to a thing and have the no be true, and that a room with a shut door in it is a place where a sentence goes to die and not a book.**
 
-The man of about thirty-four who digs loam said that the man standing at that gate is the man who is going to be a figure on somebody's page by the last day of this month, and that the two sentences are one fact told by two people to two rooms, and that a resemblance noticed a second time is not a finding and a third time is a habit, and that he had noticed it twice today and was saying so before anybody else got to it.
+The man of about thirty-one who digs loam said that the man standing at that gate is the man who is going to be a figure on somebody's page by the last day of this month, and that the two sentences are one fact told by two people to two rooms, and that a resemblance noticed a second time is not a finding and a third time is a habit, and that he had noticed it twice today and was saying so before anybody else got to it.
 
-It was entered that the man of about thirty-four who digs loam has said that sentence in a yard on the twelfth, the seventeenth, the twentieth and the twenty-first of this month and once today, **and that a fifth time is a habit of a habit, and that he is not going to say it a sixth time and she is not going to ask him to.**
+It was entered that the man of about thirty-one who digs loam has said that sentence in a yard on the twelfth, the seventeenth, the twentieth and the twenty-first of this month and once today, **and that a fifth time is a habit of a habit, and that he is not going to say it a sixth time and she is not going to ask him to.**
 
 The man of about thirty-four who mends fencing read the second sheet out again at about four in the afternoon for four people who had come in after eleven, and got nothing wrong, and a clerk of nineteen years entered that the second sheet has been read out in that yard three times in three days and that a sheet read out three times is still one sheet that somebody else wrote.
 

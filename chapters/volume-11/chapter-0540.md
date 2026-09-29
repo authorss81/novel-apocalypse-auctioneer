@@ -42,7 +42,7 @@ The boy of about nineteen said it out loud then, in front of about nineteen peop
 
 A clerk of nineteen years entered that a boy said a thing out loud in that yard and entered the thing, and entered that a figure has been on a page in this district since about a quarter past ten this morning, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was up that bank at about ten and came down to the edge of that yard and said one thing out loud to about nine people, in about nine seconds, and the boy counted it and got forty-seven and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was up that bank at about ten and came down to the edge of that yard and said one thing out loud to about nine people, in about nine seconds, and the boy counted it and got forty-seven and read the number back to himself in a low voice.
 
 "**I cut those marks and I have never read one of them and I have not helped her with a single one. About four people in this yard have been waiting for me to be the man who counted it and I am not going to be.**"
 

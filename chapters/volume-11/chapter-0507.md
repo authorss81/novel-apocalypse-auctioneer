@@ -24,7 +24,7 @@ Then he said one more thing, in about four seconds, from where he was standing, 
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that she is not entering four hundred times because there is no figure on any page in this district for how many times a man has been asked a question, and about four people at that first table have said since that this district has a figure for how many days a man has said four things out loud and does not have one for how many questions anybody has asked him, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and he said one thing out loud after it in about four seconds, and the boy counted it and got twenty-eight and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and he said one thing out loud after it in about four seconds, and the boy counted it and got twenty-eight and read the number back to himself in a low voice.
 
 "**The end of them is the ninth mile and the ninth mile is a marker somebody cut, and I have never once been asked about that marker either.**"
 

@@ -27,11 +27,11 @@ Then a man of fifty-six said the sentence he is going to have to live with for t
 
 A clerk of nineteen years entered that a man of fifty-six is not a clerk and has said so about himself about a dozen times in four months, and that a man who has admitted out loud that he was pleased about a thing is not a finding and is not a reason for anything, and that the record about the seven days says not asked.
 
-Then the man of about thirty-four who digs loam said the other half of the morning, in the ordinary voice, and it was counted and came to a hundred and sixty-nine.
+Then the man of about thirty-one who digs loam said the other half of the morning, in the ordinary voice, and it was counted and came to a hundred and sixty-nine.
 
 "**Two sheets in seven days and not one name on either of them, and I want to say in this yard that the second of those two is the best piece of printing anybody has put up in this basin in my lifetime, and I want to say it without anybody standing up afterwards and telling me I have said a stupid thing. I have spent five months in this yard saying that a document which names nothing is the only safe kind there is, and I was right about that in the same way a man is right about the shape of a hole. That first sheet shut a building by naming a job. This one has taken the person out of the job altogether and printed the reason on the face of it, and a man four hundred miles away has worked out that it does not need anybody at all, and I have got no answer to that and I have not got one this morning.**"
 
-A clerk of nineteen years entered that a man of about thirty-four who digs loam has said a thing out loud in a yard and that his right hand is still not right after the ditch behind the building with two doors on the eleventh of this month, and that a man who says a thing out loud has not agreed with the person who printed it, and that the record about his not having an answer says not asked, and that the record about what is in a yard in this district is a record about a yard and not about anybody.
+A clerk of nineteen years entered that a man of about thirty-one who digs loam has said a thing out loud in a yard and that his right hand is still not right after the ditch behind the building with two doors on the eleventh of this month, and that a man who says a thing out loud has not agreed with the person who printed it, and that the record about his not having an answer says not asked, and that the record about what is in a yard in this district is a record about a yard and not about anybody.
 
 ---
 

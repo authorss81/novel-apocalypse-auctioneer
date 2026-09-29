@@ -26,7 +26,7 @@ Then the man of about thirty-four who mends fencing asked for the ninth, and the
 
 A clerk of nineteen years entered that a refusal with a reason is not one of the refusals with no reason a clerk of a house has given, **and that a man who keeps a road is not a clerk of a house, and that the seven refusals with no reason a clerk of a house has given in this district's business are seven this morning and the eighth of them has not happened yet, and that the man who keeps that road has refused nothing without a reason at any time this yard has been keeping him in a column, and that the one question he was asked on the first of this month he answered in forty-five words and gave a reason in them.**
 
-The man of about thirty-four who digs loam said the rest of it, and he said it before anybody asked him for it, and a clerk of nineteen years entered that she was not asked and that she is not going to put a number on it.
+The man of about thirty-one who digs loam said the rest of it, and he said it before anybody asked him for it, and a clerk of nineteen years entered that she was not asked and that she is not going to put a number on it.
 
 "**He has given me eight nights he walked and you have a stranger's sheet with eight days printed on it and the two of them are not the same kind of thing and I am not going to put them side by side in this yard, and a second refusal of the same join is the same refusal and the refusals to join two things are thirteen and are not made fourteen by a man refusing twice.**"
 
@@ -42,7 +42,7 @@ He said it, and a man of about nineteen counted it and got fifty, and it went in
 
 A man of about thirty-four who mends fencing said that a man of about thirty at a counter gave this district the word locks in this yard four days ago and gave two more with it, and that a man nine miles off gave the same two again this morning out of a different house, and that this yard asked him for a word and got a word and did not ask him for a man. A clerk of nineteen years entered that two houses have now given this district the same pair of words in five days and that **a word is not a figure and is not a schedule and is not a document and is not a column, and that the six instruments this district has built and not named are a rehearsal, a platform, a rail, a correction, a question and a security, and that a book in more than one hand is not a seventh of those and was refused entry into that list in about four seconds by a clerk who was not asked to refuse it.**
 
-A man of about thirty-four who digs loam said that the other half of it is the half nobody has said, and he said it flat, and a man of about nineteen counted it and got ninety-nine, and it went in the minute in his own words, and nobody picked it up.
+A man of about thirty-one who digs loam said that the other half of it is the half nobody has said, and he said it flat, and a man of about nineteen counted it and got ninety-nine, and it went in the minute in his own words, and nobody picked it up.
 
 "**Two men in this yard have now told us that the people who keep those things have words for themselves that are not on a page, and that is the second time this month that a person has told this district about a name it is not going to get, and the first time was a stranger with a case the size of a hymn book, and a resemblance noticed a second time is not a finding and a third time is a habit and this is the second time and I am saying so before somebody else does.**"
 
@@ -54,7 +54,7 @@ He was asked, at about one in the afternoon, why he had walked on the twelfth an
 
 A man of fifty-six said that a man who keeps a road has just said the plainest thing anybody has said in this yard in eleven days, **and that a reason a man gives for his own work is not a reason a body gives for a standing order and that the two of them are nine days apart in a book and are not joined, and that the refusals to join two things are thirteen and the registrar's own count is twelve and neither of them moved at about one in the afternoon on the thirteenth of the fourth month.**
 
-A man of about thirty-four who digs loam said that the whole of what this yard has learned from a man who keeps a road in two days is that a man who does a thing because of water in a channel is not doing it because of a column, **and that a column headed OPEN on a stranger's sheet and a channel with water in it are two things nine miles apart and a yard is a room and a room is not a place and I am not going to make this yard into one this afternoon.**
+A man of about thirty-one who digs loam said that the whole of what this yard has learned from a man who keeps a road in two days is that a man who does a thing because of water in a channel is not doing it because of a column, **and that a column headed OPEN on a stranger's sheet and a channel with water in it are two things nine miles apart and a yard is a room and a room is not a place and I am not going to make this yard into one this afternoon.**
 
 He was asked, at about one in the afternoon, whether he had seen a dray go up the road, and he said no and gave the reason, and a man of about nineteen counted the reason and got thirty-six, and it went in the minute in his own words.
 

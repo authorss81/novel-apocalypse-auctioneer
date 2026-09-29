@@ -2,13 +2,13 @@
 
 ---
 
-The lane off the lower terrace is not metalled for about sixty yards and then stops being a lane, and they went down it on the twenty-first of the second month, the man the figure of twenty-one years is against and the man of about thirty-four who digs loam, and there was no clerk down there and nothing was entered on the way and both of them said so.
+The lane off the lower terrace is not metalled for about sixty yards and then stops being a lane, and they went down it on the twenty-first of the second month, the man the figure of twenty-one years is against and the man of about thirty-one who digs loam, and there was no clerk down there and nothing was entered on the way and both of them said so.
 
 The tank at the back of the building is stone and about a person deep, and the man of about fifty-five who keeps the flood shelter at the sluice end had a board against the wall with a mark in charcoal for each day, and the mark for the twenty-first was the fourth he had made and the first three were in a hand that was not his wife's and were not his. **A board against the back of a building that nobody owns is not one of the five boards in this district and is not a sixth, and a mark in charcoal on it is a mark that is not cut and is not a mark under the district's own rule.**
 
 He said it was down to about three days. **It was full on the first of the second month and it had been full on the seventeenth, and since the eighteenth he had been putting water into it out of a yoke and two buckets, four trips up the bank in the morning and four in the evening when he could still stand up.**
 
-The man of about thirty-four who digs loam put his hand flat on the stone and said that it is cold all the way down and not cold at the top, and that a tank that has lost its top cold on a hill is a tank with about three days in it and that the number is a thing you find out with a hand and not with a rule. **A figure of three days said by a man of about thirty-four who digs loam and not checked is a figure and not a column, and the district has three registers already and this is not going into any of them.**
+The man of about thirty-one who digs loam put his hand flat on the stone and said that it is cold all the way down and not cold at the top, and that a tank that has lost its top cold on a hill is a tank with about three days in it and that the number is a thing you find out with a hand and not with a rule. **A figure of three days said by a man of about thirty-one who digs loam and not checked is a figure and not a column, and the district has three registers already and this is not going into any of them.**
 
 Then he took the yoke off its nail and put it into the hands of the man the figure of twenty-one years is against without asking him whether he could take it, and the man who can be found took it up the lane and did not set it down twice, and his coat was wet to the elbow by the time he came back down and he did not say so.
 
@@ -18,11 +18,11 @@ A clerk of nineteen years entered the two of those in one line and did not join 
 
 ---
 
-Then the yoke came up the bank the second time and the man who keeps the flood shelter watched it come and said nothing at all until it was down, and a man of about thirty-four who digs loam counted the paces out loud on the first trip and got about a hundred and forty, and got a hundred and forty on the second as well. **A distance said by a man out loud on a bank is a distance and not a measurement, and the district has no second pair of legs to check it with and is not going to get one.**
+Then the yoke came up the bank the second time and the man who keeps the flood shelter watched it come and said nothing at all until it was down, and a man of about thirty-one who digs loam counted the paces out loud on the first trip and got about a hundred and forty, and got a hundred and forty on the second as well. **A distance said by a man out loud on a bank is a distance and not a measurement, and the district has no second pair of legs to check it with and is not going to get one.**
 
-A man of fifty-six said that **a hundred and forty paces is a distance and not a term**, and that a man of about thirty-four who digs loam has now measured that lane with his own legs and that the district has no other way of measuring anything in it.
+A man of fifty-six said that **a hundred and forty paces is a distance and not a term**, and that a man of about thirty-one who digs loam has now measured that lane with his own legs and that the district has no other way of measuring anything in it.
 
-A man of about thirty-four who digs loam said that each bucket is about nine pounds full and that a yoke is two of them, and that the last sixty yards of that lane has not been metalled since before the flood year and goes to mud about a foot deep in the wet, and that a man who has done it four times in a morning knows what four times is. **Nine pounds is a weight and not a price, and the market on the lower terrace sells meal by the pound and does not sell carrying by the pound, and a man who has worked that out for himself is not a clerk of anything.**
+A man of about thirty-one who digs loam said that each bucket is about nine pounds full and that a yoke is two of them, and that the last sixty yards of that lane has not been metalled since before the flood year and goes to mud about a foot deep in the wet, and that a man who has done it four times in a morning knows what four times is. **Nine pounds is a weight and not a price, and the market on the lower terrace sells meal by the pound and does not sell carrying by the pound, and a man who has worked that out for himself is not a clerk of anything.**
 
 The man the figure of twenty-one years is against said the thing he was going to offer, and he said it to the man of about fifty-five and not to the lane, and a clerk of nineteen years entered that the second half of it came out before he was asked for it and that she is not going to put a number on it.
 
@@ -44,13 +44,13 @@ The third time is what he did with the crack, and he did it while the three of t
 
 It is about two feet long and about the width of a hand and it is in the side of the tank at the low end where the stone is thinnest, and he had packed it twice with loam and stone and it had not held either time.
 
-A man of about thirty-four who digs loam said that a thing a man mends twice and does not hold is a thing that wants a different man and that a different man costs money nobody has. **A man who could mend a thing and is not asked to mend it is a man this district has no instrument for, and a man who mends a thing he was not asked to mend has done a thing and not made a right.**
+A man of about thirty-one who digs loam said that a thing a man mends twice and does not hold is a thing that wants a different man and that a different man costs money nobody has. **A man who could mend a thing and is not asked to mend it is a man this district has no instrument for, and a man who mends a thing he was not asked to mend has done a thing and not made a right.**
 
 He worked the loam in with the heel of his hand and went over it twice and stood back, and the stone began to weep about a minute later, not running and not dripping, just darkening in a line about a finger wide along the join of his own work.
 
 A man of fifty-six said that a mend that weeps is a mend that has not stopped, and that a thing put twice and not held and now put a third time and weeping is a thing this district has no word for, **and that a crack in a stone is not a way of saying where a toll lands on a place and is not the fifth thing this district does not have, and that the count of five is the count of five and is the same figure it was on the twenty-first of the second month.**
 
-A man of about thirty-four who digs loam said that the sluice four miles out past the loams would put nine days into that tank in about nine hours, and that the sluice is open now and has been since before the first of the second month, and that opening it and closing it are two different acts and that closing it is the one that needs a bearer. **A man who keeps a road is not a bearer of it, and a route keeper is a Binder's counterparty and not an apprentice, and a sluice four miles out past the loams has had nobody standing at it since before the first of the second month.**
+A man of about thirty-one who digs loam said that the sluice four miles out past the loams would put nine days into that tank in about nine hours, and that the sluice is open now and has been since before the first of the second month, and that opening it and closing it are two different acts and that closing it is the one that needs a bearer. **A man who keeps a road is not a bearer of it, and a route keeper is a Binder's counterparty and not an apprentice, and a sluice four miles out past the loams has had nobody standing at it since before the first of the second month.**
 
 A clerk of nineteen years entered the figure of nine days and the figure of three days in one line and did not add them, and entered that a figure of days a man says about a tank and a figure of days a man says about a sluice are two figures about two pieces of water and are not a sum, **and that a sluice is a thing on a farm and not a line on a sheet and not a lot, and that a man who has said that about nine times in eleven weeks is not a column of his own and has never been one.**
 
@@ -138,7 +138,7 @@ A man of fifty-six said that **this district has three instruments that work wit
 
 ---
 
-The rest of the afternoon was the tank and the yoke and nobody writing any of it down, and the man of about thirty-four who digs loam went back up the bank with the yoke because the man who keeps the building could not lift it off the nail, and the man the figure of twenty-one years is against went up it with the second bucket.
+The rest of the afternoon was the tank and the yoke and nobody writing any of it down, and the man of about thirty-one who digs loam went back up the bank with the yoke because the man who keeps the building could not lift it off the nail, and the man the figure of twenty-one years is against went up it with the second bucket.
 
 A man of fifty-six said that the fifth of the five things this district does not have is a way to pay a person who is not in a household, and that the woman of fifty-eight is that person, and that the count of five is five and did not move and that a woman carrying water is not one of the five and is not a sixth. **The count of protected things is five and the count of conditions with no end on it is four and neither of them moved on the twenty-first of the second month, and a tank at about three days is not one of the four and is not one of the five and is not going into either.**
 

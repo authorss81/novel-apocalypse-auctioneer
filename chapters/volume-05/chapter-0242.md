@@ -2,7 +2,7 @@
 
 ---
 
-The fourteenth of the fifth month was bright and the wind had gone again, and about nine people were in the yard of Lot Seventeen at about ten in the morning, and the man of about thirty-four who digs loam was in it with his right arm out of the sling for the first time since the seventh of this month and did not put it back.
+The fourteenth of the fifth month was bright and the wind had gone again, and about nine people were in the yard of Lot Seventeen at about ten in the morning, and the man of about thirty-one who digs loam was in it with his right arm out of the sling for the first time since the seventh of this month and did not put it back.
 
 The trough at the foot of the bank had about four inches of rain in it and the gate did not want a foot against the post, because the ground behind it had gone soft over the winter and had not gone hard again, and the trestle table had the second sheet with the chair printed on it on it, and the copy of the page out of the cave underneath that, and the toll sheet on the top of that, and the notice was still under the leg where it had been pressed into the ground for eight days and had taken the shape of the leg.
 
@@ -38,7 +38,7 @@ Then he said what the man at the first place had said, and a man of about ninete
 
 Nobody said anything for about nine seconds. A clerk of nineteen years entered that a man who has been asked in his own doorway and has said no with a reason has not refused the eight and is not one of them, and that a man who keeps a house is not a clerk of a house, and that a second thing said after a first thing is not a correction of the first thing and is not a column and did not become a fifth column, **and that the eight did not move at about half past two in the afternoon on the fourteenth of the fifth month and the refusals about the ninth holding are seven and did not move and the two are not the same figure.**
 
-The man of about thirty-four who digs loam refused the join that had been sitting in that yard all afternoon, and the count came to ninety-seven.
+The man of about thirty-one who digs loam refused the join that had been sitting in that yard all afternoon, and the count came to ninety-seven.
 
 "**A man who opens his own door and says a thing in it has said it to a man standing in his doorway, and a column is a column, and a yard is a yard, and there is no third place where those two become the same thing. If a sentence said at a door goes into a line on a page then the page is not a record of the doorway, it is a record of the man who wrote it down, and this district has spent four months learning how to keep those two apart.**"
 
@@ -64,6 +64,6 @@ The woman of about thirty-six who keeps a scale stood at the back of that yard f
 
 The woman of fifty-eight came down the bank at about half past four with the two buckets and put them down where she puts them, and a clerk entered that nobody counted them and that a count of buckets is not a count of houses and is not a figure about a woman, and that a woman who was not asked anything this afternoon has not refused anything and cannot be counted either way and the record says not asked.
 
-The day came down about half past six and the man of about thirty-four who digs loam went out of the gate with his arm swinging and stopped at the trough and put his right hand flat in the water that was still in it and left it there for about four seconds, and the man of about thirty-four who mends fencing said nothing about that and a clerk of nineteen years entered that he said nothing about that and that the record about four seconds says not asked.
+The day came down about half past six and the man of about thirty-one who digs loam went out of the gate with his arm swinging and stopped at the trough and put his right hand flat in the water that was still in it and left it there for about four seconds, and the man of about thirty-four who mends fencing said nothing about that and a clerk of nineteen years entered that he said nothing about that and that the record about four seconds says not asked.
 
 **AND ON THE FOURTEENTH OF THE FIFTH MONTH A MAN OF TWENTY-ONE YEARS CAME BACK INTO THAT YARD AFTER TWO DAYS AND SAID HE HAD ASKED ONE OF THE TWO PLACES THAT HAVE NOT ANSWERED AND WOULD SAY NOTHING ABOUT THE OTHER ONE BECAUSE HE HAD NOT BEEN TO IT, AND A MAN OF ABOUT FIFTY-TWO KEPT THE SHEET UNDER HIS OWN DOOR AND SAID HE WOULD NOT ANSWER IT AND ALSO THAT NOBODY HAD COME UP HIS LANE SINCE HIS WIFE DIED.**

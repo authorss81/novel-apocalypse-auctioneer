@@ -76,7 +76,7 @@ Nobody in the yard wrote the length of a month on anything at all for the rest o
 
 ---
 
-The man of about thirty-four who digs loam was in the bottom of that ditch before nine and came up the bank at about ten and read the four figures at the end of that table and got all four. His right hand did not go above the level of that shoulder at any point in this day, and he did not explain that to anybody, and nobody asked him about it.
+The man of about thirty-one who digs loam was in the bottom of that ditch before nine and came up the bank at about ten and read the four figures at the end of that table and got all four. His right hand did not go above the level of that shoulder at any point in this day, and he did not explain that to anybody, and nobody asked him about it.
 
 The road keeper came up that lane at about eleven, said the four figures out loud from the middle of them as he went past without stopping at the table at all, got all four, and went on up. Nobody in the yard asked him about the eleven miles. Nobody said one word to him about a month.
 

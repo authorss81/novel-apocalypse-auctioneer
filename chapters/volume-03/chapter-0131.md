@@ -2,7 +2,7 @@
 
 ---
 
-The man of about thirty-four who digs loam and does nine days of it in ten was at the pit beside the second channel at about six in the morning on the twenty-second of October with a spade that had been ground down on one side, and nobody had asked him to be there and he said so to about four people before anybody asked him anything.
+The man of about thirty-one who digs loam and does nine days of it in ten was at the pit beside the second channel at about six in the morning on the twenty-second of October with a spade that had been ground down on one side, and nobody had asked him to be there and he said so to about four people before anybody asked him anything.
 
 The reason is in the minute in his own words and the clerk of nineteen years was not in the room. **She was told about it afterwards by a man of about thirty-one who runs a cart of meal and wrote it down, and asked him to say it a second time, and he said it the second time the same.**
 
@@ -48,7 +48,7 @@ And a woman of thirty-eight who has been in the second channel four years said t
 
 "**You are describing a year of mine and you have not asked me whether you may put it in a book, and if you build the book without asking me then the book is the sheet with no column on it and it is a better-looking one.**"
 
-Nobody said no to that and about four people said yes, and a clerk of nineteen years entered that a room had heard a reason and had not voted, and that not voting is also a thing a room does, and that she had wanted to write the not-voting down as a finding and had not, and that a man of about thirty-four who digs loam said that the not-voting was the finding.
+Nobody said no to that and about four people said yes, and a clerk of nineteen years entered that a room had heard a reason and had not voted, and that not voting is also a thing a room does, and that she had wanted to write the not-voting down as a finding and had not, and that a man of about thirty-one who digs loam said that the not-voting was the finding.
 
 "Nobody here is going to build a book about me in nine days because a man of fifty-six was in a room and said the word ledger, and nine days is not long enough to have asked me properly in."
 
@@ -80,7 +80,7 @@ The first five were not argued about for more than about nineteen minutes altoge
 
 **The sixth was argued for about two hours, lost twice, and saved by the man who had said no in September.** A clerk of nineteen years entered that the man who saved it was the same man who had refused a sheet over it, and that this is the first time in eleven weeks that one person had refused a thing and then made the thing, and that she did not join the two, and that she wanted to and that not doing a thing is also a thing she does.
 
-A woman of about thirty-three who takes in washing at the second channel said that the sixth column was a column about a room and not about a year, and that a column about a room was the one column in a book of years that a person could check by asking somebody, and the man of about thirty-four who digs loam said that was the reason he had walked in from a pit.
+A woman of about thirty-three who takes in washing at the second channel said that the sixth column was a column about a room and not about a year, and that a column about a room was the one column in a book of years that a person could check by asking somebody, and the man of about thirty-one who digs loam said that was the reason he had walked in from a pit.
 
 "The **guild form has twenty-nine columns and not one of them is that**, and it cost us a season, and I am not going to be the reason a form gets a column added in a hurry."
 
@@ -126,7 +126,7 @@ Nobody answered him. About four people wrote the sentence down at home, and the 
 
 Six people were asked on the twenty-fourth to hold the ledger and six said yes, and a clerk of nineteen years wrote the six in the order they said it and entered that the order had been in the room since the second of October and had not been written down before, and that this is the first time in eleven weeks that an order has existed in a room before anybody wrote it down.
 
-The first is the woman of thirty-eight in the second channel. The second is the man of twenty-six in a bed of brine. The third is the woman of about thirty-three who takes in washing at the second channel. **The fourth is the man of about thirty-four who digs loam and does nine days of it in ten, and he is the one who will have to fill it.**
+The first is the woman of thirty-eight in the second channel. The second is the man of twenty-six in a bed of brine. The third is the woman of about thirty-three who takes in washing at the second channel. **The fourth is the man of about thirty-one who digs loam and does nine days of it in ten, and he is the one who will have to fill it.**
 
 The fifth is the man of fifty-six who is a secretary of a cooperative of nine households. The sixth is a man of about nineteen who walked in from the road and said he could count and had been asked to and had said yes, and who said yes in four seconds to holding it, which is the fastest anybody has answered anything on this flat since the fourth of April.
 

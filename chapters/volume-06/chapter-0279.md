@@ -46,7 +46,7 @@ A man of fifty-six said one thing in that room and it was counted and came to a 
 
 A clerk of nineteen years entered that a man of fifty-six is not a clerk and has said so about himself about a dozen times in four months, and that a man who has said out loud that he does not know what a thing means has not refused the thing and cannot be counted either way, and that the record about his not knowing says not asked.
 
-Then the man of about thirty-four who digs loam said the sentence, in the ordinary voice, and it was counted and came to two hundred and two.
+Then the man of about thirty-one who digs loam said the sentence, in the ordinary voice, and it was counted and came to two hundred and two.
 
 "**She has read it back and she has said the fifth of those five lines may not be true, and she has been asked to read it back and not asked whether it is true, and those are two different things and this district found that out on the twentieth of this month in a kitchen doorway. I am the man who went into the ditch behind that building on the eleventh of this month and came up with a hand that does not close. A charter that says a person is not entered by going in and out of it is right, and a charter that says a person who was not asked is covered by it is wrong, and there is a child of about eight in this district who is not covered by either of those two sentences and is not in any book, and he is the reason the lot about the night is not the lot we have written, and if that fifth line is in the book then the lot and the charter disagree with each other on the same page and both of them are in this room and neither of them is a person.**"
 

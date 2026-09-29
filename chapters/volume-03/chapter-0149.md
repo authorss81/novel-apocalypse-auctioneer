@@ -20,7 +20,7 @@ The third sheet is a notice with three things in the middle of it and four lines
 
 The fourth sheet is the terms, and it carries the season, and the first of those seasons is the first of April to the thirty-first of March and has not been certified, and it carries a right to withdraw on any day before the first of April, and it says on its face that the right does not reach backwards, and a clerk of nineteen years entered that the right does not reach backwards and that a frame is oak and that the year came out of the channel and that the three are on the face of a charter and are not joined.
 
-A man of about thirty-four who digs loam said that the hole is in the charter on purpose, **and that a charter which said it had closed the year would be a charter a person could be held to by, and that the twenty-one years and the four hundred years are both outside it and that being outside is the only honest place for them.**
+A man of about thirty-one who digs loam said that the hole is in the charter on purpose, **and that a charter which said it had closed the year would be a charter a person could be held to by, and that the twenty-one years and the four hundred years are both outside it and that being outside is the only honest place for them.**
 
 And the terms sheet carries **the figure OF TWENTY-ONE YEARS IN THE SAME LINE AS HIS NAME AND THE ENTRY RUNS TO THE THIRTY-FIRST OF MARCH, AND IT CARRIES A YEAR AND A HALF ON A LINE OF ITS OWN THAT IS NOT ADDED AND TWO PEOPLE IN A COLUMN AS NOT KNOWN AND NOT ASKED AND ONE FRAME THAT TOOK NOTHING, AND NONE OF THE THREE IS ADDED TO ANYTHING.**
 

@@ -1,6 +1,6 @@
 # Chapter 471: A Figure You Do Not Have To Put Down
 
-The man of about thirty-seven who puts tables up said out loud, in the ordinary voice, in front of about nineteen people in the yard of Lot Seventeen on the third morning after the count, that a figure somebody has to write down can be a day out from the day it names and a figure nobody has to write down cannot be a day out at all, and he gave the reason, and the reason was about a batten and about the two tables and not about a column, and a clerk of nineteen years entered it.
+The man of about thirty-two who puts tables up said out loud, in the ordinary voice, in front of about nineteen people in the yard of Lot Seventeen on the third morning after the count, that a figure somebody has to write down can be a day out from the day it names and a figure nobody has to write down cannot be a day out at all, and he gave the reason, and the reason was about a batten and about the two tables and not about a column, and a clerk of nineteen years entered it.
 
 It was the third morning after the count and the light came up flat off the south end of that ground with no wind in it at all, and the boards of that first table had gone cold again by about nine and about four people had put a hand on them to find out, and by ten there were about nineteen people in it.
 
@@ -40,7 +40,7 @@ The man of about thirty-seven who cuts reeds came up that bank at about ten past
 
 The woman of about thirty-six who keeps a scale was asked nothing this morning and said a thing anyway, at about ten, to about nine people, and a clerk entered that she was not asked and that she said a thing, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch from about a quarter to eight until about ten and came up out of the bank with the water to his knee and got the four figures at the near end of that first table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day.
+The man of about thirty-one who digs loam was in that ditch from about a quarter to eight until about ten and came up out of the bank with the water to his knee and got the four figures at the near end of that first table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day.
 
 At about half past eleven the man the figure of twenty-one years is against came down that bank and stood about nine feet off that second table with his right hand in his coat and said one thing, and nobody answered him.
 

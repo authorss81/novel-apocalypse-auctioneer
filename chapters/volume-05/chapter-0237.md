@@ -6,7 +6,7 @@ The ninth of the fifth month was still and pale and the wind had gone round to t
 
 The clerk of nineteen years wrote that down first, before anything else, in the ordinary voice, and it went into the minute.
 
-"**That the man of about thirty-four who digs loam was not in that yard this morning and was not in it at about two in the afternoon either, and that nobody sent for him and that he was not asked a first thing, and that a person who is not asked has not refused and cannot be counted either way, and that the record says not asked.**"
+"**That the man of about thirty-one who digs loam was not in that yard this morning and was not in it at about two in the afternoon either, and that nobody sent for him and that he was not asked a first thing, and that a person who is not asked has not refused and cannot be counted either way, and that the record says not asked.**"
 
 The man of about thirty-four who mends fencing gave the three figures and the man of fifty-six read the board out over his shoulder and got the other two right.
 
@@ -68,6 +68,6 @@ The registrar of this district's records office disagreed with the first of thos
 
 Nobody picked it up. A man of fifty-six said that a registrar who disagrees with a rule out loud in a yard in front of about nineteen people is doing the one thing this yard exists to make possible, and that it is the fourth time since the first of April that one person has done it, and that she has been in this yard five months and is not a clerk of nineteen and is not a clerk of anything, **and that a notice read out twice in a yard is a thing two people have said and not a thing anybody has answered, and did not make a rival record true this afternoon.**
 
-The day came down about half past five and the man of about thirty-four who digs loam was still not in the yard, and the chair was still at the end of the trestle table where it has been for sixteen days, and nobody had put a line on a board, and there is still no date in any ledger in this district for the next reading and the refusals to read are nine and the departure is unspent.
+The day came down about half past five and the man of about thirty-one who digs loam was still not in the yard, and the chair was still at the end of the trestle table where it has been for sixteen days, and nobody had put a line on a board, and there is still no date in any ledger in this district for the next reading and the refusals to read are nine and the departure is unspent.
 
 **AND ON THE NINTH OF THE FIFTH MONTH A MAN WHO HAS STOOD IN THAT YARD EVERY MORNING FOR A FORTNIGHT WAS NOT IN IT, AND A REGISTRAR DISAGREED WITH A PANEL OUT LOUD IN FRONT OF ABOUT NINETEEN PEOPLE AND SAID THAT A NOTICE AFFECTS A PERSON BEFORE THE DAY IT IS EFFECTIVE ON, AND A PANEL SAID A NOTICE NAMES NO PERSON AND A BODY THAT PUTS UP A NOTICE HAS DECIDED IN ADVANCE THAT IT WILL NOT NEED ONE.**

@@ -24,7 +24,7 @@ Then the boy of about nineteen asked her, out loud, in front of about nine peopl
 
 A clerk of nineteen years entered that a woman said a thing out loud in that yard and entered the thing, and entered that she is not entering four hundred days as a figure about a column, and entered the reason, which is that a woman standing at a table is not standing in a post, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and then he read the first two lines on that sheet out loud to himself and not to anybody, and then he said one thing out loud in about four seconds, and the boy counted it and got thirty-six and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and then he read the first two lines on that sheet out loud to himself and not to anybody, and then he said one thing out loud in about four seconds, and the boy counted it and got thirty-six and read the number back to himself in a low voice.
 
 "**Whoever wrote that was standing at a table and not at that book, and the third line is the only one of the three that is about anybody, and that is the line somebody left out.**"
 

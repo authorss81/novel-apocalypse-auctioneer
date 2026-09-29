@@ -2,7 +2,7 @@
 
 ---
 
-The fifteenth of the tenth month came in with a hard clear light and about nineteen people were in the yard of Lot Seventeen by ten. The man of about thirty-four who digs loam read the four figures off the boards at the end of that trestle table on his way up the bank and got two of them, and the man who mends fencing told him the other two from about nine feet off without looking up, and he said them back and got both, and two people in that yard said that is the fourth time that has happened in this yard and that it is not a clerk and is not a reader and is a man counting other men's figures for his own convenience.
+The fifteenth of the tenth month came in with a hard clear light and about nineteen people were in the yard of Lot Seventeen by ten. The man of about thirty-one who digs loam read the four figures off the boards at the end of that trestle table on his way up the bank and got two of them, and the man who mends fencing told him the other two from about nine feet off without looking up, and he said them back and got both, and two people in that yard said that is the fourth time that has happened in this yard and that it is not a clerk and is not a reader and is a man counting other men's figures for his own convenience.
 
 "**Two hundred and eighty-six days from the second of January and this morning, and the days nobody has entered anything stand at three hundred and twenty-five, and the six households of the man of about forty-eight who keeps a tally have not moved for a hundred and seventy-seven days, and that last figure came out of a ladder and he was not asked for it and is not going to be.**"
 
@@ -24,7 +24,7 @@ He was in that ditch until about half past four. The outlet at the low end of it
 
 The woman of fifty-eight came down that bank at about one with two empty buckets while he was down in it, filled them at the trough, and carried them up the two goes, and she said one thing out loud to nobody on her way past about the water in that ditch being the same water she carries and it having been in there eleven years. About four people in that yard heard her and about four of them did not, and she was not asked and did not offer, and the page says not asked.
 
-Nobody did go down into it after him. The man of about thirty-four who digs loam stood at the top of that bank for about nine minutes at about one with his bar in his right hand and did not go down, and a man who stands at the top of a bank for nine minutes and does not go down it has not refused to go down it and is not entered either way.
+Nobody did go down into it after him. The man of about thirty-one who digs loam stood at the top of that bank for about nine minutes at about one with his bar in his right hand and did not go down, and a man who stands at the top of a bank for nine minutes and does not go down it has not refused to go down it and is not entered either way.
 
 He came up that bank at about half past four wet to the chest, and he could not get the last two feet of it with his legs, and he got up it on his hands and his knees in the mud and nobody offered him an arm and he did not ask for one. He stood at the top of that bank for about a minute with the water coming off him and said one thing out loud, and the man of about nineteen counted it and got ninety-eight.
 
@@ -52,6 +52,6 @@ The second line in the lot book says that there was about a foot of standing wat
 
 That bid stands at forty-five days and was not run today and no one has proposed anything at all about what to do with it. The term on that reading is sixteen days past and did not renew. The column for the name of whoever read a thing out loud was ruled and was empty at about six and nothing went into it by anybody, and the man of about thirty-four who mends fencing read nothing out loud at all today and did not offer to. The man of about sixty-four sat at the foot of the low wall on the eighty-sixth night of his run and eighty-six days in this district with nothing in his hands and nobody in that yard said one word to him about any of it.
 
-That night the man of about thirty-seven who puts tables up for anybody who will use them said one thing out loud at the end of that trestle table to nobody in particular, and nobody counted it and nobody has claimed it since.
+That night the man of about thirty-two who puts tables up for anybody who will use them said one thing out loud at the end of that trestle table to nobody in particular, and nobody counted it and nobody has claimed it since.
 
 "**I put that chair down on the eighth of this month for nobody, and a man of fifty-eight asked another man for a day's work in this yard today, and neither of those two things has anything to do with each other and I am saying so out loud before about four of you put them together.**"

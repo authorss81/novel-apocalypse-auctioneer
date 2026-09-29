@@ -36,7 +36,7 @@ The man of about thirty-four who mends fencing then asked her, in the six things
 
 Nobody said anything for about nine seconds, and the clerk entered that a registrar is not a bearer and is not a holder and is not a party of the fourth of four, and that a person who has not been asked about a notice has not refused it and cannot be counted either way, and that the record about the notice says not asked.
 
-The man of about thirty-four who digs loam said the half of it nobody had said, in the ordinary voice, with his arm in the sling, and it was counted, and it came to seventy-nine.
+The man of about thirty-one who digs loam said the half of it nobody had said, in the ordinary voice, with his arm in the sling, and it was counted, and it came to seventy-nine.
 
 "**A body four hundred miles away has worked out how to find her in about a fortnight, and she has not been asked one question about it by anybody in this yard including me, and every one of us in this yard has spent four months learning how to let a stranger walk up to a book, and a body can walk up to a book, and that is not the same door but it is the same skill.**"
 
@@ -52,7 +52,7 @@ The man of about thirty-four who mends fencing then said the thing that was in t
 
 "**That notice has got the number four in it and the sheet on this table has got the number four in it and I am not going to let anybody put the two fours together before I have said it. Two documents with a four in them are two documents about two fours. The toll sheet wants four places to pay one toll. The notice wants four places to be asked about one record, and it says two of them have not answered, and one of those two is standing in this yard saying so, and I am not going to be the man who works out which four and I am not going to let anybody work it out of the two sheets either.**"
 
-The man of about thirty-four who digs loam refused the join in the plain voice and a man of about nineteen counted it and got sixty-seven, and it went in the minute in his own words, and neither of the two counts moved.
+The man of about thirty-one who digs loam refused the join in the plain voice and a man of about nineteen counted it and got sixty-seven, and it went in the minute in his own words, and neither of the two counts moved.
 
 "**A sheet that wants a toll paid and a notice that wants a record asked against are two instruments with two purposes, and one of them takes money off a house and the other one takes a room, and a room is not money and money is not a room, and an eighth is an eighth and the number of people watching it is not a reason.**"
 

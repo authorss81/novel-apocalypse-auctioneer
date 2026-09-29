@@ -40,7 +40,7 @@ The man of about twenty-nine who drives that cart was at the near end of that se
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that a man who put a sheet on that table on the first morning of the month before said out loud this morning that a second sheet is not in his hand, and the record about the not asking says not asked.
 
-A man of about thirty-four who digs loam came up that bank at about a quarter to eleven and stood at the end of that second table and read the fourth line of that second sheet and said nothing for about a minute, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man read a line in that yard this morning and entered nothing about what he thought of it and entered that nobody asked him anything, and the record about the not asking says not asked.
+A man of about thirty-one who digs loam came up that bank at about a quarter to eleven and stood at the end of that second table and read the fourth line of that second sheet and said nothing for about a minute, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man read a line in that yard this morning and entered nothing about what he thought of it and entered that nobody asked him anything, and the record about the not asking says not asked.
 
 At about eleven the man of about thirty-four who mends fencing said one thing out loud, in about nine seconds, to about nineteen people, and the boy counted what he said and got fifty-six and read the number back to himself in a low voice.
 

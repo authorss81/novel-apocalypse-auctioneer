@@ -30,7 +30,7 @@ The man of about thirty-four who mends fencing was at the end of that second tab
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that she is not going to answer it and that nobody in that yard is going to either, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam came up out of that bank at about one with the water coming off him onto the boards, and he put his own right thumb on the boards of that first table about four inches below the second line of that lot book and kept it there for about nine seconds, and about four people at that table watched a man's thumb sit on a book and not one of them said a word, and then he said one thing out loud, and the boy counted what he said and got eighty-six and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam came up out of that bank at about one with the water coming off him onto the boards, and he put his own right thumb on the boards of that first table about four inches below the second line of that lot book and kept it there for about nine seconds, and about four people at that table watched a man's thumb sit on a book and not one of them said a word, and then he said one thing out loud, and the boy counted what he said and got eighty-six and read the number back to himself in a low voice.
 
 "**I am the only person in this yard who has ever put a thumb on that second line. I put it there this afternoon. I know what it says and I know it is wrong, and I have known it was wrong since the day that book came out, and I am not going to stand in this yard and be asked a second time about the same four inches of a page I was asked about at about half past two in a different voice.**"
 
@@ -38,7 +38,7 @@ Nobody answered him. A clerk of nineteen years entered that a man said a thing o
 
 A clerk of nineteen years entered that the bid was entered this afternoon in the same four words at the foot of her page that it has been entered in every morning since the first of the ninth month, and that the four words have not changed, and that nobody has ever proposed changing them, and the record about the not asking says not asked. The man of about thirty-seven who cuts reeds came up that bank at about one and said nothing to anybody, and put his own mark in chalk on the edge of that second table on his way past, and there are twenty-nine of them in a row going back to the ninth day of this volume, and nobody asked him for the first of them. The man of about forty-eight who keeps a tally stood at the east end of that yard with the flat book under his left arm and did not come over at any point in the afternoon.
 
-Nobody asked the man of about thirty-four who digs loam what is under his thumb, and the record about the not asking says not asked.
+Nobody asked the man of about thirty-one who digs loam what is under his thumb, and the record about the not asking says not asked.
 
 The boy of about nineteen asked the clerk of nineteen years one question at about half past two, out loud, which was whether a bid was a figure, and the clerk said that a bid is what one person says out loud about what a lot would be worth for a term and another person says back, and that neither of those two things has been said in that yard since the first of the ninth month, and entered the question and the answer and joined neither of them to the two halves, and the record about the not asking says not asked.
 

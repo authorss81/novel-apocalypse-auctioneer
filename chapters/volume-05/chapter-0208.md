@@ -8,7 +8,7 @@ A man of about thirty-four who mends fencing gave the figures out loud and a man
 
 "**A hundred and five days on the board and four hundred and twenty-one days on the train, and the days nobody has entered stand at a hundred and thirty-five, and the fifth thing this district does not have is a way of paying a person who is not in a household and it was named out loud in this yard on the twenty-ninth of the third month and it has not been paid since.**"
 
-Nobody argued with it. A man of about thirty-four who digs loam said that a thing named out loud in a yard does not become a smaller thing by being said again, **and that the count of things this district does not have is five and is five, and that a strip of paper on a table is a document somebody owns and is not a sixth of anything, and that this district has three documents nobody owns and did not make a fourth this morning.**
+Nobody argued with it. A man of about thirty-one who digs loam said that a thing named out loud in a yard does not become a smaller thing by being said again, **and that the count of things this district does not have is five and is five, and that a strip of paper on a table is a document somebody owns and is not a sixth of anything, and that this district has three documents nobody owns and did not make a fourth this morning.**
 
 ---
 
@@ -20,7 +20,7 @@ He said the second half of it before the asking, and a man of about nineteen cou
 
 A man of fifty-six said that a stranger who has been waiting six days for a yard to do his arithmetic is a stranger who has spent six days measuring this district, and that the arithmetic is short. **The top field four miles out past the loams is the fourth holding on the delivery sheet at the second reservoir, and the fourth holding has not taken a drop since the first of the second month, and the toll on the lease is paid at the ninth place, and the ninth holding is the one nobody can account for, and a man who digs loam has refused to join two of those three in this yard on two separate days and the refusals to join two things stand at thirteen and the registrar's own count at twelve and neither of them moved at half past ten in the morning on the eighth of the fourth month.**
 
-The man of about thirty-four who digs loam said the refusal out loud and on purpose, and a clerk of nineteen years entered that he said it and that she was not asked to write the order down and entered the order.
+The man of about thirty-one who digs loam said the refusal out loud and on purpose, and a clerk of nineteen years entered that he said it and that she was not asked to write the order down and entered the order.
 
 "**A road that goes up ends where the water is and a holding nobody can account for is where the water is not accounted for and those are two sentences and this district has joined them before and been wrong, and I am not doing it a third time for a man with a case the size of a hymn book.**"
 
@@ -76,7 +76,7 @@ Nobody said the opposite. The man the figure of twenty-one years is against said
 
 ---
 
-The man of about thirty-four who digs loam said the part that had not been said, and he said it before anybody asked him for it, and a clerk of nineteen years entered that she was not asked and that she is not going to put a number on it.
+The man of about thirty-one who digs loam said the part that had not been said, and he said it before anybody asked him for it, and a clerk of nineteen years entered that she was not asked and that she is not going to put a number on it.
 
 "**You have all day to work out that you are about to take a piece of wood off a woman's stones and put it on a cart, and a piece of wood on a cart that came out of a yard is a job, and the job is hers because it came off her stones, and she is not in the cart and she is not in the yard and nobody has said her name since the twenty-fourth of the third month. That is the fifth of the five and it is not a wage. It is the fifth of the five standing in the middle of this yard and nobody has priced it because there is no figure in this basin that prices a person who is not in a household.**"
 

@@ -18,7 +18,7 @@ About nine people in that yard stood still while he said it. He took about four 
 
 Then the man of fifty-six came into that yard at about eleven and came and stood at the end of that trestle table about nine feet off, and he did not say one word about it.
 
-He waited there for about a quarter of an hour. The mender bent wire. The woman of fifty-eight came down the bank with two empty buckets and set them by the trough. The man of about thirty-four who digs loam said that he was going to the loam and went out of that yard up the lane, and the man of fifty-six watched him go and said nothing, and it was not said out loud whether the two of them had said one word to each other at all, and a clerk did not enter it.
+He waited there for about a quarter of an hour. The mender bent wire. The woman of fifty-eight came down the bank with two empty buckets and set them by the trough. The man of about thirty-one who digs loam said that he was going to the loam and went out of that yard up the lane, and the man of fifty-six watched him go and said nothing, and it was not said out loud whether the two of them had said one word to each other at all, and a clerk did not enter it.
 
 At about one the man of fifty-six read the four figures out loud over the mender's shoulder, and got all four, and about nine people in that yard heard him do it, and he read them in the ordinary voice and at the speed he always reads them.
 
@@ -48,7 +48,7 @@ A clerk of nineteen years entered that a man who has said nothing all afternoon 
 
 ---
 
-The rest of the day went like the rest of that week. The man of about thirty-four who digs loam was up the lane in a field from about half past two until about five. The man who keeps a road came up that lane at about three, read the four figures off the boards of that trestle table as he went past it without stopping, and got three of the four right and the fourth one wrong, and went on up the lane. About four people in that yard noticed which one he had wrong and said so to one another while he was still going, and he did not stop and did not turn round and did not come back and was not asked.
+The rest of the day went like the rest of that week. The man of about thirty-one who digs loam was up the lane in a field from about half past two until about five. The man who keeps a road came up that lane at about three, read the four figures off the boards of that trestle table as he went past it without stopping, and got three of the four right and the fourth one wrong, and went on up the lane. About four people in that yard noticed which one he had wrong and said so to one another while he was still going, and he did not stop and did not turn round and did not come back and was not asked.
 
 A clerk of nineteen years entered that a man who reads a figure wrong going past a table has not made a finding and has not made a habit out of it and the wrong number is not a figure about the man who read it, and that about four people in a yard noticing which of four numbers a man got wrong is a figure about those four people and not about the numbers, and that a man who knows where a road goes is not holding that road and was asked no question about eleven miles this morning.
 

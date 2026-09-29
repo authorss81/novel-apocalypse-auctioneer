@@ -10,13 +10,13 @@ The man of fifty-six said the four off that wall in the ordinary voice and got a
 
 ---
 
-The clerk of nineteen years said one thing out loud at about half past nine, in about eleven seconds, to about nineteen people, and the boy counted what she said and got seventy-four and read the number back to himself in a low voice.
+The clerk of nineteen years said one thing out loud at about half past nine, in about twenty-eight seconds, to about nineteen people, and the boy counted what she said and got seventy-four and read the number back to himself in a low voice.
 
 "**That four has not moved and I have looked at it twice this morning, and nobody has put a fifth kind of thing in front of me, and I am going to keep saying that until somebody does and I am not going to say this morning what the fifth one would be, because the last time I said what the next one would be in this yard I was wrong inside a week.**"
 
 A clerk of nineteen years entered that a clerk said a thing out loud in that yard and entered the thing, and entered that the number of documents this district does not own is four and did not move, and the record about the not asking says not asked.
 
-The man of about forty-eight who keeps a tally was at the east end of that yard with the flat book under his left arm and said one thing out loud, in about nine seconds, and the boy counted what he said and got sixty-six and read the number back to himself in a low voice.
+The man of about forty-eight who keeps a tally was at the east end of that yard with the flat book under his left arm and said one thing out loud, in about twenty-five seconds, and the boy counted what he said and got sixty-six and read the number back to himself in a low voice.
 
 "**It is four because it is a kind and not a figure about four things, and a page a person can account for is a page, and there is not one of those in this yard, and about four of you have been asking me for a fifth for a fortnight and I am telling you the same thing I told the clerk four days ago.**"
 
@@ -32,27 +32,27 @@ The woman of about thirty-three who takes in washing at the second channel asked
 
 "**Can anybody who does not live in this parish get to that bank without a cart?**"
 
-The road keeper stopped on that lane where he was standing, about four feet short of the gate, and did not come any further back, and said one thing out loud in about nine seconds, and the boy counted what he said and got eighty-three and read the number back to himself in a low voice.
+The road keeper stopped on that lane where he was standing, about four feet short of the gate, and did not come any further back, and said one thing out loud in about thirty-one seconds, and the boy counted what he said and got eighty-three and read the number back to himself in a low voice.
 
 "**That lane is the only way in. It is eleven miles and I walk it twice a day, and about nine people come up it in a week and about four of them are not people who live in this parish, and there is a gate at the ninth mile, and after that gate the road goes down to the water, and a man on foot who is not from this parish will be told at that gate that the road ends there.**"
 
 A clerk of nineteen years entered that a man was asked a thing on that lane and entered that he answered it, and entered that nobody asked him a second question, and the record about the not asking says not asked.
 
-The road keeper said one more thing out loud from where he was standing, in about nine seconds, and the boy counted what he said and got fifty-nine and read the number back to himself in a low voice.
+The road keeper said one more thing out loud from where he was standing, in about twenty-three seconds, and the boy counted what he said and got fifty-nine and read the number back to himself in a low voice.
 
 "**And nobody has ever asked me whether the road ends at the water, and it does not, and there are four more miles of it past that gate, and I have said nothing about that for about six months because there is nobody here to say it to and I am not paid to carry news up a lane.**"
 
 A clerk of nineteen years entered that a man said a thing out loud on that lane and entered the thing, and entered that she is not entering the four miles as a figure, and entered the reason, which is that a figure on a page would be the first thing anybody in this district could put on it about that road, and the record about the not asking says not asked.
 
-The boy of about nineteen said one thing out loud at about half past one, in about nine seconds, and the boy counted what he said and got seventy and read the number back to himself in a low voice.
+The boy of about nineteen said one thing out loud at about half past one, in about twenty-six seconds, and the boy counted what he said and got seventy and read the number back to himself in a low voice.
 
 "**He has been asked about those eleven miles in six months by about four hundred people and he has never once been asked whether the road ends, and it is the same man and it is a different question, and about four of you have been standing in that yard for a fortnight waiting to ask somebody something and the one you wanted was not on that lane at all.**"
 
 A clerk of nineteen years entered that a boy said a thing out loud in that yard and entered the thing, and entered that a man on that lane had been asked about a road and had not been asked whether the road ends, and the record about the not asking says not asked.
 
-A man of about thirty-four who digs loam came up that bank at about a quarter to two and stood at the end of that second table and said nothing at all to anybody, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man was in that yard and entered nothing about him, and the record about the not asking says not asked.
+A man of about thirty-one who digs loam came up that bank at about a quarter to two and stood at the end of that second table and said nothing at all to anybody, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man was in that yard and entered nothing about him, and the record about the not asking says not asked.
 
-The man of about thirty-four who mends fencing was at the end of that second table at about half past one with his right hand flat on the boards, and said one thing out loud, in about nine seconds, and the boy counted what he said and got sixty-seven and read the number back to himself in a low voice.
+The man of about thirty-four who mends fencing was at the end of that second table at about half past one with his right hand flat on the boards, and said one thing out loud, in about twenty-five seconds, and the boy counted what he said and got sixty-seven and read the number back to himself in a low voice.
 
 "**If the only road to that bank is a lane with a gate on it at the ninth mile, then a man who agrees to be found is a man who agrees to be found on a road, and that is a different thing from agreeing to be found, and about four of you have been using those two words as though they were one all week.**"
 
@@ -72,4 +72,4 @@ The fifth of the five things this district does not have is not paid, the fifth 
 
 Nobody in that yard went up that bank after the buckets, and the buckets went down that bank empty at about half past five in the rain and were brought back up it full, and the woman of about fifty-eight read three lines in that lot book standing up on her way past with her coat on and said nothing to anybody, and about four people at the foot of that bank have said since that about nine people in that yard this afternoon found out that the only road to that bank is a lane with a gate on it, and that about four of them have said that nobody in that yard had thought to ask. The man of fifty-six said the four off that wall for the last time that day, got all four of them, and about nine people near that wall have said since that a man who has said those four figures for three hundred and two mornings has still not been asked what one of them is for, and that about four of them have said that this afternoon a yard full of about nineteen people asked a man who comes up a lane instead.
 
-A woman of about thirty-three who takes in washing at the second channel asked the road keeper on that lane at about a quarter past one on the fourteenth of the fourth month whether anybody who does not live in this parish can get to that bank without a cart, and he answered her in about nine seconds and said that there is a gate at the ninth mile and that the road goes on four miles past it, and a clerk of nineteen years entered that a man was asked and answered and that the number of documents this district does not own is four, and the number of sheets on the end of that second table is four and a man of about thirty-four who mends fencing was at the end of that table at about half past one with his right hand flat on the boards and not on the stone and not on any of the four sheets.
+A woman of about thirty-three who takes in washing at the second channel asked the road keeper on that lane at about a quarter past one on the fourteenth of the fourth month whether anybody who does not live in this parish can get to that bank without a cart, and he answered her in about thirty-one seconds and said that there is a gate at the ninth mile and that the road goes on four miles past it, and a clerk of nineteen years entered that a man was asked and answered and that the number of documents this district does not own is four, and the number of sheets on the end of that second table is four and a man of about thirty-four who mends fencing was at the end of that table at about half past one with his right hand flat on the boards and not on the stone and not on any of the four sheets.

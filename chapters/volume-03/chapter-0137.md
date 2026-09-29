@@ -131,7 +131,7 @@ A man of about nineteen who walked in from the road said the other half and he i
 
 "**A page that says a man is fine with a blank cell is a page about the man. A page that says why the cell is blank is a page about the clerk.**"
 
-A clerk of nineteen years entered that, and entered that she had wanted to argue with a man of nineteen and had not, and that a man who has been in a room for eleven weeks and has not said a thing until now is not a man who is being careful, and that a man of about thirty-four who digs loam is the fourth of the six and fills the page and was thirty-four miles east and is not here and was not asked.
+A clerk of nineteen years entered that, and entered that she had wanted to argue with a man of nineteen and had not, and that a man who has been in a room for eleven weeks and has not said a thing until now is not a man who is being careful, and that a man of about thirty-one who digs loam is the fourth of the six and fills the page and was thirty-four miles east and is not here and was not asked.
 
 **AND ON THE SEVENTH OF NOVEMBER A MAN OF ABOUT NINETEEN WHO WALKS IN FROM THE ROAD SAID THAT A PAGE WHICH SAYS A MAN IS FINE WITH A BLANK CELL IS A PAGE ABOUT THE MAN AND A PAGE WHICH SAYS WHY THE CELL IS BLANK IS A PAGE ABOUT THE CLERK, AND A CLERK OF NINETEEN YEARS ENTERED THAT SHE HAD WANTED TO ARGUE WITH A MAN OF NINETEEN AND HAD NOT, AND THAT THE MAN OF ABOUT THIRTY-FOUR WHO DIGS LOAM IS THE FOURTH OF THE SIX AND FILLS THE PAGE AND WAS THIRTY-FOUR MILES EAST AND WAS NOT ASKED.**
 

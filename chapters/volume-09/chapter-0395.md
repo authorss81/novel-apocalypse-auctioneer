@@ -4,7 +4,7 @@
 
 The door four hundred yards up that bank was shut when that yard filled up on the morning of the twenty-third of the tenth month, and it was shut again at about half past five. By ten there were about nineteen people in the yard of Lot Seventeen, and nobody in the yard went up that bank.
 
-The man of fifty-six read the four figures off those boards out loud over the mender's shoulder and got all four. The man of about thirty-four who digs loam read them standing at the end of that table and got all four. The road keeper came up that lane at about eleven, read the four figures off the boards as he went by, got all four, and went on up, and nobody in the yard asked him about the eleven miles, and nobody said one word to him about the door.
+The man of fifty-six read the four figures off those boards out loud over the mender's shoulder and got all four. The man of about thirty-one who digs loam read them standing at the end of that table and got all four. The road keeper came up that lane at about eleven, read the four figures off the boards as he went by, got all four, and went on up, and nobody in the yard asked him about the eleven miles, and nobody said one word to him about the door.
 
 "**The board carries three hundred and three, the train on that siding has stood six hundred and nineteen days, and two hundred and ninety-four days separate the second of January and this morning, and the four columns of not-askings on that page have been ruled since before the first of the ninth and nothing has ever gone in one of them.**"
 
@@ -24,7 +24,7 @@ About four people said that the boy had just read a book out loud in a yard and 
 
 "Nobody is asking you to do it again," somebody else said, and about four of them said that, and nobody in the yard asked him to read it back from the top, and he was not asked.
 
-Then the man of about thirty-seven who puts tables up for anybody who will use them said one thing out loud at the east wall, to nobody in particular, and about four of them heard it and nobody counted it, and the tent was still rolled on the back of his hand-cart where it has been since the thirtieth of the June.
+Then the man of about thirty-two who puts tables up for anybody who will use them said one thing out loud at the east wall, to nobody in particular, and about four of them heard it and nobody counted it, and the tent was still rolled on the back of his hand-cart where it has been since the thirtieth of the June.
 
 "**There are two stones on that step and I have put a foot on the bottom of them about four hundred times and I have never once been past the top one, and I am not going to be, and a man who puts tables up for anybody who will use them is a man who puts tables up and that is the whole of him.**"
 

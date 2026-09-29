@@ -12,7 +12,7 @@ The first was that the man behind the counter had answered a question, and the q
 
 "**The house keeps nine holdings and a tenth line, and there is no eleventh thing on a sheet, and we do not keep a list of things that are not lines.**"
 
-Nobody argued with it. A man of fifty-six said that the sentence is true, and that a man of about thirty-four who digs loam and does nine days of it in ten said in the second week of January that a sluice is an eleventh thing on the same piece of water, and that the two are the same finding said by two people who have never met, **and that a resemblance between two sentences is not a join, and that a house and a loam-digger are not joined by both of them having said a true thing about the same water.**
+Nobody argued with it. A man of fifty-six said that the sentence is true, and that a man of about thirty-one who digs loam and does nine days of it in ten said in the second week of January that a sluice is an eleventh thing on the same piece of water, and that the two are the same finding said by two people who have never met, **and that a resemblance between two sentences is not a join, and that a house and a loam-digger are not joined by both of them having said a true thing about the same water.**
 
 A man of about thirty-four who mends fencing said that a house which will tell a stranger that it does not keep a list of things that are not lines has just told this district the shape of its own problem in thirty-one words, **and that the shape is that the whole of what there is to know is what a house has decided to list, and that a printed gap is cheaper than a hidden clause and a house that tells you about the gap has built you one.**
 

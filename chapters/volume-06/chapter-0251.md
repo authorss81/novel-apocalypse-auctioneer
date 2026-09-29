@@ -48,7 +48,7 @@ Somebody turned it round. A clerk of nineteen years asked for it to be read, bec
 
 Nobody in that yard said anything for about nine seconds. A clerk of nineteen years entered that the sheet names one building and no place and no person, and that a building is not a place name and that the sheet says the Hall and does not say which Hall, and that a nail in a gatepost is not a keeper and that whoever drove it in is not on the sheet and is not in this district and has never been asked about it.
 
-Then the man of about thirty-four who digs loam, who came down the bank with his right arm out of a sling that is not his and has been out of it since the fourteenth of last month, said the thing about the number and the count came to a hundred and thirty-seven.
+Then the man of about thirty-one who digs loam, who came down the bank with his right arm out of a sling that is not his and has been out of it since the fourteenth of last month, said the thing about the number and the count came to a hundred and thirty-seven.
 
 "**Four hundred and eleven, and they got it by knocking. That is the whole of the sentence and there are two halves of it and both of them are wrong in different directions. A number arrived at by counting the people who answered a door is a count of the answerers and not a count of the people, and I have been in nine doorways in nine days and I know exactly what a person looks like on the other side of one, and what they look like is a person who has opened it. The people in the shadow of that thing did not open. That is the entire method they have got and it is nine years old and it is the only thing standing between them and a piece of paper, and somebody knocked.**"
 

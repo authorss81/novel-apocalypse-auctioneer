@@ -34,7 +34,7 @@ The woman of about thirty-three who takes in washing at the second channel came 
 
 A woman of about thirty-three who takes in washing set a basket down on that table because the step is two inches, and a clerk entered the thing she said out loud and entered that she took the basket off again, and the record about the not asking says not asked.
 
-A man of about thirty-four who digs loam came up that bank at about eleven and stood at the end of that second table for about a minute looking at the fourth line of that second sheet and then went back down the bank with his barrow, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man looked at a line in that yard and went away again and entered that she is not entering anything about it, and the record about the not asking says not asked.
+A man of about thirty-one who digs loam came up that bank at about eleven and stood at the end of that second table for about a minute looking at the fourth line of that second sheet and then went back down the bank with his barrow, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man looked at a line in that yard and went away again and entered that she is not entering anything about it, and the record about the not asking says not asked.
 
 The woman of about thirty-six who keeps a scale was at the near end of that first table at about half past eleven with her shop open behind her, and said one thing out loud, in about nine seconds, and the boy counted what she said and got seventy and read the number back to himself in a low voice.
 

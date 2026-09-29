@@ -10,7 +10,7 @@ A clerk of nineteen years entered that four hundred and eleven is the figure on 
 
 ---
 
-The man of about thirty-seven who puts tables up for anybody who will use them came off the brick at the foot of the east wall at about half past ten and came and stood at the end of that trestle table.
+The man of about thirty-two who puts tables up for anybody who will use them came off the brick at the foot of the east wall at about half past ten and came and stood at the end of that trestle table.
 
 Nobody asked him to. He had not been in that yard at that end of that table in three weeks, and about nine people in that yard looked up and then went on with what they were doing, and he stood there for about four minutes before he said anything at all.
 
@@ -50,13 +50,13 @@ The man the figure of twenty-one years is against said one thing out loud at abo
 
 "**A man has been corrected in that yard this morning in front of about nine people and he said thank you and he stayed at that table for about nine minutes afterwards, and I want it said that this district has spent a long time building fences around people so that nothing could be corrected in front of about nineteen of them without their asking for it first, and that is what happened this morning and nobody asked for it and nobody arranged it. I am not going to stand here and say thank you to the man of fifty-six for it, because thank you said out loud in a yard is a thing said out loud in a yard and it is not the same as the thing I mean, and there is no column for it and there is not going to be one. I am going to say that a yard is the only instrument this district has that can do that, and that about nine people in it this morning had a number put right and did not have to be asked, and that a book four hundred yards up that bank could not have done it and would not have done it and is not going to.**"
 
-About nine people in that yard said nothing back, and the man of about thirty-seven who puts tables up was at the foot of the east wall by then and did not hear it, and nobody in that yard told him about it afterwards, and a clerk entered that he was not there to hear it and that nobody told him afterwards.
+About nine people in that yard said nothing back, and the man of about thirty-two who puts tables up was at the foot of the east wall by then and did not hear it, and nobody in that yard told him about it afterwards, and a clerk entered that he was not there to hear it and that nobody told him afterwards.
 
 A clerk of nineteen years entered that a yard is a room with no roof and that nothing in this district gets said out loud anywhere else, and that a table with four legs in a yard is not a counter until somebody asks somebody a question at it, and that no question was asked at that table this morning and four figures were read off the end of it and one of them was put right out loud by a third person, and that a man who was not there to hear a thing said about him has not been given anything and cannot be counted either way.
 
 ---
 
-The man of about thirty-four who digs loam was at the top of that ditch from about two until about five and did not come to that trestle table at all, and his right arm did not go above the level of that shoulder. The man who keeps a road came up that lane at about three with his boots black to the ankle, read the four figures off the boards of that trestle table as he went past, got three of the four right and the fourth one wrong, and went on up the lane without stopping, and about four people in that yard noticed which one he had wrong and said so to each other while he was still going, and he did not stop and did not turn round and was not asked.
+The man of about thirty-one who digs loam was at the top of that ditch from about two until about five and did not come to that trestle table at all, and his right arm did not go above the level of that shoulder. The man who keeps a road came up that lane at about three with his boots black to the ankle, read the four figures off the boards of that trestle table as he went past, got three of the four right and the fourth one wrong, and went on up the lane without stopping, and about four people in that yard noticed which one he had wrong and said so to each other while he was still going, and he did not stop and did not turn round and was not asked.
 
 The man of about twenty-nine who drives a cart was out on that road and was four miles off before the light came up, and about four people in that yard said that he would be in on one of the other days of that week, and nobody in that yard said what for, and nobody in that yard asked him anything and he was not asked to be in it again.
 

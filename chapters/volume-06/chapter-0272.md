@@ -48,7 +48,7 @@ The curtain came off the front door of that building and went back on the nail i
 
 A clerk of nineteen years entered that the front door of that building is not locked and was not locked before this afternoon either, and that a curtain in a door has never been the thing keeping anybody out of that building, and that a handle on a door and a person in it is the whole of the difference and that a curtain is a draught and is not a rule.
 
-Then the man of about thirty-four who digs loam said the thing about the entrance, in the ordinary voice, to about nine people at the foot of that lane, and it was counted and came to a hundred and fifty-one, and a clerk entered that nobody asked him what it was for.
+Then the man of about thirty-one who digs loam said the thing about the entrance, in the ordinary voice, to about nine people at the foot of that lane, and it was counted and came to a hundred and fifty-one, and a clerk entered that nobody asked him what it was for.
 
 "**A public entrance is not a thing you build. It is a thing that is not there. There is one door in that building at the end of this lane that a person can walk through at any hour without saying who they are, and there has been one since the second of April, and this district has spent five months building nine doors and has not noticed that the one that is open is the one nobody designed. If I stand in it on the night we have not chosen yet, then that door is a public entrance on that night, and on the morning after it is a door with a curtain on a nail again, and a thing that is there on one night and not on the next is not an instrument this district has built and named and it is not a seventh of the six.**"
 

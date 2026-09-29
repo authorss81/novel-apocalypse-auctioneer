@@ -14,7 +14,7 @@ A clerk of nineteen years entered that he came anyway and that coming anyway aft
 
 Nobody in that yard said anything for a moment. A man of fifty-six said that **a man of forty-eight who says he is fifty-one has said two figures about one person and that the second one is a fact about his arm and is not a column**, and a clerk of nineteen years entered both figures and entered that she was not asked which of the two he meant and is not going to be.
 
-A man of about thirty-four who digs loam said that a person who has been used to carrying a thing is not a person who has agreed to carry it, and that this district put him there by asking him to, **and that a man who has carried a board to five doorways twice in nine weeks without a term on it has been the last link in a chain he cannot see and the last link is always the one that is not written down.**
+A man of about thirty-one who digs loam said that a person who has been used to carrying a thing is not a person who has agreed to carry it, and that this district put him there by asking him to, **and that a man who has carried a board to five doorways twice in nine weeks without a term on it has been the last link in a chain he cannot see and the last link is always the one that is not written down.**
 
 A clerk of nineteen years entered that **a man who carries a thing under his arm and is not paid for it is not a bearer of it and is not a holder of it and is not a keeper of it, and that the count of instruments this district has built and not named is six and is the same six it was on the twenty-fifth of the second month, and that a tally is a tally and is not a board and has never been a board.**
 
@@ -40,7 +40,7 @@ A clerk of nineteen years entered that the five things a man said at five doors 
 
 At the fourth door nobody came, and he said that nobody has come to that door since the fourth week of January, and that he is one of the three and has not been asked again and is not going to be. At the fifth door a man of about twenty was standing in it, and the man of about forty-eight did not stop, and a clerk of nineteen years entered that she was not asked about the man of about twenty and is not going to be.
 
-A man of about thirty-four who digs loam said that **a man who can say what is at five doors without knocking at any of them has got the only survey this district has, and that it is nine weeks old and in a hand that is not a clerk's hand and under a man's arm, and a survey a man carries is not an instrument and is not a record and is not to be entered as one.**
+A man of about thirty-one who digs loam said that **a man who can say what is at five doors without knocking at any of them has got the only survey this district has, and that it is nine weeks old and in a hand that is not a clerk's hand and under a man's arm, and a survey a man carries is not an instrument and is not a record and is not to be entered as one.**
 
 It was left where it was put down. A man of fifty-six said that the district has spent four months building instruments and the best information it has is a man with a board, and that the two of those are not joined and that a man who has said that out loud is not a rule and is not written down.
 
@@ -48,7 +48,7 @@ It was left where it was put down. A man of fifty-six said that the district has
 
 ---
 
-A man of about thirty-four who digs loam said a thing about the scale that he has said the other half of before, and a clerk of nineteen years entered that the other half is the half that was said on the seventeenth of the second month and that a sentence said twice is a habit and not a finding.
+A man of about thirty-one who digs loam said a thing about the scale that he has said the other half of before, and a clerk of nineteen years entered that the other half is the half that was said on the seventeenth of the second month and that a sentence said twice is a habit and not a finding.
 
 He said that **a scale can weigh about nine sacks of seed and cannot weigh a season, and a season is the thing every document in this district's business is actually about**, and that the woman of about thirty-six has been standing at the only instrument in this basin that tells the truth about weight and has never once been asked what a season weighs.
 
@@ -117,7 +117,7 @@ The man who lives in a cart said the other half before anybody asked him for it,
 
 The twenty-sixth of the second month was the day the man of about thirty-one who mends a dray at a forge end off Salt Row carried the tally down the lane, and he carried it from the yard to the end of the lane and back and nobody asked him to and a clerk of nineteen years entered that he offered and that nobody sent for him.
 
-He put it down on the trestle table when he came back and his right hand was not still for about a minute afterwards, and a man of about thirty-four who digs loam said that **a board of eighteen inches by twelve carried a mile in the hand of a man who mends a dray is a heavier thing than it looks, and this district has never weighed anything it had written down.**
+He put it down on the trestle table when he came back and his right hand was not still for about a minute afterwards, and a man of about thirty-one who digs loam said that **a board of eighteen inches by twelve carried a mile in the hand of a man who mends a dray is a heavier thing than it looks, and this district has never weighed anything it had written down.**
 
 A clerk of nineteen years entered that a man who has been a security since the ninth year carried a board once and is not a bearer of it, and that the fifth of the five posted securities is a man and a man is not a list and that the list is still not written, **and that a man who carries a thing once and puts it down is a man who has done a thing and not made a right and is not to be entered as one.**
 

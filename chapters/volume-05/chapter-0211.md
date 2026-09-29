@@ -20,7 +20,7 @@ He said the honest answer and a man of about nineteen counted it and got sixty-t
 
 A man of fifty-six said that a man who copies a thing he does not understand in fifty minutes and gives the copy away is the reason eight days were read out in a yard on the ninth of this month, and that the district is not going to pay him for it and has said so four times. A clerk of nineteen years entered that a refusal for the same reason is not a new refusal, **and that a man of about twenty-three who sells nothing and copies for nothing is owed eleven coppers a week and there is no money in this district that anybody can pay anybody with, and that a man who says he would rather have his not-knowing written down has been entered in a column of this district's own and is not in the count of columns of not-askings, and she is not going to rule a fifth and is not going to pretend that one was ruled.**
 
-The man of about thirty-four who digs loam did the sum, and he did it out loud and in the ordinary voice, and a man of about nineteen counted it and got seventy-six, and a man of fifty-six said afterwards that he has still never once seen that man do a sum in a yard and stop at the answer, and entered that he was not asked to.
+The man of about thirty-one who digs loam did the sum, and he did it out loud and in the ordinary voice, and a man of about nineteen counted it and got seventy-six, and a man of fifty-six said afterwards that he has still never once seen that man do a sum in a yard and stop at the answer, and entered that he was not asked to.
 
 "**Eleven days is eleven days and today is the first of them with nothing at all in the column, and a run that goes one a night does not stop at eight because it is the eighth, and I said that in a lane on the eleventh of this month and nobody wrote it down, and here it is again in a yard with about nine people in it and it is still not written down.**"
 
@@ -34,7 +34,7 @@ Then the man of about thirty-four who mends fencing said the thing out loud, and
 
 Nothing was said for about nine seconds. A man of fifty-six said that a man who names a day in a yard has made a plan and not a promise, and that a plan is not a document and is not one of the three nobody owns, **and that a yard is the only instrument this district has and the whole of what a yard is good for is that a man can say a day out loud in front of nineteen people and be unlucky if he does not turn up, and that about nine people were in this yard this morning and that is the whole of the instrument.**
 
-A man of about thirty-four who digs loam said that the man who mends fencing has now said a day out loud in a yard twice — once on the eighth and once this morning — and that the first of them was the day after the first of them was a promise, **and that a man who has been caught once by a yard ought to know what a yard is for, and that I am not saying that to make a column out of it and there are four columns and I am not ruling a fifth.**
+A man of about thirty-one who digs loam said that the man who mends fencing has now said a day out loud in a yard twice — once on the eighth and once this morning — and that the first of them was the day after the first of them was a promise, **and that a man who has been caught once by a yard ought to know what a yard is for, and that I am not saying that to make a column out of it and there are four columns and I am not ruling a fifth.**
 
 ---
 
@@ -42,7 +42,7 @@ The woman of fifty-eight was on the top of that hill at about eight in the morni
 
 She filled the two buckets at the counter at the foot of the bank and the water was there, and a clerk entered that the water was there and that a clerk is not going to say in a book that it was there and not say where it came from.
 
-A man of about thirty-four who digs loam said that the fifth of the five things this district does not have is a way to pay a person who is not in a household, and that a woman went up a bank this morning and came down it and filled two buckets and there is no figure in this basin that pays anybody for that, **and that she is fifty-eight and has been on that hill nine years and has carried four yoke-loads a day up it, and that the count of things this district does not have is five and it did not move at about half past ten in the morning on the twelfth of the fourth month and a yoke went up a road yesterday and the count did not move for that either.**
+A man of about thirty-one who digs loam said that the fifth of the five things this district does not have is a way to pay a person who is not in a household, and that a woman went up a bank this morning and came down it and filled two buckets and there is no figure in this basin that pays anybody for that, **and that she is fifty-eight and has been on that hill nine years and has carried four yoke-loads a day up it, and that the count of things this district does not have is five and it did not move at about half past ten in the morning on the twelfth of the fourth month and a yoke went up a road yesterday and the count did not move for that either.**
 
 Nobody picked it up. A man of about thirty-four who mends fencing said that a man who says the fifth of the five five times in eleven days is a man keeping a count, and a man of fifty-six said that keeping a count is not the same as having a column and that this district has four columns of not-askings and had not got one for that this morning, **and that the woman of about thirty-four who keeps a goat at the third house up the lane from the scale is in a pool with her name not written on anything and was not asked about the pool on the eleventh and was not asked about it this morning either, and that the not-asking is entered and it is not a fifth column and I am not ruling one.**
 
@@ -56,11 +56,11 @@ A man of about thirty-four who mends fencing asked where it was, in the six thin
 
 A clerk of nineteen years entered that the strip of paper came home on the third of this month on the back of a hand and says that a name came off a sheet, and that a document a person keeps in a coat is a document somebody owns, **and that the three documents nobody owns in this district are the printed sheet at the fourth place, the notice about a party of nine who went thirty-four miles east, and a line in a public book with four names on it and a figure under the four names, and that the three did not move at about eleven in the morning on the twelfth of the fourth month and a fourth was not made this morning and a piece of paper in a coat that has gone up a road is not a fourth.**
 
-A man of about thirty-four who digs loam said that a man who has been found and not released is a man who was found on the third of this month and has not been released since, and that nobody in this district has asked him what he intends to do about it in nine days, and a clerk of nineteen years entered that he was not asked a first thing and that the record says not asked.
+A man of about thirty-one who digs loam said that a man who has been found and not released is a man who was found on the third of this month and has not been released since, and that nobody in this district has asked him what he intends to do about it in nine days, and a clerk of nineteen years entered that he was not asked a first thing and that the record says not asked.
 
 ---
 
-The lane at the sluice end of the loams had six doors in it and about four people were on it in the afternoon and a man of about forty-eight who keeps a tally for six households was on it and was not sent for, and the man of about thirty-four who digs loam said the state of them without being asked.
+The lane at the sluice end of the loams had six doors in it and about four people were on it in the afternoon and a man of about forty-eight who keeps a tally for six households was on it and was not sent for, and the man of about thirty-one who digs loam said the state of them without being asked.
 
 "**One signed on the twenty-ninth of the second month. Two refused in the second month. Three have not been asked again since and the yard decided on the nineteenth of the second month not to decide about them and has not gone back on it, and that the state of those six has not moved since the twenty-first of last month, which is twenty-two days, and is not going to move this week.**"
 
@@ -78,7 +78,7 @@ She said the honest answer and a man of about nineteen counted it and got thirty
 
 A man of fifty-six said that a woman who is not going to ask anybody for a fifth day is the same shape of sentence as a woman who cannot say what a day is worth, and that a clerk of nineteen years entered that the two are two women nine miles apart and are not one finding and are not the same thing. A clerk of nineteen years entered that the woman of about thirty-eight who keeps that building was not asked a first thing about her wall on the first of April and has not been asked since, **and that a man who keeps a building is not its bearer and is not a keeper of it and is not a party to a claim on a place in it, and that the four columns of not-askings in this district are four.**
 
-A man of about thirty-four who digs loam said the other half of it and nobody picked it up.
+A man of about thirty-one who digs loam said the other half of it and nobody picked it up.
 
 "**A butt at four days and a tank at nothing four hundred yards away is two containers, and the district has spent four months finding out that a container is not an instrument, and a man who digs loam has said that four times in four yards and I am not going to say it a fifth time because a man who keeps saying a thing has stopped saying it and started carrying it.**"
 

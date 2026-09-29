@@ -32,7 +32,7 @@ The woman of about thirty-six who keeps a scale came down that bank at about hal
 
 A clerk of nineteen years entered that a woman said a thing out loud in that yard and entered the thing, and entered that six words is not a finding and entered that she is not entering it as one, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and did not go over to that second table at all, and about four people have said since that he has read that sheet out loud on four mornings and has not gone near it today, and that nobody in that yard has worked out what that means and nobody is going to.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and did not go over to that second table at all, and about four people have said since that he has read that sheet out loud on four mornings and has not gone near it today, and that nobody in that yard has worked out what that means and nobody is going to.
 
 The man of about forty-eight who keeps a tally stood at the east end of that yard with the flat book under his left arm and said nothing at all, and about nine people within four feet of that end of the yard have said since that a man has come back to that yard after seven mornings and that the man has not gone to the man who keeps the tally, and that the two of them were about eleven feet apart for about half an hour.
 

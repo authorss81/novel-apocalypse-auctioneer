@@ -4,7 +4,7 @@
 
 The twenty-first of April was a day with nothing on the printed sheet and nothing in the road house's book, and about nineteen people were in the yard of Lot Seventeen at about ten in the morning, and the man of about thirty-four who mends fencing had been up the only road in this district that climbs since about five yesterday afternoon and had come down it in the dark and was in the yard and had not slept.
 
-A man of about thirty-four who digs loam gave the figures out loud and a man of fifty-six read the board out afterwards and got both of them right.
+A man of about thirty-one who digs loam gave the figures out loud and a man of fifty-six read the board out afterwards and got both of them right.
 
 "**A hundred and eighteen days on the board and four hundred and thirty-four days on the train, and the days nobody has entered since the twenty-fourth of November stand at a hundred and forty-eight, and the last day of this month is nine days off and there are two things falling due on it and this district can answer neither.**"
 
@@ -16,9 +16,9 @@ The man of about thirty-four who mends fencing said what he had gone up for, and
 
 "**The channel at the head of the top field has about a foot of water in it and it has been dry since the first of the second month, and the fourth holding took a drop sometime in the night, and there was no dray on that road and no yoke on it and no man in this district but me.**"
 
-A clerk of nineteen years entered that the fourth holding on the delivery sheet at the second reservoir is the top field of a farm four miles out and that it had not taken a drop since the first of the second month, and that it has taken one, **and that a man of about thirty-four who digs loam opened a sluice for that holding on the night of the thirteenth of last month and that nobody has asked him to open it again and that he says he has not, and that a road somebody opened in the night nine miles off on the twenty-second of the second month is a third thing and the two are not joined.**
+A clerk of nineteen years entered that the fourth holding on the delivery sheet at the second reservoir is the top field of a farm four miles out and that it had not taken a drop since the first of the second month, and that it has taken one, **and that a man of about thirty-one who digs loam opened a sluice for that holding on the night of the thirteenth of last month and that nobody has asked him to open it again and that he says he has not, and that a road somebody opened in the night nine miles off on the twenty-second of the second month is a third thing and the two are not joined.**
 
-The man of about thirty-four who digs loam said it out loud before anybody could find it, and a man of about nineteen counted it and got eighty-two, and it went in the minute in his own words.
+The man of about thirty-one who digs loam said it out loud before anybody could find it, and a man of about nineteen counted it and got eighty-two, and it went in the minute in his own words.
 
 "**That is the third time this month somebody has put a wet thing next to a night nine miles off and every one of the three was put there by a man with a bucket, a pail or a channel, and a third time is a habit, and I have said that in this yard two days running and I am going to keep saying it until somebody in here can tell me which of the three of them is a keeper.**"
 
@@ -52,7 +52,7 @@ A clerk of nineteen years read the copy against the sheet and got nothing wrong,
 
 A man of fifty-six said that the man is owed eleven coppers a week and that the district is not going to pay him and has said so four times for the same reason, **and that a man who has now made two copies for nothing in a fortnight and given both of them away is the reason a printed day can be found in two rooms in this basin, and that a reason is not an instrument and the six instruments this district has built and not named did not become a seventh because of him today.**
 
-A man of about thirty-four who digs loam said that the man who copies is now the only person in this district who can put a body else's mistake back in front of that body, **and that a copy a man made in forty minutes is a thing four people in this yard can check, and that a man who is not paid for checking is not a clerk and a clerk of nineteen years is a clerk and there are two of those in this basin now and one of them is nineteen.**
+A man of about thirty-one who digs loam said that the man who copies is now the only person in this district who can put a body else's mistake back in front of that body, **and that a copy a man made in forty minutes is a thing four people in this yard can check, and that a man who is not paid for checking is not a clerk and a clerk of nineteen years is a clerk and there are two of those in this basin now and one of them is nineteen.**
 
 A man of about thirty-four who mends fencing said at about four in the afternoon that a man of about twenty-three who copies for nothing had said twelve words in a yard and that a man of fifty-six who gives the figures out loud had never once said anything as short, **and that the district has two men in it who can be relied on to be brief and it has no money for either of them and it has nine days to answer a letter that asks for a man.**
 
@@ -60,7 +60,7 @@ The lane four miles down from the lower terrace had about four people on it at a
 
 He was not asked anything and a clerk of nineteen years entered that he was not asked a first thing and that the record says not asked.
 
-The man of about thirty-four who digs loam had walked down the lane and was not sent for, and he said the last of it there, and a man of about nineteen counted it and got eighty-six, and it went in the minute in his own words.
+The man of about thirty-one who digs loam had walked down the lane and was not sent for, and he said the last of it there, and a man of about nineteen counted it and got eighty-six, and it went in the minute in his own words.
 
 "**The ninth of the nine was yesterday, and this district has got a pail, a crack in a tank and a channel with a foot of water in it at the top of a field, and not one of those three is a keeper, and the lease has to be answered in nine days at a place with no name on it, and there is nobody in this district who can get there and nobody in this district has ever met a man who keeps one.**"
 

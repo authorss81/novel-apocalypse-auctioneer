@@ -1,6 +1,6 @@
 # Chapter 573: A Mark On The Underside Of A Table And No Column For It
 
-The man of about thirty-seven who puts tables up was on his knees under the end of that second table at about a quarter to eight on the tenth of the fourth month with a stub of chalk in his hand, and about four people in that yard had come up that bank before eight and had seen him do it and had said nothing about it for about as long as it takes to boil a kettle, and by ten there were about nineteen people in the yard of Lot Seventeen, and about nine of those were looking at the underside of a table instead of at the top of it.
+The man of about thirty-two who puts tables up was on his knees under the end of that second table at about a quarter to eight on the tenth of the fourth month with a stub of chalk in his hand, and about four people in that yard had come up that bank before eight and had seen him do it and had said nothing about it for about as long as it takes to boil a kettle, and by ten there were about nineteen people in the yard of Lot Seventeen, and about nine of those were looking at the underside of a table instead of at the top of it.
 
 At about a quarter to eight a clerk of nineteen years entered, at the near end of that first table, that the figure on the sheet at that gatepost is four hundred and eleven and did not move, and entered three hundred and twelve days as the age of that figure, and entered that the number of sheets on the end of that second table is four and did not move, and entered that the number of documents this district does not own is four and did not move, and entered that the underside of that second table has been written on for the first time in two volumes.
 
@@ -10,45 +10,47 @@ The man of fifty-six said the four off that wall in the ordinary voice and got a
 
 ---
 
-The man of about thirty-seven who puts tables up came out from under that second table at about a quarter to eight and said one thing out loud, in about eleven seconds, to about nineteen people, and the boy counted what he said and got sixty-five and read the number back to himself in a low voice.
+The man of about thirty-two who puts tables up came out from under that second table at about a quarter to eight and said one thing out loud, in about twenty-six seconds, to about nineteen people, and the boy counted what he said and got sixty-five and read the number back to himself in a low voice.
 
 "**That is this morning, written under my own table on the underside of the boards, and it is the first thing that has ever been written there, and I have put it there because things keep arriving on a table and nobody in this district has the day they arrived on, and I have been building tables since before that yard had a second one.**"
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that a date has been written in chalk on the underside of that second table, and the record about the not asking says not asked.
 
-The man of about thirty-seven who puts tables up said one more thing out loud, in about nine seconds, and the boy counted what he said and got sixty-one and read the number back to himself in a low voice.
+The man of about thirty-two who puts tables up said one more thing out loud, in about twenty-three seconds, and the boy counted what he said and got sixty-one and read the number back to himself in a low voice.
 
 "**I am not doing it for the yard. I am doing it because that wood is mine and a thing that lands on it ought to leave something behind it, and if a clerk wants it in a book she can come and look under my table, and I will not be coming up here to say that a thing landed.**"
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that a clerk is not going to go under a table every morning, and the record about the not asking says not asked.
 
-Then the clerk of nineteen years said one thing out loud at about a quarter to nine, in about eleven seconds, to about nineteen people, and the boy counted what she said and got ninety-five and read the number back to himself in a low voice.
+Then the clerk of nineteen years said one thing out loud at about a quarter to nine, in about thirty-six seconds, to about nineteen people, and the boy counted what she said and got ninety-five and read the number back to himself in a low voice.
 
 "**I am not going to rule a column for it and I am not going to rule anything in that book for it, and the reason is that a column is a thing a person looks down and a line is a thing a person reads, and there is nothing written under that table for anybody to read, and the first entry in it would be a day and every day after that would be a figure, and a figure is a thing a person can check, and a date under a table is not.**"
 
 A clerk of nineteen years entered, at the near end of that first table in that yard, that a clerk said a thing out loud in that yard and entered the thing, and entered that no column is being ruled in that yard this morning, and the record about the not asking says not asked.
 
-The boy of about nineteen said one thing out loud at about half past nine, in about nine seconds, and the boy counted what she said and got sixty-eight and read the number back to himself in a low voice.
+The boy of about nineteen said one thing out loud at about half past nine, in about twenty-seven seconds, and the boy counted what he said and got sixty-eight and read the number back to himself in a low voice.
 
 "**I said I would keep it and I am not going to, and I am not going to because a clerk has just said out loud that a figure is a thing you can check and I have got about four figures in my head this morning that I cannot check, and a mark under a table would be a fifth one and I have not got room.**"
 
 A clerk of nineteen years entered that a boy said a thing out loud in that yard and entered the thing, and entered that a boy is not going to keep a mark under a table, and the record about the not asking says not asked.
 
-The man of about forty-eight who keeps a tally was at the east end of that yard with the flat book under his left arm, and said one thing out loud, in about nine seconds, and the boy counted what he said and got eighty-two and read the number back to himself in a low voice.
+About four people at that east end of that yard had spent the morning looking at a book that had not been opened once, and the man with it under his arm had not offered to open it, and about four people near the second table had gone down on one knee at some point in the hour to look at the underside of those boards and had come up again without saying what the chalk on them was for.
+
+The man of about forty-eight who keeps a tally was at the east end of that yard with the flat book under his left arm, and said one thing out loud, in about thirty-one seconds, and the boy counted what he said and got eighty-two and read the number back to himself in a low voice.
 
 "**I have kept a book for about thirty years and I have never once written in it a thing I had not seen with my own eyes, and a man writing a date under his own table at a quarter to eight in the morning while nobody is looking is the one thing in this district that I would not have in that book, and I am not saying it is a bad thing, I am saying I would not have it.**"
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that a man keeps a book and did not put a page in it, and the record about the not asking says not asked.
 
-The woman of about thirty-six who keeps a scale was at the near end of that first table at about eleven with her shop open behind her, and said one thing out loud, in about nine seconds, and the boy counted what she said and got sixty-four and read the number back to himself in a low voice.
+The woman of about thirty-six who keeps a scale was at the near end of that first table at about eleven with her shop open behind her, and said one thing out loud, in about twenty-four seconds, and the boy counted what she said and got sixty-four and read the number back to himself in a low voice.
 
 "**A shopkeeper marks the underside of her own shelf for a thing that has been on it, and it is not a column and it is not a book and it is the oldest thing there is, and about four of you are looking at a man under a table as though he has invented something and he has not invented anything at all.**"
 
 A clerk of nineteen years entered, at the near end of that first table in that yard, that a woman said a thing out loud in that yard and entered the thing, and entered that her shop was open, and the record about the not asking says not asked.
 
-A man of about thirty-four who digs loam came up that bank at about half past eleven and stood at the end of that second table and looked at the four sheets lying along the end of it and then at the underside of the boards, and said nothing at all to anybody, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man looked at a table and a page and entered nothing about either, and the record about the not asking says not asked.
+A man of about thirty-one who digs loam came up that bank at about half past eleven and stood at the end of that second table and looked at the four sheets lying along the end of it and then at the underside of the boards, and said nothing at all to anybody, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man looked at a table and a page and entered nothing about either, and the record about the not asking says not asked.
 
-The man of about thirty-four who mends fencing was at the end of that second table at about eleven with his right hand flat on the boards, and said one thing out loud, in about nine seconds, and the boy counted what he said and got seventy-three and read the number back to himself in a low voice.
+The man of about thirty-four who mends fencing was at the end of that second table at about eleven with his right hand flat on the boards, and said one thing out loud, in about twenty-nine seconds, and the boy counted what he said and got seventy-three and read the number back to himself in a low voice.
 
 "**There is a rail on that bank that has been loose since the rain and I have been putting it off for two days, and I have been putting it off because there is a thing under that table and I wanted to see what a yard does with a thing that is not on a page, and I have seen what it does and I am going down to that rail now.**"
 
@@ -68,4 +70,4 @@ The fifth of the five things this district does not have is not paid, the fifth 
 
 Nobody in that yard went up that bank after the buckets, and the buckets went down that bank empty at about half past five and came back up it full and stood in the yard dripping, and the woman of about fifty-eight read three lines in that book standing up on her way past and said nothing to anybody at all, and about four people at the foot of that bank have said since that a man wrote a date under a table this morning and that she has read that book standing up every evening for about four months and has never once written anything on anything. The man of fifty-six said the four off that wall for the last time that day, got all four of them, and about nine people near that wall have said since that there is a morning written on the underside of a table in that yard which nobody has entered anywhere, and that about four of them have said that a man has kept four figures on a wall for two hundred and ninety-eight mornings and that a clerk has entered every one of them twice a day and that there is not one figure on any page in this district for what a man said about himself in that yard this morning.
 
-A man of about thirty-seven who puts tables up wrote a date in chalk on the underside of that second table at about a quarter to eight on the tenth of the fourth month, a clerk of nineteen years said out loud in that yard in front of about nineteen people that she is not going to rule a column for it and gave the reason, and no column is ruled, and the number of sheets on the end of that second table is four and a man of about thirty-four who mends fencing was at the end of that table at about eleven with his right hand flat on the boards and not on the stone and not on any of the four sheets.
+A man of about thirty-two who puts tables up wrote a date in chalk on the underside of that second table at about a quarter to eight on the tenth of the fourth month, a clerk of nineteen years said out loud in that yard in front of about nineteen people that she is not going to rule a column for it and gave the reason, and no column is ruled, and the number of sheets on the end of that second table is four and a man of about thirty-four who mends fencing was at the end of that table at about eleven with his right hand flat on the boards and not on the stone and not on any of the four sheets.

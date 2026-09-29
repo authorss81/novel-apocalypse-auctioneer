@@ -18,7 +18,7 @@ He put the chalk down where he always puts it, at about a quarter past eleven, a
 
 Nobody said anything to that for about four seconds. A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that a man who has said nothing in that yard in six volumes said a thing, and entered that she is not entering what a mark is for, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and then went and stood at the end of that board and said one thing out loud to about nine people, in about four seconds, and the boy counted it and got fifty-one and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and then went and stood at the end of that board and said one thing out loud to about nine people, in about four seconds, and the boy counted it and got fifty-one and read the number back to himself in a low voice.
 
 "**He is right about that and I have known it was right for about as long as he has, and the two of us have never once said it to each other, and about nine people in this yard think they are the only two who work the ground in it.**"
 

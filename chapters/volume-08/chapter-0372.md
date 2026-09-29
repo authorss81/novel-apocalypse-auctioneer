@@ -60,7 +60,7 @@ The woman of fifty-eight was at the trough at about half past four with two empt
 
 ---
 
-The man of about thirty-seven who puts tables up for anybody who will use them had his hand-cart against the east wall of that building with the tent still rolled on the back of it, and he was not asked for a table by anybody in that yard on the last day of a run, because there was nothing for a table to be for. He said out loud that a table is for two people who want to lean on something and that this yard has not wanted that today.
+The man of about thirty-two who puts tables up for anybody who will use them had his hand-cart against the east wall of that building with the tent still rolled on the back of it, and he was not asked for a table by anybody in that yard on the last day of a run, because there was nothing for a table to be for. He said out loud that a table is for two people who want to lean on something and that this yard has not wanted that today.
 
 The man who cuts reeds was in the bottom of that ditch with his hook and his bundle until the light went off the low ground, and the ditch is about three feet deep with about a foot of standing water in it, and he came up the bank past that door without saying one word about the building, and nobody in that yard asked him.
 

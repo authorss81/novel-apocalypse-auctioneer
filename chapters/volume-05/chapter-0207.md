@@ -10,7 +10,7 @@ A man of about thirty-four who mends fencing gave the figures out loud because h
 
 "**The board outside the room has carried the twenty-fourth of December for a hundred and four days and the train on the siding has stood four hundred and twenty days, and the days nobody has entered since the twenty-fourth of November stand at a hundred and thirty-four, and not one of those three is a count of anybody.**"
 
-Nobody argued with it. A man of about thirty-four who digs loam said that a figure that comes out of a date is not a finding and a date is not a schedule, **and that the four columns of not-askings in this district are four and none of them has been ruled since the second of January and she did not rule one this morning and is not going to.**
+Nobody argued with it. A man of about thirty-one who digs loam said that a figure that comes out of a date is not a finding and a date is not a schedule, **and that the four columns of not-askings in this district are four and none of them has been ruled since the second of January and she did not rule one this morning and is not going to.**
 
 The man of about thirty-one came in at about half past ten with a strip of paper still in his coat and put his hand flat on the trestle table, and a man of about thirty-four who mends fencing asked him, in the six things, in front of about fourteen people, whether the man on the bench was still there, and he said he was, and it went in the minute in his own words and a man of about nineteen counted it and got twenty-one.
 
@@ -28,7 +28,7 @@ Nobody said anything for about nine seconds and then the man of about thirty-one
 
 "**I have been written on four times and I did not ask for any of them and I am not a holder because I do not pay a toll and I am not a bearer because nobody has asked me, and I would like somebody to write down that I do not know the difference and that the four of them do not know it either.**"
 
-A man of fifty-six said that a person who asks for the not-knowing to be written down is a person who has learned in five days what this district took four months to learn, and that the man of about thirty-four who digs loam had said the other half of it in a lane in the second month in a different set of words, **and that a panel is a rule and a rule is not an instrument this district built and the count of instruments built and not named is six and did not move at eleven in the morning on the seventh of the fourth month.**
+A man of fifty-six said that a person who asks for the not-knowing to be written down is a person who has learned in five days what this district took four months to learn, and that the man of about thirty-one who digs loam had said the other half of it in a lane in the second month in a different set of words, **and that a panel is a rule and a rule is not an instrument this district built and the count of instruments built and not named is six and did not move at eleven in the morning on the seventh of the fourth month.**
 
 Nobody contradicted him. A man of about thirty-four who mends fencing said that a rule printed over a yard is not a seventh of the six and that the six are a rehearsal, a platform, a rail, a correction, a question and a security, **and that a man who asks to have his own not-knowing written down is not a seventh either and that the man of about thirty-one has now been told twice this morning by two people that the thing he asked for is not a thing this district can give him and he asked for it anyway.**
 
@@ -46,7 +46,7 @@ He said no in four seconds and gave the reason, and a man of about nineteen coun
 
 Nothing was said for about nine seconds. A man of fifty-six said that four generations is a figure and that a figure said by a stranger about a place this district cannot name is the first stranger's figure anybody in this yard has entered, and that the man who said it gave no date and no year and did not say where, **and that a house thirty-four miles east has four hundred years of a ledger with a column over it that has no heading and this district has a sentence about four generations of keepers and the two of them are not joined and the count did not move.**
 
-A man of about thirty-four who digs loam said that the sentence is the first useful thing anybody has said in five days and that he is going to be careful about it, **and that four generations of people who have never been on a page is not a complaint and is not a finding and is not a rhyme with the ninth holding that nobody can account for, and that a keeper is a person and a holding is a place and the two are not the same and I am not going to make them the same in a yard at half past eleven in the morning.**
+A man of about thirty-one who digs loam said that the sentence is the first useful thing anybody has said in five days and that he is going to be careful about it, **and that four generations of people who have never been on a page is not a complaint and is not a finding and is not a rhyme with the ninth holding that nobody can account for, and that a keeper is a person and a holding is a place and the two are not the same and I am not going to make them the same in a yard at half past eleven in the morning.**
 
 ---
 
@@ -64,7 +64,7 @@ Then the man on the bench said the rest of it, and he said the second half of it
 
 Nothing was said for about nine seconds, and they were the longest nine seconds anybody in that yard has sat through in four months, and a man of fifty-six said afterwards that a man who has been refused the wrong thing for five days is not a man who has been refused and that a district which has spent a morning being proud of a book is a district which has spent a morning not asking, **and that the man the figure of twenty-one years is against stood in the middle of that yard with the strip of paper in another man's coat and said nothing at all for nine seconds, and that a clerk of nineteen years entered that he was not asked and is not going to be and that the nine seconds are not a refusal and not a consent and the record says not asked.**
 
-The man of about thirty-four who digs loam said the thing that was actually in the yard, and he said it flat, and nobody picked it up.
+The man of about thirty-one who digs loam said the thing that was actually in the yard, and he said it flat, and nobody picked it up.
 
 "**He came for the page. She refused him the page on the second day in thirty-seven words and it was the right refusal and it is still the right one, and this yard has spent five days refusing him a man instead of a page, and the man was never what he asked for and a yard that cannot tell the difference between a refusal and a habit has not got an instrument and has got a bench.**"
 
@@ -86,7 +86,7 @@ He said it, and a man of about nineteen counted it and got fifty-seven, and it w
 
 A man of fifty-six said that a man who offers a dray and says nobody has to pay him has not given the district an instrument and has given it a favour, and that a favour is not a toll and a toll is not a favour and that this district has spent four months refusing to confuse the two and cannot refuse to confuse them this afternoon, **and that a man of about thirty-one has now been in this yard eleven days and has been in a list of five since the second of January and a list of five is not a security and he is not a bearer of anything this afternoon and the record says not asked.**
 
-A man of about thirty-four who digs loam said that the offer is a good offer and that a man who offers a dray for nothing has told this district something it did not know, **and that what the district did not know is that it has eleven days of a man and a bench and a stranger and a road nobody can name, and that it is the first of those eleven days that has cost anybody something and it is not the bench and it is not the stranger and it is the offer.**
+A man of about thirty-one who digs loam said that the offer is a good offer and that a man who offers a dray for nothing has told this district something it did not know, **and that what the district did not know is that it has eleven days of a man and a bench and a stranger and a road nobody can name, and that it is the first of those eleven days that has cost anybody something and it is not the bench and it is not the stranger and it is the offer.**
 
 ---
 

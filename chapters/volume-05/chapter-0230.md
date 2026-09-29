@@ -24,7 +24,7 @@ A clerk of nineteen years read it out in one run of words with a stop at the end
 >
 > **AND UNDER THAT, IN A SECOND HAND, ONE SENTENCE UNDERLINED TWICE: A MAN WHO IS THANKED FOR THIS HAS BEEN MADE SOMETHING ELSE, AND THE SOMETHING IS NOT A CHAIR.**
 
-Nobody said anything for about nine seconds, which is the second time in eleven days that nobody in that yard has said anything at all, and the first of the two was on the twenty-second of this month and it is entered that a clerk of nineteen years did not make a figure of either and is not going to, and the man of about thirty-four who digs loam said the whole of it, and nobody asked him for it, and a man of about nineteen counted it anyway and got eighty-nine, and it went in the minute in his own words.
+Nobody said anything for about nine seconds, which is the second time in eleven days that nobody in that yard has said anything at all, and the first of the two was on the twenty-second of this month and it is entered that a clerk of nineteen years did not make a figure of either and is not going to, and the man of about thirty-one who digs loam said the whole of it, and nobody asked him for it, and a man of about nineteen counted it anyway and got eighty-nine, and it went in the minute in his own words.
 
 "**Nine places and eight names. A page that has been copied out of a cave by a man of about twenty-three in his own hand in about fifty minutes, and the ninth place is ruled and it is empty, and that is the same shape of nothing as the seventh line at the ninth place on the board outside the room, and I am telling this yard that those are the same shape of nothing before somebody else puts them next to each other and calls it a finding.**"
 
@@ -40,7 +40,7 @@ A man of about thirty-four who mends fencing said what that page does to a quest
 
 "**A page with nine places on it and eight names in it is a page anybody can walk up to and ask a question of, and that is the whole of what this district has spent four months trying to build, and it has been sitting in a cave the whole time, and the one thing it does not have on it is a name in the ninth place, and I am not going to be the man who fills that in.**"
 
-The man of about thirty-four who digs loam refused the join in the ordinary voice, and a man of about nineteen counted it and got eighty-one.
+The man of about thirty-one who digs loam refused the join in the ordinary voice, and a man of about nineteen counted it and got eighty-one.
 
 "**A page in a cave and a sheet in a yard are two records about two things, and one of them is nine people four hundred years ago and the other one is a body that says it will work from tomorrow, and two records that are not about the same thing cannot agree and cannot disagree, and I am refusing that join a fifth time in this district, and a fifth is the same refusal with five people watching it.**"
 
@@ -62,7 +62,7 @@ The man of about twenty-three who copies for nothing said one thing, and it was 
 
 "**I have made three copies in a month and I have been paid for none of them and I have said so four times and I am not going to say it a fifth, and my hand does not close on a cold morning and it did not close yesterday, and I am telling this yard about that because the yard is the only thing in this district that has ever written down one word of anything I have said.**"
 
-A man of about thirty-four who digs loam said that a man who says he is not going to say a thing a fifth time and then says a different thing in the same breath has not said it a fifth time, and that a hand is not an instrument and did not become a seventh of the six.
+A man of about thirty-one who digs loam said that a man who says he is not going to say a thing a fifth time and then says a different thing in the same breath has not said it a fifth time, and that a hand is not an instrument and did not become a seventh of the six.
 
 The woman of fifty-eight was in the yard at about half past eleven and had come down the bank at about eleven and she said one thing to nobody in particular and nobody counted it because nobody was asked to.
 
@@ -70,6 +70,6 @@ The woman of fifty-eight was in the yard at about half past eleven and had come 
 
 The woman of fifty-eight went up the bank at about ten past twelve with the eleventh bucket, and a clerk of nineteen years entered that it was the eleventh and that nobody counted the buckets and that the count of things this district does not have is five and the fifth of the five is a way to pay a person who is not in a household and did not move at about ten past twelve in the afternoon on the second of the fifth month.
 
-The man of about thirty-four who digs loam put a spade in the ground at about eleven in the morning at the edge of the yard, where the gate wants a foot against the post, and he got it up above his head, and it took him two goes, and nobody counted that either.
+The man of about thirty-one who digs loam put a spade in the ground at about eleven in the morning at the edge of the yard, where the gate wants a foot against the post, and he got it up above his head, and it took him two goes, and nobody counted that either.
 
 **AND ON THE SECOND OF THE FIFTH MONTH THE MONTH TURN WAS SAID OUT LOUD ONCE IN A YARD, A CLERK OF NINETEEN YEARS READ OUT A COPY OF ONE PAGE OUT OF A CAVE THAT HAS NINE PLACES ON IT AND EIGHT NAMES AND ONE RULE SAYING THAT NO PERSON SHALL HOLD IT ALONE, AND ONE OF THE EIGHT WROTE UNDER IT THAT A MAN THANKED FOR IT HAS BEEN MADE SOMETHING ELSE AND THE SOMETHING IS NOT A CHAIR, AND THE NINTH PLACE IS RULED AND EMPTY, AND A MAN OF ABOUT THIRTY-FOUR WHO DIGS LOAM GOT A SPADE ABOVE HIS HEAD IN TWO GOES AND NOBODY COUNTED THAT EITHER.**

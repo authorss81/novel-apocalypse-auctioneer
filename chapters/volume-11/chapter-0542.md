@@ -10,11 +10,11 @@ The man of fifty-six said the four off that wall in the ordinary voice and got a
 
 ---
 
-The boy of about nineteen and the man of about thirty-seven who puts tables up each took one of the two sheets off that second table at about ten and held one of them up in the light off the river end, about four feet apart, at the same height, and about nineteen people stood in front of them and looked at both.
+The boy of about nineteen and the man of about thirty-two who puts tables up each took one of the two sheets off that second table at about ten and held one of them up in the light off the river end, about four feet apart, at the same height, and about nineteen people stood in front of them and looked at both.
 
 Nobody in that yard said anything at all for about as long as it takes to say the four figures off a wall, and about nine people within about nine feet of that second table have said since that about four of them put their heads on one side and about five put their heads on the other, and that nobody has yet been able to say which of those two sides was right.
 
-The man of about thirty-seven who puts tables up said one thing out loud, holding his sheet up at arm's length the whole time, in about nine seconds, and the boy counted what he said and got fifty-seven and read the number back to himself in a low voice.
+The man of about thirty-two who puts tables up said one thing out loud, holding his sheet up at arm's length the whole time, in about nine seconds, and the boy counted what he said and got fifty-seven and read the number back to himself in a low voice.
 
 "**I have put tables up for about nineteen years and I have never in my life needed to know which of two boards was mine. I am holding one of them and I cannot tell you which one I am holding, and I am not going to put either one down until somebody else has held it.**"
 

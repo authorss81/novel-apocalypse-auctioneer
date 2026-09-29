@@ -74,7 +74,7 @@ Nobody wrote either of those down. The clerk of nineteen years had her own page 
 
 ---
 
-At about two the man of about thirty-four who digs loam came up that bank with the water to his thigh. He read the four figures at the end of that table, got all of them, and said the word four times. That right arm of his did not go above the level of that shoulder at any point in the afternoon, and nobody said one word to him about it. The road keeper came up that lane at about three, got the four figures off that wall as he went past, and went on up without stopping. Nobody asked him about the eleven miles.
+At about two the man of about thirty-one who digs loam came up that bank with the water to his thigh. He read the four figures at the end of that table, got all of them, and said the word four times. That right arm of his did not go above the level of that shoulder at any point in the afternoon, and nobody said one word to him about it. The road keeper came up that lane at about three, got the four figures off that wall as he went past, and went on up without stopping. Nobody asked him about the eleven miles.
 
 The line under the twelve words on that page was ten days old this afternoon. It is a figure off a list in a room four hundred yards up that bank, and no person in this district owns that list, and nobody has read it, and there is no way of checking it from this yard by any means available to anybody standing here.
 
@@ -92,7 +92,7 @@ The near wheel was dragging. He got it up about nine inches off the ground with 
 
 "He has been at that wall nine times since the middle of the ninth month," somebody said, "and he has never once read anything on any of those nine days."
 
-"He has never once read anything because nobody has ever asked him to read anything," said the man of about thirty-seven who puts tables up, from the east wall. "Those are two different things and the rest of you have been counting him as a finding for six weeks."
+"He has never once read anything because nobody has ever asked him to read anything," said the man of about thirty-two who puts tables up, from the east wall. "Those are two different things and the rest of you have been counting him as a finding for six weeks."
 
 Then he went down that lane and did not come up it again that day, and two of them said good evening as he went past the end of that table, and he said good evening back.
 

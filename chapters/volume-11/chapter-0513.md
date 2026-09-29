@@ -26,7 +26,7 @@ A clerk of nineteen years entered that a boy said a thing out loud in that yard 
 
 Nobody in that yard asked the man of about thirty-four who mends fencing anything at all this morning and he was at the end of that second table from about ten with his left hand in its cloth and said nothing, and about four people at that first table have said since that a man who was asked a question yesterday and refused to be asked a second time has now not been asked once this morning, and that about four of them have said that they do not know whether that is on purpose and that they are not going to ask.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice and said one thing after it in about four seconds and the boy counted it and got eight and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice and said one thing after it in about four seconds and the boy counted it and got eight and read the number back to himself in a low voice.
 
 "**This district has nobody to give it to.**"
 

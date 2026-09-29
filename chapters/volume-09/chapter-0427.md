@@ -12,7 +12,7 @@ A clerk of nineteen years entered that the figure on that gatepost is four hundr
 
 ---
 
-The man of about thirty-seven who puts tables up had been at the east wall since about half past eight with his hand-cart, and the tent is still rolled on the back of it. The man of about thirty-four who mends fencing came to that end of the table at about eleven and put both forearms on the boards. They said about nine words to each other in about four seconds and then stood there for about nine minutes without saying anything else, and three people at the near end of that table watched two men not talk and none of them said what they thought they were doing.
+The man of about thirty-two who puts tables up had been at the east wall since about half past eight with his hand-cart, and the tent is still rolled on the back of it. The man of about thirty-four who mends fencing came to that end of the table at about eleven and put both forearms on the boards. They said about nine words to each other in about four seconds and then stood there for about nine minutes without saying anything else, and three people at the near end of that table watched two men not talk and none of them said what they thought they were doing.
 
 "You have not said it," the mender said, at the end of it.
 
@@ -26,13 +26,13 @@ The man of about thirty-seven who puts tables up had been at the east wall since
 
 They both stayed at that table for the rest of the day. A clerk of nineteen years entered that two people spoke to each other at about eleven and that she was not told what about, and that the record about the not telling says not told, and that a person who has not been asked a question has not refused anything and cannot be counted either way.
 
-At about half past eleven the man of about thirty-four who digs loam was in that ditch to his thigh and heard none of the nine words, and he said so afterwards to two people at the low wall, and both of them said they did not know whether that was true.
+At about half past eleven the man of about thirty-one who digs loam was in that ditch to his thigh and heard none of the nine words, and he said so afterwards to two people at the low wall, and both of them said they did not know whether that was true.
 
 ---
 
 The boy of about nineteen came down that bank at about half past eight, which he has done on most days of this month, and he did his page at the east wall from about nine. He did not come to that table until about ten, and there he stood at the near end of it and read the twelve off the margin of the clerk's page going down them and got all twelve, and two people said the ninth one was still where his voice went.
 
-"You are early," said the man of about thirty-seven who puts tables up, without looking round. "You have been early every morning this week and you have never once come at eight before this month. What has changed."
+"You are early," said the man of about thirty-two who puts tables up, without looking round. "You have been early every morning this week and you have never once come at eight before this month. What has changed."
 
 "I have not got a morning routine and you know that I have not got a morning routine, because if I had one then it would be a thing about me and I would have to keep it, and I am not going to have a thing about me." He put his page down. "I came early because I did not want to be here for whatever it is."
 
@@ -52,7 +52,7 @@ At about two the road keeper came up that lane and got the four figures off that
 
 At about half past one the woman of about thirty-six who keeps a scale came down that bank and went past that table without stopping at it, which is the fourth time in six days. A man said out loud that four was a figure and that five would be a habit, and the man of about thirty-four who mends fencing said out loud that the difference between four and five was a sentence and not a rule, and that about four of them at that table were keeping a count of a woman to see whether the count turned into something.
 
-Nobody kept the count. The clerk of nineteen years said that she was not going to keep it either, and that a figure about how many times a person went past a table was a figure about a table and not about a person. The man of about thirty-four who digs loam said from the water that she was the first person there in two months to say that about anybody, and the clerk said she had not been asked to be the first person at anything.
+Nobody kept the count. The clerk of nineteen years said that she was not going to keep it either, and that a figure about how many times a person went past a table was a figure about a table and not about a person. The man of about thirty-one who digs loam said from the water that she was the first person there in two months to say that about anybody, and the clerk said she had not been asked to be the first person at anything.
 
 At about quarter past two the boy of about nineteen asked the man of about thirty-four who mends fencing a question out loud and in front of about nine people, and the mender answered him in about four seconds.
 
@@ -62,7 +62,7 @@ At about quarter past two the boy of about nineteen asked the man of about thirt
 
 "I have not worked it out," the boy said, and three people at that table said that was the first time in about nine days that a person standing there had admitted in a plain sentence that they had not worked something out. The clerk of nineteen years entered that a boy of about nineteen said out loud in that yard that he had not worked out what he was going to do about a figure, and entered the question that was asked him and the answer that came back, and entered no figure.
 
-At about half past two the man of about thirty-seven who puts tables up said one thing out loud at the east wall, and the boy of about nineteen counted what he said and got fifty-six and read it back to himself, and two people heard the number.
+At about half past two the man of about thirty-two who puts tables up said one thing out loud at the east wall, and the boy of about nineteen counted what he said and got fifty-six and read it back to himself, and two people heard the number.
 
 "**If it is going to be said tomorrow then it will be said about eleven, because nothing there has ever been said after two and I have been putting that table up for six months and I have watched four things get said in this yard and every one of them was said in the morning.**"
 

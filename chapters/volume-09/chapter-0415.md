@@ -20,7 +20,7 @@ Nobody read it back from the top. About four people said afterwards that they ha
 
 Then four people answered him, and not one of the four answers was that he was wrong.
 
-"You have said it in front of the stone," the man of about thirty-seven who puts tables up said from the end of that table. "I have been waiting six weeks for somebody to say it in front of the stone. I am not going to add anything to it. If I add to it, that yard will have two versions by the afternoon, and one of them will be better, and the other will be the one people remember."
+"You have said it in front of the stone," the man of about thirty-two who puts tables up said from the end of that table. "I have been waiting six weeks for somebody to say it in front of the stone. I am not going to add anything to it. If I add to it, that yard will have two versions by the afternoon, and one of them will be better, and the other will be the one people remember."
 
 "Take the book off the table," somebody said, from the middle of that yard. "That is what he means. He has dressed it up and he means take the book off the table."
 
@@ -44,7 +44,7 @@ The man of fifty-six had not moved off that wall, and he said the next thing him
 
 Then three people at the near end of that table said, in three different words, that if the bid cannot be run then what is the book for. One of them said that a bid that cannot be run is still a thing a person can read. Another said that a book is not a bid and never was. None of those three was an answer to anybody, and all three of them were said in the same four minutes.
 
-"The book is not the bid, and anybody who needs it to be is the reason the bid has not been run," said the man of about thirty-seven who puts tables up. "I have been putting that table up for six months for anybody who will use it. A bid needs about four people who want the same thing badly enough to say so out loud in the same morning. This yard has four people who want four different things. One of the four wants a figure nobody can check, and one of the four wants a figure that never goes out of date, and those two men are never going to be in the same morning."
+"The book is not the bid, and anybody who needs it to be is the reason the bid has not been run," said the man of about thirty-two who puts tables up. "I have been putting that table up for six months for anybody who will use it. A bid needs about four people who want the same thing badly enough to say so out loud in the same morning. This yard has four people who want four different things. One of the four wants a figure nobody can check, and one of the four wants a figure that never goes out of date, and those two men are never going to be in the same morning."
 
 "Who are the other two," somebody said.
 
@@ -64,7 +64,7 @@ Nobody looked at the man of about sixty-four. He was sitting on the stones with 
 
 "You were," the mender said, "and so was I, and I am the one who said it, and I am not going to do it again."
 
-Then the man of about thirty-four who digs loam said one thing from that ditch, and it was the only time anybody in that yard heard his voice raised above the ordinary all day.
+Then the man of about thirty-one who digs loam said one thing from that ditch, and it was the only time anybody in that yard heard his voice raised above the ordinary all day.
 
 "You have all been standing in my yard saying a thing about a figure I said in it," he said. "Four of you have never once asked me whether I know what is in this ditch now. I have been in it since before it was light, and there is no page in this district that says what is in it this morning. I am not saying it, and you are not going to make me, and that is not a refusal. It is a ditch."
 
@@ -76,7 +76,7 @@ The man in the coat stayed at the end of that trestle table for about another ho
 
 He did not say that the book was coming off the table. Nobody there said it was going on any more after about one. The book was where it had been, on the end of a trestle table with four legs, under a stone, where a stranger may walk up to it and read it.
 
-At about half past two the man of about thirty-seven who puts tables up came up the bank and stopped at the near end of that trestle table. He put both hands flat on the boards, one either side of the book, about a foot apart. He did not touch the stone and he did not touch the book.
+At about half past two the man of about thirty-two who puts tables up came up the bank and stopped at the near end of that trestle table. He put both hands flat on the boards, one either side of the book, about a foot apart. He did not touch the stone and he did not touch the book.
 
 "Nobody has asked you to do that," somebody said.
 
@@ -86,13 +86,13 @@ At about half past two the man of about thirty-seven who puts tables up came up 
 
 "I have not, and I have not counted them, and that is the first figure I have said in this yard that I cannot put a mark against. I am going to stand here for four minutes and then I am going to take my hands off that table, and nobody is going to thank me for it."
 
-Three people counted the four minutes and three of them did not. The clerk of nineteen years entered that the man of about thirty-seven who puts tables up put both hands either side of a book and did not touch it, and entered that a figure he said out loud could not be checked by anybody including himself, and did not enter the figure itself, because nobody had asked her to.
+Three people counted the four minutes and three of them did not. The clerk of nineteen years entered that the man of about thirty-two who puts tables up put both hands either side of a book and did not touch it, and entered that a figure he said out loud could not be checked by anybody including himself, and did not enter the figure itself, because nobody had asked her to.
 
 At about four he went up the bank, and at the step of two stones at the foot of it he put his right hand out of his coat in the cold and it was shaking. Two people were coming down that bank and saw it, and neither of them said a word about it, and he put the hand back in before he went up the other side.
 
 ---
 
-The man of about thirty-four who digs loam was in that ditch before nine and came up out of it about ten. He got the four figures at the end of that table and went back down into the water. That right arm of his stayed below the level of that shoulder all day, he did not explain it, and nobody asked him. The road keeper came up that lane twice and got the four figures both times, and was not asked about the eleven miles. The man of about thirty-seven who cuts reeds was in that ditch until about half past four, came up the bank wet to the chest, and was not asked about anything.
+The man of about thirty-one who digs loam was in that ditch before nine and came up out of it about ten. He got the four figures at the end of that table and went back down into the water. That right arm of his stayed below the level of that shoulder all day, he did not explain it, and nobody asked him. The road keeper came up that lane twice and got the four figures both times, and was not asked about the eleven miles. The man of about thirty-seven who cuts reeds was in that ditch until about half past four, came up the bank wet to the chest, and was not asked about anything.
 
 A clerk of nineteen years entered that the bid has stood open seventy-three days and was not run today, and that a man said out loud there that a lot with no figure a stranger can read is not a lot anybody can bid on. She entered that nobody read it back from the top, and that the record about the not reading says not read back. The first day of the eighth month is a hundred and three days past. The rule said out loud in that yard on the tenth of the tenth month is thirty-three days standing. The figure on the second line of that lot book is twenty-eight days out of date, was not altered, and nothing was written beside it, and the book was not taken off that table. The word unchecked is in the margin of a clerk's page and is over nothing. The line under those twelve words is fourteen days old and was not checked. Nothing went into the column for the name of whoever read a thing out loud, and it was empty at about six, and the fifth of the five things this district does not have is still not paid.
 

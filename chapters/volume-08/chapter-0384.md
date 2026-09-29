@@ -8,7 +8,7 @@ The twelfth of the tenth month came in wet again and the boards at the end of th
 
 A clerk of nineteen years entered that the figure on the sheet at that gatepost is four hundred and eleven and did not move, and that the bid stands at forty-two days and was not run on one of them today.
 
-The man of about thirty-four who digs loam was in the bottom of that ditch before nine and came up the bank at about ten with his right hand in the pocket of his coat, which he does not usually do, and stood at the end of that trestle table for about two minutes without saying anything to anybody.
+The man of about thirty-one who digs loam was in the bottom of that ditch before nine and came up the bank at about ten with his right hand in the pocket of his coat, which he does not usually do, and stood at the end of that trestle table for about two minutes without saying anything to anybody.
 
 ---
 

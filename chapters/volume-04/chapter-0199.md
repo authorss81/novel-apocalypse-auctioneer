@@ -18,7 +18,7 @@ The man of about thirty at the counter said the price out loud himself, and he s
 
 It was not contradicted. A man of about thirty-four who mends fencing asked whether the claim was the claim on one place in a flood shelter and a boy of nine, and the man of about thirty said he was not going to talk about which place and gave no reason.
 
-A man of about thirty-four who digs loam said the thing nobody had asked for, and he said it out loud in front of about fourteen people.
+A man of about thirty-one who digs loam said the thing nobody had asked for, and he said it out loud in front of about fourteen people.
 
 "**Then we open the sluice and the claim stands and the water comes, and the man of about fifty-five gets a tank and the boy of nine loses a place, and those two are not a choice anybody put to us, they are a choice the house put to us, and we are going to take the water.**"
 
@@ -36,7 +36,7 @@ The man the figure of twenty-one years is against said his part of it at about h
 
 "**I am going to stand at the back of a public book against the tolls of this water. I cannot tell you what a toll is in coppers because nobody has established one, and what I am offering is a day and my name, and the days are the twenty-eighth of the third month and the thirtieth.**"
 
-The gate of that yard stayed shut for about nine seconds. A man of about thirty-four who digs loam said that the man the figure of twenty-one years is against had said on the nineteenth that a book is not a security because there is nothing at the back of it, and that he had said on the same day that there are two people in this district who can be held to a book, **and that a man who has done his own arithmetic for four months and got a different answer this morning is a man who found it and is not to be congratulated in a yard.**
+The gate of that yard stayed shut for about nine seconds. A man of about thirty-one who digs loam said that the man the figure of twenty-one years is against had said on the nineteenth that a book is not a security because there is nothing at the back of it, and that he had said on the same day that there are two people in this district who can be held to a book, **and that a man who has done his own arithmetic for four months and got a different answer this morning is a man who found it and is not to be congratulated in a yard.**
 
 **AND ON THE TWENTY-SEVENTH OF THE THIRD MONTH A HOUSE NAMED A CHOICE AND A DISTRICT TOOK THE WATER, AND A TOLL WAS NAMED AS A YOKE-LOAD BY A WOMAN WHO KEEPS A SCALE, AND THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST SAID HE WOULD STAND AT THE BACK OF A PUBLIC BOOK AGAINST THE TOLLS.**
 
@@ -78,7 +78,7 @@ The man of about thirty-one stood at the back of that yard with his hands in his
 
 Nobody argued with that. A man of fifty-six said that the fifth of the five has stood among about nine people while his own line was read out twice and has not asked to move and has not asked why, **and that a person on a list is not a bearer of a list and the second reading is not a release and is not a consent and cannot be entered as either.**
 
-The man of about thirty-four who digs loam said that the two of them being in the same yard at the same hour on purpose is the ninth time since the eighteenth of December and that a clerk of nineteen years has not been asked to write the arranging down as anything, **and that the man of about thirty-one was in that yard and the man the figure of twenty-one years is against was in it and neither of them spoke to the other, and that two men not speaking to each other in a yard is not a thing anybody has to be asked about.**
+The man of about thirty-one who digs loam said that the two of them being in the same yard at the same hour on purpose is the ninth time since the eighteenth of December and that a clerk of nineteen years has not been asked to write the arranging down as anything, **and that the man of about thirty-one was in that yard and the man the figure of twenty-one years is against was in it and neither of them spoke to the other, and that two men not speaking to each other in a yard is not a thing anybody has to be asked about.**
 
 The woman of fifty-eight was at the top of the hill at about four in the afternoon and did not come down, and nobody sent for her and nobody asked her anything, and a clerk of nineteen years entered that she was not asked about the pool and that the not-asking is entered and the count is where it was.
 
@@ -94,7 +94,7 @@ The thirtieth was the sheet on the wall of the yard of Lot Seventeen and the man
 
 A man of about thirty-four who mends fencing asked him, in the six things, in front of about nine people, where on the sheet the name was, and the man from the tram arch said that it was not on the sheet, and that the house has it and the house did not put it on a sheet.
 
-It went no further for a moment. A man of about thirty-four who digs loam said that a house which has got a name out of a building by asking is doing the thing this district said a book a stranger can read is a place a house can look for a man for, **and that the man of about twenty-three has been saying that since the fifteenth of this month and the man who prints on a tram arch has printed it four times and did not write it down and a man of about thirty-four who mends fencing has now said it in four yards.**
+It went no further for a moment. A man of about thirty-one who digs loam said that a house which has got a name out of a building by asking is doing the thing this district said a book a stranger can read is a place a house can look for a man for, **and that the man of about twenty-three has been saying that since the fifteenth of this month and the man who prints on a tram arch has printed it four times and did not write it down and a man of about thirty-four who mends fencing has now said it in four yards.**
 
 The registrar of this district's records office read the sheet twice and then said the other thing, and she said it to the man the figure of twenty-one years is against and not to the yard, and a man of about nineteen counted it and got forty-five.
 

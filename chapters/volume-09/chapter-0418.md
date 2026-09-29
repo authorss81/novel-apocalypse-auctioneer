@@ -78,7 +78,7 @@ At about half past two a boy of about eleven came up that lane with a hoop and r
 
 The man of about thirty-seven who cuts reeds picked his bundle up off the stones and went up the lane. His hands were not touched, nothing was asked about them, and he was given nothing.
 
-The man of about thirty-four who digs loam was in that ditch to their thigh from before nine until about four. He got the four figures at the end of that table at about ten and did not say the word with them, which two people noticed. The road keeper came up that lane twice and got the four figures both times, and was not asked about the eleven miles.
+The man of about thirty-one who digs loam was in that ditch to their thigh from before nine until about four. He got the four figures at the end of that table at about ten and did not say the word with them, which two people noticed. The road keeper came up that lane twice and got the four figures both times, and was not asked about the eleven miles.
 
 ---
 

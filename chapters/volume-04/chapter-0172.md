@@ -16,7 +16,7 @@ The yard did the thing it does and stood about a dozen people in it until late, 
 
 Nobody said anything for about nine seconds. A man of about thirty-four who mends fencing said that the district has had a seventy-six and a seventy-seven, an eighty-four and an eighty-five, a fifty-eight and a fifty-nine, a fifty and a fifty-one, and now a forty-eight and a forty-nine, **and that six pairs of figures in five weeks is six pairs and that a pair of figures is the oldest thing this district does and the pair is not a column.**
 
-A man of about thirty-four who digs loam and does nine days of it in ten said that forty-eight is the number of days a man has to put a hand to a notice and that forty-nine is the day after the last one, and that the two of them are the two halves of a thing this district has been carrying since December.
+A man of about thirty-one who digs loam and does nine days of it in ten said that forty-eight is the number of days a man has to put a hand to a notice and that forty-nine is the day after the last one, and that the two of them are the two halves of a thing this district has been carrying since December.
 
 **AND ON THE ELEVENTH OF THE SECOND MONTH THE TRAIN ON THE SIDING HAD STOOD THREE HUNDRED AND SIXTY-FIVE DAYS, AND THE THIRTY-FIRST OF MARCH IS FORTY-EIGHT DAYS FROM THIS DAY AND THE FIRST OF APRIL IS FORTY-NINE, AND NEITHER FIGURE IS A COLUMN.**
 
@@ -60,7 +60,7 @@ A man of about nineteen who walked in from the road counted that and got sixty a
 
 Nobody took it up. A man of fifty-six said that four and two and eleven and four is twenty-one, and that twenty-one is a floor and not a total, and that a figure which is a floor is a figure about what is known and not a figure about what is owed, **and that the name comes off on the thirty-first of March in the same line as the name and the entry runs to that date, and that a figure that comes off a page is not a figure anybody is paid.**
 
-A man of about thirty-four who digs loam said that a year is not an asset and is not a security and nobody can post one against it, and that a year and a half is not a figure, and that he has said the second half of that about nine times in eleven weeks and that a clerk entered it in a lane in the month before last and has not entered it since.
+A man of about thirty-one who digs loam said that a year is not an asset and is not a security and nobody can post one against it, and that a year and a half is not a figure, and that he has said the second half of that about nine times in eleven weeks and that a clerk entered it in a lane in the month before last and has not entered it since.
 
 A clerk of nineteen years entered that the refusals to read are nine and the departure is unspent and there is still no date in the ledger for the next reading, **and that a figure of years is not a price and four hundred years in a house thirty-four miles east is not a total and that the two are not added and are not to be.**
 
@@ -76,7 +76,7 @@ The rest of it was the printed sheet at the fourth place, and a man of about thi
 
 Nobody argued with it. A man of fifty-six said that a sheet which says a train comes once a month in the dark has had twelve chances in a year to be wrong and has not taken one of them, and that the reason it has not been wrong is that nothing has come and nothing not coming does not prove a thing, **and that a sheet which is right for a year for no reason is a document that has become wrong for a reason nobody caused, and that this district has three of those and the count is three and this is not a fourth.**
 
-A man of about thirty-four who digs loam said that the third of the three sentences is the only printed sentence in this basin that has ever explained this district's own arithmetic to a stranger, and that a territory with no calendar has no weekday either, and that a district which has four habits about days and no week is not a district that has forgotten a week and is a district that never had one.
+A man of about thirty-one who digs loam said that the third of the three sentences is the only printed sentence in this basin that has ever explained this district's own arithmetic to a stranger, and that a territory with no calendar has no weekday either, and that a district which has four habits about days and no week is not a district that has forgotten a week and is a district that never had one.
 
 A clerk of nineteen years entered that the sheet is one of three documents nobody owns and that the other two are a notice about a party of nine that went thirty-four miles east and said nine, and a line in a public book with four names on it and a figure under the four names, **and that the three of them are not the same document and are not joined and are not to be, and that a sheet a man keeps in his coat for nine years is a sheet and not a record.**
 
@@ -114,7 +114,7 @@ A man of about thirty-four who mends fencing asked whether anybody had been to l
 
 The room did not argue with that and a clerk of nineteen years entered that the about forty names on that page have no day against any of them and will not be given one, and that a day which is absent is not a day of zero, **and that the days before the fourth of the second month are not in the page and are not in any other page and are not in any book in this district, and that the three of those are not joined.**
 
-A man of about thirty-four who digs loam said that a building that can say who was in it and on what day is a building that can be asked, and that a building that can be asked can be refused, and that nobody in this district has thought about what a building says when it is asked.
+A man of about thirty-one who digs loam said that a building that can say who was in it and on what day is a building that can be asked, and that a building that can be asked can be refused, and that nobody in this district has thought about what a building says when it is asked.
 
 So a building four miles down a lane has been writing days for a week, and two of the six are the same day, **and a woman stood at the end of that lane on the ninth and did not go in, and a building that can be asked about a person is a building that can be told no, and this district has not asked it one thing.**
 
@@ -122,7 +122,7 @@ So a building four miles down a lane has been writing days for a week, and two o
 
 Nobody argued. A man of fifty-six said that a head race standing with no term on it and no bearer on it is the same water a man of fifty-six named on the ninth of February and that the two are the same water and not a new finding, **and that the finding of the eleventh of the second month is not about the water at all and is about a day, and that a district which is handed a day it cannot put anywhere has been given the first thing it has ever been given that it cannot hand on.**
 
-A man of about thirty-four who digs loam said that the sluice four miles out past the loams is still open and that the water going through it is not counted by anybody and that a sluice is not a line on a sheet and is not a lot, and that he has said the second half of that about nine times in eleven weeks and that a clerk entered last time that it is not a column and has not entered it since.
+A man of about thirty-one who digs loam said that the sluice four miles out past the loams is still open and that the water going through it is not counted by anybody and that a sluice is not a line on a sheet and is not a lot, and that he has said the second half of that about nine times in eleven weeks and that a clerk entered last time that it is not a column and has not entered it since.
 
 A clerk of nineteen years entered that the count of unentered days since the twenty-fourth of November is seventy-nine and is a count of days and not a column, **and that the count of protected things is five and the count of conditions with no end on it is four, and that neither moved on the eleventh of the second month, and that the refusals to join two things stand at thirteen and her own count stands at twelve and neither moved either.**
 

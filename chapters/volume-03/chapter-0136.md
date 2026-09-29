@@ -40,7 +40,7 @@ A man of fifty-six put four things on a table in about nine minutes and none of 
 
 "One: the notice says nothing about the year and the room accepts that. Two: the ledger has a row for everybody who has been in a frame and the row says what the frame is. Three: a person who withdraws is entered in the ledger the same way a person who did not is entered, and the page cannot tell the difference. Four: nobody in this district is going to fix that in November."
 
-Nobody argued with the four. A man of about thirty-four who digs loam asked for one change to the second of them, and the change was that the row should say what the frame is in the second column, and that a frame is four feet by three and a channel is two feet wide and nine inches deep, and that a stranger reading the page would then know which of the two he was looking at.
+Nobody argued with the four. A man of about thirty-one who digs loam asked for one change to the second of them, and the change was that the row should say what the frame is in the second column, and that a frame is four feet by three and a channel is two feet wide and nine inches deep, and that a stranger reading the page would then know which of the two he was looking at.
 
 That was agreed in four minutes and it went into the sixth column, which now has two things in it, and a clerk of nineteen years entered that the sixth column has been a column about a room since the twenty-fourth of October and is now a column about a room and about a measurement, and that this is the second time in eleven weeks a column has changed what it is for in the middle of a page and that a page which changes what a column is for is a page a person has to be shown twice.
 
@@ -87,13 +87,13 @@ Nobody said anything for nine seconds. A man of fifty-six said that a mark on a 
 
 The inspector said that he knows all of that and that he taught it to two of the people in this room in September **and that he is not here to argue a rule and that he is here because a notice of withdrawal cannot be put on a guild form and that a notice which cannot be put on a guild form is a notice a stranger cannot check, and that a notice a stranger cannot check is a piece of paper.**
 
-A man of about thirty-four who digs loam said the other half and he is the fourth of the six and the one who fills the page.
+A man of about thirty-one who digs loam said the other half and he is the fourth of the six and the one who fills the page.
 
 "You are telling us the notice has to be on a form to be real, and the form has twenty-nine columns and none of them is this, and the answer to that is not a column. The answer to that is that this district has a thing a stranger can look at and it is not a form, and it is a page on eleven boards, and about nine people come to the yard in a month."
 
 The inspector of forty-four said that a page on eleven boards in a yard in Alder Reach is not a form and cannot be carried to a flat thirty-four miles east by a man in a cart, and that a form can, and that a person who says a page in a yard is enough has never had to stand in a frame.
 
-Nobody argued with him. **A clerk of nineteen years entered that a man of about thirty-four who digs loam had said a page in a yard was enough, and that the man who fills the page had not been asked to say it and had said it, and that not asked is in the count.**
+Nobody argued with him. **A clerk of nineteen years entered that a man of about thirty-one who digs loam had said a page in a yard was enough, and that the man who fills the page had not been asked to say it and had said it, and that not asked is in the count.**
 
 **AND ON THE FIFTH OF NOVEMBER A GUILD INSPECTOR OF FORTY-FOUR CAME THIRTY-FOUR MILES ON HIS OWN MONEY AND SAID THAT A NOTICE OF WITHDRAWAL CANNOT BE PUT ON A GUILD FORM, AND THAT HE HAS BEEN ASKED ELEVEN TIMES IN ELEVEN WEEKS FOR A FORM AND EVERY ONE OF THE ELEVEN WANTED A COLUMN PUT IN FOR ONE PERSON, AND THAT A FORM WITH A COLUMN IN IT FOR ONE PERSON IS A FORM WITH A MARK ON IT, AND A MAN OF THIRTY-FOUR WHO MENDS FENCING SAID THAT A BOUNDARY WAS BUILT AROUND THE RULE THAT A MARK MAY NOT CARRY A JOB AND IS NOT TO BE RETIRED TO MAKE A FORM WORK.**
 
@@ -115,7 +115,7 @@ AND THE REFUSALS TO JOIN TWO THINGS STAND AT THIRTEEN AND THE THIRTEENTH IS THE 
 
 ---
 
-And on the sixth of November the second form of the notice was put on a trestle table on a board of eleven, and it went out nine times on nine hands, and the man of about thirty-four who digs loam filled the sixth column of seven of the seven rows he has and the eighth row says nothing said, and a clerk of nineteen years entered that a man fills a column honestly and that honestly is not a figure and that there is no column for honestly.
+And on the sixth of November the second form of the notice was put on a trestle table on a board of eleven, and it went out nine times on nine hands, and the man of about thirty-one who digs loam filled the sixth column of seven of the seven rows he has and the eighth row says nothing said, and a clerk of nineteen years entered that a man fills a column honestly and that honestly is not a figure and that there is no column for honestly.
 
 A reader at the counter read the second form out three times to three people who had not seen it and told each of them that the season is not named on the sheet and that this is deliberate, and one of the three was a man of about twenty-three who sells nothing and copies for nothing and had come in to see what was on the board, and he said the word season out loud and asked what a notice was that did not have one on it.
 

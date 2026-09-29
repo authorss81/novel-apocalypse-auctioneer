@@ -1,6 +1,6 @@
 # Chapter 478: Is A Table An Instrument
 
-The man the figure of twenty-one years is against asked the man of about thirty-seven who puts tables up, in the yard of Lot Seventeen on the ninth morning after the count, in the open, in front of about nineteen people, whether a table is an instrument, and got an answer that took longer than anybody in that yard expected, and a clerk of nineteen years entered the whole of it in his own words, and entered no figure in her own.
+The man the figure of twenty-one years is against asked the man of about thirty-two who puts tables up, in the yard of Lot Seventeen on the ninth morning after the count, in the open, in front of about nineteen people, whether a table is an instrument, and got an answer that took longer than anybody in that yard expected, and a clerk of nineteen years entered the whole of it in his own words, and entered no figure in her own.
 
 It was the ninth morning after the count and the wind had been in the south all the morning and had gone round to the west by about eleven, and the boards of that second table had a leaf on them that had not been there the day before, and by ten there were about nineteen people in it.
 
@@ -16,7 +16,7 @@ The question was asked at about ten and it was four words long, and about ninete
 
 "**Is a table an instrument.**"
 
-Nobody answered it for about nine seconds, and then the man of about thirty-seven who puts tables up said one thing out loud, and the boy of about nineteen counted what he said and got forty-eight and read the number back to himself in a low voice.
+Nobody answered it for about nine seconds, and then the man of about thirty-two who puts tables up said one thing out loud, and the boy of about nineteen counted what he said and got forty-eight and read the number back to himself in a low voice.
 
 "**I have been waiting eight days for somebody in this yard to ask me that, and I have got an answer ready and I am not going to say it the way I have got it ready, so you are going to have to stay here for it.**"
 
@@ -48,7 +48,7 @@ The man of about thirty-seven who cuts reeds came up that bank at about half pas
 
 About four people at that near end have said since that a man was asked one question in that yard that morning and answered it for about six minutes, and that a clerk has entered the whole of it and not one figure of her own about any part of it, and that nobody has worked out yet which of those two is the more remarkable.
 
-At about one the man of about thirty-four who digs loam came up out of that bank with the water to his thigh and got the four figures at the near end of that first table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day. The man of about forty-eight who keeps a tally stood at the east end of that yard with the flat book under his left arm, and nobody said a word to him all morning.
+At about one the man of about thirty-one who digs loam came up out of that bank with the water to his thigh and got the four figures at the near end of that first table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day. The man of about forty-eight who keeps a tally stood at the east end of that yard with the flat book under his left arm, and nobody said a word to him all morning.
 
 Nothing asked the man of about thirty-seven who cuts reeds why he did not put a thumb in that hollow this morning when he did yesterday, and the record about the not asking says not asked. The road keeper came up that lane at about half past one, took the four figures off that wall as he went past, and was not asked about the eleven miles. At about three the cart came up and went on up the lane with the near wheel still dragging, and the man of about twenty-nine who drives it got it up about nine inches off the ground with one arm and did not stop. A man of about sixty-four was sitting at the foot of that low wall from about half past three, his coat folded on the stones beside him and nothing in his hands, and nobody offered him anything and nobody asked him anything, and the record about the not offering says nothing was asked and nothing was given. A clerk of nineteen years entered at about four that he is on his hundred and seventy-first night of that run and that he has slept on a hundred and seventy of them, and that she is not going to say what he is going to do with his hands tonight because nobody asked her.
 

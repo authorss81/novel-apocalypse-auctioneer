@@ -14,7 +14,7 @@ A clerk of nineteen years entered that the figure on that gatepost is four hundr
 
 Nobody said it. Four people who had been at that trestle table yesterday at about eleven said nothing about it to each other and nothing about it to the yard. Two of them said out loud at about half past ten that they were not going to say anything about it, and about nine people heard both of those, and two of them said afterwards that saying out loud that you are not going to say something is the same as saying it twice.
 
-The man of about thirty-seven who puts tables up was against the east wall with his hand-cart and the tent is still rolled on the back of it, and he was given nothing, and nobody asked him about it, and nobody asked him about yesterday. At about half past ten the man of about thirty-four who mends fencing asked him one question out loud, in front of about nine people, and the man who puts tables up answered it in about four seconds and did not raise his voice.
+The man of about thirty-two who puts tables up was against the east wall with his hand-cart and the tent is still rolled on the back of it, and he was given nothing, and nobody asked him about it, and nobody asked him about yesterday. At about half past ten the man of about thirty-four who mends fencing asked him one question out loud, in front of about nine people, and the man who puts tables up answered it in about four seconds and did not raise his voice.
 
 "Do you want to know what you did."
 
@@ -22,7 +22,7 @@ The man of about thirty-seven who puts tables up was against the east wall with 
 
 Nobody said that out loud. The clerk of nineteen years entered that a man was asked a question in that yard and answered it, and entered the answer, and entered that the answer contained no figure, and the record about the not asking says not asked.
 
-At about eleven the man of about thirty-four who digs loam was in that ditch to his thigh and said one thing up the bank to two people and not to the whole of it.
+At about eleven the man of about thirty-one who digs loam was in that ditch to his thigh and said one thing up the bank to two people and not to the whole of it.
 
 "Four of you have been standing at the end of that table for a month asking me when I am going to say something. You did not ask me yesterday and you are not asking me today, and I have worked out why, and it is not because you have stopped wanting it. It is because there was a name in the open yesterday and the name is not mine and the four of you have spent a morning working out whose it was, and that is what a morning goes on." He did not stop work. "I am not going to help. If it is mine then I will tell you that it is mine when somebody asks me, and if it is not then I am not going to say it is not, because the second one is the same kind of talking as the first one."
 
@@ -44,7 +44,7 @@ Nobody said it was. The clerk of nineteen years entered that a boy of about nine
 
 She said one thing out loud after that, and she said it to the boy and not to the table. She said that a name was said out loud in that yard at about eleven the day before, and that she heard every part of it, and that she wrote one line and put nothing under it. A person who has heard a thing and written nothing of it is in a different position from a person who has heard nothing at all, and she was not going to say which of those two she was. She said the boy could turn his page over whenever he liked and that it would not make her say it out loud.
 
-At about half past twelve the woman of fifty-eight came down that bank with two empty buckets and stopped at the trough, and she filled them. She read the two lines in that lot book standing up on her way back up the bank, and then she said one thing out loud to the man of about thirty-seven who puts tables up, who was the nearest person to her and who had not asked her anything.
+At about half past twelve the woman of fifty-eight came down that bank with two empty buckets and stopped at the trough, and she filled them. She read the two lines in that lot book standing up on her way back up the bank, and then she said one thing out loud to the man of about thirty-two who puts tables up, who was the nearest person to her and who had not asked her anything.
 
 She asked him whether the water was different.
 

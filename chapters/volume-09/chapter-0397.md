@@ -2,11 +2,11 @@
 
 ---
 
-The man of about thirty-seven who puts tables up for anybody who will use them got the figure off the top board at about twenty past eight on the twenty-fifth of the tenth month. He was standing at the near end of that trestle table on the side away from the boards, where nobody usually stands, and he got it. Then he stood there and looked at the boards for a while, as though the boards were a thing he had not seen before.
+The man of about thirty-two who puts tables up for anybody who will use them got the figure off the top board at about twenty past eight on the twenty-fifth of the tenth month. He was standing at the near end of that trestle table on the side away from the boards, where nobody usually stands, and he got it. Then he stood there and looked at the boards for a while, as though the boards were a thing he had not seen before.
 
 By ten there were about nineteen people in the yard of Lot Seventeen, and two of them were looking at the table from the wrong side.
 
-The man of fifty-six read the four figures out loud at about half past nine and got all four, and the man of about thirty-seven who puts tables up read them again at ten and got all four. About four people said out loud that two men have now got the same four numbers off that wall, and a third of them has not looked at the wall at all this morning, and nobody there said who the third one was.
+The man of fifty-six read the four figures out loud at about half past nine and got all four, and the man of about thirty-two who puts tables up read them again at ten and got all four. About four people said out loud that two men have now got the same four numbers off that wall, and a third of them has not looked at the wall at all this morning, and nobody there said who the third one was.
 
 "**The board carries three hundred and five and the train on that siding has stood six hundred and twenty-one days, and one hundred and forty-six days is how long that record has been in force, and the figure on the figure on that gatepost is a hundred and forty-six days old, and those are two figures and not one figure.**"
 
@@ -14,7 +14,7 @@ A clerk of nineteen years entered that the figure on the sheet at that gatepost 
 
 ---
 
-At about half past ten the man of about thirty-seven who puts tables up put his forearm on that table, where it had been for six months, and looked down at the end of it.
+At about half past ten the man of about thirty-two who puts tables up put his forearm on that table, where it had been for six months, and looked down at the end of it.
 
 The stone was on the lot book at the corner nearest the boards. The clerk's page was under the same stone. The boy's page was under that one. There were two chairs at the table, and the man of fifty-six was standing at the near end of it with his hand flat on the boards, and the lot book had two lines in it, and the second of the two said about a foot of standing water in a ditch this morning, and the page had nine columns ruled on it with nothing written in one of them.
 
@@ -40,7 +40,7 @@ A count of the people who answered a door is a count of the answerers and not a 
 
 ---
 
-At about two the man of about thirty-seven who puts tables up put his hand on the stone and moved it about an inch, which is the first time anybody has touched that stone since it was put there. He put his hand back on it and pushed it square again, and said one thing out loud, and about four people heard it, and the man of about nineteen counted what he said and got seventy-one.
+At about two the man of about thirty-two who puts tables up put his hand on the stone and moved it about an inch, which is the first time anybody has touched that stone since it was put there. He put his hand back on it and pushed it square again, and said one thing out loud, and about four people heard it, and the man of about nineteen counted what he said and got seventy-one.
 
 "**I have moved that stone an inch to see if it was loose and it was not loose and I have put it back where it was, and I want it said in whatever page you keep that I did that and not a clerk of nineteen years and not a boy of about nineteen, and I am not a keeper of that book and nobody has asked me to be.**"
 
@@ -92,7 +92,7 @@ A clerk of nineteen years entered that a man read the two lines in that lot book
 
 ---
 
-The rest of that day went ordinary. The man of about thirty-four who digs loam came up that bank at about ten with his legs wet to the knee and read the four figures off the boards at the end of that table, and got all four. The road keeper came up that lane twice, once near eleven and once near four, and read the four figures off that wall both times and got all four both times, and nobody there said one word to him about the eleven miles and nobody said one word to him about a stranger.
+The rest of that day went ordinary. The man of about thirty-one who digs loam came up that bank at about ten with his legs wet to the knee and read the four figures off the boards at the end of that table, and got all four. The road keeper came up that lane twice, once near eleven and once near four, and read the four figures off that wall both times and got all four both times, and nobody there said one word to him about the eleven miles and nobody said one word to him about a stranger.
 
 The reed cutter was in that ditch until the light went, with his hook and his bundle, and came up the bank about ten minutes after everybody else had left the wall. The man who puts tables up was at the east wall with his cart for the rest of the afternoon and was given nothing and nobody asked him about the tent, which is still rolled on the back of that hand-cart and has not gone up on any day since the thirtieth of the June.
 

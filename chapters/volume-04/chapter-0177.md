@@ -2,7 +2,7 @@
 
 ---
 
-The man of about thirty-four who digs loam and does nine days of it in ten went out to the crossing on the seventeenth of the second month on his own account, and a clerk of nineteen years entered that he went and that nobody sent for him and that the not-asking is entered and the count is where it was.
+The man of about thirty-one who digs loam and does nine days of it in ten went out to the crossing on the seventeenth of the second month on his own account, and a clerk of nineteen years entered that he went and that nobody sent for him and that the not-asking is entered and the count is where it was.
 
 He said the reason himself before anybody asked him for it and gave no reason for saying it in a yard, and a man of fifty-six entered afterwards that he was not asked and did not ask.
 
@@ -42,7 +42,7 @@ A man of about thirty-four who mends fencing asked, in the six things, whether a
 
 The gate is chained and the chain is new, and the loam-digger said so on the page, and he said that the ground inside the gate has been walked on and not by boots with nails in them, and that a field that has been walked on is a field somebody has been checking.
 
-Nobody took that up. A man of about thirty-four who digs loam said the rest of it himself in a sentence that is in the minute in his own words and a man of about nineteen counted it and got thirty.
+Nobody took that up. A man of about thirty-one who digs loam said the rest of it himself in a sentence that is in the minute in his own words and a man of about nineteen counted it and got thirty.
 
 "**Somebody walks that field about twice a month and looks at the head race end of it, and the sluice is open, and I have never once seen the man.**"
 
@@ -56,7 +56,7 @@ Then the join everybody wanted, and a man of about thirty-four who mends fencing
 
 Nobody argued. A man of fifty-six said that a district which has spent four months refusing to join two things has never before refused to join two things that would have let it explain where a mile and a bit of standing water came from, **and that the refusal is correct and is the most expensive sentence anybody in this yard has said this month.**
 
-A man of about thirty-four who digs loam said that a mile and a bit is not a road and is not a channel and is not a culvert and that anybody who says a thing is a mile from a gate has said it is near, **and that near is the whole of what a man can say about water and that the district has been running on near since the first of the second month.**
+A man of about thirty-one who digs loam said that a mile and a bit is not a road and is not a channel and is not a culvert and that anybody who says a thing is a mile from a gate has said it is near, **and that near is the whole of what a man can say about water and that the district has been running on near since the first of the second month.**
 
 A clerk of nineteen years entered that the refusals to join two things stand at thirteen and her own count stands at twelve and neither moved on the seventeenth of the second month, **and that a clerk of nineteen years has now been asked to join two things four times in three days and has said no four times and that four is a count and not a column.**
 
@@ -72,7 +72,7 @@ He said no in four seconds and gave the reason in a sentence, and it is in the m
 
 The room let that stand. A man of fifty-six said that a man who has been a security since the ninth year and has been told so in a room and has said twenty-four words about it to a man's face has now been asked to go and stand in a gate, **and that the question was the district's own and not the house's and that the man who asked it did not know what he was offering.**
 
-A man of about thirty-four who digs loam said that he asked and that he did not know, and that a man who is a bearer of a thing is not a pair of hands, and that a person standing in a gate holding open a piece of iron is a bearer whether anybody calls him one or not, **and that the list of securities this district has is five long and the fifth of the five has just refused to be a sixth in the plainest words anybody has used in this yard in a month.**
+A man of about thirty-one who digs loam said that he asked and that he did not know, and that a man who is a bearer of a thing is not a pair of hands, and that a person standing in a gate holding open a piece of iron is a bearer whether anybody calls him one or not, **and that the list of securities this district has is five long and the fifth of the five has just refused to be a sixth in the plainest words anybody has used in this yard in a month.**
 
 A clerk of nineteen years entered that the fifth of the five posted securities was asked in the six things and answered and was not asked why, **and that a refusal given by a person about what he will stand in is not a refusal of a rule and is not entered as one, and that it is the first refusal the man has given in this district's business and that the two of those are two things.**
 
@@ -84,7 +84,7 @@ A man of fifty-six said that the man of about thirty-one has now said no in a ya
 
 ---
 
-A woman of about thirty-three who takes in washing at the second channel was in the yard at about half past three and said the other half of the page the man of about thirty-four who digs loam had brought back, and it is in the minute in her own words and it is thirty-six words.
+A woman of about thirty-three who takes in washing at the second channel was in the yard at about half past three and said the other half of the page the man of about thirty-one who digs loam had brought back, and it is in the minute in her own words and it is thirty-six words.
 
 "**A man who checks a field and is not the owner is a man somebody sent, and if nobody sent him he is a man who came, and both of those are about nine months old.**"
 
@@ -92,7 +92,7 @@ Nobody argued. A man of fifty-six said that a woman who takes in washing has bee
 
 A clerk of nineteen years entered that she was not asked and that the not-asking is entered and the count is where it was, **and that a person who goes into about forty houses a week and is asked nothing is the second instrument this district has that reaches a person who is not in a household, and that the two instruments are a bucket and a basket and that neither of them is on a list.**
 
-A man of about thirty-four who digs loam said that the second instrument in this district is a woman with a basket and the third is a man with a bundle of straw, and that neither of them has ever been entered in anything, **and that a bundle of straw is not a lot and carries no toll and a man who carries one is not a bearer of it, and that a mark may not carry a job and a bundle of straw is not a mark.**
+A man of about thirty-one who digs loam said that the second instrument in this district is a woman with a basket and the third is a man with a bundle of straw, and that neither of them has ever been entered in anything, **and that a bundle of straw is not a lot and carries no toll and a man who carries one is not a bearer of it, and that a mark may not carry a job and a bundle of straw is not a mark.**
 
 A woman of about thirty-six who keeps a scale at the sluice end of the loams and has stood at it nine years came up the bank at about half past one in the afternoon and said that she weighed about nine sacks of seed on the sixteenth and that the seed came in on a cart at the Road House and came on a barrow down to her.
 
@@ -108,7 +108,7 @@ The interval was done at about half past four in the afternoon and a man of fift
 
 A clerk of nineteen years entered that the count of unentered days since the twenty-fourth of November is eighty-five and is a count of days and not a column, **and that the board outside the room has carried the twenty-fourth of December for fifty-five days and that nobody wrote on it on the seventeenth of the second month, and that the count of boards is five and the count of lines is six and the seventh line at the ninth place is ruled and empty.**
 
-A man of about thirty-four who mends fencing asked, in the six things, whether anybody is going to send for the man of about forty-three who buys standing seed-crop, and a man of fifty-six said that the not-sending is entered and the count is where it was, and a man of about thirty-four who digs loam said that he has now said out loud in a yard that he did not know it was an entry, **and that three people not saying a thing is three people not saying a thing and is not a count and is not a column.**
+A man of about thirty-four who mends fencing asked, in the six things, whether anybody is going to send for the man of about forty-three who buys standing seed-crop, and a man of fifty-six said that the not-sending is entered and the count is where it was, and a man of about thirty-one who digs loam said that he has now said out loud in a yard that he did not know it was an entry, **and that three people not saying a thing is three people not saying a thing and is not a count and is not a column.**
 
 Then the question that was not answered, and a man of about thirty-four who mends fencing asked it in the yard at about half past three in the afternoon and nobody answered it and it went into the minute with nobody's name against it, and it is in his own words and it is twenty-one words.
 
@@ -118,7 +118,7 @@ A man of fifty-six said that the question is not the same as the one this room a
 
 A clerk of nineteen years entered that the question was not answered and that a question which is not answered is not a question that has been put into a column, **and that there is no column for it and none was made, and that a farm with a chain on the gate and a register in a book and a man who digs it nine days in ten is the whole of what a farm with an absent owner is in this district.**
 
-A man of about thirty-four who digs loam said that he digs the ground and that the ground does not care who owns it and that the sentence is a finding and not a joke, **and that a man who owns a farm he has not seen in four years still owns it, and that the district's own rule about a lot with no bearer does not apply here because a lot is not a farm and a farm is not a lot and the two have never met in any book this district has read.**
+A man of about thirty-one who digs loam said that he digs the ground and that the ground does not care who owns it and that the sentence is a finding and not a joke, **and that a man who owns a farm he has not seen in four years still owns it, and that the district's own rule about a lot with no bearer does not apply here because a lot is not a farm and a farm is not a lot and the two have never met in any book this district has read.**
 
 Nobody took that up. A clerk of nineteen years entered that a lot has seven parts and that a farm has a house and four fields and a sluice, and that a sluice is not a part and a field is not a use and a house is not a bearer, **and that the two of those are not joined and the count of six did not move, and that she was not asked whether they should be joined and is not going to be.**
 

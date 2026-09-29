@@ -26,7 +26,7 @@ He said the other half of that himself and it was not counted, because there was
 
 "**Five months I have spent telling anybody who would stand still that a document which names nothing is the only safe kind there is. That is on a nail at that gate with a job in the middle of it and an empty column at the bottom of it and not one word on it about who wants the door shut, and it is the best piece of printing anybody in this basin has put up in my lifetime, and I am not going to pretend to this yard that I have not noticed what that does to everything I have said.**"
 
-The man of about thirty-four who digs loam said the thing about the second line and the count came to a hundred and sixty-three.
+The man of about thirty-one who digs loam said the thing about the second line and the count came to a hundred and sixty-three.
 
 "**It is to be closed by its keeper. That is the whole of the threat and it is not a threat about a door, it is a threat about a person, and it has gone looking for a person in the only place a document can look, which is a column, and the column is empty and the sheet says so. In this basin there has never been a keeper of anything on any page and there never was one, and I have been in this yard nine mornings out of ten since the second of April saying the plainest thing I can find, and the plainest thing I can find this morning is that somebody four hundred miles away has just written down a job and a rule for filling it and has left it empty, and that is the first time in six months that anybody has written down a way of moving a person that does not need the person.**"
 
@@ -36,7 +36,7 @@ Then a man of fifty-six said the half of it that was about the shape, and nobody
 
 "**I have been in this yard since the second of April refusing to let a document do a job that a person has not been asked to do, and I have said it a hundred times in five months and every time I have said it a person has nodded and gone on doing what they were doing. This morning a body four hundred miles away has written my sentence down and printed it and put an empty column under it, and it is better than mine, and the reason it is better is that mine needed somebody in the room to agree with it and that one does not need anybody anywhere.**"
 
-A clerk of nineteen years entered that a man of fifty-six has said that his own rule is worse than a printed one and that this is the second time in two months that he has said a thing out loud that a man of about thirty-four who digs loam said better first, and that a shape noticed a second time is not a finding and that a clerk is not going to enter what happens the third time.
+A clerk of nineteen years entered that a man of fifty-six has said that his own rule is worse than a printed one and that this is the second time in two months that he has said a thing out loud that a man of about thirty-one who digs loam said better first, and that a shape noticed a second time is not a finding and that a clerk is not going to enter what happens the third time.
 
 ---
 

@@ -10,7 +10,7 @@ A clerk of nineteen years entered that the figure on the sheet at that gatepost 
 
 ---
 
-The man of about thirty-four who digs loam was in that yard from about nine until about one with a bar of iron he had not come to use. The man of about thirty-seven who cuts reeds out of that ditch was not in that yard at all that day, which is the first time anybody in that yard had noticed it.
+The man of about thirty-one who digs loam was in that yard from about nine until about one with a bar of iron he had not come to use. The man of about thirty-seven who cuts reeds out of that ditch was not in that yard at all that day, which is the first time anybody in that yard had noticed it.
 
 The mender was at the end of that trestle table from about nine until about one with nothing in his hands for the first time this month. He turned the three figures on the boards so that they faced out into the yard instead of along it, and then stood about nine feet off and looked at them from where a stranger would stand. About four people came and read them from there, and none of them asked him what they were, and he did not offer.
 

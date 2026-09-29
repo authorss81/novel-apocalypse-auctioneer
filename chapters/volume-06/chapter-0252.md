@@ -14,7 +14,7 @@ Then he said the other half of the morning, which was why about eleven people we
 
 A clerk of nineteen years entered that the record about the four hundred yards of lane and about the two hundred behind the bank says not asked, and that nobody has been sent for, and that the four columns of not-askings in this district are four and she did not rule one and is not going to.
 
-The man of about thirty-four who digs loam did the sum out loud about half past ten and nobody had asked him to and the count came to a hundred and seventeen.
+The man of about thirty-one who digs loam did the sum out loud about half past ten and nobody had asked him to and the count came to a hundred and seventeen.
 
 "**You cannot get four hundred and eleven by knocking. You can get four hundred and eleven by knocking at a great many doors and finding out how many of them open, and that number would be small, and if the number that comes back is large then the people doing the knocking have been asking somebody how many people are behind the doors that did not open. Which means somebody opened. Which means somebody in the shadow of that Hall answered a question about their own neighbours, and either they were asked nicely and they answered, or they were not asked and they answered anyway, and the sheet does not say which and does not say who.**"
 
@@ -30,13 +30,13 @@ A man of fifty-six said that a man of about nineteen who will count a nail and a
 
 ---
 
-The man of about thirty-four who digs loam went down to the sluice end of the loams at about half past two in the afternoon, because a man of fifty-six had said in that yard in the morning that a plank in a notch does not keep nights and that nobody had been to look at the sill since the twenty-second of last month, and nobody sent for him and a clerk entered that he went on his own two feet and that the record about the going says not asked.
+The man of about thirty-one who digs loam went down to the sluice end of the loams at about half past two in the afternoon, because a man of fifty-six had said in that yard in the morning that a plank in a notch does not keep nights and that nobody had been to look at the sill since the twenty-second of last month, and nobody sent for him and a clerk entered that he went on his own two feet and that the record about the going says not asked.
 
 The water was about a foot above the sill again and the frame was holding it the way it holds it, and he got down the bank on the stones and into about a foot and a half of it and put his right hand flat on the sill under the water and moved it about nine inches along the stone and then nine inches back.
 
 He was in that water for about two minutes and came out and could not close his right hand for the rest of the afternoon, and he said nothing about it, and at about half past five he could not get it closed on the handle of a pail, and the woman of fifty-eight took the pail off him and did not ask him anything about it, and a clerk of nineteen years entered that nobody asked him about it and that the record about the two minutes and the pail says not asked.
 
-A clerk entered that the sill is about two feet wide with one notch cut in it and that a hand on a sill is not a hand on a lock and that nobody in this district is holding anything, and that the man of about thirty-four who digs loam was in the water next to a thing that does not need him and that is the same sentence as the one entered on the twenty-second of last month and that a clerk is not going to enter the same sentence a second time without saying that she is entering it again.
+A clerk entered that the sill is about two feet wide with one notch cut in it and that a hand on a sill is not a hand on a lock and that nobody in this district is holding anything, and that the man of about thirty-one who digs loam was in the water next to a thing that does not need him and that is the same sentence as the one entered on the twenty-second of last month and that a clerk is not going to enter the same sentence a second time without saying that she is entering it again.
 
 The man of about fifty-five who keeps a building four miles down a lane sent nothing to that yard on that day and nobody sent anything to him, and a clerk entered that, and entered that there are two chalk lines on the inside of a brick tank with the water about a hand's breadth over the lip, and that a crack about the length of his hand is not a sixth protected thing, and that the nine years of beds are still in the second room and the water has not come over the step and that nobody has asked for a fifth mend in four months and counting.
 

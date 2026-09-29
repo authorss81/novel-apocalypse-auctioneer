@@ -108,7 +108,7 @@ A man of fifty-six said that a discharge a person has not seen is not a discharg
 
 Nobody argued. A man of about thirty-four who mends fencing asked what the discharge was for if nobody was going to write it down, and a man of fifty-six said that it was for the man, and that the man had it, **and that a thing done for a person is not a document and this district has no column for things done for a person and is not going to make one.**
 
-A man of about thirty-four who digs loam and does nine days of it in ten said that he read the third line of the receipt twice and that the third line is the shortest sentence anybody has ever read out in this yard, and that it does not say the man was paid, and it does not say the man is forgiven, **and that it says the man is discharged, which is a word about a figure and not about a person, and that a person discharged by a word about a figure is a person and is a person and the two are not the same.**
+A man of about thirty-one who digs loam and does nine days of it in ten said that he read the third line of the receipt twice and that the third line is the shortest sentence anybody has ever read out in this yard, and that it does not say the man was paid, and it does not say the man is forgiven, **and that it says the man is discharged, which is a word about a figure and not about a person, and that a person discharged by a word about a figure is a person and is a person and the two are not the same.**
 
 Nobody argued with that and a clerk of nineteen years entered that a word about a figure applied to a person is the same shape as a name put on a figure, **and that a name put on a figure cannot be taken off it by the person it is put on, and that the third line of that receipt takes a figure off a man and not a name, and that the two are two rules and only one of them can be used on a person and the one that can is the one a house uses.**
 
@@ -116,7 +116,7 @@ The man of about fifty-six walked about nine yards out from the middle of the ya
 
 ---
 
-The last of it was the clean sheet, and the man of about thirty-four who digs loam and does nine days of it in ten asked him why he had brought it back, and he said that he had been asked to take it and that taking it was the only part of the day he had understood.
+The last of it was the clean sheet, and the man of about thirty-one who digs loam and does nine days of it in ten asked him why he had brought it back, and he said that he had been asked to take it and that taking it was the only part of the day he had understood.
 
 Nobody took that up. A man of about thirty-eight who deals in second-hand paper said that a sheet a person takes away from a counter is the only proof anybody ever has and that he had left his proof in a yard, **and that a man who has been a security for nine years on one side of this basin and five years on the other and has brought his proof back to a yard has done the one thing in this month's business that was not a question.**
 

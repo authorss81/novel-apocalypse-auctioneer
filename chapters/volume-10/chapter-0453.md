@@ -14,13 +14,13 @@ The man of fifty-six got the four off that wall in the ordinary voice, all four 
 
 The first thumb was the clerk of nineteen years herself, at about ten, and she did it without saying anything and she wiped her hand on her skirt afterwards, which is a thing a person does and not a thing a clerk does. The second was the man of fifty-six. The third was the woman of about thirty-six who keeps a scale. The fourth was the boy of about nineteen, who put his thumb in and then said out loud, to about nine people, that it was the fifth time he had put a thumb in that hollow and that he still could not say when it started, and the man of fifty-six said that he could not either and that they were two people not being able to say the same thing about the same hollow.
 
-The fifth was the man of about thirty-seven who puts tables up, who put his thumb in and then said out loud that he had put tables up for nineteen years and had never once been asked to make anything that lasted as long as a hollow, and about four people at that table said afterwards that they had not thought of a hollow as a thing a person could make.
+The fifth was the man of about thirty-two who puts tables up, who put his thumb in and then said out loud that he had put tables up for nineteen years and had never once been asked to make anything that lasted as long as a hollow, and about four people at that table said afterwards that they had not thought of a hollow as a thing a person could make.
 
 The sixth and the seventh were a woman of fifty-eight and a man the figure of twenty-one years is against, and the two of them did it one after the other without a word between them, and about nine people in that yard have said since that the man put his thumb in at about the same moment as the woman and that nobody could tell afterwards which of the two went first.
 
 The eighth was the man of about thirty-four who mends fencing, with his right hand, and he did not look at his own thumb while it was in and he took it out and put that hand in his pocket, and he said nothing at all, and the record about the not asking says not asked.
 
-The ninth was the man of about thirty-four who digs loam, at about half past twelve, with the mud still on him from the ditch, and he put his thumb in and wiped it on his thigh and went straight back down the bank, and that right arm of his did not go above the level of that shoulder at any point in the day.
+The ninth was the man of about thirty-one who digs loam, at about half past twelve, with the mud still on him from the ditch, and he put his thumb in and wiped it on his thigh and went straight back down the bank, and that right arm of his did not go above the level of that shoulder at any point in the day.
 
 ---
 
@@ -40,7 +40,7 @@ Nobody thanked him. About four people at that table have said since that they wa
 
 ---
 
-The man of about thirty-seven who puts tables up said one thing out loud at about one, in about four seconds, and the boy of about nineteen counted what he said and got seventy-four and read the number back to himself in a low voice.
+The man of about thirty-two who puts tables up said one thing out loud at about one, in about four seconds, and the boy of about nineteen counted what he said and got seventy-four and read the number back to himself in a low voice.
 
 "**The district's best instrument this month is a hollow in a stone that nobody made on purpose, and there is not one mark in chalk on that table that anybody can check either, and I have watched nine thumbs go into that hollow this morning and I have watched five marks go onto that edge and I would like somebody standing here to tell me which of the two of those is worth having.**"
 

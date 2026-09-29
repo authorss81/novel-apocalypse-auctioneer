@@ -56,7 +56,7 @@ The stone went down on the ground at about eleven, face up, by the side of the b
 
 A clerk of nineteen years entered that an object was put on the ground in that yard in the open and that a clerk is not entering what it is and is not entering what it is not, and entered that a stone is not a lot and is not a document and is not a place and is not a column and is not a figure anybody can be shown to have entered, and entered that a figure in the open in a yard that a stranger can walk up to and touch is a figure about a thing and not about a person, and that the district does not have one of those and has had this one since the book went out.
 
-At about half past twelve the man of about thirty-four who digs loam came up out of that bank and got the four figures at the near end of the boards, and stepped over that stone going in and stepped over it coming out, and did not look down at it either time, and that right arm of his did not go above the level of that shoulder at any point in the day.
+At about half past twelve the man of about thirty-one who digs loam came up out of that bank and got the four figures at the near end of the boards, and stepped over that stone going in and stepped over it coming out, and did not look down at it either time, and that right arm of his did not go above the level of that shoulder at any point in the day.
 
 At about one the man the figure of twenty-one years is against came down that bank and stood about nine feet off that table and looked at the thing on the ground for about as long as it takes the man of fifty-six to read four figures and said nothing at all, and a few people at that table said afterwards that they had expected him to say something and that he had not.
 

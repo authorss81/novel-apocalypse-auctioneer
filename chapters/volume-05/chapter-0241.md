@@ -24,7 +24,7 @@ The answer came to a hundred and sixteen, and a man of about nineteen counted it
 
 Nobody argued with him about either half. A clerk of nineteen years entered that a man who has been asked a second question and has answered it has not thereby agreed to be a bearer of anything, that a refusal with a reason is not one of the refusals with no reason a clerk of a house has given, that a man who keeps a house is not a clerk of a house, **and that the eight did not move at about half past ten in the morning on the thirteenth of the fifth month.** She entered that the refusals about the ninth holding are seven and did not move, and that the two are not the same figure and are not added together.
 
-The man of about thirty-four who digs loam refused the join that had been available to him all morning, standing at the end of the trestle table with the sling still on his right arm, and the count came to a hundred and six.
+The man of about thirty-one who digs loam refused the join that had been available to him all morning, standing at the end of the trestle table with the sling still on his right arm, and the count came to a hundred and six.
 
 "**A settlement is a place and a household is people, and a page with nine places ruled on it is the shape of the page that came out of a cave, and I am not going to help anybody make one of those this month. Nine doors, nine pieces of paper, nine people who have to walk to the ninth one. The day somebody writes all nine of them on one sheet is the day the ninth one is a ruled place with nobody standing at it, and I have held that page in my hand and I know what an empty ruled place looks like.**"
 
@@ -48,7 +48,7 @@ The clerk entered that a refusal with a reason is not one of the refusals with n
 
 Then he asked for a figure and gave one, out loud, in front of about eleven people, and nobody counted it because nobody had been asked to, and the clerk entered it in her own hand because a clerk enters a number that is said in a yard whether it is asked for or not.
 
-He asked for eleven coppers a week, the same figure he asked for in the second week of last month, and the man of fifty-six said no out loud and gave no reason at all, and then the man of about thirty-four who digs loam said what that no is, and a man of about nineteen counted it and got a hundred and twenty-three, and it went in the minute in his own words.
+He asked for eleven coppers a week, the same figure he asked for in the second week of last month, and the man of fifty-six said no out loud and gave no reason at all, and then the man of about thirty-one who digs loam said what that no is, and a man of about nineteen counted it and got a hundred and twenty-three, and it went in the minute in his own words.
 
 "**A yard is a room with no roof and a man of about nineteen has been counting in it every morning since the second of April and nobody in this yard has ever paid any of us for one morning of it, and I am not making that a complaint. The fifth of the five things this district does not have is a way to pay a person who is not in a household, and there is no sixth, and there is still no rate in this basin that turns a year into coppers and there never has been one, and a man who is not in a household is not going to be paid out of a yard that cannot pay itself.**"
 
@@ -56,7 +56,7 @@ A clerk of nineteen years entered that the five did not move at about half past 
 
 The man the figure of twenty-one years is against was not in that yard at any hour of that day and had gone out of it on the previous afternoon with a knapsack, and a clerk of nineteen years entered that nobody sent for him, that he was not asked a first thing, and that the record about where he went says not asked, **and that a man who said in a yard on the twelfth that he would go and ask two places each in their own doorway has gone, and that a man of fifty-six said that going is not the same as arriving, and that this district has never once given that man a day to be here on.**
 
-The day came down hard about half past four and the man of about thirty-four who digs loam went out of the gate and up the bank with his arm in a sling that is not his, and the man of about thirty-four who mends fencing stood at the gate and let him, and it was entered that he was let and that nobody asked him to be let and the record says not asked.
+The day came down hard about half past four and the man of about thirty-one who digs loam went out of the gate and up the bank with his arm in a sling that is not his, and the man of about thirty-four who mends fencing stood at the gate and let him, and it was entered that he was let and that nobody asked him to be let and the record says not asked.
 
 Then he turned round at the top of the bank and said the thing about the morning after, into the yard, where about five people could still hear him, and a man of about nineteen counted it and got a hundred and eight, and it went in the minute in his own words.
 

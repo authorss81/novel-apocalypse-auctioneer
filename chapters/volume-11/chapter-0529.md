@@ -40,7 +40,7 @@ Then he said one more thing, in about four seconds, and about nine people heard 
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that she had asked a man a question in that yard for the second time in six volumes and entered that asking is not offering, and entered that she entered the same sentence about it a fortnight ago and that she is entering it again because it is the same sentence and not because it is a new one, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got seventy-five and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got seventy-five and read the number back to himself in a low voice.
 
 "**There is a man at the foot of that wall who has walked past that table twice a day for a month and has never once looked at it, and about four of you have been asking me who put that paper there, and there is a man in that yard who has not looked at it either, and that is the same thing twice and I am the only one who has said so.**"
 

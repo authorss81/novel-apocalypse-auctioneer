@@ -28,7 +28,7 @@ A clerk of nineteen years asked for it to be read, because a yard reads a docume
 
 Nobody in that yard had read that sheet before that morning, and one of the five names under the line was read out loud in a yard for the first time since it was written, and entered that a name said out loud once in a yard a stranger can walk into is a name a stranger can ask about, and that this is the first name this district has said out loud in a yard this month, and that the man who said it out loud said it because nobody else was going to.
 
-The man of about thirty-four who digs loam said the half of the cost of a giving up that nobody else in that yard was going to say, and the count came to a hundred and twenty-five, and it went in the minute in his own words.
+The man of about thirty-one who digs loam said the half of the cost of a giving up that nobody else in that yard was going to say, and the count came to a hundred and twenty-five, and it went in the minute in his own words.
 
 "**I am not one of the five and I do not live in any of their rooms and nobody has asked me about any of it, and I am the right person to say the other half of that sentence. A giving up does not cost money and it does not cost a season and the sheet says both of those, and the sheet is not wrong. It costs the work. There are about four hundred yards of drain round that house that have been dug this month by a man of about thirty-four who mends fencing and by two other men, and the dig does not come back out of the ground because five people decided in one week that they would rather not.**"
 

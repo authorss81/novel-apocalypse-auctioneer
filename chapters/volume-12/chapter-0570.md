@@ -10,45 +10,49 @@ The man of fifty-six said the four off that wall in the ordinary voice and got a
 
 ---
 
-The woman of about thirty-three who takes in washing at the second channel came up that bank at about nine with a basket on her hip, set it down on the boards of that second table because the step into that yard is two inches higher than the bank, and said one thing out loud, in about eleven seconds, to about nineteen people, and the boy counted what she said and got sixty-eight and read the number back to himself in a low voice.
+The woman of about thirty-three who takes in washing at the second channel came up that bank at about nine with a basket on her hip, set it down on the boards of that second table because the step into that yard is two inches higher than the bank, and said one thing out loud, in about twenty-seven seconds, to about nineteen people, and the boy counted what she said and got sixty-eight and read the number back to himself in a low voice.
 
 "**Read out loud what you wrote about me on the twenty-eighth of the month before. I have thought about it for nine mornings and I have not slept properly since and I want to hear a clerk say it in the open in front of these people and not find it on a page at a quarter to eight in the morning when I am not standing here.**"
 
 A clerk of nineteen years entered that a woman asked for an entry to be read out loud in that yard, and entered the thing that was asked for, and the record about the not asking says not asked.
 
-Then the clerk of nineteen years said one thing out loud, in about eleven seconds, to about nineteen people, and the boy counted what she said and got eighty-nine and read the number back to himself in a low voice.
+Then the clerk of nineteen years said one thing out loud, in about thirty-four seconds, to about nineteen people, and the boy counted what she said and got eighty-nine and read the number back to himself in a low voice.
 
 "**No. I am not going to, and I am going to give you the reason out loud because you asked me in front of about nineteen of them and you are entitled to one. A thing that gets read out loud in this yard gets a name put against it, and I am not going to put your name against anything, and I wrote it, and it is mine, and it does not turn into a different thing because somebody else says it with their mouth instead of mine.**"
 
 A clerk of nineteen years entered that a clerk said a thing out loud in that yard and entered the thing, and entered that she refused to read an entry out loud, and entered the reason, and the record about the not asking says not asked.
 
-The woman of about thirty-three who takes in washing said one more thing out loud from where she was standing, in about nine seconds, and the boy counted what she said and got seventy-one and read the number back to himself in a low voice.
+The basket had been standing on the boards of that second table through both of those and the woman who takes in washing did not pick it up, and about four people near that first table looked at the basket and then at the back of the clerk's neck, and about four of them looked at the ground between their own boots instead.
+
+The woman of about thirty-three who takes in washing said one more thing out loud from where she was standing, in about twenty-seven seconds, and the boy counted what she said and got seventy-one and read the number back to himself in a low voice.
 
 "**That is the second time in a month somebody has said no to me in that yard and both times it was a woman with a pen in her hand, and I am not going to ask a third time, and about four of you have worked out by now that when I say I am not going to ask again I have already asked in my head about nine times.**"
 
 A clerk of nineteen years entered that a woman said a thing out loud in that yard and entered the thing, and entered that she is not entering how many times a person has asked in her own head, and the record about the not asking says not asked.
 
-The man of about twenty-nine who drives that cart was at the near end of that second table at about half past nine and said one thing out loud, in about nine seconds, and the boy counted what he said and got fifty-nine and read the number back to himself in a low voice.
+The man of about twenty-nine who drives that cart was at the near end of that second table at about half past nine and said one thing out loud, in about twenty-three seconds, and the boy counted what he said and got fifty-nine and read the number back to himself in a low voice.
 
 "**About four of you have never once heard what that entry says and every one of you knows what it says, and that is the thing about an entry nobody will read out loud, and about four of you have been carrying it around in your heads for nine mornings and it has not once stopped you doing anything.**"
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and the record about the not asking says not asked.
 
-The boy of about nineteen said one thing out loud at about ten, in about nine seconds, to about nineteen people, and the boy counted what he said and got seventy-nine and read the number back to himself in a low voice.
+The boy of about nineteen said one thing out loud at about ten, in about thirty seconds, to about nineteen people, and the boy counted what he said and got seventy-nine and read the number back to himself in a low voice.
 
 "**I am not counting that. If I count refusals then somebody will ask me how many there have been and there is no figure on any page in this district for how many questions anybody has ever been asked him, and I have got a figure for how many mornings a man has said four things off a wall and I have got that one and I am not giving it up for a number about somebody saying no.**"
 
 A clerk of nineteen years entered that a boy said a thing out loud in that yard and entered the thing, and entered that a boy is not keeping a count of refusals, and entered the reason, and the record about the not asking says not asked.
 
-The man of about thirty-seven who puts tables up was at the end of that second table at about half past ten and said one thing out loud, in about nine seconds, and the boy counted what he said and got seventy-one and read the number back to himself in a low voice.
+The man of about thirty-two who puts tables up was at the end of that second table at about half past ten and said one thing out loud, in about twenty-seven seconds, and the boy counted what he said and got seventy-one and read the number back to himself in a low voice.
 
 "**I put a table up in eleven minutes in this yard in a month of a year I have not counted, and a table is a table, and what sits on it is not my business, and I said that in this yard once already and I am saying it again because about four of you have spent nine mornings on a page and there is still a table underneath it.**"
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and the record about the not asking says not asked.
 
-A man of about thirty-four who digs loam came up that bank at about eleven with his barrow and stood at the end of that second table and looked along the three sheets lying there and said nothing at all to anybody, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man looked at three pages in that yard and entered that nobody asked him anything, and the record about the not asking says not asked.
+He said it with his hand still on the end of that table and he took the hand off when he had finished and put it away in his coat, and the boy of about nineteen got his own fingers round the number and mouthed it to himself again, and about four people at that end of that second table had already gone back down that bank to whatever it was they had come up it for.
 
-The man of about thirty-four who mends fencing was at the end of that second table at about half past eleven with his right hand flat on the boards, and said one thing out loud, in about nine seconds, and the boy counted what he said and got sixty-six and read the number back to himself in a low voice.
+A man of about thirty-one who digs loam came up that bank at about eleven with his barrow and stood at the end of that second table and looked along the three sheets lying there and said nothing at all to anybody, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man looked at three pages in that yard and entered that nobody asked him anything, and the record about the not asking says not asked.
+
+The man of about thirty-four who mends fencing was at the end of that second table at about half past eleven with his right hand flat on the boards, and said one thing out loud, in about twenty-six seconds, and the boy counted what he said and got sixty-six and read the number back to himself in a low voice.
 
 "**I have got three rails to do on the high side of that bank and one post that wants a foot deeper, and I will be at the water by the middle of the afternoon, and I came up here first because this is where I stand, and that is all the reason there is and I have never had a better one in two volumes.**"
 

@@ -34,7 +34,7 @@ He said it was not right, and he said it in the ordinary voice, and he crouched 
 
 "**That is not a mark of how high the water has been. That is where the board goes. There is one notch in that sill and there has been one since before my father walked this road, and it is a cut for the edge of a plank, and a plank goes in it and the water is held above the plank about a foot deep and no more, and the board is not there now because it is May.**"
 
-The man of about thirty-four who digs loam got down into the water to look at the bottom of the sill while the man of about forty-one was still talking, and he was in it up to about the knee and out again in about two minutes, and the man of about fifty-six did not go in after him and the man of about thirty-four who mends fencing did not go in either, and the clerk entered that two men did not go in and that nobody asked them to and that the record about the two of them says not asked.
+The man of about thirty-one who digs loam got down into the water to look at the bottom of the sill while the man of about forty-one was still talking, and he was in it up to about the knee and out again in about two minutes, and the man of about fifty-six did not go in after him and the man of about thirty-four who mends fencing did not go in either, and the clerk entered that two men did not go in and that nobody asked them to and that the record about the two of them says not asked.
 
 The man of about thirty-four who mends fencing said the rest of it and it was counted, and it came to a hundred and three.
 
@@ -46,7 +46,7 @@ The man the figure of twenty-one years is against said the second half of it him
 
 The clerk entered that a mark may not carry a job and that he has now read one as one, and that neither of the two sayings is a figure and neither is a column, and that the seven instruments this district built and not named are six, and that the seventh was proposed once, in a yard, on the fourth of this month, and refused once, and has not been proposed a second time since, and that a rule refused once and never again after that is a rule that has been learned and not a rule that has been dropped.
 
-Then the man of about thirty-four who digs loam refused the join that had been available to him all afternoon, in the ordinary voice, standing in a channel with his arm in a sling, and a man of about nineteen counted it and got a hundred and four.
+Then the man of about thirty-one who digs loam refused the join that had been available to him all afternoon, in the ordinary voice, standing in a channel with his arm in a sling, and a man of about nineteen counted it and got a hundred and four.
 
 "**There are two chalk lines on the inside of a brick tank four miles down a lane and there is one notch in a sill four miles the other way, and a mark on a tank is a mark a man drew with a piece of chalk in the dark and a notch in a sill is a hole a plank goes in, and I am refusing that join now while I am standing next to both of them, and it is the ninth of that join in this district and the number of times I have refused it is not part of it.**"
 
@@ -56,6 +56,6 @@ The man of about fifty-five who keeps a building would have liked to hear that a
 
 The man of about forty-one who keeps the road house walked back up about a quarter past three with his stick and got away before the light and was gone over the turn at about half past seven, and the clerk entered that he went and that nobody sent for him and that he was not asked a first thing about going and that a day a man is on a road is a day he is here and is not a figure about anybody.
 
-They came back at about half past four and the man of about thirty-four who digs loam was carrying his right arm in a sling and his left hand up over his eyes against a low sun on the last mile, and the man of about thirty-four who mends fencing walked on his left side for about nine minutes and did not say why and was not asked.
+They came back at about half past four and the man of about thirty-one who digs loam was carrying his right arm in a sling and his left hand up over his eyes against a low sun on the last mile, and the man of about thirty-four who mends fencing walked on his left side for about nine minutes and did not say why and was not asked.
 
 **AND ON THE EIGHTH OF THE FIFTH MONTH ABOUT NINE PEOPLE WALKED FOUR MILES OUT PAST THE LOAMS AND A MAN OF ABOUT FORTY-ONE PUT HIS THUMB IN A NOTCH IN A SILL AND SAID IT WAS WHERE THE BOARD GOES AND NOT A MARK OF ANYTHING, AND THE MAN THE FIGURE OF TWENTY-ONE YEARS IS AGAINST SAID OUT LOUD THAT HE HAD READ A MARK AS A JOB, AND A MARK MAY NOT CARRY A JOB.**

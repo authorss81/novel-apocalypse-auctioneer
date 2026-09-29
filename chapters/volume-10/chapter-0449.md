@@ -28,7 +28,7 @@ The clerk of nineteen years answered him, out loud, to about nine people, and no
 
 Nobody answered him. The clerk of nineteen years entered that a man said a thing out loud, and entered the thing, and entered that a figure was moved in the open and was not corrected and was not struck and was not superseded, and entered that she is not entering that the rule has been improved, and did not enter it, and entered that she is not entering that this district chose to do it, and did not enter that either, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch from about a quarter to eight and came up out of the bank at about ten and got the four figures at the near end of the first table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day, and he stopped at the second table on his way past and looked down at the underside of a stone that nobody had told him about, and put his own thumb in it, and took his thumb out, and said nothing at all.
+The man of about thirty-one who digs loam was in that ditch from about a quarter to eight and came up out of the bank at about ten and got the four figures at the near end of the first table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day, and he stopped at the second table on his way past and looked down at the underside of a stone that nobody had told him about, and put his own thumb in it, and took his thumb out, and said nothing at all.
 
 ---
 
@@ -38,7 +38,7 @@ The woman of about thirty-six who keeps a scale came down that bank at about ten
 
 Nobody answered her. The clerk of nineteen years entered that a woman said a thing out loud there and entered the thing, and entered that she was not asked what she thinks a hollow is for and the record about the not asking says not asked, and entered that a woman who keeps a scale is not entering a figure of water and did not, and entered that a thumb is not a figure and a hollow is not a figure and that the two of them have not been added to each other by anybody.
 
-At about half past eleven the man of about thirty-seven who puts tables up came off the east wall, looked at the stone on the second table for about four seconds, and said nothing at all about it, and did not touch it, and about four people at that table noticed him not touching it.
+At about half past eleven the man of about thirty-two who puts tables up came off the east wall, looked at the stone on the second table for about four seconds, and said nothing at all about it, and did not touch it, and about four people at that table noticed him not touching it.
 
 Then the man the figure of twenty-one years is against came down that bank and stood between the two tables with his right hand in his coat and said one thing.
 

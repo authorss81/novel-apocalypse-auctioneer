@@ -32,7 +32,7 @@ A clerk of nineteen years entered that a man said a thing out loud in that yard 
 
 The man of about fifty-six was at that wall and did not move while any of that was being said, and about nine people standing within hearing of that wall have said since that a man who has read four figures off that wall every morning for two hundred and thirty-seven mornings heard somebody ask another man a question in that yard this morning and did not look up from the wall, and that he has never once done that before, and that nobody in that yard has asked him about it.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice and said one thing after it in about four seconds and the boy counted it and got thirty-seven and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice and said one thing after it in about four seconds and the boy counted it and got thirty-seven and read the number back to himself in a low voice.
 
 "**A man can be in a place and not be in it, and the only way anybody finds out is by asking him, and he has just told us he is not going to be asked twice.**"
 

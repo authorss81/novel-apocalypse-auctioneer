@@ -2,7 +2,7 @@
 
 ---
 
-The second form of the notice was written on the first of November at about ten in the morning by a man of about thirty-four who digs loam and does nine days of it in ten, and it took him about four hours, and he would not let anybody help him with it, and a clerk of nineteen years entered that he is the fourth of the six who hold the ledger and that he is not a clerk of anything and was not asked to be one.
+The second form of the notice was written on the first of November at about ten in the morning by a man of about thirty-one who digs loam and does nine days of it in ten, and it took him about four hours, and he would not let anybody help him with it, and a clerk of nineteen years entered that he is the fourth of the six who hold the ledger and that he is not a clerk of anything and was not asked to be one.
 
 The top line of the second form does not name a season. It names a person **a frame, and a date, and the three of them are on one line and the line is under the middle of the sheet, and a man of fifty-six said that putting it in the middle is the part he argued for and lost.**
 
@@ -34,13 +34,13 @@ A woman of thirty-eight who has been in the second channel four years said the o
 
 "**The frame is oak and the frame is the last thing that happens to you. A person gets out of an oak frame and the frame is still there in the morning.**"
 
-Nobody argued with that. **A man of about thirty-four who digs loam wrote it on the back of the second form in his own hand and would not let it be printed, and a man of about thirty-eight who deals in second-hand paper said that a thing written on the back of a form is the part of a form nobody copies, and that the part of a form nobody copies is the part that gets lost, and that he had four copies of one page in his stall and three of them said something different.**
+Nobody argued with that. **A man of about thirty-one who digs loam wrote it on the back of the second form in his own hand and would not let it be printed, and a man of about thirty-eight who deals in second-hand paper said that a thing written on the back of a form is the part of a form nobody copies, and that the part of a form nobody copies is the part that gets lost, and that he had four copies of one page in his stall and three of them said something different.**
 
 **AND ON THE FIRST OF NOVEMBER A SECOND FORM OF THE NOTICE WAS WRITTEN WITH A PERSON, A FRAME AND A DATE ON ONE LINE IN THE MIDDLE OF THE SHEET AND NO SEASON ON IT AT ALL, AND THE FINDING OF THE MORNING IS THAT A FRAME IS OAK AND A FRAME IS THE LAST THING THAT HAPPENS TO A PERSON, AND THAT THE THING THAT TAKES THE YEAR IS NOT THE FRAME, AND THAT A NOTICE AGAINST A FRAME IS A DOOR IN THE RIGHT DIRECTION INTO A THING THAT IS NOT THE FRAME.**
 
 ---
 
-A woman of fifty-eight who carries water and does not read figures told a man of about thirty-four who digs loam and does nine days of it in ten what happens in a house when a person is handed a notice in November, and she told it as a thing that happened to a house she knows, and not as a thing she thinks might happen, and a clerk of nineteen years entered the whole of it and that the woman was not asked about the water and was not asked about the ninety houses and was not asked to be right.
+A woman of fifty-eight who carries water and does not read figures told a man of about thirty-one who digs loam and does nine days of it in ten what happens in a house when a person is handed a notice in November, and she told it as a thing that happened to a house she knows, and not as a thing she thinks might happen, and a clerk of nineteen years entered the whole of it and that the woman was not asked about the water and was not asked about the ninety houses and was not asked to be right.
 
 She said it in four minutes and it is in the minute in her own words and it is a long sentence and a clerk of nineteen years wrote it all down and did not shorten it.
 
@@ -61,7 +61,7 @@ Nobody asked her what a notice should be instead and a man of fifty-six said tha
 
 A woman of forty-four who has done it eleven years was asked on the first of November, in the six things, what happens to a person on the thirty-first of March, and she had said on the nineteenth of October that nobody had said it out loud and had called it a thing for the thirty-first of March and not for tonight, and the clerk of nineteen years asked whether it was a thing for tonight and she said it was.
 
-She said the first thing in forty-one words. **The clerk of nineteen years counted them twice and got forty-one both times, and did not say so, and a man of about thirty-four who digs loam said afterwards that a clerk who counts and does not say so is doing the thing the six of them are about to spend four hours doing, which is checking a number without making a fuss about it.**
+She said the first thing in forty-one words. **The clerk of nineteen years counted them twice and got forty-one both times, and did not say so, and a man of about thirty-one who digs loam said afterwards that a clerk who counts and does not say so is doing the thing the six of them are about to spend four hours doing, which is checking a number without making a fuss about it.**
 
 "**On the thirty-first of March you are still in it. The last day of a season is a day you are standing in the thing, and that is why the no is the wrong day and I said so in October.**"
 
@@ -93,7 +93,7 @@ A clerk of nineteen years entered the whole of the working and that nobody has a
 
 ---
 
-On the second of November about nine people walked to the second channel and looked at a frame, and a woman of thirty-eight who has been in the second channel four years stood in it without being asked and then got out of it, and it took her about four seconds, and a clerk of nineteen years entered that nobody asked her to get out and that she got out because a man of about thirty-four who digs loam had said *is it the same four seconds as the other end* and that he had said it standing at the lip.
+On the second of November about nine people walked to the second channel and looked at a frame, and a woman of thirty-eight who has been in the second channel four years stood in it without being asked and then got out of it, and it took her about four seconds, and a clerk of nineteen years entered that nobody asked her to get out and that she got out because a man of about thirty-one who digs loam had said *is it the same four seconds as the other end* and that he had said it standing at the lip.
 
 The frame is four feet by three. The channel under it is two feet wide and nine inches deep. A man of fifty-six who does count for a living measured both and got the same two numbers twice and a man of thirty-four who mends fencing wrote them down and the clerk of nineteen years wrote them down and the two figures are in the minute and one of them is in feet and one of them is in inches and they are not added.
 
@@ -103,11 +103,11 @@ A woman of about thirty-three who takes in washing at the second channel said th
 
 A man of fifty-six asked what a notice about the channel would look like and a woman of thirty-eight said that nobody knows, and that a channel is a hole with a lip and the lip is what holds it and the lip is not on any of the five boards and was not on any of the five boards in October either, and that she said that in a field on the second of October and that a man of thirty-four wrote it down beside a plinth and did not join the two, and that she is not asking anybody to join them now.
 
-A man of about thirty-four who digs loam said that the second form is therefore pointed at the frame and the year comes out of the channel, and that a district with one instrument and one instrument pointed at the wrong one has a worse position than a district with no instrument at all, because a district with no instrument knows it has nothing.
+A man of about thirty-one who digs loam said that the second form is therefore pointed at the frame and the year comes out of the channel, and that a district with one instrument and one instrument pointed at the wrong one has a worse position than a district with no instrument at all, because a district with no instrument knows it has nothing.
 
 "That is the finding. We have got a door. It is in the right direction. It is in a wall."
 
-Nobody argued with that and a clerk of nineteen years entered that a frame is a frame and a channel is a channel and that the notice is against the frame and the year is taken by the channel, and that the two are not joined, and that a man of thirty-four who digs loam filled seven of the eleven rows on the ledger and has the sixth column open in front of him and has not filled it in one of the seven.
+Nobody argued with that and a clerk of nineteen years entered that a frame is a frame and a channel is a channel and that the notice is against the frame and the year is taken by the channel, and that the two are not joined, and that a man of thirty-one who digs loam filled seven of the eleven rows on the ledger and has the sixth column open in front of him and has not filled it in one of the seven.
 
 **AND ON THE SECOND OF NOVEMBER A FRAME WAS MEASURED AND FOUND TO BE FOUR FEET BY THREE AND THE CHANNEL UNDER IT TO BE TWO FEET WIDE AND NINE INCHES DEEP, AND A WOMAN OF ABOUT THIRTY-THREE WHO TAKES IN WASHING AT THE SECOND CHANNEL SAID THAT THE FRAME IS WHERE THE PERSON STANDS AND THE CHANNEL IS WHERE THE YEAR COMES OUT OF, AND A MAN OF ABOUT THIRTY-FOUR WHO DIGS LOAM SAID THAT THE DISTRICT HAS ONE INSTRUMENT AND IT IS POINTED AT THE WRONG ONE, AND THAT A DISTRICT WITH NO INSTRUMENT AT ALL KNOWS IT HAS NOTHING.**
 

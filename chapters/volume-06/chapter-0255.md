@@ -30,7 +30,7 @@ The man of about thirty-four who mends fencing went round the outside of that bu
 
 He worked the hasp with his left hand and could not get his fingers round the nail, and it took him about nine seconds and he did not say anything about it, and he got it up with his right hand, and the board came off in about two seconds and made a noise in the ditch behind like a duck and went down flat in about four inches of water.
 
-He stood looking at it for a while and then he put it back, and it took him about two goes to get the nails in because the nail holes had swollen in the wet and had closed up about a sixteenth of an inch, and the man of about thirty-four who digs loam came down that lane at about half past twelve on his way to somewhere else and held the board for him without being asked, and neither of them said one word about it, and a clerk of nineteen years entered that a knot tied by one man's hand for another man is not the second man's knot and is not a job and is not a figure about either of them and did not become a seventh instrument of the six.
+He stood looking at it for a while and then he put it back, and it took him about two goes to get the nails in because the nail holes had swollen in the wet and had closed up about a sixteenth of an inch, and the man of about thirty-one who digs loam came down that lane at about half past twelve on his way to somewhere else and held the board for him without being asked, and neither of them said one word about it, and a clerk of nineteen years entered that a knot tied by one man's hand for another man is not the second man's knot and is not a job and is not a figure about either of them and did not become a seventh instrument of the six.
 
 A clerk entered that a board off a wall and a board back on a wall is not a door and is not a page and is not one of the three documents this district does not own, and that a ditch about four inches deep in the dry and about four feet in the wet is not an exit and is not a route and is not a road, and that nobody asked the woman who keeps that room what the ditch goes to and that the record about the ditch says not asked.
 
@@ -42,7 +42,7 @@ Then a panel arrived in that yard at about half past eleven that nobody had aske
 >
 > **A FIGURE THAT DOES NOT INCLUDE EVERYONE IN THE ROOM IS A FIGURE OF THE ROOM AND NOT OF THE PEOPLE.**
 
-The man of about thirty-four who digs loam disagreed with the third of those three out loud, in front of about nine people, and the count came to a hundred and forty-four, and it went in the minute in his own words.
+The man of about thirty-one who digs loam disagreed with the third of those three out loud, in front of about nine people, and the count came to a hundred and forty-four, and it went in the minute in his own words.
 
 "**The second one is our own rule and our own rule is right and I would not change a word of it. The third one is asking a figure to be a thing about people, and a figure cannot be a thing about people however you word it, and there is no wording of the third line that makes a number know who was in the room. You can put all nineteen of them in that figure or none of them and it is the same number standing in the same place, and the difference is not in the figure. The difference is in whether anybody asked them, and this yard has spent five months being the only place in this basin where anybody asks anybody, and it just occurred to me that we have been doing it in the front of the building.**"
 

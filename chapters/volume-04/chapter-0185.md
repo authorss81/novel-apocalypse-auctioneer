@@ -12,7 +12,7 @@ Then he said it, in the ordinary voice, and he said it to the yard and not to an
 
 Nobody in that yard answered for a moment. A man of fifty-six said that this district has never been asked by anybody to staff a building and cannot be, and that **the fifth thing this district does not have is a way to pay a person who is not in a household, and a man who sits in a room for a night is not a person who is in a household and is not going to be.**
 
-A man of about thirty-four who digs loam said that **a man in a room four miles down a lane is not a bearer and is not a keeper and is not a holder and is not a party, and a man who is in a place is not a mark, because a mark is cut and that is laid, and the count of instruments this district has built and not named is six and did not move on the twenty-seventh of the second month.**
+A man of about thirty-one who digs loam said that **a man in a room four miles down a lane is not a bearer and is not a keeper and is not a holder and is not a party, and a man who is in a place is not a mark, because a mark is cut and that is laid, and the count of instruments this district has built and not named is six and did not move on the twenty-seventh of the second month.**
 
 A clerk of nineteen years entered that nobody bears that building and that it has been entered nine times since the first of the second month, and that **nine is a count of entries and is not a column, and a man asking for a man in a room is not asking to be a bearer and is not asking anybody to become one.**
 
@@ -36,7 +36,7 @@ A clerk of nineteen years entered that **a refusal with a condition on it is a d
 
 A man of fifty-six said that a man who says yes and then puts two things out of reach of himself is the only kind of yes this district has ever got, and that **the two things he has put out of reach are the two things a building in this district's business is always asking for, and a man who will not be a bearer and will not be in a book is a man who can be asked to be in a room.**
 
-A man of about thirty-four who digs loam said that a man who will not be a bearer and will not be a holder and has not been asked to be either is a man who is free to be a third thing, **and the third thing is a man sitting in a room, and a man sitting in a room is not in any of the three counts and is not a column and is not a security.**
+A man of about thirty-one who digs loam said that a man who will not be a bearer and will not be a holder and has not been asked to be either is a man who is free to be a third thing, **and the third thing is a man sitting in a room, and a man sitting in a room is not in any of the three counts and is not a column and is not a security.**
 
 It was not disputed. A man of about thirty-eight who deals in second-hand paper said that he has been in the second-hand paper trade for thirty years and has never once had a customer ask him to sit in a room, and that **a man who asks for a thing that cannot be resold is the only kind of customer there is.**
 
@@ -60,13 +60,13 @@ Nobody in that yard said anything for a moment. A man of fifty-six said that a m
 
 A clerk of nineteen years entered that a day written in a space in a page in a building was refused entry as a seventh instrument in this yard in the month before last and that the count of six is still six on the twenty-seventh of the second month, **and that a day with nothing in the name space is a thing a man of fifty-five has done in his own book on his own account and has not been asked for and is not to be entered as anything by anybody in this yard.**
 
-A man of about thirty-four who digs loam said that the man of about thirty-one will be in a building on the twenty-seventh of the second month and that the building has a day in it and that **nobody in this district will be able to say afterwards that he was there, and that is the arrangement and not a failure of it.**
+A man of about thirty-one who digs loam said that the man of about thirty-one will be in a building on the twenty-seventh of the second month and that the building has a day in it and that **nobody in this district will be able to say afterwards that he was there, and that is the arrangement and not a failure of it.**
 
 **AND A MAN OF ABOUT FIFTY-FIVE WHO KEEPS A FLOOD SHELTER SAID THAT HE WILL WRITE THE DAY AND WILL NOT WRITE THE NAME, AND THE DAY FOR THE TWENTY-SEVENTH OF THE SECOND MONTH WENT INTO THE FOURTH PAGE WITH THE NAME COLUMN AS IT WAS.**
 
 ---
 
-He went down the lane at about two in the afternoon and the man of about thirty-four who digs loam went with him as far as the cutting and came back, and there was no clerk down there and nothing was entered on the way and both of them said so.
+He went down the lane at about two in the afternoon and the man of about thirty-one who digs loam went with him as far as the cutting and came back, and there was no clerk down there and nothing was entered on the way and both of them said so.
 
 The room is one room and a stove and four shelves, and the woman of fifty-eight who carries water and does not read figures was at the stove with a kettle and was not asked for anything, and she said that she comes there to sit and that sitting is not the same as being in a shelter, and that on the twenty-seventh there were about forty in it and not sixty and that **the difference is the weather and not the room.**
 
@@ -98,7 +98,7 @@ Then the tank, because the man of about fifty-five went to the board against the
 
 the man who digs loam said that a man who has kept three marks at one height and then a fourth a finger down has found out something about his own shoulder and not about the tank, **and that a tank in this district is now whatever two yokes and a crack add up to and that a day of about thirty-one's carrying is not a term and is not a figure anybody can put on a page.**
 
-A clerk of nineteen years entered that the tank is down to about three days and that the figure of three days was said by a man of about thirty-four who digs loam and by the man of about fifty-five and has not been checked by anybody and was not asked to be checked, **and that a figure of days about a tank is not a column and is not entered in one and the days before the fourth of the second month and the days in a page are two figures in two places and are not added.**
+A clerk of nineteen years entered that the tank is down to about three days and that the figure of three days was said by a man of about thirty-one who digs loam and by the man of about fifty-five and has not been checked by anybody and was not asked to be checked, **and that a figure of days about a tank is not a column and is not entered in one and the days before the fourth of the second month and the days in a page are two figures in two places and are not added.**
 
 Nobody took that up. A man of fifty-six said that the shelter's water is now a thing two yokes and a crack are doing between them, and that this district has a page with about forty names in it and a tank that two people can keep up with a yoke, and that the two of those are the whole of what a flood shelter is in this district's business and neither of them is entered in a book anybody can walk up to.
 

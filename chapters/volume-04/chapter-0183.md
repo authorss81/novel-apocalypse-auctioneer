@@ -2,13 +2,13 @@
 
 ---
 
-They went up the road to the second reservoir on the twenty-fourth of the second month, eleven miles of it, and the reason they went was the same reason they went on the thirteenth and it had got worse in eleven days. The fourth holding of the nine on the delivery sheet had not taken a drop since the first of the second month, and the tank four miles down a lane was down to about three days, and a man of about thirty-four who digs loam said on the twenty-first that the water that went through that head race went to eight of the nine and that the ninth was the one nobody could account for.
+They went up the road to the second reservoir on the twenty-fourth of the second month, eleven miles of it, and the reason they went was the same reason they went on the thirteenth and it had got worse in eleven days. The fourth holding of the nine on the delivery sheet had not taken a drop since the first of the second month, and the tank four miles down a lane was down to about three days, and a man of about thirty-one who digs loam said on the twenty-first that the water that went through that head race went to eight of the nine and that the ninth was the one nobody could account for.
 
-The party was the man the figure of twenty-one years is against, a man of fifty-six, a clerk of nineteen years and the man of about thirty-four who digs loam, and a man of about thirty-four who mends fencing, and there was no road book and nothing was entered on the way up and all of them said so.
+The party was the man the figure of twenty-one years is against, a man of fifty-six, a clerk of nineteen years and the man of about thirty-one who digs loam, and a man of about thirty-four who mends fencing, and there was no road book and nothing was entered on the way up and all of them said so.
 
 The man of about thirty at the counter came down the road to meet them, which is the sixth time he has come down that road, and a clerk of nineteen years entered that he came and that nobody sent for him and that the not-asking is entered and the count is where it was. **A clerk of a house is a clerk of a house and not a friend of this district and is not to be promoted into one, and a man who has come down a road six times in five weeks has done a thing and is not a bearer of anything and has not been asked to be one.**
 
-The road is metalled for about four miles of the eleven and then is a made-up track, and about two miles from the top it goes through a cutting where a man has to walk on the wrong side for a cart, and a man of about thirty-four who digs loam said that in the wet the bottom of that cutting is a channel and not a road and that a cart in it is a cart in a channel.
+The road is metalled for about four miles of the eleven and then is a made-up track, and about two miles from the top it goes through a cutting where a man has to walk on the wrong side for a cart, and a man of about thirty-one who digs loam said that in the wet the bottom of that cutting is a channel and not a road and that a cart in it is a cart in a channel.
 
 A man of fifty-six said that **a road which is a road for four miles and a channel for two is not a road and is not a channel and is two things**, and that this district has eleven miles of it and has not called it anything, and a clerk of nineteen years entered that the two are entered in one line and not joined and that the refusals to join two things stand at thirteen and her own count at twelve and that neither moved on the twenty-fourth of the second month.
 
@@ -20,7 +20,7 @@ She was at the top of the road in a cart and she was not going back down in it, 
 
 The woman of about fifty-two who has the seventh holding at the top of a lane off the Verge has had it since the fourth year, and she was sitting on the tailboard of the cart with her hands in her lap, and a man of about thirty-four who mends fencing asked her, in the six things, whether the man of about thirty had sent for her.
 
-A man of about thirty-four who digs loam entered that **a woman who has held a holding since the fourth year is a holder and is not a bearer and is not a responsible party and has never been asked whether she would stand in a gate, and the four of those are the district's own list and the four of them are not about her.**
+A man of about thirty-one who digs loam entered that **a woman who has held a holding since the fourth year is a holder and is not a bearer and is not a responsible party and has never been asked whether she would stand in a gate, and the four of those are the district's own list and the four of them are not about her.**
 
 He had not. She came on her own account and she said so before anybody asked her anything else, and a clerk of nineteen years entered that the second half came out before she was asked for it, and that she is not going to put a number on it.
 
@@ -28,7 +28,7 @@ Then she said the thing she had come to say, and she said it to the man of about
 
 "**I am giving the seventh up. I have held it four years and I have not signed for the water once in four years and nobody has ever asked me whether I wanted the holding, and I am tired of being a gate.**"
 
-A man of about thirty-four who digs loam said that **the house's own delivery note says that the house delivers to a holding when the person who holds it opens a gate**, and that the note was read out twice in a yard on the thirteenth of the second month, and that the seventh has been the gate since the fourth year.
+A man of about thirty-one who digs loam said that **the house's own delivery note says that the house delivers to a holding when the person who holds it opens a gate**, and that the note was read out twice in a yard on the thirteenth of the second month, and that the seventh has been the gate since the fourth year.
 
 A man of fifty-six said that **a holding is a use and a holder and a delivery and is not a person**, and that a woman who has been the mechanism of a delivery for four years without a term on it has been the fourth condition of something this district has never named, and a clerk of nineteen years entered that the word fourth is his and not hers.
 
@@ -60,7 +60,7 @@ The woman of about fifty-two said one more thing to the man of about thirty at t
 
 "**I have not been a bad gate. I have been the only one there, and that is a different thing, and you can write that one down because it is not about the water.**"
 
-A man of about thirty-four who digs loam said that **a statement a person gives about what she has done is not a statement about a holding and is not a surrender**, and that a man of about thirty at a counter can write the first of those and does not have to write the second, and that the two of them are two things and are not a column.
+A man of about thirty-one who digs loam said that **a statement a person gives about what she has done is not a statement about a holding and is not a surrender**, and that a man of about thirty at a counter can write the first of those and does not have to write the second, and that the two of them are two things and are not a column.
 
 That went no further. A woman of about thirty-three who takes in washing at the second channel was not in that road and was not sent for, and a man of fifty-six entered that she was not asked what she would do about the seventh and that she was not going to be, and that **a person who goes into about forty houses a week would know more about a gate in a year than any book in this basin and is not to be turned into a clerk of anything.**
 
@@ -70,17 +70,17 @@ So the seventh of the nine holdings was given up at the top of an eleven mile ro
 
 ---
 
-Then the two of them went down the top lane to look at the gate, and the man of about thirty-four who digs loam and the man of about thirty-four who mends fencing went, and the other three stayed at the top of the road, and there was nobody with them and nothing was entered and both of them said so.
+Then the two of them went down the top lane to look at the gate, and the man of about thirty-one who digs loam and the man of about thirty-four who mends fencing went, and the other three stayed at the top of the road, and there was nobody with them and nothing was entered and both of them said so.
 
 It is a field gate of two leaves with a bar across it and a latch on the near side, and it has a chain round the post that is not new and is not old either, and there is a stone by the post that the mud of four years has got into the bottom of.
 
 the man who digs loam said that the bar is down, and that **a bar down is not a holding and is not a surrender and is a piece of wood**, and that the seventh has not stopped being a gate because the woman has stopped being in it.
 
-It was not contradicted. A man of about thirty-four who mends fencing said that **a gate with a bar down and no holder is the fifth thing this district does not have in another shape**, and a man of about thirty-four who digs loam said the name of it, which is a way to pay a person who is not in a household, and that a woman who was the gate was not paid and was not a bearer and is not the fifth of the five and is not a sixth.
+It was not contradicted. A man of about thirty-four who mends fencing said that **a gate with a bar down and no holder is the fifth thing this district does not have in another shape**, and a man of about thirty-one who digs loam said the name of it, which is a way to pay a person who is not in a household, and that a woman who was the gate was not paid and was not a bearer and is not the fifth of the five and is not a sixth.
 
 A clerk of nineteen years entered that on her own account and afterwards, in the yard, and she entered that the count of things this district does not have is five and did not move on the twenty-fourth of the second month, **and that a gate with nobody behind it is a resemblance and not a finding and that a resemblance put against a list has not moved the list.**
 
-They came back up the lane and the man of about thirty-four who mends fencing asked whether the eighth of the nine is still held, and the man of about thirty-four who digs loam said that **a man who digs that ground knows which of the nine has water in it in March and which has not, and that the eighth has, and that a man who digs loam is a man who knows and is not a keeper of what he knows.**
+They came back up the lane and the man of about thirty-four who mends fencing asked whether the eighth of the nine is still held, and the man of about thirty-one who digs loam said that **a man who digs that ground knows which of the nine has water in it in March and which has not, and that the eighth has, and that a man who digs loam is a man who knows and is not a keeper of what he knows.**
 
 So a gate is a gate and a bar is a bar, **and the seventh is a holding that has been given up and the eighth is a holding that is still held and the fourth is a holding that has not taken a drop, and the three of those are three and are not a column and are not added to anything in this district's books.**
 

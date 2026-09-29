@@ -22,7 +22,7 @@ The woman of about thirty-one who keeps a route for people who are not in any bo
 
 A clerk of nineteen years entered that a bell is not a keeper and not a bearer and not a figure about anybody, and that a rope that has been taken off a beam so that a bell cannot be rung is not a door and is not a page and is not one of the three documents this district does not own, and that the record about who untied it says not asked, and that a man who has never been asked to be a keeper of a bell is not a keeper of a bell.
 
-The man of about thirty-four who digs loam said the other half about the bell, and the count came to a hundred and twenty-seven.
+The man of about thirty-one who digs loam said the other half about the bell, and the count came to a hundred and twenty-seven.
 
 "**A bell is a thing in a frame and a frame holds it up and a bell does not need a person. That is the first honest thing anybody in this district can say about a useful object in eighteen months and I have been waiting five months for a thing to say it about. But a bell is not a plank. A plank in a notch does not keep nights, and I do not know what a bell does and neither does anybody in this yard, and I have been in this basin eighteen years and I have never once seen it rung, and the two times it has been rung are on two walls about a mile apart and I have read both of them.**"
 
@@ -51,7 +51,7 @@ Then a panel arrived in that yard at about eleven in the morning that nobody had
 >
 > **THE HALF THAT IS WORTH HAVING IS THE ONE WHERE NOBODY IS NAMED, AND A BELL THAT NAMES NOBODY IS A BELL THAT HAS NOT RUNG.**
 
-**Nobody in that yard disagreed with it out loud.** A clerk of nineteen years entered that nobody did, and entered that she had been in that yard, and entered that **the record about the disagreeing says not asked**, and entered that about nine people were standing under a frame of oak at four miles out past the loams and that the man of about thirty-four who mends fencing, the man of about thirty-four who digs loam, the man of fifty-six, the woman of about thirty-one who keeps a route and a man of about nineteen who counts were five of the nine and that she did not count the other four on purpose and that she is not going to be asked for them.
+**Nobody in that yard disagreed with it out loud.** A clerk of nineteen years entered that nobody did, and entered that she had been in that yard, and entered that **the record about the disagreeing says not asked**, and entered that about nine people were standing under a frame of oak at four miles out past the loams and that the man of about thirty-four who mends fencing, the man of about thirty-one who digs loam, the man of fifty-six, the woman of about thirty-one who keeps a route and a man of about nineteen who counts were five of the nine and that she did not count the other four on purpose and that she is not going to be asked for them.
 
 A man of fifty-six said out loud that he disagreed with the third of the three and then said nothing else at all, and a clerk entered that he said he disagreed and that he did not say the rest of it, and that a man who says he disagrees and does not say why has not converted a disagreement into a finding, and that the record about the not saying says not asked.
 

@@ -8,7 +8,7 @@ The twenty-seventh of the seventh month broke grey over the loams and did not ge
 
 A clerk of nineteen years entered that five is four days to the end of the seventh month plus the first of the eighth, and that the length of the eighth month is not stated in this district and was not used this morning, and that a man who came into this yard on the twenty-first of this month has been in it six days this morning, a stay being counted without the day he arrived on, **and that six days is a figure about a stay in this district and is not the nine days he gave about his own walking on the twenty-first, and that the two are two figures and are not added together and do not make fifteen.**
 
-At about ten the man of about thirty-seven who puts tables up for anybody who will use them said one thing at the end of that trestle table, out loud, in the ordinary voice, to about nine people, and a man of about nineteen counted it and got a hundred and eighty-four, and it went in the minute in his own words.
+At about ten the man of about thirty-two who puts tables up for anybody who will use them said one thing at the end of that trestle table, out loud, in the ordinary voice, to about nine people, and a man of about nineteen counted it and got a hundred and eighty-four, and it went in the minute in his own words.
 
 "**I have got two things and I have not got a third one and I have said that in this yard on the fifth of this month and again on the nineteenth and again on the twentieth, and I am not going to say it again this morning, and I am going to say the shape of it instead because I have had it in my mouth for six days and it is coming out sideways. The shape of the third thing is a question. Not a sheet and not a line of print and not a table and not a tent. A question, asked out loud, of somebody who is standing there, and an answer given back. I have not asked anybody one in this yard in three weeks and nobody has asked me one, and I have not described the one person who stood at that table to eleven miles off and I am not going to, and that is my two things and I have made neither of them into a market. That is the shape. That is all of it.**"
 
@@ -36,7 +36,7 @@ A clerk of nineteen years entered that a man who has said out loud that he is no
 
 ---
 
-At about half past four the man of about thirty-seven who puts tables up for anybody who will use them said the shape of it a second time at the end of that trestle table, and a man of about nineteen counted it and got a hundred and fifty-one, and it went in the minute in his own words.
+At about half past four the man of about thirty-two who puts tables up for anybody who will use them said the shape of it a second time at the end of that trestle table, and a man of about nineteen counted it and got a hundred and fifty-one, and it went in the minute in his own words.
 
 "**The shape of the third thing is a question, and I said that at about ten this morning, and I am saying it again at about half past four because I have not said it once in between and I have thought about nothing else since about eleven. I am not going to say it a third time. There is a man sitting at the foot of that wall who has not been asked one question in six days and I have not asked him one and neither has anybody else, and I am not going to stand in this yard and make that into a reason. It is a shape. I have said it twice. Somebody in this basin is going to notice that twice is not a finding and I would like a clerk to write that down before I say it a third time and make it one.**"
 

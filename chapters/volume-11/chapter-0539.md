@@ -30,7 +30,7 @@ The man of about forty-eight who keeps a tally was at the east end of that yard 
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that she is not entering what a clerk is going to do with a book, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got seventy-seven and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got seventy-seven and read the number back to himself in a low voice.
 
 "**I am not going to stand at the front of that yard on that morning. I cut those marks and I have never read one of them and I am not going to be standing four feet off a clerk's hand being told what my own wood says. I will be up that bank at about ten because that is where I read those three lines and I am not going to stop doing that for anybody.**"
 

@@ -32,7 +32,7 @@ She then said out loud, in the ordinary voice, and the boy of about nineteen cou
 
 Nobody answered her. The clerk of nineteen years entered that the difference is one day and entered that this column stands and entered that nothing on that wall was altered, and entered that a clerk is not going to enter a pattern on two columns, and the record about the not asking says not asked.
 
-The man of about thirty-seven who puts tables up was at the end of the second table through all of it and he said one thing at about a quarter past ten, to about four people and not to her, and the boy of about nineteen counted what he said and got seventy-three and read the number back to himself in a low voice, and about nine people heard it.
+The man of about thirty-two who puts tables up was at the end of the second table through all of it and he said one thing at about a quarter past ten, to about four people and not to her, and the boy of about nineteen counted what he said and got seventy-three and read the number back to himself in a low voice, and about nine people heard it.
 
 "**Nineteen years I have put tables up and nobody in this district has ever asked me how many mornings one of them has stood, and there is a figure about that on that wall and it has been on that wall longer than I have been putting them up, and I have never once wondered about it, and I would like it said out loud that I have never once wondered about it.**"
 
@@ -40,7 +40,7 @@ A clerk of nineteen years entered that a man said a thing out loud there and ent
 
 ---
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of the table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day. At about one he came up a second time, stood at that table, and said one thing out loud to about four people and not to the yard, and the boy of about nineteen counted what he said and got seventy-two and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of the table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day. At about one he came up a second time, stood at that table, and said one thing out loud to about four people and not to the yard, and the boy of about nineteen counted what he said and got seventy-two and read the number back to himself in a low voice.
 
 "**There is a figure on that wall about how many mornings a table has stood, and there is a figure on that wall about days, and a man in this district has been putting a mark in chalk on a table every morning for three weeks, and not one of the three of them is about the other two, and that is the first thing I have ever noticed about a board.**"
 

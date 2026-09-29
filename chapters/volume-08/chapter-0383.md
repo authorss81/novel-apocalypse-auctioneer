@@ -8,7 +8,7 @@ The eleventh of the tenth month came in with a low sun and about nineteen people
 
 A clerk of nineteen years entered that the sheet at that gatepost is four hundred and eleven and did not move, and that the pool of refusals with no reason a clerk of a house has given is two hundred and one days and last moved on the twenty-fourth of the third month, and that that is a figure about words on a page and is not a figure about a date.
 
-The man of about thirty-four who digs loam was in the bottom of that ditch before nine and came up the bank at about ten and went out of that yard, and the man of about thirty-seven who cuts reeds was in the same ditch with his hook and his bundle from about nine until about half past four, and neither of those two men said one word to the other on this day either.
+The man of about thirty-one who digs loam was in the bottom of that ditch before nine and came up the bank at about ten and went out of that yard, and the man of about thirty-seven who cuts reeds was in the same ditch with his hook and his bundle from about nine until about half past four, and neither of those two men said one word to the other on this day either.
 
 ---
 
@@ -64,7 +64,7 @@ A clerk of nineteen years entered that a person who has said out loud that she i
 
 ---
 
-The rest of that day went the way a day goes after something has happened in it. The man of about thirty-four who digs loam was back in that ditch from about two until about half past four and his right hand did not go up past his shoulder at any point in it. The man of about thirty-seven who puts tables up for anybody who will use them was at the east wall with his hand-cart standing against it and the tent still rolled where it has been rolled since the thirtieth of the sixth month, and nobody asked him about the tent and he was given nothing.
+The rest of that day went the way a day goes after something has happened in it. The man of about thirty-one who digs loam was back in that ditch from about two until about half past four and his right hand did not go up past his shoulder at any point in it. The man of about thirty-two who puts tables up for anybody who will use them was at the east wall with his hand-cart standing against it and the tent still rolled where it has been rolled since the thirtieth of the sixth month, and nobody asked him about the tent and he was given nothing.
 
 The man of fifty-six read the four figures off those boards at about four and got all four, and two people in that yard said the top one of the four to each other behind him and got it right, and one of them said out loud that a man who reads a line out loud and then has somebody else read it back has had his line read twice today and that is the first time that has happened to him in five months.
 

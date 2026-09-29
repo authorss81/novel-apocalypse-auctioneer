@@ -76,7 +76,7 @@ A clerk of nineteen years entered that the five of those are not a column and th
 
 A man of fifty-six said that the third thing has now got a second instance, and that two is not a rate and is not a column, and that the two instances are a page in a lane four miles down a hill nobody has gone to look at, and a sentence at a counter thirty-four miles east, **and that the two are not joined and that joining them would be the first time this district had joined a thing in a building to a thing in a house and it would have been wrong.**
 
-A man of about thirty-four who digs loam said that the man the figure of twenty-one years is against has now gone four times since the eighth of March to a thing he cannot bring back, and that a man who keeps going is not a man who is learning and is a man who has not worked out what he is collecting.
+A man of about thirty-one who digs loam said that the man the figure of twenty-one years is against has now gone four times since the eighth of March to a thing he cannot bring back, and that a man who keeps going is not a man who is learning and is a man who has not worked out what he is collecting.
 
 A man of about thirty-one who mends a dray at a forge end off Salt Row was in the yard and said one thing about that, in the six things, and it is in the minute in his own words and it is thirty words.
 
@@ -88,7 +88,7 @@ The yard let it stand. A clerk of nineteen years entered that the fifth of the f
 
 ---
 
-A man of about thirty-four who digs loam asked, in the six things, at about half past one in the afternoon, what the fourth line of the offer actually is, and a man of fifty-six said that nobody in this district knows and has never known, and that it is on a table thirty-four miles away and has never been read out loud here.
+A man of about thirty-one who digs loam asked, in the six things, at about half past one in the afternoon, what the fourth line of the offer actually is, and a man of fifty-six said that nobody in this district knows and has never known, and that it is on a table thirty-four miles away and has never been read out loud here.
 
 A clerk of nineteen years entered that the fourth line is not entered, and that a thing nobody in this district can state is not a thing this district can carry, **and that a woman whose name is in no register in the west bank has offered four lines three times and has had none of them taken and none of them refused, and that a person who has offered a thing three times and not had it taken is a person and not a house and is not joined to a house.**
 

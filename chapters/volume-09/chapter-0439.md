@@ -38,7 +38,7 @@ The boy of about nineteen said one thing back and it was about four seconds long
 
 ---
 
-At about half past eleven a man of about thirty-four who digs loam came up out of that bank and stood a foot from him and said one thing out loud and about nine people heard it.
+At about half past eleven a man of about thirty-one who digs loam came up out of that bank and stood a foot from him and said one thing out loud and about nine people heard it.
 
 "I have a figure in a book in the open that I put there with my mouth and that has been wrong for fifty-two days, and you have a hand that has not closed since the eleventh of the June." He did not look at his own hand. "I have not said anything to you about either of those and I am not going to, and I want it understood that the reason I am not is not that I think it would be kind. It is that a man who comes up here every morning and says a thing about somebody else is a man who has made the other one into a thing he is talking about, and I have done that to about four people this month and I would like to stop."
 
@@ -62,7 +62,7 @@ Nobody wrote it down. The clerk of nineteen years entered that a man said a thin
 
 ---
 
-At about half past one the man of about thirty-seven who puts tables up said one thing out loud from the east wall and it was about a woman.
+At about half past one the man of about thirty-two who puts tables up said one thing out loud from the east wall and it was about a woman.
 
 "She read a line back on the eleventh of the tenth month. That was the only time. She has said since that she is not going to read a thing back again and nobody has asked her to, and I have not asked her to, and I am not going to ask her to, and I would like the yard to hear me say that about a woman who has not been asked instead of about a man whose cloth came off yesterday, because the man will get about four questions a day for a month and she will get none and she is the one who has already had hers."
 

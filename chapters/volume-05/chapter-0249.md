@@ -56,7 +56,7 @@ A clerk of nineteen years entered that the notice has now been read out in that 
 
 The woman of fifty-eight came down the bank at about one with two buckets and put them down where she puts them, and the man of about thirty-four who mends fencing did not carry them up that day and a clerk entered that nobody asked him to and that the record about the two buckets says not asked and that a man who carries a bucket on one day and not on another has not been asked a question on either day.
 
-The man of about thirty-four who digs loam was in that yard for the whole afternoon and refused nothing at all, and a man of fifty-six said that a day a man does not refuse is not a day he has agreed to anything and the record about it says not asked.
+The man of about thirty-one who digs loam was in that yard for the whole afternoon and refused nothing at all, and a man of fifty-six said that a day a man does not refuse is not a day he has agreed to anything and the record about it says not asked.
 
 The man of about thirty-four who mends fencing and the man of about thirty-four who keeps a road carried the letter up the road that climbs at about two in the afternoon, and the man of about thirty-four who mends fencing put it into nine things that were not envelopes, and a clerk entered that a wall is not an address and that nine walls is not nine addresses and is not a figure about nine people, and that nobody in that yard was asked whether nine walls was the right number.
 

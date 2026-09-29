@@ -8,7 +8,7 @@ At about a quarter to eight, with that yard empty behind her, a clerk of ninetee
 
 ---
 
-The man of about thirty-seven who puts tables up came down that lane at about half past one and stood at the end of that second table and said one thing out loud, in the ordinary voice, to about nine people, and the boy of about nineteen counted what he said and got one hundred and read the number back to himself in a low voice.
+The man of about thirty-two who puts tables up came down that lane at about half past one and stood at the end of that second table and said one thing out loud, in the ordinary voice, to about nine people, and the boy of about nineteen counted what he said and got one hundred and read the number back to himself in a low voice.
 
 "**I said a sentence this morning with two figures in it and about four people have said since that it was the truest thing anybody has said in this yard this month, and I have been walking up and down that lane for eleven days to say it, and being true is the thing this district has least use for, and I can prove it, because I have been down here every working morning since the first of this month and I have not been thanked once and I am not going to be, and I would say it again.**"
 

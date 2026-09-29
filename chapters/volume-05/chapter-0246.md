@@ -40,7 +40,7 @@ The registrar of this district's records office then said one thing about where 
 
 A clerk of nineteen years entered that a registrar who has put a covenant in a book and has not carried it out of her room has not become a bearer of it and is not a holder of the water and is not a party of anything, and that the record about the book says not asked, and that a notice which takes effect on the first of the next month has not changed a word of her rule and is not going to.
 
-The man of about thirty-four who digs loam said the thing about the four stewards, and the count came to a hundred and thirty-four.
+The man of about thirty-one who digs loam said the thing about the four stewards, and the count came to a hundred and thirty-four.
 
 "**Four stewards for nine things and for four districts, and every one of them changed by a show of hands in the place they come from, and a steward can be asked a question by anybody for one season and by nobody at all for the rest of their life. I have been in this yard every morning for a month saying that a single holder cannot be asked a question by anybody, and I have been wrong about how to write that down, because you do not write it down by not having a holder. You write it down by having four of them and a door. I am not going to be a steward and nobody has asked me and I am saying so before somebody decides I am the obvious one.**"
 

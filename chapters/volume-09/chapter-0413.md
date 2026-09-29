@@ -1,6 +1,6 @@
 # Chapter 413: A Thing Said Twice
 
-Nobody in the yard got the whole of what the man of about thirty-seven who puts tables up was going to say out loud before ten. He said it in two pieces, and the second piece is the one that was refused, and the refusal was not that either piece was wrong.
+Nobody in the yard got the whole of what the man of about thirty-two who puts tables up was going to say out loud before ten. He said it in two pieces, and the second piece is the one that was refused, and the refusal was not that either piece was wrong.
 
 It was the eleventh of the eleventh month and the wind came off that bank in the middle of the morning and went away again. By ten there were about nineteen people in the yard of Lot Seventeen.
 
@@ -54,7 +54,7 @@ Nobody read that back from the top either. About four people said afterwards tha
 
 ---
 
-The man of about thirty-four who digs loam came up that bank at about one with the water to his thigh. He got the four figures at the end of that table and said the word four times with them. That right arm of his did not go above the level of that shoulder at any point, and nobody asked him about it.
+The man of about thirty-one who digs loam came up that bank at about one with the water to his thigh. He got the four figures at the end of that table and said the word four times with them. That right arm of his did not go above the level of that shoulder at any point, and nobody asked him about it.
 
 At about half past one the man of about nineteen read the twelve off the margin of the clerk's page and got all twelve. About four people said the ninth one was where his voice went. He said he had stopped trying to get past the ninth and had started using it. The clerk of nineteen years said that using it was the correct word, that nobody had ever said it to him before, and that she wished she had said it on the first of this month.
 
@@ -76,7 +76,7 @@ Two people asked her why, and she said that a word a clerk writes once is a word
 
 ---
 
-The man of about thirty-seven who puts tables up did not say anything else about it that day. He stayed at the end of that trestle table with his forearm on the boards until about half past three. Then he went back to the east wall with his hand-cart. The tent is still rolled on the back of it, where it has been since the thirtieth of the June. Nobody asked him about it, and he was given nothing.
+The man of about thirty-two who puts tables up did not say anything else about it that day. He stayed at the end of that trestle table with his forearm on the boards until about half past three. Then he went back to the east wall with his hand-cart. The tent is still rolled on the back of it, where it has been since the thirtieth of the June. Nobody asked him about it, and he was given nothing.
 
 At about half past three a man of about sixty-four got up off the stones at the foot of that low wall. Two people near him stopped what they were doing. He stood for about four seconds with nothing in his hands, then sat down on the stones again about two feet along. Nobody offered him a hand, nobody said a word about it, and the clerk of nineteen years entered that a man moved his coat two feet and that nobody was asked about it and nobody was given anything.
 

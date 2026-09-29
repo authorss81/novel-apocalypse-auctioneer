@@ -82,13 +82,13 @@ A man of about thirty-eight who deals in second-hand paper on a lane off the low
 
 ---
 
-A man of about thirty-four who digs loam and does nine days of it in ten said that the fifth of the five is a man who is not on the page and that the first of the five has been on a shelf in a market for nine years, **and that between them they are the whole of what the man the figure of twenty-one years is against cannot say out loud, and that he read the first of them on the seventh and read the fifth of them into a room on the ninth of January, and that the two are not the same kind of thing and are not joined.**
+A man of about thirty-one who digs loam and does nine days of it in ten said that the fifth of the five is a man who is not on the page and that the first of the five has been on a shelf in a market for nine years, **and that between them they are the whole of what the man the figure of twenty-one years is against cannot say out loud, and that he read the first of them on the seventh and read the fifth of them into a room on the ninth of January, and that the two are not the same kind of thing and are not joined.**
 
 A man of fifty-six said that a man can go and look at four of his five and cannot go and look at the fifth without standing at a counter thirty-four miles east, **and that the distance is the whole of what is wrong with the list and that a list is a thing you can carry and the four of the five are a thing you can carry and the fifth is a thing thirty-four miles away.**
 
 A clerk of nineteen years entered that a distance is not a reason and is not a finding and that the reason the list is not written is entered and is not a delay, **and that the reason has changed its shape three times since the second of January and has not moved, and that a shape is not a figure and three is not a column and the two are not added to each other.**
 
-A man of about thirty-four who digs loam and does nine days of it in ten was not in the yard on the seventh and had sent no word and a clerk of nineteen years entered that he was not in it and that she was not asked about him and that the not-asking is entered and the count is where it was, and that a man who digs loam nine days in ten has been in this yard on ten of the last twenty days and that today is not one of them and the figure was not counted by anybody.
+A man of about thirty-one who digs loam and does nine days of it in ten was not in the yard on the seventh and had sent no word and a clerk of nineteen years entered that he was not in it and that she was not asked about him and that the not-asking is entered and the count is where it was, and that a man who digs loam nine days in ten has been in this yard on ten of the last twenty days and that today is not one of them and the figure was not counted by anybody.
 
 A man of about thirty-four who mends fencing asked a question in the yard on the seventh that nobody answered and it went into the minute with nobody's name against it, and it is in his own words and it is twenty words.
 

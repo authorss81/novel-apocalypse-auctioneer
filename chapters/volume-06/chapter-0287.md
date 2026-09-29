@@ -26,7 +26,7 @@ Then the man of about thirty-four who keeps a road said one thing about the road
 
 A clerk of nineteen years entered that a man who keeps a road is not a bearer of the road and has never been asked to be one, and that a turning that is not on a sheet is a turning and not an address, and that a refusal with a reason is not one of the refusals with no reason a clerk of a house has given, and that the eight did not move at about eleven in the morning on the seventh of the seventh month.
 
-Then the man of about thirty-seven who puts tables up for anybody who will use them said the figure about the first morning, out loud, in the ordinary voice, to about nineteen people, and a clerk of nineteen years entered that he said it in about four seconds and that nobody in that yard was going to be able to do anything with it.
+Then the man of about thirty-two who puts tables up for anybody who will use them said the figure about the first morning, out loud, in the ordinary voice, to about nineteen people, and a clerk of nineteen years entered that he said it in about four seconds and that nobody in that yard was going to be able to do anything with it.
 
 "**I set that table up against the wall at about eight o'clock this morning and I was there until ten and there was one person standing at it, and I do not know who it was and I did not ask and I am not going to describe him or her to this yard, because if I describe one person on the first morning then this district has got a figure about a person and the whole of what I came down eleven miles of road for is that it does not. One person. At eight in the morning on the first morning. I am not going to say one more thing about it today and I would like this yard not to make a finding out of one.**"
 
@@ -34,7 +34,7 @@ A clerk of nineteen years entered that a person who stood at a table on the morn
 
 ---
 
-At about half past four in the afternoon the man of about twenty-three who sells nothing and copies for nothing read the four lines of the printed sheet out loud, in the ordinary voice, in about nine feet of lane outside the office, to about four people, and the man of about thirty-seven who puts tables up for anybody who will use them was standing there and had not asked him to.
+At about half past four in the afternoon the man of about twenty-three who sells nothing and copies for nothing read the four lines of the printed sheet out loud, in the ordinary voice, in about nine feet of lane outside the office, to about four people, and the man of about thirty-two who puts tables up for anybody who will use them was standing there and had not asked him to.
 
 A clerk of nineteen years entered that the man of about twenty-three had been asked for the four lines by nobody, that the woman who keeps the books in the room four hundred yards from that gate was four feet away with her hand on the door and did not stop him, and that the record about her not stopping him says not asked, and that a clerk of nineteen years was four hundred yards off in a yard and did not hear it until about seven.
 

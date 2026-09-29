@@ -32,7 +32,7 @@ At about half past eleven the boy of about nineteen asked her a question out lou
 
 "The fifteenth of this month to this morning, counting the fifteenth, is nine days," she said. "That is when the figure on the second line of that book became a month old and a man said out loud there that he had put it there. I have not moved anything since. Not a figure, not a column, not a page, not a chair, and not a sentence, and every one of those is a thing I could have done on any of the nine days without asking anybody."
 
-"You could have corrected it," said the man of about thirty-seven who puts tables up, from the east wall.
+"You could have corrected it," said the man of about thirty-two who puts tables up, from the east wall.
 
 "I could have written a second figure beside a first figure, which this district has a rule about, and I did not, and the reason I did not is about forty feet from me and down in a ditch and it is not on a page." She did not turn round. "I have not entered the reason and I am not going to. There is a person about forty feet from me who has not been asked for it and has not been asked for it on any of the twenty-six days I have been writing it down, and if I put a reason on a page then in a month there is a page with a reason on it and a man in this place who is a figure on it without anybody having asked him, and about four of you would call that progress."
 
@@ -40,7 +40,7 @@ Nobody at that table said the name of the man she meant, and the record about th
 
 ---
 
-At about twelve the man of about thirty-four who digs loam was in that ditch to his thigh and said one thing up the bank without stopping what he was doing.
+At about twelve the man of about thirty-one who digs loam was in that ditch to his thigh and said one thing up the bank without stopping what he was doing.
 
 "Nine days," he said. "I have been in this ditch for every one of the nine and nobody has come to the end of it and asked me a single question, and I have worked out in that time that not being asked is not a favour done to me. It is a thing that has not happened yet. About four of you are still waiting for me to be angry about it and I have decided not to be, and the clerk has just told you why, and I am going to be angry about it in about a month if I am still here, and I do not know what I will be angry about by then."
 
@@ -52,7 +52,7 @@ At about half past twelve the woman of about thirty-six who keeps a scale came d
 
 At about one the man the figure of twenty-one years is against came down that bank and stood nine feet off that table with his right hand in his coat and said nothing out loud. Two people at that table looked at each other, and one of them said that he had now said nothing in that yard for four days running, and the other one said it was five. Then one of them said that it was a market of one thing in a room with no roof, and that every person in it had said so at some point since the first of this month. The man the figure of twenty-one years is against said, "That is the first use of that word I have heard in six months and it was used correctly."
 
-At about half past one the man of about thirty-seven who puts tables up asked the man of about nineteen a question out loud, and did not get an answer straight away, and the boy counted nothing.
+At about half past one the man of about thirty-two who puts tables up asked the man of about nineteen a question out loud, and did not get an answer straight away, and the boy counted nothing.
 
 "You have written that not-asked down twenty-six times since the twenty-ninth of the last month. Why have you not written down what it was you were not asking him for?"
 

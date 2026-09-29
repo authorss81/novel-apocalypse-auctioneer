@@ -32,7 +32,7 @@ By ten there were about nineteen people in that yard and about four of them had 
 
 ---
 
-The man of about thirty-four who digs loam came up out of that bank at about two and a half and stood at the near end of that first table with the mud on him, and he put his own right thumb on the boards about four inches below the second line of that lot book and kept it there for about nine seconds, and about four people at that table watched a man's thumb sit on a book and not one of them said a word.
+The man of about thirty-one who digs loam came up out of that bank at about two and a half and stood at the near end of that first table with the mud on him, and he put his own right thumb on the boards about four inches below the second line of that lot book and kept it there for about nine seconds, and about four people at that table watched a man's thumb sit on a book and not one of them said a word.
 
 Then he said one thing out loud, and the boy of about nineteen counted what he said and got eighty-four, and about four people near the east wall heard the number and about nine heard all of it and read the number back to himself in a low voice.
 

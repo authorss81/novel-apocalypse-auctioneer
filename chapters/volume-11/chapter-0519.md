@@ -34,7 +34,7 @@ The man of about twenty-nine who drives that cart was then asked a third questio
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that a third answer of the same length is not a check on the first two and is not a check on itself, and about four people at the near end of that first table have said since that this district has now run one check on one man's memory three mornings running and it has returned the same figure three times, and that a check that cannot come out a second way is not a check.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got fifty-five and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got fifty-five and read the number back to himself in a low voice.
 
 "**About four of us have known that second line was wrong since before the last volume began, and about four of you have known nothing, and that is the reason that page in the shop is as good as the two in this yard, and nobody has to be a liar for that to happen.**"
 

@@ -26,7 +26,7 @@ The man of fifty-six turned round from the boards. He is a slow man with a grey 
 
 "I have read that board every morning since the middle of the sixth month," he said. "I have got four figures off it every morning and I have never been wrong about one of them in your hearing or out of it. I do not know how many days this month has. Neither does anybody standing in this yard. That is not a figure about a board. It is a figure about a month, and nobody has counted the month, and I am not going to stand here and invent one because a boy of nineteen has asked me a fair question."
 
-Nobody said anything for about as long as it takes to fill a bucket. The man of about thirty-seven who puts tables up said one thing out loud from the east wall, in about four seconds, and the boy of about nineteen counted what he had said and got sixty-seven and read the number back to himself in a low voice.
+Nobody said anything for about as long as it takes to fill a bucket. The man of about thirty-two who puts tables up said one thing out loud from the east wall, in about four seconds, and the boy of about nineteen counted what he had said and got sixty-seven and read the number back to himself in a low voice.
 
 "**A month is the shortest interval this district has any evidence for, and the length of this one is the last figure in the calendar nobody has counted, and a man of fifty-six is about to have to read two of his four off a length that has never been counted by anybody. He is not wrong. There is nothing in this yard to be right with.**"
 
@@ -62,7 +62,7 @@ She did not enter that the hand was better than it had been the day before, and 
 
 By ten there were about nineteen people in the yard of Lot Seventeen, and the four figures on that wall had been read off it once already that morning, and the stone was face up in the right hand of a man at the far end of that table.
 
-At about ten the man of about thirty-four who digs loam came up out of that bank with the water to his thigh and got the four figures at the near end of the boards and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day. He stood about two feet from the far end of that table for about a minute and a half looking at the underside of a stone, and then he went back down the bank without saying one word about it.
+At about ten the man of about thirty-one who digs loam came up out of that bank with the water to his thigh and got the four figures at the near end of the boards and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day. He stood about two feet from the far end of that table for about a minute and a half looking at the underside of a stone, and then he went back down the bank without saying one word about it.
 
 At about half past ten the woman of about thirty-six who keeps a scale came down that bank with the last of that day's flour on her hip, read the three lines in that lot book standing up, and put her thumb in the hollow of the stone without saying anything about it either, and went back up the bank.
 
@@ -76,7 +76,7 @@ A clerk of nineteen years entered the rest of the day in one paragraph at about 
 
 The bid is open ninety-nine days and was not run on this day and nothing was proposed about closing it in a mouth or in a page. The reading of that lot is begun and not finished and stands at the fourth of the five things a document that sets a lot out has to say, and the fourth is a person and the fifth is a remedy. The figure on the second line of that lot book is fifty-four days out of date and has not been altered and has nothing written beside it. The rule said out loud in that yard on the tenth of the tenth month is fifty-nine days standing. The first day of the eighth month is a hundred and twenty-nine days past. The ninth of the nine printed nights is two hundred and thirty-two days back and was not named in that yard this morning. A body four hundred miles off is sixty-eight days past a printing it did not make and nobody watched anything. There are eight marks cut off that board since the mark for the first of this month, and eight marks is a figure about a count of marks and is not a figure about a month, and she is not entering a length. The column for the name of whoever read a thing out loud was ruled and empty at about six and nothing went into it. The fifth of the five things this district does not have is still not paid, and the fifth is a way to pay a person who is not in a household.
 
-The man of about thirty-seven who puts tables up said one thing out loud at about five, and the boy of about nineteen counted what he said and got sixty-four and read the number back to himself in a low voice.
+The man of about thirty-two who puts tables up said one thing out loud at about five, and the boy of about nineteen counted what he said and got sixty-four and read the number back to himself in a low voice.
 
 "**A stone on a corner of a book is a thing four of you have walked past for two months, and one of you has just turned it over with a hand that will not close, and neither of those is going on a page, and I am saying that out loud so that about nine of you can hear that I know it.**"
 

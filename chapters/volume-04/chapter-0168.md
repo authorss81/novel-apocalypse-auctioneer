@@ -32,7 +32,7 @@ She said one thing and it is in the minute in her own words and it is thirty-thr
 
 Nobody took it up. A man of about fifty-six said that a delivery in the first week of a named month and not on a named day is a sentence on a nail in a shed and that a sluice is not on the sheet and was never on the sheet, **and that a house writes nine holdings and a figure against each of them and a tenth line that is its own, and that a sluice is an eleventh thing on the same piece of water and nobody has ever written it down.**
 
-A man of about thirty-four who digs loam and does nine days of it in ten said that he has said since the twenty-ninth of December that a sluice is the only piece of the water in this district that can be moved a mile, **and that a thing which can be moved a mile does not need anybody's column to be moved, and that a person who opens a gate is a person who has been asked, and a sluice that is open is a sluice that has not been asked about.**
+A man of about thirty-one who digs loam and does nine days of it in ten said that he has said since the twenty-ninth of December that a sluice is the only piece of the water in this district that can be moved a mile, **and that a thing which can be moved a mile does not need anybody's column to be moved, and that a person who opens a gate is a person who has been asked, and a sluice that is open is a sluice that has not been asked about.**
 
 Nobody said anything for about nine seconds and a clerk of nineteen years entered that a sluice bought with a farm in it is a seventh instrument and was refused entry in this district in the month before last, **and that a sluice standing open in a field with nobody on the farm is not an instrument and is a sluice, and that the count of six did not move on the second of the second month and that the two are not joined.**
 
@@ -60,7 +60,7 @@ He said that he could write the fourth holding down in a public book, and a man 
 
 He said that he could go to the farm and ask the three households, and a man of about fifty-six said that the three households work it and none of them owns it and that asking a household whether it wants a sluice opened is asking a household to be an owner and that none of them has agreed to be one and has not been asked.
 
-A man of about thirty-four who digs loam and does nine days of it in ten said that a sluice that has been open since before dawn on the second of February has been open about four days by the fifth, and that a sluice does not have a term, and that the only terms anybody in this district has for water are the term on a charter that ends on the thirty-first of March and the first week of a month on a nail in a shed.
+A man of about thirty-one who digs loam and does nine days of it in ten said that a sluice that has been open since before dawn on the second of February has been open about four days by the fifth, and that a sluice does not have a term, and that the only terms anybody in this district has for water are the term on a charter that ends on the thirty-first of March and the first week of a month on a nail in a shed.
 
 A clerk of nineteen years entered that the first week of the second month is a week and not a day and that a sluice is not a week and is not a day, **and that a thing with no term is not a lot and is not an instrument and is not one of the five things this district does not have, and that the count of five did not move on the fifth of the second month.**
 
@@ -124,7 +124,7 @@ A man of about thirty-four who mends fencing asked him, in the six things, what 
 
 The lane did not argue with it. A man of fifty-six said that the second of the three sentences is the one a building runs on, and that a page which says a person is entered on the day they arrive has been saying for nine years that it wants the day, **and that the space the width of a finger has been in that page since the fourth year and that about forty of them have never had anything in them, and that nobody has ever asked a man what a space is for.**
 
-A man of about thirty-four who digs loam and does nine days of it in ten said that a space the width of a finger is a space for a day, and that a mark would not fit in it, **and that a man of about thirty-four who digs loam and does nine days of it in ten has just said the second half of a thing and has said it about nine times in eleven weeks and is not a column.**
+A man of about thirty-one who digs loam and does nine days of it in ten said that a space the width of a finger is a space for a day, and that a mark would not fit in it, **and that a man of about thirty-one who digs loam and does nine days of it in ten has just said the second half of a thing and has said it about nine times in eleven weeks and is not a column.**
 
 A clerk of nineteen years entered that the day starts on the fourth of the second month and goes in the space, and that the about forty names already on the page have no day against them and will not be given one, **and that a day which is absent is not a day of zero and cannot be entered as one, and that the two are not the same and the rule that arrived in that lane an hour ago says so.**
 

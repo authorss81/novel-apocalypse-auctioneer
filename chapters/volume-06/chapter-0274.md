@@ -44,7 +44,7 @@ About nine people slept in that room that night and were gone before six in the 
 
 ---
 
-At about half past one in the morning the man of about thirty-four who digs loam came down the lane behind the bank from the far end of it and stood in the doorway of the building with two doors, and he was not asked to be there and nobody met him on the road, and a clerk entered that a man standing in a doorway is not holding the door and is not a bearer of it and is not a keeper of anything and has never been asked to be a keeper of anything.
+At about half past one in the morning the man of about thirty-one who digs loam came down the lane behind the bank from the far end of it and stood in the doorway of the building with two doors, and he was not asked to be there and nobody met him on the road, and a clerk entered that a man standing in a doorway is not holding the door and is not a bearer of it and is not a keeper of anything and has never been asked to be a keeper of anything.
 
 At about two o'clock in the morning the bell began.
 
@@ -52,7 +52,7 @@ It is a cracked bell and it does not sound like a bell. It sounds like somebody 
 
 A clerk of nineteen years entered that the woman who keeps that scale was not out of her own house while that bell was going and that nobody sent for her and that the record about her not being sent for says not asked, and that a person who is in a house with the door shut has not been asked anything and has not refused anything and cannot be counted either way.
 
-The last person through the front door of the building with two doors was a man of about thirty-four who keeps a road, who had been at the top of the bank and had come down, and the man of about thirty-four who digs loam said that it was about nine minutes from the first sound to that man, and that he had said it out loud to the lane and that nobody had counted it but him, and that a man standing still in the dark with a hand that does not close is the worst person in this basin to time anything, and that a figure about nine minutes given by that man is a figure about nine minutes and is not a figure about this district.
+The last person through the front door of the building with two doors was a man of about thirty-four who keeps a road, who had been at the top of the bank and had come down, and the man of about thirty-one who digs loam said that it was about nine minutes from the first sound to that man, and that he had said it out loud to the lane and that nobody had counted it but him, and that a man standing still in the dark with a hand that does not close is the worst person in this basin to time anything, and that a figure about nine minutes given by that man is a figure about nine minutes and is not a figure about this district.
 
 A clerk of nineteen years entered that a man of about nineteen who counts stood in that lane from about two in the morning and counted the people who came through that front door and got a number, and that he would not give the number to a clerk, and that he said out loud that a number a man counts in the dark at the end of a lane is a figure about a man counting and not about the people, and that he had said on the eleventh of this month that a mat is not a figure about anybody and that a person in a doorway at two in the morning is not a figure about anybody either.
 
@@ -62,7 +62,7 @@ The bell stopped. For about nine seconds after it stopped nobody in that lane sa
 
 Then about nine people wrote their own names on a piece of paper on a table outside a door, one at a time, in the ordinary hand of each of them, in the dark, and nobody wrote anybody else's name and nobody asked anybody what they were called, and the woman of about thirty-four who keeps a goat wrote hers and then stood about four feet back and watched the others do it and did not say anything to anybody about what she was doing.
 
-And then the man of about thirty-four who digs loam took the paper off the table.
+And then the man of about thirty-one who digs loam took the paper off the table.
 
 It took him four goes. He put the fingers of his right hand on the near edge of it and the paper went about nine inches across the boards and stopped, and he did it again and it went about four inches and stopped, and a clerk of nineteen years entered that a hand that has not closed since the ditch behind that building on the eleventh of this month cannot lift a sheet of paper off a table and that this was said out loud in that lane by the man himself in the ordinary voice and that nobody asked him about it.
 

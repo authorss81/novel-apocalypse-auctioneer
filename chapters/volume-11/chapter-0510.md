@@ -28,7 +28,7 @@ The woman of about thirty-six who keeps a scale came down that bank at about hal
 
 A clerk of nineteen years entered that a woman said a thing out loud in that yard and entered the thing, and entered that she is not entering it as a finding about the man who drives that cart, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice and about nine people heard all of it, and he said one thing after it in about four seconds and the boy counted it and got thirty-five and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice and about nine people heard all of it, and he said one thing after it in about four seconds and the boy counted it and got thirty-five and read the number back to himself in a low voice.
 
 "**Two people have now said the same thing twice in that yard and neither of them has changed a word and I am the only one in this yard who has been in a ditch.**"
 

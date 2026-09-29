@@ -24,7 +24,7 @@ The man of about fifty-six said one thing out loud, from that wall, in about nin
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that he was asked a question about a month and not about one of his four figures, and entered that she is not entering the difference between those two, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got sixty-four and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and read the three lines on that sheet out loud in the ordinary voice, and said one thing after it in about four seconds, and the boy counted it and got sixty-four and read the number back to himself in a low voice.
 
 "**I have been in that ditch every morning since before the second of the twelfth month, and the days I have been in it come off that wall every morning for about two hundred and fifty-five mornings, and nobody has ever counted them off the wood in front of anybody, and that is the only thing I have got to say about a month.**"
 

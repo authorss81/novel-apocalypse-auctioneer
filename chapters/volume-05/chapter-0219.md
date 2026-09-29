@@ -6,7 +6,7 @@ The dray went up the only road in this district that climbs at about half past f
 
 A clerk of nineteen years entered that a clerk of nineteen years was at the bottom of the lane at about half past five and was not sent for and was there on her own account, **and that a woman of about thirty-four who keeps a goat at the third house up the lane from the scale was at her own door and was not sent for and was not asked anything, and that a yoke which was on a tailboard at the bottom of this lane on the tenth of this month was in a forge end off Salt Row being looked at by the man who owns it, and that nobody put it on the cart and nobody asked the man who owns it whether it should go.**
 
-The man of about thirty-four who digs loam said at about ten in the morning that a man who does not take a yoke up a road has done one thing this district did not expect and that nobody is going to be told what it was because it was not for anybody.
+The man of about thirty-one who digs loam said at about ten in the morning that a man who does not take a yoke up a road has done one thing this district did not expect and that nobody is going to be told what it was because it was not for anybody.
 
 A man of fifty-six said that a man who says a thing is not for anybody is doing the same thing a clerk of nineteen years does when she says she is not going to put a number on the order, **and that a man of about thirty-one took a yoke off a woman's stones on the ninth of this month without asking her, put it on a cart on the tenth because he had said he would not put it on a cart until she had seen it on a cart, and has left it in a forge this morning because nobody asked him to take it, and that is two decisions in ten days that nobody in this district made and neither of them was a toll.**
 
@@ -28,7 +28,7 @@ The man of about fifty-five who keeps that building was on the step and a man of
 
 A clerk of nineteen years entered that he was asked and that he answered and that she is not going to count how many times a man has said no to a fifth mend in a tank, **and that a refusal with a reason is not one of the refusals with no reason a clerk of a house has given, and that a man who keeps a building is not a clerk of a house, and that the count of eight did not move this morning, and that the protected count is five and no sixth was added and a building that has denied nobody entry in nine years is a building and is not a sixth.**
 
-The man of about thirty-four who digs loam said the plainest thing about the tank at about eleven, and a man of about nineteen counted it and got a hundred and four, and it went in the minute in his own words, and he said it flat and in the ordinary voice.
+The man of about thirty-one who digs loam said the plainest thing about the tank at about eleven, and a man of about nineteen counted it and got a hundred and four, and it went in the minute in his own words, and he said it flat and in the ordinary voice.
 
 "**A tank filling is a river doing what a river does and it is not a thing standing open on a hill nine miles off, and I have put those two next to each other twice today and I am telling this yard that I have put them next to each other twice, and a resemblance noticed a second time is not a finding and a third time is a habit, and the twentieth of this month is the ninth of the nine nights on a sheet a body printed and I am not going to let a pail of water be the witness.**"
 
@@ -44,7 +44,7 @@ A man of about thirty-four who mends fencing asked him, in the six things, in fr
 
 "**I would take the beds up to the second room and I would do it at about two in the morning and I would not tell anybody until the morning, and that is not a plan and it is nine years of doing it.**"
 
-A man of about thirty-four who digs loam said that a man who has decided in advance not to tell anybody until the morning is a man who has decided that a figure gets to be a figure for about eight hours, **and that this district has eleven houses of a round that nobody can price and a tank within a hand's breadth of its lip and a road with a man on it, and that all three of those are decided about by people who will not say so until the morning, and that is not a rhyme and I am not going to make it one at four people and a lane in the middle of the day.**
+A man of about thirty-one who digs loam said that a man who has decided in advance not to tell anybody until the morning is a man who has decided that a figure gets to be a figure for about eight hours, **and that this district has eleven houses of a round that nobody can price and a tank within a hand's breadth of its lip and a road with a man on it, and that all three of those are decided about by people who will not say so until the morning, and that is not a rhyme and I am not going to make it one at four people and a lane in the middle of the day.**
 
 ---
 
@@ -60,7 +60,7 @@ A man of fifty-six said that a woman who refuses in advance to be asked has not 
 
 The man of about thirty-four who mends fencing went up the road at about five in the afternoon and a clerk of nineteen years entered that he was not sent for and that he said he was going to look and was not going to say when he would be back, and that a clerk of nineteen years was not asked to go with him and did not offer.
 
-A man of about thirty-four who digs loam said one thing about that, and a man of about nineteen counted it and got sixty-two, and it went in the minute in his own words.
+A man of about thirty-one who digs loam said one thing about that, and a man of about nineteen counted it and got sixty-two, and it went in the minute in his own words.
 
 "**Four people went up that road in ten days and not one of them went up it to ask anybody anything, and a road that is walked and not asked on is a road and not a corridor, and this district has been treating it as a corridor since the eighth of this month and it is not going to be one.**"
 

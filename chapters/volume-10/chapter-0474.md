@@ -44,7 +44,7 @@ The man of about thirty-seven who cuts reeds came up that bank at about twelve w
 
 Nobody answered him. A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing in his own words, and entered that she is not entering any of it, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and nobody asked him what he had in his hand at the end of the morning, and the record about the not asking says not asked.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that first table and said the word with them four times, and nobody asked him what he had in his hand at the end of the morning, and the record about the not asking says not asked.
 
 The man of about forty-eight who keeps a tally was at the east end of that yard from about one with the flat book under his left arm and a clerk walked over and stood about four feet off him for about a minute and a half and asked him nothing, and entered that she asked him nothing, and entered the reason, and the record about the not asking says not asked.
 

@@ -1,6 +1,6 @@
 # Chapter 547: Nine Words Said Out Loud And Not Written Down
 
-The stone on the corner of that lot book had been cold enough at about nine on the fifteenth of the third month that the man of about thirty-seven who puts tables up could not keep his hand on it, and he said so out loud to about nine people, and by ten there were about nineteen people in the yard of Lot Seventeen, and about four of those had come up that bank on the three mornings before this one with a question they had been told the answer to the day before.
+The stone on the corner of that lot book had been cold enough at about nine on the fifteenth of the third month that the man of about thirty-two who puts tables up could not keep his hand on it, and he said so out loud to about nine people, and by ten there were about nineteen people in the yard of Lot Seventeen, and about four of those had come up that bank on the three mornings before this one with a question they had been told the answer to the day before.
 
 At about a quarter to eight a clerk of nineteen years entered, at the near end of that first table, that the figure on the sheet at that gatepost is four hundred and eleven and did not move, and entered two hundred and eighty-six days as the age of that figure, and entered that a stone has been on the corner of that book since the second of the twelfth month and that nobody has ever put a thumb in the other one, and that this is the first fact about a stone anybody in this district has entered.
 
@@ -10,7 +10,7 @@ The man of fifty-six said the four off that wall in the ordinary voice and got a
 
 ---
 
-The man of about thirty-seven who puts tables up worked along the front edge of that first table from about eight with a short knife of his own, and took one splinter out of a board about a foot from the corner where that book lies, and put the shaving in his pocket, and said one thing out loud about it to about nine people, in about nine seconds, and the boy counted what he said and got fifty-six and read the number back to himself in a low voice.
+The man of about thirty-two who puts tables up worked along the front edge of that first table from about eight with a short knife of his own, and took one splinter out of a board about a foot from the corner where that book lies, and put the shaving in his pocket, and said one thing out loud about it to about nine people, in about nine seconds, and the boy counted what he said and got fifty-six and read the number back to himself in a low voice.
 
 "**That book has had a stone on the corner of it since before the frost came and I am clearing a place beside it for a hand, and I am doing it in my own time and I am not going to be thanked and I am not going to be asked what it is for.**"
 

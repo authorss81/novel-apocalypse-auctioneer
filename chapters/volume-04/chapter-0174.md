@@ -36,7 +36,7 @@ Nobody took that up. A man of fifty-six said that a holding which was not signed
 
 A clerk of nineteen years entered that two of the nine holdings were not signed for in the first week of the second month and that the two are the farm and the seventh, and that the two are not joined, **and that a woman who has not had to open a gate in nine years is a woman whose part of a delivery went into a tank and not into a field, and that the two are not the same and the district has not asked her which it was.**
 
-A man of about thirty-four who digs loam said that a head race a mile and a bit filled in about four hours in the first week and went to eight of the nine, and that a man who stands in the mud at a fourth holding until his boots go has told this district more about a delivery than the delivery note has, **and that a page in a man's hand about a day he spent in a field is not a minute and is not going to be entered as one.**
+A man of about thirty-one who digs loam said that a head race a mile and a bit filled in about four hours in the first week and went to eight of the nine, and that a man who stands in the mud at a fourth holding until his boots go has told this district more about a delivery than the delivery note has, **and that a page in a man's hand about a day he spent in a field is not a minute and is not going to be entered as one.**
 
 So two of the nine holdings were not signed for, and one of the two was not signed for because a clerk of a house was standing somewhere else, **and a holding that is not signed for is not a holding that has refused, and a man who is not at a gate is not a man who said no.**
 
@@ -50,7 +50,7 @@ The man of about thirty at the counter said no and gave nothing else, and a cler
 
 A man of fifty-six said that a refusal with no reason is not a refusal of a rule and is not entered as one, and that this district has a word for the second of those two things and not for the first, and that a man who has now refused twice without a reason has done a thing and is not going to be asked to do it a third time.
 
-A man of about thirty-four who digs loam and does nine days of it in ten said that the answer to the question is written on the face of the note they have all just read out, and that a house which does not deliver to a holding that does not take is a house that has answered the question and answered it in advance, **and that a man who asks a second time after a house has written the answer on a piece of paper is not asking a question and is making a noise.**
+A man of about thirty-one who digs loam and does nine days of it in ten said that the answer to the question is written on the face of the note they have all just read out, and that a house which does not deliver to a holding that does not take is a house that has answered the question and answered it in advance, **and that a man who asks a second time after a house has written the answer on a piece of paper is not asking a question and is making a noise.**
 
 Nobody took that up. A man of about thirty-four who mends fencing said that the first of the two refusals was a question about what a line is and the second is a question about where a thing goes, and that the two questions are not the same and that the man who refused both is a clerk and not a party, **and that a clerk who is not a party can be spoken to and is not obliged to answer, and that this is the whole of the law and this district has now had it said twice without a reason.**
 
@@ -76,7 +76,7 @@ Nobody argued. A man of about thirty-four who mends fencing asked, in the six th
 
 On the fourteenth of February they went out to the farm four miles out past the loams, and the lane stops being metalled for about the last half mile, and the three households that work the farm were at the top of the lane and were not asked anything, and a man of about thirty-four who mends fencing said that the only reason they are not asked anything is that nobody in this district has ever said out loud what they would be asked.
 
-Nobody took that up. A man of about thirty-four who digs loam said that the three households work a farm and none of them owns it, and that asking a household whether it wants a sluice open is asking a household to be an owner, and that none of them has agreed to be one and has not been asked, **and that the man of about forty-three who buys standing seed-crop offered two thousand four hundred coppers and a cart of meal for the standing crop and the sluice on the twenty-ninth of December and went west on the thirtieth, and that he has not come back and that nobody has sent for him.**
+Nobody took that up. A man of about thirty-one who digs loam said that the three households work a farm and none of them owns it, and that asking a household whether it wants a sluice open is asking a household to be an owner, and that none of them has agreed to be one and has not been asked, **and that the man of about forty-three who buys standing seed-crop offered two thousand four hundred coppers and a cart of meal for the standing crop and the sluice on the twenty-ninth of December and went west on the thirtieth, and that he has not come back and that nobody has sent for him.**
 
 A clerk of nineteen years entered that the not-sending is entered and the count is where it was, and that a clerk of nineteen years has been asked once this month whether anybody is going to send for the man of about forty-three and has entered that the question was not answered and that nobody is going to be sent.
 
@@ -88,7 +88,7 @@ Then the sluice at the low end of the second field, and it was still open, and t
 
 A man of fifty-six said the two things out loud in the yard on the evening of the fourteenth and a clerk of nineteen years entered both of them in one line and did not join them, **and that the tank at the back of the flood shelter at the sluice end of a lane off the lower terrace was full on the fourteenth of the second month, and that the fourth holding of the nine on a sheet nailed in a shed eleven miles up a road had not taken a drop, and that the two of those facts have now been entered in one line more than once and that she is not going to say how many times and that the number is not a column.**
 
-Nobody took that up and a man of about thirty-four who digs loam said that a yard that has two facts it will not join has found the only thing in this district's whole business that is worth not joining, **and that a man who dug a channel in the eighth month of last year can tell a person that most of what gets joined in this basin gets joined because somebody in a hurry wanted a page to look finished.**
+Nobody took that up and a man of about thirty-one who digs loam said that a yard that has two facts it will not join has found the only thing in this district's whole business that is worth not joining, **and that a man who dug a channel in the eighth month of last year can tell a person that most of what gets joined in this basin gets joined because somebody in a hurry wanted a page to look finished.**
 
 A man of fifty-six said the interval out loud at about half past two in the afternoon on the fourteenth of the second month and a clerk of nineteen years stood close enough to write it down.
 
@@ -120,7 +120,7 @@ A clerk of nineteen years entered that he was asked in the six things and answer
 
 A man of fifty-six said that a book with nine holdings in it and a tenth line under them that is the house's own is a book about the house and not about the water, and that the house has kept a line for itself under the only instrument anybody in this basin can go and look at.
 
-Nobody argued. A man of about thirty-four who digs loam said that a line a house keeps for itself is a toll with no bearer on it, and that he has said that sentence about a tank in this yard and is not going to say it twice in one week, **and that a toll with no bearer on it is the exact shape of the fifth thing this district does not have, and that the shape is not the thing and is not to be entered.**
+Nobody argued. A man of about thirty-one who digs loam said that a line a house keeps for itself is a toll with no bearer on it, and that he has said that sentence about a tank in this yard and is not going to say it twice in one week, **and that a toll with no bearer on it is the exact shape of the fifth thing this district does not have, and that the shape is not the thing and is not to be entered.**
 
 A clerk of nineteen years entered that the fifth of the five things this district does not have is a way of saying that a toll lands on a place, and that a line a house keeps for itself under nine holdings is a resemblance and not a finding, **and that the count of things this district does not have is five and did not move, and that a resemblance is not a sixth and was not entered.**
 

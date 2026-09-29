@@ -40,7 +40,7 @@ The boy of about nineteen counted the sheets on the end of that second table at 
 
 A clerk of nineteen years entered that a boy said a thing out loud in that yard, and entered the thing, and entered that he counted first, and entered that the number of sheets on the end of that second table is two, and the record about the not asking says not asked.
 
-A man of about thirty-four who digs loam came up that bank at about ten and stood at the end of that second table and watched a sheet go up it and said nothing to anybody, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man watched a sheet leave that table and entered nothing about it, and the record about the not asking says not asked.
+A man of about thirty-one who digs loam came up that bank at about ten and stood at the end of that second table and watched a sheet go up it and said nothing to anybody, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man watched a sheet leave that table and entered nothing about it, and the record about the not asking says not asked.
 
 Then the clerk of nineteen years said one thing out loud, in about eleven seconds, to about nineteen people, and the boy counted what she said and got seventy-nine and read the number back to himself in a low voice.
 
@@ -54,7 +54,7 @@ The man of about thirty-four who mends fencing had been at the end of that secon
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that a man put his right hand flat on the boards of that second table this morning and did not put it on the stone and did not put it on either of the two sheets, and the record about the not asking says not asked.
 
-The man of about thirty-seven who puts tables up was at the near end of that second table at about eleven, and said one thing out loud, in about nine seconds, and the boy counted what he said and got fifty-five and read the number back to himself in a low voice.
+The man of about thirty-two who puts tables up was at the near end of that second table at about eleven, and said one thing out loud, in about nine seconds, and the boy counted what he said and got fifty-five and read the number back to himself in a low voice.
 
 "**I built that table in about eleven minutes and I have been asked to say how long ago and I am not going to, and there are two things on it now and there were three, and a table is a table and I do not care what is on it, that is the arrangement.**"
 

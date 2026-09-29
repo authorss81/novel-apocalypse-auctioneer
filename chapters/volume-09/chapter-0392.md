@@ -20,7 +20,7 @@ The man of fifty-six came back down that lane at about eleven, read the four fig
 One of the people who had been standing at the near end of that table said one more thing about the boards, and it was the ordinary sort of thing, which is that the record set against four places four hundred miles off has been in force a hundred and forty-one days, and that the age of the figure on that figure is a hundred and forty-one days as well. Two figures counted off one day and one exclusion land on one interval, and that is not a mistake and is not the same figure twice. The rival record and the age of the figure about that figure are two figures and not one figure. They stand on the same number today for the reason two figures do, and no column in this district is going to be moved to break the equality, and none was moved today.
 ---
 
-At about half past ten the man of about thirty-four who digs loam came up out of that ditch wet to the thigh, the way he comes up most mornings, and came to the end of that trestle table and read the two lines in that lot book standing up. He is the man whose mouth the second of those two lines came out of on the thirteenth of this month. Nobody there had asked him to read anything.
+At about half past ten the man of about thirty-one who digs loam came up out of that ditch wet to the thigh, the way he comes up most mornings, and came to the end of that trestle table and read the two lines in that lot book standing up. He is the man whose mouth the second of those two lines came out of on the thirteenth of this month. Nobody there had asked him to read anything.
 
 He got to the second line and stopped there.
 
@@ -80,7 +80,7 @@ The rest of that day went ordinary and the ordinary part of it was longer than a
 
 He went on up. About four of them said he was right and about four of them said that is two things about him and neither of them is a figure.
 
-The man of about thirty-four who digs loam went back into that ditch at about two and was still in it at about half past four and came up the bank wet to the chest. The reed cutter was in that ditch until the light went and then was not, and nobody there said one word to him when he came up the bank at the end of it, and his hands were not touched and nothing was asked about them and he was given nothing. The man who puts tables up for anybody who will use them was against the east wall with his cart, and the tent was still rolled where it has been since the thirtieth of the June.
+The man of about thirty-one who digs loam went back into that ditch at about two and was still in it at about half past four and came up the bank wet to the chest. The reed cutter was in that ditch until the light went and then was not, and nobody there said one word to him when he came up the bank at the end of it, and his hands were not touched and nothing was asked about them and he was given nothing. The man who puts tables up for anybody who will use them was against the east wall with his cart, and the tent was still rolled where it has been since the thirtieth of the June.
 
 That bid stands at fifty days and was not run today and nothing has been said about closing it. The first day of the eighth month is eighty days past. The ninth of the nine printed nights is a hundred and eighty-three days back and is open, and it was named once in the yard this morning by a clerk and closed in nothing. The column for the name of whoever read a thing out loud was ruled and was empty at about six, and no name went into it by anybody.
 

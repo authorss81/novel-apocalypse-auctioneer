@@ -20,7 +20,7 @@ The man with the portfolio came up the lower terrace road at about half past ele
 
 He was about forty-four and he was thin and he was carrying a flat case under his arm the size of a hymn book, and he came up the road at the pace of a man who has walked a long way and does not want anybody to see how far. He went past the yard, past the counter at the ward market, and stopped at a door with a fanlight over it, and a man of about thirty-four who mends fencing followed him at about eleven yards' distance without being asked to and without being told not to.
 
-Nobody stopped him. A man of about thirty-four who digs loam said that afterwards and not at the time, and said that a district which has spent four months being proud of a book that works if a person comes to the yard spent the morning learning what that means, **and that the man walked past a yard with nine people in it and went to a door with a fanlight over it and neither of those is a small thing and both of them are the same thing.**
+Nobody stopped him. A man of about thirty-one who digs loam said that afterwards and not at the time, and said that a district which has spent four months being proud of a book that works if a person comes to the yard spent the morning learning what that means, **and that the man walked past a yard with nine people in it and went to a door with a fanlight over it and neither of those is a small thing and both of them are the same thing.**
 
 The name on the case was not a name of a person. A man of about thirty-four who mends fencing read it out twice in a lane afterward and could not say what it was the name of, **and a clerk of nineteen years entered that it is a name of a Registry and that a Registry is a body and a body is not a house and not a person and that a house in this district writes on the face of a sheet and does not come to a yard and that whether a Registry does either is the whole of the second of April.**
 
@@ -46,7 +46,7 @@ He said his business, and he said it standing up and not to anybody in particula
 
 A clerk of nineteen years entered that a man from a Registry said in a yard that he had come to this district because this district keeps a book a stranger can walk up to, **and that a man of about thirty-four who mends fencing said out loud in a lane an hour ago that the district built that door on purpose and told nineteen people it was the best instrument here, and that both of those entered the same morning and that the two are not a refusal to join two things and the counts did not move and are thirteen and twelve.**
 
-A man of about thirty-four who digs loam said the other half, and he said it before anybody asked him for it, and the clerk entered that he said the second half before the asking and that she is not going to put a number on that order.
+A man of about thirty-one who digs loam said the other half, and he said it before anybody asked him for it, and the clerk entered that he said the second half before the asking and that she is not going to put a number on that order.
 
 "**Eighteen months. Four hundred yards. Four hundred yards and a stranger. Nobody has come through it who was not a neighbour or a creditor and that is the good half and it is the half that ran out this morning.**"
 
@@ -70,7 +70,7 @@ He asked her, then, for the page in the drawer, and she said no in about four se
 
 "**You may look at anything in this office. You may not carry it out and you may not have a copy of a page and that is not about you and is about the hand on it.**"
 
-A man of about thirty-four who mends fencing said that a man who will not say where he got a name is not the same as a woman who will not give a page, and a man of about thirty-four who digs loam said that they are the same, **and that the refusals to join two things are thirteen and the registrar's own count is twelve and the two of them did not move this afternoon and the man who digs loam said the two sentences out loud on purpose and the clerk entered that he did and entered that it was not asked for.**
+A man of about thirty-four who mends fencing said that a man who will not say where he got a name is not the same as a woman who will not give a page, and a man of about thirty-one who digs loam said that they are the same, **and that the refusals to join two things are thirteen and the registrar's own count is twelve and the two of them did not move this afternoon and the man who digs loam said the two sentences out loud on purpose and the clerk entered that he did and entered that it was not asked for.**
 
 The man the figure of twenty-one years is against was thirty-four miles off and was not in that yard, and a clerk of nineteen years entered that the man with the portfolio did not say where he had the name from and was not asked twice, **and that the line in the ward market's own book where the name stood was read out in a yard on the twenty-second of the third month and has been empty since the thirty-first of it, and that a copy of that line is on a board of eleven and the board is in this yard and the line on it is empty too.**
 
@@ -94,7 +94,7 @@ He answered the fourth, which was the term, and a man of about nineteen counted 
 
 A man of fifty-six said that a man who will give you a copy of the part that is on his paper and not the part that is on the other paper is a man who knows exactly what the trouble is going to be, **and that this district has been doing that for four months with sheets of its own and is in no position to be shocked by it, and that a document which says what it does not know is honest and a document which says what it will not say is a door and that both of those sentences were said out loud in this yard on the twenty-seventh of December of last year and both of them were right then.**
 
-He did not answer the fifth, which was the toll, and a man of about thirty-four who digs loam said the reason nobody had been told and then said it anyway, which he does.
+He did not answer the fifth, which was the toll, and a man of about thirty-one who digs loam said the reason nobody had been told and then said it anyway, which he does.
 
 "**The toll is at the ninth place and the ninth place is the one holding on the delivery sheet that nobody can account for and I have been to that counter eleven times in twelve weeks and six days and asked about it and been refused five times with no reason, and this morning I am not saying those are the same and I am not saying they are not.**"
 
@@ -110,7 +110,7 @@ The man with the portfolio did not answer the fifth thing either and the yard le
 
 A man of fifty-six said that the sixth of April is when a man of about thirty-one comes home or does not, and that the yard is going to be here either way, **and that a district which has spent the morning being looked at by a stranger is not going to be told by a man of fifty-six what to think about it in a lane, and that this district has four documents nobody owns and one of them is a line in a public book with four names on it and a figure under the four names and that it is still three.**
 
-A man of about thirty-four who digs loam asked the man with the portfolio where he was going to sleep, and he said the second house up the lane with a sign over the door that is not a sign, and a clerk of nineteen years entered that he was not asked to say and said it, **and that a man who sleeps four hundred yards from a book a stranger can walk up to has not been given a room and has not been refused one and that a man who sleeps in this district for three days is a person in this district and is not entered anywhere and the district has no instrument for a person who is in it and not in a book.**
+A man of about thirty-one who digs loam asked the man with the portfolio where he was going to sleep, and he said the second house up the lane with a sign over the door that is not a sign, and a clerk of nineteen years entered that he was not asked to say and said it, **and that a man who sleeps four hundred yards from a book a stranger can walk up to has not been given a room and has not been refused one and that a man who sleeps in this district for three days is a person in this district and is not entered anywhere and the district has no instrument for a person who is in it and not in a book.**
 
 Nobody made one. The man of about thirty-four who mends fencing said that a man who is in a place and not in a book is the ordinary case and has been the ordinary case for eighteen months, **and that the district's instrument is a book and a book is a room and a room is a door, and that the whole of the second of April fits in that sentence and that he is not going to say it twice.**
 

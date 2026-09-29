@@ -32,7 +32,7 @@ A clerk of nineteen years entered that a bid in a yard on forty-eight days is no
 
 ---
 
-The man of about thirty-four who digs loam was in the bottom of that ditch before nine and came up the bank at about ten and was in it again from about two until about half past four, and his right hand did not go above the level of that shoulder on any part of this day. The man who keeps a road came up that lane at about eleven and again at about four, read the four figures both times and got all four both times, and nobody in that yard asked him about the eleven miles and nobody in that yard said one word to him about counting.
+The man of about thirty-one who digs loam was in the bottom of that ditch before nine and came up the bank at about ten and was in it again from about two until about half past four, and his right hand did not go above the level of that shoulder on any part of this day. The man who keeps a road came up that lane at about eleven and again at about four, read the four figures both times and got all four both times, and nobody in that yard asked him about the eleven miles and nobody in that yard said one word to him about counting.
 
 The man of about thirty-seven who cuts reeds was in that ditch with his hook and his bundle until about half past four, and the man who puts tables up for anybody who will use them was at the east wall with his cart and the tent still rolled on the back of it, and he was given nothing and nobody asked him about the tent, and two of them said that a man who put a chair down ten days ago is the man anybody in this district ought to be asking about nine sittings, and he said that nine is a figure about sittings and that he is a man who puts tables up and that is the end of what he knows.
 

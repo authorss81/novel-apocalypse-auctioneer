@@ -140,7 +140,7 @@ A woman of about forty-four who keeps a Road House on the tide was in the yard a
 
 Nobody took it up and a clerk of nineteen years entered that she was not asked to put it in a column and that the count of things she has said in a yard in one month has no number on it, and that a number on it would have been a column.
 
-A man of about thirty-four who digs loam and does nine days of it in ten was in the yard and said that a man who goes east to ask a house a question has to be back before the first of the second month, and that a house is a building and a building is not a person and does not keep a week.
+A man of about thirty-one who digs loam and does nine days of it in ten was in the yard and said that a man who goes east to ask a house a question has to be back before the first of the second month, and that a house is a building and a building is not a person and does not keep a week.
 
 He said the second half of that before anybody asked him for it, and a clerk of nineteen years entered that the count of the second half said before being asked stands where it stood on the twenty-ninth of December, and that she has not looked at it since, **and that she is not going to look at it now on a day when a man is thirty-four miles from here and cannot be asked.**
 

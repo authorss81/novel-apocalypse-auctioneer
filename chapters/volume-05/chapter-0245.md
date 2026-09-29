@@ -26,7 +26,7 @@ The man of about forty-eight who keeps a tally for six households asked the one 
 
 A clerk of nineteen years entered that a man who asks a question in order not to lie about it later is not a bearer of anything, that a refusal of a bearer is not a refusal of the eight and did not move them, that the eight did not move at about one in the afternoon on the seventeenth of the fifth month, and that the six have not moved on any of the twenty-six days since the twenty-first of last month.
 
-The man of about thirty-four who digs loam refused the join that had been available to him since the middle of the morning, standing at the end of the table with his right arm swinging, and the count came to a hundred and twenty-three.
+The man of about thirty-one who digs loam refused the join that had been available to him since the middle of the morning, standing at the end of the table with his right arm swinging, and the count came to a hundred and twenty-three.
 
 "**There is a building four miles down a lane that has denied nobody entry in nine years and has nine years of beds in a second room and a tank with two lines of chalk on the inside of the brick, and somebody in this yard is going to want to put that building under a line in one of these eight because it is a place with people in it. It is not a settlement. It is one man and one woman and about nine years of not being turned out, and if anybody puts them under a line then a clerk is asking a question they have not been asked and writing down the answer they gave to a different question.**"
 

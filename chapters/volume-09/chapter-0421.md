@@ -48,7 +48,7 @@ Nobody added them. Two people at that table looked at each other over the top of
 
 ---
 
-The man of about thirty-four who digs loam was in that ditch to his thigh at the time and he stayed in it. He said one thing from the water and it was the only time anybody standing there heard his voice raised above the ordinary that morning.
+The man of about thirty-one who digs loam was in that ditch to his thigh at the time and he stayed in it. He said one thing from the water and it was the only time anybody standing there heard his voice raised above the ordinary that morning.
 
 "He answered a question about water with a number about buckets," he said. "That is a worse answer than the one I gave you in October and I gave you that one standing in the same place. I said a number and a man wrote it down. He said a number and there is nowhere to write it down. I want somebody in this yard to tell me which of the two of us is worse off, and I have been in this ditch for two months and I have stopped being able to see the answer from down here."
 
@@ -64,13 +64,13 @@ The man of about thirty-seven who cuts reeds stood at the end of that table for 
 
 ---
 
-At about half past eleven the man of about thirty-four who digs loam came up the bank with the water to his thigh and got the four figures at the end of that table and said the word with them four times. That right arm of his did not go above the level of that shoulder at any point in the day, and two people noticed it and neither of them said a word.
+At about half past eleven the man of about thirty-one who digs loam came up the bank with the water to his thigh and got the four figures at the end of that table and said the word with them four times. That right arm of his did not go above the level of that shoulder at any point in the day, and two people noticed it and neither of them said a word.
 
 The road keeper came up that lane at about eleven and got the four figures off that wall as he went past, and stopped at the low wall and looked down into that ditch for about a minute. Nobody asked him what he was looking at and nobody asked him about the eleven miles.
 
 At about one the man the figure of twenty-one years is against came down that bank and stopped nine feet off that table with his right hand in his coat. He had heard the whole of it and he had said nothing, and about nine people had looked at him to see whether he was going to, and one of them said out loud that he was not going to because that is what he does.
 
-At about half past one the man of about thirty-seven who puts tables up asked the clerk of nineteen years a question and she answered it in one breath. He asked her whether she had put the number in. She said no. He said he had not either, and one said that two men refusing to write a number down within a minute of each other was the most this yard had managed all month, and nobody argued with him about it.
+At about half past one the man of about thirty-two who puts tables up asked the clerk of nineteen years a question and she answered it in one breath. He asked her whether she had put the number in. She said no. He said he had not either, and one said that two men refusing to write a number down within a minute of each other was the most this yard had managed all month, and nobody argued with him about it.
 
 At about two the man of about thirty-four who mends fencing put his right forearm on the boards of that trestle table and left it there. At the end of the hour it had gone dead from the elbow down to the wrist, and the hand at the end of it did not move when he told it to. Two people saw it not move and one of them said, "Your arm," and he said, "It is the table," and that was the end of it.
 
@@ -82,4 +82,4 @@ At about half past five the two empty buckets came down that bank and went back 
 
 Then the man of fifty-six read the four figures for the last time that day and got all four of them, and the boy of about nineteen read the twelve at the same moment at the end of that table. One said it was a coincidence and another said it was not, and nobody had a way of settling it, and the clerk wrote neither down.
 
-At half past five the ditch at the low end had the same water in it that it had at ten in the morning. The man of about thirty-four who digs loam was in it until about half past four and got out on the same step he has been getting out on for two months. Nobody standing there could have told the difference between the water at the low end and the water he was standing in, and the man who knows the answer to that is a man of about thirty-seven, and he is somewhere up that bank with a bundle under his arm and nobody has followed him.
+At half past five the ditch at the low end had the same water in it that it had at ten in the morning. The man of about thirty-one who digs loam was in it until about half past four and got out on the same step he has been getting out on for two months. Nobody standing there could have told the difference between the water at the low end and the water he was standing in, and the man who knows the answer to that is a man of about thirty-seven, and he is somewhere up that bank with a bundle under his arm and nobody has followed him.

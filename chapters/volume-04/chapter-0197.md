@@ -10,7 +10,7 @@ A second sheet was put on the trestle table in the yard of Lot Seventeen with it
 >
 > **THE REASON GIVEN IS A CHANGE IN THE WATER NAMED IN THE ROTA AND THE HOUSE SAYS THAT THE WATER IN THE ROTA HAS NOT BEEN WHERE THE ROTA NAMED IT.**
 
-A man of about thirty-four who digs loam said the whole of the answer to that before anybody asked him for it, and a man of about nineteen counted it and got thirty-six, and it went in the minute in his own words.
+A man of about thirty-one who digs loam said the whole of the answer to that before anybody asked him for it, and a man of about nineteen counted it and got thirty-six, and it went in the minute in his own words.
 
 "**The water in the rota went where a sluice on a farm sent it, and a man opened that sluice on the night of the thirteenth on his own account and told nine people about it.**"
 
@@ -20,7 +20,7 @@ The man of about thirty at the counter said the other half of it, and he said it
 
 A clerk of nineteen years asked him, in the six things, whether the house was going to call the claim on the twenty-fourth whatever happened to the water, and he said the house was, **and that a house which names a day and then keeps the day whatever the water does is a house that is not waiting to be told a fact.**
 
-Nobody picked that up. A man of about thirty-four who digs loam said that a claim called on a day and not on a fact is a claim that cannot be answered by an answer, **and that a house which has made its own claim untestable has done the same thing this district has been accused of since the sixteenth of January, and that the two of them are not joined and the resemblance is a resemblance.**
+Nobody picked that up. A man of about thirty-one who digs loam said that a claim called on a day and not on a fact is a claim that cannot be answered by an answer, **and that a house which has made its own claim untestable has done the same thing this district has been accused of since the sixteenth of January, and that the two of them are not joined and the resemblance is a resemblance.**
 
 A man of fifty-six said that the sheet from the tram arch is still on the wall of that yard and that a man who prints a house's claim at his own rate is the reason two households are in a lane, **and that the house did not put that sheet up and did not pay for it and has not been asked about it and is not going to be.**
 
@@ -38,7 +38,7 @@ A clerk of nineteen years entered that he was not asked a second question and th
 
 Then a man of about thirty-four who mends fencing asked him the question that has been asked three times in nine weeks, which was whether the ninth of the nine holdings is on the rota, and the man of about thirty said he was not going to talk about the ninth and gave no reason at all.
 
-A man of about thirty-four who digs loam said that he has now asked in four yards in nine weeks and been refused four times with no reason, **and that a sentence said four times in nine weeks is a habit and not a finding and a habit is not entered in a book and is not going to be.**
+A man of about thirty-one who digs loam said that he has now asked in four yards in nine weeks and been refused four times with no reason, **and that a sentence said four times in nine weeks is a habit and not a finding and a habit is not entered in a book and is not going to be.**
 
 **AND ON THE TWENTY-THIRD OF THE THIRD MONTH A CLERK OF A HOUSE PUT A SECOND SHEET ON A TABLE SAYING THAT THE CLAIM ON ONE PLACE IN A FLOOD SHELTER AT THE SLUICE IS CALLED IN ON THE TWENTY-FOURTH BECAUSE THE WATER HAS NOT BEEN WHERE THE ROTA NAMED IT, AND THE WATER DID NOT GO THERE BECAUSE A MAN OPENED A SLUICE ON THE NIGHT OF THE THIRTEENTH.**
 
@@ -52,7 +52,7 @@ A man of about thirty-four who mends fencing asked the man the figure of twenty-
 
 "**The water either comes or it does not. If it comes there is nothing owed to anybody and I have wasted a day and a half of a man's back. If it does not come, the standing crop of a farm with no named owner is the only thing left that anybody in this basin could have sold to a house, and I cannot sell it, because the transfer has no named holder, and I cannot close one, and I have known that since the seventh of February.**"
 
-Nobody in that yard said anything for a moment. A man of about thirty-four who digs loam said that the man the figure of twenty-one years is against has just described an overdraft and not a security, **and that an overdraft is a thing a person is in and not a thing a person has posted, and that it is not in the list of the five and is not a sixth of the five.**
+Nobody in that yard said anything for a moment. A man of about thirty-one who digs loam said that the man the figure of twenty-one years is against has just described an overdraft and not a security, **and that an overdraft is a thing a person is in and not a thing a person has posted, and that it is not in the list of the five and is not a sixth of the five.**
 
 A man of fifty-six said that an overdraft is the only security this district can offer that a house cannot call in, and that this is because a house cannot call in a man, **and that a man who is owed for nine days of water he did not promise cannot be given a figure and can only be given a day, and that the day is the thirtieth of March and he has put it on himself and it is not a term and is not a column.**
 
@@ -62,7 +62,7 @@ The man of about thirty at the counter said the thing nobody had asked him for, 
 
 "**We are not going to look at the standing crop. We have never been able to look at it. We have been able to look at a column for nine weeks and that is all we have ever needed.**"
 
-A man of about thirty-four who digs loam said that the man of about thirty has just said out loud that the thing he can get at is a person, **and that a house that has said that in a yard is a house that has told this district what its instrument is, and that the instrument is a column and a column is a claim on a person and not on a house.**
+A man of about thirty-one who digs loam said that the man of about thirty has just said out loud that the thing he can get at is a person, **and that a house that has said that in a yard is a house that has told this district what its instrument is, and that the instrument is a column and a column is a claim on a person and not on a house.**
 
 **AND ON THE TWENTY-THIRD OF THE THIRD MONTH A MAN DESCRIBED WHAT HE HAD AND IT WAS AN OVERDRAFT AND NOT A SECURITY, AND A CLERK OF A HOUSE SAID OUT LOUD THAT THE ONLY THING HIS HOUSE HAS EVER BEEN ABLE TO LOOK AT IS A COLUMN.**
 
@@ -80,7 +80,7 @@ Nobody in that yard said anything about it for a moment. A man of fifty-six said
 
 A clerk of nineteen years entered that she was asked once on the twenty-third of the third month and answered once and that nobody put a second thing to her, **and that the record says asked and answered and not asked why, and that a man who asks a question in the six things in front of nine people is a man who has asked it in public and that is a different act from asking.**
 
-The man of about thirty-four who digs loam said the other half of it in the ordinary voice of a man saying a thing he does not want to say, and a clerk of nineteen years entered that the second half of it came out in front of the question and that she is not going to put a number on how many times that has happened.
+The man of about thirty-one who digs loam said the other half of it in the ordinary voice of a man saying a thing he does not want to say, and a clerk of nineteen years entered that the second half of it came out in front of the question and that she is not going to put a number on how many times that has happened.
 
 "**A sluice goes up at six in the morning and if the water comes there is nobody going up that hill in April, and she has just been asked whether she wants to stop and she has said no, and both of those are true and one of them is going to happen.**"
 
@@ -108,7 +108,7 @@ A man of about thirty-four who mends fencing asked who was going to be the perso
 
 A man of fifty-six said that the seventh of the seven lines is a hole and that this is the first thing this district has ever written on the face of a document instead of underneath it, **and that a document which says what it does not know is honest and a document which says what it will not say is a door, and that this district found that out on the twenty-seventh of December and has not written one since.**
 
-Nobody argued with that. A man of about thirty-four who digs loam said that the sixth line is the same line the man of about thirty-four who digs loam has been saying in four yards for three weeks, **and that a sheet that says the district does not know where the water goes is the only public document in this basin that has ever said that, and that it is not going to stop a house and it is not going to save anybody.**
+Nobody argued with that. A man of about thirty-one who digs loam said that the sixth line is the same line the man of about thirty-one who digs loam has been saying in four yards for three weeks, **and that a sheet that says the district does not know where the water goes is the only public document in this basin that has ever said that, and that it is not going to stop a house and it is not going to save anybody.**
 
 A clerk of nineteen years entered that a sheet is not an instrument and is not a page and is not a board and is not a line, **and that the count of instruments this district has built and not named is six and is the same six it was on the second of January, and that a sheet written by a man of fifty-six in an afternoon is not a seventh and is not going to be.**
 
@@ -116,9 +116,9 @@ A clerk of nineteen years entered that a sheet is not an instrument and is not a
 
 ---
 
-They went out to the farm at about five in the morning on the twenty-fourth of the third month and six of them went: the man the figure of twenty-one years is against, a man of fifty-six, a clerk of nineteen years, the man of about thirty-four who digs loam, the man of about thirty-four who mends fencing, and the man of about thirty-one who mends a dray, and there was no road book and nothing was entered on the way and all of them said so.
+They went out to the farm at about five in the morning on the twenty-fourth of the third month and six of them went: the man the figure of twenty-one years is against, a man of fifty-six, a clerk of nineteen years, the man of about thirty-one who digs loam, the man of about thirty-four who mends fencing, and the man of about thirty-one who mends a dray, and there was no road book and nothing was entered on the way and all of them said so.
 
-The lane is not metalled for about sixty yards and the last part of it goes to mud about a foot deep and it had been raining since about two, and the man of about thirty-four who digs loam went in first with a bar and a lamp and the chain was off the gate and the gate was open again.
+The lane is not metalled for about sixty yards and the last part of it goes to mud about a foot deep and it had been raining since about two, and the man of about thirty-one who digs loam went in first with a bar and a lamp and the chain was off the gate and the gate was open again.
 
 The other half of the twenty-third was at the brick building and nobody in this district asked anybody about it, and the woman of about thirty-eight who keeps that building opened the gate of the yard and not the door of the building at about five in the afternoon.
 
@@ -142,6 +142,6 @@ The man of about thirty-one said his half of it at the sluice lip with his hands
 
 A clerk of nineteen years entered that he was not asked to move and that the not-asking is entered and the count is where it was, **and that a man who sets a limit on himself in a field is a man and not a rule and is not a security and is not a bearer and is not going to be entered as one.**
 
-A man of about thirty-four who digs loam got his shoulder under the iron lip at about six in the morning and the man of about thirty-four who mends fencing took the other end and the man the figure of twenty-one years is against had a bucket and was wet to the chest in about twenty minutes.
+A man of about thirty-one who digs loam got his shoulder under the iron lip at about six in the morning and the man of about thirty-four who mends fencing took the other end and the man the figure of twenty-one years is against had a bucket and was wet to the chest in about twenty minutes.
 
 **AND ON THE TWENTY-FOURTH OF THE THIRD MONTH A SLUICE FOUR MILES OUT PAST THE LOAMS WENT UP AT ABOUT SIX IN THE MORNING WITH FOUR MEN ON THE IRON LIP AND A ROUTE KEEPER STANDING AT IT AND A MAN WHO MINDS A DRAY STANDING AT A POST, AND THE THIRTY-FIRST OF MARCH IS SEVEN DAYS OFF THIS DAY.**

@@ -50,7 +50,7 @@ A clerk of nineteen years entered that a man who has said out loud that he was w
 
 ---
 
-He came back down the two miles at about half past eleven at night and about four people were still in that yard, and the man of about thirty-four who digs loam was not one of them because he had been at the room where the books are since about half past three in the afternoon, on his own two feet, to look at a sill that is not in that room, and he said afterwards that he had gone to see whether a person was in it and not to look at anything.
+He came back down the two miles at about half past eleven at night and about four people were still in that yard, and the man of about thirty-one who digs loam was not one of them because he had been at the room where the books are since about half past three in the afternoon, on his own two feet, to look at a sill that is not in that room, and he said afterwards that he had gone to see whether a person was in it and not to look at anything.
 
 A clerk of nineteen years entered, out of what he said afterwards at about half past eleven at night and not out of having been there, that he had been in that room at about four in the morning on the seventh of this month, which is six hours before the yard was standing, and that he was not asked a first thing and that nobody sent for him, and that the registrar of this district's records office was asleep at the desk in that room with her head on her arm, and that her right hand was on the table with a pen in it and that the hand would not close on the pen when he put his own hand over it and asked her to close it, and that it stayed like that for about nine seconds and then she woke up and closed it and did not say anything about it for the rest of the day.
 

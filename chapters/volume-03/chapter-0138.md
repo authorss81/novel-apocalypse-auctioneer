@@ -22,11 +22,11 @@ She did not say anything else and there was nothing after that, and a reader at 
 
 ---
 
-A man of about thirty-four who digs loam and does nine days of it in ten came back west on the eleventh of November with a page in an oilcloth and a wet corner, and nobody asked which corner and the clerk of nineteen years entered that a page has come back with a wet corner four times in eleven weeks and that the four corners are not joined and that a corner is a corner.
+A man of about thirty-one who digs loam and does nine days of it in ten came back west on the eleventh of November with a page in an oilcloth and a wet corner, and nobody asked which corner and the clerk of nineteen years entered that a page has come back with a wet corner four times in eleven weeks and that the four corners are not joined and that a corner is a corner.
 
 He brought the page back because a man of fifty-six said on the eighth of November that a page which has been out of a room should be brought back to a room **and that this is the first rule anybody has written down about a page in this district and that it took four months to arrive at.**
 
-The page went onto the board of eleven and the fourth copy was compared with the fifth copy and the fifth copy said NOTHING SAID where the board said NOTHING HAPPENED, and the man of about thirty-four who digs loam ruled a line through the old word on the board and did not rule a line through it on the fifth copy, and a clerk of nineteen years entered that he corrected one copy and not nine and that the other eight are in about nine hands and that nobody has compared them and that this is the first time in eleven weeks that a correction has been made to one copy of a document and not to the document.
+The page went onto the board of eleven and the fourth copy was compared with the fifth copy and the fifth copy said NOTHING SAID where the board said NOTHING HAPPENED, and the man of about thirty-one who digs loam ruled a line through the old word on the board and did not rule a line through it on the fifth copy, and a clerk of nineteen years entered that he corrected one copy and not nine and that the other eight are in about nine hands and that nobody has compared them and that this is the first time in eleven weeks that a correction has been made to one copy of a document and not to the document.
 
 A man of fifty-six said that a correction which reaches one copy of nine is a correction that has not happened, and that the man who prints says a document does not owe anybody a correction, and that a clerk who corrects one copy of nine is the same man in a different room, and that this district has now got two of those and that two is not a rule.
 
@@ -54,7 +54,7 @@ A clerk of nineteen years said the thing that had to be said and said it in six 
 
 The sixth column is headed WHETHER THEY WERE IN THE ROOM. It says YES five times, it says NOT ASKED once, and it says nothing said twice, and the cell belonging to a man of about forty-four who has the second cut was the one that said NOT ASKED and had said it since the twenty-seventh of October.
 
-Nobody ruled anything and nobody struck anything and a man of about thirty-four who digs loam sat down at the table, and a clerk of nineteen years entered that he sat down, and that he did not say anything for about nineteen minutes, and that in the nineteenth minute he said the finding and that he said it in thirty-seven words and that she counted them and got thirty-seven.
+Nobody ruled anything and nobody struck anything and a man of about thirty-one who digs loam sat down at the table, and a clerk of nineteen years entered that he sat down, and that he did not say anything for about nineteen minutes, and that in the nineteenth minute he said the finding and that he said it in thirty-seven words and that she counted them and got thirty-seven.
 
 "**A person who was not asked has now put a figure in a book. The column has one word for not asked and none for asked-then-wrote. The page cannot say it and the page is not wrong.**"
 
@@ -67,7 +67,7 @@ The hole in the second form was named on the twelfth of November in a room over 
 
 A man of fifty-six said that an instrument with a hole in it ought to say so on its face, in the same words the room used in a minute, so that a stranger reading it knows the gap is deliberate and not an oversight, and that the back of the second form already had a sentence on it in a man's own hand which nobody was ever going to copy.
 
-A man of about thirty-four who digs loam said no in four seconds and the nine words are in the minute and they are the same nine words a man of fifty-six has used about a blank at the top of a form on the twenty-eighth of October, and a clerk of nineteen years entered that the two are in one line and are not joined and that this is the twentieth time.
+A man of about thirty-one who digs loam said no in four seconds and the nine words are in the minute and they are the same nine words a man of fifty-six has used about a blank at the top of a form on the twenty-eighth of October, and a clerk of nineteen years entered that the two are in one line and are not joined and that this is the twentieth time.
 
 "**It goes in the minute or it goes nowhere.**"
 

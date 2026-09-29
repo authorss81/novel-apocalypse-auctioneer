@@ -20,7 +20,7 @@ At about half past two the boy of about nineteen stood at the top of that bank a
 
 A clerk of nineteen years entered that a boy said a thing out loud in that yard and entered the thing, and the record about the not asking says not asked.
 
-The man of about thirty-four who digs loam was in that ditch until about half past four and came up out of it at about five and said one thing to about four people and not to the yard, and the boy counted what he said and got seventy-eight and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about half past four and came up out of it at about five and said one thing to about four people and not to the yard, and the boy counted what he said and got seventy-eight and read the number back to himself in a low voice.
 
 "**There is a figure about that water on a page this morning and there is a figure about that water on the same page this afternoon and both of them were right and neither of them is going to be right this evening, and I have been in that ditch every morning of this month and I did not know until about ten minutes ago that I was the reason two people had to say things out loud.**"
 

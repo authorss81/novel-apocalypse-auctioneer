@@ -8,7 +8,7 @@ The sixteenth of the tenth month came in with the first of the light on the wet 
 
 A clerk of nineteen years entered that the figure on the sheet at that gatepost is four hundred and eleven and did not move, and that a column is a column and not a person, and that the record about the not asking says not asked.
 
-The man of about thirty-seven who puts tables up for anybody who will use them was at the east wall with his cart and two people in that yard told him that ruling a page is a thing he could do, and he said out loud that a straight edge is a straight edge whoever holds it and that he had not been asked to rule anything and would not rule anything he had not been asked to rule.
+The man of about thirty-two who puts tables up for anybody who will use them was at the east wall with his cart and two people in that yard told him that ruling a page is a thing he could do, and he said out loud that a straight edge is a straight edge whoever holds it and that he had not been asked to rule anything and would not rule anything he had not been asked to rule.
 
 Two people in that yard said that is the least anybody could have offered him and three of them said that is exactly what a man who put a chair down without being asked would say, and he said that both of those were about the chair and neither of them was about him.
 
@@ -66,7 +66,7 @@ Nobody closed the fifth of those five. The ninth of the nine printed nights is n
 
 ---
 
-The rest of that day went ordinary and the ordinary part of it was longer than it has been for a fortnight. The man of about thirty-four who digs loam was in the bottom of that ditch before nine and came up the bank at about ten and was in it again from about two until about half past four, and the water in that ditch is about four inches lower than it was on the fifteenth of this month and nobody in that yard has altered a figure anywhere. The man of about thirty-seven who cuts reeds was in that ditch with his hook and his bundle until about half past four. The man who puts tables up for anybody who will use them was at the east wall with his cart and was given nothing and was not asked about it.
+The rest of that day went ordinary and the ordinary part of it was longer than it has been for a fortnight. The man of about thirty-one who digs loam was in the bottom of that ditch before nine and came up the bank at about ten and was in it again from about two until about half past four, and the water in that ditch is about four inches lower than it was on the fifteenth of this month and nobody in that yard has altered a figure anywhere. The man of about thirty-seven who cuts reeds was in that ditch with his hook and his bundle until about half past four. The man who puts tables up for anybody who will use them was at the east wall with his cart and was given nothing and was not asked about it.
 
 The man of about twenty-nine who drives a cart came up that lane at about half past four with his shafts down and did not come into that yard, and the yard watched him not come in, and nobody said a word to him about a page with nine columns on it.
 

@@ -20,7 +20,7 @@ It was entered that the two refusals are two sentences about two different men, 
 
 The chair by the trestle table was moved about four feet by somebody at about half past ten and was not moved back, and nobody sat in it, and a clerk of nineteen years entered that a chair was moved four feet and that a chair moved four feet is still a chair and is still not a founder's chair.
 
-The man of about thirty-four who digs loam said the other half of it, in the ordinary voice, and a man of about nineteen counted it and got ninety-one, and it went in the minute in his own words.
+The man of about thirty-one who digs loam said the other half of it, in the ordinary voice, and a man of about nineteen counted it and got ninety-one, and it went in the minute in his own words.
 
 "**A Registry's page with a man's name in a column on it and a body's sheet with a chair on it are two records about two things four hundred miles apart, and one of them is a man who carried a ledger and the other one is a man who would sit in a chair, and two records that are not about the same thing cannot agree and cannot disagree, and I am refusing that join a fourth time in this district and it does not make a fourteenth of anything.**"
 
@@ -38,13 +38,13 @@ The chair that has stood at the end of that trestle table since the twenty-secon
 
 The man of about thirty-four who mends fencing said that a man who says he will not be thanked in a yard and then signs a letter with his own name at the bottom of it is a man doing the same thing twice and not the same thing, and that a name at the bottom of a letter is not a name in a column and is not a bearer and is not a holder and is not on the standing orders of the nine and is not on a Registry's page and did not go on one this week.
 
-The man of about thirty-four who digs loam was in the yard the whole time and was not in the room and was not sent for, and a clerk of nineteen years entered that he was in the yard and that nobody asked him to go and that he was not asked a first thing about the letter.
+The man of about thirty-one who digs loam was in the yard the whole time and was not in the room and was not sent for, and a clerk of nineteen years entered that he was in the yard and that nobody asked him to go and that he was not asked a first thing about the letter.
 
 Then the man the figure of twenty-one years is against said what was going on it, and he said it to the yard and not to anybody, and a man of about nineteen counted it and got seventy-nine.
 
 "**A body that writes to a village asks for a man by the last day of this month. This district is not sending one and is not saying it cannot, it is saying that it has nobody to send who has been asked, and a letter that asks for a man is not answered by a page and is not refused by a page. That is the whole of it and I will not put a chair in it.**"
 
-The man of about thirty-four who digs loam said that a man who has written four sentences for a letter and will not put a chair in them has decided what the letter is, and that the letter is a refusal with a reason, **and that a refusal with a reason is the only kind this district has ever produced, and that the count of the eight is not going to move on it and should not.**
+The man of about thirty-one who digs loam said that a man who has written four sentences for a letter and will not put a chair in them has decided what the letter is, and that the letter is a refusal with a reason, **and that a refusal with a reason is the only kind this district has ever produced, and that the count of the eight is not going to move on it and should not.**
 
 A man of fifty-six said that there is still no rate in this basin that turns a year into coppers and that there never has been one, **and that a charter with a term that has no end on it is not a rate and is not the fifth of the five things this district does not have and is not going to become one, and that a letter with a day on it at the bottom of it is the opposite of a condition with no end on it and the four are four.**
 

@@ -8,7 +8,7 @@ A clerk of nineteen years entered that he had said in this yard at about four in
 
 A man of fifty-six said that the reason is on the top of the hill and that the reason is that a man who was going to ask a question gets about ten minutes with a woman, and that the man of about thirty-one said at about a quarter to nine that he was going up and did not say when he would be back, **and that the two men went up at about ten in the morning together and that the man who mends fencing watched them go and did not go and that a yard is not a place to send a person from and the clerk is not going to make it one this morning.**
 
-They were gone about an hour. A man of about thirty-four who digs loam was not asked to go and was not sent for and was in the yard the whole time, and a clerk of nineteen years entered that he had been asked nothing and that the not-asking is entered and that the four columns of not-askings in this district are four and none of them has been ruled since the second of January and she did not rule one and is not going to.
+They were gone about an hour. A man of about thirty-one who digs loam was not asked to go and was not sent for and was in the yard the whole time, and a clerk of nineteen years entered that he had been asked nothing and that the not-asking is entered and that the four columns of not-askings in this district are four and none of them has been ruled since the second of January and she did not rule one and is not going to.
 
 ---
 
@@ -22,7 +22,7 @@ The man of about thirty-one said it in the yard at about half past eleven and he
 
 A man of fifty-six said that a man who asks for a thing to be written in his own words has learned one thing in eleven days that this district has refused to learn for four months, and that the district's rule is that a sentence in a person's own words is not a document it can produce, **and that what is on the top of that hill this morning is a job that was hers and it is not hers now and that is not a transfer because a transfer is a thing two people agree to and there were not two people on the hill.**
 
-Nobody said the opposite. A man of about thirty-four who digs loam said that a man who takes a piece of wood off a woman's stones and says so out loud afterwards has done one thing better than this district and one thing worse, **and that the better one is that he said it and the worse one is that saying it afterwards is what a man does when he knows he should have said it first, and that he knew it, and that I am not going to say that in a yard because a clerk is standing in it with a book and I would have to be asked.**
+Nobody said the opposite. A man of about thirty-one who digs loam said that a man who takes a piece of wood off a woman's stones and says so out loud afterwards has done one thing better than this district and one thing worse, **and that the better one is that he said it and the worse one is that saying it afterwards is what a man does when he knows he should have said it first, and that he knew it, and that I am not going to say that in a yard because a clerk is standing in it with a book and I would have to be asked.**
 
 ---
 
@@ -60,7 +60,7 @@ A man of about thirty-four who mends fencing asked that the eight days in the co
 
 A clerk of nineteen years read them back a second time and got them right both times, which is the rule of the counter, and entered that the sheet does not say whether the day under that heading is a day the thing was open or a day it is to be open, and that four of the eight had already happened when the schedule was read out in this yard on the fifth of this month and four of them had not, **and that nobody in this yard asked for the eight days on the fifth of this month and that a clerk of nineteen years was in this yard on the fifth of this month and did not ask and that the not-asking is entered and the count of it is where it was.**
 
-The man of about thirty-four who digs loam did the sum out loud and in the ordinary voice, and a man of fifty-six said afterwards that he has never once seen a man do a sum in a yard and stop at the answer, and entered that he was not asked to.
+The man of about thirty-one who digs loam did the sum out loud and in the ordinary voice, and a man of fifty-six said afterwards that he has never once seen a man do a sum in a yard and stop at the answer, and entered that he was not asked to.
 
 "**Eight days in eleven days and three of the eleven with nothing in the column, and one of them a night, and the ninth row is not a road and has a word in it where the other eight have a day, and a run that goes one a night does not stop at eight because it is the eighth. I am not joining that to a road anybody opened in the night nine miles from here. I am saying that eight things are standing open on eight nights in eleven days and that nobody in this basin has said why and that four generations of people who keep them have never been on a page of anybody's.**"
 

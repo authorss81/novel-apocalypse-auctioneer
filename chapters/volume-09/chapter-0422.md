@@ -42,7 +42,7 @@ The man of about thirty-four who mends fencing came the length of that trestle t
 
 "I wanted to be the same end of the table as a man I have not been able to argue with in nine days," he said, "and that is not a thing you can enter, so I am going to stop talking about it."
 
-At about half past eleven the man of about thirty-four who digs loam was in that ditch up to his thigh, and the man of about thirty-seven who cuts reeds was not in it at all for the first time in about nine days. Two people at that table noticed the difference, and neither of them said what the difference was.
+At about half past eleven the man of about thirty-one who digs loam was in that ditch up to his thigh, and the man of about thirty-seven who cuts reeds was not in it at all for the first time in about nine days. Two people at that table noticed the difference, and neither of them said what the difference was.
 
 At about twelve the man who puts tables up asked the clerk of nineteen years, out loud and in front of about nine people, what the difference was between a figure a man says and a figure a man writes. She answered him in about four seconds.
 
@@ -60,7 +60,7 @@ At about one the man the figure of twenty-one years is against came down that ba
 
 At about half past one the woman of about thirty-six who keeps a scale came down that bank with the folded thing under her arm and went past the end of that table without stopping at it. Two people at the near end noticed, and one of them said out loud that she had not stopped there for two days. The man who puts tables up said he was not going to say whether that was about the book.
 
-At about two the man of about thirty-seven who puts tables up said one thing at the end of that trestle table with his hand flat on the boards. The boy of about nineteen counted what he said and got ninety-one and read it back to himself in a low voice, and one person heard the number and said it was higher than the figure he had got yesterday for a different sentence.
+At about two the man of about thirty-two who puts tables up said one thing at the end of that trestle table with his hand flat on the boards. The boy of about nineteen counted what he said and got ninety-one and read it back to himself in a low voice, and one person heard the number and said it was higher than the figure he had got yesterday for a different sentence.
 
 "**A figure a man says in a yard is a figure about a yard and a figure a man writes on a page is a figure about a page, and the two of them have been in this yard for six months side by side and about four of you have been treating them as one, and the reason you cannot get a bid run on the one is not that the bid is old. It is that the only figures anybody has for that lot came out of two mouths.**"
 

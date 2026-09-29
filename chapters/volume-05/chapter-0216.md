@@ -12,7 +12,7 @@ A clerk of nineteen years entered that the round of about ninety houses ended on
 
 ---
 
-The man of about thirty-four who digs loam said it at about ten and he said it before anybody had asked him for it, and a clerk of nineteen years entered that she was not asked and that she is not going to put a number on it.
+The man of about thirty-one who digs loam said it at about ten and he said it before anybody had asked him for it, and a clerk of nineteen years entered that she was not asked and that she is not going to put a number on it.
 
 "**This yard is going to give the woman of fifty-eight eleven houses of the round this morning and it is going to ask her first, and I want the asking written down as the whole of the reason, and not the eleven.**"
 
@@ -40,15 +40,15 @@ The woman of fifty-eight disagreed with the first line of it, and she disagreed 
 
 "**I am not a round and I never said I was, and you cannot make a smaller one of me and call it the same thing, and if you want to call it eleven houses then call it eleven houses and stop pretending you have given me back what I had.**"
 
-Nothing was said for about nine seconds. A clerk of nineteen years entered that this is the third time since the first of April that a person has disagreed with one of these out loud and in front of people, **and that the first was a man of about thirty-four who digs loam on the fifth of this month and the second was a man of about thirty-one on the seventh, and that one of these came on the tenth of this month and nobody in this yard disagreed with it, and that she is not going to count that as a third, and that the three of them are not the same disagreement and she is not going to make them one.**
+Nothing was said for about nine seconds. A clerk of nineteen years entered that this is the third time since the first of April that a person has disagreed with one of these out loud and in front of people, **and that the first was a man of about thirty-one who digs loam on the fifth of this month and the second was a man of about thirty-one on the seventh, and that one of these came on the tenth of this month and nobody in this yard disagreed with it, and that she is not going to count that as a third, and that the three of them are not the same disagreement and she is not going to make them one.**
 
 A man of fifty-six said that a rule a person the rule is about disagrees with is not thereby true and is not thereby false, **and that the count of documents nobody owns in this district is three and did not move at about a quarter past eleven in the morning on the seventeenth of the fourth month, and that a panel is a rule and a rule is not a document and is not a fourth and is not one of the six instruments this district built and not named.**
 
-The man of about thirty-four who digs loam did not disagree with it, and a clerk of nineteen years entered that he was in the yard and that he did not and that she was not asked whether he was going to.
+The man of about thirty-one who digs loam did not disagree with it, and a clerk of nineteen years entered that he was in the yard and that he did not and that she was not asked whether he was going to.
 
 ---
 
-The man of about thirty-four who digs loam said the plainest thing in the yard at about half past eleven and he said it flat and in the ordinary voice, and a man of about nineteen counted it and got ninety-two, and it went in the minute in his own words.
+The man of about thirty-one who digs loam said the plainest thing in the yard at about half past eleven and he said it flat and in the ordinary voice, and a man of about nineteen counted it and got ninety-two, and it went in the minute in his own words.
 
 "**Nobody in this basin can say what one day of eleven houses is worth, and that is not a hole in this district's book, that is the fifth of the five things it does not have, and it has not moved in here since the twenty-ninth of last month, and a district that hands a woman a job on the understanding that nobody knows what the job costs has not handed her a job, it has handed her a second thing she cannot refuse without standing in a yard and saying so.**"
 
@@ -60,7 +60,7 @@ She was asked, in the six things, in front of about nineteen people, what four h
 
 "**I have weighed nine sacks a day for nine years and I have never weighed a day, and four is not eleven and eleven is not ninety and nobody in this yard is going to make me weigh one of them this afternoon.**"
 
-A man of about thirty-four who digs loam said that a woman who keeps a scale has now been asked the same question twice in thirteen days and has given the same answer twice, **and that the six instruments this district has built and not named are a rehearsal, a platform, a rail, a correction, a question and a security, and that a woman who weighs sacks for a living is a person and not a seventh of them, and that the six did not move at about ten past twelve in the afternoon on the seventeenth of the fourth month, and that a scale is a place and a place is not an instrument and that has been said twice this month now and I am counting it because nobody else is.**
+A man of about thirty-one who digs loam said that a woman who keeps a scale has now been asked the same question twice in thirteen days and has given the same answer twice, **and that the six instruments this district has built and not named are a rehearsal, a platform, a rail, a correction, a question and a security, and that a woman who weighs sacks for a living is a person and not a seventh of them, and that the six did not move at about ten past twelve in the afternoon on the seventeenth of the fourth month, and that a scale is a place and a place is not an instrument and that has been said twice this month now and I am counting it because nobody else is.**
 
 Then a clerk of nineteen years did the arithmetic out loud and read it back, and a man of about fifty-six said she had never done a sum in a yard before today and asked her why, and she said that a clerk who reads words all day ought to be able to do a sum out loud.
 
@@ -78,6 +78,6 @@ A man of fifty-six said that a woman has just split eleven into six and five in 
 
 A clerk of nineteen years entered that a woman said a day of the week and that no weekday is attached to any date in this district, and that she is not going to correct her because she is not wrong about the five.
 
-The man of about thirty-four who digs loam said that six and five is not a round either and that eleven is not a round and that about seventy-nine is not a round, **and that this district has been asking a woman of fifty-eight for a round since the twenty-third of last month and has not once asked her whether she wants one, and that not asking is the whole of what went wrong the first two times, and that a yard is a room and a room is not an office and this district has not got an office, and that the second of the five is a column that is a place, and that I have said the thing about a room and a place twice today and that is a habit and I am naming it.**
+The man of about thirty-one who digs loam said that six and five is not a round either and that eleven is not a round and that about seventy-nine is not a round, **and that this district has been asking a woman of fifty-eight for a round since the twenty-third of last month and has not once asked her whether she wants one, and that not asking is the whole of what went wrong the first two times, and that a yard is a room and a room is not an office and this district has not got an office, and that the second of the five is a column that is a place, and that I have said the thing about a room and a place twice today and that is a habit and I am naming it.**
 
 **AND ON THE SEVENTEENTH OF THE FOURTH MONTH THIS YARD GAVE A WOMAN OF FIFTY-EIGHT ELEVEN HOUSES OF A ROUND OF ABOUT NINETY AND ASKED HER FIRST, AND SHE TOOK THEM, AND NOBODY IN THIS DISTRICT COULD SAY WHAT ONE DAY OF THEM WAS WORTH, AND A CLERK OF NINETEEN YEARS READ OUT THAT ABOUT SEVENTY-NINE IS NOT A SUBTRACTION.**

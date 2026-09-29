@@ -12,7 +12,7 @@ The second household said no on the eleventh of the second month and said it in 
 
 "**We will take the water. We will not put a name in a column for a season we have not been in yet.**"
 
-Before anybody argued with it, the man of about forty-eight who keeps the tally said the other half of where the sheet comes from, and it is on the page in his own hand, and that a man of about thirty-four who digs loam asked him for it in the five things and was answered.
+Before anybody argued with it, the man of about forty-eight who keeps the tally said the other half of where the sheet comes from, and it is on the page in his own hand, and that a man of about thirty-one who digs loam asked him for it in the five things and was answered.
 
 He said that the sheets come down at the end of a month on a cart with the seed and a man puts them down at the head of the lane and goes, and that nobody stays, and that in nine weeks he has walked them to five of the six households himself.
 
@@ -86,7 +86,7 @@ Nobody took it up and a woman of about thirty-three who takes in washing at the 
 
 A man of fifty-six said that the second half of that has been said in this yard in the fourth month of a year and is not going to be said again, and that a man of about thirty-four who mends fencing entered in the fourteenth of January that nobody in this yard is going to ask him a second time and that this is not a refusal because there is nothing on the page to strike.
 
-A man of about thirty-four who digs loam said that a household which has not been asked twice is not a household that has refused, and that four of the six on a tally under a man's arm are in that state, and that a page would turn four not-askings into four refusals on a morning, **and that a record which changes what it says about a person because somebody wrote it down is a record and not a witness.**
+A man of about thirty-one who digs loam said that a household which has not been asked twice is not a household that has refused, and that four of the six on a tally under a man's arm are in that state, and that a page would turn four not-askings into four refusals on a morning, **and that a record which changes what it says about a person because somebody wrote it down is a record and not a witness.**
 
 A clerk of nineteen years entered that a person who has not been asked has not refused and cannot be counted either way and that the record says not asked, **and that the count of not-askings about anybody in particular in this district is not a bucket and she is not going to make it one, and that a page in a market book is a bucket with a heading on it.**
 
@@ -104,7 +104,7 @@ A woman of about thirty-six who keeps a scale at the sluice end of the loams and
 
 A clerk of nineteen years entered that the two women and the one man at the sluice end of the loams are three people in three trades about two hundred yards apart and that they are not one of the five near-identical figures at the west end and are not merged with any of them.
 
-Nobody argued. A man of about thirty-four who digs loam said that the sixth heading is a roof drawn in charcoal and that a roof drawn in charcoal is not a mark, because a mark is cut and that is laid, **and that a line of stones is not a mark for the same reason, and that a man who has drawn a roof is not a bearer of anything and has not been asked to be.**
+Nobody argued. A man of about thirty-one who digs loam said that the sixth heading is a roof drawn in charcoal and that a roof drawn in charcoal is not a mark, because a mark is cut and that is laid, **and that a line of stones is not a mark for the same reason, and that a man who has drawn a roof is not a bearer of anything and has not been asked to be.**
 
 A man of fifty-six said that the district's rule about marks was built around the rule that a mark may not carry a job and not in defiance of it, and that a charcoal roof on a tally carries no job and has been refused entry as an instrument and that the count of six did not move.
 

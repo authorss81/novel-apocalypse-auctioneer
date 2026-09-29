@@ -10,7 +10,7 @@ A clerk of nineteen years entered that the figure on the sheet at that gatepost 
 
 ---
 
-By about half past ten the man of about nineteen had the flat stone at the foot of that trestle table and about nine people in that yard had come and gone. The woman of fifty-eight went down that bank with two buckets at about eleven and put them inside that building and came back out and filled them at the trough, and the man of about thirty-four who digs loam came into that yard at about one and went out again at about half past one and said nothing to anybody, and neither of them was asked anything about the bid and nobody in that yard said one word to either of them about it.
+By about half past ten the man of about nineteen had the flat stone at the foot of that trestle table and about nine people in that yard had come and gone. The woman of fifty-eight went down that bank with two buckets at about eleven and put them inside that building and came back out and filled them at the trough, and the man of about thirty-one who digs loam came into that yard at about one and went out again at about half past one and said nothing to anybody, and neither of them was asked anything about the bid and nobody in that yard said one word to either of them about it.
 
 There are two sheets of print on the top step of those two stones outside that door, and they have not been moved. The second of the five lines on that sheet is still unanswered on the eighth of the ninth month, and a document that has been on a step in the open for a fortnight and a half is not a document anybody has answered and is not a document nobody owns and is not a fourth of the three.
 
@@ -46,7 +46,7 @@ The man of about thirty-seven who cuts reeds out of that ditch was at the top of
 
 A clerk of nineteen years entered that the term on the reading that was set on the first of the ninth month has a day at the end of it, and that she entered that day out of a ladder on the day the term was set, and that nobody in that yard has said the figure out loud at any point this week, and that a ladder is a figure about a ladder, and that the term is a figure about a term and is not about the man who convened the bid and is not about anybody who is not in the building.
 
-At the foot of the east wall the man of about thirty-seven who puts tables up for anybody who will use them had his hand-cart against the brick and the tent still rolled on the back of it, and it has not gone up on any day since the thirtieth of the sixth month, and he was not asked anything about the column and said nothing about it and offered nothing.
+At the foot of the east wall the man of about thirty-two who puts tables up for anybody who will use them had his hand-cart against the brick and the tent still rolled on the back of it, and it has not gone up on any day since the thirtieth of the sixth month, and he was not asked anything about the column and said nothing about it and offered nothing.
 
 ---
 

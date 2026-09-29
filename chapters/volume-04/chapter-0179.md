@@ -16,7 +16,7 @@ Nobody took that up. A man of fifty-six said that the finding of the nineteenth 
 
 A clerk of nineteen years entered that a refusal with a term on it is not a refusal of the figure and is not an acceptance of it, and that it cannot be counted either way, **and that the record of it says not asked, and that a man who says he will not say a thing in a month and is asked in the first of the next month is a man who has been asked and has not yet answered and that is not a no.**
 
-A man of about thirty-four who digs loam said that a season is a thing a man describes and a month is a thing a man counts, and that a man has just put a count on a season for the first time in this district's business, **and that a count of nine days is a count and not a column and that a district which starts counting a man's refusals is a district that has run out of other things to count.**
+A man of about thirty-one who digs loam said that a season is a thing a man describes and a month is a thing a man counts, and that a man has just put a count on a season for the first time in this district's business, **and that a count of nine days is a count and not a column and that a district which starts counting a man's refusals is a district that has run out of other things to count.**
 
 **AND ON THE NINETEENTH OF THE SECOND MONTH TARIN KEST SAID THAT HE WILL NOT SAY A FIGURE IN A YARD IN THE SECOND MONTH, THAT THERE ARE NINE DAYS LEFT IN THE SECOND MONTH, AND THAT HE HAS NOT SAID WHAT HE WILL DO AFTER THAT.**
 
@@ -26,7 +26,7 @@ The four households were asked about at about half past eleven in the morning an
 
 Nobody took that up. A man of fifty-six said that two households asking a route keeper what they owe the water is the same two households asking a man to name a price, **and that a route keeper is not a bearer of the road and a man who keeps a road is not the man who owns the keeping of it, and that the difference is the whole of what this district has learned about roads in eleven weeks.**
 
-A man of about thirty-four who digs loam said that a household which asks what it owes has not refused and has not signed and has done neither of the two things anybody can enter, **and that a household which has done neither has not been asked, and the record says not asked, and a man who is not asked cannot be counted either way and that is the whole of what a clerk can do with him.**
+A man of about thirty-one who digs loam said that a household which asks what it owes has not refused and has not signed and has done neither of the two things anybody can enter, **and that a household which has done neither has not been asked, and the record says not asked, and a man who is not asked cannot be counted either way and that is the whole of what a clerk can do with him.**
 
 Then the third household, and the man of about forty-eight who keeps a tally for six households came down the bank at about twenty past twelve and said that the third of the six was asked a second time on the eighteenth of the second month and said no again in four seconds, and that no reason was given the second time either.
 
@@ -66,7 +66,7 @@ Nobody answered that straight away. A man of fifty-six said that a records offic
 
 A clerk of nineteen years entered that she was not asked to write the four households down and was not asked to write the sentence the woman at the counter said, and that the two not-askings are entered and the count is where it was, **and that a records office which enters only what it has seen is a records office and not a newspaper, and that this district has one of those and said so out loud on the thirtieth of January and again on the fifteenth of this month, and that the two occasions are not a column.**
 
-A man of about thirty-four who digs loam said that a route keeper holding a figure for four households and a records office with no page for what a person said are the two ends of the same gap, **and that the gap is about a figure and nobody has been able to put the figure anywhere and the two ends of it are a man with a road and a woman with a book.**
+A man of about thirty-one who digs loam said that a route keeper holding a figure for four households and a records office with no page for what a person said are the two ends of the same gap, **and that the gap is about a figure and nobody has been able to put the figure anywhere and the two ends of it are a man with a road and a woman with a book.**
 
 ---
 
@@ -102,7 +102,7 @@ A man of about thirty-four who mends fencing asked what the page will be when it
 
 A clerk of nineteen years entered that the figure of fifteen was said by him and has not been checked and was not asked to be checked, **and that a page which is a third full of days a man started writing on the fourth of the second month is the only record in this district's business that is being kept by a person who was not asked to keep it and has not been asked to stop.**
 
-A man of about thirty-four who digs loam said that the last of the four sentences a rule put in a lane on the second of this month is that a district may say out loud that it does not know which day it is and may not say it for anybody else, **and that a man with fifteen days in a drawer in a building four miles down a lane now knows which day every one of those fifteen was and that the saying of that does not move the day and the days he does not have were not there to be moved.**
+A man of about thirty-one who digs loam said that the last of the four sentences a rule put in a lane on the second of this month is that a district may say out loud that it does not know which day it is and may not say it for anybody else, **and that a man with fifteen days in a drawer in a building four miles down a lane now knows which day every one of those fifteen was and that the saying of that does not move the day and the days he does not have were not there to be moved.**
 
 A clerk of nineteen years entered that the two are not joined and that a man in a drawer is not a district and cannot say anything for anybody, **and that the count of unentered days since the twenty-fourth of November is eighty-seven and the count of days in a page in a building is fifteen, and that the two figures are in two places and are not added.**
 
@@ -118,7 +118,7 @@ A clerk of nineteen years entered that the count of unentered days since the twe
 
 A man of about thirty-four who mends fencing asked, in the six things, what the yard is going to do about a man who has put a month on his refusal, and a man of fifty-six said that the yard is going to do nothing about it for nine days, and that doing nothing about it is a decision and is entered as one, **and that a district which decides in a yard on the nineteenth of the second month to leave a man's refusal alone until the first of the next month has made its first decision in this district's business about a date and not about a document.**
 
-Nobody took that up. A man of about thirty-four who digs loam said that the district's first decision about a date has been made about a man who will not say a figure, and that the date is the first of a month nobody has named in a board or a book or a letter, **and that a district which has one date it cannot put anywhere and one man whose refusal runs out on a date it has not put anywhere has two of the same thing and that is not a pattern.**
+Nobody took that up. A man of about thirty-one who digs loam said that the district's first decision about a date has been made about a man who will not say a figure, and that the date is the first of a month nobody has named in a board or a book or a letter, **and that a district which has one date it cannot put anywhere and one man whose refusal runs out on a date it has not put anywhere has two of the same thing and that is not a pattern.**
 
 A clerk of nineteen years entered that two is not a pattern and that she was asked to say whether it is one and said no in four seconds, and entered the count of refusals to join two things as thirteen and her own as twelve, **and that neither moved on the nineteenth of the second month, and that the refusals to read are nine and the departure is unspent and there is still no date in the ledger for the next reading.**
 

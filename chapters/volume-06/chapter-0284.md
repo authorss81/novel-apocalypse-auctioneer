@@ -8,7 +8,7 @@ The fourth of the seventh month was still and warm and the sheet of four lines o
 
 A clerk of nineteen years entered that a sheet is a document and is not a copy, and that a sheet with no name and no seal on it is a document that has found nobody, and that a document that names a body which does not exist has found nobody, and that neither creates a consent nor makes a person a bearer nor makes a house into a party, and that the three documents this district does not own are three and that this is not a fourth of them, because a sheet brought into a yard on a hand-cart in front of about nineteen people is a document this district has seen the whole of.
 
-The man of about thirty-seven who puts tables up for anybody who will use them asked for it to be read out in that yard, and about four people had not got to the end of the gate before the woman who keeps the books in the room four hundred yards from that gate came up the bank and said one thing to the lane and not to the yard, and a clerk of nineteen years entered that it was not counted and that the record came from the man of about thirty-four who mends fencing and not from her.
+The man of about thirty-two who puts tables up for anybody who will use them asked for it to be read out in that yard, and about four people had not got to the end of the gate before the woman who keeps the books in the room four hundred yards from that gate came up the bank and said one thing to the lane and not to the yard, and a clerk of nineteen years entered that it was not counted and that the record came from the man of about thirty-four who mends fencing and not from her.
 
 "**Do not read it in that yard. Ask him to read it in a room with a door and nine people in it who have chosen to be there, or do not read it at all this month, and I will not tell him which, because I am not going to be the reason a sheet gets said out loud in a place where everybody who lives within nine hundred yards of it is standing.**"
 
@@ -38,7 +38,7 @@ Then a clerk of nineteen years entered, in the same hand as the rest and not as 
 
 ---
 
-At about half past two in the afternoon the man of about thirty-four who digs loam went down the lane behind the bank to the near end of it and looked at the ditch behind the building with two doors.
+At about half past two in the afternoon the man of about thirty-one who digs loam went down the lane behind the bank to the near end of it and looked at the ditch behind the building with two doors.
 
 It is about two feet deep in the sixth month and it was about three feet deep on the fourth of the seventh, and the plank door in the end wall of that building opens on it, and the nail in the hasp of that door did not move on the eleventh of last month and nobody in this district touched it this month.
 
@@ -46,7 +46,7 @@ He got down into it and dug out about four feet of it with a spade he had carrie
 
 Neither of them said anything about it for about nine minutes afterwards, and a clerk of nineteen years entered that the nine minutes are not a refusal and are not a consent and that the record about them says not asked, and that a ditch is not a document and is not a page and is not one of the three documents this district does not own.
 
-Then the man of about thirty-four who digs loam said one thing about the water, out loud, in the ordinary voice, and it was counted and came to a hundred and seventy-one, and a clerk entered that he said it at the top of the lane and not in the yard and that nobody asked him what it was about.
+Then the man of about thirty-one who digs loam said one thing about the water, out loud, in the ordinary voice, and it was counted and came to a hundred and seventy-one, and a clerk entered that he said it at the top of the lane and not in the yard and that nobody asked him what it was about.
 
 "**There is about a foot of water in the bottom of that ditch this afternoon and there was about two inches in it on the eleventh of last month, and nobody in this district has put a mark on it and nobody has to, because it is on the side of a building that has two doors in it and the second of them is a plank on the end wall with a nail in a hasp, and a plank does not keep nights and it does not keep water either. I am not saying that building is going to be shut. Nobody has asked me whether I think that and nobody is going to. I am saying that the ditch went up about ten inches in twenty-three days and the month turned on the first of this month, and the man who mends fencing got me out of it with that shoulder and I am not going to be the one who forgot that by the end of the summer.**"
 

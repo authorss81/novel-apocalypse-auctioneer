@@ -1,6 +1,6 @@
 # Chapter 469: Twenty-Two Paces
 
-A man of about thirty-seven who puts tables up paced the distance from the mark for the first of the twelfth month to the mark for the thirtieth on the edge of that second table on the morning after the morning after the count, and said a number out loud, and said why out loud, and nobody asked him for either of them, and a clerk of nineteen years entered the number and the reason in one entry and the reason was his own words and not hers, and the count of things this district has made is still twelve.
+A man of about thirty-two who puts tables up paced the distance from the mark for the first of the twelfth month to the mark for the thirtieth on the edge of that second table on the morning after the morning after the count, and said a number out loud, and said why out loud, and nobody asked him for either of them, and a clerk of nineteen years entered the number and the reason in one entry and the reason was his own words and not hers, and the count of things this district has made is still twelve.
 
 It was the morning after the morning after the count, and there was a thin frost on the boards of that first table that had gone off the near end by about half past eight, and by ten there were about nineteen people in the yard of Lot Seventeen.
 
@@ -36,7 +36,7 @@ About four people in that yard have said since that a trade in this district has
 
 ---
 
-The man of about thirty-four who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day. At about half past twelve the man of about thirty-four who mends fencing was at the end of that second table with his left hand in its cloth and said one thing out loud, in about four seconds, and the boy counted what he said and got fifty-one and read the number back to himself in a low voice.
+The man of about thirty-one who digs loam was in that ditch until about ten and came up and got the four figures at the near end of that table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day. At about half past twelve the man of about thirty-four who mends fencing was at the end of that second table with his left hand in its cloth and said one thing out loud, in about four seconds, and the boy counted what he said and got fifty-one and read the number back to himself in a low voice.
 
 "**He has made a figure out of a thing he does for a living and nobody asked him and he is not going to be paid for it, and that is the second thing in this yard in a month and neither of the two of them is in a column.**"
 

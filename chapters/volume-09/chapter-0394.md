@@ -66,7 +66,7 @@ The reading of that lot is begun and not finished and stands where it stood, and
 
 ---
 
-The rest of that day went ordinary. The man of about thirty-four who digs loam was in that ditch before nine, came up out of it about ten, and read the four figures off the boards standing at the end of that table with the water running off him, and got all four. The road keeper came up that lane at about half past three, said the four figures out loud without stopping, got all four, and went on up, and nobody asked him about the eleven miles.
+The rest of that day went ordinary. The man of about thirty-one who digs loam was in that ditch before nine, came up out of it about ten, and read the four figures off the boards standing at the end of that table with the water running off him, and got all four. The road keeper came up that lane at about half past three, said the four figures out loud without stopping, got all four, and went on up, and nobody asked him about the eleven miles.
 
 At about half past one the man of about twenty-nine who drives a cart went up that lane and did not come into that yard and did not stop at the low wall.
 

@@ -28,7 +28,7 @@ Nobody wrote it down. The clerk of nineteen years entered that a woman said a th
 
 ---
 
-The man of about thirty-four who digs loam was in that ditch to his thigh from about ten and stayed in it, and the water was up over the place where he had been standing four days ago. He said one thing up the bank at about half past ten and it was not addressed to anybody.
+The man of about thirty-one who digs loam was in that ditch to his thigh from about ten and stayed in it, and the water was up over the place where he had been standing four days ago. He said one thing up the bank at about half past ten and it was not addressed to anybody.
 
 "You are all waiting for a day. I have been in this ditch for two months and I have not once known which day it was, and I worked out in the first week that it made no difference to what I was doing, and I have been right about that every day since." He did not stop work. "The water went up twice this month and down once and I have not written any of it down and there is nobody in this district I could give it to, and I am not saying that to be owed something. I am saying it because some of you are standing at that table treating the end of a month as though it were going to be a thing that happens, and it is going to be a day, and I would like to know what all the waiting is for."
 
@@ -38,7 +38,7 @@ At about eleven the boy of about nineteen was asked by four different people acr
 
 "I have a page and a pencil and no instructions."
 
-At about half past eleven the man of about thirty-seven who puts tables up said out loud, to that east wall and not to the yard, that the thirtieth of the last month was the day a figure about a month was entered off a list, and that he had been standing there on that day and had watched a woman put one word in a margin and stop, and that he had not thought about it once in thirty days, and that it had come back to him on the twenty-ninth and had not let go since.
+At about half past eleven the man of about thirty-two who puts tables up said out loud, to that east wall and not to the yard, that the thirtieth of the last month was the day a figure about a month was entered off a list, and that he had been standing there on that day and had watched a woman put one word in a margin and stop, and that he had not thought about it once in thirty days, and that it had come back to him on the twenty-ninth and had not let go since.
 
 Nobody said anything about that. The clerk of nineteen years entered that a man said a thing out loud and entered the thing and entered that it carried no figure, and entered that a man has had a thing in his mouth for twenty-five days and that the two of those are not the same thing and are not added together.
 
@@ -58,7 +58,7 @@ At about two the road keeper came up that lane and got the four figures off that
 
 At about three a man of about sixty-four got up off the stones at the foot of that low wall and stood for about four seconds with nothing in his hands, and then sat down again about two feet along, and nobody offered him a hand, and the record about the not offering says nothing was asked and nothing was given.
 
-At about quarter past three the man of about thirty-four who digs loam came up out of that bank and got the four figures at that end of the table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day, and two people noticed it and neither of them said a word.
+At about quarter past three the man of about thirty-one who digs loam came up out of that bank and got the four figures at that end of the table and said the word with them four times, and that right arm of his did not go above the level of that shoulder at any point in the day, and two people noticed it and neither of them said a word.
 
 At about half past three a woman of fifty-eight came down that bank with two empty buckets and said one thing out loud to nobody, and a few people within nine feet of her heard it and nobody else did.
 

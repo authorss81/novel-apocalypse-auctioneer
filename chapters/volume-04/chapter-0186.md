@@ -6,9 +6,9 @@ The woman of fifty-eight who carries water and does not read figures went up the
 
 The plate on the standpipe has no handle and the loam under it is about a foot deep in the wet, and she went straight to it and put her shoulder against the iron and had the first bucket full in about the time it takes to say what has just been said, **and the man who can be found stood on the stone and did not offer and did not say anything about not offering, and a clerk of nineteen years entered the not-offering and was not asked about it.**
 
-She carried her two down and he took the yoke up behind her with two more, and the lane is not metalled for the whole of that hill and the last sixty yards of the lower part of it goes to mud, **and on the twenty-eighth they each did four yoke-loads and not the two she has been doing since the seventeenth, and a man of about thirty-four who digs loam said that four is a day's work and not a favour.**
+She carried her two down and he took the yoke up behind her with two more, and the lane is not metalled for the whole of that hill and the last sixty yards of the lower part of it goes to mud, **and on the twenty-eighth they each did four yoke-loads and not the two she has been doing since the seventeenth, and a man of about thirty-one who digs loam said that four is a day's work and not a favour.**
 
-Nobody said anything about the four. A man of about thirty-four who digs loam came up the lane at about half past eight with a barrow he was not going to use and watched them do the third pair and said that a barrow on that hill in that mud is a barrow that is not going to be a barrow by eleven o'clock.
+Nobody said anything about the four. A man of about thirty-one who digs loam came up the lane at about half past eight with a barrow he was not going to use and watched them do the third pair and said that a barrow on that hill in that mud is a barrow that is not going to be a barrow by eleven o'clock.
 
 A man of fifty-six said that a barrow is one of the three instruments this district has that work without anybody coming to a yard, and that a barrow in a foot of mud is a fourth shape of the same three, **and that the count of six did not move on the twenty-eighth of the second month and that a barrow is not a seventh and is not a mark and carries no job.**
 
@@ -36,7 +36,7 @@ A clerk of nineteen years entered that she said the second half of that before a
 
 A man of fifty-six said that the district has spent four months arguing about a page with about forty names on it in a building four miles down a lane, and that a page with forty names in it has forty days against none of them, **and that the round has ninety houses on it and has been correct every morning for nine years and has never once been asked to be correct.**
 
-That went no further. A man of about thirty-four who digs loam said that a woman who knows ninety doors and a boy of about nineteen who walks to a place every day are two people who write nothing down, and that this district has not joined them and is not going to, and that one of the two is the only person anybody in this basin can find at a place and the other one is nobody's keeper.
+That went no further. A man of about thirty-one who digs loam said that a woman who knows ninety doors and a boy of about nineteen who walks to a place every day are two people who write nothing down, and that this district has not joined them and is not going to, and that one of the two is the only person anybody in this basin can find at a place and the other one is nobody's keeper.
 
 A clerk of nineteen years entered that a boy of about nineteen at the fourth place and a woman of fifty-eight who carries water are two people who write nothing down and are two people and are not joined, **and that a person who stands somewhere every day and a person who goes to ninety doors a day are described by people who have never met and the five of those descriptions are not to be joined to either of them.**
 
@@ -44,7 +44,7 @@ A man of about thirty-four who mends fencing said that **the fifth of the five i
 
 Nothing was said back to it. A man of fifty-six said that a clerk who is asked to make a sixth of a list of five is a clerk doing the only thing she is for, **and that the count of things this district does not have is five and is the same five it was on the twenty-eighth of the second month and that a bucket, a basket, a barrow, a yoke, a board, a page and a round are not a sixth and are not to be entered as one.**
 
-A man of about thirty-four who digs loam said that the man the figure of twenty-one years is against had better not hear that, and a man of fifty-six said that he is standing nine yards away and has heard it and is not going to be asked about it and is not going to be asked again.
+A man of about thirty-one who digs loam said that the man the figure of twenty-one years is against had better not hear that, and a man of fifty-six said that he is standing nine yards away and has heard it and is not going to be asked about it and is not going to be asked again.
 
 **AND ON THE TWENTY-EIGHTH OF THE SECOND MONTH THE ONLY RECORD OF THIS DISTRICT'S WATER THAT HAS NEVER BEEN WRONG WAS IN A WOMAN OF FIFTY-EIGHT WHO KNOWS NINETY DOORS AND NO FIGURES, AND IT IS NOT IN A BOOK.**
 

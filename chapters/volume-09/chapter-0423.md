@@ -54,9 +54,9 @@ At about half past twelve the man the figure of twenty-one years is against came
 
 ---
 
-The man of about thirty-four who digs loam was in that ditch to his thigh from before nine until about four, got the four figures at the end of that table at about ten, and said the word with them four times. That right arm of his did not go above the level of that shoulder at any point in the day, and nobody said one word to him about it. The road keeper came up that lane twice and got the four figures both times, and was not asked about the eleven miles.
+The man of about thirty-one who digs loam was in that ditch to his thigh from before nine until about four, got the four figures at the end of that table at about ten, and said the word with them four times. That right arm of his did not go above the level of that shoulder at any point in the day, and nobody said one word to him about it. The road keeper came up that lane twice and got the four figures both times, and was not asked about the eleven miles.
 
-At about two the man of about thirty-seven who puts tables up came up the bank and stopped at that end of the table and asked the boy of about nineteen a question out loud, and the boy counted what he said and got forty-two and read it back to himself twice.
+At about two the man of about thirty-two who puts tables up came up the bank and stopped at that end of the table and asked the boy of about nineteen a question out loud, and the boy counted what he said and got forty-two and read it back to himself twice.
 
 "**If a thing is said in this yard and nobody reads it back from the top, and a second person says it back four days later and it is not the same, which of the two is the thing that was said?**"
 

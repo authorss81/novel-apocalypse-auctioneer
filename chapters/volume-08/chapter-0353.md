@@ -46,7 +46,7 @@ The clerk of nineteen years wrote that down at about half past twelve, standing 
 
 What the rest of that day was made of was the rain coming back.
 
-The man of about thirty-four who digs loam came into that yard at about one and stood under the eaves of that building with his right arm down at his side and his left holding his coat off the drip, and about four people in that yard asked him, one after another and in the ordinary way, what he thought a term of a month was worth, and he told all four of them that he did not know, in about four seconds each time, and the same answer given four times in an afternoon is a shape noticed four times and is not a finding and is not a habit and is not a figure about him.
+The man of about thirty-one who digs loam came into that yard at about one and stood under the eaves of that building with his right arm down at his side and his left holding his coat off the drip, and about four people in that yard asked him, one after another and in the ordinary way, what he thought a term of a month was worth, and he told all four of them that he did not know, in about four seconds each time, and the same answer given four times in an afternoon is a shape noticed four times and is not a finding and is not a habit and is not a figure about him.
 
 The man of about thirty-seven who cuts reeds out of that ditch was in the bottom of it until about half past three in the rain with his hook and his bundle, and about nine people in that yard asked him before he went down whether that building was going to be standing in the winter, and he gave them the same answer in about four seconds each time and went down the bank.
 

@@ -40,7 +40,7 @@ The man of about thirty at the counter said the other half of it and he said it 
 
 "**There are two. I have never said there was one.**"
 
-A man of about thirty-four who digs loam said that a man of thirty at a counter has now told this district that the district has been standing in front of the wrong building for a month, **and that a district which cannot name a building cannot say where a toll lands on a place, and that the fifth thing this district does not have is a way of saying that, and that the count of five is the same five it was on the second of January and a second building is not a sixth.**
+A man of about thirty-one who digs loam said that a man of thirty at a counter has now told this district that the district has been standing in front of the wrong building for a month, **and that a district which cannot name a building cannot say where a toll lands on a place, and that the fifth thing this district does not have is a way of saying that, and that the count of five is the same five it was on the second of January and a second building is not a sixth.**
 
 Then he said who the second one was, and he said it before anybody asked him, and a man of about nineteen counted it and got fifty-two.
 
@@ -56,7 +56,7 @@ So the two of them went down the four hundred yards in the middle of the afterno
 
 The brick building is one room deep and about thirty feet long with a stove in the middle of it and a butt of about nine feet against the back wall, and there were about nine people in it in the middle of a wet afternoon and a woman of about thirty-eight was at the butt with a hoop of wood in her hand, and she came out into the yard when she heard the gate and shut the gate behind her.
 
-A man of about thirty-four who digs loam said that he had asked her for nothing in four years and that he was not going to start on the twelfth of the third month, **and that a man who has carried water into a building for four years without being asked and without being paid is not a bearer of the butt and is not a keeper of the building and is not a security and the count of six did not move on the twelfth of the third month.**
+A man of about thirty-one who digs loam said that he had asked her for nothing in four years and that he was not going to start on the twelfth of the third month, **and that a man who has carried water into a building for four years without being asked and without being paid is not a bearer of the butt and is not a keeper of the building and is not a security and the count of six did not move on the twelfth of the third month.**
 
 Nobody asked her anything. A clerk of nineteen years entered in the yard afterwards that three people stood in a yard about four hundred yards from another yard for about nine minutes and asked a woman nothing, **and that the not-asking is entered and the count is where it was, and that three people is a count of a room and is not a column and is not a rate.**
 
@@ -66,7 +66,7 @@ She said one thing and it was the thing she had come out for, and she said it to
 
 Nobody in that yard argued with it. A man of fifty-six said that a woman who keeps a building for four years and wants a butt full before a date is a person with a term in her mouth, **and that a term in a person's mouth is not a term on a figure and cannot be put on a sheet and is not going to be entered as one.**
 
-The man of about thirty-four who digs loam said that a butt at nine days and a tank at nine days are two pieces of water four hundred yards apart, **and that the two of them are not one subject and have not been entered together and are not going to be, and that a district that stands in a yard looking at a butt is a district looking at a butt.**
+The man of about thirty-one who digs loam said that a butt at nine days and a tank at nine days are two pieces of water four hundred yards apart, **and that the two of them are not one subject and have not been entered together and are not going to be, and that a district that stands in a yard looking at a butt is a district looking at a butt.**
 
 **AND THERE ARE TWO FLOOD SHELTERS AT THE SLUICE END AND THE DISTRICT HAS BEEN SAYING THE WORDS FOR A MONTH, AND THE THIRD OF THE FOUR PRINTED THINGS SAYS A FLOOD SHELTER AT THE SLUICE AND NAMES NO BUILDING, AND THE MAN OF ABOUT THIRTY AT A COUNTER SAYS THERE ARE TWO AND HAS NEVER SAID THERE WAS ONE.**
 
@@ -84,7 +84,7 @@ The rule arrived in that yard at about half past three in the afternoon and nobo
 
 A man of fifty-six said that the first of the four is the reason the Underwriter's power is not begun and has been for five shapes since the second of January, **and that a rule a man says out loud against his own advantage is not a rule and is not written down and he would not have it written down.**
 
-The man of about thirty-four who digs loam disagreed with the last of the four lines, and he said the reason himself, and a man of about nineteen counted it and got fifteen.
+The man of about thirty-one who digs loam disagreed with the last of the four lines, and he said the reason himself, and a man of about nineteen counted it and got fifteen.
 
 "**You can name a thing all winter. The thing still comes down the same channel.**"
 
@@ -100,7 +100,7 @@ A clerk of nineteen years entered that the list of the five is not written for t
 
 Then the night, and it was four miles out past the loams and there was no clerk there and nothing was entered on the way and both of the two of them said so.
 
-The man of about thirty-four who digs loam came out of the lane off the lower terrace at about seven in the evening with a bar and a lamp and no coat, and the lane is not metalled for the last sixty yards and goes to mud about a foot deep, and the man the figure of twenty-one years is against walked the first mile and a half with him because a man going to a sluice alone in the dark is a thing two men do.
+The man of about thirty-one who digs loam came out of the lane off the lower terrace at about seven in the evening with a bar and a lamp and no coat, and the lane is not metalled for the last sixty yards and goes to mud about a foot deep, and the man the figure of twenty-one years is against walked the first mile and a half with him because a man going to a sluice alone in the dark is a thing two men do.
 
 The farm is a house of four rooms and four fields and a chain round the gatepost that is new, and the gate was not chained when they got there and a clerk of nineteen years entered afterwards that a gate with a chain on it was open on the night of the thirteenth of the third month, **and that a new chain and an open gate are two facts about a gate and are not a fact about a person and are not entered as one.**
 
@@ -108,7 +108,7 @@ The sluice is a board in a stone frame with a lip of iron on the top of it, and 
 
 A man of fifty-six said afterwards in the yard that the water came at about eight and that it took about nine hours to go into the channel and that the channel is a mile and a bit, **and that a head race with no term on it and no bearer on it is the same water as it was on the ninth of the second month and is not a new thing and is not going into any of the counts in this district's books.**
 
-Nobody took that up. A man of about thirty-four who mends fencing asked, in the six things on the fourteenth, whether anybody had been standing at the sluice while the water was going, and the man of about thirty-four who digs loam said that there had been two men and one of them was standing at the sluice and one of them was standing on a bank a mile away with a lamp, **and that two men is not a bearer and is not a keeper and is not a security and the count of six did not move on the night of the thirteenth and nobody is going to be entered as a seventh.**
+Nobody took that up. A man of about thirty-four who mends fencing asked, in the six things on the fourteenth, whether anybody had been standing at the sluice while the water was going, and the man of about thirty-one who digs loam said that there had been two men and one of them was standing at the sluice and one of them was standing on a bank a mile away with a lamp, **and that two men is not a bearer and is not a keeper and is not a security and the count of six did not move on the night of the thirteenth and nobody is going to be entered as a seventh.**
 
 He shut it at about four in the morning with both hands under the lip and his shoulder against the frame, and the water in the channel went down about two feet in about an hour, **and he walked back the mile and a half and was in the yard of Lot Seventeen at about half past six in the morning on the fourteenth of the third month and nobody had sent for him and nobody asked him anything about it.**
 
@@ -120,7 +120,7 @@ The morning of the fourteenth was wet and cold and the man of about fifty-five c
 
 He said that the tank is at about nine days and has been for three days, and that he has stopped putting marks on the board because a mark for a day he has had is a mark for a day he was given, **and that a tank at about nine days is a figure said by a man and not checked and was not asked to be checked, and that a figure of days about a tank is a figure and not a term and has nobody standing under it.**
 
-A man of about thirty-four who digs loam said that nine days is five times the figure the man of fifty-five gave on the eleventh, and that five times is not a rate and is not a column, **and that the reason a day and a half became nine days is a sluice and not a decision, and that the district did not decide it and the district is not going to take it.**
+A man of about thirty-one who digs loam said that nine days is five times the figure the man of fifty-five gave on the eleventh, and that five times is not a rate and is not a column, **and that the reason a day and a half became nine days is a sluice and not a decision, and that the district did not decide it and the district is not going to take it.**
 
 Nobody argued with that. A man of fifty-six said that a district which would have to enter an improvement in a tank as a decision would have to enter a man's shoulder as one too, **and that a woman of fifty-eight did four yoke-loads a day on the eleventh and has done them every day since the eighteenth of the second month and is not in any of the counts and is not going to be.**
 
@@ -134,7 +134,7 @@ Nobody in that yard said anything about it. The man of fifty-six said that the m
 
 A clerk of nineteen years entered that the man of about thirty at the counter was still in the district on the fourteenth of the third month and was not told about the tank, and that he was not sent for, **and that the not-sending is entered and the count is where it was, and that a man who has been in a yard for two days and has not been told a thing that happened at night is a man who has not been asked and is not a not-asking and is not entered as either.**
 
-The man of about thirty-four who mends fencing asked the man of about thirty-four who digs loam what the channel was doing, and the man of about thirty-four who digs loam said that it was doing what a channel does when a sluice has been up for nine hours, **and that a channel is a channel and is not a page and is not a minute and carries nothing and has recorded nothing and the count of documents nobody owns is three and did not move on the fourteenth of the third month.**
+The man of about thirty-four who mends fencing asked the man of about thirty-one who digs loam what the channel was doing, and the man of about thirty-one who digs loam said that it was doing what a channel does when a sluice has been up for nine hours, **and that a channel is a channel and is not a page and is not a minute and carries nothing and has recorded nothing and the count of documents nobody owns is three and did not move on the fourteenth of the third month.**
 
 A man of about thirty-one who mends a dray at a forge end off Salt Row came up the bank into that yard at about eleven in the morning on the fourteenth with his right hand wrapped at the wrist and had not been sent for, and a clerk of nineteen years entered that he came and that nobody sent for him.
 

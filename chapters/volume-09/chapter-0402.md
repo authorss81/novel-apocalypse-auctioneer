@@ -78,7 +78,7 @@ The man of fifty-six stood beside her for the whole of that and did not read any
 
 "Especially not by the list," the man of fifty-six said. "A list is a thing somebody wrote down once and a board is a thing somebody cut every morning, and I know which of those two I have been reading off for six months."
 
-Then the man of about thirty-four who digs loam, from the low wall, where he had been standing since about half past ten with the water running off him, said that the ninth month was thirty-one as well. It was entered off a list by somebody else a while back, and nobody ever wrote down where that mark was.
+Then the man of about thirty-one who digs loam, from the low wall, where he had been standing since about half past ten with the water running off him, said that the ninth month was thirty-one as well. It was entered off a list by somebody else a while back, and nobody ever wrote down where that mark was.
 
 "So that one cannot be counted either," the mender said.
 

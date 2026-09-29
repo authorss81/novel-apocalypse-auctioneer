@@ -68,6 +68,6 @@ The clerk entered nothing about it on the eleventh, because nobody was in a room
 
 The man of about thirty-four who mends fencing was in that yard until about four and did not go out past the loams and was not asked to go out past the loams, and the clerk entered that he was asked about nothing else this morning either, and that a man who has asked one question in one doorway in a month and is not asked a second question himself is a man who has found out the order of the two things.
 
-The day came down about half past five and the man of about thirty-four who digs loam was not in the yard and had not been in it since about eleven and the record about the afternoon says not asked.
+The day came down about half past five and the man of about thirty-one who digs loam was not in the yard and had not been in it since about eleven and the record about the afternoon says not asked.
 
 **AND ON THE ELEVENTH OF THE FIFTH MONTH A MAN WALKED TWO HUNDRED YARDS AND ASKED ONE MAN ONE QUESTION IN HIS OWN DOORWAY ABOUT A TOLL HE HAD NEVER BEEN ASKED, AND AT ABOUT TWENTY TO FIVE A MAN AND A REGISTRAR STOOD ABOUT NINE FEET APART IN FOUR HUNDRED YARDS OF LANE AND HE ASKED HER ONE QUESTION AND SAID THE WHOLE OF WHAT HE HAD NOT BEEN SAYING FOR A FORTNIGHT OUT LOUD.**

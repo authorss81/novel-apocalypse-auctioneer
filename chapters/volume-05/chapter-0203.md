@@ -14,7 +14,7 @@ She read it out in one run of words with a stop at the end of each of them and n
 >
 > **THE PLACE IS NAMED ON THE LEASE. THIS IS NOT THE LEASE.**
 
-Nobody said anything for about nine seconds, which is longer than it sounds, and a man of about thirty-four who mends fencing said the thing everybody was thinking and a man of about thirty-four who digs loam said the other half of it, and the two said them at the same time in two sentences.
+Nobody said anything for about nine seconds, which is longer than it sounds, and a man of about thirty-four who mends fencing said the thing everybody was thinking and a man of about thirty-one who digs loam said the other half of it, and the two said them at the same time in two sentences.
 
 "**The term ended on the last day of the second month and this is the first of the fourth month and nobody has said why it was late.**"
 
@@ -40,7 +40,7 @@ A clerk of nineteen years entered that a stranger carried ten documents into a y
 
 A man of fifty-six said that a man who will not read nine documents into a yard has done this district one kindness and that the district should be careful about how much of it it takes, **and that the fourth of the eleven is the schedule and a schedule is not a figure and a figure is not a schedule and the two have never been joined in this district, and that a man who is going to read a schedule in a yard tomorrow will be asked what it schedules and the answer will be a day and a day is not a figure.**
 
-The man of about thirty-four who digs loam said the thing nobody in the yard had said, and he said it flat, and nobody picked it up.
+The man of about thirty-one who digs loam said the thing nobody in the yard had said, and he said it flat, and nobody picked it up.
 
 "**The ninth place is the one holding on the delivery sheet at the second reservoir that nobody can account for, and a man of about thirty has been to that counter eleven times in thirteen weeks and been refused five times with no reason, and this sheet says the toll of a lease on a place with no name is paid at the ninth place, and I am not saying those are the same and I have said twice today that I am not saying that.**"
 
@@ -54,7 +54,7 @@ The second line has three things on it and a man of about thirty-four who mends 
 
 The use is a road. The toll is paid at the ninth place. The holder is a person with a title and a name on a line in a stranger's document, and the name on it is Cael Orin, and it is the first time that name has been said out loud in this yard.
 
-A man of about thirty-four who digs loam said that a holder is a person and that a person who is named in a stranger's document four hundred yards from a book a stranger can walk up to is a person who can be found, **and that this district worked that out about itself on the twelfth of the third month and it has taken a stranger nineteen days to arrive at the same sentence and that a district which is the last to know a thing about itself is not a district anybody should be asking to hold anything.**
+A man of about thirty-one who digs loam said that a holder is a person and that a person who is named in a stranger's document four hundred yards from a book a stranger can walk up to is a person who can be found, **and that this district worked that out about itself on the twelfth of the third month and it has taken a stranger nineteen days to arrive at the same sentence and that a district which is the last to know a thing about itself is not a district anybody should be asking to hold anything.**
 
 A man of fifty-six said that a man who says that in a yard on a Tuesday morning is talking about a road and not about a man, and a clerk of nineteen years entered that no weekday is attached to any date in this district and that the word was not a date and that she is not going to correct him because he is not wrong about the road.
 
@@ -66,7 +66,7 @@ A clerk of nineteen years entered that the name was said once and not written do
 
 The lane at the sluice end of the loams had six doors in it and about four people were on it in the afternoon and a man of about forty-eight who keeps a tally for six households was on it and was not sent for.
 
-A man of about thirty-four who digs loam said the state of them without being asked and it is the state it was on the first of April and on the twenty-first of the third month, and a clerk of nineteen years entered that the record of the six has not moved on any of the three days and that the six are not a column and are not a rate and are not added to anything.
+A man of about thirty-one who digs loam said the state of them without being asked and it is the state it was on the first of April and on the twenty-first of the third month, and a clerk of nineteen years entered that the record of the six has not moved on any of the three days and that the six are not a column and are not a rate and are not added to anything.
 
 "**One signed on the twenty-ninth of the second month. Two refused in the second month. Three have not been asked again and one of the three is a man who lives in a cart with a charcoal roof drawn beside his name, and a house came down that lane before six in the morning and the man in the cart was not in it.**"
 
@@ -109,11 +109,11 @@ A man of fifty-six entered that nobody asked him and that the not-asking is ente
 
 The road a man keeps that somebody else opened on the night of the twenty-second of the second month runs past the fourth holding on the delivery sheet at the second reservoir, and the fourth holding is the top field of a farm four miles out past the loams and its legal owner has not been at the crossing in about four years.
 
-A man of about thirty-four who mends fencing said that out loud in a yard on the afternoon of the third of the fourth month and a clerk of nineteen years entered that he said it and that a man of about thirty-four who digs loam was not asked to agree with it, **and that two things in this district have been on a page since the second of January and have not been joined, and that a man naming a third thing beside them is not joining them and is not stopping them, and that the refusals to join two things are thirteen and the registrar's own count is twelve and neither of them moved at four in the afternoon of the third of the fourth month.**
+A man of about thirty-four who mends fencing said that out loud in a yard on the afternoon of the third of the fourth month and a clerk of nineteen years entered that he said it and that a man of about thirty-one who digs loam was not asked to agree with it, **and that two things in this district have been on a page since the second of January and have not been joined, and that a man naming a third thing beside them is not joining them and is not stopping them, and that the refusals to join two things are thirteen and the registrar's own count is twelve and neither of them moved at four in the afternoon of the third of the fourth month.**
 
-The fourth holding has not taken a drop since the first of the second month and it is the one the man of about thirty-four who digs loam opened a sluice for on the night of the thirteenth of the third month, and a man of about thirty-four who mends fencing said that a road he does not keep was opened nine miles from a holding he does not own, and that the two are a coincidence until somebody says otherwise and nobody in this district is going to be the one who says otherwise.
+The fourth holding has not taken a drop since the first of the second month and it is the one the man of about thirty-one who digs loam opened a sluice for on the night of the thirteenth of the third month, and a man of about thirty-four who mends fencing said that a road he does not keep was opened nine miles from a holding he does not own, and that the two are a coincidence until somebody says otherwise and nobody in this district is going to be the one who says otherwise.
 
-A man of fifty-six said that the district has a rule and the rule is the whole of this novel so far, and he said it in the ordinary voice, and a man of about thirty-four who digs loam did not pick it up.
+A man of fifty-six said that the district has a rule and the rule is the whole of this novel so far, and he said it in the ordinary voice, and a man of about thirty-one who digs loam did not pick it up.
 
 "**A resemblance noticed a second time is not a finding and a resemblance noticed a third time is a habit, and this yard has refused two of them out loud in ninety-one days and I am not going to be the man who makes a third one, and the four of the nine holdings and the ninth of the nine holdings and a road that somebody opened in the night are three things and there is no column for three things.**"
 

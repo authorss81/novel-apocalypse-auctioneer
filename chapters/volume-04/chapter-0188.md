@@ -8,7 +8,7 @@ A man of about thirty-four who mends fencing asked the standing question out lou
 
 "**We decided about a man and we have nine days of doing nothing left. Ask him now and the nine days are worth nothing.**"
 
-No one said the opposite. A man of about thirty-four who digs loam said that a decision to do nothing about a refusal is the only decision this district's business has made about a date and not about a document, **and that a decision which is about a date and not a document runs out on the date the way a document does not, and that this district found that out on the first of the third month and found it out about a cart.**
+No one said the opposite. A man of about thirty-one who digs loam said that a decision to do nothing about a refusal is the only decision this district's business has made about a date and not about a document, **and that a decision which is about a date and not a document runs out on the date the way a document does not, and that this district found that out on the first of the third month and found it out about a cart.**
 
 A clerk of nineteen years entered that a refusal with a term on it is not a refusal of the figure and is not an acceptance of it and cannot be counted either way, **and that the term on it ran out on the first of the third month and that the man has not said anything and that a term running out and a man saying nothing are two things and are not joined.**
 
@@ -30,7 +30,7 @@ He said it in about two seconds and gave the rest of it himself, and it is in th
 
 Nobody in that yard answered him for a moment, and then a man of fifty-six said that this is the plainest finding in nine weeks and that it is that the nine days were never a term on a figure and were a term on his own mouth, **and that a man who has put a month on a refusal has been taken by everybody in this yard to have put a month on the other half of it, and that he did not, and that a term on one half of a thing is not a term on the other half of it.**
 
-A man of about thirty-four who digs loam said that the man said the second half of that before he was asked for it, and a clerk of nineteen years entered that he did and that she is not going to put a number on the count of the second half said before being asked, **and that the figure has not been looked at since the twenty-ninth of December and she is not going to look at it now either, and that a clerk is a person and not a rule.**
+A man of about thirty-one who digs loam said that the man said the second half of that before he was asked for it, and a clerk of nineteen years entered that he did and that she is not going to put a number on the count of the second half said before being asked, **and that the figure has not been looked at since the twenty-ninth of December and she is not going to look at it now either, and that a clerk is a person and not a rule.**
 
 Then he said the other thing, and it was the thing he had come for, and nobody had asked him for it, and a clerk of nineteen years entered that he was not asked for it and that she is not going to ask him why he came.
 
@@ -48,7 +48,7 @@ A clerk of nineteen years entered that no second thing was put to him, that the 
 
 ---
 
-The man of about thirty-four who digs loam came up the bank on the third of the third month at about one in the afternoon on his own account and a clerk of nineteen years entered that he came and that nobody sent for him, and he had a thing in his coat he did not take out.
+The man of about thirty-one who digs loam came up the bank on the third of the third month at about one in the afternoon on his own account and a clerk of nineteen years entered that he came and that nobody sent for him, and he had a thing in his coat he did not take out.
 
 A man of fifty-six said that the reason the Underwriter's power is not begun in this district has now changed its shape five times since the second of January and has not moved, and a man of about thirty-four who mends fencing asked him to say the shape again in different words, and he said it standing up against the trestle table and a clerk of nineteen years wrote it in her own hand.
 
@@ -56,7 +56,7 @@ A man of fifty-six said that the reason the Underwriter's power is not begun in 
 
 Nobody argued with it. A clerk of nineteen years entered that the list of the five is not written for the sixth time in a month and that the reason is entered and the reason is not a delay, **and that a shape is not a figure and that five is not a column and that the count of the five has not moved since the second of January and is not going to move because a man has described it again in a yard.**
 
-the man who mends fencing asked what would have to be different for the reason to be a different reason, and the man of about thirty-four who digs loam said that he does not know, **and that a man of about thirty-four who digs loam has said the second half of a thing about nine times in eleven weeks and that not knowing which one this is has not been put in a column and is not going to be.**
+the man who mends fencing asked what would have to be different for the reason to be a different reason, and the man of about thirty-one who digs loam said that he does not know, **and that a man of about thirty-one who digs loam has said the second half of a thing about nine times in eleven weeks and that not knowing which one this is has not been put in a column and is not going to be.**
 
 Nothing was said to it. A man of fifty-six said that the answer is not going to come out of a man who digs a channel, and that he is not going to be asked for it again today, and that a man who is asked twice for the same second half is a man who is being used, **and that the district has three instruments that work without anybody coming to a yard and one of them is a man who digs loam and none of the three is on a list.**
 
@@ -64,7 +64,7 @@ the man who mends fencing asked the registrar of this district's records office,
 
 A clerk of nineteen years entered that she has been asked nothing in this district for longer than she is going to say out loud, and that she is not keeping a count of it, **and that a count of it would be a column and a column is a thing a person is paid for, and that she is not paid and was not asked to be and is not going to be.**
 
-Nobody took that up. A man of about thirty-four who digs loam said that a district which cannot write down what it did not do is a district which is going to find out in about a month that it did nothing on a day it had a chance, **and that the twenty-eighth of the second month is that day and this district has entered nothing about it and the man whose tank it is has not been told.**
+Nobody took that up. A man of about thirty-one who digs loam said that a district which cannot write down what it did not do is a district which is going to find out in about a month that it did nothing on a day it had a chance, **and that the twenty-eighth of the second month is that day and this district has entered nothing about it and the man whose tank it is has not been told.**
 
 **THE UNDERWRITER'S POWER IS STILL NOT BEGUN IN THIS DISTRICT, THE REASON GIVEN FOR IT HAS TAKEN A NEW SHAPE FIVE TIMES SINCE THE SECOND OF JANUARY, AND IT HAS NOT MOVED ON ANY DAY OF THOSE FIVE, AND A CLERK OF NINETEEN YEARS ENTERED THAT THE REASON IS NOT A DELAY.**
 
