@@ -1027,3 +1027,105 @@ Every cell was parsed out of its own chapter file and every cell minus its own d
 ## 3. THE FOUR THINGS A WRITER INHERITS FROM VOLUME 11 THAT ARE UNCHANGED, AND THEY ARE THE ONES THAT MATTER
 
 **The fourth line is nine words and is on a page. The copy-versus-book question is unanswered and the volume says so out loud on the last morning. The protagonist's name is on no page of five hundred and fifty chapters, and that is the success condition and not a failure. And the size of the error in the fourth of the four figures on that wall became computable on day 40 and is still on no page.** None of the four defects this pass corrected touched any of those four sentences, and the full account of what was corrected, with the measurements, is at `state/volume-11-close.md` section 15.
+
+---
+
+# VOLUME 12 BATCH 0001 — CHAPTERS 551 TO 565, DAYS 1 TO 15, APPENDED AFTER THE FIFTEEN CHAPTERS
+
+> **APPENDED BY THE VOLUME 12 BATCH 0001 PHASE, NOT REWRITTEN ABOVE. NO WORD ABOVE THIS BLOCK WAS CHANGED. WHERE A CHAPTER AND A DOCUMENT DISAGREE, THE CHAPTER IS CANON AND THE DOCUMENT IS WRONG. WHERE A DOCUMENT AND THE CHAPTERS DISAGREE, BOTH ARE PRINTED AND NEITHER IS REPAIRED, BECAUSE NO DOCUMENT THAT IS NOT THIS PHASE'S IS THIS PHASE'S TO EDIT.**
+>
+> **THE BLOCK RECORD IS `state/volume-12-batch-0001-summary.md`. THE NEXT PHASE IS `workspace/volume-12/batch-0002/PROMPT.md`, CHAPTERS 566 TO 580, DAYS 16 TO 30.**
+
+## 1. WHERE THE MANUSCRIPT STANDS, IN ONE PLACE, AT THE FIFTEENTH MORNING OF THIS VOLUME
+
+**THE YARD OF LOT SEVENTEEN HAS TWO TABLES IN IT. ON THE FIRST, A LOT BOOK UNDER A STONE WITH NO WEAR ON IT, WITH FOUR LINES ON IT, THE FOURTH OF THEM NINE WORDS IN A CLERK'S OWN HAND: `The line above is a person, not named here.` ON THE SECOND, A STONE LYING FACE UP WITH A HOLLOW IN IT ONE INCH DEEP IN THE MIDDLE AND NOTHING AT EITHER END, AND ALONG THE END OF THAT TABLE ARE **TWO** SHEETS OF PAPER, BOTH WITH FOUR LINES ON THEM, THE THIRD RULED AND EMPTY, AND THE FOURTH CARRYING THE SAME NINE WORDS IN A HAND THAT IS NOT THIS DISTRICT'S.** The first of the two is the copy a man of about twenty-nine put down on the first morning of Volume 11, which is on its sixty-fifth morning and has never moved more than an inch along the table. **A THIRD SHEET CAME ON THE TWENTY-FIFTH OF THE THIRD MONTH WITH NO PERSON AND NO REASON IN THE ROOM, AND A FOURTH CAME ON THE THIRTIETH WITH A WOMAN WATCHING THE LANE THE WHOLE TIME, AND ONE WENT UP THAT BANK TO A SHOP ON THE SECOND OF THE FOURTH MONTH WITH A MAN'S REASON SAID OUT LOUD BEFORE HE TOUCHED IT.** The count of documents this district does not own moved from three to four at about a quarter to eight on the twenty-sixth of the third month with the man who keeps a tally standing beside the clerk and the reason said out loud first. The count of things this district has made is thirteen. The reading of that lot stands at the fourth of the five and the fifth of them is a remedy and is unpaid. The column for the name of whoever read a thing out loud was ruled and empty at about six on all fifteen days. The fifth of the five things this district does not have is a way to pay a person who is not in a household and it was not paid on any of the fifteen days.
+
+**AND THE YARD'S QUESTION AT THE END OF THIS BLOCK IS STILL *WHO MADE THIS*, AND NOBODY HAS ANSWERED IT, AND THE YARD IS STILL LOOKING, AND THE PROTAGONIST HAS ASKED NOBODY ONE QUESTION ON ANY OF THE FIFTEEN DAYS AND NOBODY HAS NOTICED THAT YET.**
+
+## 2. WHAT THESE FIFTEEN CHAPTERS DID, FIFTEEN LINES
+
+1. **Day 1, Ch 551.** A clerk begins entering the number of sheets on the end of that second table every morning, and it is one, and a boy says out loud that a count of one is still a count and is not a way of filling a line, and a man who keeps a tally names out loud that there is a month in this year nobody has ever counted off a board. Nobody asked one word about the sheet.
+2. **Day 2, Ch 552.** The number is one again. A man who puts tables up says he does not keep a book of people. **A person asks out loud who has been down that lane, and nobody answers it.**
+3. **Day 3, Ch 553.** Two of the four figures on that wall are out and nobody in that yard has ever said which two, and a clerk enters that she is not entering what the difference is, and a boy says he has counted the cuts off a board he has never stood in front of.
+4. **Day 4, Ch 554.** The count does not move for the third morning and a boy says out loud in front of about nineteen people that he had hoped it would be two.
+5. **Day 5, Ch 555.** A woman of about fifty-eight stops at the end of the third line of that book and reads the fourth, and says nothing, and nobody says one word to her. A clerk refuses two sentences out loud.
+6. **Day 6, Ch 556.** **A boy offers out loud to count the month the yard is standing in and a clerk refuses him in front of about nineteen people and gives the reason**, and a woman says for the second time that nobody has ever counted a month here.
+7. **Day 7, Ch 557.** **A second sheet is on that table with four lines on it, the third ruled and empty and the fourth carrying this district's own nine words in a hand that is not this district's.** A man who was at the table at a quarter to eight and at a quarter to nine gives the reason out loud, and the man who made the copy says out loud, unasked, that it is not his hand.
+8. **Day 8, Ch 558.** **The number of documents this district does not own moves from three to four at about a quarter to eight with the man who keeps a tally in the room and the reason out loud, and a clerk says out loud that she is not going to say what the next one will be, and no fifth was proposed.**
+9. **Day 9, Ch 559.** Nothing comes off that table, and a man says out loud that he is not going to lift a sheet off it because the wood is soft and that is not a reason anybody could check in a month, and a boy asks a clerk whether a number can be wrong.
+10. **Day 10, Ch 560.** **A clerk says out loud that she is not entering where that sheet came from and gives the reason, and a woman says out loud that she knows which of eleven houses it came from and does not say it.**
+11. **Day 11, Ch 561.** **A man of about thirty-four who digs loam reads the fourth line of the stranger's sheet and says nothing and goes down the bank, and a clerk enters that she is not entering that he read it**, and the man who made the copy says out loud that he watched and is not going to say a word to him.
+12. **Day 12, Ch 562.** **The number of sheets rises to three with a woman watching the lane for an hour as the person and the reason, and the number of documents this district does not own does not move, and a clerk says out loud why, and a figure was not changed by anybody.**
+13. **Day 13, Ch 563.** **A person asks out loud whether there is another day of this month and a clerk says out loud that she is not going to answer and gives the reason**, and a man who keeps a tally has a blank page in his own book and is not writing on it.
+14. **Day 14, Ch 564.** A month turns overnight, a clerk writes a date and nothing else, and about nine people walk past the first table before nine without looking at it.
+15. **Day 15, Ch 565.** **A sheet comes off that table with a man's reason said out loud before he touched it, and the number goes from three to two, and a woman of about thirty-six who keeps a scale takes it up that bank in her own two hands and puts it on her own counter with her shop open and says again that she cannot tell which of them is this district's.**
+
+## 3. THE ONE COUNT THAT IS NEW IN THIS MANUSCRIPT, AND ITS PATH, MORNING BY MORNING
+
+**THE NUMBER OF SHEETS ON THE END OF THAT SECOND TABLE, ENTERED EVERY MORNING, AND IT IS NOT A LADDER. `1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 2` ON DAYS 1 TO 15.**
+
+- **It rose on day 7, Chapter 557, from one to two.** A person and a reason were in the room: the man who cuts reeds was at that table at about a quarter to eight and at about a quarter to nine and said so out loud in front of about nineteen people, and a clerk entered the number and entered that reason.
+- **It rose on day 12, Chapter 562, from two to three.** A person and a reason were in the room: the woman who keeps a scale stood in that yard from about nine to about ten with her shop door open, watched that lane the whole time, said out loud that nobody came up it, and was the person whose account the number is entered against.
+- **It fell on day 15, Chapter 565, from three to two**, and that is the first fall in this manuscript's count of anything, and it is legal here because a man said the reason out loud in front of about nineteen people **before** he put his hand on the sheet, and a clerk entered the person and the reason and entered that she is entering the reason and not a judgement.
+- **It did not move on the other twelve days and no chapter made it move to fill a page.** Nobody in this block entered why it did not move on any of them.
+
+## 4. THE COUNTS THIS BLOCK HELD, WITH THE FIGURE AND THE SCOPE
+
+Things this district has made **13** on all fifteen days, and a sheet arriving is a sheet and not a fourteenth, and the count did not move. Things this district does not have **5**, the fifth named on all fifteen days and **paid on none**. Documents this district does not own **3, moving to 4 on day 8** with the person and the reason in the room, and **no fifth was proposed on any of the fifteen days**. Protected things **5**, none proposed. Conditions with no end on it **4**. Columns of not-askings **4**, **none ruled on any of the fifteen days**. Refusals to read: a reading is still refused on six of the fifteen days and the standing figure is **nine** and **this block prints no figure for it on any page, so nothing here can make it larger.** Month lengths counted **two**; **the length of the third month is named in a yard on day 1 and again on day 6 and is not paid, and no figure about it is on any page.** A new person added to this district **none**. A rate turning a year into coppers **none**. A panel **zero**. Places in this district where those three lines can be read **four**, all still on a `no person did that` list, and this block adds no fifth and closes none.
+
+## 5. THE FIFTEEN LADDER ROWS, WITH THE CONSTANT ROW BESIDE THEM AND THE ANCHOR TEST BESIDE THAT
+
+`c` is the day and runs 1 to 15. `c = 0` is Chapter 550. The intercept is the figure **Chapter 550 prints** and the formula is intercept plus `c` and nothing else. **VOLUME 11'S OWN INTERCEPTS ARE FIFTY BELOW EVERY ROW OF THIS ONE AND WERE NOT USED.**
+
+| the figure | intercept, the figure Ch 550 prints | Volume 11's own (Ch 500), fifty out | day 1, Ch 551 | day 8, Ch 558 | day 15, Ch 565 |
+|---|---|---|---|---|---|
+| the days on that board | **448** | 398 | 449 | 456 | 463 |
+| the days the train on that siding has stood | **764** | 714 | 765 | 772 | 779 |
+| the days nobody has entered anything | **478** | 428 | 479 | 486 | 493 |
+| the days from the second of January | **439** | 389 | 440 | 447 | 454 |
+| how long the bid has been open | **198** | 148 | 199 | 206 | 213 |
+| how far back the ninth of the nine printed nights is | **331** | 281 | 332 | 339 | 346 |
+| how far behind the figure on the second line is | **153** | 103 | 154 | 161 | 168 |
+| how long the rule said out loud has stood | **158** | 108 | 159 | 166 | 173 |
+| how long since the first day of the eighth month | **228** | 178 | 229 | 236 | 243 |
+| how far past a printing a body four hundred miles off is | **167** | 117 | 168 | 175 | 182 |
+| the age of the figure on the sheet at that gatepost | **289** | 239 | 290 | 297 | 304 |
+| **the figure on the sheet at that gatepost** | **not a ladder — a count of the people who answered a door, with no day-count of its own** | — | 411 | 411 | 411 |
+| the night the man of about sixty-four is on | **189** | 139 | 190 | 197 | 204 |
+| the nights of that run he has slept on | **188** | 138 | 189 | 196 | 203 |
+| the marks cut off that board since the first of the twelfth month | **107** | 57 | 108 | 115 | 122 |
+| the marks in chalk along the edge of that second table | **93** | 43 | 94 | 101 | 108 |
+| **the mornings a man of about fifty-six has read four figures off that wall** | **the two hundred and seventy-fifth** | 225 | the two hundred and seventy-sixth | the two hundred and eighty-third | the two hundred and ninetieth |
+| the days a sheet has been on that second table | **0** | 0 | 1 | 8 | 15 |
+
+**THE CONSTANT ROW, PRINTED BESIDE THE TABLE: `448, 764, 478, 439, 198, 331, 153, 158, 228, 167, 289, —, 189, 188, 107, 93, 275, 0`. THE SECOND INTERCEPT ROW IS FIFTY BELOW IT ON EVERY ROW WITH NO EXCEPTIONS AND WAS NOT USED.**
+
+**THE ANCHOR TEST, PRINTED BESIDE THE CONSTANT ROW, AND IT PASSED: the day-1 cell of every column is the successor of the figure Chapter 550 prints and not the figure itself, and the day-15 cell is the day-1 cell plus fourteen. Every one of the eleven arithmetic rows was then checked against the printed text of its own file, word for word, by writing the expected English figure out from the intercept plus the day and searching that file for it. ZERO ROWS FAILED. THE FIGURE ON THE SHEET AT THAT GATEPOST IS FOUR HUNDRED AND ELEVEN ON FIFTEEN OF FIFTEEN AND IS NOT A LADDER. THE FOUR-FIGURE LINE WAS MATCHED CHARACTER FOR CHARACTER ON FIFTEEN OF FIFTEEN.**
+
+**AND TWO THINGS IN THAT TABLE THAT THE CHAPTERS HAVE SETTLED AGAINST IT, PRINTED BOTH SIDES.** First, **row 18.** The prompt's table gives the days a sheet has been on that second table as 0 at Chapter 550 and 1 on day 1. Chapter 550 prints **fifty days**, and the copy is on its **fifty-first morning** at Chapter 551, so the day-1 cell of that row on the page is 51 and the prompt's cell is 1. **The row is a per-volume tenure in the prompt and a whole-tenure in the pages. Both are printed. Neither is repaired, and the prose carries the whole tenure because a figure may not be corrected.** Second, `outline/volume-11.md` section 7 prints `not a ladder` in the intercept cell of the mornings row and then prints three day values in the same row that are `225 + c`, **which is a ladder, and it is printed on the page of all fifteen of these chapters as the two hundred and seventy-sixth through the two hundred and ninetieth.**
+
+## 6. THE SIX PROTECTED RELAYS AND THE TWO THAT ARE NOT FIFTY OF FIFTY
+
+| the string | total | files | days it is silent on |
+|---|---|---|---|
+| `the record about the not asking says not asked` | 121 | 15 of 15 | none |
+| `read the number back to himself in a low voice` | 97 | 15 of 15 | none |
+| `at the foot of that low wall with his coat folded on the stones` | 15 | 15 of 15 | none, and the first block of this volume with nothing silent on it |
+| `got it up about nine inches` | 15 | 15 of 15 | none |
+| `by ten there were about nineteen people` | 15 | 15 of 15 | none |
+| `was not asked about the eleven miles` | 15 | 15 of 15 | **none, and the block may not approach its break and did not hint at one** |
+| `the record about the not offering says nothing was asked and nothing was given` | 15 | 15 of 15 | none |
+| `buckets went down that bank` | 15 | 15 of 15 | none |
+| `Both buckets went down that bank at about half past five` | **0** | **0 of 15** | all fifteen, and it may not be brought back to raise a number |
+
+**NO RELAY WAS BROKEN, LOWERED OR RAISED. THE EXACT EIGHT-WORD BUCKETS SENTENCE STAYS AT ZERO, AS IN THE LAST TWENTY MORNINGS OF VOLUME 11, AND THE LOOSENED FORM IS AT FIFTEEN OF FIFTEEN AGAINST A FLOOR OF THIRTEEN OF FIFTEEN. THE ONLY SENTENCE THE REPAIR PASS TOOK OUT OF A LEDGER WAS A CLERK'S NOT-ASKING RESTATED TWICE IN ONE PARAGRAPH ON EIGHT MORNINGS, AND THE RELAY IS ON EVERY ONE OF THEM.**
+
+## 7. WHAT IS NOT ON A PAGE, AND WAS NOT PAID
+
+**NO MORNING-AFTER-THE-COUNT ORDINAL IS ON ANY PAGE OF THIS BLOCK, AS THE BLOCK'S OWN FIRST RULE REQUIRES, AND THE LADDER OF TWO HUNDRED AND SEVENTY-SIXTH THROUGH THE TWO HUNDRED AND NINETIETH IS A DIFFERENT LADDER AND IS ON ALL FIFTEEN.** No figure about the length of the third month. No figure about the length of the fourth month. No size for the error in the fourth of the four figures on that wall. No night named. The bid was not run on any of the fifteen days and nothing was proposed about closing it in a mouth or in a page. The body four hundred miles off has no face and nobody watched it. The man of about sixty-four was given nothing and asked nothing on all fifteen days. The protagonist asked nobody one question on any of the fifteen days and was not thanked for that and **nobody noticed it.**
+
+## 8. THE DAY MAP, PRINTED UNDER ITS ASSUMPTION, AND WHETHER THE LAST DAY OF THIS BLOCK IS INSIDE THE THIRD MONTH
+
+**THE THIRD MONTH HAS THIRTY-ONE DAYS IS THE ASSUMPTION AND IT IS PART OF THE MAP. THE FIFTEEN DATES PRINTED ARE THE NINETEENTH OF THE THIRD MONTH TO THE THIRTY-FIRST OF THE THIRD MONTH, AND THEN THE FIRST AND SECOND OF THE FOURTH MONTH. EVERY CHAPTER PRINTS ITS OWN DATE AND NO CHAPTER PRINTS A SECOND ONE, AND THE WHOLE FIFTEEN-FILE SET WAS CHECKED BY PARSING `on the <ordinal> of the <month> month` OUT OF EVERY FILE: FIFTEEN OF FIFTEEN MATCH THE DAY MAP EXACTLY.**
+
+**AND THE ANSWER TO THE QUESTION THE PROMPT ASKS: DAY 13, CHAPTER 563, IS THE THIRTY-FIRST OF THE THIRD MONTH AND THE MONTH ENDS ON IT, AND DAYS 14 AND 15 ARE INSIDE THE FOURTH MONTH, NOT PAST THE END OF THIS BLOCK'S MAP. A CLERK SAYS OUT LOUD ON DAY 13 THAT SHE IS NOT ENTERING WHETHER THAT MORNING IS THE LAST OF THE MONTH AND GIVES A REASON, AND A MAN WHO KEEPS A TALLY HAS A BLANK PAGE IN HIS OWN BOOK AND IS NOT WRITING ON IT. NO FIGURE ABOUT THE LENGTH OF THAT MONTH IS ON ANY PAGE.** The second half of Volume 12's day map therefore depends on a count that has not been made, and that count is Chapter 590 in block three, and this block printed nothing that could be corrected if it comes back other than thirty-one.

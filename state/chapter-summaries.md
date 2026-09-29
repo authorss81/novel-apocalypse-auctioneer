@@ -622,3 +622,43 @@ The test applied to itself and failed: `That book has four lines on it and the o
 The boy of about nineteen read the two third lines out loud, standing between that first table and that second table at about eleven, one after the other, in the ordinary voice, in front of about nineteen people, and about nine people have said since that it is the first time that anybody in that yard has read the two third lines against each other out loud, on purpose, with both of them in his mouth at once. He said of the copy's third line: `And that one is nothing, and I have read it out loud, and it is still nothing, and it is going to be nothing this afternoon and it was nothing yesterday morning.` A clerk of nineteen years entered that a boy said a thing out loud in that yard and entered the thing, and entered that an empty line was read out loud in that yard in front of about nineteen people and that reading it out loud did not make it a figure, and entered that she is not going to enter that it did not make it a figure either. And the ledger of that chapter says, on the page: `A piece of paper with two lines on it and nothing in the third of it has been on the end of the second table in that yard for the fifteenth morning, and a boy read its empty third line out loud in front of about nineteen people this morning and it was still nothing when he had finished.`
 
 **THE DAY-48 READING IS THE FIRST TIME THAT MAN READS THAT SHEET, THE FIRST TIME THAT SHEET IS READ AS A WHOLE DOCUMENT, AND THE FIRST TIME ANYBODY SAYS OUT LOUD THAT ITS THIRD LINE IS NOT THERE. IT IS NOT THE FIRST TIME THAT SHEET OR ITS EMPTY THIRD LINE HAS BEEN READ OUT LOUD IN THAT YARD. A CLERK SAID ON DAY 15, IN AN ENTRY, THAT READING AN EMPTY LINE OUT LOUD DID NOT MAKE IT A FIGURE, AND SAID SHE WAS NOT GOING TO ENTER THAT IT DID NOT MAKE IT A FIGURE EITHER. THAT IS THIRTY-THREE DAYS BEFORE THE CLIMAX AND IT IS STILL THE TRUEST SENTENCE IN THE VOLUME ABOUT WHAT AN EMPTY LINE DOES.**
+
+---
+
+# VOLUME 12 BATCH 0001 — CHAPTERS 551 TO 565, DAYS 1 TO 15, APPENDED
+
+> **APPENDED BY THE VOLUME 12 BATCH 0001 PHASE, NOT REWRITTEN ABOVE. NO CHAPTER WAS EDITED. THE MEASUREMENTS FOR THESE FIFTEEN FILES ARE IN `state/volume-12-batch-0001-summary.md` AND EVERY FIGURE UNDER A HEADING THAT SAYS MEASURED WAS MEASURED FROM THE FIFTEEN FILES BY A SCRIPT WRITTEN IN A TEMPORARY DIRECTORY OUTSIDE THIS REPOSITORY, IMPORTING NOTHING FROM `tools/`, WITH `PYTHONDONTWRITEBYTECODE=1` EXPORTED BEFORE EVERY RUN.**
+
+## 10. THE FIFTEEN CHAPTERS AS A FIFTEEN-DAY ARC, AND THE TABLE
+
+| `c` | chapter | date | title | what the morning is for | claims | `wc -w` |
+|---|---|---|---|---|---|---|
+| 1 | 551 | the nineteenth of the third month | Nobody Asked One Word About It | a count of sheets begins at one and nobody asks about the sheet | 7 | 3,009 |
+| 2 | 552 | the twentieth of the third month | Somebody Asked Out Loud Who Has Been Down That Lane | it stays at one and a question about the lane goes unanswered | 6 | 2,636 |
+| 3 | 553 | the twenty-first of the third month | A Figure Is A Thing On A Board And Nobody Asked | two of the four figures are out and nobody has said which two | 6 | 2,683 |
+| 4 | 554 | the twenty-second of the third month | The Count Did Not Move And Nine People Noticed | the count does not move and a boy says he had hoped it would | 5 | 2,567 |
+| 5 | 555 | the twenty-third of the third month | She Read The Fourth Line | a woman of about fifty-eight stops and reads the fourth line | 6 | 2,789 |
+| 6 | 556 | the twenty-fourth of the third month | A Boy Offered To Count A Month And Was Refused | the length of the month is named again and is not paid | 6 | 2,758 |
+| 7 | 557 | the twenty-fifth of the third month | There Were Two Sheets On That Table | **a sheet with four lines arrives with this district's own nine words on it** | 7 | 3,165 |
+| 8 | 558 | the twenty-sixth of the third month | The Number Of Documents This District Does Not Own Went To Four | **three to four, with the person and the reason in the room, and no fifth** | 6 | 2,805 |
+| 9 | 559 | the twenty-seventh of the third month | Somebody Asked For A Reason For A Thing Staying Put | it stays where it is and a man gives the reason out loud | 7 | 2,832 |
+| 10 | 560 | the twenty-eighth of the third month | She Is Not Entering Where It Came From | a clerk refuses to enter it and gives the reason; a woman knows and does not say | 7 | 2,894 |
+| 11 | 561 | the twenty-ninth of the third month | He Read The Fourth Line And Went Down The Bank | **the man the third line is about reads the stranger's sheet and says nothing** | 6 | 2,761 |
+| 12 | 562 | the thirtieth of the third month | There Were Three Of Them And Nobody Came Up The Lane | the count rises to three and the count of documents does not move | 6 | 2,714 |
+| 13 | 563 | the thirty-first of the third month, and the month ends | Nobody In That Yard Could Say Whether There Was Another Morning Of It | the month ends and no figure for its length is on any page | 7 | 2,923 |
+| 14 | 564 | the first of the fourth month | A Month Turned Overnight Without Anybody In The Room | a date goes on a page and about nine people walk past it | 7 | 2,905 |
+| 15 | 565 | the second of the fourth month | A Sheet Went Up That Bank To A Shop | **a sheet leaves the table with a reason said first, and a shop is asked to hold it** | 8 | 3,098 |
+
+**TOTAL 42,539 WORDS, MEAN 2,835.9 A CHAPTER, MINIMUM 2,567 AT CHAPTER 554, MAXIMUM 3,165 AT CHAPTER 557, NONE OUTSIDE 2,200 TO 3,200. 97 COUNTED CLAIMS, 97 MATCHES, 0 MISMATCHES, AND THE PER-CHAPTER COLUMN IS IN THE TABLE ABOVE AND SUMS TO 97.**
+
+## 11. THE FIVE MOMENTS A VOLUME 12 WRAPPER NEEDS AND DOES NOT HAVE TO READ FIFTEEN CHAPTERS FOR
+
+1. **DAY 1, CHAPTER 551.** A clerk begins entering the number of sheets on the end of that second table every morning of that month and it is one, and says out loud that if it moves she is not writing why unless a person in the yard says why out loud. **A count that this district has never taken before, entered every morning, and it is not a ladder.**
+2. **DAY 7, CHAPTER 557.** A second sheet is on that table. Four lines, the third ruled and empty, the fourth carrying `The line above is a person, not named here.` in a hand that is not this district's. A man who was at the table at a quarter to eight and at a quarter to nine gives the reason out loud, the man who made the copy says out loud unasked that it is not his hand, and the man the third line is about reads the fourth line and says nothing.
+3. **DAY 8, CHAPTER 558.** The count of documents this district does not own moves from three to four at about a quarter to eight with the man who keeps a tally beside the clerk, who says the reason out loud first, and a clerk says out loud that she is not going to say what the next one will be. **No fifth was proposed.**
+4. **DAY 13, CHAPTER 563.** A person asks out loud whether there is another day of the month. A clerk says out loud that she is not going to answer and gives the reason, and a man who keeps a tally has a blank page in his own book and is not writing on it. **The month ends on that morning and no figure for its length is on any page of this block.**
+5. **DAY 15, CHAPTER 565.** A man says the reason out loud before he lifts a sheet, the count of sheets goes from three to two, and a woman of about thirty-six who keeps a scale takes it up that bank in her own two hands, puts it on her own counter with her shop open, and says again that she cannot tell which of them is this district's.
+
+## 12. WHAT THIS BLOCK DID NOT DO, AND A WRITER MUST NOT INFER THAT IT DID
+
+**It did not answer who made the sheets. It did not have anybody work out why a copy of an admission is cheaper than a copy of a figure, which is day 25 and Chapter 575 and is not this block's. It did not have the protagonist ask anybody a question, and nobody noticed that he had not. It did not fill the column for the name of whoever read a thing out loud, which was ruled and empty at about six on all fifteen days and was named more often in this block than in any fifteen mornings of Volume 11. It did not name a night, run the bid, propose closing it, pay the fifth of the five things this district does not have, advance the reading of that lot past the fourth of the five, correct a figure, add a person to this district, make a fourteenth thing, add a fifth place where those three lines can be read, or print a panel. It printed no morning-after-the-count ordinal at all, as its own first rule requires. It settled nothing about the protagonist's name and named no day for it and no person who would say it and prepared for it in nothing.**
