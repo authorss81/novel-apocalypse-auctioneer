@@ -923,3 +923,23 @@ On the fifteenth of the second month, Chapter 515, at about eleven, standing bet
 **6. AND THE FIGURES THIS PASS MOVED ARE LENGTHS AND NOT PEOPLE.** Chapter 625 at 3,199 words, Chapter 630 at 3,177, the total 46,843, the mean 3,122.9.
 
 **THE FULL RECORD IS `state/volume-13-batch-0002-summary.md` SECTION 20.**
+
+---
+
+# VOLUME 13 BATCH 0002 — CHARACTER STATE AFTER THE PROSE REPAIR, 2026-09-29
+
+> **APPENDED BY A PROSE REPAIR PASS. THIS PASS CHANGED SENTENCE AND PARAGRAPH BOUNDARIES IN THE NARRATION AND NOT ONE WORD OF ANY SPEECH. EVERY CHARACTER'S STATE IS THEREFORE EXACTLY AS IT WAS, AND WHAT IS PRINTED HERE IS THE NARRATION-LEVEL CONSEQUENCE FOR EACH FIGURE WHO SPEAKS IN THIS BLOCK, BECAUSE THE REVIEW NAMED THE NARRATION AND NOT THE PEOPLE.**
+
+**1. NO CHARACTER MOVED, SAID ANYTHING NEW, LEARNED ANYTHING, OR CEASED TO BE ASKED ANYTHING.** All eighty-six speeches are byte-identical to their state before this pass. The reversal at Chapter 625, the question, the eleven seconds and the answer, are untouched. The sentence the volume owed, paid at Chapter 626 over a table while a scraper went along the boards, is untouched. **THE ONE FACT IN A MOUTH THAT A DRAFT OF THIS REPAIR CHANGED WAS A BYSTANDER COUNT, FROM NINE TO FOUR, ON CHAPTER 626, AND IT WAS PUT BACK: EVERY LINK OF EVERY DE-RECURSED CHAIN IS NOW DERIVED FROM ITS OWN FRAME, SO NO MOUTH ATTRIBUTES A STATEMENT TO A DIFFERENT NUMBER OF PEOPLE THAN THE MANUSCRIPT DOES.**
+
+**2. THE CLERK OF NINETEEN YEARS.** Unchanged in every particular: her morning entry at about a quarter to eight, her four-o'clock entry, her figure of people who have come down that lane, the column she keeps empty on purpose, the figure of the sheet at that gatepost at four hundred and eleven, and the fact that she has not been asked why. **WHAT A READER NOW SEES DIFFERENTLY IS HER RHYTHM. HER ENTRIES ARE NO LONGER ONE UNBROKEN RUN, SO THE FIGURES IN THEM ARE SEPARATED AND CAN BE READ AS FIGURES INSTEAD OF AS A WALL.** No entry was rewritten and no figure was added, removed or moved.
+
+**3. THE MAN OF ABOUT THIRTY-FOUR WHO MENDS FENCING.** Unchanged: his right hand flat on the boards at the near end of the second table, the line he put on the book, the question he asked in the open on Chapter 617, the admission on Chapter 619 that he wrote a man down after being told not to, and his standing at that end of that table through all fifteen mornings. **THE RELAY THAT CARRIES HIS SPEECH, `read the number back to himself in a low voice`, IS ON ALL EIGHTY-SIX AND IS UNTOUCHED, AND IT IS NOW PROTECTED BY THE CUT GATE, BECAUSE ONE CUT IN AN EARLIER VERSION OF THE PASS PROMOTED A FIXED LOWER-CASE RELAY TO A SENTENCE OPENING ON ANOTHER MORNING AND THE RELAY SWEEP CAUGHT IT.**
+
+**4. THE MAN OF ABOUT THIRTY-ONE WHO DIGS LOAM.** Unchanged: mud to the knee and later to the thigh, the far end of that second table, the fifth line he has read about nine times, and the refusal to help anybody along by saying something that would make it easier. **HE IS THE FIGURE THE THREAD ABOUT BEING ASKED TURNS ON, AND HE WAS NOT ASKED ON ANY OF THE FIFTEEN MORNINGS AND WAS NOT ASKED BY THIS PASS.**
+
+**5. THE MAN OF ABOUT FIFTY-SIX.** Unchanged: the four figures off that wall twice a day, the three hundred and forty-first to the three hundred and fifty-fifth morning, the ordinary voice, and the fact that nobody in that yard has ever stopped him. **NO FIGURE OF HIS WAS CORRECTED AND THE TWO THAT ARE OUT ARE STILL OUT.**
+
+**6. THE MAN OF ABOUT SIXTY-FOUR.** Unchanged, and this is printed again because it is the finding the block refuses to soften: at the foot of that low wall with his coat folded on the stones on all fifteen mornings, on his two hundred and fifty-fifth through two hundred and sixty-ninth night of that run, given nothing and asked nothing on every one of them, and entered by a clerk at about four without being asked to be.
+
+**7. THE WOMAN OF ABOUT FIFTY-EIGHT, THE BOY OF ABOUT NINETEEN, THE MAN OF ABOUT THIRTY-TWO WHO PUTS TABLES UP, THE MAN OF ABOUT FORTY-EIGHT WHO KEEPS A TALLY, THE MAN OF ABOUT THIRTY-SEVEN WHO CUTS REEDS, THE WOMAN OF ABOUT FORTY-THREE, AND THE STRANGERS.** All unchanged in what they do and say. **THE ONLY FIGURE WHO APPEARS ON NO PAGE OF SIX HUNDRED AND THIRTY CHAPTERS IS STILL NOT NAMED, AND NO PART OF THIS PASS NAMED HIM, PREPARED HIM, OR PROMISED HIM FOR A BLOCK.**
