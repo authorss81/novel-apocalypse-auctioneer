@@ -10,47 +10,47 @@ The man of fifty-six said the four off that wall in the ordinary voice and got a
 
 ---
 
-At about ten past eight the clerk of nineteen years put the number of sheets on the end of that second table on her own page, and then said the thing out loud, and the boy counted what she said  and got eighty-eight  and read the number back to himself in a low voice.
+At about ten past eight the clerk of nineteen years put the number of sheets on the end of that second table on her own page, and then said the thing out loud, and the boy counted what she said and got eighty-eight and read the number back to himself in a low voice.
 
 "**I am going to write the number of sheets on the end of that table down every morning of this month, and this morning it is one, and I am writing it because a yard that has a sheet of paper lying on a table in it ought to be able to say how many sheets, and I am not writing a word about where it came from, and if the number moves I am not writing why unless a person in this yard says why out loud.**"
 
 A clerk of nineteen years entered that a clerk said a thing out loud in that yard and entered the thing, and entered that the number of sheets on the end of that second table is one this morning, and entered that she is going to enter that number every morning of this month and that it is a count of a morning and not a figure about a thing, and the record about the not asking says not asked.
 
-The boy of about nineteen said one thing out loud at about half past eight, in about eleven seconds, and the boy counted what he said  and got sixty-nine  and read the number back to himself in a low voice.
+The boy of about nineteen said one thing out loud at about half past eight, in about eleven seconds, and the boy counted what he said and got sixty-nine and read the number back to himself in a low voice.
 
 "**There is one sheet on the end of that table and there was one yesterday and I counted it at about eight and again at about ten and it was one both times and I did not put one there in between, and about four people in this yard have said that a count of one is still a count and is not a way of filling a line.**"
 
 A clerk of nineteen years entered that a boy said a thing out loud in that yard and entered the thing, and entered that a figure a boy counts with his own eyes is not a figure anybody can check, and the record about the not asking says not asked.
 
-The man of about twenty-nine who drives that cart came up that bank at about nine with the near wheel still dragging and stood at the near end of that second table for about a minute and a half without touching anything on it, and then said one thing out loud, in about eleven seconds, to about nineteen people, and the boy counted what he said  and got seventy-one  and read the number back to himself in a low voice.
+The man of about twenty-nine who drives that cart came up that bank at about nine with the near wheel still dragging and stood at the near end of that second table for about a minute and a half without touching anything on it, and then said one thing out loud, in about eleven seconds, to about nineteen people, and the boy counted what he said and got seventy-one and read the number back to himself in a low voice.
 
 "**I put that one there on the first morning of the month before at about ten past eight in front of about nineteen people and nobody asked me one word about it, and I have been standing here fifty mornings waiting for somebody to ask me, and nobody has, and this is the first morning of a new one and I am not going to be asked about it today either.**"
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that a man who put a sheet on a table in that yard in the open fifty mornings ago was not asked about it on this morning, and the record about the not asking says not asked.
 
-The man of about forty-eight who keeps a tally was at the east end of that yard with the flat book under his left arm, where he has stood for about thirty years, and said one thing out loud, in about eleven seconds, and the boy counted what he said  and got sixty-four  and read the number back to himself in a low voice.
+The man of about forty-eight who keeps a tally was at the east end of that yard with the flat book under his left arm, where he has stood for about thirty years, and said one thing out loud, in about eleven seconds, and the boy counted what he said and got sixty-four and read the number back to himself in a low voice.
 
 "**There is a month in this year that nobody in this yard has ever counted off a board, and I am in the middle of it, and I am not going to count a month I am living in, and I am saying that out loud in front of all of you so that it is in somebody's ear before the end of it.**"
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that a man who keeps a tally has said out loud in that yard that there is a month in this year this district has not counted, and entered that she is not entering a figure for it, and the record about the not asking says not asked.
 
-The woman of about thirty-six who keeps a scale was at the near end of that first table at about half past nine with her shop open behind her, and said one thing out loud, in about nine seconds, and the boy counted what she said  and got seventy-four  and read the number back to himself in a low voice.
+The woman of about thirty-six who keeps a scale was at the near end of that first table at about half past nine with her shop open behind her, and said one thing out loud, in about nine seconds, and the boy counted what she said and got seventy-four and read the number back to himself in a low voice.
 
 "**My shop is open and there is a scale in it, and that is the only thing I have ever had that a person can put something on and find out whether it is what I told them it was, and I am not saying a page is a scale, and I am saying that a person cannot check a page, and I have been standing at that counter for twenty years being checked.**"
 
 A woman of about thirty-six who keeps a scale said a thing out loud in that yard and a clerk entered the thing, and entered that her shop was open behind her the whole time she was standing there, and the record about the not asking says not asked.
 
-The clerk of nineteen years then said one thing out loud at about ten, in about nine seconds, to about nineteen people, and the boy counted what she said  and got seventy-one  and read the number back to himself in a low voice.
+The clerk of nineteen years then said one thing out loud at about ten, in about nine seconds, to about nineteen people, and the boy counted what she said and got seventy-one and read the number back to himself in a low voice.
 
 "**I wrote two sentences about that sheet before I came out of my own door this morning and I am refusing both of them out loud in front of all of you, and the reason is that the two of them together would tell a stranger where it came from, and this yard is not a place where a thing gets located out loud before anybody has asked it one question.**"
 
-A clerk wrote two sentences this morning before she came out and a clerk entered that, and that she refused both of them out loud, and entered that she has entered that she wrote them and not what they are,and the record about the not asking says not asked. and the record about the not asking says not asked.
+A clerk wrote two sentences this morning before she came out and a clerk entered that, and that she refused both of them out loud, and entered that she has entered that she wrote them and not what they are, and the record about the not asking says not asked.
 
-The man of about thirty-four who mends fencing stood at the end of that second table with his right hand flat on the boards for about four minutes and then took it up and said one thing out loud, in about nine seconds, to about nineteen people, and the boy counted what he said  and got fifty-five  and read the number back to himself in a low voice.
+The man of about thirty-four who mends fencing stood at the end of that second table with his right hand flat on the boards for about four minutes and then took it up and said one thing out loud, in about nine seconds, to about nineteen people, and the boy counted what he said and got fifty-five and read the number back to himself in a low voice.
 
 "**I came up that bank for a length of string, and the second rail of that gate wants three turns put on it before this wind gets at it, and I am going to go and put three on it, and there is about nine lengths to do before the light goes off this yard.**"
 
-A clerk of nineteen years entered that a man put his right hand flat on the boards of that second table this morning and did not put it on the stone and did not put it on the sheet, and entered that he said a thing out loud and entered the thing,and the record about the not asking says not asked. and the record about the not asking says not asked.
+A clerk of nineteen years entered that a man put his right hand flat on the boards of that second table this morning and did not put it on the stone and did not put it on the sheet, and entered that he said a thing out loud and entered the thing, and the record about the not asking says not asked.
 
 About four people at that first table looked at the end of that second table after that man said it, and nobody said anything to anybody, and about nine people in that yard have said since that a yard which has spent a month saying things out loud about a piece of paper has not asked one word this morning about the piece of paper itself, and that the man who put it there has been standing next to it since about nine waiting for it.
 

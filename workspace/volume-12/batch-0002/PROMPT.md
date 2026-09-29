@@ -105,7 +105,7 @@
 
 | the string | the rule for this block | measured over Block 0001 |
 |---|---|---|
-| `the record about the not asking says not asked` | once a chapter, every chapter, not lowered by deletion | 121, on 15 of 15 days |
+| `the record about the not asking says not asked` | once a chapter, every chapter, not lowered by deletion | **100, on 15 of 15 days, re-derived on 2026-09-29 after the review fix of block 0001 removed twenty-one doubled restatements from fourteen of its chapters; the figure of 121 printed here before that fix was a true count of what was on the page and a false count of what should have been on the page, and a doubled restatement is invisible to a per-chapter count of a string because it is two occurrences of a string that is supposed to be there** |
 | `read the number back to himself in a low voice` | once a chapter, every chapter, and once for every counted claim | 97, on 15 of 15 days |
 | `at the foot of that low wall with his coat folded on the stones` | **A FLOOR AND NOT A TARGET.** It may be silent on days, it may not be deleted, it may not be repaired into a target, and any silence must be measured and reported | 15, on 15 of 15 days |
 | `got it up about nine inches` | once a chapter, every chapter | 15, on 15 of 15 days |

@@ -633,23 +633,23 @@ The boy of about nineteen read the two third lines out loud, standing between th
 
 | `c` | chapter | date | title | what the morning is for | claims | `wc -w` |
 |---|---|---|---|---|---|---|
-| 1 | 551 | the nineteenth of the third month | Nobody Asked One Word About It | a count of sheets begins at one and nobody asks about the sheet | 7 | 3,009 |
-| 2 | 552 | the twentieth of the third month | Somebody Asked Out Loud Who Has Been Down That Lane | it stays at one and a question about the lane goes unanswered | 6 | 2,636 |
-| 3 | 553 | the twenty-first of the third month | A Figure Is A Thing On A Board And Nobody Asked | two of the four figures are out and nobody has said which two | 6 | 2,683 |
-| 4 | 554 | the twenty-second of the third month | The Count Did Not Move And Nine People Noticed | the count does not move and a boy says he had hoped it would | 5 | 2,567 |
-| 5 | 555 | the twenty-third of the third month | She Read The Fourth Line | a woman of about fifty-eight stops and reads the fourth line | 6 | 2,789 |
-| 6 | 556 | the twenty-fourth of the third month | A Boy Offered To Count A Month And Was Refused | the length of the month is named again and is not paid | 6 | 2,758 |
-| 7 | 557 | the twenty-fifth of the third month | There Were Two Sheets On That Table | **a sheet with four lines arrives with this district's own nine words on it** | 7 | 3,165 |
-| 8 | 558 | the twenty-sixth of the third month | The Number Of Documents This District Does Not Own Went To Four | **three to four, with the person and the reason in the room, and no fifth** | 6 | 2,805 |
-| 9 | 559 | the twenty-seventh of the third month | Somebody Asked For A Reason For A Thing Staying Put | it stays where it is and a man gives the reason out loud | 7 | 2,832 |
-| 10 | 560 | the twenty-eighth of the third month | She Is Not Entering Where It Came From | a clerk refuses to enter it and gives the reason; a woman knows and does not say | 7 | 2,894 |
-| 11 | 561 | the twenty-ninth of the third month | He Read The Fourth Line And Went Down The Bank | **the man the third line is about reads the stranger's sheet and says nothing** | 6 | 2,761 |
-| 12 | 562 | the thirtieth of the third month | There Were Three Of Them And Nobody Came Up The Lane | the count rises to three and the count of documents does not move | 6 | 2,714 |
-| 13 | 563 | the thirty-first of the third month, and the month ends | Nobody In That Yard Could Say Whether There Was Another Morning Of It | the month ends and no figure for its length is on any page | 7 | 2,923 |
-| 14 | 564 | the first of the fourth month | A Month Turned Overnight Without Anybody In The Room | a date goes on a page and about nine people walk past it | 7 | 2,905 |
+| 1 | 551 | the nineteenth of the third month | Nobody Asked One Word About It | a count of sheets begins at one and nobody asks about the sheet | 7 | 2,991 |
+| 2 | 552 | the twentieth of the third month | Somebody Asked Out Loud Who Has Been Down That Lane | it stays at one and a question about the lane goes unanswered | 6 | 2,609 |
+| 3 | 553 | the twenty-first of the third month | A Figure Is A Thing On A Board And Nobody Asked | two of the four figures are out and nobody has said which two | 6 | 2,674 |
+| 4 | 554 | the twenty-second of the third month | The Count Did Not Move And Nine People Noticed | the count does not move and a boy says he had hoped it would | 5 | 2,558 |
+| 5 | 555 | the twenty-third of the third month | She Read The Fourth Line | a woman of about fifty-eight stops and reads the fourth line | 6 | 2,771 |
+| 6 | 556 | the twenty-fourth of the third month | A Boy Offered To Count A Month And Was Refused | the length of the month is named again and is not paid | 6 | 2,749 |
+| 7 | 557 | the twenty-fifth of the third month | There Were Two Sheets On That Table | **a sheet with four lines arrives with this district's own nine words on it** | 7 | 3,156 |
+| 8 | 558 | the twenty-sixth of the third month | The Number Of Documents This District Does Not Own Went To Four | **three to four, with the person and the reason in the room, and no fifth** | 6 | 2,787 |
+| 9 | 559 | the twenty-seventh of the third month | Somebody Asked For A Reason For A Thing Staying Put | it stays where it is and a man gives the reason out loud | 7 | 2,823 |
+| 10 | 560 | the twenty-eighth of the third month | She Is Not Entering Where It Came From | a clerk refuses to enter it and gives the reason; a woman knows and does not say | 7 | 2,885 |
+| 11 | 561 | the twenty-ninth of the third month | He Read The Fourth Line And Went Down The Bank | **the man the third line is about reads the stranger's sheet and says nothing** | 6 | 2,752 |
+| 12 | 562 | the thirtieth of the third month | There Were Three Of Them And Nobody Came Up The Lane | the count rises to three and the count of documents does not move | 6 | 2,705 |
+| 13 | 563 | the thirty-first of the third month, and the month ends | Nobody In That Yard Could Say Whether There Was Another Morning Of It | the month ends and no figure for its length is on any page | 7 | 2,905 |
+| 14 | 564 | the first of the fourth month | A Month Turned Overnight Without Anybody In The Room | a date goes on a page and about nine people walk past it | 7 | 2,887 |
 | 15 | 565 | the second of the fourth month | A Sheet Went Up That Bank To A Shop | **a sheet leaves the table with a reason said first, and a shop is asked to hold it** | 8 | 3,098 |
 
-**TOTAL 42,539 WORDS, MEAN 2,835.9 A CHAPTER, MINIMUM 2,567 AT CHAPTER 554, MAXIMUM 3,165 AT CHAPTER 557, NONE OUTSIDE 2,200 TO 3,200. 97 COUNTED CLAIMS, 97 MATCHES, 0 MISMATCHES, AND THE PER-CHAPTER COLUMN IS IN THE TABLE ABOVE AND SUMS TO 97.**
+**TOTAL 42,350 WORDS, MEAN 2,823.3 A CHAPTER, MINIMUM 2,558 AT CHAPTER 554, MAXIMUM 3,156 AT CHAPTER 557, NONE OUTSIDE 2,200 TO 3,200. 97 COUNTED CLAIMS, 97 MATCHES, 0 MISMATCHES, AND THE PER-CHAPTER COLUMN IS IN THE TABLE ABOVE AND SUMS TO 97. **THE PER-CHAPTER `wc -w` COLUMN AND THE TOTAL WERE RE-DERIVED ON 2026-09-29 AFTER THE REVIEW FIX NAMED AT `state/volume-12-batch-0001-summary.md` SECTION 13, AND EVERY CELL IS THE FIGURE ON THE FILE AS IT NOW STANDS.**
 
 ## 11. THE FIVE MOMENTS A VOLUME 12 WRAPPER NEEDS AND DOES NOT HAVE TO READ FIFTEEN CHAPTERS FOR
 
