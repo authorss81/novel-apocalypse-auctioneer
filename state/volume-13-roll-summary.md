@@ -22,11 +22,17 @@
 
 ---
 
-## 1. The eighteen ladder intercepts, re-anchored on Chapter 650, and the two rows that are not ladders
+## 1. The eighteen ladder intercepts, and the one you must not inherit from this table, and the two rows that are not ladders
 
-**`c` is the day and runs 1 to 50 and `c = 0` for your volume is Chapter 650. The formula is intercept plus `c` and nothing else. THE ROW BELOW WAS RE-DERIVED FROM THE FIFTY FILES OF VOLUME 13 AND NOT INHERITED FROM `outline/volume-13.md` OR FROM ANY BLOCK RECORD, AND IT IS THE SAME EIGHTEEN FIGURES THOSE DOCUMENTS PRINT, WHICH IS REPORTED AND IS NOT THE BASIS OF THE FIGURE. THE CHECK IS ARITHMETIC AND IT PASSES ON ALL EIGHTEEN ROWS: the day-50 figure minus fifty is the intercept, and the day-1 figure minus one is the intercept, and the two agree.**
+> ### CORRECTED IN PLACE 2026-09-29, AND READ THIS BEFORE THE TABLE. THE COLUMN HEADINGS BELOW WERE WRONG AND THE NUMBERS WERE RIGHT.
+>
+> **THIS SECTION WAS WRITTEN WITH VOLUME 13'S OWN ANCHOR AND THEN RELABELLED WITH YOURS. THE COLUMN THAT READ `intercept, c = 0 = Chapter 650` HELD THE FIGURE CHAPTER 600 PRINTS, AND EVERY ONE OF ITS SEVENTEEN VALUES IS FIFTY BELOW THE FIGURE CHAPTER 650 PRINTS. THE NUMBERS WERE NEVER WRONG; THE LABEL WAS. `state/volume-13-close.md` SECTION 4, WHICH IS WHERE THE SAME EIGHTEEN FIGURES WERE ACTUALLY MEASURED, SAID `intercept, re-derived at c = 0 = Chapter 600` ALL ALONG AND WAS RIGHT, AND THIS FILE OVERWROTE THAT CORRECT LABEL. A WRITER WHO TOOK THE OLD LABEL AT ITS WORD IS EXACTLY FIFTY LOW ON EVERY FIGURE ON EVERY DAY OF YOUR VOLUME, AND NO CONSTANT-OFFSET TEST WILL SEE IT BECAUSE THE DIFFERENCE IS STILL CONSTANT. THIS IS THE ERROR THE HINGE OF THIS REPOSITORY KEEPS MAKING AND IT IS A CONSTANT OFFSET AND IT IS INVISIBLE TO EVERY TOOL BUILT TO CHECK A LADDER.**
+>
+> **YOUR ROW, `c = 0` = CHAPTER 650, IS THE `at c = 50, Ch 650` COLUMN OF THE TABLE AS IT NOW STANDS, PLUS ITS OWN FIFTY, AND IT IS PRINTED IN FULL AT SECTION 1.4 BELOW. EIGHTEEN FIGURES, EIGHTEEN VERIFIED ON THE PAGE OF CHAPTER 650, AND NOT ONE OF THEM INHERITED FROM A DOCUMENT.**
 
-| # | the figure | **intercept, `c = 0` = Chapter 650** | at `c = 1`, Ch 651 | at `c = 50`, Ch 700 | cells of 50 | failures |
+**`c` is the day and runs 1 to 50 and `c = 0` for your volume is Chapter 650. The formula is intercept plus `c` and nothing else. THE THREE COLUMNS BELOW ARE VOLUME 13'S ANCHOR AND THEY ARE KEPT AS THEY WERE MEASURED, BECAUSE THE CLOSE MEASURED THEM AT CHAPTER 600 AND A FIGURE THAT WAS MEASURED AT AN ANCHOR AND THEN MOVED BY ADDITION IS NOT THE SAME FIGURE AS ONE THAT WAS MEASURED AT THE NEW ANCHOR. READ SECTION 1.4 FOR YOUR OWN ANCHOR, WHICH WAS TAKEN OFF THE PAGE OF CHAPTER 650 ITSELF. THE CHECK IS ARITHMETIC AND IT PASSES ON ALL EIGHTEEN ROWS: the day-50 figure minus fifty is the intercept, and the day-1 figure minus one is the intercept, and the two agree.**
+
+| # | the figure | **at `c = 0`, Ch 600 (Volume 13's anchor — NOT yours)** | at `c = 1`, Ch 601 | at `c = 50`, Ch 650 | cells of 50 | failures |
 |---|---|---|---|---|---|---|
 | 1 | the days on that board | **498** | 499 | **548** | 50 | 0 |
 | 2 | the days the train on that siding has stood | **814** | 815 | **864** | 50 | 0 |
@@ -47,7 +53,38 @@
 | 17 | **the mornings a man of about fifty-six has read four figures off that wall** | **the three hundred and twenty-fifth** | **the three hundred and twenty-sixth** | **the three hundred and seventy-fifth** | 50 | 0 |
 | 18 | the days a sheet has been on that second table | **98** | **99** | **148** | 50 | 0 |
 
-**THE CONSTANT ROW, WHICH IS THE VALUE AT `c = 0` AND NOT THE CONSTANT: `498, 814, 528, 489, 248, 381, 203, 208, 278, 217, 339, —, 239, 238, 157, 143, 325, 98`. THE FIGURES FIFTY BELOW IT ON EVERY ROW ARE THE VOLUME 12 INTERCEPTS AND MUST NOT BE USED, AND THEY ARE STILL PRINTED IN THE INHERITED TEXT OF `outline/volume-13.md` AND A WRITER WHO PICKS THEM UP IS EXACTLY FIFTY LOW ON EVERY FIGURE ON EVERY DAY OF YOUR VOLUME, AND NO CONSTANT-OFFSET TEST WILL SEE IT.**
+**THE CHAPTER 600 CONSTANT ROW, WHICH IS THE ROW YOU MUST NOT INHERIT: `498, 814, 528, 489, 248, 381, 203, 208, 278, 217, 339, —, 239, 238, 157, 143, 325, 98`. IT IS CORRECT FOR CHAPTER 600 AND IT IS FIFTY LOW ON EVERY ROW FOR YOU. THE FIGURES FIFTY BELOW IT AGAIN ON EVERY ROW ARE THE VOLUME 12 INTERCEPTS AT CHAPTER 550 AND ARE FIFTY LOW ON EVERY ROW FOR YOU TOO, AND BOTH ROWS ARE STILL PRINTED IN INHERITED TEXT, AND THE SECOND OF THEM IS WHAT SENT A WRITER LOOKING IN THE WRONG FILE.**
+
+### 1.4 THE ROW THAT IS YOURS, RE-ANCHORED ON THE PAGE OF CHAPTER 650 AND NOT INHERITED FROM ANY DOCUMENT
+
+**`c = 0` IS CHAPTER 650. THE LADDER IS INTERCEPT PLUS `c` AND NOTHING ELSE. THESE EIGHTEEN FIGURES ARE YOUR INTERCEPTS. EIGHTEEN OF EIGHTEEN WERE FOUND ON THE PAGE OF `chapters/volume-13/chapter-0650.md` IN THE SPELLING THIS MANUSCRIPT USES, INCLUDING THE HYPHENATED COMPOUND TENS, THE `a hundred and NN` ELISION, AND THE ORDINAL FORMS ON ROWS 13, 14 AND 17. ROW 12 IS A CONSTANT AND IS NOT A LADDER. THIS ROW IS FIFTY ABOVE THE CHAPTER 600 CONSTANT ROW ON EVERY SINGLE FIGURE, AND THAT IS THE ONLY THING THAT CHANGED, AND IT IS A CONSTANT, AND THAT IS WHY NO SLOPE TEST AND NO ANCHOR TEST AND NO CONSISTENCY CHECK IN THIS REPOSITORY WILL EVER REPORT IT.**
+
+| # | the figure | **intercept, `c = 0` = Chapter 650 — YOURS** | at `c = 1`, Ch 651 | at `c = 50`, Ch 700 | in the words of Chapter 650 |
+|---|---|---|---|---|---|
+| 1 | the days on that board | **548** | 549 | **598** | *the board carries five hundred and forty-eight* |
+| 2 | the days the train on that siding has stood | **864** | 865 | **914** | *the train on that siding has stood eight hundred and sixty-four days* |
+| 3 | the days nobody has entered anything | **578** | 579 | **628** | *nobody has entered anything for five hundred and seventy-eight* |
+| 4 | the days from the second of January | **539** | 540 | **589** | *five hundred and thirty-nine days separate the second of January and this morning* |
+| 5 | how long the bid has been open | **298** | 299 | **348** | *two hundred and ninety-eight days is how long the bid has been open* |
+| 6 | how far back the ninth of the nine printed nights is | **431** | 432 | **481** | *the ninth of the nine printed nights is four hundred and thirty-one days back* |
+| 7 | how far behind the figure on the second line is | **253** | 254 | **303** | *two hundred and fifty-three* |
+| 8 | how long the rule said out loud has stood | **258** | 259 | **308** | *two hundred and fifty-eight* |
+| 9 | how long since the first day of the eighth month | **328** | 329 | **378** | *three hundred and twenty-eight* |
+| 10 | how far past a printing a body four hundred miles off is | **267** | 268 | **317** | *two hundred and sixty-seven days past a printing it did not make* |
+| 11 | the age of the figure on the sheet at that gatepost | **389** | 390 | **439** | *three hundred and eighty-nine* |
+| 12 | **the figure on the sheet at that gatepost** | **NOT A LADDER AND NOT AN INTERCEPT YOU ADD TO.** It is four hundred and eleven, a count of the people who answered a door, and it has no day-count of its own and it did not move on one of the fifty mornings of Volume 13. **ITS AGE AS A FIGURE ABOUT THE FIGURE IS ROW 11, AND ROW 11 IS A LADDER** | — | **411** | *four hundred and eleven* |
+| 13 | the night the man of about sixty-four is on | **the two hundred and eighty-ninth** | the two hundred and ninetieth | **the three hundred and thirty-ninth** | *two hundred and eighty-nine nights* |
+| 14 | the nights of that run he has slept on | **288** | 289 | **338** | *slept on two hundred and eighty-eight of them* |
+| 15 | the marks cut off that board since the mark for the first of the twelfth month | **207** | 208 | **257** | *two hundred and seven marks have been cut off that board* |
+| 16 | the marks in chalk along the edge of that second table | **193** | 194 | **243** | *there are a hundred and ninety-three marks in chalk* |
+| 17 | **the mornings a man of about fifty-six has read four figures off that wall** | **the three hundred and seventy-fifth** | the three hundred and seventy-sixth | **the four hundred and twenty-fifth** | *this is the three hundred and seventy-fifth of those mornings* |
+| 18 | the days a sheet has been on that second table | **148** | 149 | **198** | *the copy at the near end of them has now been on that wood for a hundred and forty-eight mornings* |
+
+**THE ROW AS A RUN, WHICH IS HOW A WRITER WILL COPY IT: `548, 864, 578, 539, 298, 431, 253, 258, 328, 267, 389, 411, 289, 288, 207, 193, 375, 148`. ROW 12 IS THE CONSTANT AND IS IN THE RUN ONLY SO THAT THE RUN HAS EIGHTEEN PLACES IN IT; ROW 17 IS WRITTEN AS THREE HUNDRED AND SEVENTY-FIVE.**
+
+**THE ANCHOR TEST THAT WOULD HAVE CAUGHT THE ERROR THIS FILE SHIPPED, AND IT IS NOT A SLOPE TEST AND NOT A CONSISTENCY TEST, BECAUSE THE WRONG ROW WAS PERFECTLY CONSISTENT WITH ITSELF. OPEN THE PAGE OF CHAPTER 650 AND FIND THE FIGURE. THAT IS THE ONLY TEST. THE SLOPE TEST PASSED ON THE WRONG ROW. THE ARITHMETIC CHECK IN THE PARAGRAPH ABOVE THE FIRST TABLE PASSED ON THE WRONG ROW. EVERY DAY-1 CELL WAS THE SUCCESSOR OF THE INTERCEPT ON THE WRONG ROW. A ROW THAT IS WRONG BY A CONSTANT IS WRONG IN EVERY PROPERTY A LADDER HAS EXCEPT ONE, AND THAT ONE PROPERTY IS BEING THE RIGHT NUMBER ON THE PAGE.**
+
+**AND WHERE BOTH WRONG ROWS ARE STILL PRINTED, SO THAT YOU GO AND LOOK AT NEITHER: THE CHAPTER 600 ROW IS THE COLUMN HEADED `intercept, re-derived at c = 0 = Chapter 600` IN `outline/volume-13.md` SECTION 8 AND IS ALSO PRINTED AS A NAMED RUN BESIDE THAT TABLE, AND THE CHAPTER 550 ROW IS THE COLUMN HEADED `Volume 12's own intercept (Ch 550), fifty out` IN THAT SAME TABLE AND IS ALSO PRINTED AS A NAMED RUN BESIDE THE TABLE AT `outline/volume-12.md` SECTION 7. `outline/volume-13.md` IS CORRECT ON BOTH OF THESE AND SAYS SO IN ITS OWN WORDS; IT IS THE RELABELLED COLUMN IN THE TABLE ABOVE THAT WAS WRONG, AND NOT THAT FILE.**
 
 ### 1.1 THE TWO ROWS A WRITER MUST NOT BUILD A LADDER FOR, AND BOTH ARE TRUE AGAIN
 
