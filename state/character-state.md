@@ -1095,3 +1095,49 @@ On the fifteenth of the second month, Chapter 515, at about eleven, standing bet
 ## THE COLUMN FOR THE NAME OF WHOEVER READ A THING OUT LOUD, AND ITS STATE
 
 **RULED AND EMPTY AT ABOUT SIX ON ALL FIFTY MORNINGS. NAMED FIFTY-NINE TIMES ACROSS THE FIFTY FILES. NEVER FILLED. NO PERSON APPOINTED TO IT. NO STRANGER ENTERED IN IT. NEITHER THE MAN WHO SAID NO NOR THE MAN WHO ANSWERED A STRANGER ABOUT HIMSELF NOR THE MAN WHO SAID WHAT HIS OWN YARD IS FOR IS IN IT. IT IS EMPTIER AT THE FIFTIETH MORNING THAN IT WAS AT THE FIRST, BECAUSE A CLERK WHO HAS JUST ENTERED A REFUSAL ON IT NAMED IT AGAIN AND PUT NOBODY IN IT AND SAID SO IN HER OWN BOOK. NO COLUMN WAS RULED ON ANY OF THE FIFTY DAYS AND THE COUNT OF COLUMNS OF NOT-ASKINGS IS FOUR AND DID NOT MOVE.**
+
+---
+
+# VOLUME 14 BLOCK 0001 — CHARACTER STATE AFTER CHAPTER 665
+
+> **APPENDED BY THE BATCH THAT WROTE CHAPTERS 651 TO 665. AGES ARE AS THE PAGES CARRY THEM AND NOBODY'S AGE MOVED IN THIS BLOCK.**
+
+## THE MAN OF ABOUT THIRTY-FOUR WHO MENDS FENCING, THE PROTAGONIST, UNNAMED
+
+Came up that bank before the clerk had that book open on all fifteen mornings and did not say the sentence about what his yard is for on any of them, having said out loud on the fiftieth morning of the last volume that he was not going to say it twice. **Said one thing out loud in this block, on Chapter 653, about a rail he put in that fence about four weeks ago and a man who puts his own two hands on it every morning at about eleven and does not lean on it.** Was at the bottom of that bank and in the ditch for about two hours before the light came on the morning of Chapter 658, came up with mud to the knee of his own left leg that was not off that bank, and nobody at that wall said a word about it and he did not. **His name is on no page of these fifteen chapters and the string `Adrian` is on no page of them.** He is not in the column for the name of whoever read a thing out loud and no person appointed him to it.
+
+## THE MAN OF ABOUT THIRTY-ONE WHO DIGS LOAM, UNNAMED, AND THE ONE THE FIFTH LINE NAMES
+
+Said one thing out loud in this block, on Chapter 654, about not having once put his own spade down while he was standing at that table. At the far end of that second table at about eleven on every morning of the block with his own spade against the leg of it and his own two hands on the rail, and on the morning of Chapter 655 he came up that bank at about half past six and watched the whole ten minutes of the count without moving and said nothing at all to anybody, and on the morning of Chapter 660 he had been at the bottom of that bank since about half past five and in the ditch since before it was light. **On Chapter 662 he was at that table at about eleven and was not at it in the afternoon, and nobody in that yard asked him where he was, and a clerk entered that and entered no reason, and the record about the not asking says not asked.** He is still paid nothing, he was not paid on any of the fifteen mornings, he is not asked one thing about what he is to be used for on any of them, and he is not in the column.
+
+## A CLERK OF NINETEEN YEARS
+
+Enters every count before anything else, at the near end of that first table at about a quarter to eight and again at about four. **On Chapter 655 she counted the sixth month of this year off that board with a finger on the wood, in the open, in daylight, with about nineteen people at that wall, in about ten minutes, and got thirty-one, and said the figure out loud in the ordinary voice, and the boy counted what she said, and she entered that the count of counted months is six and was five yesterday, and she entered that it is a count and is kept in a different book from the wall.** Said one thing out loud on twelve of the fifteen mornings and once on Chapter 660. On Chapter 665 she said out loud that there are two fifths in that book and that she has put them next to each other on purpose. She is not in the column and nobody appointed her to it and she is not paid and nobody has asked her about that.
+
+## THE MAN OF ABOUT FIFTY-SIX
+
+Read the four off that wall at about a quarter to eight and again at about four on all fifteen mornings, in the ordinary voice, got all four both times, and **was not asked what one of them is for on any of the fifteen and was not asked one thing about any of the four.** On the morning of Chapter 655 he read his four at about a quarter to eight with his own back to about nineteen people counting a month off a board six feet away from him, and nobody stopped him. About a quarter to eight and about four are the only two numbers of people anybody in that yard keeps about him. He said nothing out loud in this block.
+
+## THE MAN OF ABOUT SIXTY-FOUR
+
+At the foot of that low wall with his coat folded on the stones beside him and nothing in his hands on all fifteen mornings, from his two hundred and ninetieth night of that run to his three hundred and fourth, having slept on two hundred and eighty-nine of the first through three hundred and three of the last. **Given nothing on all fifteen and asked nothing on all fifteen, and the block did not soften one of them and did not put a fifth question to him.** On the morning of Chapter 655 he was not counted and has not been counted on any morning.
+
+## THE BOY OF ABOUT NINETEEN
+
+Counted every speech in that yard and read the number back to himself in a low voice, twenty-nine times across fifteen mornings, and the relay equals the claim count. **On Chapter 655 he counted the marks off that board with his own finger an inch behind the clerk's and said no number out loud the whole time, and counted them again with his own thumbnail after she took her finger off the wood and got the same number twice.** Said one thing out loud on seven mornings. On Chapter 665 he said out loud that he has counted every one of about nineteen people and named none of them. **He asked no question on any of the fifteen mornings and he is not in the column.**
+
+## THE MAN OF ABOUT FORTY-EIGHT WHO KEEPS A TALLY
+
+Said one thing out loud in this block, on Chapter 659, that a man came down that lane at about half past eight with a page folded in his own right hand and did not stop at the top of it and went on down past that bank, and that the reason that man is the tenth is that he came down that lane with a page in his hand. **He gave the reason in the yard, out loud, to about nineteen people, and the clerk put the number in her book after he had said it and not before.** He is not from this parish, is not a resident of this district, and is not in the column.
+
+## THE MAN OF ABOUT THIRTY-TWO WHO PUTS TABLES UP
+
+Said one thing out loud in this block, on Chapter 651, about a piece of card folded under the near leg of that second table and about nobody in that yard ever having once asked him how a table stands. **He has not been paid for one item of what he has done in six volumes and was not paid on any of the fifteen mornings of this block and has not asked anybody for anything.** The second table is still in that yard and goes down that bank on day 36, which is not this block's.
+
+## THE MAN OF ABOUT TWENTY-NINE WHO DRIVES THAT CART
+
+Came up at about three on all fifteen mornings with the near wheel still dragging and got it up about nine inches off the ground with one arm. Said one thing out loud on two mornings — on Chapter 652, that nobody has ever asked him what is in that yard, and on Chapter 663, that he has never once been asked how far that bank is and does not know and has not counted and is not going to. He is not from this parish, is not a resident, and is not in the column.
+
+## THE ROAD KEEPER, THE WOMAN OF ABOUT FIFTY-EIGHT, THE WOMAN OF ABOUT THIRTY-SIX WHO KEEPS A SCALE, THE MAN OF ABOUT THIRTY-SEVEN WHO CUTS REEDS
+
+**The road keeper** came up that lane twice a day on all fifteen mornings and was not asked about the eleven miles on any of them, and was not asked about the stranger who came down that lane on Chapter 659 either. **The woman of about fifty-eight** came up past those tables at about ten to six on all fifteen mornings and read three lines in that lot book standing up about four feet off the fourth one, did not look at it, did not stop, and said nothing to anybody. **The woman of about thirty-six who keeps a scale** — her shop is open on all fifteen mornings with a door propped open and three pages on that counter, that is a fact and not a scene, the count of the four places where those three lines can be read is four and did not move, and she is in no mouth on any of the fifteen and was asked nothing on any of them. **The man of about thirty-seven who cuts reeds** said nothing out loud in this block and was not given one.

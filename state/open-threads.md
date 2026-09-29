@@ -1168,3 +1168,41 @@
 ## THREAD 12 — THE CONTROLLER-SIDE ITEMS, WHICH NO WRITER PHASE MAY TOUCH AND WHICH ARE NOW WRITTEN DOWN WHERE A MAINTAINER WILL FIND THEM
 
 **STATE: OPEN AND UNTOUCHED, DELIBERATELY. `state/phase-ledger.json` still reads `currentPhase: phase-000-bootstrap`, `status: planned`, `attempts: 0`, `range: null`, `actualModel: null` after six hundred and fifty chapters, and the fix that has just run did not touch it, because it is controller-owned. It remains the top dispatch risk in this repository and it is not a writer's file. `tools/__pycache__/measure.cpython-312.pyc` is tracked in git. `novel-reviewer` does not dispatch as a primary, so the review that found Thread 10 was, as every review in this repository has been, a writer's account — and it found a real fifty-figure error and one error of its own, which is the best result this arrangement has produced and is still not the arrangement anyone would design. `outline/volume-04.md` HAS NEVER EXISTED AND CHAPTERS 201 TO 250 ARE IN NO OUTLINE AT ALL. `bible/premise.md` STILL DESCRIBES A MARKET NOVEL AND THE MANUSCRIPT IS A YARD ON A BANK.**
+
+---
+
+# VOLUME 14 BLOCK 0001 — OPEN THREADS AFTER CHAPTER 665
+
+> **APPENDED BY THE BATCH THAT WROTE CHAPTERS 651 TO 665. NOTHING BELOW IS CLOSED BY A WRITER, AND NOTHING BELOW IS FIXED BY A DOCUMENT.**
+
+## THREAD 13 — THE SIXTH MONTH IS COUNTED, AND THE DAY MAP IS DISCHARGED
+
+**STATE: CLOSED, IN A YARD, IN A MOUTH, ON A PAGE, AND THE CLOSURE IS ON CHAPTER 655.** The sixth month of this year is **thirty-one days**. A clerk of nineteen years counted it off that board with a finger on the wood, in the open, in daylight, with about nineteen people at that wall, and it took her about ten minutes. **The count of counted months went from five to six on that morning and is six on days 5 to 15.** `outline/volume-14.md` SECTION 2.2 assumed thirty days and printed both branches; the pages say thirty-one; the pages are canon; the outline is not a writer's file and is not repaired. **A WRITER WHO READS `a fourteenth` OF THIS RECORD AS A DATE FIGURE IS READING A THING THAT IS NOT A DATE.** The only date of record on Chapter 655 is the thirty-first of the sixth month.
+
+## THREAD 14 — THE LANE COUNT STANDS AT TEN AND IT IS NOT A LADDER
+
+**STATE: OPEN, AND IT IS NOT A LADDER, AND IT MUST NOT BE GIVEN ONE.** It stood at nine on days 1 to 8 and moved ONCE, on Chapter 659, to ten, with a man of about forty-eight who keeps a tally saying the reason out loud in the ordinary voice to about nineteen people before the clerk's hand moved, and the clerk entering the number after he had said it. **IT DID NOT MOVE TO FILL A PAGE AND IT IS NOT `9 + c`.** A fifty-day distribution for it exists in three readings at `outline/volume-14.md` SECTION 10.4 which differ at two cells, and none of them is repaired and none of them may be inherited as a shape. The count of people who have come down that lane with a page in their hand is a count of mornings on which a person arrived. A stranger who comes down that lane is not a resident and is not entered in the column for the name of whoever read a thing out loud.
+
+## THREAD 15 — THE MAN OF ABOUT THIRTY-FOUR WHO MENDS FENCING HAS BEEN DOWN IN THE DITCH, AND THE MAN OF ABOUT THIRTY-ONE WHO DIGS LOAM WORKS AT THE BOTTOM OF THAT BANK, AND NEITHER KNOWS IT
+
+**STATE: OPEN, AND IT IS THE SMALLEST POSSIBLE VERSION OF THE PRESSURE, AND IT IS TWO FACTS IN THE PROSE AND NOT ONE MOMENT.** On Chapter 658 it is on the page that the man who mends fencing came up that bank at about a quarter to six with mud to the knee of his own left leg that was not off that bank and had been at the bottom of that bank and in the ditch for about two hours before the light came, and about four people at that wall had worked out where a man gets that and none of them said a word and he did not. On Chapter 660 it is on the page that the man who digs loam had been at the bottom of that bank since about half past five and in the ditch since before it was light, and that about four people had worked out he had not been up that bank before about eleven and none of them had gone down to see. **THEY DO NOT MEET. THEY DO NOT PASS. NEITHER GOES TO THE OTHER'S PLACE. NEITHER SAYS A WORD ABOUT THE OTHER'S MORNING. NOBODY IN THAT YARD HAS ASKED EITHER OF THEM ONE THING ABOUT IT. DAYS 16 TO 24 ARE NOT BLOCK 0001'S, AND BLOCK 0001 DID NOT PREPARE THEM IN A MOUTH, IN A LEDGER, OR IN A TITLE.**
+
+## THREAD 16 — THE MAN WHO DIGS LOAM WAS NOT AT THAT TABLE ON ONE AFTERNOON, AND NOBODY ASKED
+
+**STATE: OPEN, AND IT IS THE FIRST TIME IN THIS VOLUME THAT HIS ABSENCE IS ON A PAGE.** On Chapter 662, the seventh of the seventh month, he was at the far end of that second table at about eleven with his own spade against the leg of it and his own two hands on the rail, and he was not at that table in the afternoon, and about four people at that wall looked at that far end between about twelve and about four and none of them went down that bank after him, and a clerk entered that he was not at that table and entered no reason, and the record about the not asking says not asked. **NOBODY HAS ASKED HIM WHERE HE WAS AND HE HAS NOT SAID.**
+
+## THREAD 17 — THE SENTENCE THIS VOLUME OWES IS UNPAID AND IS NOT MINE
+
+**STATE: OWED, UNPAID, AND NOT PRINTED IN ANY OF THE FIFTEEN FILES.** On what a district has when the only thing that protects it is a person. It may not be a sentence about trust, about scale, about rules, about the no, a thesis, a moral, a summary, a line a character says about the volume, a figure, or a thing a clerk enters as true. It is payable only in a doing, by the volume's close. **BLOCK 0001 DID NOT PAY IT AND DID NOT PAY HALF OF IT AND DID NOT ARRANGE FOR IT.**
+
+## THREAD 18 — THE NAME, AND THE DAY A BLOCK 0001 MORNING CANNOT REACH
+
+**STATE: OPEN, AND UNTOUCHED, AND DAY FORTY-ONE IS TWENTY-SIX DAYS AFTER CHAPTER 665.** `Adrian` is on no page of chapters 1 to 665. The rule at `outline/volume-11.md` section 6 stands and is not a batch's to change: the name may be settled only on a day a person in this district says it out loud in a room or a yard, in a scene, with the prose first and the document second, and not before day 41. **BLOCK 0001 REACHED FIFTEEN MORNINGS ON WHICH A PERSON COULD HAVE SAID SOMETHING AND DID NOT SAY IT, AND IT NAMED NO DAY, NAMED NO PERSON WHO WOULD SAY IT, PROMISED IT FOR NO LATER BLOCK, PUT NO PERSON IN A POSITION TO REPEAT EITHER OF THE TWO MATERIALS OF THE LAST VOLUME, AND ENTERED NEITHER IN A COLUMN.** The two materials — a man answering a stranger about himself, and a man saying there is a man in this yard who is still paid nothing and I am him — are neither a name and neither is a settling.
+
+## THREAD 19 — TWO FIGURES ON THAT WALL THAT ARE OUT, AND ONE SHEET AT A GATEPOST, AND A REPORTER WHO WILL TRY TO MAKE THEM A THREAD
+
+**STATE: OPEN AND UNTOUCHED.** Row 3, the days nobody has entered anything, and row 4, the days from the second of January, are the two figures on that wall that are out, and neither is corrected on any of the fifteen mornings, and the size of the error in the fourth of the four is on no page of these fifteen files in a mouth, in a ledger, or in a title. The figure on the sheet at that gatepost is four hundred and eleven on fifteen of fifteen mornings and has no day-count of its own. **THE PARTING IS A FINDING AND NOT A CAUSE AND NO CHAPTER USES IT. A FIGURE IS NOT A FIGURE BECAUSE IT AGREES WITH ANOTHER FIGURE. A COINCIDENCE IS NOT A PATTERN.**
+
+## THREAD 20 — A DEFECT THIS BLOCK'S OWN BLOCK RECORD FOUND, WHICH THE NEXT MEASUREMENT WILL MEET AGAIN
+
+**STATE: OPEN, NAMED SO THAT IT IS NOT DISCOVERED TWICE.** The identity `once-per-extra-occurrence + distinct-shared-runs = sum of all occurrences`, which Volume 13's figures satisfy to the unit, **DOES NOT HOLD ON BLOCK 0001**: 21,323 plus 2,803 is 24,126 and the sum of all occurrences is 39,086, because 14,960 of 17,763 distinct twelve-word runs in this block are unique to one file. The identity that does hold is 21,323 plus 17,763, which is 39,086 exactly. **A BLOCK THAT TREATS THE VOLUME 13 IDENTITY AS A CHECK ON ITS OWN FIGURES WILL REPORT A FAILURE THAT IS NOT A DEFECT IN ITS PROSE AND IS A DEFECT IN ITS ALGORITHM'S ASSUMPTION.** Both readings are printed in `state/volume-14-batch-0001-summary.md` section 8 and neither is repaired.
