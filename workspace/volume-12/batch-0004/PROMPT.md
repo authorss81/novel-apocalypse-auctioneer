@@ -1,0 +1,177 @@
+# Volume 12, Batch 0004 — Chapters 591 to 600, days 41 to 50, the twenty-eighth of the fourth month to the seventh of the fifth month. The last block of the volume.
+
+> **THIS PHASE WRITES TEN CHAPTERS AND TEN CHAPTERS ONLY, CHAPTERS 591 TO 600, ONE A DAY, DAYS 41 TO 50. IT WRITES NO OUTLINE, NO BLOCK RECORD, NO ROLL, NO CLOSE, NO NEXT PHASE, AND NO ENTRY IN `state/phase-ledger.json`. IT DOES NOT EDIT `outline/series.md`, `outline/ending.md`, `outline/volume-12.md`, `outline/volume-11.md`, ANY EARLIER OUTLINE, ANY BLOCK RECORD, OR ANY CHAPTER OF ANY VOLUME. WHERE A CHAPTER AND A DOCUMENT DISAGREE, THE CHAPTER IS CANON AND THE DOCUMENT IS WRONG. WHERE A DOCUMENT AND THE CHAPTERS DISAGREE, BOTH ARE PRINTED AND NEITHER IS REPAIRED, BECAUSE NO DOCUMENT THAT IS NOT THIS PHASE'S IS THIS PHASE'S TO EDIT.**
+>
+> **`PYTHONDONTWRITEBYTECODE=1` MUST BE EXPORTED BEFORE EVERY MEASUREMENT RUN BECAUSE `tools/__pycache__/measure.cpython-312.pyc` IS TRACKED IN GIT. EVERY MEASUREMENT IN THE BLOCK RECORD IS TAKEN FROM THE TEN FILES OF THIS BLOCK, AFTER THE LAST PROSE EDIT, AND THE LENGTH IS `wc -w`. WRITE SCRIPTS IN A TEMPORARY DIRECTORY OUTSIDE THE REPOSITORY AND DO NOT CHAIN PIPELINES.**
+>
+> **THE INHERITED LADDER IS `c = 0` AT CHAPTER 550. `c` AND THE CHAPTER NUMBER ARE NOT THE SAME THING IN THIS BLOCK: `c = 41` IS CHAPTER 591.**
+>
+> **THE BLOCK RECORD OF THE TEN CHAPTERS THAT PRECEDE THIS ONE IS `state/volume-12-batch-0003-summary.md` AND IT IS CANON FOR EVERYTHING IN IT. THE BLOCK RECORD OF THE FIFTEEN BEFORE THAT IS `state/volume-12-batch-0002-summary.md` AND IT IS CANON FOR THE REVERSAL, THE BREAK, THE PATH OF THE COUNT OF SHEETS, THE TWO FIGURES ON THAT WALL, AND THE TWO CONFLICTS IT FOUND AND DID NOT REPAIR.**
+>
+> **AND THE THING THE LAST BLOCK FOUND OUT, WHICH NOTHING IN THOSE TWO RECORDS FORESAW: A CLERK OF NINETEEN YEARS WENT ACROSS HER OWN YARD ON THE TWENTY-SEVENTH OF THE FOURTH MONTH AND TOLD A MAN IN FRONT OF ABOUT NINETEEN PEOPLE THAT HIS FIGURE ON A WALL IS OUT BY A WHOLE YEAR, AND REFUSED OUT LOUD, WITH A REASON IN HER MOUTH, TO WRITE DOWN WHAT IT OUGHT TO SAY. THE FIGURE ON THAT WALL STANDS AT FOUR HUNDRED AND SEVENTY-NINE AND WAS NOT CORRECTED AND IS NOT TO BE CORRECTED IN THIS BLOCK EITHER. THE SIZE OF THAT ERROR IS ON A PAGE ONCE AND IS NOT TO BE PAID A SECOND TIME IN A MOUTH.**
+
+---
+
+## 1. WHAT THIS BLOCK IS
+
+**TEN CHAPTERS ON TEN DAYS, FROM THE TWENTY-EIGHTH OF THE FOURTH MONTH TO THE SEVENTH OF THE FIFTH MONTH. `c = 41` AT CHAPTER 591 AND `c = 50` AT CHAPTER 600. NO DAY CARRIES TWO CHAPTERS AND NO CHAPTER CARRIES TWO DATES. THIS IS THE LAST BLOCK OF VOLUME 12 AND IT ENDS ON THE FIXED FINAL IMAGE AT `outline/volume-12.md` SECTION 5.3, WHICH IS FIXED THERE AND NOT CHOSEN BY A WRITER BLOCK.**
+
+| `c` | chapter | date | what the day is for |
+|---|---|---|---|
+| 41 | 591 | the twenty-eighth of the fourth month | the yard is ten days from the end of a month of days and has not decided the thing it has been looking at for twenty-five days |
+| 42 | 592 | the twenty-ninth of the fourth month | a person says out loud, in a scene, a thing about the man the third line is about, and it is not a name |
+| 43 | 593 | **the thirtieth of the fourth month, and the month ends** | the last morning of a month nobody in this district has counted, and the ledger says so |
+| 44 | 594 | the first of the fifth month | the yard's morning resets and nobody in it says that it has |
+| 45 | 595 | the second of the fifth month | the question is put to a man in the plainest words anybody in that yard can find |
+| 46 | 596 | the third of the fifth month | the answer is given, or the silence after the question is, and it is in front of about nineteen people |
+| 47 | 597 | the fourth of the fifth month | a clerk of nineteen years enters a person's whereabouts on a public page for the first time in six volumes, and enters that she is not entering his name, and the reason |
+| 48 | 598 | the fifth of the fifth month | a woman is asked to hold one of the sheets in her own shop in front of customers and says again that she cannot tell, and her shop is open |
+| 49 | 599 | the sixth of the fifth month | the fifth line goes on that book, in a clerk's hand, at his dicta, in the open, in front of about nineteen people, after he has said it out loud and after she has entered that he said it |
+| **50** | **600** | **the seventh of the fifth month, the hundred and twenty-seventh morning after the count** | **the fixed final image. The book has five lines on it and the fifth is in a clerk's hand at his dicta and the fourth is untouched. The man of about sixty-four is at the foot of that low wall on his hundred and thirty-ninth night and is still given nothing. And the man who mends fencing is in that yard, at the end of the second table, with his right hand flat on the boards and not on the stone and not on the sheets** |
+
+**NO WEEKDAY NAME. NO METRIC. NO COLON-TIME. NO TWENTY-FOUR-HOUR CLOCK ON ANY DATE. THE DAY MAP OF THE SECOND HALF OF THIS VOLUME WAS CONFIRMED BY A COUNT AT CHAPTER 590 AND IS RIGHT, AND NOBODY MAY GO BACK AND CHANGE A DATE, AND NO FIGURE ABOUT THE LENGTH OF THE THIRD OR THE FOURTH MONTH APPEARS ON ANY PAGE OF THIS BLOCK. THE THIRD MONTH WAS COUNTED AT THIRTY-ONE AND THE FOURTH MONTH IS ON NO PAGE AND IS THE FIRST DEBT OF VOLUME 13.**
+
+## 2. THE CENTRAL PRESSURE, AND WHAT THIS BLOCK OWES THE SERIES
+
+**THE OBJECT OF THE VOLUME IS A PERSON. THE YARD'S QUESTION IS `WHO COULD ANSWER ONE`. THE ONLY PERSON WHO COULD TELL THEM WHY A SHEET WAS MADE IS THE MAN WHOSE LINE THE THIRD LINE IS. FOR TWENTY-FIVE DAYS THAT YARD LOOKED AT THE COST OF ASKING HIM AND DID NOT ASK HIM, AND ON DAY 42 OF THIS BLOCK A PERSON SAYS A THING ABOUT HIM OUT LOUD IN A SCENE, AND IT IS NOT A NAME, AND THE ASKING IS ON DAY 45, AND THE ANSWER IS GIVEN IN FRONT OF ABOUT NINETEEN PEOPLE BEFORE ANYBODY WRITES IT DOWN, AND ON DAY 49 THE FIFTH LINE GOES ON IN A CLERK'S HAND AT HIS DICTA, IN THE OPEN, AFTER SHE HAS ENTERED THAT HE SAID IT.**
+
+**AND THE COST IS NOT SOFTENED ANYWHERE IN THIS BLOCK. A DISTRICT THAT HAS JUST FOUND OUT THAT ITS OWN BEST INSTRUMENT IS A STENCIL HAS TO DECIDE WHETHER TO PUBLISH A PERSON TO PROTECT A PAGE, AND THERE IS NO THIRD OPTION, AND THE DECISION IS NOT FREE AND THE MAN KNOWS WHAT HE IS PAYING FOR BEFORE HE SAYS YES, AND A PERSON SAYS IT OUT LOUD RATHER THAN IN A LEDGER.**
+
+**AND THE THINGS THIS BLOCK MAY NOT BUILD A LADDER FOR, WHICH THE LAST BLOCK DID NOT BUILD ONE FOR AND WHICH A CLOSE WILL HAVE TO RE-DERIVE FROM THE FILES: the figure on the sheet at that gatepost, which is four hundred and eleven on every day and is a count of the people who answered a door with no day-count of its own; the days a sheet has been on that second table, which is a whole tenure and which the inherited text carries at three different figures, of which this block continues the third; the reading of that lot, which is now the fifth of the five and is not a ladder and does not advance past the fifth; and the count of pages on the end of that second table, which is a new column and is not a ladder and which stood at three on the twenty-seventh of the fourth month.**
+
+## 3. THE LADDER, WITH THE INTERCEPTS AND THE CONSTANT ROW PRINTED BESIDE IT
+
+`c` is the day and runs 41 to 50. The intercept column below is **THE FIGURE CHAPTER 550 PRINTS** and the formula is INTERCEPT plus `c` and nothing else. **A WRITER WHO ADDS A VOLUME 12 DAY INDEX TO ONE OF VOLUME 11'S OWN FORMULAS — `398 + c`, `714 + c`, `428 + c` — IS EXACTLY FIFTY LOW ON EVERY FIGURE, AND NO CONSTANT-OFFSET TEST WILL SEE IT, BECAUSE FIFTY IS A CONSTANT TOO.**
+
+| the figure | **intercept, the figure Ch 550 prints** | Volume 11's own intercept (Ch 500), **fifty out** | day 41, Ch 591 | day 50, Ch 600 |
+|---|---|---|---|---|
+| the days on that board | **448** | 398 | 489 | 498 |
+| the days the train on that siding has stood | **764** | 714 | 805 | 814 |
+| the days nobody has entered anything | **478** | 428 | 519 | 528 |
+| the days from the second of January | **439** | 389 | 480 | 489 |
+| how long the bid has been open | **198** | 148 | 239 | 248 |
+| how far back the ninth of the nine printed nights is | **331** | 281 | 372 | 381 |
+| how far behind the figure on the second line is | **153** | 103 | 194 | 203 |
+| how long the rule said out loud has stood | **158** | 108 | 199 | 208 |
+| how long since the first day of the eighth month | **228** | 178 | 269 | 278 |
+| how far past a printing a body four hundred miles off is | **167** | 117 | 208 | 217 |
+| the age of the figure on the sheet at that gatepost | **289** | 239 | 330 | 339 |
+| **the figure on the sheet at that gatepost** | **not a ladder — a count of the people who answered a door, with no day-count of its own** | — | 411 | 411 |
+| the night the man of about sixty-four is on | **189** | 139 | 230 | 239 |
+| the nights of that run he has slept on | **188** | 138 | 229 | 238 |
+| the marks cut off that board since the mark for the first of the twelfth month | **107** | 57 | 148 | 157 |
+| the marks in chalk along the edge of that second table | **93** | 43 | 134 | 143 |
+| **the mornings a man of about fifty-six has read four figures off that wall** | **the two hundred and seventy-fifth** | 225 | **the three hundred and sixteenth** | **the three hundred and twenty-fifth** |
+| the days a sheet has been on that second table | **0** | 0 | 41 | 50 |
+
+**THE CONSTANT ROW, PRINTED BESIDE THE TABLE: `448, 764, 478, 439, 198, 331, 153, 158, 228, 167, 289, —, 189, 188, 107, 93, 275, 0`. THE SECOND INTERCEPT ROW IS FIFTY BELOW IT ON EVERY ROW WITH NO EXCEPTIONS AND IS NOT TO BE USED.**
+
+**THE ANCHOR TEST, PRINTED BESIDE THE CONSTANT ROW: the day-41 cell of every column must be the successor of the figure Chapter 550 prints and not the figure itself, and the day-50 cell must be the day-41 cell plus nine.**
+
+**THE FOUR FIGURES A MAN OF FIFTY-SIX READS, IN ORDER, AND THE ORDER IS CANON: BOARD, TRAIN, UNENTERED, FROM THE SECOND OF JANUARY. THE THIRD IS A DAY OUT AND HAS BEEN SINCE THE FIRST DAY OF VOLUME 10. THE FOURTH DID NOT RESET WHEN THE YEAR TURNED AND WAS FOUND OUT, IN THAT YARD, ON THE TWENTY-SEVENTH OF THE FOURTH MONTH, TO BE OUT BY A WHOLE YEAR. NO FIGURE MAY BE CORRECTED. THE SIZE OF THAT ERROR IS ON A PAGE ONCE AND IS NOT TO BE PRINTED A SECOND TIME IN A MOUTH AND NOT TO BE PAID A SECOND TIME IN A LEDGER. A CLERK HAS ALREADY SAID OUT LOUD, IN FRONT OF ABOUT NINETEEN PEOPLE, THAT SHE IS NOT ENTERING WHAT THAT FIGURE OUGHT TO SAY, AND A FIGURE MAY NOT BE CORRECTED IN THIS BLOCK EITHER, AND THE FIGURE ON THE WALL STANDS.**
+
+**AND THE THING THIS BLOCK MAY NOT BUILD A LADDER FOR: the count of pages on the end of that second table is a new column, it is not a ladder, it stood at three on the last morning of Block 0003, and it may rise on a named morning and it may fall on a named morning, and **nothing may be taken off that table without a person and a reason being in the room, and the reason comes before the hand**, and the prose may print the count and may not print why it moved unless somebody is in the yard. The block record must report its path morning by morning, all ten days, as a number and not as a shape.**
+
+## 4. THE COUNTS THIS BLOCK MAY NOT MAKE LARGER
+
+| the count | figure | the counted scope |
+|---|---|---|
+| things this district has made | **13**, unchanged | 13 on every day, **and no fourteenth is proposed. A fifth line is not a fourteenth thing, because the thing already exists and this is a line on it, and an agreement made out loud is not a thing anybody made** |
+| things this district does not have | **5** | the fifth named on all ten days as a way to pay a person who is not in a household, and **paid on none of them**, **and an agreement to be found is not a payment and does not pay it** |
+| documents this district does not own | **4** | **no fifth is proposed on any of the ten days**, and no figure for the count is printed in a mouth |
+| protected things | **5** | no sixth proposed, **and a fifth line is refused as a sixth in a mouth, on the page, on the ground that a line is not a column and a column is something a person looks down** |
+| conditions with no end on it | **4** | an admission is not one, a blank third line is not an expiry, **an instruction is not one, an agreement is not one, and a fifth line is not one** |
+| columns of not-askings | **4** | no fifth ruled, and **no column is ruled on any of the ten days** |
+| refusals to read | **9, standing** | a reading is still refused, and **this block prints no figure for that count on any page**, and the column for the name of whoever read a thing out loud is entered as ruled and empty on all ten days, **and it may not be filled and no person may be appointed to it, and it is now named more often in this volume than it ever was and it is emptier** |
+| a month length counted | **three, standing** | the twelfth at thirty, the first at thirty-one, the third at thirty-one. **NO FIGURE ABOUT THE LENGTH OF THE THIRD MONTH APPEARS ON ANY PAGE OF THIS BLOCK EITHER, AND NO FIGURE ABOUT THE LENGTH OF THE FOURTH MONTH APPEARS ON ANY PAGE OF THIS BLOCK AT ALL** |
+| a new person added to this district | **none** | nobody is added. A person standing in a yard is not a resident |
+| a rate turning a year into coppers | **none** | a year is not a toll and a day is not a wage and a figure is not a price, **and being paid to be found would be the first one this district has and it is not to be proposed in this block** |
+| a panel | **zero** | the cap is one a chapter and the count is zero. Every chapter carries a four-figure line set as a bolded pull-quote inside quotation marks, so a reader sees a quoted block on every page and a grep for `>` returns nothing |
+| places in this district where those three lines can be read | **four** | **this block adds no fifth place inside this district and closes none of the four, and all four stay on a `no person did that` list.** The fifth THING found in Block 0002 is not a place and is not in this district and is on that list with them |
+| pages on the end of that second table | **begins at three, is not a ladder, and is reported morning by morning** | section 3 above |
+| the reading of that lot | **moves to the fifth of the five on one named day and no further** | the fifth of the five things a document that sets a lot out has to say is a remedy, **and it is unpaid, and a fifth line is not a remedy and did not pay it, and no figure about what happens when that man says no may be resolved in this block** |
+
+## 5. THE RELAYS, AND THE ONE THIS VOLUME HAS ALREADY BROKEN
+
+| the string | the rule for this block | measured over Block 0003 |
+|---|---|---|
+| `the record about the not asking says not asked` | once a chapter, every chapter, not lowered by deletion | 75, on 10 of 10 days |
+| `read the number back to himself in a low voice` | once a chapter, every chapter, and once for every counted claim | 57, on 10 of 10 days, and equal to that block's claim count |
+| `at the foot of that low wall with his coat folded on the stones` | **A FLOOR AND NOT A TARGET.** It may be silent on days, it may not be deleted, it may not be repaired into a target, and any silence must be measured and reported | 10, on 10 of 10 days |
+| `got it up about nine inches` | once a chapter, every chapter | 10, on 10 of 10 days |
+| `by ten there were about nineteen people` | once a chapter, every chapter | 10, on 10 of 10 days |
+| **`was not asked about the eleven miles`** | **ALREADY BROKEN ONCE, ON DAY 27, CHAPTER 577, IN A SCENE, WITH THE REASON ON THE PAGE. IT IS NOT BROKEN AGAIN IN THIS BLOCK AND IT IS NOT LOWERED. IT IS WHOLE ON DAYS 41 TO 50 AND THE ROAD KEEPER IS NOT ASKED A SECOND REAL QUESTION** | 10, on 10 of 10 days |
+| `the record about the not offering says nothing was asked and nothing was given` | once a chapter, every chapter. **The man of about sixty-four is given nothing and asked nothing on all ten days and the volume may not soften this, and Chapter 600 finds him on his hundred and thirty-ninth night, having slept on a hundred and thirty-eight of them** | 10, on 10 of 10 days |
+| `Both buckets went down that bank at about half past five` | **NOT PROTECTED AND NOT TO BE RESTORED.** The loosened form `buckets went down that bank` is on 10 of 10 against a floor of 10 of 10 and may not be lowered by deletion | 0 of 10 exact, 10 of 10 loosened |
+
+**NO BLOCK MAY BREAK ANY OTHER RELAY, LOWER ANY OF THEM, OR RAISE ONE TO FILL A PAGE. A RELAY THAT IS SILENT ON A DAY IS A FACT ABOUT THAT DAY. A RELAY THAT IS DELETED IS A MEASUREMENT DESTROYED.**
+
+## 6. THE PEOPLE, AND WHAT THIS BLOCK MUST DO WITH EACH
+
+- **The man of about thirty-four who mends fencing.** The protagonist, unnamed. **HE IS THE ONE WHO HAS TO ASK, IN THE OPEN, IN A YARD, IN FRONT OF ABOUT NINETEEN PEOPLE, AFTER SPENDING THE FIRST HALF OF THE VOLUME TRYING EVERY OTHER WAY.** About four people in that yard have said since that he had a choice about it and took it, and one of them has said it out loud, and he has said out loud why he has not asked, and he said out loud that he should not be thanked for the saying of it. **HE IS NOT THANKED. HE SAYS OUT LOUD THAT HE SHOULD NOT BE.** He asks on day 45 in the plainest words anybody in that yard can find. **HIS NAME IS NOT ON A PAGE IN THIS BLOCK, THIS BLOCK MAY NOT SETTLE IT, MAY NOT NAME A DAY FOR IT, MAY NOT NAME A PERSON WHO WOULD SAY IT, MAY NOT PROMISE IT FOR A BLOCK, AND MAY NOT LET A CHARACTER PREPARE FOR IT, AND `outline/volume-12.md` SECTION 6 IS THE WHOLE OF THAT RULE AND IS NOT THIS PHASE'S TO CHANGE.**
+- **The man of about thirty-one who digs loam.** He is the person the third line is about. **ON DAY 42 A PERSON SAYS A THING ABOUT HIM OUT LOUD, IN A SCENE, AND IT IS NOT A NAME. ON DAY 45 HE IS ASKED WHETHER HE AGREES TO BE FOUND. ON DAY 46 THE ANSWER IS GIVEN IN FRONT OF ABOUT NINETEEN PEOPLE BEFORE ANYBODY WRITES IT DOWN. ON DAY 49 THE FIFTH LINE GOES ON AT HIS DICTA AFTER HE HAS SAID IT OUT LOUD AND AFTER A CLERK HAS ENTERED THAT HE SAID IT.** He writes nothing himself and the clerk does. **HE IS TOLD, BEFORE HE SAYS YES, IN A YARD, IN FRONT OF ABOUT NINETEEN PEOPLE, BY A PERSON WHO SAYS IT OUT LOUD RATHER THAN IN A LEDGER, THAT EVERY COPY MADE FROM THAT MORNING ONWARD WILL CARRY HIS DISTRICT'S OWN INSTRUCTIONS FOR WALKING UP TO HIM, AND THAT THE NUMBER OF COPIES IS NOT A FIGURE THIS DISTRICT CAN HOLD. THAT SPECIFIC COST MAY NOT BE SOFTENED.**
+- **A clerk of nineteen years.** **ON DAY 47 SHE ENTERS A PERSON'S WHEREABOUTS ON A PUBLIC PAGE FOR THE FIRST TIME IN SIX VOLUMES, AND SHE ENTERS THAT SHE IS NOT ENTERING HIS NAME, AND THE REASON, AND THE REASON IS THE SAME REASON SHE HAS GIVEN BEFORE AND IT IS THE ONLY REASON SHE HAS.** She has refused a column for the name of whoever read a thing out loud, out loud, with a reason, and has entered no name on any day of fifty. **ON DAY 49 SHE WRITES THE FIFTH LINE IN HER OWN HAND AS EVERY OTHER LINE ON THAT BOOK IS IN A CLERK'S HAND, AND SHE SAYS OUT LOUD AGAIN THAT A LINE IS NOT A COLUMN AND THAT A COLUMN IS SOMETHING A PERSON LOOKS DOWN AND A LINE IS SOMETHING A PERSON READS.** **THE NINTH OF THE NINE PRINTED NIGHTS IS NAMED ON EVERY CHAPTER AND CLOSED ON NONE, AND NO NIGHT IS NAMED.**
+- **The man of about fifty-six.** Reads four figures off that wall every morning. **HE WAS TOLD ONCE, ON THE TWENTY-SEVENTH OF THE FOURTH MONTH, IN FRONT OF ABOUT NINETEEN PEOPLE, THAT ONE OF HIS FIGURES IS OUT BY A WHOLE YEAR, AND HE SAID NOTHING, AND HE IS NOT ASKED TWICE.** No figure is corrected. On day 50 he says the four for the three hundred and twenty-fifth time.
+- **The man of about forty-eight who keeps a tally.** He answered the volume's question in Block 0002 and it is not repeated. **He may say one more thing about the pages and it is not a name.**
+- **The woman of about thirty-six who keeps a scale.** **ON DAY 48 SHE IS ASKED TO HOLD ONE OF THE SHEETS IN HER OWN SHOP, IN FRONT OF CUSTOMERS, AND SAYS AGAIN THAT SHE CANNOT TELL, AND HER SHOP IS OPEN BOTH MORNINGS.** About nine people in that shop know she has been wrong in public three times and right three times. **She shut her own shop for a morning in Volume 11 and was not thanked then either and said so out loud, and that may be said again once and not paid twice.**
+- **The boy of about nineteen.** Counts what people say and reads the number back to himself in a low voice. **HE ASKED THE VOLUME'S QUESTION ONCE, ON DAY 25, AND MAY NOT ASK IT AGAIN AND MAY NOT SAY ITS ANSWER AGAIN AS THOUGH IT WERE NEW.** He may count the biggest number of the volume, because on day 49 about nineteen people are in that yard and what happens in it is the biggest thing that has happened in it.
+- **The woman of about thirty-three who takes in washing at the second channel.** **MAY NOT BE ASKED ABOUT THE HOUSE AGAIN.** She asked a man a real question on a lane in Block 0002 and he answered it.
+- **The woman of about fifty-eight.** Reads three lines in that lot book standing up on her way past and says nothing, on all ten days.
+- **The man of about sixty-four.** At the foot of that low wall on his hundred and thirty-ninth night of that run at Chapter 600, having slept on a hundred and thirty-eight of them, **and still given nothing.**
+- **The road keeper.** Comes up that lane and reads the four off that wall as he goes by, and is not asked about the eleven miles on any of the ten days.
+- **The man of about twenty-nine who drives that cart.** He said a thing about himself in Block 0002 and another in Block 0003. **HE MAY SAY ONE MORE AND IT IS NOT A NAME.**
+- **A body four hundred miles off.** No face, nobody watches it, no arrival calendared.
+
+## 7. THE RESOLUTION, AS IT IS FIXED AND NOT AS A WRITER BLOCK MAY CHOOSE IT
+
+**THE FIFTH LINE OF THAT LOT BOOK GOES ON, IN A CLERK'S HAND, AT THE DICTA OF THE MAN THE THIRD LINE IS ABOUT, IN THE OPEN, IN FRONT OF ABOUT NINETEEN PEOPLE, AFTER HE HAS SAID IT OUT LOUD IN THAT YARD AND AFTER THE CLERK HAS ENTERED THAT HE SAID IT. IT IS NOT A NAME. IT IS NOT A FIGURE. IT IS NOT A DATE. IT IS NOT A RULE. IT IS NOT A COLUMN. IT IS AN INSTRUCTION TO A STRANGER HOLDING A SHEET, AND THE INSTRUCTION IS THE ONLY THING IN THIS DISTRICT THAT TELLS A PERSON WHAT TO DO WITH A PIECE OF PAPER. IT SAYS IN EFFECT, AND THE WRITER FINDS THE WORDS AND NOT THIS PROMPT: the third line of a sheet with these five lines on it is a date belonging to a man who was in a ditch; if you want to know whether the sheet in your hand is this district's, ask him; and here is how a person finds him.**
+
+**AND THE DIFFERENCE FROM THE FOURTH LINE IS THE WHOLE OF THE VOLUME AND IT IS ONE THING: THE FOURTH LINE WAS WRITTEN AT NOBODY'S DICTA. THE FIFTH LINE IS WRITTEN AT HIS. THE HAND IS THE SAME HAND. THE FIRST ONE COST NOBODY ANYTHING. THE SECOND ONE COSTS HIM EVERYTHING, AND HE KNOWS THAT WHEN HE SAYS IT, AND HE SAYS IT ANYWAY, OUT LOUD, IN THE YARD, IN FRONT OF ABOUT NINETEEN PEOPLE, BEFORE THE CLERK HAS THE PEN DOWN.**
+
+**AND THE FOUR COSTS, ALLOCATED TO BODIES, NONE OF THEM SOFTENED: THE MAN AGREES TO BE FOUND, AND EVERY COPY MADE FROM THAT MORNING CARRIES THE DISTRICT'S OWN INSTRUCTIONS FOR WALKING UP TO HIM, AND THE NUMBER OF COPIES IS NOT A FIGURE THIS DISTRICT CAN HOLD, AND HE WAS TOLD THAT BEFORE HE SAID YES, OUT LOUD, BY A PERSON, RATHER THAN IN A LEDGER. THE CLERK ENTERS A WAY OF BEING FOUND AND ENTERS THAT SHE IS NOT ENTERING HIS NAME, AND THE REASON. THE PROTAGONIST IS THE ONE WHO ASKED, AFTER FIFTY MORNINGS OF ASKING NOBODY ANYTHING, AND HE IS NOT THANKED, AND HE SAYS OUT LOAD THAT HE SHOULD NOT BE. THE WOMAN WHO KEEPS A SCALE IS ASKED TO HOLD ONE OF THE SHEETS IN HER OWN SHOP IN FRONT OF CUSTOMERS AND SAYS AGAIN THAT SHE CANNOT TELL, AND HER SHOP IS OPEN BOTH MORNINGS.**
+
+**AND WHAT THE FIFTH LINE DOES NOT PAY, PRINTED BESIDE IT BECAUSE A WRITER WILL CONFLATE THE TWO FIFTHS: THE FIFTH OF THE FIVE THINGS THIS DISTRICT DOES NOT HAVE IS A WAY TO PAY A PERSON WHO IS NOT IN A HOUSEHOLD, IT IS UNPAID, AND A FIFTH LINE IS NOT A PAYMENT. THE FIFTH OF THE FIVE THINGS A DOCUMENT THAT SETS A LOT OUT HAS TO SAY IS A REMEDY, IT IS UNPAID, IT IS WHAT HAPPENS WHEN THAT PERSON SAYS NO, AND A FIFTH LINE IS NOT A REMEDY AND A REMEDY IS NOT A LINE. THE READING OF THAT LOT MAY MOVE TO THE FIFTH OF THE FIVE ON ONE NAMED DAY IN THIS BLOCK AND NO FURTHER, AND IT MAY NOT BE PAID, AND THE YARD MAY SAY OUT LOUD ONCE THAT A DOCUMENT THAT SAYS WHERE ITS PERSON IS HAS STILL NOT SAID WHAT HAPPENS WHEN THAT PERSON SAYS NO, AND THAT IS THE REASON THE READING DOES NOT GO PAST THE FIFTH, AND IT MAY NOT BE REPAIRED.**
+
+## 8. THE SENTENCE THIS VOLUME OWES, AND THIS BLOCK PAYS IT, AND HOW
+
+**ONE, ON WHAT AN ADMISSION IS FOR, AND IT IS NOT A SENTENCE ABOUT TRUST. THE FULL SENTENCE IS AT `outline/volume-12.md` SECTION 11 AND IT IS NOT RE-PRINTED HERE, BECAUSE A BLOCK THAT PAYS IT IN A BLOCK RECORD HAS PAID IT. IT IS PAYABLE ONLY IN A DOING, IN A YARD, IN FRONT OF ABOUT NINETEEN PEOPLE, ON A NAMED MORNING OF THIS BLOCK, AT A MOMENT WHEN THE PROSE IS ALREADY DOING SOMETHING ELSE. IT IS NOT PAYABLE BY A LEDGER, IT IS NOT PAYABLE BY A FIGURE, IT IS NOT PAYABLE BY A CHARACTER EXPLAINING THE VOLUME, AND IT IS NOT PAYABLE BY A CLERK ENTERING THAT A THING IS TRUE.**
+
+**A WRITER WHO PLACES IT AT THE HEAD OF A CHAPTER, OR IN A SPEECH THAT EXISTS TO CARRY IT, HAS NOT PAID IT AND HAS PRINTED IT TWICE. THE MORNING TO PUT IT ON IS NOT NAMED HERE AND MAY NOT BE NAMED HERE, AND IT MUST NOT BE THE MORNING OF THE FIFTH LINE, BECAUSE ON THE MORNING OF THE FIFTH LINE THE PROSE IS DOING SOMETHING ELSE.**
+
+## 9. THE GUARDRAILS FOR THIS BLOCK
+
+1. **A figure may not be corrected, struck, replaced, superseded or taken out**, not even by this block's own clerk, and not on day 600, and not the figure on that wall that was found out to be out for a year.
+2. **Nothing is put on a page in this district without a person and a reason in the room, and the same is true of a page that arrives in it, and nothing comes off a table in it either, and the reason comes before the hand.**
+3. **The column for the name of whoever read a thing out loud may be named and left empty. It may not be filled, and no person may be appointed to it, and on Chapter 600 it is named and it is empty and about four people in that yard have worked out that it is emptier than it was in the first month of this volume.**
+4. **The fifth of the five things this district does not have is a way to pay a person who is not in a household. It may be named every day and paid on none.**
+5. **The fifth of the five things a document that sets a lot out has to say is a remedy, and it is unpaid, and the reading of that lot does not advance past the fifth of the five on any day. A FIFTH LINE IS NOT A REMEDY.**
+6. **The ninth of the nine printed nights is named on every chapter and closed on none, and no night is named.**
+7. **The bid is not run and no chapter may propose closing it in a mouth or in a page.**
+8. **The body four hundred miles off has no face, nobody watches it, and no arrival is calendared.**
+9. **The man of about sixty-four is given nothing on all ten days.**
+10. **The protagonist's name is not on a page, and this block may not settle it, may not name a day for it, may not name a person who would say it, may not promise it for a block, and may not let a character prepare for it.**
+11. **No figure about the length of the third month on any page of this block, and no figure about the length of the fourth month on any page of this block at all, and no second printing of the size of the error in the fourth of the four figures on that wall.**
+12. **The midpoint reversal is paid. It may not be brought back, repeated as a discovery, softened, or paid in a ledger or a figure, and no version of `HOW MUCH DOES IT COST TO COPY A THING` may be asked on any day of this block.**
+13. **The premise divergence is not repaired.** The manuscript is a yard on a bank with two tables in it and this block restores no piece of any other document.
+14. **No panel.** The cap is one a chapter and the count is zero.
+15. **The fixed final image at `outline/volume-12.md` SECTION 5.3 IS THE LAST PAGE OF THIS VOLUME AND IS FIXED THERE AND NOT CHOSEN BY A WRITER BLOCK, AND A CHAPTER MAY NOT REACH DAY FIFTY-ONE, AND MAY NOT PUT A THUMB IN THE HOLLOW, AND MAY NOT PUT A HAND ON THE FIFTH LINE, AND MAY NOT STRIKE, CORRECT, SUPERSEDE, REPLACE OR TAKE OUT THE NINE WORDS, AND MAY NOT ARRIVE ANYBODY.**
+
+## 10. THE FIGURES AND CONVENTIONS THIS BLOCK MUST RE-DERIVE, NOT INHERIT
+
+**`tools/measure.py` CANNOT MEASURE THIS MANUSCRIPT AND NO BLOCK MAY BUILD ON IT.** The resolver that works is written out in full at `state/volume-11-close.md` section 7.5 and must be lifted from there. A claim is a line carrying the string ` and read the number back to himself in a low voice`; the claim is the number in the words immediately before it, read as English including hyphenated compounds and `hundred and`; the speech is the next line that begins and ends `"**`; the two must be equal. **A HYPHENATED COMPOUND AFTER `HUNDRED AND` ADDS TO THE HUNDRED, AND A RESOLVER THAT ASSIGNS INSTEAD OF ADDS WILL REPORT A MISMATCH THAT IS NOT THERE. A CLAIM ABOVE ONE HUNDRED IN THIS MANUSCRIPT IS WRITTEN `one hundred and NN` AND A LEDGER FIGURE BETWEEN ONE HUNDRED AND ONE HUNDRED AND NINETY-NINE IS WRITTEN `a hundred and NN`, AND A SCRIPT THAT DOES NOT KNOW WHICH IS WHICH WILL ONE DAY WRITE A CLAIM THAT RESOLVES TO A DIFFERENT FIGURE FROM THE ONE IT MEANS; THAT FAULT WAS COMMITTED AND REPAIRED IN BLOCK 0003 AND IT IS PRINTED AT SECTION 9 OF THAT RECORD AT FULL SIZE. THE ORDINAL SUFFIXES ARE IRREGULAR AND `EIGHTH`, `NINTH`, `TWELFTH`, `FIRST`, `SECOND`, `THIRD` AND `TWENTIETH` MUST EACH BE HANDLED.**
+
+**AND THE FIGURES `state/volume-12-batch-0003-summary.md` LEAVES ARE AS TRUE FOR THIS BLOCK AS THEY WERE FOR THAT ONE, AND A BLOCK RECORD THAT PRINTS A ZERO WITHOUT ALL THREE OF THE DUPLICATION NUMBERS HAS NOT MEASURED ANYTHING:** the duplicated-sentence sweep in places and not only in sentences; the identical-paragraph sweep; the twelve-word sentence-opening sweep, which is the one a sentence sweep cannot see; and the over-200-word paragraph count. **A SHARED RUN IS ONE RUN, COUNTED ONCE, AND NOT ITS EXTRA OCCURRENCES, AND THAT SENTENCE MUST BE PRINTED NEXT TO THE FIGURE.** **The `about` hedge figure must be printed with its convention named, and the same convention used twice.** **The length denominator is `wc -w` and it is the only denominator in this repository.** **Panels are zero and four-figure pull-quotes are one a chapter, and both are true at once.**
+
+**THE FIGURES BLOCK 0003 LEFT, WHICH A WRITER MAY USE AS A COMPARISON AND NOT AS AN INHERITED NUMBER, ALL RE-DERIVED ON ITS OWN TEN FILES AFTER ITS LAST PROSE EDIT:** 29,221 words, mean 2,922.1, none outside 2,200 to 3,200; 57 counted claims, 57 matches, 0 mismatches, eight above a hundred; 57 durations across 24 distinct values, 2.52 to 2.70 words a second, mean 2.62; shared twelve-word runs 1,876 on reading A, with 10,170 per run-and-file pair, 10,838 per occurrence position and 668 per extra occurrence; 0 duplicated sentences in 0 places and 0 identical paragraphs in 0 places after repair; 38 twelve-word sentence openings recurring, 10 of them on all ten; 28 paragraphs over 200 words holding 24.1 per cent; closing-paragraph span 53 and 53 on the two tokenisations, mean second-to-last paragraph 214.1 words; `about` at 806 case-sensitive and 818 case-insensitive, titles out; 29,221 words at a mean of 2,922.1 against Volume 11's four blocks at 2,409.6, 2,616.8, 2,828.2 and 2,637.1. **NONE OF THOSE IS A FIGURE ABOUT THIS BLOCK AND EVERY ONE OF THEM MUST BE RE-DERIVED FROM THIS BLOCK'S OWN TEN FILES.**
+
+**AND ONE CRAFT INSTRUCTION THAT CAME OUT OF BLOCK 0002'S REVIEW AND THAT BLOCK 0003 ACTED ON AND THAT THIS BLOCK MUST ALSO ACT ON, PRINTED AS AN INSTRUCTION AND NOT AS A FIGURE: NOT EVERY SPEECH CARRIES THE FULL ATTRIBUTION, THE DURATION SCALES WITH THE SPEECH AND IS DERIVED FROM ITS REAL WORD COUNT AT ABOUT TWO AND A HALF TO TWO AND THREE QUARTERS WORDS A SECOND, AND EVERY CHAPTER CARRIES AT LEAST ONE PASSAGE OF PHYSICAL STAGING THAT IS NOT A LEDGER ENTRY. A BLOCK THAT ADDS CARRIERS TO FILL A PAGE ADDS SHARED RUNS, AND A SHARED-RUN FIGURE THAT IS LOWERED BY VARYING THE CARRIER IS A FIGURE THAT HAS BEEN WORKED ON, AND A CLOSE MUST BE ABLE TO SEE WHICH IT WAS.**
+
+## 11. WHAT THE BLOCK MUST DO AT THE END OF ITS TEN CHAPTERS
+
+**WRITE TEN CHAPTERS AND NOTHING ELSE, TEN DAYS, ONE A CHAPTER, EACH PRINTING ITS OWN DATE AND NO CHAPTER PRINTING A SECOND, EACH CLOSING ON A LEDGER THAT NAMES A PERSON BEFORE IT NAMES A TIME OF DAY, AND A MEAN LENGTH BETWEEN 2,200 AND 3,200 WORDS A CHAPTER.** Then append one block to `state/current.md`, one to `state/continuity.md`, one to `state/chapter-summaries.md`, one to `state/character-state.md` and one to `state/open-threads.md`, and write `state/volume-12-batch-0004-summary.md`.
+
+**AND CREATE NO NEXT PHASE. THIS IS THE LAST BLOCK OF THE VOLUME AND IT CREATES NOTHING AFTER ITS OWN BLOCK RECORD. THE NEXT PHASE OF THE PIPELINE IS A CLOSE AND IT IS NOT THIS PHASE'S TO CREATE.**
+
+**AND THE BLOCK RECORD MUST CARRY, BECAUSE EVERY ONE OF THESE HAS BEEN OMITTED OR MISREPORTED IN AN EARLIER BLOCK IN THIS REPOSITORY:** the per-chapter `wc -w` column and the total; the per-chapter counted-claim column and the sum, checked cell by cell against the printed speeches; the `about` hedge with its convention named; the shared twelve-word runs with the discriminator sentence printed next to the figure and the other three readings beside it; the duplicated-sentence sweep in places, the identical-paragraph sweep, the recurring-twelve-word-openings count and the over-200-word paragraph count; the closing-paragraph span on both tokenisations; the panel count and the four-figure pull-quote count; the path of the count of pages on that second table, morning by morning, all ten days; the seven protected relays whole string, per occurrence, per file, with the days each is silent on; the ladder's constant row printed beside the ladder and the anchor test printed beside that; the day-map assumption and the fact that the count of the third month returned thirty-one at Chapter 590; any figure in any document that this block's own chapters contradict, with the chapter, the day and the figure, and with the document named and untouched; **and the finding about the wall, restated as a thing this block inherited and neither repaired nor re-paid, so that a close does not read three hundred and sixty-four days as a new fact**; **and the tenure row, with all three of its inherited figures, because a close will otherwise find a fourth one.**
+
+**AND TWO THINGS A WRITER MUST CARRY INTO CHAPTER 600 AND MAY NOT FORGET ON THE MORNING OF IT: THE FIXED FINAL IMAGE IS NOT A LIST AND MAY NOT BE WRITTEN AS ONE, IT IS A YARD WITH A TABLE UNDER A STONE WITH NO WEAR ON IT AND A SECOND TABLE WITH A STONE LYING FACE UP AND THE COUNT OF PAGES ON IT, AND A CLERK ENTERING A COUNT WITHOUT LOOKING UP, AND A MAN AT THE FOOT OF A LOW WALL GIVEN NOTHING, AND A MAN WITH HIS RIGHT HAND FLAT ON THE BOARDS. AND THE COLUMN FOR THE NAME OF WHOEVER READ A THING OUT LOUD IS NAMED ON THAT LAST PAGE AND IS EMPTY, AND IT HAS BEEN NAMED MORE OFTEN IN THIS VOLUME THAN IN ANY BEFORE IT, AND THAT IS WHAT THAT COLUMN DOES AND IT IS NOT A FAILURE TO BE FIXED IN A CLOSE.**
