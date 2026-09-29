@@ -62,9 +62,11 @@
 | the marks cut off that board since the mark for the first of the twelfth month | **107** | 57 | 148 | 157 |
 | the marks in chalk along the edge of that second table | **93** | 43 | 134 | 143 |
 | **the mornings a man of about fifty-six has read four figures off that wall** | **the two hundred and seventy-fifth** | 225 | **the three hundred and sixteenth** | **the three hundred and twenty-fifth** |
-| the days a sheet has been on that second table | **0** | 0 | 41 | 50 |
+| the days a sheet has been on that second table | **48** | — | **89** | **98** |
 
-**THE CONSTANT ROW, PRINTED BESIDE THE TABLE: `448, 764, 478, 439, 198, 331, 153, 158, 228, 167, 289, —, 189, 188, 107, 93, 275, 0`. THE SECOND INTERCEPT ROW IS FIFTY BELOW IT ON EVERY ROW WITH NO EXCEPTIONS AND IS NOT TO BE USED.**
+**AND THE ROW ABOVE WAS REPAIRED IN THE REVIEW PASS ON BLOCK 0003 AND THE REPAIR IS NAMED HERE BECAUSE A CELL THAT WAS WRONG AND IS NOW RIGHT IS A CELL A WRITER WILL TRUST WITHOUT ASKING. This prompt's own ladder printed `0` at `c = 0`, `41` on day 41 and `50` on day 50, which is the inherited text's figure and is not what ten consecutive chapters of this volume carry. `state/volume-12-batch-0003-summary.md` section 11 item 1 documents the whole conflict: Chapter 550 prints fifty, Chapter 566 prints sixty-six at day 16, Chapter 572 prints sixty-nine at day 22, Chapter 580 prints seventy-eight at day 30, and Chapters 581 to 590 print seventy-nine to eighty-eight, which is `48 + c`. The chapters are canon, the copy has been on that second table for eighty-eight mornings, and on day 41 it is on its eighty-ninth and on day 50 it is on its ninety-eighth. THE DAY-41 CELL IS 89 AND THE DAY-50 CELL IS 98 AND NOT 41 AND 50, AND NO SECOND INTERCEPT ROW IS GIVEN FOR THIS ROW BECAUSE THE FIFTY TRAP DOES NOT APPLY TO IT.**
+
+**THE CONSTANT ROW, PRINTED BESIDE THE TABLE: `448, 764, 478, 439, 198, 331, 153, 158, 228, 167, 289, —, 189, 188, 107, 93, 275, 48`. THE SECOND INTERCEPT ROW IS FIFTY BELOW IT ON EVERY ROW WITH NO EXCEPTIONS AND IS NOT TO BE USED. THE LAST ENTRY IS THE REPAIRED TENURE ROW AND IS 48 AND NOT 0, FOR THE REASON PRINTED ABOVE IT.**
 
 **THE ANCHOR TEST, PRINTED BESIDE THE CONSTANT ROW: the day-41 cell of every column must be the successor of the figure Chapter 550 prints and not the figure itself, and the day-50 cell must be the day-41 cell plus nine.**
 

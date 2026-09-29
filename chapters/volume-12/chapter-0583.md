@@ -16,7 +16,7 @@ The man of about forty-eight who keeps a tally came up that bank with the flat b
 
 A clerk of nineteen years entered, at the near end of that first table in that yard, that a man said a thing out loud in that yard and entered the thing, and entered that a man held a book down against the wind with his own hand, and the record about the not asking says not asked.
 
-Nobody in that yard said anything, and about four people at the near end of that first table have said since that a man stood about eleven feet off a man at the end of the second table and told about nineteen people what this district would have to write down, and did not turn round at any point while he was saying it, and that about four of them have said that the not turning round was worse than the words.
+Nobody in that yard said anything, and about four people at the near end of that first table have said since that a man stood about nine feet off a man at the end of the second table and told about nineteen people what this district would have to write down, and did not turn round at any point while he was saying it, and that about four of them have said that the not turning round was worse than the words.
 
 The boy of about nineteen said one thing out loud at about half past nine, in about twenty-five seconds, and the boy counted what he said and got sixty-four and read the number back to himself in a low voice.
 

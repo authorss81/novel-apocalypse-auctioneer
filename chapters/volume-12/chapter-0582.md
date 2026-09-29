@@ -34,9 +34,11 @@ The woman of about thirty-three who takes in washing at the second channel came 
 
 A clerk of nineteen years entered that a woman said a thing out loud in that yard and entered the thing, and entered that a woman came up that bank with a basket and went down it again without stopping at either table, and the record about the not asking says not asked.
 
+A man of about thirty-one who digs loam came up that bank at about one, walked to the end of that second table that the board was standing against, read that board from that end of it, which is the only end it can be read from standing up, and stayed at the far end of those boards with his hands behind his back, and said nothing at all to anybody, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man was at the far end of that table and entered that she is not entering what he made of the board, and the record about the not asking says not asked.
+
 The man of about thirty-four who mends fencing was at the end of that second table at about half past two with his right hand flat on the boards and looked along them at the man standing at the far end of them and said one thing out loud, in about twenty-five seconds, and the boy counted what he said and got sixty-seven and read the number back to himself in a low voice.
 
-"**I have had a look at that board from where I am standing and I am not going to say anything about what is on it, and the reason is that the man standing at this end of this table is not going to be able to read it standing where I am standing, and I noticed that this morning before anybody said a word about it.**"
+"**I have had a look at that board from where I am standing and I am not going to say anything about what is on it, and the reason is that the man standing at that end of this table is not going to be able to read it standing where I am standing, and I noticed that this morning before anybody said a word about it.**"
 
 A clerk of nineteen years entered, with the pen she has had for about four years, that a man said a thing out loud in that yard and entered the thing, and entered that a man put his right hand flat on the boards of that second table and not on the stone and not on any of the three sheets, and the record about the not asking says not asked.
 

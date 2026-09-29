@@ -36,6 +36,8 @@ The man of about forty-eight who keeps a tally came and stood at the top end of 
 
 A clerk of nineteen years entered that a man said a thing out loud in that yard and entered the thing, and entered that he is not entering the comparison as a finding, and the record about the not asking says not asked.
 
+A man of about thirty-one who digs loam came up that bank at about eleven and stood at the far end of that second table with the six pages on it and looked down the two long sides of it and said nothing at all to anybody, and nobody in that yard asked him one word, and a clerk of nineteen years entered that a man was in that yard and entered that she is not entering what he made of six pages on one board, and the record about the not asking says not asked.
+
 The man of about thirty-four who mends fencing was at the end of that second table at about twelve with his right hand flat on the boards on the end where the six pages were not and said one thing out loud, in about thirty-four seconds, and the boy counted what he said and got ninety-one and read the number back to himself in a low voice.
 
 "**I have been at this end of this table about a month with a hand flat on it about nine feet off a man and I have just spent a morning looking at six pages with a straight edge on them, and I am not saying that is a waste. I am saying that about four of you now know as much about those six pages as anybody in a shop two hundred miles off, and that is a new thing, and I do not know what to do with it.**"
