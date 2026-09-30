@@ -1,4 +1,4 @@
-# Chapter 741: The Twenty Fifth Morning After The Thirtieth Of The Eighth Month A Man Took A Length Of Wire Out Of His Own Pocket And Put It Back In
+# Chapter 741: The Twenty-Fifth Morning After The Thirtieth Of The Eighth Month A Man Took A Length Of Wire Out Of His Own Pocket And Put It Back In
 
 The boards of that first table at the top of that bank were bare and dry and hard on the twenty-fifth morning after the thirtieth of the eighth month and there was nothing on them at all, and about four people had come up that bank before eight and had gone on to the top of that lane, and by ten there were about nineteen people in the yard of Lot Seventeen, and that was the two hundred and sixty-ninth morning after the count.
 

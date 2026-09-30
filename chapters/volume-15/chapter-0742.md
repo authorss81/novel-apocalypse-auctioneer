@@ -1,4 +1,4 @@
-# Chapter 742: The Twenty Sixth Morning After The Thirtieth Of The Eighth Month A Man Who Keeps A Tally Said He Had Entered Four Things About One Man
+# Chapter 742: The Twenty-Sixth Morning After The Thirtieth Of The Eighth Month A Man Who Keeps A Tally Said He Had Entered Four Things About One Man
 
 Rain had come down that bank in the night and the boards of that first table at the top of it were dark at about a quarter to eight on the twenty-sixth morning after the thirtieth of the eighth month, and there was nothing on them at all, and about four people had come up that bank before eight and had gone on to the top of that lane, and by ten there were about nineteen people in the yard of Lot Seventeen, and that was the two hundred and seventieth morning after the count.
 
