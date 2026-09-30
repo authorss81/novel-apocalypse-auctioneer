@@ -1,6 +1,6 @@
 # Chapter 775: The Fifty-Ninth Morning After The Thirtieth Of The Eighth Month A Man Of Sixty-One Told A Man Of Thirty-Eight The Truth About The Long Fracture At The Foot Of A Low Wall
 
-The figure on the sheet at that gatepost is four hundred and eleven and did not move and did not move yesterday and will not move tomorrow. Five hundred and fourteen days is the age of that figure, and nobody in this district has worked out what either of the two of them is for, and the boy of seventeen said so out loud in this yard about nine mornings ago and the man who reads four numbers off that wall was the first person to hear it.
+The figure on the sheet at that gatepost is four hundred and eleven and did not move and did not move yesterday and will not move tomorrow. Five hundred and fourteen days is the age of that figure, and nobody in this district has worked out what either of the two of them is for, and the man who reads four numbers off that wall says so twice a morning to whoever is standing there and has never once been asked.
 
 The board carries six hundred and seventy-three. The train on that siding has stood nine hundred and eighty-nine days. Nobody has entered anything for seven hundred and three days. Six hundred and sixty-four days separate the second of January and this morning.
 
@@ -8,7 +8,7 @@ Four hundred and twenty-three days is how long the bid has been open, and it was
 
 Three hundred and seventy-eight days is how far behind the figure on the second line of that lot book is. Three hundred and eighty-three days is how long the rule said out loud in that yard has stood. Four hundred and fifty-three days is how long it has been since the first day of the eighth month. The ninth of the nine printed nights is five hundred and fifty-six days back and no night has been named. A body four hundred miles off is three hundred and ninety-two days past a printing it did not make.
 
-Three hundred and thirty-two marks have been cut off that board, and there are three hundred and eighteen marks in chalk along the edge of that second table. The count of counted months is six, and it has not moved on any morning of this book. The number of documents this district does not own is four, and it has not moved either, and there is a page coming up that lane which is not one of them and has not arrived. The number of places in this district where those three lines can be read is four and did not move. The number of conditions with no end on it is four and did not move, and the fifth of those five lines is one of them, and the count of the five things this district does not have is five and is not paid and has not been paid on any of the twenty-five mornings this district has had a lane with a figure on the end of it.
+Three hundred and thirty-two marks have been cut off that board, and there are three hundred and eighteen marks in chalk along the edge of that second table. The count of counted months is six, and it has not moved on any morning of this book. The number of documents this district does not own is four, and it has not moved either, and there is a page coming up that lane which is not one of them and has not arrived. The number of places in this district where those three lines can be read is four and did not move. The number of conditions with no end on it is four and did not move, and the fifth of those five lines is one of them, and the count of the five things this district does not have is five and is not paid and has not been paid on any morning this district has had a lane with a figure at the end of it.
 
 The second table has stood at the foot of that bank eighty-nine mornings and moved this morning from eighty-eight. The near rail has stood on the near side of it for thirty-nine mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is fifty-nine, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move, and it did not move this morning when nine names were said out loud in that yard yesterday, and that is the second time in a fortnight that a morning which ought to have moved it did not, and the man who keeps a tally entered both of those and entered no reason for either. Nothing has come down that lane with a page in his hand for ten mornings and the lane count is twenty-one and still is.
 
@@ -68,11 +68,11 @@ He went and stood about nine feet off the near end of the first table at the top
 
 He came down. He put the case on the stones and sat down about four feet off a man of about sixty-four and did not say anything for long enough that the man said it.
 
-"You said yesterday that you had nothing to say to me and that you had said it."
+"You told me the day before yesterday that you had nothing to say to me and that you had said it."
 
 "I did say it."
 
-"So I am going to say it again, because yesterday you were a stranger and today you are a fact, and a fact deserves being said to twice."
+"So I am going to sit here and let you say something else, because the day before yesterday you were a stranger and today you are a fact, and a fact deserves being said to twice."
 
 "I am going to say something here that I have not said to anybody in seventeen years," said Iven Tallow, "and I would like you to be about four feet off when I do, and not nearer, and I would like the other man to be able to walk away at any point without it stopping, and if either of those two things cannot be arranged then tell me now."
 
@@ -150,7 +150,7 @@ Neither of them had expected him.
 
 Adrian sat down on the stones at the bottom of a low wall, on the side away from the sun, about nine feet from a man of sixty-one who had come down that bank at about a quarter past three to say the true thing about the Long Fracture in front of him.
 
-The old man watched him do it.
+Iven Tallow watched him do it.
 
 "There," said Iven Tallow. "Now I will carry on, because you are the only person I have ever told this to who has had somebody in the room with him, and that is the reason I did it here and not in a room, and you were right to tell me not to do it in a room and I want you to hear yourself having been right about one thing this afternoon."
 
@@ -174,13 +174,13 @@ Adrian stood with his hands at his sides and did not interrupt, and Mara Quill's
 
 "That is the Long Fracture."
 
-"That is the Long Fracture," said Iven Tallow. "Not a machine. Not a judgement. Not a judgement at all. A settlement that did not close, with one man in the hole in it, and a great deal of what has gone wrong in this basin in seventeen years has gone wrong down a crack that starts in that gap, and about nine people in this yard can tell you the crack and not one of them can tell you the gap. And there is one thing I did that the gap does not excuse. In the ninth year I put my name on the roll of a ward market when nobody had asked me to and nobody would have been able to stop me, and about four hundred people went without bread in the winter after that, and I have never been able to make that come out of this, and I have had nine years to try."
+"That is the Long Fracture," said Iven Tallow. "Not a machine. Not a judgement. Not a judgement at all. A settlement that did not close, with one man in the hole in it, and a great deal of what has gone wrong in this basin in seventeen years has gone wrong down a crack that starts in that gap, and about nine people in this yard can tell you the crack and not one of them can tell you the gap. And there is one thing I did that the gap does not excuse. In the ninth year I put my name on the roll of a ward market when nobody had asked me to and nobody would have been able to stop me, and about four hundred people went without bread in the winter after that, and I have never been able to make that come out of this, and I have had about eight years to try."
 
 ---
 
 "You are telling me this because you want me to do it your way."
 
-"No," said the old man. "I am telling you because you are the only person in this basin who has spent eighty mornings doing the exact opposite of what I did, out loud, in public, at a price, in a yard, with a clerk writing it down and reading it back to you in front of everybody, and because I am sixty-one and I have run out of anybody else, and I would rather say that to your face than have you work it out in about four years and be disappointed about the shape of it."
+"No," said Iven Tallow. "I am telling you because you are the only person in this basin who has spent eighty mornings doing the exact opposite of what I did, out loud, in public, at a price, in a yard, with a clerk writing it down and reading it back to you in front of everybody, and because I am sixty-one and I have run out of anybody else, and I would rather say that to your face than have you work it out in about four years and be disappointed about the shape of it."
 
 Adrian sat down on the stones. He had not decided to. He found out about it afterwards.
 
@@ -206,7 +206,7 @@ The man of about sixty-four had not moved. He had his hands on his knees and he 
 
 Iven Tallow did not answer for a long time, and Adrian understood, some distance away and about nine years too late, that the man who came down that bank at about a quarter past three had known he was going to be asked exactly that, and had come down the bank anyway.
 
-"That is the one thing I came to this yard to find out," the old man said, "and I cannot answer it, and I have not been able to answer it for seventeen years, and I have never said it in a yard before and I would have gone on not saying it if this yard had been empty."
+"That is the one thing I came to this yard to find out," Iven Tallow said, "and I cannot answer it, and I have not been able to answer it for seventeen years, and I have never said it in a yard before and I would have gone on not saying it if this yard had been empty."
 
 The man of about sixty-four looked at Adrian.
 
@@ -234,7 +234,7 @@ The old man got up off the stones before Adrian did, and picked up the case, and
 
 "That is two people."
 
-"That is two people who have never witnessed a term in their lives," said the old man. "And a witness who does not know what the term costs is not a witness. He is a person standing near a thing. That man has been standing near a thing for fifteen years and there is a line in a book that says so and nobody has ever asked him to describe it, and if you put his name against that clause he will be a decoration and you will have found two names and no witnesses and you will have done precisely what I did, with better manners and a shorter distance to run."
+"That is two people who have never witnessed a term in their lives," said Iven Tallow. "And a witness who does not know what the term costs is not a witness. He is a person standing near a thing. That man has been standing near a thing for fifteen years and there is a line in a book that says so and nobody has ever asked him to describe it, and if you put his name against that clause he will be a decoration and you will have found two names and no witnesses and you will have done precisely what I did, with better manners and a shorter distance to run."
 
 ---
 

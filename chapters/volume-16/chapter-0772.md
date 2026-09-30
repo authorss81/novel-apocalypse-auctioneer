@@ -80,7 +80,7 @@ And the man nodded once, and it was the first thing he did that had any warmth i
 
 "I decided you were dead."
 
-"That is a different sentence and it is the better one," said Iven Tallow, "and I have thought about the difference between those two sentences for about sixteen years, so you will forgive me if I notice it."
+"That is a different sentence and it is the better one," said Iven Tallow, "and I have thought about the difference between those two sentences for about seventeen years, so you will forgive me if I notice it."
 
 ---
 
@@ -122,7 +122,7 @@ Adrian looked down the eleven feet of bank at the place where a man of about six
 
 "I have been told it by the man who keeps every road in this basin, in a yard, out loud, at about a quarter to six on the fiftieth morning, and he said he had got it from a shopkeeper and that he would not say it again."
 
-The old man was quiet for a moment.
+Iven Tallow was quiet for a moment.
 
 "Then I have been discussed," he said. "Good. I would rather be discussed than waited for. I have spent seventeen years being waited for and I can tell you exactly what it is like and it is a room with a person's name in a column and nobody in it, and I did that to you before I came up the hill, and I would like that entered somewhere by somebody, because you are going to find out that I did and I would rather you found out from a boy than from me."
 
@@ -136,7 +136,7 @@ The old man was quiet for a moment.
 
 Iven Tallow turned round and looked at him properly for the first time, which took about as long as it takes to read a page.
 
-"You are about thirty-seven," he said. "That line has been on that book for fifteen years and it is the only line in it with a man behind it and you put it there when you were about twenty-two, and you have been standing at the end of it ever since, and about nine mornings ago you put four lines in a margin saying a man was asked for an end and said no."
+"You are about thirty-seven," he said. "That line has been on that book for fifteen years and it is the only line in it with a man behind it and you put it there when you were about twenty-two, and you have been standing at the end of it ever since, and about four mornings ago you put four lines in a margin saying a man was asked for an end and said no."
 
 The man at the end of that table did not move at all.
 

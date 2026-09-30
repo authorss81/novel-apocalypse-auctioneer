@@ -10,7 +10,7 @@ Three hundred and seventy-nine days is how long the rule said out loud in that y
 
 Three hundred and twenty-eight marks have been cut off that board, and there are three hundred and fourteen marks in chalk along the edge of that second table. The count of counted months is six and did not move. The number of documents this district does not own is four and did not move. The number of places in this district where those three lines can be read is four and did not move, and the fifth would be a shop counter. The number of conditions with no end on it is four and did not move, and the fifth of those five lines is one of them, and the count of the five things this district does not have is five and is not paid.
 
-The second table has stood at the foot of that bank eighty-five mornings and moved this morning from eighty-four. The near rail has stood on the near side of it for thirty-five mornings and nobody is to thank the man who fitted it, because the man of fifty-six forbade it in a yard and the yard agreed. The number of mornings a man has been at the foot of that bank is fifty-five, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move. The lane count is twenty-one and did not move this morning, and the twenty-first of those is a man with a cart who stopped four feet below the top of that bank about eleven mornings ago because a boy asked him to, and not one of the six mornings since has a stranger come down that lane with a page in his hand, and nobody in this yard has decided what to make of that.
+The second table has stood at the foot of that bank eighty-five mornings and moved this morning from eighty-four. The near rail has stood on the near side of it for thirty-five mornings and nobody is to thank the man who fitted it, because the man of fifty-six forbade it in a yard and the yard agreed. The number of mornings a man has been at the foot of that bank is fifty-five, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move. The lane count is twenty-one and did not move this morning, and the twenty-first of those is a man with a cart who stopped four feet below the top of that bank about six mornings ago because a boy asked him to, and not one of the mornings since has a stranger come down that lane with a page in its hand, and nobody in this yard has decided what to make of that.
 
 The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the four hundred and ninety-sixth of those mornings.
 
@@ -62,7 +62,7 @@ The boy turned the paper about a quarter of the way round so that Adrian could s
 
 He said the other five.
 
-He had been at the foot of that bank on four mornings, on the second table's near side, four feet off the end of it, on the two mornings when a man had said a thing out loud that the man he was about was in the yard for, and on the two mornings when he had been standing in the gap where the boards give and looking up at a man's hands and not at the boards.
+He had been at the foot of that bank on four mornings, on the second table's near side, four feet off the end of it, on the two mornings when a man had said a thing out loud that the man he was about was in the yard for, and on the two mornings when he had been at the top of that bank in the gap where the boards give, looking down at a man's hands and not at the boards.
 
 "And the sixth one is at the top of the lane," the boy said, "at about a quarter to eight on the morning a page went up that hill in a cart, and I was standing in the lane watching the cart go, and you were in this yard, and I was not, and if you are about to tell me that the lane is not the yard then I would like you to say it in that form and not in any other form."
 
@@ -78,13 +78,13 @@ Adrian stood very still for about the length of a walk down to the second table 
 
 Then he turned to the wall, where the man of fifty-six had been standing long enough for the light to change on the near side of his coat, with his back to all of it and his hand flat on the stone.
 
-"Mr Sarr," the boy said. "I would like you to say the number."
+"I would like you to say the number," the boy said. "I have to say that part out loud first, because I have been in this yard four years and I have just found out that I have not got a name for you and never had one."
 
 "No," said the man of fifty-six, without turning round.
 
 "You said on the fiftieth morning that you would do it if somebody asked you in a yard."
 
-"I did say it." The man took his hand off the stone. "And on the fifty-fourth morning a boy asked me and I said it, and it is the first figure I have read in my life off anything that was not that wall, and I have not been able to put it down since, and that is the first morning of it, and I said four mornings ago that I was going to be frightened for about a year, and I meant it, and I did not think it would start with a boy standing on some boards. I did not say for about eleven days."
+"I did say it." The man took his hand off the stone. "And on the fifty-fourth morning a boy asked me and I said it, and it is the first figure I have read in my life off anything that was not that wall, and I have not been able to put it down since, and that is the first morning of it, and I said five mornings ago that I was going to be frightened for about a year, and I meant it, and I did not think it would start with a boy standing on some boards. I did not say for about eleven days."
 
 He turned round. He looked at the boy and not at the sheet.
 

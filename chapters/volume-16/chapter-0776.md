@@ -1,4 +1,4 @@
-# Chapter 776: The Sixtieth Morning After The Thirtieth Of The Eighth Month The Clerk Of That District Did Not Enter Any Of It And Then Went Down The Bank And Asked A Question She Had Been Frightened Of For Four Days
+# Chapter 776: The Sixtieth Morning After The Thirtieth Of The Eighth Month The Clerk Of That District Did Not Enter Any Of It And Then Went Down The Bank And Asked A Question She Had Been Frightened Of For Seven Days
 
 The figure on the sheet at that gatepost is four hundred and eleven and it is not going to be explained this morning and nobody in this yard has asked. Five hundred and fifteen days is the age of that figure.
 
@@ -10,7 +10,7 @@ Four hundred and fifty-four days is how long it has been since the first day of 
 
 Three hundred and thirty-three marks have been cut off that board, and there are three hundred and nineteen marks in chalk along the edge of that second table. The count of counted months is six and it has not moved since a clerk of nineteen counted one off a wall in about ten minutes in front of about nineteen people. The number of documents this district does not own is four, and it did not move yesterday either, and a page is still coming up that lane. The number of places in this district where those three lines can be read is four and has not moved. The number of conditions with no end on it is four and has not moved and the fifth of those five lines is one of them, and the count of the five things this district does not have is five, and the fifth of them is a way to pay a person who is not in a household, and it is not paid.
 
-The second table has stood at the foot of that bank ninety mornings and moved this morning from eighty-nine. The near rail has stood on the near side of it for forty mornings and nobody is to thank the man who fitted it and the man who fitted it has not been in that yard since the fifty-first morning, which nobody has established to be on purpose. The number of mornings a man has been at the foot of that bank is sixty, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move and does not move on a thing one person did, and a man of sixty-one has now been in that yard two afternoons. The lane count is twenty-one and has not been anything else for eleven mornings.
+The second table has stood at the foot of that bank ninety mornings and moved this morning from eighty-nine. The near rail has stood on the near side of it for forty mornings and nobody is to thank the man who fitted it and the man who fitted it was in that yard at about ten this morning and did not stop at the wall, which is the whole of what he has done about it in a fortnight. The number of mornings a man has been at the foot of that bank is sixty, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move and does not move on a thing one person did, and a man of sixty-one has now been in that yard two afternoons. The lane count is twenty-one and has not been anything else for eleven mornings.
 
 The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and first of those mornings, and he said the fourth of them out loud this morning before anybody else in that yard had got to the top of the bank, which is about four minutes earlier than he has ever said it.
 
@@ -38,7 +38,7 @@ Mara Quill stopped walking.
 
 "No."
 
-"You entered two figures out of two other men's mouths. A man who cannot pay said forty coppers in this yard on the fifty-first morning and a boy of seventeen said seventy yesterday afternoon, and neither of them said one word to a man of sixty-one."
+"You entered two figures out of two other men's mouths. A man who cannot pay said forty coppers in this yard on the fifty-first morning and a boy of seventeen said seventy on the fifty-fourth morning, and neither of them said one word to a man of sixty-one."
 
 "Yes."
 
@@ -84,7 +84,7 @@ Adrian let about nine yards go by.
 
 They went back down the bank at about ten and the woman who keeps a scale was standing on her own step with a weight on the door, waiting, which she does.
 
-"You've been up that lane," the woman said. "I heard you go up it and I have been standing here since about half past nine working out whether I was going to say this and I have decided that I am, and I have decided it because of what I read out loud in this yard two mornings ago and what was done about it afterwards."
+"You've been up that lane," the woman said. "I heard you go up it and I have been standing here since about half past nine working out whether I was going to say this and I have decided that I am, and I have decided it because of what I read out loud in this yard seven mornings ago and what was done about it afterwards."
 
 "What was done about it."
 
@@ -98,7 +98,7 @@ They went back down the bank at about ten and the woman who keeps a scale was st
 
 "I know."
 
-"You know about the three pages. You have never once asked whether I wanted my name in a book." She put her hands flat on her own counter. "Now. You have been asking each other for about eleven days what instrument this district has for asking a person something, and there is a man at the foot of that bank who told you the answer yesterday and it is a yard. So use it. And the first thing you use it for is not nineteen kitchens and not nine coppers and not a clause nine miles up a hill. It is me."
+"You know about the three pages. You have never once asked whether I wanted my name in a book." She put her hands flat on her own counter. "Now. You have been asking each other for about eleven days what instrument this district has for asking a person something, and there is a man at the foot of that bank who told you the answer five mornings ago and it is a yard. So use it. And the first thing you use it for is not nineteen kitchens and not nine coppers and not a clause nine miles up a hill. It is me."
 
 ---
 
@@ -124,7 +124,7 @@ The man of fifty-six was at the near end of the boards at about one with the boy
 
 Mara Quill came the last four feet and did not touch the book, which is on the boards at the top of that bank and not in her hands this morning because she had deliberately left it there.
 
-"I am going to ask you a question in this yard," she said, "and it is one I have been frightened of for four days, and I am going to say that out loud first because I have watched two people in this yard do that this month and it worked and I am copying both of them."
+"I am going to ask you a question in this yard," she said, "and it is one I have been frightened of for seven days, and I am going to say that out loud first because I have watched two people in this yard do that this month and it worked and I am copying both of them."
 
 "I would expect nothing else."
 

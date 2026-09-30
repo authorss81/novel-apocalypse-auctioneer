@@ -8,21 +8,21 @@ Four hundred and twenty-five days is how long the bid has been open and it was n
 
 Three hundred and thirty-four marks have been cut off that board, and there are three hundred and twenty marks in chalk along the edge of that second table. The count of counted months is six and did not move. The number of documents this district does not own is four, and did not move either. The number of places in this district where those three lines can be read is four and has not moved all fortnight. The number of conditions with no end on it is four and is where it was on the first morning of this book. The count of the five things this district does not have is five and is not paid, and the fifth of those five lines is a way to pay a person who is not in a household, and there is a blanket on a wall at a culvert in this basin that nobody has ever been able to say who left there.
 
-The second table has stood at the foot of that bank ninety-one mornings and moved this morning from ninety. The near rail has stood on the near side of it for forty-one mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is sixty-one, on the word of the man who keeps a tally, said before it was entered, and this morning it went in at a quarter past nine, which is nine hours earlier than it has ever gone in, and the man who keeps a tally entered that he had said it earlier and entered no reason. The count of things this district has made is fourteen, and did not move, and did not move this morning either although a road keeper wrote in a book at the bottom of a bank, which is a thing a person did on a road. The lane count is twenty-one, and did not move, and nothing has come down that hill with a page in his hand for twelve mornings.
+The second table has stood at the foot of that bank ninety-one mornings and moved this morning from ninety. The near rail has stood on the near side of it for forty-one mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is sixty-one, on the word of the man who keeps a tally, said before it was entered, and this morning it went in at a quarter past nine, which is about an hour and a half later than it has ever gone in, and the man who keeps a tally entered that he had said it earlier and entered no reason. The count of things this district has made is fourteen, and did not move, and did not move this morning either although a road keeper wrote in a book at the bottom of a bank, which is a thing a person did on a road. The lane count is twenty-one, and did not move, and nothing has come down that hill with a page in his hand for twelve mornings.
 
 The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and second of those mornings.
 
-At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and sixteenth night of that run, having slept on four hundred and fifteen of them, and a man of about forty-three who keeps every road in this basin and who has known about those nights for two years stood at the top of eleven feet at about ten and told about nine people in that yard that he was not coming down there until somebody asked him something, and nobody asked him anything for about five hours.
+At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and sixteenth night of that run, having slept on four hundred and fifteen of them, and a man of sixty-one was on the stones about four feet off him, which is the sixth afternoon running, and neither of them has said one word since about four o'clock the day before, and a man of about forty-three who keeps every road in this basin and who has known about those nights for two years stood at the top of eleven feet at about ten and told about nine people in that yard that he was not coming down there until somebody asked him something, and nobody asked him anything for about five hours.
 
 ---
 
-"You told me on the forty-eighth morning that the failure was not in the room," Adrian said, at about eleven, on the boards, "and for nine mornings I have been saying that you were wrong about the room and I was wrong about the cause, and I was wrong about the cause, and I am going to say it in a yard because you asked me for it in a yard."
+"You told me on the forty-eighth morning that the failure was not in the room," Adrian said, at about eleven, on the boards, "and for thirteen mornings I have been saying that you were wrong about the room and I was wrong about the cause, and I was wrong about the cause, and I am going to say it in a yard because you asked me for it in a yard."
 
 Tarin Kest put the waybill board down flat on the boards of the first table.
 
 "Do not," he said.
 
-"It is the truth and you have been asking me for the truth for nine mornings."
+"It is the truth and you have been asking me for the truth for thirteen mornings."
 
 "It is the truth and I did not come down that hill for it." He did not pick the board up. "A concession given away in a yard at eleven in the morning is a thing a person feels good about, and you have been feeling good about this yard for about eleven days and about four of the people in it have gone home worse off than they came, and I would like you to work out which of those four you are before you say anything else to me."
 
@@ -30,7 +30,7 @@ Tarin Kest put the waybill board down flat on the boards of the first table.
 
 ---
 
-"It follows that a thing is lost on the eleventh mile because there is nothing in this basin that can find it," Adrian said. "Not because the road is bad and not because nobody was watching. Because a mile and a half with a turn and a culvert on it and nothing on either side is a place where a fact has no place to stand, and you have been walking about nine hundred yards of nothing for nine years and calling it a road and it is not a road, it is a gap, and I have been arguing with you about a room for nine mornings instead of agreeing with you about the gap."
+"It follows that a thing is lost on the eleventh mile because there is nothing in this basin that can find it," Adrian said. "Not because the road is bad and not because nobody was watching. Because a mile and a half with a turn and a culvert on it and nothing on either side is a place where a fact has no place to stand, and you have been walking a mile and a half of nothing for nine years and calling it a road and it is not a road, it is a gap, and I have been arguing with you about a room for nine mornings instead of agreeing with you about the gap."
 
 "Aye."
 
@@ -82,7 +82,7 @@ Kest looked down the eleven feet of bank at the low wall and the two stones at t
 
 "You said on the fiftieth morning that you had known for two years and had never asked, and you said the reason was that you asked a man at a turning once."
 
-"I did say that and it is half the reason and I have been waiting nine mornings for somebody to notice that it is half." He turned the board over in his hands. "The other half is that a man who keeps two hundred men's roads is a man whose whole trade is knowing where not to be asked, and I found that out about forty years before I found out anything else, and I have been very comfortable in it for nineteen years, and a man of about thirty-eight has come down that hill and made this yard into a place where about nine people have become findable since the thirty-ninth morning and I have watched it happen and I have not once walked down that bank, and it has not been tact. It has been that I am the man in this yard who knows what finding somebody costs."
+"I did say that and it is half the reason and I have been waiting thirteen mornings for somebody to notice that it is half." He turned the board over in his hands. "The other half is that a man who keeps two hundred men's roads is a man whose whole trade is knowing where not to be asked, and I found that out about forty years before I found out anything else, and I have been very comfortable in it for nineteen years, and a man of about thirty-eight has come down that hill and made this yard into a place where about fourteen people have become findable since the thirty-ninth morning and I have watched it happen and I have not once walked down that bank, and it has not been tact. It has been that I am the man in this yard who knows what finding somebody costs."
 
 ---
 
@@ -100,7 +100,7 @@ At about half past three he came down the eleven feet on foot, with the waybill 
 
 The man of about sixty-four had his coat folded on the stones and his hands on his knees and he had been there since about half past three and he had watched a man of forty-three come down a bank he had never been down in two years.
 
-"You have been in that yard nine days," the man on the stones said, "and you have not been down here once."
+"You have been in that yard thirteen mornings," the man on the stones said, "and you have not been down here once."
 
 "I have not."
 
@@ -110,7 +110,7 @@ The man of about sixty-four had his coat folded on the stones and his hands on h
 
 ---
 
-"You have been in that yard nine days and you have talked to every person in it," the man on the stones said, "and there is nobody in that yard I would rather not be asked by and you are one of them and I am telling you that before you ask me, so that if you ask me then you know."
+"You have been in that yard thirteen mornings and you have talked to every person in it," the man on the stones said, "and there is nobody in that yard I would rather not be asked by and you are one of them and I am telling you that before you ask me, so that if you ask me then you know."
 
 "All right."
 
@@ -238,7 +238,7 @@ He got his coat over his arm and stood there on the stones with the light going 
 
 At about four o'clock a man of fifty-six said four figures off a wall at the top of that bank in the ordinary voice and got all four of them, and the yard heard him, and then he did a thing he has not done in nine years, which was to stand still afterwards and say one more sentence to nobody in particular.
 
-"You have all been in this yard eleven days," he said, "and you have finally got reasons. Not one of you has anywhere to put them. I have read four numbers off this wall twice a morning for nine years because a wall is the only place in this basin that will keep a figure for as long as anybody wants it without a person's name going on it, and that is all it is good for, and none of you lot has ever once asked me what it is good for."
+"You have all been in this yard eleven days," he said, "and you have finally got reasons. Not one of you has anywhere to put them. I have read four numbers off this wall twice a morning since I cannot remember being in this yard without doing it, because a wall is the only place in this basin that will keep a figure for as long as anybody wants it without a person's name going on it, and that is all it is good for, and none of you lot has ever once asked me what it is good for."
 
 He picked up his coat.
 

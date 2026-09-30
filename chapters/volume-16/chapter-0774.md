@@ -50,7 +50,7 @@ Adrian put his hands where she could see them.
 
 She sat down on the boards, which she did not do.
 
-"If I say who *we* is in a yard, then everybody who hears it can be asked about it afterwards, and that is the only thing this yard has ever done for anybody. You have all spent eleven days learning it and I have spent nine years knowing it, and six people in this district are now findable who were not, and one of them is me, because I said my own name out loud on this board, and one of them is a man at the end of that table who spent nine years making himself unfindable and who decided in the end that a line was worth more than a favour, and he was right, and I am the reason he had to decide it."
+"If I say who *we* is in a yard, then everybody who hears it can be asked about it afterwards, and that is the only thing this yard has ever done for anybody. You have all spent fourteen days learning it and I have spent nine years knowing it, and six people in this district are now findable who were not, and one of them is me, because I said my own name out loud on this board, and one of them is a man at the end of that table who spent nine years making himself unfindable and who decided in the end that a line was worth more than a favour, and he was right, and I am the reason he had to decide it."
 
 "I know."
 
@@ -152,7 +152,7 @@ Adrian looked at the eleven feet of bank.
 
 "That is a page saying *we cannot ask everybody*," he said.
 
-"Yes," said the woman of fifty-eight. "And a man nine miles up that hill is going to read it and put it in a column called markets that cannot answer, and there will be about nine other markets in this basin that cannot answer either and none of them will have said so, and in about four years somebody will use that column against about forty households who have never heard of it. And I am going to write it anyway, and I would like it noticed that writing it and sending it are two different things and only one of them is in my hands. Because the alternative is forty coppers, and the figure of forty coppers was said out loud in this yard by a man who cannot pay it, and I have watched that figure go into about nineteen mouths in eleven mornings, and a market that cannot say what it cannot do is a market that somebody else decides for."
+"Yes," said the woman of fifty-eight. "And a man nine miles up that hill is going to read it and put it in a column called markets that cannot answer, and there will be about nine other markets in this basin that cannot answer either and none of them will have said so, and in about four years somebody will use that column against about forty households who have never heard of it. And I am going to write it anyway, and I would like it noticed that writing it and sending it are two different things and only one of them is in my hands. Because the alternative is forty coppers, and the figure of forty coppers was said out loud in this yard by a man who cannot pay it, and I have watched that figure go into about nineteen mouths in seven mornings, and a market that cannot say what it cannot do is a market that somebody else decides for."
 
 ---
 

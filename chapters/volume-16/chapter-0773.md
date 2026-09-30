@@ -100,7 +100,7 @@ The stones are at the foot of a low wall about nine feet to the near side of the
 
 "Then I have nothing to say to you and I have said it."
 
-"All right," said the old man.
+"All right," said Iven Tallow.
 
 The man of about sixty-four did not look at him. He had his hands on his knees and he was looking at about two miles of nothing through a gap in a hedge, and the sun was behind the far side of it and would be another hour before it was worth walking.
 
@@ -108,7 +108,7 @@ The man of about sixty-four did not look at him. He had his hands on his knees a
 
 "You do not have to answer me."
 
-"I am aware of that," said the man of about sixty-four. "I have been aware of it since about the fortieth morning and I have not said one word to anybody, and I have had a clerk's line about me that I did not ask for, and I have found out since that it is in her book and not in that one, and I have had a road keeper ask me once what the run is and a man ask me once whether I wanted to be findable, and both of them wanted something out of me, and you have not wanted anything yet, and that is the only reason I am going to let you sit here."
+"I am aware of that," said the man of about sixty-four. "I have been aware of it since about the fortieth morning and I have not said one word to anybody, and I have had a clerk's line about me that I did not ask for, and I have found out since that it is in her book and not in that one, and a man in that yard asked me once in front of about nineteen people whether I wanted to be findable, and he wanted something out of me when he did it, and you have not wanted anything yet, and that is the only reason I am going to let you sit here."
 
 They did not say anything else that afternoon. About four people came down the bank in the last hour of the light and stood about nine feet off and did not come closer, and the turner who comes up that lane twice a day and is not one of anybody's came through at about five, read the wall without stopping, looked at two men sitting on some stones at the bottom of a bank, put his head on one side, and went on up the hill.
 
@@ -150,7 +150,7 @@ They went up it. There was nothing to see, which was the point, and at about nin
 
 ---
 
-They came back down the bank at about ten past four and the man of fifty-six was at the wall saying the four figures out loud in the ordinary voice to about nine people, and the old man stopped on the boards and listened to the end of it, and did not go down, and Adrian watched a man who had written a rule in about nine months stand in a yard and listen to a man of fifty-six do four numbers twice a day.
+They came back down the bank at about ten past four and the man of fifty-six was at the wall saying the four figures out loud in the ordinary voice to about nine people, and Iven Tallow stopped on the boards and listened to the end of it, and did not go down, and Adrian watched a man who had written a rule in about nine months stand in a yard and listen to a man of fifty-six do four numbers twice a day.
 
 "What did he say to you up there," said the man at the end of the second table, when the yard had emptied down to about four people.
 

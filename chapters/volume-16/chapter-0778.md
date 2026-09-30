@@ -6,7 +6,7 @@ The board carries six hundred and seventy-six, and the train on that siding has 
 
 Four hundred and twenty-six days is how long the bid has been open and it was not run. Three hundred and eighty-one days is how far behind the figure on the second line of that lot book is. Three hundred and eighty-six days is how long the rule said out loud in that yard has stood. Four hundred and fifty-six days is how long it has been since the first day of the eighth month. The ninth of the nine printed nights is five hundred and fifty-nine days back. A body four hundred miles off is three hundred and ninety-five days past a printing it did not make.
 
-Three hundred and thirty-five marks have been cut off that board, and there are three hundred and twenty-one marks in chalk along the edge of that second table, and those two figures have moved together every morning for two years. The count of counted months is six and stands. The number of documents this district does not own is four and stands. The number of places in this district where those three lines can be read is four, and stands. The number of conditions with no end on it is four and did not move. The count of the five things this district does not have is five and is not paid.
+Three hundred and thirty-five marks have been cut off that board, and there are three hundred and twenty-one marks in chalk along the edge of that second table, and those two figures have moved together every morning this book has run. The count of counted months is six and stands. The number of documents this district does not own is four and stands. The number of places in this district where those three lines can be read is four, and stands. The number of conditions with no end on it is four and did not move. The count of the five things this district does not have is five and is not paid.
 
 The second table has stood at the foot of that bank ninety-two mornings and moved this morning from ninety-one. The near rail has stood on the near side of it for forty-two mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is sixty-two, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move, and a boy ruled a box on the back of his own sheet this afternoon and it did not move, and a box on the back of a sheet is not a thing four people made. The lane count is twenty-one and has not been anything else since a cart stopped four feet below the top of that bank.
 
@@ -76,7 +76,7 @@ Nine people in that yard made a noise of one sort or another and about four of t
 
 "That is not what you are going to want to hear," Adrian said, from about nine feet off the near end of the boards.
 
-"I know exactly what you are going to want to hear," the man said, "and I have had two days to get ready for you saying it and I have decided that I would rather have the awkward version. Strike it out. Leave the first column empty on my row. I have been in this yard nine years and I have spent all of them being a line on a book and I would like about four words of paper not to be one."
+"I know exactly what you are going to want to hear," the man said, "and I have had two days to get ready for you saying it and I have decided that I would rather have the awkward version. Strike it out. Leave the first column empty on my row. I have been at the end of this table for fifteen years and I have spent most of them being a line on a book and I would like about four words of paper not to be one."
 
 ---
 
@@ -92,7 +92,7 @@ Nine people in that yard made a noise of one sort or another and about four of t
 
 "Why."
 
-"Because a thing I have asked you to keep is a favour, and a favour can be refused," said the man at the end of the second table, "and if it is a favour then in about four years it comes down to me whether you felt like it. I want it to be an instruction. An instruction has to be obeyed and an instruction can be refused and either way it has got a shape, and I have been a vague favour in about nine rooms for about nine years and I am tired of it."
+"Because a thing I have asked you to keep is a favour, and a favour can be refused," said the man at the end of the second table, "and if it is a favour then in about four years it comes down to me whether you felt like it. I want it to be an instruction. An instruction has to be obeyed and an instruction can be refused and either way it has got a shape, and I have been a vague favour in about nine rooms for as long as I have been standing at the end of that table and I am tired of it."
 
 ---
 

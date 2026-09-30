@@ -10,9 +10,9 @@ Three hundred and thirty-six marks have been cut off that board, and there are t
 
 The second table has stood at the foot of that bank ninety-three mornings and moved this morning from ninety-two. The near rail has stood on the near side of it for forty-three mornings and nobody is to thank the man who fitted it and the man of fifty-six's rule about that is in about nine mouths and has never once been in a book. The number of mornings a man has been at the foot of that bank is sixty-three, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move, and a man said a price this morning in a yard and a seat in the same breath and neither of them is the fifteenth. The lane count is twenty-one, unchanged, and there is nothing on that hill this morning with a figure on the back of it.
 
-The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and fourth of those mornings, and he has now said them five hundred and four times to about nine people at a time and has been asked by about four of them what the oldest of them means and has told all four of them that he does not know.
+The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and fourth of those mornings, and he has now said them five hundred and four times to about nine people at a time and not one of them has ever asked him what any of it is for.
 
-At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and eighteenth night of that run, having slept on four hundred and seventeen of them, and a man of sixty-one was on the stones about four feet off him for the third afternoon running and had said good afternoon out loud twice and nothing else, and the man of about sixty-four had said good afternoon back twice, and between those two words is the whole of what has happened between them.
+At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and eighteenth night of that run, having slept on four hundred and seventeen of them, and a man of sixty-one was on the stones about four feet off him for the eighth afternoon running and had said good afternoon out loud twice and nothing else, and the man of about sixty-four had said good afternoon back twice, and between those two words is the whole of what has happened between them.
 
 ---
 
@@ -124,7 +124,7 @@ Adrian did not say anything.
 
 "No," said Iven Tallow. "A man who knows what a reading costs cannot refuse it, and a man who cannot refuse it is not a witness, and I have spent seventeen years finding that out and I am not going to be the reason you find it out at about forty-two with nobody in the room but you."
 
-"You said that at the bottom of a wall two mornings ago."
+"You said that at the bottom of a wall four mornings ago."
 
 "I said it because it is true and because I wanted it said in a yard before I said it in a room. That is not hypocrisy. That is the only order I have ever been able to work in."
 
@@ -146,9 +146,9 @@ Adrian took his hands out of his pockets.
 
 "Because of what you have been doing in that yard since the thirty-ninth morning after the thirtieth of the eighth month," said Iven Tallow, "out loud, at a price, in a yard, with a clerk writing it down and reading it back. And because I am sixty-one and I have run out of anybody else. And because there is one more thing and I would like it said in front of about nineteen people rather than afterwards, which is the only part of this that is new."
 
-He turned round and faced the yard, which was about a third full and about four of whom had stopped what they were doing.
+He turned round and faced the yard, which was about full and about four of whom had stopped what they were doing.
 
-"I have just offered a seat with an end on it to a man of thirty-eight," said Iven Tallow, "in a yard, at about ten in the morning, in front of people who can be asked about it, for one reading that will be entered afterwards whatever it comes to saying. I have not done the like in seventeen years and I did not intend to do it this morning, and I would like the yard to know that I did it anyway, because a man who is doing something like this and says afterwards that he was manipulated is a man who has arranged to be forgiven and not to be believed."
+"I have just offered a seat with an end on it to a man of thirty-eight," said Iven Tallow, "in a yard, at about a quarter to eleven in the morning, in front of people who can be asked about it, for one reading that will be entered afterwards whatever it comes to saying. I have not done the like in seventeen years and I did not intend to do it this morning, and I would like the yard to know that I did it anyway, because a man who is doing something like this and says afterwards that he was manipulated is a man who has arranged to be forgiven and not to be believed."
 
 ---
 
@@ -166,7 +166,7 @@ Neither man had noticed that she had come back up the bank.
 
 "We know your rule."
 
-"You know about four lines of it." She was not looking at either of them. "That rule was made to protect people in this yard and it is a good rule and it is the reason the boy's page is worth nothing on the eleventh mile, and I have spent twelve mornings watching it cost somebody something every single time it is used, and it does not reach up that hill. Not one inch. And I am telling both of you that I am telling you, because one of you is going to say something in the next ten minutes that ought to be entered, and I am the only person in this yard who can enter it, and I have just told you that I cannot."
+"You know about four lines of it." She was not looking at either of them. "That rule was made to protect people in this yard and it is a good rule and it is the reason the boy's page is worth nothing on the eleventh mile, and I have spent nineteen mornings watching it cost somebody something every single time it is used, and it does not reach up that hill. Not one inch. And I am telling both of you that I am telling you, because one of you is going to say something in the next ten minutes that ought to be entered, and I am the only person in this yard who can enter it, and I have just told you that I cannot."
 
 ---
 
@@ -206,7 +206,7 @@ The yard heard that and made a noise, and Mara Quill made no noise at all.
 
 "You will ask me again."
 
-"I will not ask you again for a year at least," said Iven Tallow. "Not because I have gone away, and I am going to be on those stones at about half past three this afternoon for the fourth afternoon running, and a man who was there for nine years will say good afternoon to me, and that is the entire of what I have in this district."
+"I will not ask you again for a year at least," said Iven Tallow. "Not because I have gone away, and I am going to be on those stones at about half past three this afternoon for the eighth afternoon running, and a man who was there for nine years will say good afternoon to me, and that is the entire of what I have in this district."
 
 He picked the case up.
 
@@ -214,4 +214,4 @@ He picked the case up.
 
 "Say it."
 
-"You have made this yard into a place where a person can be found," said Iven Tallow, "and I am going to stand at the bottom of it at about half past three every afternoon and be found, and I am not doing that to help you and I would think less of you for thinking it. About nine people in this district are findable this month who were not findable on the thirty-ninth morning after the thirtieth of the eighth month, and I am the tenth, and I have been on the end of a thing for seventeen years that nobody could find, and you have made me findable in four days by being careful in a yard, and I do not know yet whether that is a rescue or a different room."
+"You have made this yard into a place where a person can be found," said Iven Tallow, "and I am going to stand at the bottom of it at about half past three every afternoon and be found, and I am not doing that to help you and I would think less of you for thinking it. About fourteen people in this district are findable this month who were not findable on the thirty-ninth morning after the thirtieth of the eighth month, and I am the fifteenth, and I have been on the end of a thing for seventeen years that nobody could find, and you have made me findable in four days by being careful in a yard, and I do not know yet whether that is a rescue or a different room."
