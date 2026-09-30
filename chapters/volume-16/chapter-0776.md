@@ -78,7 +78,7 @@ Adrian let about nine yards go by.
 
 "Two fresh independent witnesses who understood the terms and were not given them by anybody. That is a way to end a clause with no end on it. That is the thing he said there is one way to do and I have said it out loud in a yard on this hill this morning which is a yard of about two people and a hedge."
 
-"It bought you a job," said Mara Quill, "and it did not buy you the two people, and you have been in that yard twenty-six mornings and the count of things this district has made is fourteen and it has not moved once and it did not move the day before yesterday when nine names were said out loud, and anybody up that hill can tell you the two people you have got and it is the boy and me, and I have never witnessed a term in my life and he has never witnessed anything at all, and the man of fifty-six has been reading four figures out loud twice a morning for five hundred and one mornings to nobody and nobody has ever offered him anything for it."
+"It bought you a job," said Mara Quill. "It did not buy you the two people. You have been in that yard eighty-one mornings, and the count of things this district has made is fourteen, and it has not moved once — not even the day before yesterday, when nine names were said out loud in it. Anybody up that hill can tell you which two people you have got. It is the boy and me. I have never witnessed a term in my life. He has never witnessed anything at all. And the man of fifty-six has been reading four figures out loud twice a morning for five hundred and one mornings, to nobody, and nobody has ever offered him anything for it."
 
 ---
 

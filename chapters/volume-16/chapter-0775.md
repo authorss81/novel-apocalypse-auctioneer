@@ -8,7 +8,7 @@ Four hundred and twenty-three days is how long the bid has been open, and it was
 
 Three hundred and seventy-eight days is how far behind the figure on the second line of that lot book is. Three hundred and eighty-three days is how long the rule said out loud in that yard has stood. Four hundred and fifty-three days is how long it has been since the first day of the eighth month. The ninth of the nine printed nights is five hundred and fifty-six days back and no night has been named. A body four hundred miles off is three hundred and ninety-two days past a printing it did not make.
 
-Three hundred and thirty-two marks have been cut off that board, and there are three hundred and eighteen marks in chalk along the edge of that second table. The count of counted months is six, and it has not moved on any morning of this book. The number of documents this district does not own is four, and it has not moved either, and there is a page coming up that lane which is not one of them and has not arrived. The number of places in this district where those three lines can be read is four and did not move, The number of conditions with no end on it is four and did not move, and the fifth of those five lines is one of them, and the count of the five things this district does not have is five and is not paid and has not been paid on any of the twenty-five mornings this district has had a lane with a figure on the end of it.
+Three hundred and thirty-two marks have been cut off that board, and there are three hundred and eighteen marks in chalk along the edge of that second table. The count of counted months is six, and it has not moved on any morning of this book. The number of documents this district does not own is four, and it has not moved either, and there is a page coming up that lane which is not one of them and has not arrived. The number of places in this district where those three lines can be read is four and did not move. The number of conditions with no end on it is four and did not move, and the fifth of those five lines is one of them, and the count of the five things this district does not have is five and is not paid and has not been paid on any of the twenty-five mornings this district has had a lane with a figure on the end of it.
 
 The second table has stood at the foot of that bank eighty-nine mornings and moved this morning from eighty-eight. The near rail has stood on the near side of it for thirty-nine mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is fifty-nine, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move, and it did not move this morning when nine names were said out loud in that yard yesterday, and that is the second time in a fortnight that a morning which ought to have moved it did not, and the man who keeps a tally entered both of those and entered no reason for either. Nothing has come down that lane with a page in his hand for ten mornings and the lane count is twenty-one and still is.
 
@@ -126,7 +126,7 @@ He heard it come out of him in the voice he used for a thing that was a good ide
 
 "I wrote *we* on a page that went up that lane."
 
-"You wrote *we* and it came back with a figure on the back of it," said Iven Tallow, "and that is the best thing anybody in this basin has done to me since I came up the hill and I have not stopped thinking about it. And you have been in this yard twenty mornings and you keep saying *we* like a man who has not worked out that a district is the thing that cannot be found."
+"You wrote *we* and it came back with a figure on the back of it," said Iven Tallow, "and that is the best thing anybody in this basin has done to me since I came up the hill and I have not stopped thinking about it. And you have been in this yard eighty mornings and you keep saying *we* like a man who has not worked out that a district is the thing that cannot be found."
 
 ---
 
@@ -146,7 +146,7 @@ Neither of them had expected him.
 
 "I am not buying him."
 
-"You are doing the thing where somebody tells you something true and you turn it into a price, and I have watched you do it to about four people in a fortnight," said the man of about sixty-four, "and you did it to a woman with a scale about nine mornings ago and she read you the whole of it in a yard. Sit down."
+"You are doing the thing where somebody tells you something true and you turn it into a price, and I have watched you do it to about four people in a fortnight," said the man of about sixty-four, "and you did it to a woman with a scale about six mornings ago and she read you the whole of it in a yard. Sit down."
 
 Adrian sat down on the stones at the bottom of a low wall, on the side away from the sun, about nine feet from a man of sixty-one who had come down that bank at about a quarter past three to say the true thing about the Long Fracture in front of him.
 
@@ -180,7 +180,7 @@ Adrian stood with his hands at his sides and did not interrupt, and Mara Quill's
 
 "You are telling me this because you want me to do it your way."
 
-"No," said the old man. "I am telling you because you are the only person in this basin who has spent twenty mornings doing the exact opposite of what I did, out loud, in public, at a price, in a yard, with a clerk writing it down and reading it back to you in front of everybody, and because I am sixty-one and I have run out of anybody else, and I would rather say that to your face than have you work it out in about four years and be disappointed about the shape of it."
+"No," said the old man. "I am telling you because you are the only person in this basin who has spent eighty mornings doing the exact opposite of what I did, out loud, in public, at a price, in a yard, with a clerk writing it down and reading it back to you in front of everybody, and because I am sixty-one and I have run out of anybody else, and I would rather say that to your face than have you work it out in about four years and be disappointed about the shape of it."
 
 Adrian sat down on the stones. He had not decided to. He found out about it afterwards.
 
@@ -240,7 +240,7 @@ The old man got up off the stones before Adrian did, and picked up the case, and
 
 Then he stopped and looked at Adrian for a moment longer than was comfortable.
 
-"One more thing," he said, "and then I will let you go up that bank, because you are going to be able to make this fit what you have been doing for twenty mornings, and I would like it said now, in front of the man on the stones, that it will not be true."
+"One more thing," he said, "and then I will let you go up that bank, because you are going to be able to make this fit what you have been doing for eighty mornings, and I would like it said now, in front of the man on the stones, that it will not be true."
 
 "Go on."
 

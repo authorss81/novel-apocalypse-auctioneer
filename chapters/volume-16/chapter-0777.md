@@ -118,7 +118,7 @@ The man of about sixty-four had his coat folded on the stones and his hands on h
 
 ---
 
-He had answered that question once before, in a yard, to a man who wanted something, and about nine people had been in that yard, and it had taken about eleven seconds and had cost him the only thing he had, which was that nothing he said could be used.
+He had answered that question once before, in a yard, to a man who wanted something, and about nine people had been in that yard, and it had taken him about as long as it takes a clerk to read a line back twice, and had cost him the only thing he had, which was that nothing he said could be used.
 
 This time he took longer.
 

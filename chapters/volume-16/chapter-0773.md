@@ -1,6 +1,6 @@
 # Chapter 773: The Fifty-Seventh Morning After The Thirtieth Of The Eighth Month A Man Of Sixty-One Gave The Clerk Four Things To Enter And She Entered Two Of Them And Said What She Would Need
 
-The figure on the sheet at that gatepost is four hundred and eleven, and it did not move. Five hundred and twelve days is the age of that figure, .
+The figure on the sheet at that gatepost is four hundred and eleven, and it did not move. Five hundred and twelve days is the age of that figure, and it is the age of nothing that can be added to.
 
 The board carries six hundred and seventy-one, and the train on that siding has stood nine hundred and eighty-seven days, and nobody has entered anything for seven hundred and one days, and six hundred and sixty-two days separate the second of January and this morning.
 
