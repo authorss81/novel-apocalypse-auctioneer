@@ -158,4 +158,4 @@ When he had finished he stood where he was and looked at the eleven feet of bank
 
 The count of the five is still five. Four conditions have no end on it and there are four of them, and the fifth of those five lines is one of them, and the run of a man of about sixty-four is not one of the four, because there is no line for it anywhere and it has never been on a book.
 
-The clerk was right about that and nobody had asked her to be, and about nine people in that yard took under a minute to work out that the two men at the bottom of that bank had been kept where they were by the same absence, and that the only difference between them was that one of them had been written down.
+The clerk was right about that and nobody had asked her to be, and about nine people in that yard had it inside a minute: the two men at the bottom of that bank had been kept where they were by the same absence, and the only difference between them was that one of them had been written down.

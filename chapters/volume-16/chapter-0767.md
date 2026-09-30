@@ -46,7 +46,7 @@ He put his right hand up, palm out, in the yard, the way you do, and about nine 
 
 "Say the figure."
 
-"Forty coppers is theirs, not mine. I can't say theirs." He turned the hand over and looked at it. "Here is the condition and I am putting it in the open because I have watched four people do this in a fortnight and not one of them has said what has to be true first. A figure is not a payment to a market that cannot pay a person. It is a figure the moment a market has said out loud, in a yard, in front of about nineteen people, that a person can be put in a room for a term and be found again afterwards.
+"Forty coppers is theirs, not mine. I can't say theirs." He turned the hand over and looked at it. "Here is the condition and I am putting it in the open because I have watched four people do this in a fortnight and not one of them has said what has to be true first. A figure is not a payment to a market that cannot pay a person. It is a figure the moment a market has said out loud, in a yard, in front of about nineteen people, that a person can be put in a room for a term and be found again afterwards."
 
 He put his thumb on the boards.
 

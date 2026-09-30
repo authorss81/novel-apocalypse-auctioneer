@@ -54,7 +54,7 @@ She wrote it. She had been entering reasons since the forty-first morning and sh
 
 Orren came up the bank at about ten and went past everybody, the way he went past everybody, and stopped four feet off the near end of the boards and turned round so his back was to them.
 
-"Nineteen," he said. "The number of people who have come down that lane with a page in their hand is nineteen and it did not move, and the number of pages that have gone *up* that lane is one, and those are two different numbers and I want somebody to say out loud that they are two different numbers, because in a week somebody is going to work out that one of them is a count of what comes in and one of them is a count of what goes out, and then there will be a rule, and the rule will be wrong, and I would like it on the record this morning that I said it first."
+"Nineteen," he said. "The number of people who have come down that lane with a page in their hand is nineteen and it did not move, and the number of pages that have gone *up* that lane is one, and those are two different numbers and I want somebody to say out loud that they are two different numbers, because in a week somebody is going to set the two of them side by side and call one of them a count of what comes in and the other a count of what goes out, and then there will be a rule, and the rule will be wrong, and I would like it on the record this morning that I said it first."
 
 "You're seventeen," the clerk said.
 
