@@ -1428,3 +1428,79 @@ things made **13**, unchanged, no fourteenth proposed. things not had **5**, the
 
 - **SELA PIKE'S CHARTER IS SIXTEEN YEARS OLD AND THE BOY IS ELEVEN.** This is a third span alongside the fifteen and the nine and it is **personal, not institutional**: her mother had a bridge charter on the Coast sixteen years ago, and Orren found the row in a room at eleven years old. It has nothing to do with the lot book, the table, the rail, the wall, the shop, the road keeper or the cart, and it is not one of the fifteen or the nine. **DO NOT MOVE IT TO FIFTEEN.**
 - **THE NUMBER OF MORNINGS A MAN HAS BEEN AT THE FOOT OF THAT BANK HOLDS AT FORTY-ONE ON THE FORTY-FIRST MORNING AND FROM THEN ON RUNS ONE BEHIND THE DAY COUNT: 36, 37, 38, 39, 40, 41, 41, 42, 43, 44.** It holds because the count was entered at a quarter to eight on the strength of a word and was not moved when the man came down the bank at about half past ten and worked on a map until about three. **THIS IS NOT AN ARITHMETIC ERROR AND IT IS NOT TO BE EVENED UP.** It is the only figure in the district that is known to be wrong on the face of the page, it was entered with a reason for the first time in fifteen years, and Chapter 757 now says out loud that nobody at the boards noticed. **A SUCCESSOR THAT EVENES IT UP DESTROYS THE BLOCK'S ONLY DEMONSTRABLY FALSE RECORD.**
+
+---
+
+# VOLUME 16, BLOCK 0002 — CONTINUITY AT THE END OF CHAPTER 770
+
+## 1. THE LADDER, MEASURED CELL BY CELL IN ITS OWN CARRIER PHRASE
+
+**A SCRIPT PARSED EVERY PRINTED CELL OUT OF ITS OWN CARRIER PHRASE AND OUT OF THE SENTENCE BOUNDARY IT SITS IN, AND RAN TWICE. 269 OF 270 CHECKS PASS. ROW 1 TO 11, 13, 14, 15, 16 AND 17 ARE CORRECT ON EVERY MORNING THEY ARE PRINTED. ROW 12 IS FOUR HUNDRED AND ELEVEN ON TEN OF TEN. ROW 18 IS ABSENT ON TEN OF TEN AND WAS NOT INVENTED. THE INTERCEPT IS `648, 964, 678, 639, 398, 531, 353, 358, 428, 367, 489, 411, 389, 388, 307, 293, 475, STOPPED` AND IS PRINTED ON THE FACE OF CHAPTER 750 AS WELL AS BEING THE CHAPTER 750 COLUMN OF `state/volume-15-roll-summary.md`.**
+
+**THE BLOCK'S ROWS ARE: 659 TO 668, 975 TO 984, 689 TO 698, 650 TO 659, 409 TO 418, 542 TO 551, 364 TO 373, 369 TO 378, 439 TO 448, 378 TO 387, 500 TO 509, 411 CONSTANT, THE FOUR HUNDREDTH TO THE FOUR HUNDRED AND NINTH NIGHT, 399 TO 408, 318 TO 327, 304 TO 313, THE FOUR HUNDRED AND EIGHTY-SIXTH TO THE FOUR HUNDRED AND NINETY-FIFTH MORNING, ROW 18 ABSENT.**
+
+**`workspace/volume-16/batch-0002/PROMPT.md` SECTION 2 GIVES ROWS 4 AND 6 AS 651 AND 543 AT `c = 11` AND 660 AND 552 AT `c = 20`. THAT IS `INTERCEPT + 1` AND IT IS WRONG. THE CONTRACT AT `outline/volume-16.md` SECTION 3 AND CHAPTER 750'S OWN TEXT BOTH GIVE 639 AND 531. THE CHAPTERS PRINT 650 TO 659 AND 542 TO 551. THE CHAPTERS ARE CANON AND THE BRIEF'S TABLE IS NOT.**
+
+## 2. THE COUNTS THAT ARE NOT LADDERS
+
+- **THE SECOND TABLE: SEVENTY-FIVE TO EIGHTY-FIVE MORNINGS, ONE A MORNING, EVERY MORNING.**
+- **THE NEAR RAIL: TWENTY-FIVE TO THIRTY-FIVE MORNINGS, ONE A MORNING, EVERY MORNING, AND A RULE IN THAT YARD THAT NOBODY IS TO THANK THE MAN WHO FITTED IT.**
+- **THE NUMBER OF MORNINGS A MAN HAS BEEN AT THE FOOT OF THAT BANK: FORTY-FIVE TO FIFTY-FIVE, ONE A MORNING, EVERY MORNING, ENTERED ON THE WORD OF THE MAN WHO KEEPS A TALLY AND AFTER HE HAS SAID IT. THIS IS NOT `c = 0` PLUS `c` AND IT IS NOT TO BE EVENED UP.** The run is one behind the day count from `c = 8` onward because it held at forty-one on `c = 7` when the figure was entered at a quarter to eight on a man's word and was not moved when he came down the bank at about half past ten. **Forty-four is the value on the last morning of Block 0001 and is not the value on any morning of this block.**
+- **THE LANE COUNT: NINETEEN ON THE FIRST MORNING, TWENTY ON THE FORTY-EIGHTH, TWENTY-ONE ON THE FORTY-NINTH, AND TWENTY-ONE ON THE OTHER SEVEN.** Both moves were staged as the rule requires — the boy said the figure out loud before the clerk's hand moved. **A NAME WENT IN BESIDE IT FOR THE FIRST TIME IN FIFTEEN YEARS AND THE NAME IS KEST AND HE ASKED FOR IT. NO OTHER NAME WENT IN.**
+- **THE COUNT OF THINGS THIS DISTRICT HAS MADE: FOURTEEN ON TEN OF TEN AND IT DID NOT MOVE ON TEN OF TEN**, including on the morning a man said forty coppers in a yard and on the morning a woman read four lines out loud on a board.
+- **COUNTED MONTHS SIX, DOCUMENTS THIS DISTRICT DOES NOT OWN FOUR, PLACES THOSE THREE LINES CAN BE READ FOUR, CONDITIONS WITH NO END ON IT FOUR, THE COUNT OF THE FIVE THINGS THIS DISTRICT DOES NOT HAVE FIVE. NONE OF THEM MOVED.**
+
+## 3. THE FIFTEEN-YEAR AND NINE-YEAR SPLIT, UNCHANGED
+
+**THE LOT BOOK, THE FOURTH LINE AND THE FIFTH LINE ARE FIFTEEN YEARS OLD. THE TABLE, THE RAIL, THE WALL, THE SHOP, THE ROAD KEEPER'S RUN AND THE BOY'S PAGE ARE NINE. THE FIFTH LINE WAS DICTATED ON AN AFTERNOON BY A MAN WHO WAS ABOUT TWENTY-TWO, WHICH PUTS HIM AT ABOUT THIRTY-SEVEN NOW AND THE YARD SAYS THIRTY-ONE, AND NEITHER IS CORRECTED BECAUSE NOBODY HAS ASKED HIM.** **SELA PIKE'S BRIDGE CHARTER IS SIXTEEN YEARS OLD AND THE BOY IS SEVENTEEN AND FOUND THE ROW AT ELEVEN. THAT IS A THIRD PERSONAL SPAN AND IT IS NEITHER THE FIFTEEN NOR THE NINE AND IT IS NOT TO BE MOVED.**
+
+## 4. THE PROHIBITIONS, ALL SIX, AND THE PROSE ONE
+
+1. **NO DATE OF RECORD ON ANY PAGE. NO WEEKDAY NAME.** Every morning is a count of mornings on from the thirtieth of the eighth month: the forty-fifth to the fifty-fourth.
+2. **THE BID WAS OPEN AT FOUR HUNDRED AND EIGHTEEN DAYS ON THE LAST MORNING AND WAS NOT RUN, AND NOTHING WAS PROPOSED ABOUT CLOSING IT IN A MOUTH OR IN A PAGE ON ANY OF THE TEN.**
+3. **NO FIGURE ON THAT WALL WAS CORRECTED AND NONE OF THE FOUR IS DESCRIBED AS BEHAVING WRONGLY.** **The man of fifty-six was asked in a yard, by a boy of seventeen, on the fiftieth morning, and he still cannot tell anybody which one, and the answer he gave is that he wants nothing to happen and that he will be frightened for about a year. HE HAS NOW BEEN ASKED THE QUESTION HE ASKED FOR ON THE FORTY-FOURTH MORNING AND IT HAS NOT PAID AND HE SAID IT WOULD NOT.**
+4. **THE FIGURE ON THE SHEET AT THAT GATEPOST IS FOUR HUNDRED AND ELEVEN ON TEN OF TEN AND ITS SIZE OF ERROR IS NOT COMPUTED, NOT EXPLAINED AND NOT PAID. NOTHING IN THIS BLOCK TOUCHES IT.** The one new fact about it is that a returned page in Alder Reach carries the same number on a corner and that the clerk has asked three times in nine years in writing whether it is a count of people or a count of sheets and has been sent four words back that added up to nothing.
+5. **THE FIFTH OF THE FIVE IS UNPAID AND THE COUNT IS STILL FIVE ON TEN OF TEN.** A rail is not a payment. A rule is not a payment. A form is not a payment. A name in a book is not a payment. A figure in a yard is not a payment. A margin is not a payment.
+6. **THE COLUMN FOR THE NAME OF WHOEVER READ A THING OUT LOUD HAS ONE NAME IN IT AND HAD NONE, AND IT COULD NOT TAKE A SECOND THIS BLOCK.** A woman read a thing out loud in that yard and was not entered, and the clerk gave a reason, and a boy of seventeen said the reason does not hold and was right, and nothing was done.
+
+**AND `about four of you have worked out that` IS AT ZERO AND THE SUBSTRING `have worked out that` IS AT ZERO AFTER ONE REPAIR.**
+
+## 5. THE COSTS, AND NONE OF THEM IS SOFTENED, AND TWO OF THEM ARE PAID
+
+- **THE MAN WHO PUTS TABLES UP IS THE NAMED PERSON THIS BLOCK MAKES WORSE OFF.** He said forty coppers for one year out loud in a yard and was thanked for a rail by about eleven people and being thanked is the receipt. His own sentence about counts and not figures behind which anything is bought or owed stopped being true at about four seconds past eleven on the fifty-first morning and he cannot put it back. **THE FIFTH OF THE FIVE IS NOT PAID AND HE IS NOT PAID AND HE IS NOT A GUARANTOR AND THE CLERK ENTERED THAT HE IS NEITHER AND CALLED IT A GUARANTOR.**
+- **THE MAN OF ABOUT TWENTY-NINE WHO DRIVES THE CART IS THE FIGURE TWENTY-ONE, IN A YARD, BY THE DISTRICT'S OWN RULE, AND HE ACCEPTED IT OUT LOUD.** Adrian passed his message to a stranger without asking him and the man found out and said the no is still the no.
+- **THE MAN OF ABOUT SIXTY-FOUR HAS SPENT THE ONLY THING HE HAD, WHICH WAS THAT NOTHING HE SAID COULD BE USED.** He answered one question and the answer is on a page with nothing ruled on it in a clerk's own book and there is no line for him anywhere.
+- **THE MAN AT THE END OF THE SECOND TABLE HAS MADE HIMSELF FINDABLE BY CHOICE.** Four lines in a margin of the lot book saying a man was asked for an end and said no. He is unpaid and he is not the bearer and he is right about both.
+- **THE WOMAN OF FIFTY-EIGHT HAS GIVEN UP BEING THE ONE NOBODY CAN LOOK UP AND HAS SAID SO OUT LOUD, AND NAMED HERSELF IN A YARD WHILE DOING IT.**
+- **A WOMAN WITH A SCALE HAS READ A THING OUT LOUD IN A YARD AND IS ON NOTHING, AND THE ONLY REASON IS A HEADING.**
+
+## 6. THE MEASUREMENTS
+
+**33,389 WORDS OVER TEN FILES, MEAN 3,338.9, MINIMUM 2,772, MAXIMUM 3,818. ZERO DUPLICATED PARAGRAPHS OF EIGHT WORDS OR MORE. FIVE DUPLICATED SENTENCES, ALL FIVE CARRIER PHRASES OF THE FIGURE SYSTEM, NONE OF THEM PROSE. 512 CROSS-FILE TWELVE-WORD RUNS AGAINST 445 IN BLOCK 0001, AND THE LONGEST OF THEM ARE CARRIERS THE CONTRACT SPECIFIES. THE FIGURE BLOCK IS PRINTED ONCE A CHAPTER. THE MAN OF ABOUT SIXTY-FOUR IS PRINTED ONCE A CHAPTER AND HIS LADDER IS COMPLETE. THE MAN OF FIFTY-SIX IS PRINTED ONCE A CHAPTER AND HIS RUN IS COMPLETE.**
+
+## 7. THE INHERITED DISCREPANCY THAT WAS NOT REPAIRED AND WAS NOT PRINTED
+
+**CHAPTER 750 PRINTS *THE TWO HUNDRED AND SEVENTY-EIGHTH MORNING AFTER THE COUNT*. `state/volume-16-batch-0001-summary.md` SECTION 2 PUTS CHAPTER 751 AT THE TWO HUNDRED AND SEVENTY-EIGHTH. THE TWO INHERITED FILES DISAGREE BY ONE AND HAVE DONE SINCE BEFORE BLOCK 0001. `workspace/volume-16/batch-0002/PROMPT.md` SECTION 3 NAMES CHAPTERS 761 TO 770 AS THE TWO HUNDRED AND EIGHTIETH THROUGH THE TWO HUNDRED AND NINETY-SEVENTH MORNING AFTER THE COUNT, WHICH IS THE BATCH 0001 CONVENTION. THE FIGURE IS THEREFORE PRINTED ON NO PAGE OF BLOCK 0002, WHICH RESOLVES IT WITHOUT REPAIRING IT. CHAPTER 750 IS NOT A WRITER'S TO EDIT AND NEITHER INHERITED STATE FILE IS.**
+
+---
+
+# VOLUME 16, BLOCK 0002 — THE REVIEW OF 2026-09-30, AND WHAT IT CHANGED ON THE PAGE
+
+**A `novel-reviewer` SUBAGENT READ ALL TEN FILES, THE CONTRACT, CHAPTER 760, `AGENTS.md` AND `bible/characters.md`, AND RETURNED THIRTY-EIGHT FINDINGS. THE LADDER CAME BACK CLEAN AT 170 OF 170 CELLS AND THE SIX PROHIBITIONS CAME BACK CLEAN. THE FAULTS WERE CHARACTER, CONTINUITY, CLOCK AND REGISTER. EVERY ONE THAT WAS CONCRETE WAS REPAIRED IN PLACE WITH NO BEAT MOVED. THE FULL ACCOUNT IS SECTION 8 OF `state/volume-16-batch-0002-summary.md`.**
+
+## WHAT A SUCCESSOR MUST NOW KNOW THAT THE FIRST DRAFT OF THIS BLOCK GOT WRONG
+
+1. **THE ONE NAME IN THE COLUMN FOR WHOEVER READ A THING OUT LOUD IS ADRIAN VALE AND NOT THE MAN OF FIFTY-SIX.** It went in on the thirty-ninth morning after the thirtieth of the eighth month, at the direction of the yard, because a boy of seventeen stood on the boards and asked the clerk to look for a place to put a name and there was one place. **THE MAN OF FIFTY-SIX HAS NEVER BEEN ENTERED IN IT AND NEVER OFFERED IT.** The clerk's reason for not adding a second name is now that whoever is in that column is in it for having been asked to fill it, and that she is frightened of not offering it to the one man in the district who reads four figures off a wall twice a morning.
+2. **THE MAN WHO KEEPS A TALLY, THE MAN WHO PUTS TABLES UP AND THE MAN WHO MENDS FENCING ARE THREE MEN.** The figure is a count of the mornings of the man who puts tables up and it is entered on the word of the man who keeps a tally. `outline/volume-16.md` section 3 merges the first two and is corrected at its new section 9.
+3. **THE MAN AT THE END OF THE SECOND TABLE IS ABOUT THIRTY-SEVEN, NOT ABOUT THIRTY-ONE.** `15 + 22 = 37`. `outline/volume-16.md` section 8 says thirty-one and is corrected at its new section 9. His name is on no page.
+4. **THE RULE OF THE FORTY-FOURTH MORNING WAS READ OUT LOUD AT ABOUT FOUR O'CLOCK ON THE FORTY-FOURTH MORNING AND NOT AGAIN.** `chapter-0760.md` says so and says who read it and says what he said afterwards. **Chapter 761 no longer stages the reading and no longer reproduces the thirty-eight-word speech. It opens on the fact that a thing read twice in one afternoon is being quoted back wrong by eleven people the next morning.** A successor may not re-read the rule and may not reproduce that speech.
+5. **THE CLERK IS NINETEEN AT THE OPENING OF THE BOOK. THE NO-CORRECTION RULE IS HERS AT ABOUT TWENTY-FIVE AND NINE YEARS AGO. THE COLUMN'S HEADING IS HERS AT NINETEEN, ON THE AFTERNOON SHE RULED IT, AND SHE HAD NOT READ IT PROPERLY UNTIL THE FIFTY-THIRD MORNING.** `19 + 15 = 34` and `34 - 9 = 25` and both are now on the page.
+6. **THE FOURTH WALL FIGURE IS SIX HUNDRED AND FIFTY-NINE ON THE FIFTY-FOURTH MORNING AND THE MAN OF FIFTY-SIX READS IT OUT LOUD CORRECTLY.** He is made to get it right on the one morning of the block whose subject is that two figures about one person can both be true.
+7. **THE ONLY PERSON IN THE YARD WHO DID NOT KNOW WHAT THE FOURTH LINE OF THE CORRIDOR NOTE WAS IS THE WOMAN WHO KEPT A SCALE, AND SHE HAD JUST READ IT OUT LOUD.** Adrian asked Mavis Dorr the question himself on the fiftieth morning. **A SUCCESSOR MAY NOT PUT ADRIAN BACK IN THE POSITION OF A MAN WHO DOES NOT KNOW.**
+8. **THE INHERITED CLOCK ON THE ROOM IS SPOKEN ALOUD ONCE AND IS NOT PAID.** A stranger on the forty-fourth morning said Adrian would go up that lane in about nine mornings to stand in a room. Nine mornings from the forty-fourth is the fifty-third, which was the day before the last morning of this block. Tarin Kest says the arithmetic out loud in a yard at about a quarter to six on the fifty-fourth, says he will not say it again, and says he got it from a shopkeeper. **Adrian did not answer. Nothing has come down that lane. The room is still there with a column against his name and nobody in it.**
+9. **THE MILLS OF THE ELVENTH MILE ARE A MILE AND A HALF EVERYWHERE, WITH A TURN AND A CULVERT ON IT, AND THE MAN OF ABOUT SIXTY-FOUR GOES OUT OF IT AT ABOUT HALF PAST FOUR AND COMES BACK AT FIRST LIGHT.** Kest's own run, which he offers to Adrian, is an afternoon from about half past two to about four, and **he states in the same breath that he is NOT offering Adrian the man's night.**
+10. **THE FOLLOWS-ON REVIEW FIGURES ARE THE REPAIRED ONES: 35,321 WORDS OVER TEN FILES, MEAN 3,532.1, MINIMUM 2,634, MAXIMUM 4,504. ZERO DUPLICATED PARAGRAPHS OF EIGHT WORDS OR MORE. FOUR DUPLICATED SENTENCES, ALL FOUR CARRIER PHRASES, NONE OF THEM PROSE. 494 CROSS-FILE TWELVE-WORD RUNS. THE `about four seconds` AND `about nine seconds` PAUSE TIC IS AT ZERO. NO WEEKDAY, NO DATE, NO FOURTH-WALL BREAK, AND THE BANNED SUBSTRING AT ZERO.**
+
+## AND ONE THING THE REVIEW FOUND THAT WAS TRUE AND THAT NOBODY HAD STAGED
+
+**THE CART DRIVER BROKE A NINE-YEAR RULE FOR NOTHING AND THE YARD PRAISED HIM FOR IT. HE NOW SAYS SO HIMSELF, IN THE YARD, BEFORE ANYBODY ELSE CAN: that he did not stop to be a person, that he stopped because a man with a list asked him to, that he did not think about it for about a minute and a half, and that this is the whole of the reason and it is not a good one. THE COST OF A RULE BENDING TO PRODUCE A FIGURE IS NOW PAID BY THE MAN WHOSE RULE IT WAS.**
