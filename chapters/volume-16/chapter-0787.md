@@ -1,6 +1,6 @@
 # Chapter 787: The Seventy-First Morning After The Thirtieth Of The Eighth Month A Woman With A Key Asked A Man At The End Of The Second Table To Describe The Thing He Had Been Standing Near For Fifteen Years And He Described It And Then Refused To Be A Witness On The Grounds That He Was Not Standing Near It At All
 
-The figure on the sheet at that gatepost is four hundred and eleven, and a woman with a key has now spent six mornings in a yard with it in it and has got nothing out of it, and a man at the end of a table has described the fifth line of a book in one, and those are the two nearest things this basin has come to in six mornings, and neither of them is a figure that anybody could check. Five hundred and twenty-six days is the age of that figure.
+The figure on the sheet at that gatepost is four hundred and eleven, and a woman with a key has now spent six mornings in a yard with it in it and has got nothing out of it, and a man at the end of a table has described the fifth line of a book in one, and the second of those was said out loud in a yard this morning in front of about nineteen people. Five hundred and twenty-six days is the age of that figure.
 
 The board carries six hundred and eighty-five. The train on that siding has stood one thousand and one days. Nobody has entered anything for seven hundred and fifteen days. Six hundred and seventy-six days separate the second of January and this morning.
 
@@ -20,13 +20,13 @@ At about half past three a man of about sixty-four was at the foot of that low w
 
 She said it standing at the foot of the bank, at about half past ten, with the boy of seventeen about nine feet behind her and about nineteen people above eleven feet of bank who had come down about four feet each, which is as far as anybody in this district comes.
 
-"You told a clerk on the fifty-second morning that you would not give it an end. I am not going to ask you again. I am going to ask you something else and I have wanted to ask you something else since the second morning I was on this hill and I have not asked it because the man who sits at that end of that table told a man of sixty-one eight mornings before I came down this lane that he had nothing to say to him and would rather be left, and I know that because a woman in a corridor told me, and it is the reason I have been careful with you for six days, and it is a reason you would not have given me, and I am going to stop honouring it this morning and I would like you to know that I am doing it deliberately and that I am telling you first."
+"You told a clerk on the fifty-second morning that you would not give it an end. I am not going to ask you again. I am going to ask you something else and I have wanted to ask you something else since the second morning I was on this hill and I have not asked it because a woman in a corridor told me that the man at this end of this table had said, on some stones eight mornings before I came down this lane, that he had nothing to say to a man of sixty-one and would rather be left alone with him, and I have believed her, and it is the reason I have been careful with you for six days, and it is a reason you would not have given me, and I am going to stop honouring it this morning and I would like you to know that I am doing it deliberately and that I am telling you first."
 
 ---
 
 "Ask it," he said.
 
-"Nineteen years ago I have signed things. Nine years ago I have watched a district take a charter that was renewed without anybody being asked, and it took two years for the people in it to find out, and I have never found out whether that was the same thing. Three mornings ago I asked a man on a wall in this yard who other people are on a page in this district without their agreement, and a woman of fifty-eight said nine names out loud in this yard, and that is the amount I have." She turned the page over against her arm. "So: what is the fifth line, and what has it cost you, and I want the second part answered in your own words and not in the shape of a number."
+"Nineteen years ago I have signed things. Nine years ago I have watched a district take a charter that was renewed without anybody being asked, and it took two years for the people in it to find out, and I have never found out whether that was the same thing. One morning ago I asked a man on a wall in this yard who other people are on a page in this district without their agreement, and a woman of fifty-eight said nine names out loud in this yard thirteen mornings ago, and that is the amount I have." She turned the page over against her arm. "So: what is the fifth line, and what has it cost you, and I want the second part answered in your own words and not in the shape of a number."
 
 ---
 

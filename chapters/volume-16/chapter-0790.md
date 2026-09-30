@@ -1,6 +1,6 @@
 # Chapter 790: The Seventy-Fourth Morning After The Thirtieth Of The Eighth Month A Woman With A Key Carried Four Things Up That Lane And Would Not Take A Fifth And The Clerk Of That District Entered A Sentence About A Column With One Name In It
 
-The figure on the sheet at that gatepost is four hundred and eleven, and the person who read the founder's clause out loud in that yard on the seventy-second morning gave it no number and it has not got one, and there is another number in a corridor nine miles up that hill and nobody in this basin has ever been able to put the two beside each other, and nobody has computed anything about the difference between them, and nobody is going to this morning. Five hundred and twenty-nine days is the age of that figure.
+The figure on the sheet at that gatepost is four hundred and eleven, and the person who read the founder's clause out loud in that yard on the seventy-second morning gave it no number and it has not got one, and nobody in that yard has ever been able to put one figure beside another, and nobody is going to this morning. Five hundred and twenty-nine days is the age of that figure.
 
 The board carries six hundred and eighty-eight. The train on that siding has stood one thousand and four days. Nobody has entered anything for seven hundred and eighteen days. Six hundred and seventy-nine days separate the second of January and this morning.
 
@@ -108,6 +108,6 @@ Then he wrote a figure in the margin of the box, in pencil, in a hand that got w
 
 The man of fifty-six said the four off that wall at about four and again at about six on his way down the lane to nobody at all, and got all four of them both times.
 
-At about a quarter past six Adrian Vale was still at the top of that bank. He has been in that yard ninety-five mornings. He has not been given a bed, a wage or an office, has not asked for any of the three, and has a length of fencing wire in the pocket of his coat about four miles from a gap of a mile and a half that he has not been to and did not go to this morning. The bid is open at four hundred and thirty-eight days and was not run. The count of the five things this district does not have is five. The number on the sheet at that gatepost is four hundred and eleven and nobody in this basin has computed anything about it. The column at the top of that bank has one name in it and the heading of that column says *whoever*.
+At about a quarter past six Adrian Vale was still at the top of that bank. He has been in that yard ninety-five mornings. He has not been given a bed, a wage or an office, has not asked for any of the three, and has a length of fencing wire in the pocket of his coat about four miles from a gap of a mile and a half that he has not been to and did not go to this morning.
 
-And about four people at the top of eleven feet had already decided what they were going to be doing about the sitting, and not one of them had said so out loud, and the boy of seventeen did not write it down, because a box on the back of a sheet cannot hold what nobody has said.
+And not one of them had said so out loud, and the boy of seventeen did not write it down, because a box on the back of a sheet cannot hold what nobody has said.

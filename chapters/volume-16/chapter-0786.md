@@ -1,6 +1,6 @@
 # Chapter 786: The Seventieth Morning After The Thirtieth Of The Eighth Month The Clerk Of That District Read Out Loud In A Yard What Was Written About A Man At The Foot Of A Wall And He Asked For The Asking To Be Put In As Well
 
-The figure on the sheet at that gatepost is four hundred and eleven, and a woman with a key has now been in the same yard as it for five mornings without asking it anything, and nobody in this basin has ever asked her about a figure, which is the reason she has got nothing out of five mornings in that yard. Five hundred and twenty-five days is the age of that figure.
+The figure on the sheet at that gatepost is four hundred and eleven, and a woman with a key has now been in the same yard as it for five mornings without asking it anything, and nobody in that yard has ever asked her about a figure, which is the reason she has got nothing out of five mornings in that yard. Five hundred and twenty-five days is the age of that figure.
 
 The board carries six hundred and eighty-four. The train on that siding has stood one thousand days. Nobody has entered anything for seven hundred and fourteen days. Six hundred and seventy-five days separate the second of January and this morning.
 
@@ -10,7 +10,7 @@ Three hundred and forty-three marks have been cut off that board, and there are 
 
 The second table has stood at the foot of that bank one hundred mornings and moved this morning from ninety-nine, and nothing happened on the morning it went to a round figure and nobody said so. The near rail has stood on the near side of it for fifty mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is seventy, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move. The lane count is twenty-two and did not move, and it moves only when one comes down that hill with a page in their hand and a boy says the figure before a clerk moves her hand. The lot book is on the boards with five lines on it and a column with one name in it.
 
-The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and eleventh of those mornings, and about four people in that yard this morning heard the second reading standing at the bottom of the bank instead of at the top, which is a thing that has not happened before in the eleven mornings this wall has had a person standing at the top of it.
+The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and eleventh of those mornings, and about four people in that yard this morning heard the second reading standing at the bottom of the bank instead of at the top.
 
 At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and twenty-fifth night of that run, having slept on four hundred and twenty-four of them, and he had been told at about eleven o'clock in the morning what was written about him in a clerk's own book, and a man of sixty-one was on the stones about four feet off him for the fifteenth afternoon running, and they said good afternoon, and for the first time the man of about sixty-four said it back before the other one had finished.
 
@@ -22,11 +22,11 @@ The boy of seventeen has been at the bottom of that bank for two mornings runnin
 
 Mara Quill came down the bank at about a quarter to eleven with the lot book under her arm and stopped about four feet off the second table, and there were about nineteen people in that yard because Sabra Holt was in it and the man at the end of the second table had come up the bank, and nobody had called a meeting.
 
-"I am going to read something out," she said, "and I am saying first that nobody asked me to and that I have been thinking about doing it for two blocks and that the reason I have not done it is that I did not want to and the reason I am doing it this morning is that there is a woman with a key in that yard and I would rather it came from me in front of about nineteen people than from her in a room."
+"I am going to read something out," she said, "and I am saying first that nobody asked me to and I have been thinking about doing it since the sixty-fifth morning and that the reason I have not done it is that I did not want to and the reason I am doing it this morning is that there is a woman with a key in that yard and I would rather it came from me in front of about nineteen people than from her in a room."
 
 She did not open the book.
 
-"It is not in the lot book. There is nothing on any page a stranger can walk up to and read. It is in a page of mine at the back of it with nothing ruled on it, and there are three lines on that page and none of the three are in the lot book, and it is the fourth thing I have entered on a page of my own in about nine years that was about a person and not about a figure."
+"It is not in the lot book. There is nothing on any page a stranger can walk up to and read. It is in a page of mine at the back of it with nothing ruled on it, and there are three lines on that page and none of the three are in the lot book, and it is the fourth line I have entered on a page of my own in about nine years and every one of them is about a person and not about a figure."
 
 ---
 
@@ -34,7 +34,7 @@ She did not open the book.
 
 He had heard her come down the bank. He had known somebody was coming down the bank for a minute and a half, because a man who has been on a wall for four hundred and twenty-five nights knows the difference between one person coming down eleven feet and another.
 
-"It is what you told two men at the foot of that wall on the sixty-first morning," said Mara Quill, "and you told them it nobody had asked you for, and you said so out loud, and about nine people in that yard can now be asked about it. It is a lamp in a window lit at about half past four. It is a cart loaded from inside by between four and nine people. It is a blanket folded at a culvert on the eighth mile that somebody puts back on some nights and takes on others. It is also your reason for standing about two hundred yards off in a hedge for nine years, which is that you are not going to be a man standing in a road at half past five in the morning."
+"It is what you told a road keeper and a boy of seventeen at the foot of that wall on the sixty-first morning," said Mara Quill, "and you told them it nobody had asked you for, and you said so out loud, and about nine people in that yard can now be asked about it. It is a lamp in a window lit at about half past four. It is a cart loaded from inside by between four and nine people. It is a blanket folded at a culvert on the eighth mile that somebody puts back on some nights and takes on others. It is also your reason for standing about two hundred yards off in a hedge for nine years, which is that you are not going to be a man standing in a road at half past five in the morning."
 
 ---
 
@@ -58,7 +58,7 @@ He turned round on the stones, and it took him long enough that about four peopl
 
 "No," said Mara Quill.
 
-"Then it is a record of me and not of what I said," said the man of about sixty-four, "and I have been on a page for about nine mornings in a district of about nineteen people and a book, and nobody read it to me. That is the whole of what I have come down here for. I have no complaint against you and I want that said in a yard, and I want it said before I say the next part, because the next part is for her and not for you."
+"Then it is a record of me and not of what I said," said the man of about sixty-four, "and I have been on a page for about nine years in a district of about nineteen people and a book, and nobody read it to me. That is the whole of what I have come down here for. I have no complaint against you and I want that said in a yard, and I want it said before I say the next part, because the next part is for her and not for you."
 
 He looked up the eleven feet at Sabra Holt.
 

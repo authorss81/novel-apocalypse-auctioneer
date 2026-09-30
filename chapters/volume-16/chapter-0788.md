@@ -12,7 +12,7 @@ The second table has stood at the foot of that bank one hundred and two mornings
 
 The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and thirteenth of those mornings, and he was in the yard for both of them, and about nine people in that yard heard the second one and about four of them had heard a man of sixty-one say a thing out loud at about eleven that cannot be taken back off the stones.
 
-At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and twenty-seventh night of that run, having slept on four hundred and twenty-six of them, and a man of sixty-one was on the stones about four feet off him for the seventeenth afternoon running, and they said good afternoon, and the man of sixty-one then said a thing he had come down that bank to say and had not said for nine mornings, and it took about nine words and about as long as it takes a clerk to read a line back twice, and neither of them referred to it again.
+At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and twenty-seventh night of that run, having slept on four hundred and twenty-six of them, and a man of sixty-one was on the stones about four feet off him for the seventeenth afternoon running, and they said good afternoon, and the man of sixty-one said a thing he had come down that bank to say and had not said for nine mornings, and neither of them referred to it again.
 
 ---
 
@@ -42,7 +42,7 @@ At about half past three a man of about sixty-four was at the foot of that low w
 
 "A page which."
 
-"The one I asked you for on the fifty-seventh morning. One page I own, in my own hand, not a fair copy, that a clause exists. You said three or four days. The four days were the sixty-first morning and this is the seventy-second and I have had that page in the back of my head for four mornings and I would like it now, and I am asking you in a yard because that is what this district has instead of a room."
+"The one I asked you for on the fifty-seventh morning. One page I own, in my own hand, not a fair copy, that a clause exists. You said three or four days. The four days were the sixty-first morning and this is the seventy-second and I have had that page in the back of my head for eleven mornings and I would like it now, and I am asking you in a yard because that is what this district has instead of a room."
 
 ---
 
@@ -58,7 +58,7 @@ Nobody in that yard made a sound.
 
 ---
 
-"Second," he said. "It cannot go up that lane. There is no instrument in this district that can carry a page up that hill. The only carrier in this basin refused one on the fifty-eighth morning in the ordinary voice and gave a reason, and a man of thirty-eight asked him again on the sixty-fourth morning and he said yes and carried a page up that lane in his cart at about half past four, and I know that because I am holding the page," he said, "and I am not going to stand in this yard and tell anybody that a man did not go because nobody asked him, and I am not going to put a man who is already a figure in a yard in a cart, and I would rather this district's only page stayed where it is than go up that hill on a man I have to feel about afterwards."
+"Second," he said. "It cannot go up that lane. There is no instrument in this district that can carry a page up that hill. The only carrier in this basin refused one on the fifty-eighth morning in the ordinary voice and gave a reason, and on the sixty-fourth morning a man of about twenty-nine came up that bank on his own and said nine words and got them and carried a page up that lane in his cart at about half past four, and I know that because I am holding the page," he said, "and I am not going to stand in this yard and tell anybody that a man did not go because nobody asked him, and I am not going to put a man who is already a figure in a yard in a cart, and I would rather this district's only page stayed where it is than go up that hill on a man I have to feel about afterwards."
 
 ---
 
