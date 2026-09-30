@@ -47,7 +47,7 @@
 
 **CARRIER NOTE YOU MUST CARRY: ROWS 13 AND 14 ARE PRINTED AS `his <N> night of that run` AND `having slept on`. `outline/volume-17.md` SECTION 3 GIVES ROW 14 AS `he has slept on` AND THE CHAPTERS OF BLOCK 0002 DO NOT CARRY IT. PRINT WHAT THE CHAPTERS CARRY.**
 
-**THE COLLISIONS ARE ANTICIPATED AND ALL FIRE AND ALL ARE CORRECT: ROW 9 IS FOUR HUNDRED AND NINETY-NINE ON `c = 21` AND FIVE HUNDRED AND EIGHT ON `c = 30`, AGAINST ROW 12'S FOUR HUNDRED AND ELEVEN; ROW 7 AND ROW 8 CROSS FOUR HUNDRED AND ELEVEN INSIDE THIS BLOCK — ROW 7 IS FOUR HUNDRED AND TWENTY-FOUR ON `c = 21` AND ROW 8 IS FOUR HUNDRED AND ELEVEN ON `c = 22`. A FIGURE-ONLY CHECK WILL FIRE ON ALL OF THEM. CHECK EVERY FIGURE IN ITS OWN CARRIER PHRASE AND IN ITS OWN DECLARED DIRECTION AND NEVER IN THE FILE.**
+**THE OVERLAPS IN THIS BLOCK ARE ANTICIPATED AND ALL ARE CORRECT AND NONE OF THEM IS A COLLISION WITH ROW 12. **NO ROW REACHES FOUR HUNDRED AND ELEVEN ON ANY MORNING OF THIS BLOCK. ROW 7 RUNS FOUR HUNDRED AND TWENTY-FOUR TO FOUR HUNDRED AND THIRTY-THREE AND ROW 8 RUNS FOUR HUNDRED AND TWENTY-NINE TO FOUR HUNDRED AND THIRTY-EIGHT, AND ROW 7 REACHED FOUR HUNDRED AND ELEVEN ON `c = 8` AND ROW 8 REACHED IT ON `c = 3`, BOTH OF WHICH ARE IN BLOCK 0001 AND NEITHER OF WHICH IS IN THIS BLOCK.** THE TWO REAL OVERLAPS ARE ROWS 7 AND 8 CROSSING EACH OTHER — FOUR HUNDRED AND TWENTY-NINE TO FOUR HUNDRED AND THIRTY-THREE IS IN BOTH ROWS' RANGES, ROW 7 REACHING THOSE FIGURES ON THE LAST FIVE MORNINGS OF THIS BLOCK AND ROW 8 REACHING THEM ON THE FIRST FIVE — AND ROWS 13 AND 14, WHICH ARE ONE APART BY CONSTRUCTION AND WHICH READ AS A SINGLE FIGURE IF THE CARRIER IS DROPPED. ROW 9 RUNS FOUR HUNDRED AND NINETY-NINE TO FIVE HUNDRED AND EIGHT AND DOES NOT TOUCH ROW 12. **CHECK EVERY FIGURE IN ITS OWN CARRIER PHRASE AND IN ITS OWN DECLARED DIRECTION AND NEVER IN THE FILE.**
 
 **THE NON-LADDER COUNTS, WHICH ARE NOT `intercept + c` AND MAY NOT BE ADDED TO:**
 
@@ -77,7 +77,7 @@
 
 ## 4. THE REGISTER, AND WHAT BLOCKS 0001 AND 0002 SPENT
 
-**The register is: the figure block, the scene dividers, the ladder, a hedge on the word *about*, and three things the older register lacked — interiority in more than one place, exchange in which somebody answers somebody, and a named person it gets worse for who is not the protagonist. Continue all four. Block 0002 ran 30,564 words over ten files, a mean of 3,056.4, a minimum of 2,587 and a maximum of 3,642, and 183 scene dividers, a mean of 18.3. Block 0001 ran 25,873 and 125 dividers. The two measures trade against each other and the trade was declared in Block 0001 and neither figure is an error.**
+**The register is: the figure block, the scene dividers, the ladder, a hedge on the word *about*, and three things the older register lacked — interiority in more than one place, exchange in which somebody answers somebody, and a named person it gets worse for who is not the protagonist. Continue all four. Block 0002 ran 30,577 words over ten files, a mean of 3,057.7, a minimum of 2,587 and a maximum of 3,655, and 183 scene dividers, a mean of 18.3. Block 0001 ran 25,873 and 125 dividers. The two measures trade against each other and the trade was declared in Block 0001 and neither figure is an error.**
 
 **WHAT A SUCCESSOR MUST NOT SPEND AGAIN:**
 

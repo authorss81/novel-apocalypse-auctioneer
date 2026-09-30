@@ -62,7 +62,7 @@ He said it in the ordinary voice and about nine people at the top of eleven feet
 
 ---
 
-Nobody at the top of eleven feet said anything for about as long as it takes a man of fifty-six to say four figures off a wall.
+Nobody at the top of eleven feet said anything for about as long as it takes a man of fifty-six to say four figures off a wall, and about four of them looked at the boards instead of at him.
 
 "She asked me what the district has got, in a corridor, at about eleven at night, having not been asked anything by anybody in about nine years. And she did not ask it as a person who has been named. She asked it the way you would ask about the weather on a place you have to walk to."
 
