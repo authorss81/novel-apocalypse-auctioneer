@@ -10,7 +10,7 @@ Three hundred and fifty-five marks have been cut off that board, and there are t
 
 The second table has stood at the foot of that bank one hundred and twelve mornings and moved this morning from one hundred and eleven. The near rail has stood on the near side of it for sixty-two mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is eighty-two, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move. The lane count is twenty-three and did not move. The lot book is on the boards with five lines on it and a column with one name in it, and the name in it is the name of the man who asked to be put in it this morning, and it was entered on the thirty-ninth morning, which is forty-three mornings back, at the direction of that yard.
 
-The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and twenty-third of those mornings, and nobody in that yard told him that anything had been said about his four figures in the last twenty mornings because there has not been, and he has not asked.
+The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and twenty-third of those mornings, and nothing that has been done with those four figures since she read them out loud in that yard has been read back to him, and he has not asked for it.
 
 At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and thirty-seventh night of that run, having slept on four hundred and thirty-six of them, and a man of sixty-one was on the stones about four feet off him for the twenty-seventh afternoon running, and they said good afternoon, and for as long as it takes a man of fifty-six to say four figures neither of them said anything else, and neither of them has ever referred to it since.
 
@@ -28,7 +28,7 @@ Adrian had it in his mouth at about half past ten and let it sit there until abo
 
 She did not open the book to do it and she did not need to, and that was the first thing that made about four people in that yard sit down.
 
-"It says *Adrian Vale. Four figures off that wall, this morning, and nine lines of a stranger's page, at about eleven. At the direction of the yard. Not appointed to anything.*" She shut it. "Entered on the thirty-ninth morning by me, in my hand, at the word of a boy of seventeen who stood on those boards and asked me to find a place to put a name, and his name was not the one I wrote. There has been nothing else in it since. The heading over it says whoever."
+"It says *Adrian Vale. Nine lines out loud in this yard, on the thirty-eighth morning. At the direction of the yard. Not appointed to anything.*" She shut it. "Entered on the thirty-ninth morning by me, in my hand, at the word of a boy of seventeen who stood on those boards and asked me to find a place to put a name, and his name was not the one I wrote. There has been nothing else in it since. The heading over it says whoever."
 
 ---
 
@@ -102,7 +102,7 @@ Adrian stood at the far end of the boards with his hands at his sides.
 
 ---
 
-The man at the end of the second table came about four feet along the boards to the place where the light was, which is a thing he does.
+The man at the end of the second table came along the boards until he was standing in the place where the light was, which is a thing he does.
 
 "Then the rule is not the problem," he said, "and I would like to know what is, and I have got about four years and it is about time I started on it, and you are the only person in that yard who has just found something out and I am not going to waste it."
 
@@ -116,6 +116,6 @@ The man at the end of the second table came about four feet along the boards to 
 
 ---
 
-At about four o'clock the man of fifty-six said the four off that wall and got all four of them, and nobody in that yard said *as sent*, and about four of them noticed that nobody had.
+At about four o'clock the man of fifty-six said the four off that wall and got all four of them, and nobody in that yard said *as sent*, and two of them noticed that nobody had.
 
 Orren Pike wrote nothing at all for about half of that morning, which everybody in that yard noticed, and then at the end of it he turned the sheet over and wrote two lines under the rule and did not read them out to anybody. One of the two lines said that a thing had been said out loud in that yard and entered twice, once in a column with a heading over it and once on a page with nothing on it, and the other line said that he had not known which of the two was the mistake and was not going to find out.

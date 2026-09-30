@@ -8,7 +8,7 @@ Four hundred and forty-five days is how long the bid has been open and it was no
 
 Three hundred and fifty-four marks have been cut off that board, and there are three hundred and forty marks in chalk along the edge of that second table. The count of counted months is six and did not move. The number of documents this district does not own is four. The number of places in this district where those three lines can be read is four. The number of conditions with no end on it is four, and the count of the five things this district does not have is five and is not paid, and a notice came down that lane this morning that is a record of a thing with a person's name in it and it did not pay the fifth of the five and it is not going to.
 
-The second table has stood at the foot of that bank one hundred and eleven mornings and moved this morning from one hundred and ten. The near rail has stood on the near side of it for sixty-one mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is eighty-one, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move, and a page came down that lane this morning and a page a stranger carried in from outside this basin is not a thing four people made. The lane count is twenty-three, and it moved this morning for the first time since the sixty-fifth morning, and it moved because somebody came down that hill with a page and a boy of seventeen said the figure out loud before the clerk had the book open. The lot book is on the boards with five lines on it and a column with one name in it, and there is no more in it this morning than there was yesterday morning.
+The second table has stood at the foot of that bank one hundred and eleven mornings and moved this morning from one hundred and ten. The near rail has stood on the near side of it for sixty-one mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is eighty-one, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move, and a page came down that lane this morning and a page a stranger carried in from outside this basin is not a thing four people made. The lane count is twenty-three, and it moved this morning for the first time since the sixty-fifth morning, and it moved because somebody came down that hill with a page and a boy of seventeen said the figure out loud before the clerk had the book open. The lot book is on the boards with five lines on it and a column with one name in it, and the clerk had the cover flat under her forearm and had not lifted it.
 
 The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and twenty-second of those mornings, and he was standing about eleven feet off that wall when a stranger came down the lane at about half past two and he heard about nine people at the top of the bank say a figure before the clerk said anything at all.
 
@@ -72,7 +72,7 @@ The stranger read it again, in the ordinary voice, at the top of eleven feet, in
 
 ---
 
-Sabra Holt did not say anything for a while, and when she spoke it was to Adrian and not to the yard, and it was the first thing she had said to him directly in seventeen mornings.
+Sabra Holt did not say anything for a while, and when she spoke it was to Adrian and not to the yard, and it was the first thing she had said to him directly in sixteen mornings.
 
 "I have been an appointed administrator for nineteen years," she said. "I have signed things. I have held the third of the nine oldest keys since the year after the one you would have been a grown man in. I have never once been named in a page in that corridor. Not in nineteen years. There is a person there who writes the headings and there has been a person there for all nineteen years and none of them has ever had to write my name because nobody has ever filed anything with me as the officer."
 
@@ -82,7 +82,7 @@ Sabra Holt did not say anything for a while, and when she spoke it was to Adrian
 
 ---
 
-"I filed one on the first morning I came up this hill that I did not know I was filing." She was not looking at him. "That is the whole of what I did and it took the time it takes to write a name at the foot of a form, and I have spent eight mornings carrying four things up that hill and refusing a fifth, and this morning the hill has sent something back with my name at the bottom of it in a stranger's hand."
+"I filed one on the first morning I came up this hill that I did not know I was filing." She was not looking at him. "That is the whole of what I did and it took the time it takes to write a name at the foot of a form, and I have spent seven mornings carrying four things up that hill and refusing a fifth, and this morning the hill has sent something back with my name at the bottom of it in a stranger's hand."
 
 ---
 
@@ -106,7 +106,7 @@ Sabra Holt did not say anything for a while, and when she spoke it was to Adrian
 
 ---
 
-"No. I have understood what has happened to this district and I have got quite good at that in seventeen mornings and it is not the same thing at all and I have spent the whole of today failing to do the other one." She took the page off the boards and folded it once, which is what people do with paper they are going to keep. "I am going to say one thing in that room about that page. One. And I am not going to say it in this yard, and I am telling this yard that it exists and nothing else, and if anybody in this yard follows me up that hill to hear it then the thing I have spent this whole run refusing to do will have been done in the time it takes to write a figure down by about four people."
+"No. I have understood what has happened to this district and I have got quite good at that in sixteen mornings and it is not the same thing at all and I have spent the whole of today failing to do the other one." She took the page off the boards and folded it once, which is what people do with paper they are going to keep. "I am going to say one thing in that room about that page. One. And I am not going to say it in this yard, and I am telling this yard that it exists and nothing else, and if anybody in this yard follows me up that hill to hear it then the thing I have spent this whole run refusing to do will have been done in the time it takes to write a figure down by about four people."
 
 ---
 
@@ -124,14 +124,14 @@ Sabra Holt did not say anything for a while, and when she spoke it was to Adrian
 
 ---
 
-Adrian did not answer that and it was the first time in seventeen mornings that he had not answered her and about four people in that yard noticed and about nine did not.
+Adrian did not answer that and it was the first time in sixteen mornings that he had not answered her and about four people in that yard noticed and about nine did not.
 
 ---
 
-"The fifth of the five," said the man at the end of the second table, to nobody, "and it took a page from outside this basin to say it this morning and not one of us in seventeen mornings."
+"The fifth of the five," said the man at the end of the second table, to nobody, "and it took a page from outside this basin to say it this morning and not one of us in sixteen mornings."
 
 ---
 
-At about four o'clock the man of fifty-six said the four off that wall and got all four of them, and the stranger had gone back up the lane an hour before and the page had gone with her, and Mara Quill entered one line on the page at the back of the lot book with nothing ruled on it and did not read it out, which is the first thing she has entered in fifteen years without reading out first, and about nine people in that yard noticed and about four of them knew why.
+At about four o'clock the man of fifty-six said the four off that wall and got all four of them, and the stranger had gone back up the lane an hour before and the page had gone with her, and Mara Quill entered one line on the page at the back of the lot book with nothing ruled on it and did not read it out, which is the first thing she has entered in fifteen years without reading out first, and about nine people in that yard noticed and two of them knew why.
 
 Orren Pike wrote the new figure at the foot of the back of his own sheet in pencil, and beside it, in the same pencil and the same hand: *moved. down. with a page. twenty-three.* He did not write the notice itself and he did not write what was in it and he did not write who read it out, and the box on that sheet is for mornings and not for any of those three things.

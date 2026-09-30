@@ -36,7 +36,7 @@ Adrian came down the eleven feet at about half past two and sat on the end of th
 
 ---
 
-"That is the whole of what I have got," said the man at the end of the second table. "I put you on it. You can stay. If I move you off it I am a person who moves a man of thirty-eight off a piece of wood at half past two on the morning a room sits nine miles up that hill, and I have been at this table for fifteen years and careful in this yard for about nine of them, and I am not going to be the other thing."
+"That is the whole of what I have got," said the man at the end of the second table. "I put you on it. You can stay. If I move you off it I am a person who moves a man of thirty-eight off a piece of wood at half past two on the morning a room sits nine miles up that hill, and I have been at this table for fifteen years and careful in this yard for nine of them now, and I am not going to be the other thing."
 
 ---
 
@@ -78,7 +78,7 @@ Somebody said *go on* and about nine people did not say it.
 
 ---
 
-"Everything this basin writes says that it is a record of a thing and not of a person." He was standing at the near end of the boards and he did not have a page in his hand and there was nothing on the boards in front of him. "It is the sentence every clerk in this basin says out loud and it is true of every one of them and it does not matter how careful the clerk is. The founder's clause is a record of a thing that was never a thing — it is a record about who may own a bus, a lamp, a ferry and a bell, and a market is not a bus and a market is not a lamp, and there is not one market in this basin that could own one of those things, and that is the design of it and the whole of the design of it — and there is a person's name inside it, and nobody in this basin will be able to tell you whose, and the man who wrote it has been in this yard for about twenty-nine afternoons saying that he will not say."
+"Everything this basin writes says that it is a record of a thing and not of a person." He was standing at the near end of the boards and he did not have a page in his hand and there was nothing on the boards in front of him. "It is the sentence every clerk in this basin says out loud and it is true of every one of them and it does not matter how careful the clerk is. The founder's clause is a record of a thing that was never a thing — it is a record about who may own a bus, a lamp, a ferry and a bell, and a market is not a bus and a market is not a lamp, and there is not one market in this basin that could own one of those things, and that is the design of it and the whole of the design of it — and there is a person's name inside it, and nobody in this basin will be able to tell you whose, and there is a person nine miles up that hill who could, and he was asked in a yard in front of about nineteen people six mornings ago, and he said no, and he has not said it since."
 
 He stopped there and about four people in that yard looked at the stones.
 
@@ -88,9 +88,11 @@ He stopped there and about four people in that yard looked at the stones.
 
 Then he said the other half of it, and he said it slowly, and he said it to the man at the wall as much as to anybody.
 
-"And I know it. I do not know it from reading it. I know it because this yard has been doing the same thing at every end of itself for as long as I have been standing in it, and I have watched it happen.
+"And I know it. I do not know it from reading it. I know it because this yard has been doing the same thing at every end of itself for as long as I have been standing in it, and I never once had a name for it until this morning.
 
-"The clerk entered a sentence on the seventy-fourth morning about a column with one name in it, and the name in it does not satisfy the rule that governs it, and she cannot take it out. The boy said a figure out loud in this yard five mornings ago and the right one and the wrong one are now in two books and neither of them can be struck, and that is a rule this district made about itself and it is a good rule and it has cost that boy the only instrument he has. The woman on the step came up that bank five mornings ago and said the fifth of the five was a shape, because there is no figure in this district that a person can be weighed against. A woman on a working list nine miles up that hill walked two miles here and said it was not a shape, it was nine people who are already paid by something that has no figures in it. Both of them are describing the same absence from opposite ends and neither of them has been paid anything, and the count is still five. A man at the end of this table made a rule about who may be entered and the rule is perfect and it has never refused anybody because there has never been anybody for it to refuse. And a column with a heading over it says *whoever* and nobody in this district knows who ruled it and I have had every morning of this district with my hands on it."
+"Two women have told this yard what the fifth of the five is and they are standing eleven feet apart and neither of them has been paid anything. The one on the step came up that bank eight mornings ago and said it was a shape, because there is no figure in this district that a person can be weighed against. The other walked two miles from a corridor nine miles up that hill and said it is not a shape, it is nine people who are already being paid by something with no figures in it and no clerk. Same absence, opposite ends, and the count is still five.
+
+"And the clerk entered a sentence on the seventy-fourth morning about a column with one name in it, and the name does not satisfy the rule that governs it and she cannot take it out. And a boy said a figure out loud in this yard five mornings ago and the right one and the wrong one are now in two books nine miles apart and neither of them can be struck, and that is a rule this district made about itself and it is a good rule and it has cost him the only instrument he has. And a man at the end of this table made a rule about who may be entered and it is perfect and it has never refused anybody because there has never been anybody for it to refuse. And a column with a heading over it says *whoever* and nobody in this district knows who ruled it. I have had every morning of this district with my hands on it."
 
 ---
 
@@ -126,7 +128,7 @@ Nobody in that yard said anything for long enough that the man of fifty-six, sta
 
 ---
 
-"I have got about four years," said the man at the end of the second table, "and about nine people have now heard it, and every one of those nine can be asked about it afterwards, and in about four years somebody is going to ask each of them separately what a man of thirty-eight said at four o'clock on the eighty-fourth morning. That is a thing that happens. That is the only instrument there is."
+"I have got about four years," said the man at the end of the second table, "and about nineteen people have just heard it, and every one of those nineteen can be asked about it afterwards, and in about four years somebody is going to ask each of them separately what a man of thirty-eight said at four o'clock on the eighty-fourth morning. That is a thing that happens. That is the only instrument there is."
 
 ---
 
@@ -154,12 +156,12 @@ Orren Pike had his sheet out and had it against the boards and his thumb on the 
 
 He put the sheet away.
 
-"You do not get to spend mine either," he said, to a man of thirty-eight who had said the identical sentence to him about a figure five mornings ago and had been told he did not."
+"You do not get to spend mine either," he said, to a man of thirty-eight who had said the identical sentence to him about a figure five mornings ago and had been told he did not.
 
 ---
 
 Nobody in that yard wrote it down.
 
-At about a quarter past six the man of fifty-six said the four off that wall again on his way down the lane to nobody at all, and got all four of them, and the lane count is twenty-three, and the bid has been open four hundred and forty-eight days, and the count of the five things this district does not have is five.
+At about a quarter past six the man of fifty-six said the four off that wall again on his way down the lane to nobody at all, and got all four of them, and the boards of the second table were bare where the stone had been, and they stayed bare.
 
 Adrian Vale was still at the top of that bank. He has been in that yard one hundred and five mornings. He has not been given a bed, a wage or an office, has not asked for any of the three, and has not been in a room nine miles up that hill, and there is a length of fencing wire in the pocket of his coat about four miles from a gap of a mile and a half that he has not been to, and the man at the end of the second table has said out loud in about nineteen people's hearing that he is not going to ask him what it is for.

@@ -42,11 +42,11 @@ Sabra Holt had a folded paper in her own hand on the boards at about ten and abo
 
 ---
 
-"Until about ten mornings ago," said Sabra Holt.
+"Until ten mornings ago," said Sabra Holt.
 
 ---
 
-"Until about ten mornings ago," said Mavis Dorr, and stopped.
+"Until ten mornings ago," said Mavis Dorr, and stopped.
 
 ---
 

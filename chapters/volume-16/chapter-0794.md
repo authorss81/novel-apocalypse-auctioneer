@@ -24,9 +24,9 @@ She was standing at the near end of the boards and the whole yard knew what it w
 
 ---
 
-"You have been here fourteen mornings," said Iven Tallow from about four feet off, without getting up.
+"You have been here thirteen mornings," said Iven Tallow from about four feet off, without getting up.
 
-"Fourteen."
+"Thirteen."
 
 "You rehearsed it three of them and left ten for asking, which is the right proportion and better than mine would have been." He took his hand off his knee. "Before you ask it I am going to say one thing and then you are going to ask it and then I am going to say no."
 
@@ -36,7 +36,7 @@ She was standing at the near end of the boards and the whole yard knew what it w
 
 ---
 
-"No, and I would rather you let me have it, because you have been extremely careful with me for fourteen mornings and this is the one morning on which being careful is not what either of us needs."
+"No, and I would rather you let me have it, because you have been extremely careful with me for thirteen mornings and this is the one morning on which being careful is not what either of us needs."
 
 ---
 
@@ -84,11 +84,11 @@ She wrote it. She wrote it on the page at the back of the lot book with nothing 
 
 ---
 
-"I have put a description of a man on stones and it is another description of a person in two books and every one of them is me. I could not have put anything less and I could not have put anything more, and if you want the count of people in this district that a page has never been able to hold, that is you and the man at that wall and a boy of seventeen and a woman with a scale, and I have had fourteen mornings in which to stop doing it and I have not."
+"I have put a description of a man on stones and it is another description of a person in two books and every one of them is me. I could not have put anything less and I could not have put anything more, and if you want the count of people in this district that a page has never been able to hold, that is you and the man at that wall and a boy of seventeen and a woman with a scale, and I have had thirteen mornings in which to stop doing it and I have not."
 
 ---
 
-Sabra Holt shut her own book and did not open it again, which is the second time in fourteen mornings that anybody in that yard had seen her do it.
+Sabra Holt shut her own book and did not open it again, which is the second time in thirteen mornings that anybody in that yard had seen her do it.
 
 "I am not going to ask you twice," she said. "I want that said in this yard in the ordinary voice so that if it turns out later that I asked you twice, one of us has been told. It is a promise and I do not make many and I have made it now."
 
@@ -98,7 +98,7 @@ Sabra Holt shut her own book and did not open it again, which is the second time
 
 ---
 
-"It is the first time anybody in that yard has said thank you to you in fourteen mornings," said Adrian, from about nine feet off the near end of the boards, and he had not been asked and nobody had asked him to say it.
+"It is the first time anybody in that yard has said thank you to you in thirteen mornings," said Adrian, from about nine feet off the near end of the boards, and he had not been asked and nobody had asked him to say it.
 
 ---
 
@@ -130,10 +130,10 @@ The man at the end of the second table had not turned round.
 
 At about half past three the two of them said good afternoon at the foot of that wall and neither of them said anything else, and the man of about sixty-four picked up his coat at about a quarter past four and did not put it on.
 
-"I go out at about half past four," he said, to nobody in particular, and about nine people in that yard heard it, as they had heard it say it on about every morning for a year.
+"I go out at about half past four," he said, to nobody in particular, and about nine people in that yard heard it, as they had heard him say it on every morning since the middle of that winter.
 
 ---
 
-At about four o'clock the man of fifty-six said the four off that wall and got all four of them, and about four people in that yard said *as sent* at the same time and out of step with each other and about nine did not, and the boy of seventeen wrote the morning in the box on the back of his own sheet, and under it the four figures off that wall in the order they are on the wall, because those four had been said out loud twice in a yard in front of about nineteen people and a box is not a place to leave figures nobody wrote down.
+At about four o'clock the man of fifty-six said the four off that wall and got all four of them, and about four people in that yard said *as sent* at the same time and out of step with each other and about nine did not, and the boy of seventeen wrote the morning into the box at the back of his own sheet, and under it the four figures off that wall in the order they are on the wall, because those four had been said out loud twice in a yard in front of about nineteen people and a box is not a place to leave figures nobody wrote down.
 
 He left everything else out of it, and the leaving out was the whole of what he did with that morning.

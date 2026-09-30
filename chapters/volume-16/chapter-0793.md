@@ -8,7 +8,7 @@ Four hundred and forty-one days is how long the bid has been open and it was not
 
 Three hundred and fifty marks have been cut off that board, and there are three hundred and thirty-six marks in chalk along the edge of that second table. The count of counted months is six and did not move, and a man read four figures off that wall this morning to a person who had come to the wall and asked, which is the second time in five hundred and eighteen mornings that any of the four has gone into a person, and it is still six. The number of documents this district does not own is four. The number of places in this district where those three lines can be read is four. The number of conditions with no end on it is four, and the count of the five things this district does not have is five and is not paid, and a man who comes up that lane twice a day asked this morning for the thing that would pay the first of them and was given a quarter of it and was told it could not happen again.
 
-The second table has stood at the foot of that bank one hundred and seven mornings and moved this morning from one hundred and six. The near rail has stood on the near side of it for fifty-seven mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is seventy-seven, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move. The lane count is twenty-two, and the turner comes up that lane twice a day and has done for nine years and he has never brought anything up it that anybody has counted. The lot book is on the boards with five lines on it and a column with one name in it, and there is no more in it this morning than there was yesterday morning.
+The second table has stood at the foot of that bank one hundred and seven mornings and moved this morning from one hundred and six. The near rail has stood on the near side of it for fifty-seven mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is seventy-seven, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move. The lane count is twenty-two, and the turner comes up that lane twice a day and has done for nine years and he has never brought anything up it that anybody has counted. The lot book is on the boards with five lines on it and a column with one name in it, and nothing has gone into it since the clerk came up that bank yesterday afternoon.
 
 The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and eighteenth of those mornings, and for five hundred and eighteen of those mornings they had gone into the air and not into anybody.
 
@@ -18,7 +18,7 @@ At about half past three a man of about sixty-four was at the foot of that low w
 
 The turner came up the lane at about one and stopped at the bottom of that bank, the way he does, and put his bag down in the grass and came up the eleven feet at the pace of a man with nowhere in particular to be, which is the pace of about nine years.
 
-He has a grey coat and both hands are good and about four of them are better than the rest, and he has been at that bench somewhere along the lane for nine years, and nobody in that yard has ever asked him about the bench, and he has never offered.
+He has a grey coat and both hands are good and four of the fingers on them are better than the rest, and he has been at that bench somewhere along the lane for nine years, and nobody in that yard has ever asked him about the bench, and he has never offered.
 
 ---
 
@@ -50,7 +50,7 @@ He has a grey coat and both hands are good and about four of them are better tha
 
 ---
 
-"The rest is that not being asked is not the same as having nothing to say." He looked up the eleven feet. "I have said nothing to that yard for nine years because it was cheaper, and I have got about nine coppers' worth of nothing out of it, and this morning a woman carried a beam scale up that bank and told a man of thirty-eight what he is paid in, and I have not been able to think about the bench since about eleven o'clock. That is not a reason anybody would want. It is just that I would rather say it than not say it."
+"The rest is that not being asked is not the same as having nothing to say." He looked up the eleven feet. "I have said nothing to that yard for nine years because it was cheaper, and I have got about nine coppers' worth of nothing out of it, and yesterday morning a woman carried a beam scale up that bank and told a man of thirty-eight what he is paid in, and I have not been able to think about the bench since. That is not a reason anybody would want. It is just that I would rather say it than not say it."
 
 ---
 
@@ -68,7 +68,7 @@ The man of fifty-six looked at the wall, and then at the turner, and then at the
 
 ---
 
-"Say them then, and do not do it kindly. And I will tell you what you are about to be given, because there was one of these on the seventy-third morning and I was the woman it was given to, and I entered it, and I have had six mornings to find out what entering one of those does to a person."
+"Say them then, and do not do it kindly. And I will tell you what you are about to be given, because there was one of these on the seventy-third morning and I was the woman it was given to, and I entered it, and I have had four mornings to find out what entering one of those does to a person."
 
 ---
 
@@ -110,7 +110,7 @@ The turner stood there and did not say thank you and did not move for long enoug
 
 ---
 
-"You have been in this district thirteen mornings," said the turner. "You have spent all thirteen of them finding out what this yard does not have."
+"You have been in this district twelve mornings," said the turner. "You have spent all twelve of them finding out what this yard does not have."
 
 "I have," said Sabra Holt.
 
@@ -137,7 +137,7 @@ Adrian got to the foot of the bank at about half past two, which he does, and st
 "Why not," said Adrian.
 
 
-"Because she has been in that yard thirteen mornings and has not asked anybody anything she did not come here to ask, and I have been in that yard for nine years of mornings without saying anything at all, and if I had stopped on that lane at about one o'clock with a bag in my hand and started asking her what she was doing here then I would have been doing it to be seen doing it, and about four people in that yard would have watched me do it and about nine would have known why."
+"Because she has been in that yard twelve mornings and has not asked anybody anything she did not come here to ask, and I have been in that yard for nine years of mornings without saying anything at all, and if I had stopped on that lane at about one o'clock with a bag in my hand and started asking her what she was doing here then I would have been doing it to be seen doing it, and about four people in that yard would have watched me do it and about nine would have known why."
 
 He shifted the bag.
 
@@ -151,7 +151,7 @@ He shifted the bag.
 
 ---
 
-At about four o'clock the man of fifty-six said the four off that wall and got all four of them, and about nine people at the top of eleven feet heard the third reading of that morning and about four of them could not have told you afterwards whether the first one had happened.
+At about four o'clock the man of fifty-six said the four off that wall and got all four of them, and about nine people at the top of eleven feet heard the third reading of that morning and two of them could not have told you afterwards whether the first one had happened.
 
 Orren Pike turned the back of his own sheet to the boards and wrote the morning in the box headed for mornings on which a thing was said out loud in that yard and was not entered anywhere, and ruled a line under it and left it blank. Then he wrote under the rule, in pencil, and it came out uneven because he was tired: *one person. twice a day. nine years. and he asked.*
 

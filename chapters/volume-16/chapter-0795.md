@@ -8,7 +8,7 @@ Four hundred and forty-three days is how long the bid has been open and it was n
 
 Three hundred and fifty-two marks have been cut off that board, and there are three hundred and thirty-eight marks in chalk along the edge of that second table. The count of counted months is six and did not move. The number of documents this district does not own is four. The number of places in this district where those three lines can be read is four. The number of conditions with no end on it is four, and the count of the five things this district does not have is five and is not paid, and two figures about one man went into two books this morning and the count did not move and there is no instrument in this basin that can make them be one figure.
 
-The second table has stood at the foot of that bank one hundred and nine mornings and moved this morning from one hundred and eight. The near rail has stood on the near side of it for fifty-nine mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is seventy-nine, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move. The lane count is twenty-two. The lot book is on the boards with five lines on it and a column with one name in it, and there is no more in it this morning than there was yesterday morning.
+The second table has stood at the foot of that bank one hundred and nine mornings and moved this morning from one hundred and eight. The near rail has stood on the near side of it for fifty-nine mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is seventy-nine, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move. The lane count is twenty-two. The lot book is on the boards with five lines on it and a column with one name in it, and it is the same book it was before the light came off that wall.
 
 The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and twentieth of those mornings, and at about eleven this morning he was in that yard with his hand on the stone and about nine feet of bank between him and the boards and no idea at all that a thing was about to happen at the top of it.
 
@@ -16,7 +16,7 @@ At about half past three a man of about sixty-four was at the foot of that low w
 
 ---
 
-The boy of seventeen came up the eleven feet of that bank at about eleven with his sheet in his hand and stood on the boards at the near end and looked round the yard the way he has looked round it four years, at about nineteen people, and did not say anything for long enough that a man of fifty-six looked at the sun and then at him and then at the sun.
+The boy of seventeen came up the eleven feet of that bank at about eleven with his sheet in his hand and stood on the boards at the near end and looked round the yard the way he has looked round it for four years, at about nineteen people, and did not say anything for long enough that a man of fifty-six looked at the sun and then at him and then at the sun.
 
 Then he said a number out loud.
 
@@ -28,7 +28,7 @@ Nobody in that yard understood it for about the length of time it takes to read 
 
 ---
 
-"He has not asked for anything," said the woman who keeps a scale, from about forty feet off, where she had been since the second morning she came up that bank. "Nobody has asked that boy for a figure since the seventy-third morning and it is six mornings back, and a man saying a figure out loud because he has been asked is not the same thing as a man saying one because he has decided to, and I am the only person on that step who can tell you they are different and I am telling you because nobody on those boards can."
+"He has not asked for anything," said the woman who keeps a scale, from about forty feet off, where she had been since the seventy-sixth morning, which was the first morning she came up that bank. "Nobody has asked that boy for a figure since the seventy-third morning and it is six mornings back, and a man saying a figure out loud because he has been asked is not the same thing as a man saying one because he has decided to, and I am the only person on that step who can tell you they are different and I am telling you because nobody on those boards can."
 
 ---
 
@@ -92,7 +92,7 @@ She wrote it, and she read it out before she wrote it, and she said what she was
 
 ---
 
-Adrian had been about nine feet off the near end of the boards for the whole of it with his hands in his coat pockets.
+Adrian had been standing at the narrow end of the boards for the whole of it with his hands in his coat pockets and had not once come closer.
 
 "I am not going to correct either figure," he said. "I want that said out loud by me in that yard this morning, because I said nothing six mornings ago and Mara Quill told me at about ten past four that afternoon that she had let a man of thirty-eight into a record three mornings wrong and had a reason for it, and she was right to tell me, and I did not do a thing about it then either, and I am saying it now so that there are two of us who have done nothing."
 
@@ -110,7 +110,7 @@ He left the space empty that was headed for mornings on which a thing was said o
 
 ---
 
-At about four o'clock the man of fifty-six said the four off that wall and got all four of them, and the clerk's pencil went into a book, and about four people in that yard got the air out of their lungs in the ordinary way that people do when four numbers have been right twice, and a woman with a key wrote the same four figures in a second book, and neither of them said anything about the other one, which is what the two of them have done every morning for a week, and which is this morning the only habit in that yard that has survived something.
+At about four o'clock the man of fifty-six said the four off that wall and got all four of them, and the clerk's pencil went into a book, and about four people in that yard got the air out of their lungs in the ordinary way that people do when four numbers have been right twice, and a woman with a key wrote the same four figures in a second book, and neither of them said anything about the other one, which is what the two of them have done every morning since the seventy-third, and which is this morning the only habit in that yard that has survived something.
 
 Adrian came down about nine feet of bank at about a quarter past six and stood at the far end of the second table.
 

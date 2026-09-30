@@ -8,7 +8,7 @@ Four hundred and forty-seven days is how long the bid has been open and it was n
 
 Three hundred and fifty-six marks have been cut off that board, and there are three hundred and forty-two marks in chalk along the edge of that second table. The count of counted months is six and did not move. The number of documents this district does not own is four. The number of places in this district where those three lines can be read is four. The number of conditions with no end on it is four, and the count of the five things this district does not have is five and is not paid, and this morning is the morning the yard found out that the reason is a heading and not a rule, and a heading is not a payment and is not going to be one.
 
-The second table has stood at the foot of that bank one hundred and thirteen mornings and moved this morning from one hundred and twelve. The near rail has stood on the near side of it for sixty-three mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is eighty-three, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move. The lane count is twenty-three and did not move. The lot book is on the boards with five lines on it and a column with one name in it, and nobody in that yard knows who ruled it and about nine of them had believed for years that they did.
+The second table has stood at the foot of that bank one hundred and thirteen mornings and moved this morning from one hundred and twelve. The near rail has stood on the near side of it for sixty-three mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is eighty-three, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move. The lane count is twenty-three and did not move. The lot book is on the boards with five lines on it and a column with one name in it, and nobody in that yard knows who ruled it and most of them had believed for years that they did.
 
 The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and twenty-fourth of those mornings, and at about eleven this morning he was about eleven feet off that wall and heard a man ask for the thing he asked for twenty-three mornings ago and did not get, and he said nothing about it then or afterwards, and that was the whole of what he gave it.
 
@@ -16,7 +16,7 @@ At about half past three a man of about sixty-four was at the foot of that low w
 
 ---
 
-"I am in this yard until the light goes off that wall and then I go up that hill and I do not come down it tomorrow," said Sabra Holt, at about half past nine, at the top of eleven feet, to about nineteen people. "I am going to say the one thing and not the second thing, and I told you both of those yesterday morning and I am not going to change which one it is. That is all. You have the whole of this morning of me and I would like somebody to use a corner of it."
+"I am in this yard until the light goes off that wall and then I go up that hill and I do not come down it tomorrow," said Sabra Holt, at about half past nine, at the top of eleven feet, to about nineteen people. "I am going to say the one thing and not the second thing, and I told you both of those on the eighty-first morning and I am not going to change which one it is. That is all. You have the whole of this morning of me and I would like somebody to use a corner of it."
 
 ---
 
@@ -36,7 +36,7 @@ He got up off the rail at about half past ten, which is a thing he has done abou
 
 ---
 
-He stopped there, in the light, with his hands at his sides, and about nine people in that yard understood at the same moment that he had satisfied the rule perfectly, and that about four of them understood the rest of it at the same time.
+He stopped there, in the light, with his hands at his sides, and about nine people in that yard understood at the same moment that he had satisfied the rule perfectly, and that two of them understood the rest of it at the same time.
 
 ---
 
@@ -50,7 +50,7 @@ Mara Quill opened the lot book and looked at the column and did not pretend to b
 
 ---
 
-"I am going to say it anyway and I am going to give it to you in the ordinary voice because you made the rule and you did not make it so that a clerk could hand it back with a shrug." She did not shut the book. "That column is for whoever read a thing out loud. I have been the clerk of that book for fifteen years. I have gone back through every entry in it, and there are five lines and a margin and a page at the back and one column, and the column has one name in it, and the name is a man who read four figures off a wall and nine lines off a stranger's page. That is what it is for. And you have not read a thing out loud in this yard in fifteen years. I looked. There is not one to enter."
+"I am going to say it anyway and I am going to give it to you in the ordinary voice because you made the rule and you did not make it so that a clerk could hand it back with a shrug." She did not shut the book. "That column is for whoever read a thing out loud. I have been the clerk of that book for fifteen years. I have gone back through every entry in it, and there are five lines and a margin and a page at the back and one column, and the column has one name in it, and the name is a man who read nine lines out loud in this yard on the thirty-eighth morning. That is what it is for. And what you did on the seventy-first morning was describe a thing you wrote yourself, and a description is not a reading, and I went looking for a place on that page to put the difference and there is not one. I looked. There is not one to enter."
 
 ---
 
@@ -60,7 +60,7 @@ Mara Quill opened the lot book and looked at the column and did not pretend to b
 
 ---
 
-"Then the rule is not the problem," said the man at the end of the second table, and about nine people in that yard heard him say it and about four of them heard what came after it.
+"Then the rule is not the problem," said the man at the end of the second table, and nine people in that yard heard him say it and two of them heard what came after it.
 
 ---
 
@@ -92,7 +92,7 @@ She said it the way she says figures, and she said it twice, and the second time
 
 ---
 
-"I knew it was there. I have entered a reading under that heading every morning since that book was opened, and I entered *not asked* fifty times over the first fifty mornings of it, and the heading was somebody else's, and I wrote the rule about not asking myself, and I have said for fifteen years in this yard that a clerk who writes down what she has been told is the only instrument this district has, and I have never once asked where the one part of the book I did not write came from." She closed it. "That is not a confession. A confession is about a thing I did. That is about a thing I did not do, and I have had it in my hand for as long as it takes to say a sentence and I am going to put it on the page at the back because I have promised in that yard that a rule that is not in a book is not a rule, and this is worse than a rule."
+"I knew it was there. I entered *not asked* fifty times over the first fifty mornings of it, and I entered it four inches away from that heading, in the column on the first page for who said it, which I ruled myself, and I wrote the rule about not asking myself, and I have said for fifteen years in this yard that a clerk who writes down what she has been told is the only instrument this district has, and I never once carried it those four inches." She closed it. "That is not a confession. A confession is about a thing I did. That is about a thing I did not do, and I have had it in my hand for as long as it takes to say a sentence and I am going to put it on the page at the back because I have promised in that yard that a rule that is not in a book is not a rule, and this is worse than a rule."
 
 ---
 
@@ -100,7 +100,7 @@ She said it the way she says figures, and she said it twice, and the second time
 
 ---
 
-"No," said Mara Quill. "Not this morning. Yesterday morning I entered something against myself in that yard and I have had about one night with it, and I am not going to enter a second thing against myself before the light goes and then look like a person who is being gracious about it. I am entering what I did not do when that room has sat. I am entering it in my own hand and reading it out. And if there is nobody left in this basin who can read it by then, then that is the fifth time this district has done something to me that nobody here is going to be able to account for, and the five is a count of mornings and not a count of a kind."
+"No," said Mara Quill. "Not this morning. Yesterday morning I entered something against myself in that yard and I have had about one night with it, and I am not going to enter a second thing against myself before the light goes and then look like a person who is being gracious about it. I am entering what I did not do when that room has sat. I am entering it in my own hand and reading it out. And if there is nobody left in this basin who can read it by then, then that is one more, and I have stopped keeping the number."
 
 ---
 
@@ -140,8 +140,8 @@ Sabra Holt went up the lane at about seven with the folded notice in her coat, a
 
 ---
 
-At about six the man of fifty-six said the four off that wall on his way down the lane to nobody at all and got all four of them, and the boy of seventeen put his pencil back in his pocket without having taken it out.
+The lane was empty at about six and the man of fifty-six went down it saying the four to nobody at all, and got all four of them, and behind him the boy of seventeen kept his pencil in his pocket the whole way to the top of the bank.
 
-Adrian stood at the top of eleven feet and worked out that he had the sentence, and that it could not be entered, and that it could not be carried up a hill, and that there was no instrument in this basin that would put a true thing about a record into a record without making it a record.
+Adrian stood at the top of eleven feet and did the arithmetic of it, and it came out the same four ways. He had the sentence. It could not be entered. It could not be carried up a hill. And there is no instrument in this basin that would put a true thing about a record into a record without making it a record.
 
 He had one morning left to say it out loud.

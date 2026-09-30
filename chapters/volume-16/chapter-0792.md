@@ -10,7 +10,7 @@ Three hundred and forty-nine marks have been cut off that board, and there are t
 
 The second table has stood at the foot of that bank one hundred and six mornings and moved this morning from one hundred and five. The near rail has stood on the near side of it for fifty-six mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is seventy-six, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move, and a woman carried a thing up that bank this morning that nobody else in that yard has ever used on a person and it is not the fifteenth of anything. The lane count is twenty-two. The lot book is on the boards with five lines on it and a column with one name in it, and there is no more in it this morning than there was yesterday morning.
 
-The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and seventeenth of those mornings, and about four people in that yard heard the second one from further away than they usually hear it, because there were nine feet of bank between the wall and about nine of them and the second one came up off the bottom of it.
+The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and seventeenth of those mornings, and three people in that yard heard the second one from further away than they usually hear it, because there were nine feet of bank between the wall and them and the second one came up off the bottom of it.
 
 At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and thirty-first night of that run, having slept on four hundred and thirty of them, and a man of sixty-one was on the stones about four feet off him for the twenty-first afternoon running, and they said good afternoon, and a man of fifty-six read four figures out loud above their heads at about four o'clock and neither of them heard a word of it.
 
@@ -86,7 +86,7 @@ The yard went quiet in a different place from the other quiet.
 
 Sabra Holt had been watching the scale on the boards for about as long as she had been listening.
 
-"I have been in this yard twelve mornings," she said, "and I did not know there was an instrument nine feet off the wall that had never been used on anybody, and I have been asking that yard for twelve mornings what it has that it is not using, and it has been standing on a step forty feet off this whole time in plain sight, and nobody told me and I am going to record that as a thing about me and not about this yard, because the woman carried it up and I did not ask her to."
+"I have been in this yard eleven mornings," she said, "and I did not know there was an instrument nine feet off the wall that had never been used on anybody, and I have been asking that yard for eleven mornings what it has that it is not using, and it has been standing on a step forty feet off this whole time in plain sight, and nobody told me and I am going to record that as a thing about me and not about this yard, because the woman carried it up and I did not ask her to."
 
 ---
 

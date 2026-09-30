@@ -34,7 +34,7 @@ Nobody had said the word *page* yet.
 
 Adrian had it in his mouth and did not put it there, and after about as long as it takes a man of fifty-six to say four figures off a wall, he said it anyway.
 
-"You are all standing round a stone," he said, "and every one of you has been thinking about a page, and none of you has said the word, and I have been in this yard ninety-six mornings and I have noticed that about four of the things that happen in it happen because nobody says a word first."
+"You are all standing round a stone," he said, "and every one of you has been thinking about a page, and none of you has said the word, and I have been in this yard ninety-six mornings and I have watched half of what happens in a yard like this one happen because nobody says a word first."
 
 ---
 
@@ -46,7 +46,7 @@ The woman who keeps a scale said the word from her own step, about forty feet of
 
 That put about nine people on the ground at once, in the way people do when a thing they have been carrying separately turns out to have been one parcel.
 
-The man at the end of the second table came about four feet along the boards to the place where the light was, which is a thing he does, and he had not said a whole sentence out loud in that yard since the seventy-second morning, and everybody in that yard knew the count, and about four of them had been keeping it.
+The man at the end of the second table came about four feet along the boards to the place where the light was, which is a thing he does, and he had not said a whole sentence out loud in that yard since the seventy-second morning, and everybody in that yard knew the count, and two of them had been keeping it.
 
 "I am going to say four things and I would like them entered, because I said on the seventy-second morning that I had about four years to say them and I have not started and this morning I have been made to."
 
@@ -98,7 +98,7 @@ She shut the book without opening it.
 
 ---
 
-The man of fifty-six said the four off that wall at about a quarter to eight, and got them, and had gone on doing it every morning since the middle of that winter without ever once asking anybody what any of it was for, and this morning at about half past eight, with about nineteen people in that yard and a woman with a key standing four feet off the stone, he asked.
+The man of fifty-six said the four off that wall at about a quarter to eight, and got them, and had gone on doing it every morning since the middle of that winter without ever once asking anybody what any of it was for, and this morning at about half past eleven, with about nineteen people in that yard and a woman with a key standing four feet off the stone, he asked.
 
 "What happens to that wall."
 
@@ -126,7 +126,7 @@ She wrote it in her own book in the ordinary voice, with the figures in it and t
 
 ---
 
-At about half twelve the man who puts tables up picked the stone up off the second table, and it was heavier than about four people expected, and he put it inside his coat against his ribs the way a man puts something he has decided not to leave.
+At about half twelve the man who puts tables up picked the stone up off the second table, and it was heavier than it had any right to be, and he put it inside his coat against his ribs the way a man puts something he has decided not to leave.
 
 "I am taking it down the bank and I am not telling anybody where I am putting it," he said, "because if I say where I am putting it then somebody will put a thing on it, and that is how the last one happened, and I am not going to be the reason there is another hollow in it."
 
@@ -136,9 +136,9 @@ The man of fifty-six put his hand on the stone the way he does, and there was no
 
 ---
 
-At about four o'clock the man of fifty-six said the four off that wall and got all four of them, and he had read them that morning for the five hundred and sixteenth time and had been in that yard for both of them and had asked one question out of the half-dozen he had been given over two mornings.
+At about four o'clock the man of fifty-six said the four off that wall and got all four of them, and he had read them that morning for the five hundred and sixteenth time and had been in that yard for both of them and had asked one question out of everything he had been handed since the morning before yesterday, and had not asked one before that.
 
-Orren Pike wrote the morning in the box on the back of his own sheet, and ruled a space under it, and left it empty, and did not write the question, because the box is headed for mornings on which a thing was said out loud in this yard and was not entered anywhere, and that is not what happened to it.
+Orren Pike wrote the morning in the box on the reverse of his own sheet, and ruled a space under it, and left it empty, and did not write the question, because the box is headed for mornings on which a thing was said out loud in this yard and was not entered anywhere, and that is not what happened to it.
 
 He looked at the blank line for a while and then wrote *seventy-five* at the foot of it in pencil, which was the morning and not the thing the box was for, and which he knew was not the thing the box was for.
 
