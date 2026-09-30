@@ -1,4 +1,4 @@
-# Maintainer Escalation — item 1 to 4 raised 2026-09-29 by the review fix of the Volume 14 close; item 5 added 2026-09-30 by the review fix of Volume 15 Block 0004
+# Maintainer Escalation — item 1 to 4 raised 2026-09-29 by the review fix of the Volume 14 close; item 5 added 2026-09-30 by the review fix of Volume 15 Block 0004; one label in item 5 corrected 2026-09-30 by the review fix that followed the Volume 15 close
 
 **This file exists because the review of the Volume 14 close found problems the pipeline has no way to solve on its own, and no existing document in this repository says so in a place a maintainer will read. It is a record, not a proposal, and it changes nothing.**
 
@@ -73,8 +73,8 @@ Measured over Volume 15's fifty files, `chapters/volume-15/chapter-0701.md` to `
 | mean sentence length | **66.4 words** | a paragraph of two to six sentences reads as paragraphs |
 | median sentence length | **56 words** | — |
 | longest single sentence | **283 words**, Chapter 750, the clerk's closing entry | one sentence |
-| dialogue as a share of body words | **10.9%**, 16,528 words in 158 bolded speeches, 3.2 a chapter | exchange, interruption, subtext |
-| sentences inside a counted speech | 159 segments, **mean 103.9, median 125, max 186 words** — a counted speech is normally **one unbroken sentence** | somebody answers |
+| dialogue as a share of body words | **10.9%**, 16,528 words in **158 bolded lines**, 3.2 a chapter. **THOSE 158 ARE NOT 158 SPEECHES AND THIS ROW SAID THEY WERE UNTIL THE REVIEW FIX OF 2026-09-30 THAT FOLLOWED THE VOLUME 15 CLOSE: FIFTY OF THEM ARE THE FOUR-FIGURE `The board carries` LINE, ONE A CHAPTER AND 2,096 WORDS, AND 108 ARE COUNTED SPEECHES AT 14,432 WORDS, WHICH IS 9.5 PER CENT OF BODY WORDS AND 2.2 A CHAPTER. A FIGURE DERIVED FROM THE 158 IS A FIGURE ABOUT BOLDED LINES** | exchange, interruption, subtext |
+| sentences inside a bolded line | 159 segments, **mean 103.9, median 125, max 186 words** — a bolded line is normally **one unbroken sentence** | somebody answers |
 | `about four of them/of you have said that` | **475 across the fifty pages, 9.5 a chapter**; 8 to 14 a chapter in Block 0004 | reported speech, not a structural unit |
 | people with a name | **zero.** No one in the fifty pages is addressed by name, and every speaker is identified by an age and a trade | "a believable inner life" and named relationships |
 | physical description of a person | **none.** Age and trade is the entire characterisation of six recurring people across fifty chapters | — |
@@ -104,3 +104,11 @@ Measured over Volume 15's fifty files, `chapters/volume-15/chapter-0701.md` to `
 3. **Chapters 716 to 750 added to four state files that had held zero references to them.** `state/chapter-summaries.md`, `state/continuity.md`, `state/character-state.md` and `state/open-threads.md` all stopped at Chapter 715, the last morning of Block 0001, so three blocks and thirty-five chapters were in no state file at all. **All thirty-five are backfilled in one section each rather than Block 0004 alone, because backfilling 741 to 750 would have left a gap from 716 and a gap is what caused this.**
 4. **`workspace/volume-16/outline/` was created by accident during this pass and was removed inside the same pass.** A close may not create its own successor, and a Volume 16 outline phase is the close phase's to write. The tree was verified afterwards: `workspace/volume-16/` does not exist.
 5. **The block was not restarted and no chapter was edited.** `git diff --stat` over `chapters/` is empty. The anchor test was run before and after every state edit and is 170 of 170 on Chapters 741 to 750 and 170 of 170 on Chapters 731 to 740 as a control; the claim test is 22 of 22 on four checks; the defect sweep a repair pass may act on found nothing.
+
+## What was repaired in the 2026-09-30 pass that followed the Volume 15 close, for the record
+
+**This pass ran against the Volume 15 close phase, found nothing that changes any item above, and corrected one label inside item 5. It opened no chapter, created no phase and created no next phase, and `git diff --stat` over `chapters/`, `outline/`, `bible/`, `workspace/` and `scripts/` is empty.**
+
+1. **Item 5's dialogue row said `158 bolded speeches` and the 158 are bolded lines.** Re-derived on the fifty files: 158 lines inside quotation marks and bold, of which **50 are the four-figure `The board carries` line, one a chapter and 2,096 words**, and **108 are counted speeches at 14,432 words**. The 10.9 per cent and the 16,528 words are both correct and are figures about bolded lines; the counted speeches alone are 9.5 per cent. The neighbouring row's label is corrected the same way. **The finding that this row is meant to carry is untouched: the register fails the gate either way, and 108 counted speeches that nobody answers is worse evidence for that than 158 lines is.**
+2. **The two `?` and `panel` sweeps and the ladder were not re-run here**, because the Volume 15 close's own section 18.1 re-derived them on the same fifty files in the same run and the figures agree. A repair pass that re-derives a figure it has no intention of changing adds a second copy of that figure and the second copy is the one that will be wrong later.
+3. **The Volume 12 debt and the name are unchanged and both are still a maintainer's**, at item 1 and at `state/open-threads.md`. Neither is a writer's to pay and neither was touched.
