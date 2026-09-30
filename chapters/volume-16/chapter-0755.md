@@ -69,7 +69,7 @@ He looked at his own hands on his knees.
 
 "That's still a decision you've got a right to make," the man who digs loam said.
 
-He had not said one word in that yard in four mornings. He was at the far end of the second table with his own spade against the leg of it and his own two hands on the near rail, and he said it looking at the boards of the first table rather than at anybody.
+He had said one word in that yard yesterday and nothing at all this morning. He was at the far end of the second table with a spade against the leg of it and both hands on the near rail, and he said it looking at the boards of the first table rather than at anybody.
 
 "Nobody's taking it off you," he went on. "You've spent four mornings telling us you won't do it and none of us said you had to. Say your name or don't say your name. It'll go on the page as *the man who mends fencing* if you'd rather, and that's what it'd go on as for the rest of this district's life, and any fool up that hill at Alder Reach would put it on a bit of paper exactly like that one, and it would be correct."
 
@@ -103,9 +103,9 @@ Four hundred and three days is how long the bid has been open, and it was not ru
 
 Three hundred and twelve marks have been cut off that board, and there are two hundred and ninety-eight marks in chalk along the edge of that second table, and the count of things this district has made is thirteen and did not move, and the count of counted months is six and did not move.
 
-Four hundred and ninety-four days is the age of the figure on the sheet at that gatepost, and the figure is four hundred and eleven and did not move.
+Four hundred and ninety-four days is the age of the figure on the sheet at that gatepost. The figure is four hundred and eleven and did not move.
 
-The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them, and at about half past three the man of about sixty-four was on his three hundred and ninety-fourth night of that run with his coat folded on the stones beside him and nothing in his hands.
+The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the four hundred and eightieth of those mornings.
 
 
 Nobody wrote it down for about two minutes, and then the clerk did.
@@ -148,4 +148,4 @@ Orren came up the bank at about a quarter past twelve and stood at the near end 
 
 He turned and went down the bank.
 
-Three hundred and twelve marks have been cut off that board since the mark for the first of the twelfth month, and there are two hundred and ninety-eight marks in chalk along the edge of that second table, and the figure on the sheet at that gatepost is four hundred and eleven and did not move, and the number of mornings that second table has stood at the foot of that bank is sixty-nine this morning and moved this morning from sixty-eight, and a rail has been on the near side of it for nineteen mornings with nobody's thanks on it. The near rail has stood on the near side of that table for nineteen mornings. The number of mornings a man has been at the foot of that bank is forty, on the word of a man who keeps a tally, said before it was entered.
+The number of mornings that second table has stood at the foot of that bank is sixty-nine this morning and moved this morning from sixty-eight. The near rail has been on the near side of that table for nineteen mornings with nobody's thanks on it. The count of things this district has made is thirteen. The number of mornings a man has been at the foot of that bank is forty, on the word of a man who keeps a tally, said before it was entered.

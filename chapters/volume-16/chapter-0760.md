@@ -1,6 +1,6 @@
 # Chapter 760: The Forty-Fourth Morning After The Thirtieth Of The Eighth Month A Man Wrote An Answer Down And Showed It To The Yard Before He Let It Go Up That Lane
 
-Four hundred and ninety-nine days is the age of the figure on the sheet at that gatepost, and the figure is four hundred and eleven. The board carries six hundred and fifty-eight, the train on that siding has stood nine hundred and seventy-four days, nobody has entered anything for six hundred and eighty-eight days, and six hundred and forty-nine days separate the second of January and this morning. The number of mornings the second table has stood at the foot of that bank is seventy-four and it moved this morning from seventy-three.
+Four hundred and ninety-nine days is the age of the figure on the sheet at that gatepost. The figure is four hundred and eleven. The board carries six hundred and fifty-eight, the train on that siding has stood nine hundred and seventy-four days, nobody has entered anything for six hundred and eighty-eight days, and six hundred and forty-nine days separate the second of January and this morning. The number of mornings the second table has stood at the foot of that bank is seventy-four and it moved this morning from seventy-three.
 
 Four hundred and eight days is how long the bid has been open and it was not run. Three hundred and sixty-three days is how far behind the figure on the second line of that lot book is. Three hundred and sixty-eight days is how long the rule said out loud in that yard has stood. Four hundred and thirty-eight days is how long it has been since the first day of the eighth month. The ninth of the nine printed nights is five hundred and forty-one days back. A body four hundred miles off is three hundred and seventy-seven days past a printing it did not make.
 
@@ -65,16 +65,15 @@ The woman of fifty-eight, at the back of the yard, said one sentence, which was:
 
 The woman of fifty-eight looked at him for a while, and then said, "Ask me on a morning when there's nothing on," and Adrian said that he would, and Orren wrote something in his margin, which was not a number.
 
-And she said one more thing, out loud, in that yard. "Nine coppers. He paid me nine coppers for nine words fifteen years ago and I have not been able to spend them, because I do not know which of the five things this district does not have they belong to, and there is no form, and I have carried them in a cloth in my bag for fifteen years." She set the bag down on the boards. "That is what the figure would have to be made out of, isn't it. Not the coppers. The *form*." 
+And she said one more thing, out loud, in that yard. "Nine coppers. He paid me nine coppers for nine words fifteen years ago and I have not been able to spend them, because I do not know which of the five things this district does not have they belong to, and there is no form, and I have carried them in a cloth in my bag for fifteen years." She set the bag down on the boards. "That is what the figure would have to be made out of, isn't it. Not the coppers. The *form*."
 
 ---
 
-Three hundred and seventeen marks have been cut off that board since the mark for the first of the twelfth month, and there are three hundred and three marks in chalk along the edge of that second table. The number of documents this district does not own is four and did not move. The number of conditions with no end on it is four and did not move, and the fifth of those five lines is one of them, and it went on that book working exactly as it was written this morning with nobody's hand on it. The near rail has stood on the near side of that table for twenty-four mornings. The number of mornings a man has been at the foot of that bank is forty-four, on the word of a man who keeps a tally, said before it was entered.
+The number of documents this district does not own is four and did not move. The number of conditions with no end on it is four and did not move, and the fifth of those five lines is one of them, and it went on that book working exactly as it was written this morning with nobody's hand on it. The near rail has stood on the near side of that table for twenty-four mornings. The number of mornings a man has been at the foot of that bank is forty-four, on the word of a man who keeps a tally, said before it was entered.
 
-At about half past three a man of about sixty-four was at the foot of that low wall with his coat folded on the stones beside him and nothing in his own hands, on his three hundred and ninety-ninth night of that run, having slept on three hundred and ninety-eight of them, and nobody in that yard went down the bank and said one word to him.
+---
 
-
-He went to find the man of fifty-six, because on the fourth morning the man had said the most careful sentence Adrian had heard in nine years, and because there was one question attached to it that Adrian had walked away from on purpose.
+He went to find the man of fifty-six, because six mornings ago the man had said the most careful sentence Adrian had heard in nine years, and because there was one question attached to it that Adrian had walked away from on purpose.
 
 "You said there's one of the four you can't account for."
 
@@ -86,7 +85,7 @@ He went to find the man of fifty-six, because on the fourth morning the man had 
 
 "What would it take to settle it."
 
-"Either a year of somebody writing the four down every morning and comparing them, or a man of about sixty-four at that wall at night with a candle," the man said, "and I have not got either and I am not going to get either, because the moment one of those things starts, the four figures stop being four figures a man says out loud and become four figures on a page, and then this yard has got a document about its own wall, and you know what a document about a wall turns into in about four years."
+"Either a year of somebody writing the four down every morning and comparing them, or a man at that wall at night with a candle," the man said, "and I have not got either and I am not going to get either, because the moment one of those things starts, the four figures stop being four figures a man says out loud and become four figures on a page, and then this yard has got a document about its own wall, and you know what a document about a wall turns into in about four years."
 
 He turned his head slightly.
 
@@ -130,6 +129,10 @@ It took twenty minutes and it happened at about one and the argument was the bes
 
 ---
 
+At about half past three a man of about sixty-four was at the foot of that low wall with his coat folded on the stones beside him and his hands empty, on his three hundred and ninety-ninth night of that run, having slept on three hundred and ninety-eight of them, and nobody in that yard went down the bank and said one word to him, and about four people standing at the top of it had spent the afternoon arguing about whether a man should be permitted to write down who was standing near him, and had not once considered that there was a man in this district who had been at the foot of something for three hundred and ninety-nine nights and had still not been asked by a single person what it was.
+
+---
+
 What they did instead was worse and better.
 
 Adrian put it to the man who puts tables up, because he was the one person in that yard who had spent nine years doing a thing for nothing and had opinions about who got the credit for it. He put it to the woman who keeps a scale. He put it to the man of fifty-six, who said, "Ask me when there is nothing on. I have nothing on most mornings," which turned out to be the first joke anybody had made in that yard in nine years and got about four seconds of noise out of nineteen people.
@@ -153,7 +156,7 @@ That got read out at about four o'clock by the man of fifty-six, who has read fo
 
 The answer went up that lane at about half past four in the hands of a man of about twenty-nine who drove a cart with a near wheel that still dragged, because Adrian wanted it to go with somebody the district knew and not with a courier, and because the cart driver had been coming up that hill for nine years and being handed nothing and would, in Adrian's judgement, enjoy it.
 
-It is a page and not a lot. There is no object on it, and no use, and no toll, and no bearer, and no term, and no release, and no remedy — which is six of the seven parts, and the seventh is a person, and Adrian had checked twice, standing on the boards in the cold with the string still round it, because he is a man who has read four hundred lots and cannot help himself. The one part it does have is the one that everybody in this basin has spent fifteen volumes saying must never be printed on a page, and he has printed it, and he did it in a yard, and nineteen people watched him do it.
+It is a page and not a lot. There is no object on it, and no use, and no toll, and no bearer, and no term, and no release, and no remedy — which is six of the seven parts, and the seventh is a person, and Adrian had checked twice, standing on the boards in the cold with the string still round it, because he is a man who has read four hundred lots and cannot help himself. The one part it does have is the one that everybody in this basin has spent fifteen years saying must never be printed on a page, and he has printed it, and he did it in a yard, and nineteen people watched him do it.
 
 The number of people who have come down that lane with a page in their hand since the sixth of the fifth month is nineteen, and it did not move this morning.
 
@@ -189,6 +192,6 @@ Then he was gone, and the count did not move, and by about six the books were cl
 
 At the foot of that bank the second table has stood seventy-four mornings now and it stood seventy-three yesterday, and the near rail has been on it twenty-four mornings with nobody's thanks on it, and the count of things this district has made is fourteen, and the figure on the sheet at that gatepost is four hundred and eleven, and the fifth of the five is still five.
 
-The column for the name of whoever read a thing out loud has one name in it, and it is going to be read out in a yard tomorrow morning by a man of fifty-six who has never been asked a question in nine years and who has four figures in his head and one name, and neither of those five things is a market, and the room in Alder Reach is going to have to decide what it wants.
+The column for the name of whoever read a thing out loud has one name in it, and it is going to be read out in a yard tomorrow morning by a man of fifty-six who has been asked four questions in six mornings and has never once been asked what any of the four is for, and who has four figures in his head and one name, and none of those five things is a market, and the room in Alder Reach is going to have to decide what it wants.
 
 And that is what happened on the forty-fourth morning after the thirtieth of the eighth month, and a man of about thirty-two who puts tables up went down that bank after the books were closed and fitted nothing, because there is nothing left on that table to do, and he stayed there anyway, and nobody thanked him, and he was going to be thanked on some morning or he was not.

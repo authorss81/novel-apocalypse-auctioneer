@@ -1,17 +1,14 @@
 # Chapter 756: The Fortieth Morning After The Thirtieth Of The Eighth Month The Boy Who Counted Everything Explained What He Was Counting And Why It Was Not What Anybody Thought
 
-The morning went in at the boards. Four hundred and ninety-five days is the age of the figure on the sheet at that gatepost, and the figure is four hundred and eleven and it did not move. The board carries six hundred and fifty-four, the train on that siding has stood nine hundred and seventy days, nobody has entered anything for six hundred and eighty-four days, and six hundred and forty-five days separate the second of January and this morning. The number of mornings the second table has stood at the foot of that bank is seventy and moved this morning from sixty-nine. The count of things this district has made is thirteen and did not move. The count of counted months is six and did not move. The number of mornings a man has been at the foot of that bank is forty-one, on the word of a man who keeps a tally, said before it was entered. The near rail has stood on the near side of that table for twenty mornings.
+The morning went in at the boards. Four hundred and ninety-five days is the age of the figure on the sheet at that gatepost. The figure is four hundred and eleven and it did not move. The board carries six hundred and fifty-four, the train on that siding has stood nine hundred and seventy days, nobody has entered anything for six hundred and eighty-four days, and six hundred and forty-five days separate the second of January and this morning. The number of mornings the second table has stood at the foot of that bank is seventy and moved this morning from sixty-nine. The count of things this district has made is thirteen and did not move. The count of counted months is six and did not move. The number of mornings a man has been at the foot of that bank is forty-one, on the word of a man who keeps a tally, said before it was entered. The near rail has stood on the near side of that table for twenty mornings.
 
 Four hundred and four days is how long the bid has been open and it was not run. Three hundred and fifty-nine days is how far behind the figure on the second line of that lot book is. Three hundred and sixty-four days is how long the rule said out loud in that yard has stood. Four hundred and thirty-four days is how long it has been since the first day of the eighth month. The ninth of the nine printed nights is five hundred and thirty-seven days back and no night has been named. A body four hundred miles off is three hundred and seventy-three days past a printing it did not make.
 
 Three hundred and thirteen marks have been cut off that board since the mark for the first of the twelfth month, and there are two hundred and ninety-nine marks in chalk along the edge of that second table.
 
-At about half past three the man of about sixty-four was at the foot of that low wall again, on his three hundred and ninety-fifth night of that run, having slept on three hundred and ninety-four of them.
-
-
 Nobody in that yard could say afterwards what was different about the morning after a name went into the book, and everybody could see it.
 
-The clerk was at the near end of the first table at about a quarter to eight. The man of fifty-six said the four off the wall and got them. The man who puts tables up was at the foot of the bank at about half past nine with his own hands in his pockets. And about nine people who had said *good morning* to the man who mends fencing fifty mornings running, and had said it to a shape about nine feet off the end of a table, said good morning to Adrian, and then about four of them stopped, and looked, and went on anyway, because it would have been worse to make a thing of it.
+The clerk was at the near end of the first table at about a quarter to eight. The man who puts tables up was at the foot of the bank at about half past nine with his hands in his pockets. And about nine people who had said *good morning* to the man who mends fencing fifty mornings running, and had said it to a shape about nine feet off the end of a table, said good morning to Adrian, and then about four of them stopped, and looked, and went on anyway, because it would have been worse to make a thing of it.
 
 He had been at the top of the bank for three hours before any of it, doing nothing, being the most conspicuous idle man in the district.
 
@@ -19,7 +16,7 @@ He had been at the top of the bank for three hours before any of it, doing nothi
 
 The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the four hundred and eighty-first of those mornings, and about four people standing within hearing of that wall have said since that he has now said those four figures out loud nine hundred and sixty-two times this month and that nobody in this yard has ever asked him to say any of them a third time.
 
-At about half past three a man of about sixty-four was at the foot of that low wall with his coat folded on the stones beside him and nothing in his own hands, on his three hundred and ninety-fifth night of that run, having slept on three hundred and ninety-four of them, and nobody offered him anything and nobody asked him anything.
+At about half past three a man of about sixty-four was at the foot of that low wall with his coat folded on the stones beside him and nothing in his hands, on his three hundred and ninety-fifth night of that run, having slept on three hundred and ninety-four of them, and nobody offered him anything and nobody asked him anything.
 
 
 He got the boy at about ten, at the near end of the boards, with the sheet under his arm.
@@ -46,9 +43,9 @@ He did not open it. He held it the way he had held the stranger's page.
 
 "A figure on a wall is a figure about nobody," he said. "Six hundred and fifty-four is nobody. It's a number on a wall and it means the same thing to the man of fifty-six and it means the same thing to the man who's never come up this hill, and neither of those men has to be in the room for it to be true and neither of them can be got at by it. Right."
 
-"Now say a thing out loud, in a yard, with other people standing there. It's still the same fact — but now there's a fact about who heard it.
+"Now say a thing out loud, in a yard, with other people standing there. It's still the same fact — but now there's a fact about who heard it."
 
-And who's standing next to a man when he says a figure is the only thing that decides whether the figure is worth anything, because in about six years one of them is going to have to be asked, *were you there when he said that*, and if there's a page in this district that says who was standing there, then the question has an answer, and if there isn't one, then the only people who can answer it are the people who were going to be asked anyway."
+"And who's standing next to a man when he says a figure is the only thing that decides whether the figure is worth anything, because in about six years one of them is going to have to be asked, *were you there when he said that*, and if there's a page in this district that says who was standing there, then the question has an answer, and if there isn't one, then the only people who can answer it are the people who were going to be asked anyway."
 
 Adrian had been in four hundred lots and had never once been shown a better instrument.
 
@@ -150,6 +147,38 @@ He stood at the near end of the boards with his sheet under his arm and watched 
 
 "I'd like to count him," the boy said, "and I'd like to be asked by somebody who is not the clerk and not the man who mends the fence, and I've been asked by both of them about nine things this week and not one of them was that." He put the sheet under his other arm. "That's not a complaint. That's just what's been on offer."
 
-At about half past three a man of about sixty-four was at the foot of that low wall with his coat folded on the stones beside him and nothing in his own hands, on his three hundred and ninety-fifth night of that run, having slept on three hundred and ninety-four of them, and nobody in that yard went down the bank and said one word to him.
+---
+
+Adrian went down the bank and asked him, because the boy had said he wanted to be asked and somebody had to do the asking and there was only one person in that yard who could go and do it without it looking like an order.
+
+The man of about twenty-nine stopped the cart about halfway, which he had not done in nine years, and Adrian had to walk up the lane to him to be told anything.
+
+"I'm not stopping up here," the man said.
+
+"I wasn't going to ask you to."
+
+"You were going to ask me to stand still long enough for a boy to write down what time it was," the man said. "I know what that's for. It isn't for me. It's so that a page can say a man was standing near me. I've had that asked of me twice in nine years by two men who wanted to know where I'd been the day before, and I've never once known, and I'd not have told them if I had."
+
+"That's not—"
+
+"It's not for me," the man said. "And you can have it anyway, because there is nothing on me to stand near. I've no household and no page, and the only reason anybody in this district knows my face is that this cart is late every day of the year and they have all learned to step round it. You stop me, I am a man standing still. I am a man somebody chose to put in a place."
+
+He got the last of that bank up one-handed.
+
+"Don't ask me again," he said. "And don't ask the boy. And when the next one comes down that lane with a page in his hand, which will be sooner than you'd think, tell him I said I was here and I said nothing."
+
+---
+
+Adrian went back up the bank and gave the boy the answer as it stood, which took four sentences, and the fourth one was the one that cost him.
+
+He told him the man had said no, and he told him why, and he told him the man had never been asked anything before and had worked out on his own what a page wants a man for, and then he told him the last thing, which was that the man had asked him to pass on the fact of having been there and having said nothing.
+
+Orren took that without moving his face at all.
+
+"Right," he said. "That's a figure of its own, that. A man refusing to be on a page is a man on a page. He just doesn't know which column."
+
+"I know."
+
+"You knew it at about eleven this morning," the boy said. "You only didn't want to be the one who had to say it out loud in a yard, and now you have said it, so it's yours, and I'm not taking it off you."
 
 The column for the name of whoever read a thing out loud had one name in it at a quarter to eight that morning and had had none at all the day before, and that is the only figure in this district that has ever moved in both directions.

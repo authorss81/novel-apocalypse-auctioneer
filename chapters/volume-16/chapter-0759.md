@@ -1,19 +1,19 @@
 # Chapter 759: The Forty-Third Morning After The Thirtieth Of The Eighth Month A Man Who Digs Loam Was Asked Whether He Would Put His Name In A Book And Said He Would Give It To A Man And Not To A Page
 
-Four hundred and ninety-eight days is the age of the figure on the sheet at that gatepost, and the figure is four hundred and eleven and did not move. The board carries six hundred and fifty-seven, the train on that siding has stood nine hundred and seventy-three days, nobody has entered anything for six hundred and eighty-seven days, and six hundred and forty-eight days separate the second of January and this morning. The number of mornings the second table has stood at the foot of that bank is seventy-three and moved this morning from seventy-two. The near rail has stood on the near side of that table for twenty-three mornings. The number of mornings a man has been at the foot of that bank is forty-three, on the word of a man who keeps a tally, said before it was entered.
+Four hundred and ninety-eight days is the age of the figure on the sheet at that gatepost. The figure is four hundred and eleven and did not move. The board carries six hundred and fifty-seven, the train on that siding has stood nine hundred and seventy-three days, nobody has entered anything for six hundred and eighty-seven days, and six hundred and forty-eight days separate the second of January and this morning. The number of mornings the second table has stood at the foot of that bank is seventy-three and moved this morning from seventy-two. The near rail has stood on the near side of that table for twenty-three mornings. The number of mornings a man has been at the foot of that bank is forty-three, on the word of a man who keeps a tally, said before it was entered.
 
 Four hundred and seven days is how long the bid has been open and it was not run, and nothing was proposed about closing it. Three hundred and sixty-two days is how far behind the figure on the second line of that lot book is. Three hundred and sixty-seven days is how long the rule said out loud in that yard has stood. Four hundred and thirty-seven days is how long it has been since the first day of the eighth month. The ninth of the nine printed nights is five hundred and forty days back and no night has been named. A body four hundred miles off is three hundred and seventy-six days past a printing it did not make.
 
 Three hundred and sixteen marks have been cut off that board, and there are three hundred and two marks in chalk along the edge of that second table. The count of things this district has made is fourteen and did not move. The count of counted months is six and did not move.
 
 
-He had been at the far end of that second table by about a quarter to seven, which was earlier than he had ever been, and he had his spade across his knees instead of against the leg of it, and he did not look up when Adrian came down the bank.
+Adrian was on the top of that bank before a quarter to seven, which was earlier than he had ever been, and from up there he could see that the man at the far end of the second table was already sitting on the rail with the spade across his knees instead of against the leg of it, and that he did not look up when Adrian came down.
 
 Adrian stood about nine feet off the near end, which is where he stops, and thought about not doing this, and then did it badly, which is at least a different failure.
 
 "Nobody's taken the line off it."
 
-"I know." Harl Kell turned the spade over. "I've been down here since a quarter to seven waiting for one of you lot to come and tell me you'd taken it off it, so you can get on with saying something else, and nobody's come, and now you've come and said the opposite, and I'd like to understand what you're at."
+"I know." The man who digs loam turned the spade over. "I've been down here since a quarter to seven waiting for one of you lot to come and tell me you'd taken it off it, so you can get on with saying something else, and nobody's come, and now you've come and said the opposite, and I'd like to understand what you're at."
 
 "I'm at the fifth line."
 
@@ -21,7 +21,7 @@ Adrian stood about nine feet off the near end, which is where he stops, and thou
 
 Adrian said the thing he had come down the hill to say, which was that a standing offer of labour with no end and no term and no pay and no way of stopping it was the single worst instrument he had ever read, and that he had read a great many, and that he had made the eighth one himself once.
 
-"You want to take it off," Harl Kell said.
+"You want to take it off," the man said.
 
 "I want it *ended*. There's a difference and it's the only difference I've got. Not struck — nothing gets struck. Ended. Termed. 'So long as he agrees to it and says so on the day and can be paid something.' Because the moment there's a person attached to that line who can be asked, it's a bargain. At the moment it's a *fetch*, and a fetch doesn't have anybody in it."
 
@@ -43,7 +43,7 @@ Adrian had an answer and it took him about nine seconds to find it and about fou
 
 "And if that line goes, you're not even that."
 
-"I'm *nothing*," the man said. "Say it. It's easier when somebody else says it." He turned his hands over and looked at them, the way Seth had on the fortieth morning. "That's what I've been for fifteen years and I want you to understand what it costs to want to keep it. Everyone in this yard thinks I'm standing down here because I'm patient. I'm standing down here because I'm the only thing in this district that anybody can get hold of. Take the line off that book and I'm a man with no household and no name and no trade on a page and nothing that says I'm real, and that's a man who's missing, and I've seen what happens to them — they send for you about six weeks after you stop being anything and then it's out past the gateposts and then it's a figure on a sheet."
+"I'm *nothing*," the man said. "Say it. It's easier when somebody else says it." He turned his hands over and looked at them, the way Seth had on the thirty-seventh morning. "That's what I've been for fifteen years and I want you to understand what it costs to want to keep it. Everyone in this yard thinks I'm standing down here because I'm patient. I'm standing down here because I'm the only thing in this district that anybody can get hold of. Take the line off that book and I'm a man with no household and no name and no trade on a page and nothing that says I'm real, and that's a man who's missing, and I've seen what happens to them — they send for you about six weeks after you stop being anything and then it's out past the gateposts and then it's a figure on a sheet."
 
 "You'd rather be fetched."
 
@@ -87,7 +87,7 @@ The man who digs loam looked at him for a while.
 
 "What was it for."
 
-"You know what it was for. She said it. the same week, in front of nineteen people."
+"You know what it was for. She said it out loud yesterday, at about three, in front of four of us, and one of them was me, and I have been sitting at the end of this table thinking about it ever since."
 
 "That's not what I asked."
 
@@ -105,11 +105,11 @@ The man laughed, which Adrian had not expected and did not enjoy, because it was
 
 ---
 
-"What I want," he said, after a bit, "is my name."
+"What I want," the man said, after a bit, "is my name."
 
 Adrian did not understand for about two seconds, and then he understood completely, and what he felt about it was not what he had expected, which was a small clean satisfaction.
 
-"No," he said.
+"No," Adrian said.
 
 "You haven't—"
 
@@ -135,10 +135,6 @@ He did not tell the yard either. He went back up the bank and sat down on the bo
 
 Orren followed him up. He stood at the near end of the boards for about four seconds with his sheet under his arm and then he said:
 
-At about half past three a man of about sixty-four was at the foot of that low wall with his coat folded on the stones beside him and nothing in his own hands. That is his three hundred and ninety-eighth night of that run and he has slept on three hundred and ninety-seven of them, and nobody in this district has asked him in nine years what the run is for or where it goes or who is on the other end of it, and he has now gone three hundred and ninety-eight nights without being given one thing.
-
-The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the four hundred and eighty-fourth of those mornings, and he was not asked about any of the four.
-
 "You've given it to him."
 
 "Yes."
@@ -150,6 +146,8 @@ He put the sheet down on the boards, face down.
 "I'm going to leave that alone," he said, "and I'd like it noted that I left it alone, and I'd like the noticing to cost you something, and I don't think I'm going to be able to tell you what."
 
 Then he picked the sheet up and went and sat down on the step of the first table about nine feet away, where he could not see Adrian's hands, and stayed there for about an hour.
+
+Neither of them said anything else for that hour, and Adrian sat on the boards with his hands in his lap and found that the hardest part of not writing a thing down is not the not writing, it is the hour afterwards with nothing to do with your hands.
 
 Adrian went down the bank at about one and told the clerk, because somebody had to and because he had worked out by then that she would rather have it late and entered than never and not entered.
 
@@ -169,4 +167,10 @@ She put her pencil down and looked at the page for a while, and then she said th
 
 And she said, without looking up, and in the ordinary voice she used for figures:
 
-"And there is now a man in this district who has given his name to one person and to no page, and no stranger coming up this lane is going to be able to find him by reading it, and that is the first time anything in this book has ever worked the way it says it works." 
+"And there is now a man in this district who has given his name to one person and to no page, and no stranger coming up this lane is going to be able to find him by reading it, and that is the first time anything in this book has ever worked the way it says it works."
+
+---
+
+At about half past three a man of about sixty-four was at the foot of that low wall with his coat folded on the stones beside him and nothing in his hands. That was his three hundred and ninety-eighth night of that run and he had slept on three hundred and ninety-seven of them, and nobody in this district has asked him in nine years what the run is for or where it goes or who is on the other end of it, and he had now gone three hundred and ninety-eight nights of a run without being given one thing and without being asked one thing, and the count of nights is a count and not a figure behind which anything was bought or owed. About four people within twenty feet of that wall have said since that a man in this yard gave his name to a person this morning and would not give it to a page, and that the man at the bottom of the wall has been giving nothing to anybody for three hundred and ninety-eight nights, and that nobody has come down that bank to ask him for it, and that this is now the only arrangement in the district where a man keeps a thing by never being asked for it.
+
+The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the four hundred and eighty-fourth of those mornings, and he was not asked about any of the four.

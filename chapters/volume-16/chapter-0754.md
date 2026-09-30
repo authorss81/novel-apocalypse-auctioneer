@@ -2,18 +2,20 @@
 
 The morning went in early and went in fast, which Adrian had not expected of a day that began with somebody opening a fold.
 
-The figure on the sheet at that gatepost is four hundred and eleven and did not move, and four hundred and ninety-three days is the age of that figure. The board carries six hundred and fifty-two, the train on that siding has stood nine hundred and sixty-eight days, nobody has entered anything for six hundred and eighty-two days, and six hundred and forty-three days separate the second of January and this morning. The number of mornings the second table has stood at the foot of that bank is sixty-eight and moved this morning from sixty-seven. The number of mornings a man has been at the foot of that bank is thirty-nine, on the word of a man who keeps a tally, said before it was entered. The near rail has stood on the near side of that table for eighteen mornings. The count of things this district has made is thirteen and did not move.
+The figure on the sheet at that gatepost is four hundred and eleven and did not move. Four hundred and ninety-three days is the age of that figure. The board carries six hundred and fifty-two, the train on that siding has stood nine hundred and sixty-eight days, nobody has entered anything for six hundred and eighty-two days, and six hundred and forty-three days separate the second of January and this morning. The number of mornings the second table has stood at the foot of that bank is sixty-eight and moved this morning from sixty-seven. The number of mornings a man has been at the foot of that bank is thirty-nine, on the word of a man who keeps a tally, said before it was entered. The near rail has stood on the near side of that table for eighteen mornings. The count of things this district has made is thirteen and did not move.
 
 Four hundred and two days is how long that bid has been open, and it was not run, and nothing was proposed about closing it in a mouth or in a page. Three hundred and fifty-seven days is how far behind the figure on the second line of that lot book is, and it has not been altered, and nothing correct has been written beside it. Three hundred and sixty-two days is how long the rule said out loud in that yard has stood. Four hundred and thirty-two days is how long it has been since the first day of the eighth month. The ninth of the nine printed nights is five hundred and thirty-five days back, it is open, nothing has been pulled off it, and no night has been named. A body four hundred miles off is three hundred and seventy-one days past a printing it did not make.
 
-Three hundred and eleven marks have been cut off that board since the mark for the first of the twelfth month, and there are two hundred and ninety-seven marks in chalk along the edge of that second table. The count of things this district has made is thirteen and did not move.
+Three hundred and eleven marks have been cut off that board since the mark for the first of the twelfth month, and there are two hundred and ninety-seven marks in chalk along the edge of that second table.
 
 The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the four hundred and seventy-ninth of those mornings.
 
+At about half past three the man of about sixty-four was at the foot of that low wall, sitting on the stones with his coat folded beside him and his hands on his knees, and that was his three hundred and ninety-third night of that run and he had slept on three hundred and ninety-two of them, and nobody in this district has asked him in nine years what the run is for or where it goes, and nobody in that yard went down that bank and said one word to him.
 
-The second fold had been under the string all along, and the knot was already cut, and it wanted nothing but two thumbs. The man who puts tables up opened it with his own two hands without saying anything about it, which Adrian took careful note of, because in nine years he had never seen that man produce anything.
 
-The second fold held one printed side and one smaller face printed on the reverse of it, and Adrian did not look at the smaller face until about four o'clock, and neither did anybody else. The printed side held the same heading and then it held the terms, and the terms were nine lines, and the ninth line was the one that did the damage.
+The second fold had been under the string all along, and the knot was already cut, and it wanted nothing but two thumbs. The man who puts tables up opened it with two hands and said nothing about it, which Adrian took careful note of, because in nine years he had never seen that man produce anything.
+
+The second fold held one printed side and one smaller face on the reverse of it, which was not printed at all, and Adrian did not look at it until about four o'clock, and neither did anybody else. The printed side held the same heading and then it held the terms, and the terms were nine lines, and the ninth line was the one that did the damage.
 
 > *9. The person sent forward is to be paid at a stated figure for a stated term. Payment is to be made from the funds of the market sending them, at the first sitting, in full, and not thereafter unless the term is renewed by fresh consent of the persons the market represents.*
 
@@ -62,6 +64,18 @@ Mara. He had said Mara twice in two days and both times it had come out with no 
 "You're right," he said.
 
 "I've been right for nine years," she said. "It doesn't get more tiring."
+
+---
+
+The woman of fifty-eight said it from the back of that yard. She said it once, she did not raise her voice, and about nine people turned round.
+
+"That's what you've done," she said. "You may as well be told. There was one thing left that this district could put up that lane and it was *we have nobody*, and about nine of us would have stood behind it, and it would have been true, and it is now gone. A place that says it has got nobody in it is a place that isn't a market. There is a great many of those in this basin and every one of them is still standing this morning. You stood up in a yard and said a man in here could be paid for standing in a room, and now if we send anybody up that lane it is going to be him, and if we send nobody up that lane then somebody is going to ask why not, and they will ask it of him, and he will have to stand there and say *because I offered*."
+
+"Nobody asked me to offer," Adrian said.
+
+"You offered in front of nineteen people," she said. "That is worse, and you have six mornings to find out how much worse. And I am not doing this to be difficult. I am doing it because you are going to go up that hill on the sixth morning from now whether you meant to or not, and I would rather you went knowing what is going to be asked of you than went thinking you had been handed something."
+
+He had a pencil in his pocket and no instrument in the district to put it in, and the clerk had told him twenty minutes ago that saying a true thing about yourself first makes the true thing about the book easier to swallow, and it had not occurred to him until that second that a thing *offered* out loud was the same instrument as a thing *said* out loud, and that no part of his nine years had taught him that, and that nobody in that yard was now going to have to teach him anything else.
 
 ---
 
@@ -125,11 +139,11 @@ The clerk said, at about a quarter past twelve, in front of everybody, in the or
 
 "So it's on the list," Adrian said. "Fifth of five. Still five."
 
-"It's been the fifth of five for nine years," she said, "and for nine years the fifth of five has been a thing that embarrasses us. This morning it's the reason we're not going to Alder Reach." She put her pencil down. "You may write that down. I'd rather it was written down than said out loud again."
+"It's been the fifth of five for fifteen years," she said, "and for fifteen years the fifth of five has been a thing that embarrasses us. This morning it's the reason we're not going to Alder Reach." She put her pencil down. "You may write that down. I'd rather it was written down than said out loud again."
 
 ---
 
-*On the reverse of the printed side, in a smaller face, which is the Tally's own hand and not any clerk's:*
+*On the reverse of the printed side, in a smaller face, which is a man of about forty-eight who keeps a tally's own hand and not any clerk's:*
 
 **A lot has seven parts.** An object, a use, a toll, a bearer, a term, a release, and a remedy.
 
@@ -139,7 +153,7 @@ The clerk said, at about a quarter past twelve, in front of everybody, in the or
 
 ---
 
-At about half past four the man who puts tables up came up the bank, which he has not done in nine years, and stood at the near end of the first table with nothing at all in his own hands.
+At about half past four the man who puts tables up came up the bank, which he has not done in nine years, and stood at the near end of the first table with nothing at all in his hands.
 
 "Nine years," he said. "Four strangers with pages. Fifty mornings where nobody has asked me one single thing about the two rails I put on that table. Nine years of not being asked, and I've been perfectly content, and I'm telling you I've been perfectly content because I was building up to something and I've decided this morning to stop building up."
 

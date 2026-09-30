@@ -1,6 +1,6 @@
 # Chapter 753: The Thirty-Seventh Morning After The Thirtieth Of The Eighth Month A Stranger Came Down That Lane With A Page In His Own Right Hand And Left It Face Down On The Table
 
-The morning had gone in before he came. Four hundred and eleven is the figure on the sheet at that gatepost and it did not move, and four hundred and ninety-two days is the age of that figure. The board carries six hundred and fifty-one, the train on that siding has stood nine hundred and sixty-seven days, nobody has entered anything for six hundred and eighty-one days, and six hundred and forty-two days separate the second of January and this morning. The number of mornings the second table has stood at the foot of that bank is sixty-seven and moved this morning from sixty-six. The count of things this district has made is thirteen and did not move. The near rail has stood on the near side of that table for seventeen mornings. The number of mornings a man has been at the foot of that bank is thirty-eight, on the word of a man who keeps a tally, said before it was entered.
+The morning had gone in before he came. Four hundred and eleven is the figure on the sheet at that gatepost and it did not move. Four hundred and ninety-two days is the age of that figure. The board carries six hundred and fifty-one, the train on that siding has stood nine hundred and sixty-seven days, nobody has entered anything for six hundred and eighty-one days, and six hundred and forty-two days separate the second of January and this morning. The number of mornings the second table has stood at the foot of that bank is sixty-seven and moved this morning from sixty-six. The count of things this district has made is thirteen and did not move. The near rail has stood on the near side of that table for seventeen mornings. The number of mornings a man has been at the foot of that bank is thirty-eight, on the word of a man who keeps a tally, said before it was entered.
 
 Four hundred and one days is how long that bid has been open and it was not run. Three hundred and fifty-six days is how far behind the figure on the second line of that lot book is. Three hundred and sixty-one days is how long the rule said out loud in that yard has stood. Four hundred and thirty-one days is how long it has been since the first day of the eighth month. The ninth of the nine printed nights is five hundred and thirty-four days back and nothing has been pulled off it. A body four hundred miles off is three hundred and seventy days past a printing it did not make, and nobody has worked out a day on which it will arrive.
 
@@ -26,13 +26,13 @@ The clerk entered nineteen. She entered that it moved this morning, that the boy
 At about half past three the man of about sixty-four was at the foot of that low wall with his coat folded on the stones and nothing in his hands. That is his three hundred and ninety-second night of that run and he has slept on three hundred and ninety-one of them. Nobody offered him anything. Nobody asked him anything. And there were four people at the foot of that bank looking at a stranger's page and not one of them looked at him, which is not a failing, because in nine years nobody in this yard has looked at him at about half past three.
 
 
-Adrian got to the bottom of the bank at about ten past nine and there was nothing there, and then a man came down and put a page on the second table.
+Adrian got to the bottom of the bank at about ten past nine and the stranger was already on his way back up with his hand empty, and there was a page lying on the second table.
 
 He did not put it on the lot book. He put it down about a foot to the near side of the book, square, with the string still tied round it, and he straightened it with the side of his hand the way you straighten a picture, and then he went back up the bank without a word and did not stop at the top of it.
 
 The page was folded twice and tied with tarred hemp, and there was a lump of wax on the knot the size of a farthing. The fold had gone soft along one edge from being carried in a coat for a long time, and the whole thing smelled faintly of a stove that was burning something other than wood.
 
-The man who puts tables up was at the near end of that table at about half past nine and had his own right hand flat on the near rail and watched the stranger go.
+The man who puts tables up was at the near end of that table and had his right hand flat on the near rail, and he had watched the whole of it — the length of that lane, the page going down square, the man going back up without stopping — and he had not moved.
 
 "He's not one of the four," he said.
 

@@ -1,12 +1,14 @@
 # Chapter 758: The Forty-Second Morning After The Thirtieth Of The Eighth Month A Woman Who Kept A Scale Asked To Be Asked About Three Pages And A Clerk Of This District Found Out She Had Written The Fifth Line
 
-The morning had been unremarkable in a way Adrian was learning to value. Four hundred and ninety-seven days is the age of the figure on the sheet at that gatepost, and the figure is four hundred and eleven. The board carries six hundred and fifty-six, the train on that siding has stood nine hundred and seventy-two days, nobody has entered anything for six hundred and eighty-six days, and six hundred and forty-seven days separate the second of January and this morning. The number of mornings the second table has stood at the foot of that bank is seventy-two and moved this morning from seventy-one. The near rail has stood on the near side of that table for twenty-two mornings. The number of mornings a man has been at the foot of that bank is forty-two, on the word of a man who keeps a tally, said before it was entered.
+The morning had been unremarkable in a way Adrian was learning to value. Four hundred and ninety-seven days is the age of the figure on the sheet at that gatepost. The figure is four hundred and eleven. The board carries six hundred and fifty-six, the train on that siding has stood nine hundred and seventy-two days, nobody has entered anything for six hundred and eighty-six days, and six hundred and forty-seven days separate the second of January and this morning. The number of mornings the second table has stood at the foot of that bank is seventy-two and moved this morning from seventy-one. The near rail has stood on the near side of that table for twenty-two mornings. The number of mornings a man has been at the foot of that bank is forty-two, on the word of a man who keeps a tally, said before it was entered.
 
 Four hundred and six days is how long the bid has been open and it was not run. Three hundred and sixty-one days is how far behind the figure on the second line of that lot book is, and nothing correct has been written beside it. Three hundred and sixty-six days is how long the rule said out loud in that yard has stood. Four hundred and thirty-six days is how long it has been since the first day of the eighth month. The ninth of the nine printed nights is five hundred and thirty-nine days back. A body four hundred miles off is three hundred and seventy-five days past a printing it did not make.
 
-Three hundred and fifteen marks have been cut off that board and there are three hundred and one marks in chalk along the edge of that second table. The count of counted months is six and did not move.  The count of things this district has made is fourteen and did not move.
+Three hundred and fifteen marks have been cut off that board and there are three hundred and one marks in chalk along the edge of that second table. The count of counted months is six and did not move. The count of things this district has made is fourteen and did not move.
 
 The man of about sixty-four sat at the foot of that low wall at about half past three with his coat folded on the stones beside him, on his three hundred and ninety-seventh night of that run, having slept on three hundred and ninety-six of them.
+
+The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the four hundred and eighty-third of those mornings, and nobody in that yard has ever asked him why the ordinary voice.
 
 
 There were three pages on that counter and they had been there every morning for as long as anybody had been looking, which was not very long, because nobody had ever looked.
@@ -69,7 +71,7 @@ He said it quietly, and it carried anyway, because it was a bank with two sides.
 
 He came round the end of the table.
 
-"But you're not listening to what I said. You're listening to *five*, so let me say the next part out loud, and then you can go and move your count." He put his own two hands flat on the boards. "If that counter's a fifth place, then any fool who's ever read that fifth line can walk up that hill and read it and say, *that's the man the fifth line's about*, and there's a shop four feet off that counter with the woman who keeps it in it, and she opens at seven. So go on. Move your count. And then you come and stand here tomorrow morning and tell me what the district's done, because there'll be a man up that lane with a page in his hand asking after me, and not one of you will know what his name is because *I have never told anybody*, and you've been standing here for a week deciding whether to write the word *man* on a piece of paper instead."
+"But you're not listening to what I said. You're listening to *five*, so let me say the next part out loud, and then you can go and move your count." He put both hands flat on the boards. "If that counter's a fifth place, then any fool who's ever read that fifth line can walk up that hill and read it and say, *that's the man the fifth line's about*, and there's a shop four feet off that counter with the woman who keeps it in it, and she opens at seven. So go on. Move your count. And then you come and stand here tomorrow morning and tell me what the district's done, because there'll be a man up that lane with a page in his hand asking after me, and not one of you will know what his name is because *I have never told anybody*, and you've been standing here for a week deciding whether to write the word *man* on a piece of paper instead."
 
 He sat back down on the rail.
 
@@ -87,7 +89,7 @@ Orren looked at that for a long time.
 
 ---
 
-Seth came up the bank at about three with his own right hand wrapped in his own handkerchief and something in his coat.
+Seth came up the bank at about three with his right hand wrapped in a handkerchief and something in his coat.
 
 "I've been up to Alder Reach," he said. "Nine miles. The man that sent for me has got the name of whoever prints the pages and I asked him for it, and he gave it, and it wasn't a person's name, it was a *room* — Room Four, under something else — and the room is in the same building as the page I read out to you three mornings ago." He put the handkerchief down on the boards. "And I stood in the corridor outside it and there was a boy of about my age coming out with a bundle of pages under his arm, and I asked him what the bundle was, and he said next week's."
 
@@ -117,7 +119,7 @@ The clerk of this district did not move for about four seconds, which is four mo
 
 "No," she said.
 
-"You wrote the fair copy and you have recopied it every year since because a fair copy has to be recopied, and it's in your hand, and it's the only line on that book that anybody dictated and I have read five lines off that page four hundred and eighty-three mornings' worth of times by now and four of them are conditions and one of them is a man." He put his own two hands on the boards. "You were nineteen. He came and found you. He said write this down."
+"You wrote the fair copy and you have recopied it every year since because a fair copy has to be recopied, and it's in your hand, and it's the only line on that book that anybody dictated and I have read five lines off that page four hundred and eighty-three mornings' worth of times by now and four of them are conditions and one of them is a man." He put both hands on the boards. "You were nineteen. He came and found you. He said write this down."
 
 "He did not *dictate*—"
 
@@ -133,4 +135,4 @@ The clerk looked at the boards for a while.
 
 She picked up her pencil.
 
-"Entered," she said, "that the fifth line on that book was written by me at the dictation of the man it is about, on a day in the ninth year back, at about two in the afternoon, and that I did not know it would be read by anybody, and that I have known for four mornings that it was read, and that I have entered the reasons for both of those facts and I have never entered a reason before."
+"Entered," she said, "that the fifth line on that book was written by me at the dictation of the man it is about, on a day in the fifteenth year back, at about two in the afternoon, and that I did not know it would be read by anybody, and that I have known for four mornings that it was read, and that I have entered the reasons for both of those facts and I have never entered a reason before."
