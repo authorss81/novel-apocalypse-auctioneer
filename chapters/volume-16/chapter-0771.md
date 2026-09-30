@@ -72,7 +72,7 @@ Adrian stood very still for about the length of a walk down to the second table 
 
 "Where does seventy-six come from," he said. "Out loud, with the arithmetic."
 
-"Seventy, and six." The boy did not put the pencil away. "And I am not taking seventy off it. Seventy was true on the morning I said it and seventy-six is true this morning and the difference between them is six mornings, and one of those six is yesterday and one of those six was a fortnight ago and four of them are inside eleven mornings, and I would like it entered that I found the hole in my own method before somebody with a better method found it in me, because that is the whole of what I have got and I would like somebody in this yard to hear me say it."
+"Seventy, and six." The boy did not put the pencil away. "And I am not taking seventy off it. Seventy was true on the morning I said it and seventy-six is true this morning and the difference between them is six mornings, and one of those six is yesterday and one of those six was six mornings ago and four of them are inside eleven mornings, and I would like it entered that I found the hole in my own method before somebody with a better method found it in me, because that is the whole of what I have got and I would like somebody in this yard to hear me say it."
 
 ---
 
@@ -84,7 +84,7 @@ Then he turned to the wall, where the man of fifty-six had been standing long en
 
 "You said on the fiftieth morning that you would do it if somebody asked you in a yard."
 
-"I did say it." The man took his hand off the stone. "And on the fifty-fourth morning a boy asked me and I said it, and it is the first figure I have read in my life off anything that was not that wall, and I have not been able to put it down since, and that is the first morning of it, and I said five mornings ago that I was going to be frightened for about a year, and I meant it, and I did not think it would start with a boy standing on some boards. I did not say for about eleven days."
+"I did say it." The man took his hand off the stone. "And on the fifty-fourth morning a boy asked me and I said it, and it is the first figure I have read in my life off anything that was not that wall, and I have not been able to put it down since, and that is the first morning of it, and I said five mornings ago that I was going to be frightened for about a year, and I meant it, and I did not think it would start with a boy standing on some boards. I did not say for about eleven mornings."
 
 He turned round. He looked at the boy and not at the sheet.
 

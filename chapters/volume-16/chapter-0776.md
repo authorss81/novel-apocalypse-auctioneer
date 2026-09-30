@@ -88,7 +88,7 @@ They went back down the bank at about ten and the woman who keeps a scale was st
 
 "What was done about it."
 
-"Nothing." She came out from behind the counter, which she does not do while a customer is in, and there was no customer. "You read four lines seven mornings ago and you got all four and about nineteen people heard you, and the clerk would not put your name in the column for whoever read a thing out loud, and the boy stood on those boards and said the heading does not say whoever was asked, and she said she had known it since a quarter to eight, and then nothing happened. And you lot have all gone on since, and one of you has been to a great deal of trouble about a column since, and it has not been my column."
+"Nothing." She came out from behind the counter, which she does not do while a customer is in, and there was no customer. "I read four lines seven mornings ago and I got all four and about nineteen people heard me, and the clerk would not put my name in the column for whoever read a thing out loud, and the boy stood on those boards and said the heading does not say whoever was asked, and she said she had known it since a quarter to eight, and then nothing happened. And you lot have all gone on since, and one of you has been to a great deal of trouble about a column since, and it has not been my column."
 
 ---
 
@@ -98,7 +98,7 @@ They went back down the bank at about ten and the woman who keeps a scale was st
 
 "I know."
 
-"You know about the three pages. You have never once asked whether I wanted my name in a book." She put her hands flat on her own counter. "Now. You have been asking each other for about eleven days what instrument this district has for asking a person something, and there is a man at the foot of that bank who told you the answer five mornings ago and it is a yard. So use it. And the first thing you use it for is not nineteen kitchens and not nine coppers and not a clause nine miles up a hill. It is me."
+"You know about the three pages. You have never once asked whether I wanted my name in a book." She put her hands flat on her own counter. "Now. You have been asking each other for about eleven mornings what instrument this district has for asking a person something, and there is a man at the foot of that bank who told you the answer five mornings ago and it is a yard. So use it. And the first thing you use it for is not nineteen kitchens and not nine coppers and not a clause nine miles up a hill. It is me."
 
 ---
 
@@ -154,7 +154,7 @@ The man of fifty-six looked at the wall for a while.
 
 "That is a rule against the column," said Mara Quill.
 
-"That is a rule made by the first man who goes in it, about the second," said the man of fifty-six, "and there is not one of those in this basin, and there is never going to be one that was not written by whoever went in first, and every person in this yard has spent a fortnight arriving at that by a separate road, and not one of you has written a line down."
+"That is a rule made by the first man who goes in it, about the second," said the man of fifty-six, "and there is not one of those in this basin, and there is never going to be one that was not written by whoever went in first, and every person in this yard has spent eleven mornings arriving at that by a separate road, and not one of you has written a line down."
 
 She did not answer that for a while, and then she said: "You are not a witness."
 
@@ -186,7 +186,7 @@ She did it at about four, standing on the boards of the first table with the sun
 
 ---
 
-That night the boy of seventeen came up the lane as far as the wall and stood where the turner stands every morning and read the entry out loud, because the turner is not one of anybody's and reads whatever is on that wall, and there was one line of it on the wall that morning and it was in a clerk's hand and it had the whole of a man's condition in it, and the turner read it twice and went on up the hill without saying anything about it.
+At about five the boy of seventeen came up the lane as far as the wall and copied the clerk's entry onto it in chalk, in her words and in her writing, and read it out loud while he was doing it, because there was nowhere else in that yard to put a thing he had not been asked to enter and because the turner is not one of anybody's and reads whatever is on that wall. The turner came through about ten minutes after that and read it twice and went on up the hill without saying anything about it.
 
 At about six, Adrian and Mara Quill stood at the top of eleven feet with the yard emptying behind them.
 

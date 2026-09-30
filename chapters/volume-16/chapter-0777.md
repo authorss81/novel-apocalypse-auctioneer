@@ -8,7 +8,7 @@ Four hundred and twenty-five days is how long the bid has been open and it was n
 
 Three hundred and thirty-four marks have been cut off that board, and there are three hundred and twenty marks in chalk along the edge of that second table. The count of counted months is six and did not move. The number of documents this district does not own is four, and did not move either. The number of places in this district where those three lines can be read is four and has not moved all fortnight. The number of conditions with no end on it is four and is where it was on the first morning of this book. The count of the five things this district does not have is five and is not paid, and the fifth of those five lines is a way to pay a person who is not in a household, and there is a blanket on a wall at a culvert in this basin that nobody has ever been able to say who left there.
 
-The second table has stood at the foot of that bank ninety-one mornings and moved this morning from ninety. The near rail has stood on the near side of it for forty-one mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is sixty-one, on the word of the man who keeps a tally, said before it was entered, and this morning it went in at a quarter past nine, which is about an hour and a half later than it has ever gone in, and the man who keeps a tally entered that he had said it earlier and entered no reason. The count of things this district has made is fourteen, and did not move, and did not move this morning either although a road keeper wrote in a book at the bottom of a bank, which is a thing a person did on a road. The lane count is twenty-one, and did not move, and nothing has come down that hill with a page in his hand for twelve mornings.
+The second table has stood at the foot of that bank ninety-one mornings and moved this morning from ninety. The near rail has stood on the near side of it for forty-one mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is sixty-one, on the word of the man who keeps a tally, said before it was entered, and this morning it went in at a quarter past nine, which is an hour and a half later than the time he entered, and the time he entered was a quarter to eight, which is not the time he said it, and he entered no reason for either. The count of things this district has made is fourteen, and did not move, and did not move this morning either although a road keeper wrote in a book at the bottom of a bank, which is a thing a person did on a road. The lane count is twenty-one, and did not move, and nothing has come down that hill with a page in his hand for twelve mornings.
 
 The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and second of those mornings.
 
@@ -24,7 +24,7 @@ Tarin Kest put the waybill board down flat on the boards of the first table.
 
 "It is the truth and you have been asking me for the truth for thirteen mornings."
 
-"It is the truth and I did not come down that hill for it." He did not pick the board up. "A concession given away in a yard at eleven in the morning is a thing a person feels good about, and you have been feeling good about this yard for about eleven days and about four of the people in it have gone home worse off than they came, and I would like you to work out which of those four you are before you say anything else to me."
+"It is the truth and I did not come down that hill for it." He did not pick the board up. "A concession given away in a yard at eleven in the morning is a thing a person feels good about, and you have been feeling good about this yard for about eleven mornings and about four of the people in it have gone home worse off than they came, and I would like you to work out which of those four you are before you say anything else to me."
 
 "Tell me what follows from it."
 
@@ -170,7 +170,7 @@ He read it back to himself and did not read it to the yard.
 
 ---
 
-The boy of seventeen came down the eleven feet, which he had done four times in eleven days and had never once done without asking.
+The boy of seventeen came down the eleven feet, which he had done four times in eleven mornings and had never once done without asking.
 
 "You are one end of a book," said Tarin Kest. "Not a writer. An end. I write it and you know it is there, and if I stop writing on that stretch for two weeks in a row then somebody tells you and you come and find out why, and you do not ask me why at the time, because at the time I have a reason and the reason is usually that somebody is standing where I should not be."
 
@@ -236,9 +236,9 @@ He got his coat over his arm and stood there on the stones with the light going 
 
 ---
 
-At about four o'clock a man of fifty-six said four figures off a wall at the top of that bank in the ordinary voice and got all four of them, and the yard heard him, and then he did a thing he has not done in nine years, which was to stand still afterwards and say one more sentence to nobody in particular.
+At about four o'clock a man of fifty-six said four figures off a wall at the top of that bank in the ordinary voice and got all four of them, and the yard heard him, and then he did a thing he does not remember doing, which was to stand still afterwards and say one more sentence to nobody in particular.
 
-"You have all been in this yard eleven days," he said, "and you have finally got reasons. Not one of you has anywhere to put them. I have read four numbers off this wall twice a morning since I cannot remember being in this yard without doing it, because a wall is the only place in this basin that will keep a figure for as long as anybody wants it without a person's name going on it, and that is all it is good for, and none of you lot has ever once asked me what it is good for."
+"You have all been in this yard eleven mornings," he said, "and you have finally got reasons. Not one of you has anywhere to put them. I have read four numbers off this wall twice a morning since I cannot remember being in this yard without doing it, because a wall is the only place in this basin that will keep a figure for as long as anybody wants it without a person's name going on it, and that is all it is good for, and none of you lot has ever once asked me what it is good for."
 
 He picked up his coat.
 

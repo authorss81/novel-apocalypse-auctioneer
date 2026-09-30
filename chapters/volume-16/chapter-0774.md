@@ -50,7 +50,7 @@ Adrian put his hands where she could see them.
 
 She sat down on the boards, which she did not do.
 
-"If I say who *we* is in a yard, then everybody who hears it can be asked about it afterwards, and that is the only thing this yard has ever done for anybody. You have all spent fourteen days learning it and I have spent nine years knowing it, and six people in this district are now findable who were not, and one of them is me, because I said my own name out loud on this board, and one of them is a man at the end of that table who spent nine years making himself unfindable and who decided in the end that a line was worth more than a favour, and he was right, and I am the reason he had to decide it."
+"If I say who *we* is in a yard, then everybody who hears it can be asked about it afterwards, and that is the only thing this yard has ever done for anybody. You have all spent eleven mornings learning it and I have spent nine years knowing it, and six people in this district are now findable who were not, and one of them is me, because I said my own name out loud on this board, and one of them is a man at the end of that table who spent nine years making himself unfindable and who decided in the end that a line was worth more than a favour, and he was right, and I am the reason he had to decide it."
 
 "I know."
 

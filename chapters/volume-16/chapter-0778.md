@@ -140,7 +140,7 @@ The boy turned round.
 
 ---
 
-The yard heard it go quiet in a way that it had not been quiet on any morning in eleven days, because the last eleven mornings had all been loud, and this one had a hole in it.
+The yard heard it go quiet in a way that it had not been quiet on any morning in eleven mornings, because every one of the last eleven had been loud, and this one had a hole in it.
 
 "The reason you are not in it," said the man of fifty-six, "is that you asked. On the thirty-ninth morning after the thirtieth of the eighth month you stood on those boards and asked her to look for a place to put a name. There was one place. She put it there. You did not read the heading, and she did not read the heading, and she told you on the fifty-third morning that she had written it when she was nineteen and had not read it properly since, and you told her it was your fault, and it was, and you have not said one word about it since."
 
