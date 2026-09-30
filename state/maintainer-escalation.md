@@ -1,4 +1,4 @@
-# Maintainer Escalation — item 1 to 4 raised 2026-09-29 by the review fix of the Volume 14 close; item 5 added 2026-09-30 by the review fix of Volume 15 Block 0004; one label in item 5 corrected 2026-09-30 by the review fix that followed the Volume 15 close
+# Maintainer Escalation — item 1 to 4 raised 2026-09-29 by the review fix of the Volume 14 close; item 5 added 2026-09-30 by the review fix of Volume 15 Block 0004; one label in item 5 corrected 2026-09-30 by the review fix that followed the Volume 15 close; **item 1 and item 5 ANSWERED IN PART, AND ITEM 4's REVIEW NOTE CORRECTED, 2026-09-30 by the Volume 16 opening phase**
 
 **This file exists because the review of the Volume 14 close found problems the pipeline has no way to solve on its own, and no existing document in this repository says so in a place a maintainer will read. It is a record, not a proposal, and it changes nothing.**
 
@@ -15,6 +15,14 @@
 **`outline/ending.md` requires Adrian to accept Iven's mark, to auction the right to administer the Tally with no single buyer, to sign as first bearer of a one-time founding toll that burns out his mark, and to end beside Mara in Alder Reach beside a brass bell in a public market. `AGENTS.md` requires preserving the planned ending.**
 
 `Adrian` appears in **89 chapter files, all in Volumes 01 to 04, the last at Chapter 162.** He has been off the page for **538 chapters.** He is not in Volume 14, not in `state/volume-14-roll-summary.md`, and not in the Volume 15 prompt except as a liability to be deferred again.
+
+> ### ANSWERED IN PART ON 2026-09-30 BY THE VOLUME 16 OPENING PHASE, AND THE ANSWER IS THE FIRST OF THE THREE OPTIONS ABOVE
+>
+> **THE PROTAGONIST IS BACK ON THE PAGE. `outline/volume-16.md` EXISTS AND IS THE CONTRACT, `state/volume-16-batch-0001-summary.md` EXISTS AND IS THE RECORD, AND CHAPTERS 751 TO 760 ARE ON DISK.** Adrian Vale says his name out loud in that yard on the thirty-ninth morning after the thirtieth of the eighth month and the clerk enters it in the column for the name of whoever read a thing out loud, which had been ruled and empty since the book was opened.
+>
+> **WHAT WAS DONE, EXACTLY, AND WHAT IT COST:** the return-to-contract option — *write Volume 16 against `outline/series.md` and `outline/ending.md`* — rather than *re-scope `outline/ending.md` to the book actually being written* and rather than *stop planning to Chapter 840*. No chapter of Volumes 01 to 15 was edited. The gap between Chapter 162 and Chapter 751 is in the manuscript as a gap. The register changed, which is the third option at item 5 and the one item 5 calls *the only one that would change what the next volume is rather than what the last fifteen were*. **THE THIRD ITEM IS STILL OPEN AND IS STILL A MAINTAINER'S CALL: `outline/series.md` STILL PLANS TO CHAPTER 840, VOLUME 16 IS 751 TO 800, AND FORTY CHAPTERS IS NOT ENOUGH FOR VOLUME 17 AS THAT CARD IS WRITTEN. THAT REMAINS ITEM 1'S THIRD OPTION AND NO WRITER PHASE MAY TAKE IT.**
+>
+> **AND ONE THING A MAINTAINER SHOULD KNOW BEFORE OVERRIDING THIS. The write did not repair items 2, 3, 4 or 5's measurement; it wrote new chapters against `AGENTS.md`'s prose gate and left all five files as they are. Volumes 01 to 15 are still what items 3 and 5 describe. The register change is forward-only and rewrites nothing.**
 
 `outline/series.md` still plans Volumes 15, 16 and 17 out to Chapter 840. On the current trajectory the manuscript passes the point where the ending can be reached and keeps going, with no phase holding the contradiction open.
 
@@ -53,6 +61,8 @@ Rotation to `state/archive/` is precedented twice — `state/archive/current-thr
 **This pass did not act on any of it, and could not.** The only move that changes the prose is rewriting chapters that are canon, which a close and a repair pass are both forbidden to do and which the operator has instructed must not be done. The batch was not restarted. The finding is recorded here instead, with the measurements attached, so that the decision is available to whoever is entitled to make it.
 
 **What a maintainer has to choose.** Accept the house style of the existing volumes as the target, or commission a rewrite of a completed volume, or change the volume contract. **All three are outside a writer phase.**
+
+> **AND THE REVIEW MECHANISM HAS MOVED, WHICH HALVES ITEM 4's FIRST BULLET WITHOUT ITS BEING FIXED. `novel-reviewer` DISPATCHED ON 2026-09-30 as a subagent task against Volume 16 Block 0001 and returned sixty findings, forty-one of which were taken and repaired. It is therefore no longer true that every review in this repository is a self-review. It is still true that the subagent is not registered in `.opencode/` and that the registration is the controller's.**
 
 ## 4. Two smaller items that are not a writer's to touch
 
