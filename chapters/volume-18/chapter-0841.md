@@ -124,7 +124,7 @@ Mara Quill had the page at the back of the lot book open in front of her with he
 
 "Four questions," said the clerk, to nobody. "I have been the clerk of that book for fifteen years and I have had four lines written at the back of it in the whole of that time that anybody in this district can be asked about separately tomorrow, and there have been four questions asked in that yard this afternoon, and I am not writing one of them, and I have not got a reason, and I have not been asked for one this afternoon."
 
-"Ask her," said Mavis Dorr. "You do not have to say why.""
+"Ask her," said Mavis Dorr. "You do not have to say why."
 
 "I have said four times in about nineteen mornings that I would not give a reason," said Mara Quill, "and a man of about forty-eight has been the only person in that yard who has never once asked me for one, and this afternoon he has not asked me for one either. About four people in this yard have been waiting eight mornings for a reason, and they have just watched me not be asked for one."
 
