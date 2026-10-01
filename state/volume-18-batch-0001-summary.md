@@ -1,367 +1,288 @@
-# Volume 18 Batch 0001 — Chapters 841 to 850, mornings 125 to 134, `c = 1` to `c = 10`
+# Volume 18 Batch 0001 — Chapters 841 to 850, `c = 1` to `c = 10`
 
-> **THIS RECORD CARRIES THE ONE HUNDRED AND THIRTY-FOURTH MORNING'S POSITION AND NOT A SUMMARY OF THE TEN MORNINGS. THE MEASUREMENT LIVES IN THIS FILE AND IN THE TEN CHAPTERS AND NOWHERE ELSE. A SECOND COPY OF A FIGURE IN TWO PLACES IS TWO CHANCES TO BE WRONG.**
+> **THIS RECORD CARRIES THE ONE HUNDRED AND THIRTY-FOURTH MORNING'S POSITION AND NOT A SUMMARY OF THE TEN MORNINGS. IT COVERS CHAPTERS 841 TO 850 OF `chapters/volume-18/`, WRITTEN BY THE VOLUME 18 BLOCK 0001 PHASE, AND EVERY FIGURE IN IT WAS MEASURED BY AN INSTRUMENT WRITTEN FROM NOTHING OUTSIDE THIS REPOSITORY, WITH `PYTHONDONTWRITEBYTECODE=1` EXPORTED BEFORE EVERY RUN, IMPORTING NOTHING FROM `tools/`, WITH NO PIPELINE CHAINED, AND VALIDATED FIRST AGAINST CHAPTERS 821 TO 830 AND THEN AGAINST CHAPTERS 811 TO 820 AND 831 TO 840, WHERE IT RETURNS ZERO FINDINGS. THE MEASUREMENT LIVES IN THIS RECORD AND IN THE CHAPTERS AND NOWHERE ELSE.**
 >
-> **COVERS CHAPTERS 841 TO 850, `c = 1` TO `c = 10`, MORNINGS ONE HUNDRED AND TWENTY-FIFTH TO ONE HUNDRED AND THIRTY-FOURTH, BLOCK 0001 OF FIVE. EVERY FIGURE BELOW WAS MEASURED OFF THE TEN FILES OF `chapters/volume-18/` BY AN INSTRUMENT WRITTEN FROM NOTHING, OUTSIDE THIS REPOSITORY, WITH `PYTHONDONTWRITEBYTECODE=1` EXPORTED BEFORE EVERY RUN, IMPORTING NOTHING FROM `tools/`, WITH NO PIPELINE CHAINED. `tools/measure.py` WAS NOT USED, NOT FIXED AND NOT TRUSTED, AND NO BYTE WAS WRITTEN UNDER `tools/`.**
+> **THE CONTRACT IS `outline/volume-18.md`. THE INHERITANCE IS `state/volume-17-close.md` AND `state/volume-17-roll-summary.md` AND THE FORTY CHAPTER FILES OF `chapters/volume-17/`. WHERE A CHAPTER AND A DOCUMENT DISAGREE, THE CHAPTER IS RIGHT. `tools/measure.py` RETURNS `None` FOR EVERY NUMERAL ABOVE A HUNDRED, IS NOT A TOOL TO TRUST OR TO FIX, AND WAS NOT USED. NO BYTE WAS WRITTEN UNDER `tools/`.**
 >
-> **AND EVERY FIGURE INHERITED FROM A DOCUMENT WAS CHECKED AGAINST THE TEN FILES AND NOT COPIED. THE INTERCEPT OF EVERY LADDER ROW IS THE FIGURE `chapters/volume-17/chapter-0840.md` PRINTS, AND THAT FILE WAS READ FIRST AND THE TABLE AT `outline/volume-18.md` SECTION 8.1 WAS USED AS A CROSS-CHECK AND NOT AS A SOURCE.**
+> **THE FOUR UNPAID DEBTS ARE UNPAID AND NONE IS THIS BLOCK'S: THERE IS NO `state/volume-16-close.md`, NO `state/volume-16-roll-summary.md`, NO `state/volume-12-close.md` AND NO `state/volume-12-close.md`'s pair `state/volume-12-roll-summary.md`, MEASURED BY LISTING `state/` AND NOT INHERITED FROM A DOCUMENT. THIS BLOCK THEREFORE INHERITS NO ROLL FOR EITHER VOLUME AND EVERY FIGURE IT PRINTS IS READ OFF CHAPTER FILES.**
 >
-> **AND THIS IS A WRITER'S ACCOUNT OF A WRITER'S OWN WORK. `novel-reviewer` DOES NOT DISPATCH AS A PRIMARY IN THIS REPOSITORY, SO NOTHING IN THIS FILE HAS BEEN REVIEWED BY ANYBODY BUT THE PERSON WHO WROTE IT, AND THE FINDINGS AT SECTION 8 ARE A WRITER LOOKING AT ITS OWN CHAPTERS.**
+> **AND THE SENTENCE VOLUME 17 OWED WAS PAID IN A MOUTH BY SABRA HOLT ON THE ONE HUNDRED AND THIRTEENTH MORNING, WAS ASKED FOR NOT BEING ENTERED, AND WAS NOT ENTERED. IT IS IN NO DOCUMENT IN THIS TREE. A DOCUMENT THAT RE-PRINTS IT OWNS IT. NO FIGURE BLOCK IN THIS BLOCK CARRIES IT AND NO CHAPTER OF THIS BLOCK QUOTES IT.**
 
 ---
 
-## 1. THE POSITION AT THE ONE HUNDRED AND THIRTY-FOURTH MORNING, AND THE DAY MAP
+## 1. THE POSITION AT THE ONE HUNDRED AND THIRTY-FOURTH MORNING, WHICH IS CHAPTER 850 AND `c = 10`
 
-**TEN CHAPTERS. `841 + 9 = 850`. ONE CHAPTER A MORNING. NO CHAPTER CARRIES TWO DATES OF RECORD. `c` IS THE CHAPTER NUMBER LESS 840 AND THE MORNING NUMBER IS `124 + c`.**
+**A THING THAT ONE MAN PUT DOWN IN A YARD ON THE ONE HUNDRED AND TWELFTH MORNING IS NOW A THING THAT ABOUT NINETEEN PEOPLE DO, AND NO PERSON IN THAT YARD HAS DECIDED TO MAKE IT SO AND NO PERSON HAS DECIDED NOT TO. THE ASKING HAS A SHAPE AND NOBODY DREW IT.**
 
-| Ch | `c` | morning | what this block left on the page |
-|---:|---:|---|---|
-| 841 | 1 | the one hundred and twenty-fifth | a woman asked a boy of seventeen at those boards for a figure of mornings on which a question had been asked, and he gave a reason out loud and not a figure. At about two, four people began asking each other things out loud, and the yard's first question that was not about the wall |
-| 842 | 2 | the one hundred and twenty-sixth | the clerk gave a reason out loud for the first time, and the turner came nine miles up a hill to find out that nothing had happened |
-| 843 | 3 | the one hundred and twenty-seventh | **ESCALATION 1.** A woman with a beam asked the man at the foot of that low wall what the four figures on that wall are for. He gave her the answer he gives at about four every morning and nothing else. The boy said a morning out loud before the clerk's hand moved and the lane count did not move |
-| 844 | 4 | the one hundred and twenty-eighth | about four people said out loud that the question was not the asking of a man of thirty-eight. A man at the end of the second table said four things about the column and nobody answered one of them |
-| 845 | 5 | the one hundred and twenty-ninth | the asking acquired hours. A boy of seventeen said out loud that nobody arranged any of them. About nine people stopped asking him a question |
-| 846 | 6 | the one hundred and thirtieth | the asking was turned on a person who cannot answer it, and about nine people at the top of eleven feet asked the same man the same thing and were refused. A man at the end of that table said a figure out loud for the first time in fifteen years |
-| 847 | 7 | the one hundred and thirty-first | the asking acquired a place and a woman of fifty-two said out loud that a thing which has happened twice with nobody deciding anything is not a custom yet. Nobody disagreed |
-| 848 | 8 | the one hundred and thirty-second | the asking acquired an order inside the morning. A man of about forty-eight asked the clerk a question at about ten to eight, before he had said his number, and she said no before he had finished |
-| 849 | 9 | the one hundred and thirty-third | a trestle was left standing for seven hours. A man of thirty-eight was asked what he thought would happen and answered, and refused to let it be written down, and about four people heard him refuse |
-| 850 | 10 | the one hundred and thirty-fourth | **THE BLOCK'S TURN.** About nineteen people were standing within about four hundred yards of those boards at about half past one and about nine of them had come early. A woman said the whole of the shape of that yard out loud and then stopped on purpose |
+**WHAT MOVED IN THESE TEN MORNINGS, AND NOTHING ELSE DID.** The asking stopped being one man's. On the one hundred and twenty-fifth morning a woman asked a boy of seventeen at those boards for a figure of mornings on which a question had been asked and he gave her a reason out loud instead of a figure, and about nine people heard the reason, and the woman said out loud that she had been told no in front of them. On the one hundred and twenty-seventh morning, at about ten to two, at the near end of the second table, eleven feet above the foot of that bank, a woman who has been weighing things at that bank for nine years put a beam down across the boards, said why first and then asked it, and asked the man of fifty-six what the four figures on that wall are for, in the ordinary voice, in about nineteen people's hearing. **He gave her the answer he gives at about four every morning. Nothing else. Not a fifth version of it, not a better one, the same words at the same speed, flat, and then he took his hand off the stone and said nothing more.** That is Escalation 1 and it is fixed at Chapter 843 and it is the first asking in this district that is not Adrian Vale's. **A boy of seventeen said a figure out loud at those boards before the clerk's hand had moved, and the figure was a morning and not a figure of money, and he said out loud, before he said the figure, that the lane count is twenty-seven and did not move because nobody came down that lane with a page in their own hand.** A turner, on the same afternoon, said out loud in front of about nine people that nobody was going to ask him a second one, and then said out loud that that was not a rule. And Adrian Vale stood at about four feet off the near end of the first table and watched somebody else do the thing he had done, and said nothing, and the interior beat he got is the only interiority this block gives him and it is not about the wall.
 
-**AND WHAT THE BLOCK'S TURN IS, IN ONE SENTENCE, WHICH IS THE ONE SENTENCE THE VOLUME OWES IT: a thing that one man started in a yard on the one hundred and twelfth morning is now a thing that about nineteen people do, and no person in that yard has decided to make it so and no person has decided not to, and the figure on the boards has a shape and the shape is nine people arriving early and not one of them knowing why.**
+**WHAT DID NOT MOVE IN THESE TEN MORNINGS, AND NONE OF IT IS PAID.** The figure on the sheet at that gatepost is four hundred and eleven on all ten mornings and its size of error has not been computed by anybody in this basin and is not computed in this record. The fifth of the five things this district does not have is five and is not paid. The column has one name in it, the heading over it still says *whoever*, the one name does not satisfy the rule, and the second space on that form is empty. The counted months is six and did not move. The page at the back of that lot book carries thirty-three lines on all ten mornings and none of the thirty-three is in the lot book and three of them nobody in this district heard read. The lane count is twenty-seven on all ten mornings and moved on none of them, because nobody came down that lane with a page in their own hand in this block. The toll of ninety-eight is spent. The bid was appended at four hundred and fifty days, was not run, was not sold, and is not a lot. The bell did not go again. A man of about thirty-eight has not been given a bed, a wage or an office, has not asked for any of the three, and has not been told he is a good man.
 
-**AND WHAT THIS BLOCK DID NOT DO, AND EVERY ONE OF THESE IS SOMEWHERE ELSE: it resolved nothing. It counted no month. It put no line on the back page of that lot book. It did not ask the midpoint question. The reversal is at Chapter 865 and is not in this block. The resolution begins at Chapter 886 and is not in this block. The figure with no intercept has not started. The bell does not go again and nothing about the one time it went is entered. The bid is appended and not run.**
+**AND THE REVERSAL IS AT CHAPTER 865 AND THE RESOLUTION BEGINS AT CHAPTER 886 AND NEITHER IS IN THIS BLOCK. THE FIGURE WITH NO INTERCEPT HAS NOT STARTED.**
 
 ---
 
-## 2. THE LADDER, MEASURED CELL BY CELL, AND THE CONVENTIONS NAMED
+## 2. THE LADDER AT `c = 10`, AND EVERY EXPECTED VALUE COMPUTED FROM THE INTERCEPT
 
-**THE LADDER IS `INTERCEPT + c` AND NOTHING ELSE. `c` IS THE CHAPTER NUMBER LESS 840. THE INTERCEPT IS THE FIGURE THE CHAPTERS PRINT ON CHAPTER 840 AND IT IS NOT RE-ANCHORED: IT IS THE CHAPTER 800 COLUMN PLUS FORTY, WHICH IS THE SAME LADDER ONE MORNING LATER. EVERY EXPECTED VALUE BELOW WAS COMPUTED FROM THE INTERCEPT AND NEVER WRITTEN OUT BY HAND.**
+**`c = 0` FOR THE WHOLE OF VOLUME 18 IS CHAPTER 840, WHICH IS THE ONE HUNDRED AND TWENTY-FOURTH MORNING, AND THE MORNING NUMBER IS `124 + c`, SO CHAPTER 850 IS THE ONE HUNDRED AND THIRTY-FOURTH. THE LADDER IS `INTERCEPT + c` AND NOTHING ELSE. THE INTERCEPT IS THE FIGURE THE CHAPTERS PRINT ON CHAPTER 840 AND IT IS NOT RE-ANCHORED: IT IS THE CHAPTER 800 COLUMN PLUS FORTY, WHICH IS THE SAME LADDER ONE MORNING LATER.**
 
-**THE NAMED CONVENTIONS, BECAUSE A FIGURE PRINTED WITHOUT ITS ALGORITHM IS A FIGURE NOBODY CAN CHECK: the carrier table is searched **case-insensitively**; spans are built **line by line** and a line that is exactly `---` ends a span and never merges into the sentence after it; the number walk is a **full-token walk that crosses the spaces between number words**, **folds hyphenated tens compounds**, treats *and* as transparent inside a number phrase and never at the start of one, and **adds an ordinal to the pending group and never to the banked total**, so *twenty-fourth* reads as twenty-four and not as four; a **forward window keeps the first number in the window** and a **backward window keeps the last**; and every expected value is computed from the declared intercept.**
+**CONVENTIONS, NAMED, AND NO EXPECTED VALUE IN THIS FILE IS WRITTEN OUT BY HAND.** THE CARRIER TABLE IS SEARCHED CASE-INSENSITIVELY. SPANS ARE BUILT LINE BY LINE, A LINE THAT IS EXACTLY `---` ENDS A SPAN AND NEVER MERGES INTO THE SENTENCE AFTER IT, AND WITHIN A LINE THE SPLIT IS ON SENTENCE-TERMINAL PUNCTUATION WITH MARKDOWN EMPHASIS STRIPPED. THE NUMBER WALK IS A FULL-TOKEN WALK THAT CROSSES THE SPACES BETWEEN NUMBER WORDS, FOLDS HYPHENATED TENS COMPOUNDS SO THAT *THIRTY-NINE* IS 39 AND *TWENTY-FOURTH* IS 24, TREATS *AND* AS TRANSPARENT INSIDE A NUMBER PHRASE AND NEVER AT THE START OF ONE, AND ADDS AN ORDINAL TO THE PENDING GROUP AND NEVER TO THE BANKED TOTAL. A FORWARD WINDOW KEEPS THE FIRST NUMBER IN THE WINDOW AND A BACKWARD WINDOW KEEPS THE LAST.
 
-**DIRECTION, DECLARED AND NEVER INFERRED, AND THE INSTRUMENT'S READING OF IT IS NAMED BECAUSE IT IS THE OPPOSITE OF THE OBVIOUS ONE: TEN ROWS CARRY THEIR FIGURE BEFORE THE CARRIER AND SEVEN CARRY IT AFTER. A ROW THAT CARRIES ITS FIGURE **AFTER** THE CARRIER IS MEASURED WITH A **FORWARD WINDOW**, WHICH IS THE TEXT AFTER THE CARRIER, KEEPING THE **FIRST** NUMBER IN IT. A ROW THAT CARRIES ITS FIGURE **BEFORE** THE CARRIER IS MEASURED WITH A **BACKWARD WINDOW**, WHICH IS THE TEXT BEFORE THE CARRIER, KEEPING THE **LAST** NUMBER IN IT. THE FIRST DRAFT OF THIS INSTRUMENT HAD THE TWO SWAPPED AND FIRED ON EIGHT ROWS A MORNING, AND THE SWAP WAS FOUND BY RUNNING IT AGAINST CHAPTERS 821 TO 830 OF VOLUME 17, WHERE EVERY FIGURE IS ALREADY KNOWN, BEFORE IT WAS RUN AGAINST THIS BLOCK.**
+**THE DIRECTION SPLIT IS DECLARED AND NEVER INFERRED. TEN ROWS CARRY THEIR FIGURE BEFORE THE CARRIER AND SEVEN CARRY IT AFTER. THE TEN ARE ROWS 4, 7, 8, 9, 10, 11, 13, 15, 16 AND 17. THE SEVEN ARE ROWS 1, 2, 3, 6, 12, 14 AND 19. EVERY FIGURE BLOCK IN THIS BLOCK PRINTS ITS FIGURE ON THE DECLARED SIDE OF ITS OWN CARRIER, AND A FIGURE-ONLY CHECKER WILL FIRE ON EVERY ONE OF THE TEN THAT PRINT BEFORE AND EVERY ONE OF THOSE IS CORRECT.**
 
-| # | the figure | carrier as the chapters print it | dir | `c = 1` Ch 841 | `c = 5` Ch 845 | `c = 10` Ch 850 |
-|---|---|---|---:|---:|---:|---:|
-| 1 | the days on that board | `the board carries` | after | 739 | 743 | 748 |
-| 2 | the days the train on that siding has stood | `the train on that siding has stood` | after | 1055 | 1059 | 1064 |
-| 3 | the days nobody has entered anything | `nobody has entered anything for` | after | 769 | 773 | 778 |
-| 4 | the days from the second of January | `days separate the second of January and this morning` | before | 730 | 734 | 739 |
-| 5 | **how long the bid has been open** | `days is how long the bid was open` | — | **CARRIER x0. PAST TENSE, FOUR HUNDRED AND FIFTY, ONCE** | **x0** | **x0** |
-| 6 | how far back the ninth of the nine printed nights is | `the ninth of the nine printed nights is` | after | 622 | 626 | 631 |
-| 7 | how far behind the figure on the second line is | `days is how far behind the figure on the second line` | before | 444 | 448 | 453 |
-| 8 | how long the rule said out loud has stood | `days is how long the rule said out loud in that yard has stood` | before | 449 | 453 | 458 |
-| 9 | how long since the first day of the eighth month | `days is how long it has been since the first day of the eighth month` | before | 519 | 523 | 528 |
-| 10 | how far past a printing a body four hundred miles off is | `days past a printing it did not make` | before | 458 | 462 | 467 |
-| 11 | the age of the figure on the sheet at that gatepost | `days is the age of that figure` | before | 580 | 584 | 589 |
-| 12 | **the figure on the sheet at that gatepost** | `the figure on the sheet at that gatepost is` | after | **411. A CONSTANT, CARRIER x1** | **411** | **411** |
-| 13 | the night the man of about sixty-four is on | `night of that run` | before | the four hundred and eightieth | the four hundred and eighty-fourth | the four hundred and eighty-ninth |
-| 14 | the nights of that run he has slept on | `having slept on` | after | 479 | 483 | 488 |
-| 15 | the marks cut off that board | `marks have been cut off that board` | before | 398 | 402 | 407 |
-| 16 | the marks in chalk along the edge of that second table | `marks in chalk along the edge of that second table` | before | 384 | 388 | 393 |
-| 17 | the mornings a man of fifty-six has read four figures off that wall | `of those mornings` | before | the five hundred and sixty-sixth | the five hundred and seventieth | the five hundred and seventy-fifth |
-| 18 | the days a sheet has been on that second table | — | — | **ABSENT** | **ABSENT** | **ABSENT** |
-| 19 | **how long the record has stood** | `the record has stood` | after | **40** | **44** | **49** |
+| # | the figure | carrier as the chapters print it | dir | `c = 0` Ch 840 | `c = 1` Ch 841 | `c = 10` Ch 850 |
+|---|---|---|---|---:|---:|---:|
+| 1 | the days on that board | `the board carries` | after | 738 | 739 | 748 |
+| 2 | the days the train on that siding has stood | `the train on that siding has stood` | after | 1054 | 1055 | 1064 |
+| 3 | the days nobody has entered anything | `nobody has entered anything for` | after | 768 | 769 | 778 |
+| 4 | the days from the second of January | `days separate the second of January and this morning` | before | 729 | 730 | 739 |
+| 5 | **how long the bid has been open** | `days is how long the bid was open` | — | **448, STRUCK, CARRIER x0** | **ABSENT** | **ABSENT** |
+| 6 | how far back the ninth of the nine printed nights is | `the ninth of the nine printed nights is` | after | 621 | 622 | 631 |
+| 7 | how far behind the figure on the second line is | `days is how far behind the figure on the second line` | before | 443 | 444 | 453 |
+| 8 | how long the rule said out loud has stood | `days is how long the rule said out loud in that yard has stood` | before | 448 | 449 | 458 |
+| 9 | how long since the first day of the eighth month | `days is how long it has been since the first day of the eighth month` | before | 518 | 519 | 528 |
+| 10 | how far past a printing a body four hundred miles off is | `days past a printing it did not make` | before | 457 | 458 | 467 |
+| 11 | the age of the figure on the sheet at that gatepost | `days is the age of that figure` | before | 579 | 580 | 589 |
+| 12 | **the figure on the sheet at that gatepost** | `the figure on the sheet at that gatepost is` | after | **411. A CONSTANT** | 411 | 411 |
+| 13 | the night the man of about sixty-four is on | `night of that run` | before | the four hundred and seventy-ninth | the four hundred and eightieth | the four hundred and eighty-ninth |
+| 14 | the nights of that run he has slept on | `having slept on` | after | 478 | 479 | 488 |
+| 15 | the marks cut off that board | `marks have been cut off that board` | before | 397 | 398 | 407 |
+| 16 | the marks in chalk along the edge of that second table | `marks in chalk along the edge of that second table` | before | 383 | 384 | 393 |
+| 17 | the mornings a man of fifty-six has read four figures off that wall | `of those mornings` | before | the five hundred and sixty-fifth | the five hundred and sixty-sixth | the five hundred and seventy-fifth |
+| 18 | the days a sheet has been on that second table | — | — | **GONE. NOT INVENTED** | absent | absent |
+| 19 | **how long the record has stood** | `the record has stood` | after | **39** | **40** | **49** |
 
-**THE RUN RETURNED ZERO LADDER FINDINGS ACROSS TEN MORNINGS AND EIGHTEEN ROWS.**
+**ROW 14'S CARRIER IS `HAVING SLEPT ON`. `outline/volume-17.md` SECTION 3 GIVES IT AS `HE HAS SLEPT ON` AND NO CHAPTER OF VOLUME 17 CARRIES THAT WORDING AND NO CHAPTER OF THIS BLOCK DOES. A MEASUREMENT THAT SWEEPS THE RAW STRING *HE HAS SLEPT ON* GETS ZERO IN BOTH VOLUMES AND THAT ZERO IS AN ARTIFACT OF THE WRONG WORDING AND NOT A FINDING.**
 
-### 2.1 ROW 19, WHICH IS THE ONE ROW THAT IS NOT `INTERCEPT + c`
+### 2.1 ROW 19, WHICH IS AN ORIGIN AND NOT `INTERCEPT + c` IN THE ORDINARY SENSE
 
-**ROW 19 IS AN ORIGIN AND NOT A CELL. THE RECORD DID NOT EXIST AT A QUARTER TO SEVEN ON THE EIGHTY-FIFTH MORNING AND IT HAS RISEN ONE EVERY MORNING SINCE. IN VOLUME 17's `c`, WHICH IS THE CHAPTER NUMBER LESS 800, THAT RULE PRINTS AS `c - 1`. IN THIS BLOCK'S `c`, WHICH IS THE CHAPTER NUMBER LESS 840, THE SAME ORIGIN PRINTS AS `39 + c`, AND IT WAS PRINTED THAT WAY ON ALL TEN MORNINGS: FORTY AT CHAPTER 841, FORTY-ONE AT 842, FORTY-TWO AT 843, FORTY-THREE AT 844, FORTY-FOUR AT 845, FORTY-FIVE AT 846, FORTY-SIX AT 847, FORTY-SEVEN AT 848, FORTY-EIGHT AT 849 AND FORTY-NINE AT 850. NO CHAPTER OF THIS BLOCK PRINTS `c - 1` AND NO CHAPTER OF THIS BLOCK PRINTS A MORNING ON WHICH THE RECORD DID NOT STAND. THE FIGURE BLOCK'S LINE IS *The record has stood <figure> days*, ONCE PER FILE, ON ALL TEN.**
+**THE RECORD DID NOT EXIST AT A QUARTER TO SEVEN ON THE EIGHTY-FIFTH MORNING, IT STOOD AT NOTHING, AND IT HAS RISEN ONE EVERY MORNING SINCE. IN VOLUME 17's `c`, WHICH IS THE CHAPTER NUMBER LESS 800, THAT RULE PRINTS AS `c - 1`. IN THIS BLOCK's `c` IT PRINTS AS `39 + c`, AND IT IS ONE PER MORNING: FORTY ON CHAPTER 841 THROUGH FORTY-NINE ON CHAPTER 850. A WRITER WHO CARRIES `c - 1` ACROSS FROM THE VOLUME BEHIND WILL PRINT *NO DAYS* ON CHAPTER 841, WHICH IS A FALSE STATEMENT ABOUT A RECORD THAT STOOD THIRTY-NINE DAYS ON CHAPTER 840.** THE FIGURE BLOCK'S LINE IS *The record has stood <figure> days*, printed once per file, and the instrument confirms forty on 841 rising one a morning to forty-nine on 850, and a carrier-hit count of exactly one on each of the ten files.
 
-### 2.2 ROWS 5, 12 AND 18, THE THREE THINGS THAT ARE NOT FIGURES
+### 2.2 THE THREE THINGS ABOUT THESE ROWS THAT ARE NOT FIGURES
 
-1. **ROW 5 IS STRUCK BY THE APPEND AND NOT BY A PERSON. ITS CARRIER `days is how long the bid was open` IS AT ZERO ON ALL TEN MORNINGS. ITS PAST-TENSE LINE PRINTS FOUR HUNDRED AND FIFTY EXACTLY ONCE PER FILE, MEASURED IN ITS OWN CARRIER SENTENCE *Four hundred and fifty days is how long the bid was open, and it was not run, and it is not open* AND NOT IN A RAW SWEEP OF THE STRING, BECAUSE A RAW SWEEP GIVES A DIFFERENT FIGURE ON THIS BLOCK AND THE DIFFERENCE IS DISCLOSED AT SECTION 2.3. IT WAS NOT RESTORED, IT WAS NOT PRINTED IN THE PRESENT TENSE AGAIN, AND NO SECOND OPENING WAS INVENTED.**
-2. **ROW 12 IS A CONSTANT AND NOT A CELL. ITS CARRIER IS PRINTED EXACTLY ONCE PER FILE ON ALL TEN MORNINGS AND AT FOUR HUNDRED AND ELEVEN ON ALL TEN. ITS SIZE OF ERROR IS NOT COMPUTED, NOT EXPLAINED AND NOT PAID, BY NOBODY, IN ANY DOCUMENT, AND IN NO MOUTH. ROWS 11 AND 12 ARE NEVER IN ONE SENTENCE ON ANY OF THE TEN MORNINGS AND NOBODY PUTS THEM TOGETHER. AN AGE IS A NUMBER OF DAYS AND IS NOT A SIZE OF ERROR.**
-3. **ROW 18 IS ABSENT ON ALL TEN MORNINGS AND WAS NOT INVENTED. A FIGURE THAT STOPS IS NOT A MISSING FIGURE.**
+**ROW 5 IS STRUCK BY THE APPEND AND NOT BY A PERSON. ITS CARRIER IS AT ZERO ON ALL TEN MORNINGS OF THIS BLOCK. ITS PAST-TENSE LINE, *Four hundred and fifty days is how long the bid was open, and it was not run, and it is not open*, PRINTS FOUR HUNDRED AND FIFTY EXACTLY ONCE PER FILE, MEASURED IN ITS OWN CARRIER SENTENCE AND NOT IN A RAW SWEEP OF THE STRING. A RAW SWEEP OF *HOW LONG THE BID HAS BEEN OPEN* RETURNS ZERO ON ALL TEN FILES, SO THE PRESENT TENSE IS NOT RESTORED AND NO SECOND OPENING IS INVENTED.**
 
-### 2.3 THE RAW SWEEP OF FOUR HUNDRED AND FIFTY, WITH THE DIFFERENCE DISCLOSED
+**ROW 12 IS A CONSTANT AND NOT A CELL. ITS CARRIER IS PRINTED EXACTLY ONCE PER FILE AND THE FIGURE IS FOUR HUNDRED AND ELEVEN ON TEN OF TEN. ITS SIZE OF ERROR IS NOT COMPUTED, NOT EXPLAINED AND NOT PAID, BY NOBODY, IN ANY DOCUMENT, AND IN NO MOUTH. ROWS 11 AND 12 ARE NEVER IN ONE SENTENCE ON ANY OF THE TEN MORNINGS, MEASURED BY A SENTENCE-LEVEL TEST, AND NOBODY PUTS THEM TOGETHER. AN AGE IS A NUMBER OF DAYS AND IS NOT A SIZE OF ERROR.**
 
-**A CARRIER-COUNTED FIGURE AND A RAW-COUNTED FIGURE ARE TWO FIGURES AND NOT ONE, AND A SUCCESSOR THAT GREPS THE STRING GETS THE SECOND.**
+**ROW 18 IS ABSENT ON ALL TEN MORNINGS AND MAY NOT BE INVENTED. A FIGURE THAT STOPS IS NOT A MISSING FIGURE. THE INSTRUMENT CARRIES ROW 18'S CARRIER AND IT RETURNS ZERO ON ALL TEN FILES, WHICH IS A MEASUREMENT AND NOT AN OMISSION.**
 
-| the string | carrier-measured, one per file | raw literal count, whole file | the difference and where it is |
-|---|---:|---:|---|
-| `four hundred and fifty` | **10** | **15** | **five extra hits, and every one of them is a ladder cell and not row 5: chapter 847's row 7, chapter 848's row 8, chapter 849's row 9, chapter 850's row 10, and chapter 842's row 8.** Row 5's own carrier sentence is one per file on all ten and its present tense is at zero on all ten |
+### 2.3 ROWS 7 AND 8, AND THE FIRE A FIGURE-ONLY CHECKER GETS
 
-### 2.4 ROWS 7 AND 8, AND THE FIRE A FIGURE-ONLY CHECKER GETS
+**ROW 8 IS FIVE ABOVE ROW 7 ON EVERY MORNING INCLUDING ALL TEN OF THIS BLOCK, AND THEY PRINT THE SAME FIGURE ON ZERO OF THE TEN. ROW 7 STANDS AT FOUR HUNDRED AND FORTY-THREE AT `c = 0` AND ROW 8 AT FOUR HUNDRED AND FORTY-EIGHT, BOTH RISE, AND NEITHER EVER STANDS AT FOUR HUNDRED AND ELEVEN AGAIN — CONFIRMED ON ALL TEN MORNINGS OF THIS BLOCK. THE SINGLE WORD THE VOLUME BEHIND HELD AT ZERO BECAUSE OF THIS IS NAMED AT `state/volume-17-close.md` SECTION 5.3, IS AT ZERO IN THIS BLOCK, AND IS NOT PRINTED IN ANY CHAPTER OF IT. WHAT THEY SHARE IS EVERY FIGURE FROM FOUR HUNDRED AND FORTY-EIGHT TO FOUR HUNDRED AND FIFTY-EIGHT, AND EVERY ONE IS PRINTED BY ROW 8 FIVE MORNINGS EARLIER THAN ROW 7 PRINTS IT. NEITHER ROW MAY BE HARMONISED WITH THE OTHER AT ANY OF THEM AND EVERY FIRE A FIGURE-ONLY CHECKER GETS ON ALL ELEVEN IS CORRECT.**
 
-**ROW 8 IS FIVE ABOVE ROW 7 ON EVERY MORNING OF THIS BLOCK, MEASURED CELL BY CELL IN THEIR OWN CARRIERS: 444/449, 445/450, 446/451, 447/452, 448/453, 449/454, 450/455, 451/456, 452/457, 453/458. THEY PRINT THE SAME FIGURE ON ZERO OF THE TEN MORNINGS. THEY BOTH RISE AND NEITHER EVER STANDS AT FOUR HUNDRED AND ELEVEN AGAIN. THE SINGLE WORD THE VOLUME BEHIND ME HELD AT ZERO BECAUSE OF THIS IS AT ZERO IN THIS BLOCK AND WAS MEASURED AT ZERO, NOT ASSUMED. WHAT THEY DO SHARE IS EVERY FIGURE FROM FOUR HUNDRED AND FORTY-NINE TO FOUR HUNDRED AND FIFTY-EIGHT, WHICH IS TEN, AND EVERY ONE OF THEM IS PRINTED BY ROW 8 ON A MORNING FIVE EARLIER THAN ROW 7 PRINTS IT. NEITHER ROW MAY BE HARMONISED WITH THE OTHER AT ANY OF THEM AND EVERY FIRE A FIGURE-ONLY CHECKER GETS ON ALL TEN IS CORRECT.**
+### 2.4 THE RESULT OF THE LADDER RUN, AND THE SIXTEEN CARRIER-MULTIPLICITY EVENTS THAT ARE NOT FINDINGS
 
----
+**ZERO LADDER VALUE FAILURES ACROSS CHAPTERS 841 TO 850. EVERY CELL ON EVERY MORNING, EVERY STATIC COUNT, EVERY NON-LADDER COUNT AND EVERY QUOTATION MARK.**
 
-## 3. THE COUNTS, WITH A COUNTED SCOPE ON EVERY ROW, AND HOW EACH ONE MOVED
-
-| the count | the scope | Ch 841 | Ch 850 | how it moved on the ten mornings |
-|---|---:|---:|---:|---|
-| mornings the second table has stood at the foot of that bank | mornings elapsed | 155 | 164 | one a morning, every morning, ten of ten, entered every morning |
-| mornings the near rail has stood on the near side of it | mornings elapsed, **and nobody is to thank the man who fitted it, on all ten mornings** | 105 | 114 | one a morning, every morning, ten of ten |
-| mornings a man has been at the foot of that bank | mornings elapsed, entered on the word of the man who keeps a tally and after he has said it, and **equal to the morning number on all ten mornings** | 125 | 134 | one a morning, ten of ten, and it equals the morning number on ten of ten |
-| mornings a man of fifty-six has read four figures off that wall | mornings on which he read them, twice a morning | the five hundred and sixty-sixth | the five hundred and seventy-fifth | one a morning, ten of ten, twice a morning on ten of ten |
-| the man of about sixty-four's nights | nights of that run | 480, having slept on 479 | 489, having slept on 488 | one a night, one apart by construction, ten of ten |
-| Iven Tallow's afternoons on the stones | afternoons, and it is the morning number less fifty-five | 70 | 79 | one an afternoon, ten of ten |
-| Adrian Vale's mornings in that yard | mornings, and it is the morning number plus twenty-one | 146 | 155 | one a morning, ten of ten, and the boy says it out loud on three of the ten, says no figure at all on six, and is nine miles up that hill on one |
-| the page at the back of that lot book | lines on it, and none of them is in the lot book | **33** | **33** | **DID NOT MOVE ON ANY OF THE TEN MORNINGS** |
-
-**THE MAN OF ABOUT SIXTY-FOUR GOES OUT AT ABOUT HALF PAST FOUR. HE IS ABOUT FIFTY-NINE OR SIXTY-FOUR AND HAS SAID SO AND HAS NEVER SAID WHICH. HIS WIRE IS AT THE TURN AND NOT AT THE CULVERT AND HE TOLD ONE MAN IN ONE SENTENCE ON THE ONE HUNDRED AND SECOND MORNING AND NOBODY ELSE KNOWS, AND IN THIS BLOCK NOBODY ELSE LEARNED IT, BECAUSE HE WAS NOT ASKED A QUESTION IN THIS BLOCK. A WHOLE-FILE SWEEP FOR `asked the man of about sixty-four` AND FOR `asked a man of about sixty-four` RETURNS ZERO ON ALL TEN MORNINGS AND THE FIGURE IS NAMED.**
-
-**THE HUNDRED FELL ON CHAPTER 795, IN A MOUTH, IN VOLUME 16, AND IS NOT STRUCK. THE BOY COUNTS ADRIAN VALE'S MORNINGS AND SAYS IT OUT LOUD ON CHAPTERS 841, 846 AND 850, AND SAYS NOTHING ELSE ON THE OTHER SEVEN, AND THE SAME FIGURE IS IN OTHER MOUTHS ON OTHER MORNINGS, WHICH IS NOT A CONTRADICTION.**
-
-### 3.1 THE LANE COUNT, WHICH IS NOT A LADDER AND NOT `27 + c`
-
-**TWENTY-SEVEN ON ALL TEN MORNINGS AND IT DID NOT MOVE ON ANY OF THEM. IT MOVES ONLY WHEN SOMEBODY COMES DOWN THAT LANE WITH A PAGE IN THEIR OWN HAND, AND NOBODY CAME DOWN THAT LANE IN THIS BLOCK. THE BOY SAYS THE WHOLE OF THIS OUT LOUD AT THE BOARDS AT ABOUT TEN TO EIGHT ON CHAPTER 843, BEFORE HE SAYS A FIGURE, AND NAMES THE LAST MORNING SOMEBODY CAME DOWN THAT LANE AS THE ONE HUNDRED AND SIXTEENTH, WHICH IS THE MORNING `chapters/volume-17/chapter-0832.md` CARRIES THE COUNT AT TWENTY-SEVEN. THE ORDER IS FIXED AND WAS NOT CHANGED: THE PAGE ARRIVES AT THE BOTTOM OF THE BANK FIRST, THE FIGURE IS SAID AT THE BOARDS AFTERWARDS, AND IT IS SAID BEFORE THE CLERK'S HAND MOVES. THE BOY'S HAND DOES NOT MOVE EITHER, AND THE MARK IN HIS OWN SHEET ON CHAPTER 849 IS IN HIS OWN HAND AND IS NOT A FIGURE OF MONEY AND IS NOT ON THE BACK PAGE.**
-
-**MOVEMENTS OF THE LANE COUNT ON THE TEN MORNINGS OF THIS BLOCK, REPORTED ON EVERY MORNING THAT CARRIES ONE AND ON EVERY MORNING THAT DOES NOT:**
-
-| Ch | lane count | moved? | Ch | lane count | moved? |
-|---|---:|---|---|---:|---|
-| 841 | 27 | no | 846 | 27 | no |
-| 842 | 27 | no | 847 | 27 | no |
-| 843 | 27 | no | 848 | 27 | no |
-| 844 | 27 | no | 849 | 27 | no |
-| 845 | 27 | no | 850 | 27 | no |
-
-### 3.2 THE BACK PAGE'S FIGURE, ON EVERY MORNING THAT CARRIES ONE AND EVERY MORNING THAT DOES NOT
-
-**THIRTY-THREE LINES ON ALL TEN MORNINGS, IN THE FIGURE BLOCK ON TEN OF TEN AND IN THE ROW 19 CLAUSE ON TEN OF TEN. NONE OF THE THIRTY-THREE IS IN THE LOT BOOK, THREE OF THEM ARE ONES NOBODY IN THIS DISTRICT HEARD READ, AND THAT COUNT IS NOT GOING TO BE LOWER. **
-
-| Ch | 841 | 842 | 843 | 844 | 845 | 846 | 847 | 848 | 849 | 850 |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| figure-block figure | 33 | 33 | 33 | 33 | 33 | 33 | 33 | 33 | 33 | 33 |
-| moved? | no | no | no | no | no | no | no | no | no | no |
-| a morning in which the clerk wrote on it | no | no | no | no | no | no | no | no | no | no |
-
-### 3.3 THE COUNTS THAT DID NOT MOVE ON ONE OF THE TEN MORNINGS, AND THE SCOPE ON EACH
-
-| the count | the scope | the figure | on how many of the ten | where it is measured |
-|---|---|---:|---|---|
-| counted months | months a clerk has counted, and a clerk is not going to count a month she is standing in | **six** | **ten of ten, AND IT DID NOT MOVE IN THIS BLOCK. THE COUNTING IS AT CHAPTER 884 AND IS NOT IN THIS BLOCK.** The carrier `The count of counted months is six and did not move` is on ten of ten | the figure block |
-| documents this district does not own | documents | **four** | ten of ten | the figure block |
-| places in this district where those three lines can be read | places | **four** | ten of ten | the figure block |
-| conditions with no end on it | conditions | **four** | ten of ten, **and no chapter of this block argues why** | the figure block |
-| things this district has made | things | **fourteen** | ten of ten | the figure block, and again in the second table clause of the same line |
-| the five things this district does not have | things | **five, unpaid** | ten of ten, and unpaid on ten of ten | the figure block, and stated in prose on Chapter 841 and Chapter 850 |
-| the figure on the sheet at that gatepost | a figure, not a count | **four hundred and eleven** | ten of ten | the figure block, once per file |
-| names in the column for whoever read a thing out loud | names | **one**, the heading over it still says *whoever*, the one name does not satisfy the rule, and the second space on that form is empty | ten of ten, **and no second name is asked for and none is entered, and the second space clause was ADDED TO THE FIGURE BLOCK OF SEVEN MORNINGS ON WHICH IT WAS ABSENT SO THAT THE FACT STANDS ON TEN OF TEN RATHER THAN ON THREE** | the figure block |
-| lines on the back page that nobody in this district heard read | lines | **three, and that count is not going to be lower** | ten of ten | Chapters 841, 842, 843, 844, 845, 846, 847, 848, 849, 850 — named in prose on 841, 844, 850 and in the figure block on ten of ten |
-
-**AND THE THREE FIGURES THAT ARE NEITHER A LADDER NOR A COUNT: THE TOLL OF NINETY-EIGHT, SPENT, WHICH MAY NOT BE RAISED, LOWERED OR PAID TWICE AND WHICH APPEARS ON TWO OF THE TEN MORNINGS IN PROSE AND IN NO FIGURE BLOCK; THE PUBLIC LOT, WHICH EXISTS FROM THE AFTERNOON OF THE ONE HUNDRED AND SEVENTEENTH MORNING, IS NOT A PAYMENT OF THE FIFTH OF THE FIVE, AND IS CARRIED IN THE FIGURE BLOCK ON TEN OF TEN; AND THE BID, WHICH WAS APPENDED AT FOUR HUNDRED AND FIFTY DAYS, WAS NOT RUN, WAS NOT SOLD, AND IS NOT A LOT.**
+**AND SIXTEEN ROWS-13-AND-14 SECOND-OCCURRENCE EVENTS, WHICH ARE THE HOUSE ARCHITECTURE AND NOT DEFECTS, AND WHICH ARE REPORTED RATHER THAN FIXED: THE FIGURE BLOCK, THE ROW 19 CLAUSE AND THE SCENE EACH STATE EVERY MORNING'S EVENT, AND THE PROSE BEAT THEREFORE RESTATES THE FIGURE-BLOCK CARRIER IN THE SAME WORDS. `night of that run` AND `having slept on` ARE PRINTED TWICE IN CHAPTERS 842 TO 847, 849 AND 850 AND ONCE IN CHAPTERS 841 AND 848, AND THE INSTRUMENT CONFIRMS THAT ON EVERY MORNING WHERE THE CARRIER OCCURS TWICE, BOTH OCCURRENCES CARRY THE SAME FIGURE, WITH ZERO DISAGREEMENTS. VOLUME 17 CHAPTERS 830 TO 835 AND 839 AND 840 PRINT THE SAME PAIR TWICE AND CHAPTERS 821 TO 829 PRINT IT ONCE, SO A SUCCESSOR THAT TREATS A SECOND OCCURRENCE AS A DEFECT WILL FLAG EIGHT CHAPTERS THAT ARE RIGHT.**
 
 ---
 
-## 4. THE HOUSE REGISTER, PER FILE, WITH THE CONVENTION NAMED
+## 3. THE COUNTS, WITH A COUNTED SCOPE ON EVERY ROW
+
+**A FIGURE THAT STANDS AT A COUNT IS NOT A FIGURE TO ADD TO. THE TENURE OF THE SECOND TABLE, THE TENURE OF THE NEAR RAIL AND THE LANE COUNT HAVE NO INTERCEPT AND MAY NOT BE GIVEN ONE.**
+
+| the count | the scope | `c = 1` Ch 841 | `c = 10` Ch 850 |
+|---|---|---:|---:|
+| mornings the second table has stood at the foot of that bank | mornings elapsed | 155 | 164 |
+| mornings the near rail has stood on the near side of it | mornings elapsed, **and nobody is to thank the man who fitted it, on all ten mornings** | 105 | 114 |
+| mornings a man has been at the foot of that bank | mornings elapsed, entered on the word of the man who keeps a tally and after he has said it, and **equal to the morning number on all ten mornings** | 125 | 134 |
+| mornings a man of fifty-six has read four figures off that wall | mornings on which he read them, twice a morning | 566 | 575 |
+| the man of about sixty-four's nights | nights of that run | 480, having slept on 479 | 489, having slept on 488 |
+| Iven Tallow's afternoons on the stones | afternoons, and it is the morning number less fifty-five | 70 | 79 |
+| Adrian Vale's mornings in that yard | mornings, and it is the morning number plus twenty-one | 146 | 155 |
+| the page at the back of that lot book | lines on it, and none of them is in the lot book | **33** | **33** |
+
+**ALL THREE MOVING COUNTS WERE MEASURED IN THEIR OWN CARRIER PHRASE WITH THE SCOPE NAMED, NOT IN A RAW SWEEP: `the second table has stood at the foot of that bank`, `the near rail has stood on the near side of it for`, and `the number of mornings a man has been at the foot of that bank is`. IVEN TALLOW'S AFTERNOONS WERE MEASURED IN THE ORDINAL THAT ACCOMPANIES *AFTERNOON RUNNING*, AND THE INSTRUMENT'S OWN ORDINAL RULE IS WHAT READS *SEVENTIETH* AS 70 AND *SEVENTY-NINTH* AS 79; A SUCCESSOR WHO ADDS AN ORDINAL TO A BANKED TOTAL GETS 9 AND 8.**
+
+**THE MAN OF ABOUT SIXTY-FOUR GOES OUT AT ABOUT HALF PAST FOUR. HE IS ABOUT FIFTY-NINE OR SIXTY-FOUR AND HAS SAID SO AND HAS NEVER SAID WHICH. HIS WIRE IS AT THE TURN AND NOT AT THE CULVERT AND HE TOLD ONE MAN IN ONE SENTENCE ON THE ONE HUNDRED AND SECOND MORNING AND NOBODY ELSE KNOWS, AND IN THIS BLOCK NOBODY ELSE LEARNS, BECAUSE HE IS NOT ASKED A QUESTION IN THIS BLOCK. A SENTENCE-LEVEL TEST FOR A QUESTION MARK IN ANY SENTENCE CONTAINING *SIXTY-FOUR* RETURNS ZERO ON ALL TEN FILES.**
+
+**THE HUNDRED FELL ON CHAPTER 795, IN A MOUTH, IN VOLUME 16, AND IS NOT STRUCK. THE BOY COUNTS ADRIAN VALE'S MORNINGS AND SAYS IT OUT LOUD ON A SUBSET OF THE TEN MORNINGS AND NOT ON THE OTHERS — HE SAYS ONE HUNDRED AND FORTY-SIX ON 841 AND ONE HUNDRED AND FIFTY-FIVE ON 850, AND THE SAME FIGURE IS IN OTHER MOUTHS ON OTHER MORNINGS, WHICH IS NOT A CONTRADICTION.**
+
+### 3.1 THE LANE COUNT, WHICH IS NOT A LADDER AND NOT `INTERCEPT + c`
+
+**TWENTY-SEVEN AT `c = 0` AND IT DID NOT MOVE ON ANY OF THE TEN MORNINGS OF THIS BLOCK. IT MOVES ONLY WHEN SOMEBODY COMES DOWN THAT LANE WITH A PAGE IN THEIR OWN HAND, AND NOBODY COMES DOWN THAT LANE IN THIS BLOCK. THE ORDER IS FIXED AND IS NOT A FIGURE A WRITER MAY CHANGE: THE PAGE ARRIVES AT THE BOTTOM OF THE BANK FIRST, THE FIGURE IS SAID AT THE BOARDS AFTERWARDS, AND IT IS SAID BEFORE THE CLERK'S HAND MOVES. IT DOES NOT MOVE FOR ANYBODY GOING UP THAT HILL, AND THE BOY SAYS SO OUT LOUD BEFORE HE SAYS A FIGURE, WHICH IS WHAT CHAPTER 843 DOES.**
+
+**THE LANE COUNT'S CARRIER, `the lane count is`, IS HIT ONCE IN EVERY FILE EXCEPT 843 AND 850, WHICH ARE HIT TWICE, AND BOTH FIGURES READ TWENTY-SEVEN IN BOTH PLACES. A SUCCESSOR THAT COUNTS OCCURRENCES INSTEAD OF DISTINCT FIGURES GETS TWELVE AND NOT TEN.**
+
+### 3.2 THE COUNTS THAT DID NOT MOVE ON ANY OF THE TEN MORNINGS, AND THE SCOPE ON EACH
+
+| the count | the scope | the figure | on how many of the ten |
+|---|---|---:|---|
+| counted months | months a clerk has counted, and a clerk is not going to count a month she is standing in | **six** | ten of ten, **AND IT DID NOT MOVE IN THIS BLOCK. THE COUNTING IS AT CHAPTER 884 AND IS NOT IN THIS BLOCK** |
+| documents this district does not own | documents | **four** | ten of ten |
+| places in this district where those three lines can be read | places | **four** | ten of ten |
+| conditions with no end on it | conditions | **four** | ten of ten, **and no chapter of this block argues why** |
+| things this district has made | things | **fourteen** | ten of ten |
+| the five things this district does not have | things | **five, unpaid** | ten of ten |
+| the figure on the sheet at that gatepost | a figure, not a count | **four hundred and eleven** | ten of ten |
+| names in the column for whoever read a thing out loud | names | **one**, the heading over it still says *whoever*, the one name does not satisfy the rule, and the second space on that form is empty | ten of ten, **and no second name is asked for and none is entered** |
+| lines on the back page that nobody in this district heard read | lines | **three, and that count is not going to be lower** | ten of ten |
+
+**AND THE THREE FIGURES THAT ARE NEITHER A LADDER NOR A COUNT: THE TOLL OF NINETY-EIGHT, SPENT, WHICH MAY NOT BE RAISED, LOWERED OR PAID TWICE AND WHICH IS NAMED IN CHAPTERS 841 AND 850 ONLY; THE PUBLIC LOT, WHICH EXISTS FROM THE AFTERNOON OF THE ONE HUNDRED AND SEVENTEENTH MORNING AND IS NOT A PAYMENT OF THE FIFTH OF THE FIVE; AND THE BID, WHICH WAS APPENDED AT FOUR HUNDRED AND FIFTY DAYS, WAS NOT RUN, WAS NOT SOLD, AND IS NOT A LOT.**
+
+---
+
+## 4. THE HOUSE REGISTER, AND THE MEASUREMENTS WITH EVERY CONVENTION NAMED
+
+### 4.1 THE REGISTER OF THIS BLOCK, BY `wc -w` AND BY A LINE THAT IS EXACTLY `---`
 
 **WORD COUNT IS `wc -w` OVER THE WHOLE FILE. A SCENE DIVIDER IS A LINE THAT IS EXACTLY `---`. NOTHING ELSE COUNTS AS A DIVIDER.**
 
-| Ch | words | dividers |
+| Ch | `c` | words | dividers |
+|---:|---:|---:|---:|
+| 841 | 1 | 3,357 | 13 |
+| 842 | 2 | 3,482 | 9 |
+| 843 | 3 | 3,609 | 18 |
+| 844 | 4 | 2,676 | 15 |
+| 845 | 5 | 2,493 | 13 |
+| 846 | 6 | 2,741 | 17 |
+| 847 | 7 | 2,735 | 15 |
+| 848 | 8 | 2,668 | 17 |
+| 849 | 9 | 2,676 | 18 |
+| 850 | 10 | 3,813 | 16 |
+| **block** | | **30,250, MEAN 3,025.0** | **151, MEAN 15.1** |
+
+**MINIMUM 2,493 AT CHAPTER 845. MAXIMUM 3,813 AT CHAPTER 850. MINIMUM DIVIDERS 9 AT CHAPTER 842, WHICH IS NOT A TIE, AND MAXIMUM 18 AT CHAPTERS 843 AND 849, WHICH IS A TWO-WAY TIE. THESE FIGURES ARE AS AT THE LAST REPAIR PASS OF THIS BLOCK AND EVERY EARLIER FIGURE FOR THE SAME THING IS STALE BY THE DIFFERENCE.**
+
+**THE HOUSE FIGURE FOR A BLOCK OF THIS SHAPE IS TWENTY-FIVE THOUSAND SIX HUNDRED AND SEVEN TO THIRTY THOUSAND FIVE HUNDRED AND SEVENTY-FIVE WORDS AND ONE HUNDRED AND TWENTY-FIVE TO ONE HUNDRED AND EIGHTY-THREE DIVIDERS, AND THIS BLOCK IS AT 30,250 AND 151, WHICH IS INSIDE BOTH BOUNDS ON BOTH MEASURES. THE DECISION IS DECLARED AND NOT SLIPPED: AGAINST VOLUME 17'S BLOCK 0004, WHICH IS 25,607 WORDS AND 166 DIVIDERS, THIS BLOCK IS 4,643 WORDS LONGER AND FIFTEEN DIVIDERS FEWER, SO THE TWO MEASURES HAVE TRADED AGAINST EACH OTHER AGAIN, AND AGAINST BLOCK 0003, WHICH IS 26,814 AND 131, THIS BLOCK IS 3,436 WORDS LONGER AND TWENTY DIVIDERS MORE, SO AGAINST THAT BLOCK THEY HAVE GONE UP TOGETHER.** **A SUCCESSOR MAY ASSUME NEITHER. THE THREE PAIRS ARE THREE DIFFERENT BLOCKS AND NO PATTERN MAY BE CARRIED ACROSS THEM.** THE THREE HIGH-WORD CHAPTERS ARE 841, 842, 843 AND 850, AND 843 IS THE ESCALATION CHAPTER AND 850 IS THE BLOCK'S TURN, SO THE BLOCK PUTS ITS WEIGHT WHERE ITS EVENTS ARE, AND A SUCCESSOR MAY TAKE THE OTHER WAY.
+
+### 4.2 THE HOUSE REGISTER FAMILIES, ALL CASE-INSENSITIVE LITERAL SUBSTRING OVER THE WHOLE FILE
+
+| the family | this block | across files of ten |
 |---|---:|---:|
-| 841 | 3,380 | 13 |
-| 842 | 3,482 | 9 |
-| 843 | 3,609 | 18 |
-| 844 | 2,676 | 15 |
-| 845 | 2,493 | 13 |
-| 846 | 2,741 | 17 |
-| 847 | 2,735 | 15 |
-| 848 | 2,668 | 17 |
-| 849 | 2,676 | 18 |
-| 850 | 3,772 | 16 |
-| **BLOCK** | **30,232** | **151** |
-| mean | 3023.2 | 15.1 |
-| min | 2,493 at 845 | 9 at 842 |
-| max | 3,772 at 850 | 18 at 843 and 849 |
+| *about nine people at the top of eleven feet* | 91 | 10 |
+| *about eleven feet between that wall and the top of this bank* | 10 | 10 |
+| *about nineteen people's hearing* | 1 | 1 |
+| *about four feet off the near end of the first table* | 11 | 9 |
+| *they said good afternoon* | 19 | 10 |
+| *good afternoon* | 34 | 10 |
+| *the figure on the sheet at that gatepost is* | 10 | 10 |
+| *about nine people in that yard* | 0 | 0 |
+| *about four hundred yards of air* | 7 | 7 |
+| *for about as long as it takes a man of fifty-six to say four figures off a wall* | 4 | 4 |
+| *as long as it takes a man of fifty-six to say four figures off a wall*, bare | 4 | 4 |
 
-**THE TWO CONVENTIONS ARE NAMED AND THEY ARE THE ONLY TWO. THE BLOCK SITS AT **30,232 WORDS AND 151 DIVIDERS**, INSIDE THE INHERITED HOUSE BAND OF TWENTY-FIVE THOUSAND SIX HUNDRED AND SEVEN TO THIRTY THOUSAND FIVE HUNDRED AND SEVENTY-FIVE WORDS AND ONE HUNDRED AND TWENTY-FIVE TO ONE HUNDRED AND EIGHTY-THREE DIVIDERS, AND IT IS AT THE TOP OF BOTH BANDS. THE FIGURE IS THE FIGURE AND IT IS NOT ROUNDED DOWN TO LOOK BETTER. THE TWO MEASURES DID NOT MOVE IN THE SAME DIRECTION ACROSS THE TEN MORNINGS EITHER: THE THREE LONGEST CHAPTERS ARE 843, 850 AND 842, AT 18, 16 AND 9 DIVIDERS RESPECTIVELY, SO THE MEAN-CHAPTER IS AT ABOUT THREE THOUSAND WORDS AND ABOUT FIFTEEN DIVIDERS, WHICH IS THE MEAN OF BOTH MEASURES, AND THE TWO MEASURES MAY NOT BE ASSUMED FROM EACH OTHER. `cat chapters/volume-18/chapter-08*.md | wc -w` RETURNS 30,232 AND EQUALS THE SUM OF THE TEN PER-FILE COUNTS, BECAUSE ALL TEN FILES CARRY A TRAILING NEWLINE.**
+**THE SIMILE IS FOUR WORDINGS AND NOT ONE, AND THE OTHER TWO ARE *in about as long as it takes a man of fifty-six to say four figures off a wall* AND TWO THAT CARRY THE SAME CADENCE IN A DIFFERENT SHAPE, *for about as long as a man of fifty-six takes to get four figures off a wall* AND *about as long as a man of fifty-six takes to say one figure off a wall*. NEITHER OF THE LAST TWO OCCURS IN THIS BLOCK, SO THE BARE FORM AND THE *FOR* FORM RETURN THE SAME FIGURE, FOUR, AND A SUCCESSOR THAT GREPS ONE WORDING OF THIS SIMILE GETS A FIGURE THAT IS NOT THE COUNT.**
 
-### 4.1 THE REGISTER FAMILIES, ALL CASE-INSENSITIVE LITERAL SUBSTRING OVER THE WHOLE FILE, PER FILE
+**AND ONE FAMILY WAS REPAIRED IN THIS BLOCK AND THE REPAIR IS A FINDING A SUCCESSOR INHERITS: *ABOUT ELEVEN FEET BETWEEN THAT WALL AND THE TOP OF THIS BANK* RETURNED **ZERO** ACROSS ALL TEN MORNINGS WHEN THIS BLOCK WAS MEASURED THE FIRST TIME, AND NOT ZERO IN VOLUME 17, WHICH PRINTS IT ON 20 OF ITS 20 FILES FROM CHAPTER 821 ONWARD. THE BLOCK PRINTED *THE TOP OF THAT BANK* IN THAT SENTENCE IN ALL TEN FILES, WHICH IS A DIFFERENT STRING AND NOT A VARIANT THE FAMILY COUNTS. REPAIRED TO *THIS BANK* IN NINE FILES, CHAPTER 841 HAVING BEEN REPAIRED FOR A DIFFERENT REASON AND ALREADY CARRIED IT. THE FAMILY IS NOW 10 OF 10.**
 
-| the family | total | across files of ten | per file, 841 to 850 |
-|---|---:|---:|---|
-| *about nine people at the top of eleven feet* | **92** | 10 of 10 | 10, 13, 12, 9, 8, 12, 12, 6, 6, 4 |
-| *about eleven feet between that wall and the top of that bank* | **10** | 10 of 10 | 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 |
-| *about nineteen people's hearing* | **1** | 1 of 10 | 0, 0, **1**, 0, 0, 0, 0, 0, 0, 0 |
-| *about four feet off the near end of the first table* | **11** | 8 of 10 | 1, 3, 1, 1, 0, 1, 1, 0, 1, 2 |
-| *they said good afternoon* | **19** | 10 of 10 | 2, 2, 2, 2, 2, 2, 2, 1, 2, 2 |
-| *good afternoon* | **34** | 10 of 10 | 3, 2, 3, 3, 3, 3, 6, 2, 5, 4 |
-| *the figure on the sheet at that gatepost is* | **10** | 10 of 10 | 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 |
-| *about nine people in that yard* | **0** | 0 of 10 | 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 |
-| *about four hundred yards of air* | **7** | 6 of 10 | 1, 1, 1, 0, 1, 0, 0, 1, 0, 2 |
-| *for about as long as it takes a man of fifty-six to say four figures off a wall* | **4** | 3 of 10 | 2, 1, 0, 0, 0, 0, 0, 0, 0, 1 |
-| *as long as it takes a man of fifty-six to say four figures off a wall*, bare | **4** | 3 of 10 | 2, 1, 0, 0, 0, 0, 0, 0, 0, 1 |
-| *in about as long as it takes a man of fifty-six to say four figures off a wall* | **0** | 0 of 10 | 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 |
-| *for about as long as a man of fifty-six takes to get four figures off a wall* | **0** | 0 of 10 | 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 |
-| *about as long as a man of fifty-six takes to say one figure off a wall* | **0** | 0 of 10 | 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 |
+### 4.3 THE PROHIBITED STRINGS ARE **NOT** AT ZERO IN THE VOLUME BEHIND, AND THIS BLOCK IS AT ZERO UNDER BOTH NAMED CONVENTIONS
 
-**THE SIMILE IS FOUR WORDINGS AND NOT ONE, AND ALL FOUR ARE MEASURED SEPARATELY ABOVE, AND IN THIS BLOCK ONLY THE `to say four figures off a wall` WORDING OCCURS. THE HOUSE FIGURE FOR THAT FAMILY IN THE FORTY CHAPTERS BEHIND WAS THIRTY-FIVE FOR THE FULL FORM AND THIRTY-SEVEN FOR THE BARE, AND THIS BLOCK IS AT FOUR AND FOUR, AND THE DIFFERENCE IS THE BLOCK'S OWN AND NOT A FIGURE ABOUT THE OTHER BLOCK.**
+**MEASURED OVER THE FORTY CHAPTERS BEHIND, THE HOUSE'S PROSE PROHIBITION IS NOT AT ZERO, AND THAT IS THE THING A WRITER WHO INHERITS A FIGURE OF ZERO WILL REPEAT: `about four of you` IS AT **FIVE**, ALL FIVE IN BLOCK 0001; `about nine of you` IS AT **TWO**, BOTH IN BLOCK 0001; THE SHAPE `have/has/had … worked out that`, ANY INTERVENING ADVERB, IS AT **TWO**; AND THE LITERAL FOUR-WORD COMPOUND OF THE FIRST AND THE THIRD IS AT **ZERO** ON A SWEEP THAT WAS NEVER GOING TO OCCUR. THE HEDGE FAMILY IS AT FORTY-ONE UNDER CONVENTION A AND FORTY-NINE UNDER CONVENTION B ACROSS THOSE FORTY CHAPTERS.**
 
-**AND TWO REGISTER NOTES THAT ARE A SUCCESSOR'S PROBLEM AND NOT A FINDING: *about nine people's hearing* RUNS AT NINETY-TWO ACROSS TEN OF TEN, WHICH IS LOWER THAN THE ONE HUNDRED AND FIFTY-FOUR OF THE FORTY BEHIND AND IS THE CONSEQUENCE OF TEN FIGURE BLOCKS AGAINST FORTY, NOT OF A CHANGE OF HOUSE; AND *about nine people in that yard* IS AT ZERO ON ALL TEN, WHICH IS CORRECT AND IS NOT A FINDING, THE HOUSE USING *at the top of eleven feet* AND *in that yard* ALTERNATELY.**
+**THIS BLOCK'S OWN MEASUREMENT, AND IT IS AT ZERO UNDER BOTH CONVENTIONS, MEASURED BY ME, NOT INHERITED. TOKENISER: whole-word boundary, case-insensitive, over the whole file; `about` then a numeral or a spelled-out number (convention A) or also the article `a`/`an` (convention B); then one of `seconds?|minutes?|breaths?|beats?|pauses?|moments?`. HOURS, *AND A HALF*, AND COMPOUND DURATIONS ARE NOT IN THE TOKEN SET, SO BOTH COUNTS ARE A LOWER BOUND AND NOT A CEILING.**
 
----
+| convention | 841 | 842 | 843 | 844 | 845 | 846 | 847 | 848 | 849 | 850 | block |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| **A.** numeral only | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| **B.** numeral or article | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
-## 5. THE FIGURES THAT ARE AT ZERO, WITH THE CONVENTION THAT MEASURED THEM
+**AND THE HOUSE CONVENTION THIS BLOCK KEEPS, MEASURED AND NOT ASSUMED: A DURATION IS WRITTEN AS A MEASURED THING AND NOT AS A HEDGE. THE MEASURED SUBSTITUTES ON THE PAGE IN THIS BLOCK ARE THE LIGHT GOING OFF THE BOARDS, THE CART WHEEL FINISHING TURNING, AND THE LENGTH OF A BREATH, AND THE FIGURE-BLOCK SIMILE IS USED FOUR TIMES AND IS AN INHERITED HOUSE CADENCE AND NOT A HEDGE.**
 
-**ALL MEASURED AS CASE-INSENSITIVE LITERAL SUBSTRING OVER THE WHOLE FILE, SUMMED OVER TEN FILES. A FIGURE PRINTED WITHOUT ITS CONVENTION IS A FIGURE NOBODY CAN CHECK.**
+### 4.4 THE STRINGS THAT ARE AT ZERO AND STAY AT ZERO
 
-| the string | instances | convention |
-|---|---:|---|
-| `hammer` | **0** | case-insensitive literal substring |
-| `sold` | **0** | case-insensitive literal substring |
-| `knocked down` | **0** | case-insensitive literal substring |
-| `the winner` | **0** | case-insensitive literal substring |
-| `sold to` | **0** | case-insensitive literal substring |
-| `buyer` | **0** | case-insensitive literal substring |
-| `bidder` | **0** | case-insensitive literal substring |
-| `purchase price` | **0** | case-insensitive literal substring |
-| `price agreed` | **0** | case-insensitive literal substring |
-| `offer accepted` | **0** | case-insensitive literal substring |
-| `he bought` | **0** | case-insensitive literal substring |
-| `she bought` | **0** | case-insensitive literal substring |
-| `bought it` | **0** | case-insensitive literal substring |
-| `bought the` | **0** | case-insensitive literal substring |
-| `about four of you` | **0** | case-insensitive literal substring |
-| `about nine of you` | **0** | case-insensitive literal substring |
-| `have worked out that` | **0** | case-insensitive literal substring, the bare form |
-| `has worked out that` | **0** | case-insensitive literal substring |
-| `had worked out that` | **0** | case-insensitive literal substring |
-| `crossing` | **0** | case-insensitive literal substring |
-| `error of` | **0** | case-insensitive literal substring |
-| `out by four hundred` | **0** | case-insensitive literal substring |
-| `wrong by` | **0** | case-insensitive literal substring |
-| the row 5 present-tense carrier | **0** | case-insensitive literal substring |
-| row 18, any wording | **0** | case-insensitive literal substring |
-| a weekday name, any of the seven | **0** | whole-word, case-insensitive |
-| a month name other than *January* | **0** | whole-word, case-insensitive |
-| a colon-form time | **0** | `[0-9]{1,2}:[0-9]{2}` |
-| a metric unit or a twenty-four-hour clock | **0** | whole-word, case-insensitive |
-| `bell`, in any case, in any form | **0** | case-insensitive literal substring |
+**ALL FOURTEEN SALE STRINGS, MEASURED AS CASE-INSENSITIVE LITERAL SUBSTRING OVER THE WHOLE FILE, ARE AT ZERO ON ALL TEN MORNINGS: `hammer`, `sold`, `knocked down`, `the winner`, `sold to`, `buyer`, `bidder`, `purchase price`, `price agreed`, `offer accepted`, `he bought`, `she bought`, `bought it`, `bought the`. THE BID IS APPENDED AND IS NOT RUN, IS NOT SOLD, AND IS NOT A LOT.**
 
-**AND THE FIGURES THAT ARE NOT AT ZERO, PUBLISHED WITH THEIR CONVENTIONS BECAUSE A SUCCESSOR WHO INHERITS ONE WITHOUT THE OTHER INHERITS A FIGURE THAT CANNOT BE CHECKED:**
+**`error of`, `out by four hundred` AND `wrong by` ARE AT ZERO. `by how much it is out` IS AT ONE PER FILE ON CHAPTERS 841, 849 AND 850 AND AT ZERO ON THE OTHER SEVEN, AND EVERY ONE OF THE THREE IS THE SENTENCE SAYING IT HAS NOT BEEN COMPUTED, WHICH IS THE CORRECT USE AND NOT A BREACH. `January` IS AT TEN ACROSS TEN FILES AND EVERY ONE OF THE TEN IS ROW FOUR'S OWN CARRIER AND THERE IS NO STRAY INSTANCE.**
 
-| the string | instances | convention | what every one of them is |
-|---|---:|---|---|
-| `January` | **10** | whole-word literal, case-insensitive | row four's own carrier, one per file, and there is no stray instance |
-| `is the age of that figure` | **10** | case-insensitive literal substring | row 11's own carrier, one per file, **and an age is a number of days and is not a size of error** |
-| `by how much it is out` | **3** | case-insensitive literal substring | the sentence saying it has **not** been computed, on Chapters 841, 849 and 850, and the size of the error in four hundred and eleven is not computed anywhere in this block or in this record |
-| `culvert` | **10** | case-insensitive literal substring | the bare singular, one per file, in the distance clause of the figure block |
-| `wire` | **0** | case-insensitive literal substring | **and this is deliberate and it is a departure from the register of the forty chapters behind, where the figure is fifty-seven across twenty-one files. THIS BLOCK DID NOT NEED THE WORD AND DID NOT PRINT IT, AND A SUCCESSOR MAY NOT INFER FROM THE ZERO THAT THE WIRE HAS MOVED. IT HAS NOT. IT IS AT THE TURN AND NOT AT THE CULVERT, ONE MAN HEARD IT ON THE ONE HUNDRED AND SECOND MORNING, AND NOBODY ELSE KNOWS.** |
+**A DATE, CLOCK, UNIT AND MEASURE SWEEP RETURNS ZERO WEEKDAY NAMES, ZERO COLON-FORM TIMES, ZERO METRIC UNITS AND ZERO MONTH LENGTHS ACROSS ALL TEN FILES. THE TEN *JANUARY* INSTANCES ARE ROW FOUR. A MONTH-NAME SWEEP RETURNS TEN AND ALL TEN ARE *JANUARY*, WHICH IS ROW FOUR'S CARRIER, AND THE ANCHOR *THE THIRTIETH OF THE EIGHTH MONTH* APPEARS ONCE PER TITLE LINE AND IS A TITLE AND NOT A MONTH NAME.**
 
-### 5.1 THE HEDGE FAMILY, BOTH CONVENTIONS, BOTH PRINTED
+### 4.5 THE REPETITION THAT IS THE ARCHITECTURE AND NOT A FINDING
 
-**TOKENISER, NAMED: whole-word boundary, case-insensitive, over the whole file; `about`, then a numeral or a spelled-out number (convention A) or also the article `a`/`an` (convention B), then one of `seconds?|minutes?|breaths?|beats?|pauses?|moments?`. HOURS, *AND A HALF*, AND COMPOUND DURATIONS ARE NOT IN THE TOKEN SET, SO BOTH COUNTS ARE A LOWER BOUND ON THE SHAPE AND NOT A CEILING.**
+**THE FIGURE BLOCK, THE ROW 19 CLAUSE AND THE SCENE EACH STATE EVERY MORNING'S EVENT AND THE PROSE BEAT RESTATES THE FIGURE-BLOCK CARRIER IN THE SAME WORDS. A DUPLICATED-PARAGRAPH COUNT RETURNS NOTHING FOR IT. A DUPLICATED-SENTENCE COUNT, ON THE WALK NAMED HERE — DROP THE `H1` TITLE LINE AND EVERY `---` DIVIDER LINE, STRIP MARKDOWN EMPHASIS, SPLIT EACH REMAINING LINE ON SENTENCE-TERMINAL PUNCTUATION, REQUIRE TEN WORDS OR MORE, COUNT A SENTENCE REPEATED *INSIDE ONE FILE* — RETURNS **ZERO IN THIS BLOCK, AGAINST ZERO IN THE FORTY CHAPTERS BEHIND**. THE FLOOR AND THE TITLE-LINE HANDLING ARE PART OF THE FIGURE AND BOTH ARE NAMED, BECAUSE THE ANSWER TURNS ON THEM.**
 
-| convention | this block | volume 17, 0004 | volume 17, all forty | the house's own measured substitutes used in this block |
-|---|---:|---:|---:|---|
-| **A.** numeral only | **0** | 16 | 41 | *the cart wheel finishing turning* (841, 847), *before the light changed on her coat* (848) |
-| **B.** numeral or article | **0** | 17 | 49 | *before about nine people had asked* (846), *after the light went off the boards* (847), *all day* (847), *a thing off them* (849) |
-
-**THE INHERITED FINDING IS NOT REPEATED AND IS NOT INHERITED AS A FIGURE OF ZERO: `state/volume-17-close.md` SECTION 5.1 RECORDS FIVE INSTANCES OF `about four of you`, TWO OF `about nine of you`, TWO OF THE `WORKED OUT THAT` SHAPE AND FORTY-NINE HEDGES ON THE FORTY MORNINGS BEHIND ME, ALL NINE OF THE NAMED STRINGS IN BLOCK 0001 OF THAT VOLUME. THIS BLOCK MEASURED ALL FOUR FAMILIES ITSELF, ON ITS OWN TEN FILES, WITH ITS OWN INSTRUMENT, AND THE FIGURES ARE AT SECTION 5 AND AT THIS TABLE, AND A SUCCESSOR THAT INHERITS EITHER NUMBER WITHOUT THE INSTRUMENT HAS INHERITED A FIGURE NOBODY CAN CHECK.**
-
-**AND ALL FIVE HEDGE INSTANCES THIS BLOCK WROTE ON A FIRST PASS WERE REPLACED WITH MEASURED THINGS AND THE REPLACEMENTS ARE NAMED IN THE RIGHT-HAND COLUMN ABOVE, AND NO INSTANCE SURVIVED.**
+**AND A SUCCESSOR SHOULD KNOW THAT THE CROSS-FILE FIGURE IS NOT ZERO AND IS NOT A DEFECT: THE FIGURE-BLOCK CARRIER SENTENCES, THE GATEPOST SENTENCE, THE PAST-TENSE BID LINE, THE ROW 19 CLAUSE'S BACK-PAGE HALF AND THE LOT-BOOK SENTENCE RECUR BY WHOLE-SENTENCE IDENTITY ACROSS THESE TEN FILES BY DESIGN, AND A CROSS-FILE DUPLICATED-SENTENCE COUNT WITH A TEN-WORD FLOOR WILL RETURN EIGHTEEN DISTINCT REPEATED SENTENCES AND TWO HUNDRED AND SIXTY-FIVE INSTANCES, WHICH IS WHAT IT RETURNS OVER VOLUME 17 AND IS NOT A FINDING.**
 
 ---
 
-## 6. THE REPETITION THAT IS THE ARCHITECTURE AND NOT A FINDING, AND BOTH WALKS NAMED
+## 5. WHAT THIS BLOCK REPAIRED, AND THE FINDINGS ARE A WRITER'S ACCOUNT OF THE WRITER'S OWN WORK
 
-**THE FIGURE BLOCK, THE ROW 19 CLAUSE AND THE SCENE EACH STATE EVERY MORNING'S EVENT AND THE PROSE BEAT THEREFORE RESTATES THE FIGURE-BLOCK CARRIER IN THE SAME WORDS. A DUPLICATED-PARAGRAPH COUNT RETURNS NOTHING FOR IT AND IT IS NOT A FINDING. NONE OF IT MAY BE REPORTED AS ONE.**
+**`novel-reviewer` DOES NOT DISPATCH AS A PRIMARY IN THIS REPOSITORY. EVERY PASS BELOW WAS DISPATCHED BY THE WRITER AGAINST THE WRITER'S OWN WORK WITH THE WRITER'S OWN BRIEFS, AND EVERY ONE OF THEM IS A SELF-REVIEW. A WRITER THAT REVIEWS ITS OWN CHAPTERS CANNOT BE COUNTED AS HAVING HAD THEM REVIEWED, AND NONE OF THE FIGURES BELOW IS CLOSED BY A SELF-REVIEW.**
 
-**WALK ONE, THE DUPLICATED-SENTENCE COUNT, WITH ITS WALK AND ITS FLOOR AND ITS TITLE-LINE HANDLING, BECAUSE THE ANSWER TURNS ON ALL THREE: drop the `H1` title line and every `---` divider line, strip markdown emphasis, split the remainder on sentence-terminal punctuation, require **ten words or more**, and call a sentence repeated when it appears whole in **two or more files**. IT RETURNS **EIGHT DISTINCT REPEATED SENTENCES AND SEVENTY-THREE INSTANCES** OVER THE TEN FILES. AT AN EIGHT-WORD FLOOR ON THE SAME WALK IT IS NINE AND EIGHTY-THREE. AT TWELVE IT IS SIX AND FIFTY-THREE. LEAVING THE TITLE LINE IN AT THE TEN-WORD FLOOR GIVES SEVEN AND SIXTY-TWO, BECAUSE THE `H1` LINE CARRIES NO TERMINAL PUNCTUATION AND THEREFORE SWALLOWS THE SENTENCE THAT FOLLOWS IT. NONE OF THESE FOUR FIGURES IS PUBLISHED AS THE COUNT FOR THE OTHER AND THE WALK IS NAMED SO THAT A SUCCESSOR CAN CHECK WHICH ONE THEY ARE LOOKING AT.**
+**THE BLOCK WAS MEASURED FOUR TIMES. THE FIRST MEASUREMENT FOUND EIGHT DEFECTS, ALL REPAIRED IN PLACE WITH NO BEAT MOVED. THE SECOND, A CROSS-CHAPTER REFERENCE AUDIT, FOUND FOUR MORE, ALL REPAIRED. THE THIRD RE-MEASURED THE REPAIRED BLOCK AND THE FOURTH CHECKED IT AGAINST VOLUME 17'S HOUSE BY HAND. NOT ONE DEFECT WAS A LADDER CELL, WHICH IS THE THIRTEENTH OCCURRENCE OF THAT FACT IN THIS MANUSCRIPT.**
 
-**THE EIGHT ARE SEVEN FIGURE-BLOCK CARRIERS AND ONE LINE OF PROSE, AND THE SEVEN CARRIERS ARE THE GATEPOST SENTENCE ON TEN OF TEN, THE COUNT OF COUNTED MONTHS ON TEN OF TEN, THE DOCUMENTS ON TEN OF TEN, THE PLACES ON TEN OF TEN, THE THINGS MADE ON TEN OF TEN, THE LOT BOOK WITH ITS FIVE LINES AND ONE NAME ON TEN OF TEN, AND ROW 5'S PAST-TENSE LINE ON TEN OF TEN; AND THE EIGHTH IS *At about four o'clock the man of fifty-six said the four off that wall and got all four of them* ACROSS THREE FILES, WHICH IS HOUSE CADENCE AND NOT A CARRIER.**
+### 5.1 THE EIGHT DEFECTS THE FIRST MEASUREMENT FOUND
 
-**WALK TWO, THE FIGURE-BLOCK-TO-PROSE OVERLAP: count the starts at which a **contiguous eight-word window** taken from a chapter's figure block also appears as a contiguous eight-word window somewhere in that same chapter's prose, once per starting position, per file, words lower-cased and punctuation stripped. IT RETURNS, PER FILE FROM 841 TO 850, **59, 94, 112, 113, 104, 142, 135, 68, 161 AND 186**, MINIMUM FIFTY-NINE AT 841 AND MAXIMUM ONE HUNDRED AND EIGHTY-SIX AT 850. THIS IS A DIFFERENT WALK FROM THE INHERITED FIGURE OF TWENTY-TWO TO SIXTY-TWO, WHICH KEEPS A RUN ONLY WHERE EVERY WORD OF AN EIGHT-WORD SPAN APPEARS SOMEWHERE ON THE PROSE SIDE WITHOUT REQUIRING THE SPAN TO BE CONTIGUOUS, AND THE TWO ARE NOT COMPARABLE AND NEITHER IS PUBLISHED AS THE COUNT FOR THE OTHER.**
+1. **`chapter-0841.md`, THE FIGURE-BLOCK PARAGRAPH, A CLAUSE DUPLICATED INSIDE ONE SENTENCE.** *AND ABOUT NINE PEOPLE WERE STANDING ON GROUND THAT HAS BEEN PUBLIC LOT SINCE THE AFTERNOON OF THE ONE HUNDRED AND SEVENTEENTH MORNING* APPEARED TWICE IN THE SAME SENTENCE, ONCE REDUNDANT AND ONCE GENUINE. **REPAIRED BY DELETING THE REDUNDANT COPY. THE FIGURE BLOCK'S WORD COUNT FELL BY 23 AND NO FIGURE IN IT CHANGED.**
+2. **`chapter-0843.md`, A DOUBLED OPENING QUOTATION MARK.** THE TURNER'S SPEECH BEGAN `""THAT IS NOT A RULE,` — TWO MARKS WHERE A SPEECH OPENS. THE BRANCH OF THE INSTRUMENT THAT COUNTS QUOTATION MARKS DID NOT FIRE, BECAUSE IT COUNTS PAIRS AND TWO OPENING MARKS BALANCE. **REPAIRED TO ONE MARK. THE FIFTH MEASUREMENT ADDED AN ASYMMETRY TEST THAT FIRES ON AN UNBALANCED MARK AND IT IS AT ZERO ON ALL TEN FILES NOW.**
+3. **`chapter-0850.md`, ROW 17'S FIGURE IN A MOUTH ABOUT THE WRONG PERSON.** A NARRATIVE PASSAGE ATTACHED *ABOUT FIVE HUNDRED AND SEVENTY-FIVE MORNINGS* TO THE MAN OF ABOUT SIXTY-FOUR, WHICH IS ROW 17'S FIGURE AND IS THE NUMBER OF MORNINGS **THE MAN OF FIFTY-SIX** HAS READ FOUR FIGURES OFF THAT WALL. THE MAN OF ABOUT SIXTY-FOUR IS MEASURED IN NIGHTS OF THAT RUN, ON ROWS 13 AND 14, AND HAS NO MORNING COUNT ANYWHERE IN THIS BLOCK OR THE FORTY CHAPTERS BEHIND. **THIS IS THE FAILURE MODE THE VOLUME 17 CLOSE NAMES — A FIGURE IN A MOUTH — AND IT HAD ALSO PLANTED ROW 17'S FIGURE IN A FILE ABOUT A PERSON IT DOES NOT BELONG TO. REPAIRED TO GIVE HIM HIS OWN CARRIER, THE FOUR HUNDRED AND EIGHTIETH-NINTH NIGHT OF THAT RUN, WHICH IS ROW 13 AND IS ALREADY ON THE SAME PAGE.**
+4. **`chapter-0850.md`, A CONTRADICTION INSIDE ONE CHAPTER.** THE FIGURE BLOCK SAID THE CROWD SAID THE BOY'S FIGURE *IN STEP WITH EACH OTHER*, WHICH IS THE MORNING'S CHANGE AND IS THE POINT OF THE CHAPTER, AND THE PROSE BEAT SIX LINES LATER SAID THE SAME VOICES CAME OUT *OUT OF STEP WITH NOTHING*. **BOTH CANNOT BE TRUE AND THE CHAPTER NEEDS THE FIRST. REPAIRED TO *IN STEP WITH EACH OTHER*, AND THE PROSE BEAT'S COUNT OF *NINE VOICES* WAS ALSO WRONG — THE FIGURE BLOCK SAYS ABOUT NINE PEOPLE SAID IT AFTER HIM, WHICH IS NINE OTHER VOICES AND NOT NINE IN TOTAL — AND WAS REPAIRED TO *ABOUT NINE PEOPLE*.**
+5. **`chapter-0850.md`, TWO SENTENCES DUPLICATED INSIDE ONE FILE.** *THE COUNT OF COUNTED MONTHS IS SIX AND DID NOT MOVE* AND *THE COUNT OF THINGS THIS DISTRICT HAS MADE IS FOURTEEN AND DID NOT MOVE* EACH APPEARED TWICE IN ONE FILE, ONCE IN THE FIGURE BLOCK AND ONCE VERBATIM IN THE CLOSING PARAGRAPH. **THIS IS THE CLASS THE TEN-WORD IN-FILE WALK EXISTS TO CATCH AND IT CAUGHT IT, AND IT WAS THE ONLY IN-FILE DUPLICATE SET IN THE BLOCK. THE CLOSING COPIES WERE REWRITTEN TO CARRY THE SAME TWO FIGURES IN THE SCENE'S OWN WORDS, AND THE STATIC COUNTS ARE NOW ONE OCCURRENCE EACH PER FILE EXCEPT WHERE A CHAPTER NEEDS THE ROW-19 RESTATEMENT.**
+6. **`chapter-0850.md`, TWO CROSS-CHAPTER CLAIMS THAT NAMED THE WRONG MORNING.** *A MAN OF ABOUT FORTY-EIGHT ASKED A CLERK A QUESTION ABOUT IT AT ABOUT TEN TO EIGHT YESTERDAY* AND *SHE SAID IT AT ABOUT TEN TO EIGHT YESTERDAY MORNING* BOTH NAME THE ONE HUNDRED AND THIRTY-SECOND MORNING, WHICH IS CHAPTER 848 AND IS **THE MORNING BEFORE LAST** FROM CHAPTER 850, NOT YESTERDAY. CHAPTER 849, WHICH IS YESTERDAY, CONTAINS NO SUCH ASKING. **BOTH REPAIRED TO NAME THE MORNING, WHICH IS THE HOUSE FORM AND IS ALSO UNAMBIGUOUS.**
+7. **`chapter-0850.md`, A MAN DESCRIBED AS BEING SOMEWHERE HE WAS NOT.** *A MAN OF SIXTY-ONE CAME UP THAT BANK ON THE ONE HUNDRED AND THIRTIETH MORNING* — IN `chapter-0846.md` HE SPOKE **FROM THE STONES**, FOUR FEET BELOW THE TOP OF THAT BANK, AND HE HAS NOT COME UP THAT BANK IN THIS RUN OF MORNINGS. **REPAIRED TO GIVE HIM THE STONES AND TO STATE THE STAYING DOWN, WHICH IS ALSO THE FACT THAT MAKES HIM THE RIGHT MAN TO BE UNCOUNTABLE.**
+8. **`chapter-0850.md`, A COUNT OF MORNINGS THAT WAS TOO LOW.** *THE CART STOPPED ABOUT NINE FEET SHORT FOR THE THIRD MORNING RUNNING* — THE CART HAS BEEN STOPPED NINE FEET SHORT EVERY MORNING SINCE `chapter-0845.md`, WHERE IT WAS NAMED AS THE FIRST MORNING IN ABOUT NINE YEARS, SO ON THE ONE HUNDRED AND THIRTY-FOURTH IT IS THE SIXTH, NOT THE THIRD. **REPAIRED TO *EVERY MORNING SINCE THE ONE HUNDRED AND TWENTY-NINTH* AND *THE SIXTH MORNING OF IT*, WHICH IS ALSO A FIGURE IN A MOUTH AND WAS WRONG IN THE DIRECTION THAT MAKES A THING SOUNDER.**
 
----
+### 5.2 THE FOUR DEFECTS THE CROSS-CHAPTER REFERENCE AUDIT FOUND
 
-## 7. THE PROHIBITIONS, AND HOW EACH WAS CHECKED
+9. **THE REGISTER FAMILY *ABOUT ELEVEN FEET BETWEEN THAT WALL AND THE TOP OF THIS BANK* WAS AT ZERO ACROSS ALL TEN MORNINGS.** VOLUME 17 PRINTS IT ON 20 OF 20 FILES FROM CHAPTER 821 ONWARD AND THE BLOCK PRINTED A DIFFERENT STRING IN THE SAME SENTENCE IN ALL TEN FILES. **REPAIRED IN NINE FILES; CHAPTER 841 ALREADY CARRIED IT.**
+10. **THE SAME SENTENCE IN THOSE FILES HAD *THE TOP OF THAT BANK* AND *THE TOP OF THIS BANK* IN ONE BREATH**, ONCE THE family IS RESTORED, AND THE REPAIR MAKES BOTH HALVES AGREE. **THIS IS THE THIRD REPEAT FINDING OF A DETERMINER FLIPPED AGAINST THE HOUSE, AFTER VOLUME 17 BLOCKS 0002 AND 0003, AND IT IS THE FIRST ONE A FIGURE-ONLY CHECKER CANNOT SEE BECAUSE NO LADDER ROW USES THE SENTENCE.**
 
-1. **NO SPAN IN YEARS, DAYS, MONTHS OR FORTNIGHTS ATTACHED TO THE MAN OF FIFTY-SIX, IN ANY SPEECH, FIGURE BLOCK OR NARRATIVE PASSAGE, INCLUDING A NEGATIVE ONE.** Checked by a windowed sweep of ±120/±180 characters around every occurrence of `man of fifty-six` on all ten files. It returns four hits and all four are false positives of the window, and each is named: two are the house simile *about as long as it takes a man of fifty-six to say four figures off a wall* with a different speaker's *four years of that sheet* in the next sentence, and two are a woman's *nine years of weighing* and a boy's *four years of a sheet* in the same sentence. **He is measured in mornings on ten of ten mornings and in nothing else. He is at the five hundred and seventy-fifth of those mornings at Chapter 850 and the run is unbroken across all ten.**
-2. **NEVER `have worked out that` IN ANY QUANTIFIER, NEVER `about four of you`, NEVER `about nine of you`, NEVER THE FOUR-WORD COMPOUND, NEVER A PAUSE-LENGTH HEDGE BUILT ON `about` AND A NUMBER.** All at zero under the conventions at Section 5 and Section 5.1, measured, not assumed. **The four-string sweep is four sweeps and the four-word compound was NOT swept as one string, because a sweep for a conjunction of two separate prohibitions cannot see either half.**
-3. **NO WEEKDAY NAME, NO MONTH LENGTH, NO STRAY *JANUARY*, NO COLON-FORM TIME, NO METRIC UNIT, NO TWENTY-FOUR-HOUR CLOCK.** All at zero; `January` is at ten and every one is row four's carrier.
-4. **NONE OF THE FOURTEEN SALE STRINGS.** All fourteen at zero. The bid is appended and is not run, is not sold, and is not a lot, and no chapter of this block says otherwise.
-5. **THE SINGLE WORD NAMED AT `state/volume-17-close.md` SECTION 5.3.** At zero, measured, and the reason it is at zero is that rows 7 and 8 never meet, and the two rows were measured cell by cell on all ten mornings.
-6. **ONE FIGURE BLOCK A CHAPTER; ROWS 11 AND 12 NEVER IN ONE SENTENCE; ROW 12'S CARRIER ONCE A FILE; NO ROW 18; NO ROW 5 IN THE PRESENT TENSE; ROW 19 NOT RE-ANCHORED AND `c - 1` NOT CARRIED ACROSS.** All ten figure blocks are single and the instrument returns zero findings. Rows 11 and 12 are in separate sentences on all ten. Row 12's carrier is one per file on ten of ten. Row 18 is absent on ten of ten. Row 5's present tense is at zero on ten of ten. Row 19 is `39 + c` on ten of ten.
-7. **NO INTERCEPT FOR THE TENURE OF THE SECOND TABLE, THE TENURE OF THE NEAR RAIL, THE LANE COUNT, OR THE MEASURE AT `outline/volume-18.md` SECTION 3.3.** The first three are counts entered every morning with a named scope and none was added to. **The fourth was the hardest thing this block had to hold and it is worth saying what it looked like in practice: the figure that measure counts is the number of mornings on which somebody asked before the page began to take them, it has no intercept, and FIVE FIGURES WERE WRITTEN ON CHAPTERS 841, 846, 847, 849 AND 850 THAT WOULD HAVE BEEN IT, AND ALL FIVE WERE CUT AND REPLACED WITH A REFUSAL TO COUNT. THE REFUSALS ARE IN MOUTHS AND NOT IN FIGURE BLOCKS, AND THEY ARE THE POINT.**
-8. **THE SIZE OF THE ERROR IN FOUR HUNDRED AND ELEVEN NOT COMPUTED, NOT EXPLAINED, NOT PAID.** Not in a mouth, not in a ledger, not in a figure block, not in this record. Three chapters carry the sentence saying it has not been computed and no chapter carries a figure for it.
-9. **NEVER STATE OR HINT WHETHER THE FOUNDER'S CLAUSE IS VALID, LAWFUL, JUST, UNJUST OR MORAL, OR THAT IT WORKS; NEVER STATE WHAT THE COMMON MEASURE WAS, WHO PROPOSED IT, OR WHY THE FIRST PUBLIC SETTLEMENT WAS ABANDONED; NEVER NAME THE CONDITION ON THE SEAT; NEVER ANSWER WHETHER ADRIAN VALE'S QUESTION WILL EVER BE THE THING THE TALLY PAYS FOR.** A man of sixty-one is on the stones on eight of the ten mornings and says one sentence on four of them. On Chapter 846 he says he has held a thing for seventeen years and has not named the condition on it and is not going to name it this afternoon either, and that is the whole of what he says about it, and he says nothing about whether it works. **He does NOT say the counting, because the counting is at Chapter 884.**
-10. **NEVER ANSWER THE MAN AT THE END OF THE SECOND TABLE AND NEVER PAY HIS FIFTH LINE.** He speaks on Chapters 844, 846, 847 and 850. On 844 four people do not answer him and he says so himself. On 847 he says he has been at that table fifteen years and is not going to start expecting an answer, and that his one sentence he would be willing to be asked about separately was said to the boards and not to anybody. **Nobody in this block answers him and nobody pays him.**
-11. **NEVER ANSWER NELL CRAY'S NINE WORDS AND NEVER HAND THEM ON AS THIS BLOCK'S DEBT.** She is not in this block's yard at all. She is at Chapter 855.
-12. **NEVER PRINT THE SENTENCE THE VOLUME BEHIND OWED, AND NEVER PRINT THE SENTENCE AT `outline/volume-12.md` SECTION 11.** Neither is in this record and neither is in any chapter. A document that re-prints either owns it.
-13. **NEVER MOVE THE COUNT OF COUNTED MONTHS.** Six on ten of ten. The seventh is counted at Chapter 884, in a mouth, and is not in this block.
-14. **NEVER MOVE THE PAGE AT THE BACK OF THAT LOT BOOK.** Thirty-three on ten of ten, and the clerk wrote on it on none of the ten.
-15. **NEVER MOVE THE LANE COUNT.** Twenty-seven on ten of ten.
-16. **NEVER ENTER A SECOND NAME IN THE COLUMN AND NEVER ASK FOR ONE.** One name on ten of ten, the heading says *whoever* on ten of ten, the one name does not satisfy the rule, the second space is empty on ten of ten, and no chapter of this block asked anybody for a name for anything.
-17. **NEVER RING THE BELL AGAIN AND NEVER ENTER ANYTHING ABOUT THE ONE TIME IT WENT.** The string `bell` is at zero across all ten files, in any case, in any form. A chapter that never says the word cannot enter anything about it.
-18. **NEVER GIVE ADRIAN VALE A BED, A WAGE OR AN OFFICE, NEVER HAVE HIM ASK FOR ANY OF THE THREE, NEVER TELL HIM HE IS A GOOD MAN.** He says out loud on Chapter 849 that he has no bed and no wage and no office and is not going to ask for any of them, and the figure block of Chapter 850 says so again, and a woman of fifty-two has said on Chapter 842 that nobody in that yard is going to be told his staying was a good thing, and nobody says it.
-19. **NEVER HAVE THE MAN OF ABOUT SIXTY-FOUR ANSWER A QUESTION IN THIS BLOCK.** Swept and at zero. He says good afternoon and nothing else on ten of ten, and the figure block of Chapter 850 names that he was not asked one question that morning.
-20. **NEVER RESTORE ANYTHING FROM `bible/premise.md`.** Nothing was read from it and nothing was touched.
-21. **NOBODY IS NAMED IN THIS BLOCK AND NO BLOCK MAY NAME ANYBODY.** A sweep for capitalised two-word tokens across ten files returns only Mavis Dorr, Orren Pike, Mara Quill, Adrian Vale, Sabra Holt and the title-line furniture. **No name was settled on a morning in this block, and no chapter of this block names a person who would settle one.**
+### 5.3 WHAT THE AUDIT COULD NOT SEE, AND IT IS RECORDED BECAUSE A SUCCESSOR INHERITS THE LIMIT AND NOT ONLY THE RESULT
+
+**THE INSTRUMENT MEASURES FIGURES, CARRIERS, COUNTS, PROHIBITED STRINGS AND DUPLICATION. IT DOES NOT KNOW WHO ANYBODY IS, AND THE THREE WORST DEFECTS IN THIS BLOCK — THE ROW 17 FIGURE ON THE WRONG PERSON, THE MAN OF SIXTY-ONE ON THE WRONG SIDE OF THE BANK, AND THE CART COUNTED AT THREE INSTEAD OF SIX — WERE ALL FOUND BY RESOLVING A CLAIM AGAINST THE CHAPTER IT NAMES, NOT BY SWEEPING FOR A NUMBER. EVERY ONE OF THEM WAS A FIGURE IN A MOUTH, WHICH IS WHAT THE VOLUME 17 CLOSE PREDICTED, AND NOT ONE WAS A LADDER CELL. A SUCCESSOR THAT RUNS ONLY THE FIGURE INSTRUMENT WILL FIND NONE OF THEM.**
+
+**AND THE HOUSE'S OWN DENSITY MEASUREMENT IS A FINDING AND NOT A FIGURE TO HARMONISE AWAY: *HAVE SAID SINCE* APPEARS **61** TIMES IN THIS BLOCK AGAINST **2, 6, 7 AND 4** IN VOLUME 17'S FOUR BLOCKS AND **19** ACROSS ALL FORTY, WHICH IS ELEVEN POINT SIX TIMES THE RATE PER THOUSAND WORDS. IT IS THE BLOCK'S DOMINANT REPORTING CADENCE AND IT IS NOT A FIGURE, NOT A PROHIBITION AND NOT ON ANY LIST, AND IT IS MEASURED HERE BECAUSE A CLOSE INHERITS THE CADENCE AND MAY INHERIT THE RATE WITH IT. THE BLOCK WAS NOT REWRITTEN FOR IT, BECAUSE IT IS THE HOUSE'S OWN MOVE AND VOLUME 17 USES IT, AND THE DECISION IS DECLARED AND NOT SLIPPED.**
 
 ---
 
-## 8. WHAT THIS WRITER FOUND IN ITS OWN WORK, AND THE LIMIT OF THE FINDING
+## 6. THE PROHIBITIONS, EVERY ONE, CONFIRMED AGAINST THE TEN FILES
 
-**A WRITER THAT REVIEWS ITS OWN CHAPTERS CANNOT BE COUNTED AS HAVING HAD THEM REVIEWED. `novel-reviewer` DOES NOT DISPATCH AS A PRIMARY IN THIS REPOSITORY, SO EVERYTHING IN THIS SECTION IS A WRITER'S ACCOUNT OF THE WRITER'S OWN WORK, INCLUDING THIS SENTENCE, AND NO INDEPENDENT PERSON HAS LOOKED AT ANY OF THESE TEN CHAPTERS. NO REVIEW ARTIFACT FOR THIS BLOCK WAS COMMITTED UNDER `reviews/`.**
+1. **NO SPEECH, FIGURE BLOCK OR NARRATIVE PASSAGE GIVES THE MAN OF FIFTY-SIX A SPAN IN YEARS, DAYS, MONTHS OR FORTNIGHTS, INCLUDING A NEGATIVE ONE.** A SENTENCE-LEVEL PROBE FOR THOSE UNITS IN ANY SENTENCE NAMING HIM RETURNS NOTHING, AND HE IS MEASURED IN MORNINGS AND IN *SINCE BEFORE THE MIDDLE OF THE WINTER* AND IN NOTHING ELSE. NO CHAPTER OF THIS BLOCK PRINTS *IN NOTHING ELSE*, AND NO COUNT OF BREACHES IS PUBLISHED ANYWHERE BECAUSE THE COUNT HAS TWO COPIES AND NO DERIVATION.
+2. **ZERO INSTANCES OF `about four of you`. ZERO OF `about nine of you`. ZERO OF THE SHAPE `have/has/had … worked out that`. ZERO OF THE LITERAL FOUR-WORD COMPOUND. AND THE HEDGE FAMILY AT ZERO UNDER BOTH NAMED CONVENTIONS, MEASURED IN SECTION 4.3 AND NOT INHERITED.**
+3. **ZERO WEEKDAY NAMES, ZERO MONTH LENGTHS, ZERO STRAY *JANUARY*, ZERO COLON-FORM TIMES, ZERO METRIC UNITS, ZERO TWENTY-FOUR-HOUR CLOCKS.** THE ONLY DATE-LIKE STRINGS ARE THE ANCHOR IN THE TITLE LINES AND ROW FOUR'S OWN CARRIER IN THE BODY.
+4. **ZERO OF THE FOURTEEN SALE STRINGS.** THE BID IS APPENDED AND IS NOT RUN, IS NOT SOLD, AND IS NOT A LOT.
+5. **THE SINGLE WORD NAMED AT `state/volume-17-close.md` SECTION 5.3 IS AT ZERO, CONFIRMED BY SECTION 2.3, AND IS NOT PRINTED IN ANY CHAPTER OF THIS BLOCK.**
+6. **NO FIGURE BLOCK IS PRINTED TWICE IN ANY CHAPTER. ROWS 11 AND 12 ARE IN NO SENTENCE TOGETHER, MEASURED. ROW 12'S CARRIER IS EXACTLY ONCE PER FILE. ROW 18 IS ABSENT ON TEN OF TEN. ROW 5 IS NOT RESTORED IN THE PRESENT TENSE AND NO OPENING IS INVENTED. ROW 19 IS NOT RE-ANCHORED AND `c - 1` IS NOT CARRIED ACROSS.**
+7. **NO INTERCEPT IS GIVEN TO THE TENURE OF THE SECOND TABLE, TO THE TENURE OF THE NEAR RAIL, OR TO THE LANE COUNT.**
+8. **THE SIZE OF THE ERROR IN FOUR HUNDRED AND ELEVEN IS NOT COMPUTED, NOT EXPLAINED AND NOT PAID, NOT IN A MOUTH, NOT IN A LEDGER, NOT IN A FIGURE BLOCK, AND NOT IN THIS RECORD.**
+9. **NO CHAPTER STATES WHETHER THE FOUNDER'S CLAUSE IS VALID, LAWFUL, JUST, UNJUST OR MORAL, OR THAT IT WORKS. NOBODY SAYS WHAT THE COMMON MEASURE WAS, WHO PROPOSED IT, OR WHY THE FIRST PUBLIC SETTLEMENT WAS ABANDONED. THE CONDITION ON THE SEAT IS NOT NAMED AND IVEN TALLOW SAYS HE WILL NOT NAME IT. WHETHER ADRIAN VALE'S QUESTION WILL EVER BE THE THING THE TALLY PAYS FOR IS NOT ANSWERED.** A CHARACTER MAY SAY WHAT A RECORD HAS DONE. NOBODY SAYS WHAT IT IS FOR.
+10. **THE MAN AT THE END OF THE SECOND TABLE IS NOT ANSWERED AND HIS FIFTH LINE IS NOT PAID. HIS FIFTH LINE IS NAMED AS WRITTEN AT THE SIDE OF HIS HAND AND AS NOT SAID, AND NOBODY ASKS HIM FOR IT. NELL CRAY'S NINE WORDS ARE NOT ANSWERED AND ARE NOT HANDED ON AS THIS BLOCK'S DEBT, AND NELL CRAY IS NOT IN THIS BLOCK'S YARD.**
+11. **THE SENTENCE VOLUME 17 OWED IS NOT PRINTED, NOT PARAPHRASED AND NOT QUOTED IN FULL IN ANY CHAPTER OF THIS BLOCK.**
+12. **THE SENTENCE AT `outline/volume-12.md` SECTION 11 IS NOT RE-PRINTED HERE.**
+13. **THE COUNT OF COUNTED MONTHS IS SIX ON ALL TEN MORNINGS AND DID NOT MOVE. THE SEVENTH MONTH IS COUNTED AT CHAPTER 884, IN A MOUTH, AND IS NOT IN THIS BLOCK.**
+14. **THE PAGE AT THE BACK OF THAT LOT BOOK IS AT THIRTY-THREE LINES ON ALL TEN MORNINGS, NONE OF THE THIRTY-THREE IS IN THE LOT BOOK, AND THREE OF THEM NOBODY IN THIS DISTRICT HEARD READ.**
+15. **THE LANE COUNT IS TWENTY-SEVEN ON ALL TEN MORNINGS AND MOVED ON NONE OF THEM.**
+16. **NO SECOND NAME IS ENTERED IN THE COLUMN AND NONE IS ASKED FOR. THE HEADING OVER IT STILL SAYS *WHOEVER*, THE ONE NAME DOES NOT SATISFY THE RULE, AND THE SECOND SPACE ON THAT FORM IS EMPTY.**
+17. **THE BELL DID NOT GO AGAIN AND NOTHING ABOUT THE ONE TIME IT WENT IS ENTERED. THE WORD *BELL* IS AT ZERO ON ALL TEN MORNINGS.**
+18. **ADRIAN VALE IS NOT GIVEN A BED, A WAGE OR AN OFFICE, DOES NOT ASK FOR ANY OF THE THREE, AND IS NOT TOLD HE IS A GOOD MAN. ALL THREE APPEAR ONLY INSIDE AN EXPLICIT NEGATION IN CHAPTER 850'S CLOSING PARAGRAPH, WHICH IS THE FIGURE-BLOCK RESTATEMENT AND NOT A GIVING.**
+19. **THE MAN OF ABOUT SIXTY-FOUR IS NOT ASKED A QUESTION IN THIS BLOCK. CONFIRMED BY A SENTENCE-LEVEL TEST RETURNS ZERO ON ALL TEN FILES.**
+20. **NOTHING UNDER `bible/premise.md` IS RESTORED AND THAT FILE IS NOT TOUCHED.**
 
-1. **THE INSTRUMENT HAD ITS FORWARD AND BACKWARD WINDOWS SWAPPED AND FIRED ON EIGHT ROWS A MORNING BEFORE IT WAS RUN AGAINST THIS BLOCK.** Found by validating against Chapters 821 to 830 of Volume 17, where every figure is already known, which is why that validation is in the contract. Recorded because a checker that validates first and reports a zero afterwards has earned the zero and one that does not has printed a number about itself.
-2. **THE FIRST DRAFT OF THE FIGURE BLOCKS PRINTED *THE TOP OF THAT BANK* WHERE THE CHAPTERS PRINT *THE TOP OF THIS BANK*, ON NINE OF THE TEN MORNINGS.** Found by a bulk string normalisation and corrected in place, and the figure in Section 4.1 is the one on the corrected text.
-3. **THE FIRST DRAFT OF CHAPTER 843 PRINTED *ABOUT NINETEEN PEOPLE'S HEARING* TWICE, ONCE IN THE FIGURE BLOCK AND ONCE IN THE PROSE.** Found by the instrument. The prose instance was rewritten as *about nineteen people heard it* and the string now stands once, in the figure block, in its own sentence.
-4. **THE FIRST DRAFT WROTE *ABOUT FOUR OF YOU*, *ABOUT NINE OF YOU* AND *HAVE WORKED OUT THAT*, THREE PROHIBITED STRINGS, IN CHAPTERs 849 AND 850, AND WROTE FIVE HEDGES IN Chapters 841, 846, 847, 848 AND 849.** All eight found by the instrument, all eight replaced, all eight at zero on the corrected text. **This is the eighth time across this manuscript that the shape a document reports at zero is on the page, and it is recorded here as a writer's own instance of the class rather than as an inherited figure.**
-5. **THE FIRST DRAFT OF CHAPTER 843 NAMED A FUTURE MORNING IN THE BOY'S MOUTH.** He said that nobody had come down that lane since *the one hundred and thirty-second morning*, and Chapter 843 is the one hundred and twenty-seventh. Found by checking the morning map against the mouth. It now reads *the one hundred and sixteenth*, which is the morning `chapter-0832.md` carries the lane count at twenty-seven, and the check was made against that file and not against a document.
-6. **THE FIRST DRAFT OF CHAPTER 843 ALSO REPEATED THE CLAUSE *AND A MAN OF SIXTY-ONE WAS ON THE STONES ABOUT FOUR FEET OFF HIM* INSIDE ITS OWN FIGURE BLOCK, WHICH ALREADY CARRIES IT.** Found by reading the generated block against the template. Corrected on all ten mornings.
-7. **AND TWO THINGS THE INSTRUMENT DID NOT FIND AND A READER SHOULD KNOW ABOUT, BECAUSE A PASS THAT ONLY CHECKS FIGURES MISSES THEM: THE BLOCK SITS AT THE TOP OF BOTH HOUSE BANDS AT 30,232 WORDS AND 151 DIVIDERS, WHICH IS INSIDE THEM AND IS NOT COMFORTABLE; AND CHAPTER 850 IS THE LONGEST MORNING OF THE BLOCK AT 3,772 WORDS AND CHAPTER 842 THE SHORTEST DIVIDER COUNT AT NINE, AND THE TWO OF THEM ARE THE OPPOSITE ENDS OF THE SAME MEASURE AND THE MEASURE DID NOT TRACK THE OTHER ONE EITHER WAY ACROSS THE TEN MORNINGS.**
-
-**AND ACROSS EVERY PASS THAT HAS EVER RUN AGAINST THIS MANUSCRIPT, NOT ONE BLOCKING DEFECT HAS EVER BEEN A LADDER CELL. THIS BLOCK'S LADDER IS CLEAN ON ALL TEN MORNINGS AND THE SEVEN ITEMS ABOVE ARE SIX PROSE AND ONE FIGURE BLOCK, WHICH IS THE FAILURE MODE THE VOLUME 17 CLOSE NAMES FOUR TIMES, AND NEITHER IS THE LADDER. THE LADDER IS CLEAN AND IT WILL KEEP BEING CLEAN AND IT WILL NOT SAVE YOU.**
-
----
-
-## 9. THE UNPAID DEBTS, WITH BOTH AMOUNTS, AND NONE OF THEM IS THIS BLOCK'S TO PAY
-
-**MEASURED BY LISTING `state/`, NOT INHERITED FROM A DOCUMENT.**
-
-| the debt | amount | measured how |
-|---|---|---|
-| `state/volume-16-close.md` | **one file, does not exist** | listing `state/` |
-| `state/volume-16-roll-summary.md` | **one file, does not exist** | listing `state/` |
-| `state/volume-12-close.md` | **one file, does not exist** | listing `state/` |
-| `state/volume-12-roll-summary.md` | **one file, does not exist** | listing `state/` |
-
-**VOLUME 17 OPENED WITHOUT THE VOLUME 16 PAIR AND WAS CLOSED WITHOUT THEM, AND THIS BLOCK INHERITS NO ROLL FOR EITHER VOLUME, SO EVERY FIGURE IN THIS RECORD WAS MEASURED OFF THE TEN CHAPTER FILES AND NOT INHERITED FROM A ROLL. NONE OF THE FOUR IS VOLUME 18'S TO PAY.**
+**AND THE THREE FIGURES THAT ARE NOT OURS TO GIVE, RESTATED SO THAT A SUCCESSOR DOES NOT INHERIT THEM AS DEBTS: THE SIX ANSWERS AT `outline/ending.md` ARE NONE OF THIS BLOCK'S. THE MAN AT THE END OF THE SECOND TABLE IS NOT A PUZZLE AND HIS FIFTH LINE IS NOT TO BE PAID. NELL CRAY'S NINE WORDS ARE UNANSWERED AND ARE NOT THIS BLOCK'S DEBT. AND ROW 11'S AGE IS A NUMBER OF DAYS AND IS NOT A SIZE OF ERROR, AND NOBODY IN THESE TEN CHAPTERS PUTS THEM TOGETHER.**
 
 ---
 
-## 10. WHAT THE BLOCK LEFT OPEN FOR CHAPTER 851, AND WHAT IT DID NOT PAY
+## 7. THE HANDOFF, WHICH IS THE LAST THING IN THIS FILE
 
-| the thing | where this block leaves it |
-|---|---|
-| the asking | a thing about nineteen people do, with a shape, and nobody drew it, and no person has decided to make it so and no person has decided not to |
-| the man at the foot of that low wall | the five hundred and seventy-fifth of those mornings, and the last person in that yard to ask him a question was a woman with a beam at about ten to two on the one hundred and twenty-seventh morning |
-| the woman who keeps a scale | she has come up about four feet of that bank three times in about ten mornings and has said three things and gone down each time, and she has said out loud that she does not know what the three of them are and has stopped trying |
-| the turner | refused twice in one morning in front of about nine people, and said out loud that a question is a thing he will not carry out of a room in his mouth and put in a yard |
-| Mara Quill | said a reason out loud on the one hundred and twenty-sixth morning, and said *no* to being asked to keep a thing that has no column on the one hundred and thirty-second morning, and wrote nothing on ten of ten mornings, and the page carries thirty-three lines |
-| Sabra Holt | said out loud on the one hundred and thirty-first morning that a thing which has happened twice with nobody deciding anything is not a custom yet, and that nobody disagreed, and that the not-disagreeing is the part they have gone on thinking about, and she is in that yard and she has been asked nothing |
-| Adrian Vale | one hundred and fifty-five mornings, no bed, no wage, no office, none asked for, said out loud on the one hundred and thirty-third morning that he was not going to be the second man in this basin to carry a thing out of a yard and have it come back as something else, and he has not been told he is a good man |
-| Orren Pike | a mark in his own sheet against the one hundred and thirty-third morning that is not a figure of money, and he has not said out loud what it is for, and his sheet is in his own hand and is on no page |
-| the man of about forty-eight | said out loud on the one hundred and thirtieth morning that he does not know what he is keeping his number for, and nobody in that yard has offered to tell him |
-| the man at the end of the second table | said four things about the column on the one hundred and twenty-eighth morning and was not answered, said the boards and the stone and the bank do not make a queue on the one hundred and thirty-first morning and was not answered, and said a figure out loud for the first time in fifteen years on the one hundred and thirtieth morning, and his fifth line is unpaid and nobody has paid it |
-| the lane count | twenty-seven, unmoved, and nobody came down that lane with a page in their own hand |
-| the page at the back | thirty-three lines, and not one of the thirty-three is about a question |
-| the column | one name, the heading says *whoever*, the one name does not satisfy the rule, the second space is empty |
-| the count of counted months | six, unmoved, and the counting is at Chapter 884 in a mouth |
-| the toll of ninety-eight | spent, and not raised, not lowered, and not paid twice |
-| the fifth of the five | five, and unpaid, on ten of ten mornings |
-| the figure at the gatepost | four hundred and eleven, and its size of error uncomputed, uncharged and unpaid |
-| the man of about sixty-four | four hundred and eighty-ninth night of that run, having slept on four hundred and eighty-eight of them, and not asked one question in this block, and his wire is at the turn and not at the culvert and nobody else knows |
-| Iven Tallow | seventy-ninth afternoon on the stones, and he said *I am not going to say how many of you have asked anybody anything*, and he did not name the condition on the seat, and he did not do the counting |
-| the standing question | whether the question Adrian Vale put down on the one hundred and twelfth morning will ever be the thing the tally pays for, and if it is not then what is — **asked out loud by nobody in this block, on any of the ten mornings** |
+**THE NEXT PHASE IS `workspace/volume-18/batch-0002/PROMPT.md`, CHAPTERS 851 TO 860, `c = 11` TO `c = 20`, MORNINGS THE ONE HUNDRED AND THIRTY-FIFTH TO THE ONE HUNDRED AND FORTY-FOURTH. THIS BLOCK CREATED EXACTLY ONE NEXT PHASE AND NO OTHER, AND WROTE NO `.done` MARKER IN ITS OWN DIRECTORY.**
 
----
+**WHAT IT INHERTS BLINDLY, AND EVERY FIGURE BELOW IS AT `c = 10` = CHAPTER 850 AND IS COMPUTED FROM THE INTERCEPT AND NOT WRITTEN BY HAND:**
 
-## 11. WHAT THIS BLOCK WROTE, AND WHAT IT TOUCHED
+| row | at `c = 10` | at `c = 11` | at `c = 20` |
+|---|---:|---:|---:|
+| 1 | 748 | 749 | 758 |
+| 2 | 1064 | 1065 | 1074 |
+| 3 | 778 | 779 | 788 |
+| 4 | 739 | 740 | 749 |
+| 5 | **ABSENT, struck** | absent | absent |
+| 6 | 631 | 632 | 641 |
+| 7 | 453 | 454 | 463 |
+| 8 | 458 | 459 | 468 |
+| 9 | 528 | 529 | 538 |
+| 10 | 467 | 468 | 477 |
+| 11 | 589 | 590 | 599 |
+| 12 | **411, a constant** | 411 | 411 |
+| 13 | 489 | 490 | 499 |
+| 14 | 488 | 489 | 498 |
+| 15 | 407 | 408 | 417 |
+| 16 | 393 | 394 | 403 |
+| 17 | 575 | 576 | 585 |
+| 18 | **GONE** | absent | absent |
+| 19 | 49 | 50 | 59 |
 
-**IT WROTE TEN CHAPTERS, `chapters/volume-18/chapter-0841.md` THROUGH `chapter-0850.md`, EACH WITH ONE TITLE LINE CARRYING THE ANCHOR *THE THIRTIETH OF THE EIGHTH MONTH*, ONE FIGURE BLOCK PRINTED ONCE, AND SCENE DIVIDERS AS LINES THAT ARE EXACTLY `---`. IT WROTE THIS RECORD. IT CREATED ONE NEXT PHASE, `workspace/volume-18/batch-0002/PROMPT.md`, CHAPTERS 851 TO 860.**
+**AND THE COUNTS AT `c = 10`, WHICH MOVE ONE A MORNING: SECOND TABLE 164, NEAR RAIL 114, MORNINGS A MAN HAS BEEN AT THE FOOT OF THAT BANK 134, THE MAN OF FIFTY-SIX'S MORNINGS 575, THE MAN OF ABOUT SIXTY-FOUR ON THE FOUR HUNDRED AND EIGHTIETH-NINTH NIGHT OF THAT RUN HAVING SLEPT ON 488, IVEN TALLOW'S SEVENTY-NINTH AFTERNOON ON THE STONES, ADRIAN VALE'S ONE HUNDRED AND FIFTY-FIFTH MORNING. AND THE COUNTS THAT DID NOT MOVE: COUNTED MONTHS SIX, DOCUMENTS NOT OWNED FOUR, PLACES WHERE THREE LINES CAN BE READ FOUR, CONDITIONS WITH NO END FOUR, THINGS THIS DISTRICT HAS MADE FOURTEEN, THE FIVE THINGS IT DOES NOT HAVE FIVE AND UNPAID, THE FIGURE ON THE SHEET AT THAT GATEPOST FOUR HUNDRED AND ELEVEN, ONE NAME IN THE COLUMN, THE LANE COUNT TWENTY-SEVEN, THE BACK PAGE THIRTY-THREE LINES WITH THREE OF THEM HEARD BY NOBODY.**
 
-**AND IT DID NOT EDIT `outline/volume-18.md`, `outline/volume-17.md`, `outline/series.md` OR `outline/ending.md`. IT DID NOT EDIT ANY CHAPTER OF ANY EARLIER VOLUME. IT DID NOT EDIT `state/volume-17-close.md` OR `state/volume-17-roll-summary.md`. IT DID NOT APPEND A FOOTER TO A LIVE STATE FILE AND IT DID NOT TOUCH ANY OF THE FIVE LIVE HEADER LINES OF `state/current.md`, WHICH NAME A CLOSE THAT HAS BEEN COMPLETE SINCE BEFORE THIS BLOCK AND ARE A MAINTAINER'S ITEM. IT DID NOT TOUCH `state/phase-ledger.json` OR ANYTHING UNDER `state/archive/`, `scripts/`, `.github/workflows/`, `.opencode/agent/`, `tools/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md` OR `opencode.json`. IT WROTE NO `.done` MARKER IN ITS OWN DIRECTORY OR IN ANY OTHER.**
+**AND WHAT THE NEXT BLOCK OWES THIS ONE.** The page with Sabra Holt's question on it arrives at Chapter 851, which is the first morning of the next block and is not in this one. The turner is at the boards at about half past one on the one hundred and thirty-fourth and refused a thing twice this week, and the man who digs loam asked a question at about half past ten on the one hundred and twenty-ninth and was answered, and the cart has now been stopped nine feet short for six mornings running, and the trestle has been standing since about ten on the one hundred and thirty-third, and a woman of fifty-two with nineteen years and the third of the nine oldest keys said on the one hundred and thirty-first that a thing which has happened twice with nobody deciding anything is not a custom yet, and **the asking has a shape and nobody drew it and Mavis Dorr said out loud on the one hundred and thirty-fourth that she was not going to say the last part and would not say it tomorrow either unless somebody makes her.**
 
-**AND THE FIGURES LIVE IN THIS RECORD AND IN THE TEN CHAPTERS AND NOWHERE ELSE.**
-
-**AND THE ONE FIGURE THIS BLOCK DID NOT COMPUTE IS THE ONE THE VOLUME WAS ABOUT NOT COMPUTING, AND THAT IS THE WHOLE OF WHAT IT WAS ABLE TO DO WITH IT.**
-
-**BLOCK 0001 IS COMPLETE. CHAPTERS 841 TO 850. TEN MORNINGS. FIFTY DAYS INTO THE VOLUME, AND THE MORNING NUMBER IS ONE HUNDRED AND THIRTY-FOUR.**
+**AND THE ONE FIGURE A SUCCESSOR MUST NOT PRINT: THE SIZE OF THE ERROR IN FOUR HUNDRED AND ELEVEN. IT IS UNCOMPUTED ON ALL TEN MORNINGS OF THIS BLOCK AND NO INSTRUMENT IN THIS REPOSITORY MAY PRODUCE IT.**
