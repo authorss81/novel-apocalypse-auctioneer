@@ -34,7 +34,7 @@ At about twelve Mavis Dorr said it, and she said it in the ordinary voice at abo
 
 ---
 
-"What is the mark in your sheet for," she said. "You have had it in there since the one hundred and thirty-third morning and about four people at the top of eleven feet have seen that page and about four of them can see that it is not a figure of money and it is not in the hand you write the other figures in. I am not asking you because I have got a use for it. I am asking you because about nine people at the top of eleven feet have been looking at a page with one mark on it that nobody in this yard can read for eleven mornings and I am tired of it."
+"What is the mark in your sheet for," she said. "You have had it in there since the one hundred and thirty-third morning and about four people at the top of eleven feet have seen that page and about four of them can see that it is not a figure of money and it is not in the hand you write the other figures in. I am not asking you because I have got a use for it. I am asking you because about nine people at the top of eleven feet have been looking at a page with one mark on it that nobody in this yard can read for twenty-eight mornings and I am tired of it."
 
 ---
 
@@ -94,7 +94,7 @@ At about four o'clock the man of fifty-six said the four off that wall and got a
 
 ---
 
-Nobody asked him what any of them is for, and about four people at the top of eleven feet have said since that there is a man of fifty-six who has said the same sentence at about four for fifty mornings and has never been asked anything, and that about four people at the top of eleven feet found out this morning that there is a boy of seventeen who has been keeping one mark of his own for eleven mornings and did not explain it to anybody, and that about four of them said that this yard is two people not telling each other things and has been for longer than eleven mornings.
+Nobody asked him what any of them is for, and about four people at the top of eleven feet have said since that there is a man of fifty-six who has said the same sentence at about four for fifty mornings and has never been asked anything, and that about four people at the top of eleven feet found out this morning that there is a boy of seventeen who has been keeping one mark of his own for twenty-eight mornings and did not explain it to anybody, and that about four of them said that this yard is two people not telling each other things and has been for longer than eleven mornings.
 
 ---
 

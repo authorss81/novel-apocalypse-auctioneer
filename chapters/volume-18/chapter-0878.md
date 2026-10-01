@@ -1,4 +1,4 @@
-# Chapter 878: The One Hundred And Sixty-Second Morning After The Thirtieth Of The Eighth Morning At About Ten A Man Of About Forty-Eight Who Keeps A Tally Asked A Woman How Many People In That Yard Have Noticed That One Sentence Has Been Used About Two Different Things And She Said Out Loud That She Was Not Going To Count It And No Figure Came Of It And The Lane Count Is Twenty-Nine And Has Not Moved Since
+# Chapter 878: The One Hundred And Sixty-Second Morning After The Thirtieth Of The Eighth Month At About Ten A Man Of About Forty-Eight Who Keeps A Tally Asked A Woman How Many People In That Yard Have Noticed That One Sentence Has Been Used About Two Different Things And She Said Out Loud That She Was Not Going To Count It And No Figure Came Of It And The Lane Count Is Twenty-Nine And Has Not Moved Since
 
 The figure on the sheet at that gatepost is four hundred and eleven. Six hundred and seventeen days is the age of that figure.
 
@@ -64,7 +64,7 @@ Adrian Vale said one thing about the boy at about half past ten, and it was abou
 
 ---
 
-"He said one hundred and eighty-three at about ten to eight this morning," he said, "and about nine people at the top of eleven feet know what he was counting and about four of them have known for about four days. He has never once told anybody what the number is for and he is not going to today, and I have stood in this yard one hundred and sixty-two mornings and I have never asked him and I am not going to this morning, and about four people at the top of eleven feet have said since that two people in this yard have now said out loud in about nineteen people's hearing that they are not going to ask, and that nobody has asked either of them why."
+"He said one hundred and eighty-three at about ten to eight this morning," he said, "and about nine people at the top of eleven feet know what he was counting and about four of them have known for about four days. He has never once told anybody what the number is for and he is not going to today, and I have stood in this yard one hundred and eighty-three mornings and I have never asked him and I am not going to this morning, and about four people at the top of eleven feet have said since that two people in this yard have now said out loud in about nineteen people's hearing that they are not going to ask, and that nobody has asked either of them why."
 
 Sabra Holt said one thing at about eleven, at about four feet off the near end of the second table, and about nineteen people heard it.
 

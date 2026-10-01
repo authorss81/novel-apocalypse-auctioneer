@@ -1,4 +1,4 @@
-# Chapter 879: The One Hundred And Sixty-Third Morning After The Thirtieth Of The Eighth Morning At About Half Past Ten A Man Of About Forty-One Asked A Clerk Whether One Line Written On The Back Of Somebody Else's Page Could Go Into The Book That Belongs To A Council And She Said That The Yard Had Not Asked And Nobody Asked And The Lane Count Is Twenty-Nine And Has Not Moved Since
+# Chapter 879: The One Hundred And Sixty-Third Morning After The Thirtieth Of The Eighth Month At About Half Past Ten A Man Of About Forty-One Asked A Clerk Whether One Line Written On The Back Of Somebody Else's Page Could Go Into The Book That Belongs To A Council And She Said That The Yard Had Not Asked And Nobody Asked And The Lane Count Is Twenty-Nine And Has Not Moved Since
 
 The figure on the sheet at that gatepost is four hundred and eleven. Six hundred and eighteen days is the age of that figure.
 
@@ -28,7 +28,7 @@ Orren Pike said the lane count out loud at about ten to eight, and it is twenty-
 
 ---
 
-Then about nine people at the top of eleven feet looked at the first table for a while without saying anything, because for the first time in four days there was nothing on it, and about four of them have said since that a yard that has spent three mornings looking at a piece of paper does not have a morning ready when the paper is gone.
+Then about nine people at the top of eleven feet looked at the first table for a while without saying anything, because for three mornings running now there has been nothing on it, and about four of them have said since that a yard that has spent three mornings looking at a piece of paper does not have a morning ready when the paper is gone.
 
 At about half past ten the turner asked it, and he asked it across the near end of the first table in the ordinary voice, and about nineteen people heard him ask it.
 
