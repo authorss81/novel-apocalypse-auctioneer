@@ -24,7 +24,7 @@ That was the whole of what he said about it and he had said it every morning thi
 
 ---
 
-At about a quarter to eleven the clerk was at the boards with her hand on the page at the back of the lot book and she wrote, and she did not read it out, and about four people at the top of eleven feet saw her write it and about nine heard nothing at all and looked over.
+At about a quarter to eleven the clerk was at the boards with her hand on the page at the back of the lot book and she wrote, and she did not read it out, and about four people at the top of eleven feet looked over at the hand on the page and then looked somewhere else.
 
 Orren Pike came round the near end of the boards.
 

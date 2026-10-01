@@ -70,7 +70,7 @@ Nobody said anything for about as long as it takes a man of fifty-six to say fou
 
 About nine people at the top of eleven feet looked down about eleven feet.
 
-The man of fifty-six was at the foot of that wall. He came about four feet along the stone, which he has not done in this run of mornings, so that he could be seen from the top of the bank, and he stood there and put his hands loose at his sides.
+The man of fifty-six was on the flat stone at the foot of the low wall. He came about four feet along it, which he has not done in this run of mornings, so that he could be seen from the top of the bank, and he stood there and put his hands loose at his sides.
 
 "Who is asking," he said.
 
