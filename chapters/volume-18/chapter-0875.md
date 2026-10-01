@@ -30,7 +30,7 @@ At about ten to eight Orren Pike said the lane count out loud at those boards, w
 
 ---
 
-About nine people at the top of eleven feet said it after him too, and about four people at the top of eleven feet have said since that the boy has now said a figure on three mornings out of the six, and that on the three mornings he did not, one of them was the morning a page came down that lane and one of them was the morning after it and one of them was the morning before that page came down.
+About nine people at the top of eleven feet said it after him too, and about four people at the top of eleven feet have said since that the boy has now said a figure on three mornings out of the six, and that on the three mornings he did not, one of them was the morning a page came down that lane and one of them was the morning after it and one of them was two mornings before that page came down.
 
 The turner read the line on the back of that page out loud at about ten, and the man who digs loam read it out loud after him at about half past ten, and about nine people at the top of eleven feet heard both of them and about four of them have said since that the two men said the same nine words in the same order and that about four of them said them differently at the ends, and that about four of them noticed that nobody said anything about the difference.
 

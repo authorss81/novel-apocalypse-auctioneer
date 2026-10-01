@@ -44,7 +44,7 @@ And Mavis Dorr said no, and she said it out loud, and about nine people at the t
 
 ---
 
-"I am not going to count it," she said. "That is the whole of my answer and I am giving it in front of about nineteen people so that it cannot be said afterwards that I was asked quietly. Not because it is a secret. Because a number about people in this district goes on a page, and there is a heading over one space on that page that says whoever, and about four people at the top of eleven feet watched a clerk write one line on the back of somebody else's page two mornings ago and go up nine miles of hill with it. I am not going to be the reason there is a second one about people instead of a form."
+"I am not going to count it," she said. "That is the whole of my answer and I am giving it in front of about nineteen people so that it cannot be said afterwards that I was asked quietly. Not because it is a secret. Because a number about people in this district goes on a page, and there is a heading over one space on that page that says whoever, and about four people at the top of eleven feet watched a clerk write one line on the back of somebody else's page four mornings ago and go up nine miles of hill with it. I am not going to be the reason there is a second one about people instead of a form."
 
 And nobody counted it, and no figure came of it, and about four people at the top of eleven feet have said since that a man of about forty-eight has spent a working life saying a number into about four hundred yards of air and has just had one refused him in front of the whole yard, and that about four of them said he took it standing up, and that about four of them found that the hardest thing about it is that he did not look as though he had been struck.
 
@@ -70,7 +70,7 @@ Sabra Holt said one thing at about eleven, at about four feet off the near end o
 
 ---
 
-"There are four documents this district does not own," she said, "and four places where those three lines can be read, and about four people at the top of eleven feet have said since that this morning a woman stood at those boards and would not put a fifth thing on the list of what this yard has, and that about four of them said she did it on purpose, and that about four of them said that a thing that is not put on a list is not in this district at all, and about nine people at the top of eleven feet have said that this is the second time in three days that somebody has refused to write a thing down and that both times were in front of me."
+"There are four documents this district does not own," she said, "and four places where those three lines can be read, and about four people at the top of eleven feet have said since that this morning a woman stood at those boards and would not put a fifth thing on the list of what this yard has, and that about four of them said she did it on purpose, and that about four of them said that a thing that is not put on a list is not in this district at all, and about nine people at the top of eleven feet have said that this is the second time in five days that somebody has refused to write a thing down and that both times were in front of me."
 
 ---
 
