@@ -12,7 +12,7 @@ The second table has stood at the foot of that bank one hundred and twenty-five 
 
 The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and thirty-sixth of those mornings, and about nine people at the top of eleven feet have heard him do it five hundred and thirty-six times and a man who keeps every road in this basin came up the lane at ten to eight and had not heard a single one of them.
 
-At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and fiftieth night of that run, having slept on four hundred and forty-nine of them, and a man of sixty-one was on the stones about four feet off him for the fortieth afternoon running, and they said good afternoon, and a man who put a length of fencing wire on the boards of that table at about a quarter past six yesterday evening took it off those boards at about a quarter past six this morning and went down that lane carrying it, and nobody in this yard has said one word about it.
+At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and fiftieth night of that run, having slept on four hundred and forty-nine of them, and a man of sixty-one was on the stones about four feet off him for the fortieth afternoon running, and they said good afternoon, and a man who put a length of fencing wire on the boards of that table at about a quarter past six yesterday morning took it off those boards at about a quarter past six this morning and went down that lane carrying it, and nobody in this yard has said one word about it.
 
 The record has stood ten days, and a man who keeps every road in this basin was asked four times in four mornings for the name of a person in this district, and he came up the eleven feet to say that he had run out of ways of saying no, and the lane count is twenty-five and did not move this morning because the road keeper went up that hill and did not come down it with a page in his hand.
 
@@ -28,7 +28,7 @@ He came up at about ten to eight and did not stop at the bottom of the bank, whi
 
 The road keeper put the book on the boards of the first table, squared it the way a man squares a thing he has carried a long way, and did not open it.
 
-"I have kept every road in this basin for nine years," he said. "I have not stopped at the top of this bank in nine years and I have gone up that lane and down it about nine thousand times and I do not keep relations, I keep the surface and the culverts and where the ground gives, and I have been asked three things in nine years and two of them were about the surface."
+"I have kept every road in this basin for nine years," he said. "I have not stopped at the top of this bank in nine years and I have gone up that lane and down it about nine thousand times and I do not keep relations, I keep the surface and the culverts and where the ground gives, and I have been asked three things in nine years and two of them were about the surface and none of them was about a person."
 
 "I am going to say one thing and then I am going to go back down, and I would like it understood that I have thought about the hour of the day on the way up here and I chose about ten to eight because about nine people are standing at those boards and I would rather be asked in front of them than be asked in a room and have it carried."
 

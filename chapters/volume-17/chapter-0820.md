@@ -18,7 +18,7 @@ The record has stood nineteen days, and a man of thirty-eight was in that record
 
 ---
 
-He came up at about one with nothing in either pocket and about nine people at the top of eleven feet had not heard one word out of him since about ten past eight on the evening of the ninety-fourth morning, and about four of them had watched him cross the yard at about ten past five on the ninety-fifth without stopping at the boards, and had said nothing about that on any of the mornings since, and he walked the length of the yard and stopped about four feet off the near end of the first table and stood there.
+He came up at about one with nothing in either pocket and about nine people at the top of eleven feet had not heard one word out of him about that woman since about ten past eight in the evening on the ninety-fourth morning, and about four of them had watched him cross the yard at about ten past five on the ninety-fifth without stopping at the boards, and had said nothing about that on any of the mornings since, and he walked the length of the yard and stopped about four feet off the near end of the first table and stood there.
 
 "One hundred and twenty-five," said Orren Pike.
 
@@ -26,13 +26,13 @@ He said it to the boards, out loud, and then he said the rest of it before anybo
 
 "That is the number of mornings a man of thirty-eight has stood in this yard. It was one hundred and sixteen on the ninety-fifth morning and it has gone up one every morning since and it is one hundred and twenty-five this morning, and I counted the ninety-fifth morning because he came up that lane at about ten past five and stood at the top of it, and I did not see him do it and a man who keeps roads saw him do it."
 
-"And I have not put it in the box this morning because the box is going to be empty this morning and I have said why out loud at about half past two, and a figure is a fact about a morning and that one is a fact about him."
+"And I have not put it in the box this morning because the box is going to be empty this morning and I am going to say why out loud at about half past two, and a figure is a fact about a morning and that one is a fact about him."
 
 ---
 
 Adrian looked at the boy for about as long as it takes a man of fifty-six to say four figures off a wall, and then he said the thing he had come up the bank to say.
 
-"I have been asked nothing in about thirty hours," he said, "so I am going to say the whole of it in order and then somebody can ask me one thing and I will answer it, and I would like the asking to come from about four people and not from about nine people, and I know that is a preference and not a right."
+"I have been asked nothing in about a day and a night," he said, "so I am going to say the whole of it in order and then somebody can ask me one thing and I will answer it, and I would like the asking to come from about four people and not from about nine people, and I know that is a preference and not a right."
 
 "She has not been told. That is the first thing. Her name went onto a page nine miles up that hill on the eighty-ninth morning in a hand that is not hers and nobody asked her, and I went up that lane on the ninety-fourth morning at about ten past eight in the evening to find out whether anybody had told her since, and nobody had. She is on working list forty-one. She holds the sixth of the nine coppers. She is about fifty. She walked two miles of that corridor to come and stand at these boards on the eightieth morning because a woman with a key wrote her four sentences and asked her to be here at about two, and she has never once been asked anything by anybody, and I know that last part from the man who drives the cart and from a man of about forty-three who keeps roads, and both of those men told me it without being asked and I did not ask either of them, and I want that said first because about four people have spent ten days telling me that the asking is the whole of it."
 
@@ -70,7 +70,7 @@ Nobody at the top of eleven feet said anything for about as long as it takes a m
 
 "What I have got is that this district has a wall with four figures on it and about nineteen people and a book with one name in a column and a rule that will not let a figure be moved and a boy of seventeen who has said a figure out loud twice and held it back once and a man of fifty-six who has wanted one morning a year to himself since yesterday afternoon, and a man of about forty-one who has made himself the only mouth for a number in this basin and a woman who has a key for a room she has not been in."
 
-"And about half of that is a way of not doing the thing, and the other half is about nine people, and she asked me what a person is owed for being named in a record and she asked it in about nine words and I have been walking about two days with those nine words and I am not going to say them at these boards."
+"And about half of that is a way of not doing the thing, and the other half is about nine people, and she asked me what a person is owed for being named in a record and she asked it in about nine words and I have been walking about nine days with those nine words and I am not going to say them at these boards."
 
 ---
 
@@ -92,7 +92,7 @@ And about nine people at the top of eleven feet turned round, because nobody had
 
 "Not a page anybody can walk up to and read. A page. The second space on a form, under a heading that says whoever. You have been findable for about a day and a half and you got findable by telling the truth in a yard, and I am not saying that was wrong, and I am saying that if I ask you to walk nine miles with me this afternoon then about four people in this basin and at least one woman in a corridor are going to see two men go up that hill together, and this morning the whole of what this yard said out loud died about eleven feet down that bank."
 
-"You are the only person in this district I would want to walk up there with and you are the only person in this district I cannot have, and I have been here a hundred and twenty-five mornings and that is the first thing I have wanted out loud and been told no to about, and I am not going to insult you by pretending I am not saying that it is because of yesterday."
+"You are the only person in this district I would want to walk up there with and you are the only person in this district I cannot have, and I have been here a hundred and twenty-five mornings and that is the first thing I have wanted out loud and been told no to, and I am not going to insult you by pretending I am not saying that it is because of yesterday."
 
 ---
 
@@ -118,7 +118,7 @@ Orren Pike did not write anything in the box on the back of his own sheet, and a
 
 "I am not writing this morning in the box because the box is for a thing that was said out loud in that yard and was not entered anywhere, and I have had about nine mornings of deciding what a morning is, and a man came back up that bank at about one and said four things that nobody is going to enter anywhere, and it is a morning, and if I write it then it is in a sheet a boy of seventeen has kept for four years and that is the same place as a column with a heading over it, only smaller and with me in it."
 
-"So I am leaving the space empty and I am going to write *nothing today* in it, and that is not the same as the ten other mornings when I left a space empty, because on those mornings nothing had been said that I wanted to keep and this morning something has been said that I want to keep and I am not going to be the one who keeps it."
+"So I am leaving the space empty and I am going to write *nothing today* in it, and that is not the same as the four other mornings when I left a space empty, because on those mornings nothing had been said that I wanted to keep and this morning something has been said that I want to keep and I am not going to be the one who keeps it."
 
 "And if this yard wants a record of the hundred and fourth morning after the thirtieth of the eighth month it will have to be somebody who is not me, and there is not anybody, and that is the answer to the road keeper and I am seventeen and I have said it and it is said."
 
@@ -134,4 +134,4 @@ At about half past two the turner said his two sentences and about nine people a
 
 At about four o'clock the man of fifty-six said the four off that wall and got all four of them, and about nine people at the top of eleven feet said *as sent* at the same moment and out of step with each other, and a man of about forty-one went down the eleven feet at about ten to four to go and be the only mouth for a number in this basin, and the lane count is twenty-five and did not move and does not move for a person and is not a page.
 
-The boards of the second table were bare where the wire had been and bare where the stone had been and the light went off them at about half past four, and four hundred and eleven has been on the sheet at that gatepost every morning of this run of mornings and its size of error has not been computed and is not going to be computed by anybody in this basin, and the fifth of the five is not paid and the count of it is still five, and the column has one name in it and the heading over it still says whoever and nobody in this district knows who ruled it, and the clause has been extended and not ended and the condition on the seat is still unnamed and a man of sixty-one is sitting on some stones at the foot of that bank saying good afternoon to a man who has said it back every afternoon for forty-nine afternoons, and about nine miles up that hill a woman on working list forty-one has not been told, and a man of thirty-eight is going to go and try to answer her, and the page at the back of the lot book has twenty-four lines on it and none of the twenty-four is in the lot book, and the fifth of the five is not paid.
+The boards of the second table were bare where the wire had been and bare where the stone had been and the light went off them at about half past four, and four hundred and eleven has been on the sheet at that gatepost every morning of this run of mornings and its size of error has not been computed and is not going to be computed by anybody in this basin, and the fifth of the five is not paid and the count of it is still five, and the column has one name in it and the heading over it still says whoever and nobody in this district knows who ruled it, and the clause has been extended and not ended and the condition on the seat is still unnamed and a man of sixty-one is sitting on some stones at the foot of that bank saying good afternoon to a man who has said it back every afternoon for forty-nine afternoons, and about nine miles up that hill a woman on working list forty-one has not been told, and a man of thirty-eight is going to go and try to answer her, and the page at the back of the lot book has twenty-four lines on it and none of the twenty-four is in the lot book.

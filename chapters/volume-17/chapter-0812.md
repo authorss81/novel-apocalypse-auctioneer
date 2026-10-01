@@ -34,7 +34,7 @@ At about one the man of about forty-one came up the eleven feet with his bag in 
 
 ---
 
-"You have not broken anything," said the man at the end of the second table. "I made a rule about a thing not happening twice and you are the second person to have come up this bank and asked to be allowed to say the thing you came up for, and the rule has held both times, and I would like it noticed that it held on the turner this morning for about four minutes and cost him three mornings of walking, and I do not know yet whether that is the rule working or the rule being convenient."
+"You have not broken anything," said the man at the end of the second table. "A woman with a key ruled on the seventy-seventh morning that a thing was not to happen twice and you are the second person to have come up this bank and asked to be allowed to say the thing you came up for, and the rule has held both times, and I would like it noticed that it held on the turner this morning for about four minutes and cost him three mornings of walking, and I do not know yet whether that is the rule working or the rule being convenient."
 
 ---
 
@@ -94,7 +94,7 @@ The turner looked at the boards for a while.
 
 Adrian said, from about four feet off the near end of the first table, in a voice that had not been used all morning.
 
-"You have about nine minutes before the light goes off that table," he said, "and you have been walking for two days and you have not slept and I have been walking for about a day and a night and I have got nothing to say about any of it and I am not going to pretend to."
+"You have about three hours before the light goes off that table," he said, "and you have been walking for two days and you have not slept and I have been walking for about a day and a night and I have got nothing to say about any of it and I am not going to pretend to."
 
 "I am going to say one thing and then I am going to stop and it is not advice and I have no standing here and I know that."
 

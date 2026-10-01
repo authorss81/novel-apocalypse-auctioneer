@@ -26,7 +26,7 @@ The road keeper said it standing up this time, with the book in his coat, and ab
 
 "And nothing has happened to them. I have been up that road twice in four days and there are men working outside a building and the channel is holding and nobody has been up there asking them for a second time. That is the only thing in this basin that has happened this week that anybody can call a thing going right, and it happened because about nine people in a place four miles off sat down and wrote one sentence."
 
-"A place past the water sent somebody to sit in the room. That somebody has been sitting there since the second day and has not written anything, and on about the fourth day they stopped being there, and nobody told anybody why, and I went past that room on about the sixth day and it is a room with a table in it."
+"A place past the water sent somebody to sit in the room. That somebody sat in it from the second day and wrote nothing at all, and they stopped being there on about the fourth day, and nobody told anybody why, and I went past that room on about the sixth day and it is a room with a table in it."
 
 "And the eleventh place on the Salt Verge sent a form back with a name on it that is not the name of anybody living there and has not been asked whether it is the right name."
 

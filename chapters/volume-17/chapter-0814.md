@@ -68,7 +68,7 @@ Adrian Vale had been at about four feet off the near end of the first table sinc
 
 "This district has a wall. It is nine years old and about eleven feet below the top of that bank and there are four figures on it and nobody in this basin has ever asked anybody what any of the four is for."
 
-"It has a man who reads those four off it twice a morning, and has got them right every morning since before the middle of the winter, and about nine people at the top of eleven feet have heard him do it five hundred and thirty-nine times, and one man in this district read four figures out loud at about eleven in the morning nine days ago and a clerk wrote them on a page with nothing ruled on it."
+"It has a man who reads those four off it twice a morning, and has got them right every morning since before the middle of the winter, and about nine people at the top of eleven feet have heard him do it five hundred and thirty-nine times, and one man in this district read four figures out loud at about eleven in the morning eleven days ago and a clerk wrote them on a page with nothing ruled on it."
 
 "And it has a rule that will not let a figure be moved, and about four of us arrived at the same thing on the eighty-seventh morning, which is that that rule is the only reason anybody can prove the four on that wall changed, because a thing that cannot be changed cannot be quietly changed."
 

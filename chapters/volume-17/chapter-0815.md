@@ -28,15 +28,15 @@ He stopped about four feet off the near end of the first table, the same distanc
 
 "I have been offered a way out of it. Not out of this district and not out of the chair. Out of the thing I have been holding for seventeen years, which has no end on it, and about four people have known for about eleven days that it has no end on it, and about nine people have not and are not going to be told today."
 
-"The man at the end of that table said on the ninety-first morning in this yard that in about four days somebody was going to come up that lane and offer me a way out of the gap where two witnesses should have been. He said about four days and it has taken about three, and I want him to know that he was one day out and that I have had about three mornings to think about that one day and have not managed it yet."
+"I said on the ninety-first morning in this yard, out loud, that in about four days somebody was going to come up that lane and offer me a way out of the gap where two witnesses should have been. It was my sentence and about four people in this yard have been giving it to that table ever since, and he did not say it and he did not say that he had not said it, and it has taken about three days and not four, and I would like it noticed that I have had about three mornings to think about being one day out and have not managed it yet."
 
 ---
 
-The man at the end of the second table said, "I know. I was counting on the days."
+The man at the end of the second table said, "I know. I have been letting them."
 
 ---
 
-"You were counting on the days," said Iven Tallow, "and I have been sitting at the bottom of that bank for forty-four afternoons and I could hear you up there. I am not going to pretend I did not hear about four of the things you said, because four feet of stone carries a voice when a man is angry and I have been listening to a man be angry for about forty-four afternoons and that is the whole of what those stones are for."
+"You have been letting them," said Iven Tallow, "and I have been sitting at the bottom of that bank for forty-four afternoons and I could hear you up there. I am not going to pretend I did not hear about four of the things you said, because four feet of stone carries a voice when a man is angry and I have been listening to a man be angry for about forty-four afternoons and that is the whole of what those stones are for."
 
 "The offer came on the ninety-fourth morning. It is not a document and I am not going to read you anything. It was said to me in a room by a person who has been in this basin for a long time and who has never once said a false thing to me in seventeen years."
 
@@ -56,7 +56,7 @@ The man at the end of the second table said, "I know. I was counting on the days
 
 ---
 
-"Because on the eighty-seventh morning I said in this yard that I was not going to end it, and I said the same thing on the ninety-first, and on the ninety-first I told about nine people that it had not got less true the second time and that that was the only thing I had learned that week."
+"Because on the eighty-fourth morning I said in this yard that I was not going to end it, and I said the same thing on the ninety-first, and on the ninety-first I told about nine people that it had not got less true the second time and that that was the only thing I had learned that week."
 
 He looked at the boards and not at anybody.
 

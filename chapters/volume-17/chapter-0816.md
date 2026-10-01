@@ -72,7 +72,7 @@ She looked at the two spaces for about as long as it takes a man of fifty-six to
 
 "The second space is under a heading that says whoever enters this. That is not this district's wording. That is four words long and a heading, and it is asking for a person, and it is not asking for the person who would be answerable for the number, it is asking for the person who would write the name down."
 
-"And about six days ago a man of fifty-six was asked to write four figures into a column in this yard and said no out loud and gave a reason out loud in full, and I entered the asking and the answer and the reason, and the reason was that a column is for somebody being asked and he had not been asked once in five hundred and thirty-four mornings."
+"And about seven days ago a man of fifty-six was asked to write four figures into a column in this yard and said no out loud and gave a reason out loud in full, and I entered the asking and the answer and the reason, and the reason was that a column is for somebody being asked and he had not been asked once in five hundred and thirty-four mornings."
 
 "And if I put my name in that space this afternoon then in about four years there is a page somewhere that says a district in this basin produced a person for the second space on a form, and the person is a woman who enters things, and anybody who holds that page is going to take it that this district put a name on a form, and this district will not have."
 
