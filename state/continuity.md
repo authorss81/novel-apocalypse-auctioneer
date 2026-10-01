@@ -1762,3 +1762,46 @@ things made **13**, unchanged, no fourteenth proposed. things not had **5**, the
 **17. THE VOLUME 16 CLOSE HAS NOT BEEN WRITTEN.** `state/volume-16-roll-summary.md` AND `state/volume-16-close.md` DO NOT EXIST IN THIS TREE AND A CLOSE THAT ASSUMES ONE EXISTS WILL FIND NOTHING.
 
 **18. AND ONE FIGURE IN THE INHERITED RECORD IS WRONG AND WAS FOUND BY A PASS ON THIS BLOCK AND WAS NOT EDITED IN ANY OTHER BLOCK'S FILE: `state/volume-17-batch-0003-summary.md` DATES THE MAN OF ABOUT FORTY-ONE'S TRIP DOWN THAT LANE TO THE ONE HUNDRED AND TWENTIETH MORNING IN TWO PLACES. `chapter-0820.md` IS TITLED THE ONE HUNDRED AND FOURTH MORNING AND THE SAME RECORD DATES THE TRIP BY `c = 20`, AND THOSE ARE THE SAME MORNING. THE ONE HUNDRED AND FOURTH IS CORRECT.**
+
+---
+
+# VOLUME 17 CLOSE — CHAPTERS 801 TO 840, CONTINUITY APPENDED
+
+> **Appended by the Volume 17 close phase, which wrote no chapter and edited no chapter. This append covers Chapters 801 to 840. Its figures came from the forty chapter files of `chapters/volume-17/`, re-derived by the Volume 17 close. The measurement lives in `state/volume-17-close.md` and `state/volume-17-roll-summary.md` and this section is the position and not a second copy of the measurement.**
+
+## 19. THE LADDER AND THE FIGURE AT CHAPTER 840, RE-DERIVED FROM ALL FORTY FILES
+
+**`c = 0` IS CHAPTER 800 AND THE MORNING NUMBER IS `84 + c`. THE LADDER IS INTERCEPT PLUS `c` AND ZERO CELLS FAILED ON ANY OF THE FORTY MORNINGS.**
+
+**`698, 1014, 728, 689, 448 STRUCK, 581, 403, 408, 478, 417, 539, 411 CONSTANT, 439, 438, 357, 343, 525, ROW 18 GONE, ROW 19 IS c - 1`. ROW 12'S SIZE OF ERROR IS NOT COMPUTED, NOT EXPLAINED AND NOT PAID. ROW 18 MAY NOT BE INVENTED. ROW 19 MAY NOT BE RE-ANCHORED AND IS ABSENT ON `c = 1`. ROW 14'S CARRIER IS `HAVING SLEPT ON` IN THE CHAPTERS AND NOT `HE HAS SLEPT ON` AS `outline/volume-17.md` HAS IT.**
+
+**AT CHAPTER 840 THE LADDER READS: the board carries seven hundred and thirty-eight; the train on that siding has stood one thousand and fifty-four days; nobody has entered anything for seven hundred and sixty-eight days; seven hundred and twenty-nine days separate the second of January and this morning; four hundred and fifty days is how long the bid was open and it was not run and it is not open; four hundred and forty-three days is how far behind the figure on the second line is; four hundred and forty-eight days is how long the rule said out loud has stood; five hundred and eighteen days is how long it has been since the first day of the eighth month; the ninth of the nine printed nights is six hundred and twenty-one days back; a body four hundred miles off is four hundred and fifty-seven days past a printing it did not make; five hundred and seventy-nine days is the age of that figure; the figure on the sheet at that gatepost is four hundred and eleven; the man of about sixty-four is on his four hundred and seventy-ninth night, having slept on four hundred and seventy-eight; three hundred and ninety-seven marks have been cut off that board and there are three hundred and eighty-three in chalk along the edge of that second table; and the five hundred and sixty-fifth of the mornings a man of fifty-six has read four figures off that wall.**
+
+**AND THE RECORD HAS STOOD THIRTY-NINE DAYS, WHICH IS `c - 1`.**
+
+## 20. THE COUNTS AT CHAPTER 840, EACH WITH THE CONVENTION THAT PRODUCED IT
+
+**THE SECOND TABLE HAS STOOD AT THE FOOT OF THAT BANK ONE HUNDRED AND FIFTY-FOUR MORNINGS, BY `114 + c`. THE NEAR RAIL ONE HUNDRED AND FOUR, BY `64 + c`, AND NOBODY IS TO THANK THE MAN WHO FITTED IT. THE NUMBER OF MORNINGS A MAN HAS BEEN AT THE FOOT OF THAT BANK IS ONE HUNDRED AND TWENTY-FOUR, EQUAL TO THE MORNING NUMBER, ENTERED ON THE WORD OF THE MAN OF ABOUT FORTY-EIGHT WHO KEEPS A TALLY AND AFTER HE HAS SAID IT. THE LANE COUNT IS TWENTY-SEVEN AND IT MOVED FOUR TIMES IN FORTY MORNINGS, ON `c = 1`, `c = 7`, `c = 27` AND `c = 32`. THE BACK PAGE AT THE BACK OF THAT LOT BOOK CARRIES THIRTY-THREE LINES AND NONE OF THE THIRTY-THREE IS IN THE LOT BOOK. THE COUNT OF COUNTED MONTHS IS SIX, THE DOCUMENTS THIS DISTRICT DOES NOT OWN IS FOUR, THE PLACES THE THREE LINES CAN BE READ IS FOUR, THE CONDITIONS WITH NO END ON IT IS FOUR, THE THINGS THIS DISTRICT HAS MADE IS FOURTEEN, AND THE FIVE THINGS THIS DISTRICT DOES NOT HAVE IS FIVE AND IS NOT PAID ON ALL FORTY MORNINGS.**
+
+**AND THE TWO FIGURES THAT ARE NOT COUNTS AND NOT LADDERS: ADRIAN VALE'S OWN MORNINGS ARE ONE HUNDRED AND FORTY-FIVE, WHICH IS THE MORNING NUMBER PLUS TWENTY-ONE. THE MAN OF ABOUT SIXTY-FOUR'S NIGHTS ARE THE FOUR HUNDRED AND SEVENTY-NINTH, HAVING SLEPT ON FOUR HUNDRED AND SEVENTY-EIGHT. IVEN TALLOW'S AFTERNOONS ON THE STONES ARE THE SIXTY-NINTH, WHICH IS THE MORNING NUMBER LESS FIFTY-FIVE.**
+
+## 21. THE FOUR FIXED FINAL FACTS, EACH VERIFIED AGAINST `chapter-0840.md` AND NOT AGAINST A DOCUMENT
+
+1. **THE FIGURE ON THE SHEET AT THAT GATEPOST IS FOUR HUNDRED AND ELEVEN, one bare sentence at line 3, its carrier exactly once in the file, and nothing attached to it. It is four hundred and eleven on all forty mornings of the volume and its size of error has not been computed by anybody in this basin.**
+2. **THE NUMBER OF MORNINGS A MAN OF FIFTY-SIX HAS READ FOUR FIGURES OFF THAT WALL IS THE FIVE HUNDRED AND SIXTY-FIFTH, and he has said them out loud twice a morning, and neither figure is a figure anybody has asked him what it is for.**
+3. **THE MAN OF ABOUT SIXTY-FOUR AT THE FOOT OF THAT LOW WALL IS ON HIS FOUR HUNDRED AND SEVENTY-NINTH NIGHT, HAVING SLEPT ON FOUR HUNDRED AND SEVENTY-EIGHT OF THEM, GIVEN NOTHING AND ASKED NOTHING ABOUT THE WIRE.**
+4. **THE NUMBER OF MORNINGS A MAN HAS BEEN AT THE FOOT OF THAT BANK IS ONE HUNDRED AND TWENTY-FOUR, equal to the morning number, entered on the word of a man who keeps a tally and after he has said it.**
+
+**AND THE FOUR THINGS THAT ARE TRUE AND ARE NOT A CLOSE'S TO REPLACE WITH A SUMMARY: THE FIFTH OF THE FIVE IS FIVE AND UNPAID; FOUR HUNDRED AND ELEVEN IS UNCOMPUTED; THE COLUMN HAS ONE NAME, THE HEADING OVER IT SAYS *WHOEVER*, THE ONE NAME DOES NOT SATISFY THE RULE AND THE FORM'S SECOND SPACE IS EMPTY; AND ADRIAN VALE HAS NOT BEEN TOLD HE IS A GOOD MAN, HAS NOT BEEN GIVEN A BED, A WAGE OR AN OFFICE, HAS NOT ASKED FOR ANY OF THE THREE, AND SAID IN A MOUTH THAT HE IS STAYING.**
+
+## 22. THE TWO FINDINGS THE CLOSE MADE AND DID NOT REPAIR, WHICH A SUCCESSOR MUST NOT INHERIT A ZERO FROM
+
+**`outline/volume-17.md` SECTION 7 ITEM 8 NAMES FOUR THINGS AND THE CHAPTERS DO NOT CARRY ZERO OF THEM. `about four of you` IS AT FIVE, AT `chapter-0802.md:101` AND `:103`, `chapter-0804.md:35`, AND `chapter-0809.md:57` AND `:71`. `about nine of you` IS AT TWO, AT `chapter-0802.md:91` AND `chapter-0809.md:71`. THE SHAPE `have/has/had … worked out that` IS AT TWO, AT `chapter-0802.md:81` AND `chapter-0803.md:29`. ALL NINE ARE IN BLOCK 0001, WHICH IS WHY BLOCKS 0002, 0003 AND 0004 ARE RIGHT ABOUT THEIR OWN FILES AND WRONG ABOUT THE VOLUME. THE LITERAL COMPOUND EVERY BLOCK RECORD SWEPT, `about four of you have worked out that`, IS A CONJUNCTION OF TWO SEPARATE PROHIBITIONS AND IS AT ZERO, AND A SWEEP FOR IT CANNOT SEE EITHER.**
+
+**AND THE PAUSE-LENGTH HEDGE IS AT FORTY-ONE UNDER THE CONVENTION THE PROHIBITION'S OWN WORDING GIVES — `about` AND A NUMBER — AND FORTY-NINE UNDER THE LOOSER READING THAT ADMITS AN ARTICLE, ACROSS TWENTY-SEVEN AND THIRTY OF THE FORTY MORNINGS RESPECTIVELY, AND BLOCK 0004 ALONE CARRIES SIXTEEN AND SEVENTEEN. NO BLOCK RECORD OF THIS VOLUME MEASURED IT.**
+
+## 23. AND THE SIX ANSWERS NO PHASE MAY GIVE, AND THE FOUR DEBTS NO PHASE MAY PAY
+
+**WHETHER THE FOUNDER'S CLAUSE IS VALID, LAWFUL, JUST, UNJUST OR MORAL; WHAT THE COMMON MEASURE WAS; WHO PROPOSED IT; WHY THE FIRST PUBLIC SETTLEMENT WAS ABANDONED; THE CONDITION ON THE SEAT; AND WHETHER THE QUESTION ADRIAN VALE PUT DOWN WILL EVER BE THE THING THE TALLY PAYS FOR. ALL SIX ARE `outline/ending.md`'S ANSWER. NO CHAPTER OF VOLUME 17 EARNED ANY OF THEM.**
+
+**AND: `state/volume-16-close.md` DOES NOT EXIST, `state/volume-16-roll-summary.md` DOES NOT EXIST, `state/volume-12-close.md` DOES NOT EXIST, AND `state/volume-12-roll-summary.md` DOES NOT EXIST. FOUR FILES. NONE IS VOLUME 17'S TO PAY.**
