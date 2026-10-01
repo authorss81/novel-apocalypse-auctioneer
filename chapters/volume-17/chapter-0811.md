@@ -76,7 +76,7 @@ Nobody said anything.
 
 ---
 
-"They have not asked you," said the road keeper, "and I have been up this bank twice in two days and you are the first person at those boards who has come at me instead of at him, and I am going to tell you what that is worth, because you are about to spend it. It is worth one day. It is worth one more refusal that they can put in a book, and after that the book has got three refusals in it and the book is the reason nobody is going to come here again."
+"They have not asked you," said the road keeper, "and I have been up this bank twice in seven mornings and you are the first person at those boards who has come at me instead of at him, and I am going to tell you what that is worth, because you are about to spend it. It is worth one day. It is worth one more refusal that they can put in a book, and after that the book has got three refusals in it and the book is the reason nobody is going to come here again."
 
 He put his hand flat on the closed book, the way a man of fifty-six puts his hand on a stone, and then he took it off.
 

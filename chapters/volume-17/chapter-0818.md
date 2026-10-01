@@ -62,7 +62,7 @@ Adrian Vale had been at about four feet off the near end of the first table sinc
 
 "I am going to say the part that is mine and not yours, and then I am going to go and stand somewhere else."
 
-"Nineteen years is a long time to administer one thing a morning and never be asked what it is for. It is longer than the wall is old. And you did the only thing available to you, which was to put something down where a person would have to walk past it, and about four people in this yard have spent eleven days walking past it, and you have been right about all of that and none of it is any use to you this morning."
+"Nineteen years is a long time to administer one thing a morning and never be asked what it is for. It is longer than the wall is old. And you did the only thing available to you, which was to put something down where a person would have to walk past it, and about four people in this yard have spent sixteen days walking past it, and you have been right about all of that and none of it is any use to you this morning."
 
 "And the part that is mine is that a person who waits sixteen mornings to be asked a question has been doing the same thing as the rest of us, only louder, and I have never once asked anybody in this yard what they were for."
 

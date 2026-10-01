@@ -86,7 +86,7 @@ The yard was extremely quiet and about nineteen people at the top of eleven feet
 
 The turner looked at the boards for a while.
 
-"I want to be able to say a number and have somebody else say it after me," he said. "That is what I want and it is about nine words and I have been at the end of this lane for nine years and I have been reading four figures off a copy of that wall for six of them in a lane with nobody in it, and on the ninety-second morning a man read four figures out loud in a yard and I found out that I had been right for six years, and I have not been able to put that down since, and about four people in this yard watched a man of forty-one find out that he was not wrong and saw that it did not help him, and they have not worked out how those two things go together and neither have I."
+"I want to be able to say a number and have somebody else say it after me," he said. "That is what I want and it is about nine words and I have been at the end of this lane for nine years and I have been reading four figures off a copy of that wall for six of them in a lane with nobody in it, and on the eighty-seventh morning a man read four figures out loud in a yard and I found out that I had been right for six years, and I have not been able to put that down since, and about four people in this yard watched a man of forty-one find out that he was not wrong and saw that it did not help him, and they have not worked out how those two things go together and neither have I."
 
 "And there is a room nine miles off that will give me a job where being right is the whole of what I am for. I am not going to stand in this yard and tell anybody I do not want it, because I do want it, and I have wanted it since about four days ago, and the only thing standing between me and it is that I have not said the word out loud yet in a place where about nineteen people could be asked about it separately."
 
@@ -94,7 +94,7 @@ The turner looked at the boards for a while.
 
 Adrian said, from about four feet off the near end of the first table, in a voice that had not been used all morning.
 
-"You have about three hours before the light goes off that table," he said, "and you have been walking for two days and you have not slept and I have been walking for about a day and a night and I have got nothing to say about any of it and I am not going to pretend to."
+"You have about three and a half hours before the light goes off that table," he said, "and you have been walking for two days and you have not slept and I have been walking for about a day and a night and I have got nothing to say about any of it and I am not going to pretend to."
 
 "I am going to say one thing and then I am going to stop and it is not advice and I have no standing here and I know that."
 

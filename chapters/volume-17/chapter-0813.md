@@ -86,7 +86,7 @@ Orren Pike came out from behind the boards with his sheet against his chest and 
 
 The boy said it. He said it in the ordinary voice and it took him about as long as it takes a man of fifty-six to say four figures off a wall.
 
-"No," he said. "And I am going to say why and then somebody is going to tell me I am wrong and they can and I would like it entered in the box and not in the columns, and a man who walks nine miles has not asked me for anything either, so we are both of us doing it."""
+"No," he said. "And I am going to say why and then somebody is going to tell me I am wrong and they can and I would like it entered in the box and not in the columns, and a man who walks nine miles has not asked me for anything either, so we are both of us doing it."
 
 "A man of thirty-eight has been at about four feet off the near end of the first table since about nine and he has not said one word this morning and he has not asked me for one number either, and I want it said that he has not asked me, and that a man of thirty-eight who walks nine miles and comes back is the last person anybody in this yard should have to ask."
 

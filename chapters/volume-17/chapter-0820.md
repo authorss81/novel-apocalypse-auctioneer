@@ -12,7 +12,7 @@ The second table has stood at the foot of that bank one hundred and thirty-four 
 
 The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and forty-fifth of those mornings, and about nine people at the top of eleven feet had heard him five hundred and forty-five times and about four of them have said since that the morning he finds out what they are for is the morning somebody in this yard says so, and nothing of the kind has happened in this run of mornings.
 
-At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and fifty-ninth night of that run, having slept on four hundred and fifty-eight of them, and a man of sixty-one was on the stones about four feet off him for the forty-ninth afternoon running, and they said good afternoon, and neither of them said anything else, and about four feet of stone and a bank did not carry it, and the whole of what has passed between those two men in forty-nine afternoons is two words, and neither of them has said a third, and about four feet of stone and a bank did not carry it.
+At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and fifty-ninth night of that run, having slept on four hundred and fifty-eight of them, and a man of sixty-one was on the stones about four feet off him for the forty-ninth afternoon running, and they said good afternoon, and neither of them said anything else, and about four feet of stone and a bank did not carry it, and the whole of what has passed between those two men in forty-nine afternoons is two words, and neither of them has said a third.
 
 The record has stood nineteen days, and a man of thirty-eight was in that record's country on the ninety-fifth morning and came up eleven feet at about one this afternoon with nothing in either pocket, and the lane count is twenty-five and did not move, and does not move for a person and is not a page.
 
@@ -70,7 +70,7 @@ Nobody at the top of eleven feet said anything for about as long as it takes a m
 
 "What I have got is that this district has a wall with four figures on it and about nineteen people and a book with one name in a column and a rule that will not let a figure be moved and a boy of seventeen who has said a figure out loud twice and held it back once and a man of fifty-six who has wanted one morning a year to himself since yesterday afternoon, and a man of about forty-one who has made himself the only mouth for a number in this basin and a woman who has a key for a room she has not been in."
 
-"And about half of that is a way of not doing the thing, and the other half is about nine people, and she asked me what a person is owed for being named in a record and she asked it in about nine words and I have been walking about nine days with those nine words and I am not going to say them at these boards."
+"And about half of that is a way of not doing the thing, and the other half is about nine people, and she asked me what the district has got and she asked it in about nine words and I have been walking about nine days with those nine words and I am not going to say them at these boards."
 
 ---
 

@@ -84,7 +84,7 @@ She looked at the two spaces for about as long as it takes a man of fifty-six to
 
 "There is nowhere to enter it," said the clerk. "That is the part I have had for about two days and I have not said it out loud until now and I am saying it now because a woman asked me a question and I would rather answer it than not."
 
-"There are twenty-one lines on the page at the back of that book and every one of them is a thing that happened in this yard. The hundredth morning after the thirtieth of the eighth month happened in this yard. There was a form on the boards and two empty spaces and a man of thirty-four said no to writing in it out loud in front of everybody, and yesterday morning a man of sixty-one was asked a question in this yard and did not answer it."
+"There are twenty-one lines on the page at the back of that book and every one of them is a thing that happened in this yard. The hundredth morning after the thirtieth of the eighth month happened in this yard. There was a form on the boards and two empty spaces and a woman of thirty-four said no to writing in it out loud in front of everybody, and yesterday morning a man of sixty-one was asked a question in this yard and did not answer it."
 
 "And if I put one line on that page about this morning then the room nine miles up that hill gets a form with nothing in it and this yard gets a page with one line on it, and the page says that this district had a morning. And in about four years somebody is going to hold both of them and conclude that this district declined."
 
