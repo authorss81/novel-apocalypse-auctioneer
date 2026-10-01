@@ -24,7 +24,7 @@ At about a quarter to seven the boards were not up and the man who digs loam sai
 
 ---
 
-The man of fifty-six said the four off that wall at about a quarter to eight and got all four of them, and about nine people at the top of eleven feet said *as sent* out of step with each other, and nobody said anything else. Orren Pike said the lane count out loud at those boards at about ten to eight, which is twenty-nine, and it has not moved since the one hundred and fifty-seventh morning, and he said no figure this morning, and about four people at the top of eleven feet have said since that a boy of seventeen has said a figure out loud on four mornings out of the last seven and has not said why on the three in between.
+The man of fifty-six said the four off that wall at about a quarter to eight and got all four of them, and about nine people at the top of eleven feet said *as sent* out of step with each other, and nobody said anything else. Orren Pike said the lane count out loud at those boards at about ten to eight, which is twenty-nine, and it has not moved since the one hundred and fifty-seventh morning, and he said no figure this morning, and about four people at the top of eleven feet have said since that a boy of seventeen has said a figure out loud on two mornings out of the last seven and has not said why on the five in between.
 
 ---
 

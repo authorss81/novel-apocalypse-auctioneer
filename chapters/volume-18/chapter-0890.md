@@ -32,7 +32,7 @@ At about a quarter to eight the man of fifty-six said the four off that wall and
 
 ---
 
-About four people at the top of eleven feet said that after him too and about four of them have said since that a boy of seventeen has said that figure out loud four times in this stretch of ten mornings and that on this morning it was the last figure anybody said out loud in that yard before the light went off the boards, and that about four of them have not said what they make of a morning that ends on a number.
+About four people at the top of eleven feet said that after him too and about four of them have said since that a boy of seventeen has said that figure out loud three times in this stretch of ten mornings and that on this morning it was the last figure anybody said out loud in that yard before the light went off the boards, and that about four of them have not said what they make of a morning that ends on a number.
 
 ---
 
