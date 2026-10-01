@@ -58,7 +58,7 @@ The yard was extremely quiet for about four seconds.
 
 "So they will get it from here," said Sabra Holt.
 
-"They will get it from here," said the turner. "The woman who asked me said that the district knows its own person and that she has nine years of a district not producing one and one morning of a district producing one, and that she would rather have it said out loud in the yard that knows him than carried up a hill by a man with a coat on."
+"They will get it from here," said the turner. "The woman who asked me said that the district knows its own person and that she has nine years of a district not producing one and seven mornings of a district producing one, and that she would rather have it said out loud in the yard that knows him than carried up a hill by a man with a coat on."
 
 ---
 
@@ -104,7 +104,7 @@ The man of fifty-six did not move for about as long as it takes a man of fifty-s
 
 
 
-"A room. Nine miles up that hill. About a quarter past eleven this morning."
+"A room. Nine miles up that hill. About six this morning."
 
 ---
 
@@ -140,4 +140,4 @@ Sabra Holt was standing about four feet in from where she had been standing and 
 
 Nobody answered her and she did not appear to want an answer.
 
-"That is all I have," she said. "I am not going to be comforted about it and I have said that twice in about nineteen mornings and it has got less true, and I have said it in two yards about four miles apart and it has got less true in both."
+"That is all I have," she said. "I am not going to be comforted about it and I have said that three times in about nineteen mornings and it has got less true, and every one of the three was in this yard at the top of this bank and it has got less true in all three."

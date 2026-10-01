@@ -14,13 +14,13 @@ The man of fifty-six said the four off that wall at about a quarter to eight and
 
 At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and seventy-first night of that run, having slept on four hundred and seventy of them, and a man of sixty-one was on the stones about four feet off him for the sixty-first afternoon running, and they said good afternoon, and a woman who keeps a scale read a figure off a page at those boards and would not say what it was for, and there are about eleven feet between that wall and the top of this bank and about four miles between the top of this bank and the culvert, and neither of those two distances is what anybody in that yard thinks about on a morning.
 
-The record has stood thirty-one days, and the count of strangers who have come down that lane is twenty-seven and it moved this morning for the second time, and the page reached the bottom of that bank before the figure was said at those boards and the figure was said before the clerk's hand moved.
+The record has stood thirty-one days, and the count of strangers who have come down that lane is twenty-seven and it moved this morning for the fourth time in this run of mornings, five mornings after it last moved, and the page reached the bottom of that bank before the figure was said at those boards and the figure was said before the clerk's hand moved.
 
 "One hundred and thirty-seven," said Orren Pike.
 
 He said it and then he said a second thing, which was a number, and both of them came out of him before anybody in that yard had stopped what they were doing.
 
-"Twenty-six until about ten minutes ago," he said, "and twenty-seven now, and I have not said it in front of the clerk and I have not said it in front of her and I said it the moment the page was on the boards and not before, because that is the order it happens in and I have been saying that figure at these boards since before the wall changed."
+"Twenty-six until about ten minutes ago," he said, "and twenty-seven now, and I have not said it in front of her and I said it the moment the page was on the boards and not before, because that is the order it happens in and I have been saying that figure at these boards since before the wall changed."
 
 ---
 
@@ -88,7 +88,7 @@ Nothing was entered on the back of that book this morning and Mara Quill did not
 
 "It was four under this yard," said Mavis Dorr. "You heard the woman with the beam say it. Third line from the bottom, four, and it said four last time as well."
 
-"It was four under this yard," he said. "What is not four is the line under it, and there is no line under this yard on that page, and I have looked at that page twice and I am about thirty-seven years old and I have been at this table for fifteen years and I have never in my life seen a page from that room put a place underneath this one."
+"It was four under this yard," he said. "What is not four is the line under it, and I have looked at that page twice and I am about thirty-seven years old and I have been at this table for fifteen years, and what I want to say out loud this morning is that there was nothing under this yard on that page five mornings ago and there is a figure under it now, and that neither of us has seen anybody put it there, and I do not know what a room writes on a page."
 
 He stopped.
 
@@ -98,7 +98,7 @@ He stopped.
 
 Adrian Vale stood at about four feet off the near end of the first table for a long time with his hands behind him.
 
-There was a number said out loud in that yard this morning and nobody in that yard would repeat it. About nine people had it and about nine people can be asked about it separately tomorrow and none of them can be asked what it means, because the one woman who read it off that page said four times out loud that she was not going to say, and she has never in nine years refused to say a thing in that yard until this morning. And the number the man of about forty-eight puts into the air every morning went into the same air about two hours before she did, and the one person who might have said something about it had been at the foot of a wall eleven feet down since before any of it started and had said he did not know.
+There was a number said out loud in that yard this morning and nobody in that yard would repeat it. About nine people had it and about nine people can be asked about it separately tomorrow and none of them can be asked what it means, because the one woman who read it off that page said three times out loud that she was not going to say, and she has never in nine years refused to say a thing in that yard until this morning. And the number the man of about forty-eight puts into the air every morning went into the same air about two hours before she did, and the one person who might have said something about it had been at the foot of a wall eleven feet down since before any of it started and had said he did not know.
 
 And it was about four o'clock, and in about half an hour the man at the foot of that wall was going to say the four out loud again and then say the other thing, and about nine people would hear both, and neither of them would be about the figure under this yard.
 

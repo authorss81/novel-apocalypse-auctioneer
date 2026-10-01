@@ -40,7 +40,7 @@ He said it into the middle of that yard in the ordinary voice and about nine peo
 
 ---
 
-At about half past two Adrian Vale stood up off the rail at about four feet off the near end of the first table and about nine people at the top of eleven feet stopped, because he had done that on the one hundred and ninth morning and had said he was going to ask a question, and on the one hundred and fourteenth morning and had said he was not going up that lane, and about four people at the top of eleven feet had been waiting about nine mornings to find out what he would stand up for.
+At about half past two Adrian Vale stood up off the rail at about four feet off the near end of the first table and about nine people at the top of eleven feet stopped, because he had done that on the one hundred and ninth morning and had said he was going to ask a question, and on the one hundred and fourteenth morning and had said he was not going up that lane, and on the one hundred and twenty-second morning and had stood up and said he was not going to name one, and about four people at the top of eleven feet had been waiting about two mornings to find out what he would stand up for and had got the answer on the one before last and were still standing there.
 
 ---
 
@@ -52,7 +52,7 @@ Nobody said anything.
 
 ---
 
-"That is the whole of it," said Adrian. "I am staying in this yard. I have no bed and I have no wage and I have no office and I have not asked for any of the three this morning and I am not going to ask for any of the three this afternoon, and I would like it said out loud that I have not asked for them, because about nine people in this yard have noticed that I have not asked and about four of them have been waiting about nine mornings for me to ask and I am not going to, and I would rather be asked about not asking than be congratulated on something."
+"That is the whole of it," said Adrian. "I am staying in this yard. I have no bed and I have no wage and I have no office and I have not asked for any of the three this morning and I am not going to ask for any of the three this afternoon, and I would like it said out loud that I have not asked for them, because about nine people in this yard have noticed that I have not asked and about four of them have been waiting about two mornings for me to ask and I am not going to, and I would rather be asked about not asking than be congratulated on something."
 
 ---
 
@@ -68,7 +68,7 @@ Mavis Dorr opened her mouth and Adrian Vale held up one hand about four inches o
 
 ---
 
-"I have been on a page," said Sabra Holt, "in a hand that is not mine, since the ninety-first morning, and nobody has ever asked me why, and a room nine miles up that hill has spent the last two days asking this district for a name and it did not send for me, and I am not going to be comforted about any part of that, and I have said so four times in about twenty-two mornings and it has got less true every time, and I am saying it a fifth time this afternoon in a yard where a man of thirty-eight has just said he is staying and nobody said that was a good thing, and I would like about four people at the top of eleven feet to notice that I said it anyway."
+"I have been on a page," said Sabra Holt, "in a hand that is not mine, since the ninety-first morning, and nobody has ever asked me why, and a room nine miles up that hill has spent the last two days asking this district for a name and it did not send for me, and I am not going to be comforted about any part of that, and I have said so three times in about twenty-two mornings and it has got less true every time, and I am saying it a fourth time this afternoon in a yard where a man of thirty-eight has just said he is staying and nobody said that was a good thing, and I would like about four people at the top of eleven feet to notice that I said it anyway."
 
 ---
 
@@ -80,7 +80,7 @@ At about three Mara Quill put her hand on the page at the back of the lot book a
 
 "You said it was the last one on the one hundred and twenty-second morning at about a quarter past twelve."
 
-"I said on the one hundred and nineteenth morning that it was the last one I was going to write and then I wrote one, and I said on the one hundred and twenty-second morning that it was the last one and then I wrote one," said the clerk, "and I would like that noticed, because it means the last one was on the one hundred and twenty-second morning and there has been nothing on that page since, and this morning is a different thing, and there is no reason for this morning and I am not going to give one."
+"I wrote a line on the one hundred and nineteenth morning and then told the yard it was the last one I was going to write, and I wrote a line on the one hundred and twenty-second morning and then told the yard that was the last one as well," said the clerk, "and I would like that noticed, because it means the last one was on the one hundred and twenty-second morning and there has been nothing on that page since, and this morning is a different thing, and there is no reason for this morning and I am not going to give one."
 
 ---
 

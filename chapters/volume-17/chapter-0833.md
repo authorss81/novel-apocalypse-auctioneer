@@ -56,7 +56,7 @@ Nobody said anything at all for about as long as a man of fifty-six takes to get
 
 "And the toll," said Sabra Holt.
 
-"There is a toll," said the man of sixty-one. "It is one figure. It is taken once. It is taken now, this afternoon, in this yard, out of the number the man of about forty-eight says out loud every morning, and there is no other number in this district that anybody nine miles up that hill has ever paid for."
+"There is a toll," said the man of sixty-one. "It is one figure. It is taken once, and it is not taken this afternoon. It will be taken in this yard, out of the number the man of about forty-eight says out loud every morning, and there is no other number in this district that anybody nine miles up that hill has ever paid for."
 
 ---
 

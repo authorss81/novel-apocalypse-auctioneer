@@ -60,7 +60,7 @@ Nobody at the top of eleven feet said one word and about four of them had someth
 
 ---
 
-"That it was a plain question and I had given it an answer twice that was not an answer," said the turner. "And that a man of thirty-eight stood up in that yard on the one hundred and fourteenth morning and said out loud that he was not going up that lane, and gave three reasons, and one of them was that a woman nine miles off had asked him what this district has got and he had not got an answer, and I read that on a page and I have not been able to put it down since. And that a boy of seventeen is going to walk up that hill with a sheet in his coat on a morning that gets named and I am not going to be the only one in this basin who has said yes in that yard and not begun."
+"That it was a plain question and I had given it an answer twice that was not an answer," said the turner. "And that a man of thirty-eight stood up in that yard on the one hundred and fourteenth morning and said out loud that he was not going up that lane, and gave three reasons, and one of them was that a woman nine miles off had asked him what this district has got and he had not got an answer, and They told me that on the last two mornings and I have not been able to put it down since. And that a boy of seventeen is going to walk up that hill with a sheet in his coat on a morning that gets named and I am not going to be the only one in this basin who has said yes in that yard and not begun."
 
 ---
 
@@ -98,13 +98,13 @@ At about noon Orren Pike came about four feet off the boards with the sheet unde
 
 ---
 
-"On my legs," said Orren Pike. "There is nothing else. A page with a heading over it can be asked about. A sheet in a boy's chest cannot, and I said that in this yard on the one hundred and thirteenth morning and I have turned my own into a column in about four seconds and I did not have to think about it and that is the part I do not like, and I have not unturned it."
+"On my legs," said Orren Pike. "There is nothing else. A column with a heading over it can be asked about and a sheet in a boy's chest cannot, and I said that in this yard on the one hundred and thirteenth morning, and about four days later I stood here and turned my own into a column without stopping to think about it, and I have not worked out yet why the same shape was worth two different prices to me four days apart, and that is the part I do not like, and I have not unturned it."
 
 ---
 
 At about a quarter past twelve Mara Quill read out what she was going to write and then wrote it.
 
-It is the thirty-third line on the page at the back of that book and none of the thirty-three is in the lot book, and she read it out in the ordinary voice in front of about nineteen people, and it said that a man of about forty-one had said out loud at about eleven that he was beginning on the following morning, and that a boy of seventeen had said at about half past eleven that he would be up that hill at about six, and that neither of the two of them had given a figure.
+It is the thirty-third line on the page at the back of that book and none of the thirty-three is in the lot book, and she read it out in the ordinary voice in front of about nineteen people, and it said that a man of about forty-one had said out loud at about eleven that he was beginning on the following morning, and that a boy of seventeen had said at about noon that he would be up that hill at about six, and that neither of the two of them had given a figure.
 
 ---
 
@@ -114,7 +114,7 @@ It is the thirty-third line on the page at the back of that book and none of the
 
 Mavis Dorr put her hand flat on the boards and did not say anything for about four seconds.
 
-"You said it was the last one on the one hundred and fourteenth morning," she said, "and then a man of fifty-six asked me to enter that he had been asked on the one hundred and twelfth and I entered it, and you read it out and you wrote it and you said nothing about whether it was the last one, and I have been not asking you about it for about eight mornings."
+"You said on the one hundred and fourteenth morning that you were not entering anything," she said, "and on the one hundred and twelfth morning you entered the asking of a man of fifty-six without being asked to, and you read it out and you wrote it and you said nothing about whether it was the last one, and since then a man has asked you for a line in front of all of us, and that is the second line a person in this yard has asked you for, and I have been not asking you about the last one for about three mornings."
 
 "You asked me about it," said the clerk.
 
@@ -126,7 +126,7 @@ Mavis Dorr put her hand flat on the boards and did not say anything for about fo
 
 Adrian Vale stood up off the rail at about four feet off the near end of the first table at about half past one.
 
-He had been in that yard one hundred and forty-three mornings and he had carried a length of fencing wire down to a wall and it had gone, and he had carried nine words up a hill in his mouth and they had not, and he had carried a page down to a wall and a clerk had read it out before she wrote it, and he had carried a boy's sheet about four feet off the near end of the first table for about nine mornings and then had told the boy to put it down.
+He had been in that yard one hundred and forty-three mornings and he had carried a length of fencing wire down to a wall and it had gone, and he had carried nine words up a hill in his mouth and they had not, and he had carried a page down to a wall and a clerk had read it out before she wrote it, and he had stood about four feet off the near end of the first table on the morning a boy of seventeen handed a sheet he had kept four years to the only person in this district who was going to walk up that hill, and the boy said afterwards that he had turned his own into a column in about four seconds and had not had to think about it.
 
 "I am not going to name a morning," he said, to nobody, "and I said that in this yard on the one hundred and fourteenth morning and I have not unsaid it, and I am not going to change it this afternoon because two people in this yard have just named things out loud and it would look like I had been waiting."
 
@@ -134,7 +134,7 @@ He had been in that yard one hundred and forty-three mornings and he had carried
 
 At about four o'clock the man of fifty-six said the four off that wall and got all four of them and about nine people at the top of eleven feet said *as sent* at the same moment and out of step with each other, and then he said, in the ordinary voice, that he does not know what any of them is for.
 
-About nine people heard it for the eleventh time running, and about four of those nine had heard two different people name a morning in that yard that day and about nine of them had heard one man name one.
+About nine people heard it for the eleventh time running, and about nine of them had heard one man name one and about four of them had heard one man say out loud in about nineteen people's hearing that he was not going to name a morning at all, and that is two different things and only one of them is a name.
 
 ---
 

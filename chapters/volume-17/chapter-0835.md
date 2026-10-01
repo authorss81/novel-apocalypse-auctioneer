@@ -10,7 +10,7 @@ Three hundred and ninety-two marks have been cut off that board, and there are t
 
 The second table has stood at the foot of that bank one hundred and forty-nine mornings and moved this morning from one hundred and forty-eight. The near rail has stood on the near side of it for ninety-nine mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is one hundred and nineteen, on the word of the man who keeps a tally, said before it was entered. The count of things this district has made is fourteen and did not move. The lane count is twenty-seven and did not move. The lot book is on the boards with five lines on it and a column with one name in it, and the heading over that column still says whoever, and the page at the back has thirty-one lines on it and none of the thirty-one is in the lot book.
 
-The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and sixtieth of those mornings, and about nine people at the top of eleven feet heard him, and about nine people at the top of eleven feet watched a sum arrive at ninety-eight and not one of them said the last figure themselves.
+The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and sixtieth of those mornings, and about nine people at the top of eleven feet heard him, and about nine people at the top of eleven feet watched a sum stop at ninety-two for about half an hour and then arrive at ninety-eight, and about four of them said the last figure and about five of them did not.
 
 At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and seventy-fourth night of that run, having slept on four hundred and seventy-three of them, and a man of sixty-one was on the stones about four feet off him for the sixty-fourth afternoon running, and they said good afternoon, and sixteen people said five out loud at those boards and three people said six, and there are about eleven feet between that wall and the top of this bank and about four miles between the top of this bank and the culvert, and neither of those two distances is what anybody in that yard thinks about on a morning.
 
@@ -58,17 +58,27 @@ He said it in the ordinary voice and he did not look at the boards and about nin
 
 She kept the sum going and she said it out loud every time a share went on it, the way a woman keeping a beam keeps saying a number, and about nine people at the top of eleven feet found that they were adding along with her without meaning to.
 
-"Twenty," she said. "Twenty-five. Thirty. Thirty-five. Forty. Forty-five. Fifty. Fifty-five. Sixty. Sixty-five. Seventy. Seventy-five. Eighty. Eighty-six. Ninety-two. Ninety-eight."
+"Twenty," she said. "Twenty-five. Thirty. Thirty-five. Forty. Forty-five. Fifty. Fifty-five. Sixty. Sixty-five. Seventy. Seventy-five. Eighty. Eighty-six. Ninety-two."
 
-She stopped.
+She stopped with the figure in the air and did not put the last one on it, and it went round that yard that about nine people had been adding a number that was not the toll.
 
-"That is the toll," she said, "and it is said out loud in that yard by me, and I am the only person in this district who can tell you whether it is right and I am telling you it is right, and I am going to be asked about it separately tomorrow and I will say the same thing again."
+"That is not the toll," she said. "The toll is ninety-eight and I have said ninety-two and I am not going to say the rest of it until the third six is said out loud in this yard by the person whose it is, and I have not got past the three people on my list and one of them is not in this yard yet."
 
 ---
 
 The man of fifty-six came up the eleven feet at about half past two.
 
 He has not come up that bank in this run of mornings and he came up it the way anybody comes up it, which is badly, and about nine people at the top of eleven feet stopped what they were doing.
+
+---
+
+"Three of us give six," said the woman who keeps a scale, to about nine people, and she was not naming herself and she was not naming the boy and she was looking at the flat stone he had come up off. "You are the third one and I have been holding the figure since about two and I would like about nine people to notice that a woman with a beam held a number back in a yard for about half an hour because one of the three was eleven feet below it."
+
+"Six," said the man of fifty-six.
+
+"Ninety-eight," said the woman who keeps a scale.
+
+She put her pencil down on the boards and nobody at the top of eleven feet said anything at all.
 
 ---
 
@@ -102,7 +112,7 @@ The clerk read it out once more and then wrote it, and it is the thirty-second l
 
 "You said it on the one hundred and fourteenth morning and you have said nothing at all since and everybody at the top of eleven feet has been waiting about five mornings for you to say it again."
 
-"That was before this one," said the clerk. "This is the second line a person in this yard has asked me for and I am going to say that it is the last one, and I am not going to give a reason, and if any of you want a reason you are going to have to do without it, and I am aware that that is the third reason I have not given in about ten mornings and I am aware that a woman who keeps going at it after about ten mornings of not mattering is a fool and not a clerk, and that was my reason on the one hundred and thirteenth morning and it is still my reason and I am not going to say it twice in a yard."
+"That was before this one," said the clerk. "This is the second line a person in this yard has asked me for and I am going to say that it is the last one, and I am not going to give a reason, and if any of you want a reason you are going to have to do without it, and I am aware that that is the third reason I have not given in about nineteen mornings and I am aware that a woman who keeps going at it after about ten mornings of not mattering is a fool and not a clerk, and that was my reason on the one hundred and thirteenth morning and it is still my reason and I am not going to say it twice in a yard."
 
 ---
 

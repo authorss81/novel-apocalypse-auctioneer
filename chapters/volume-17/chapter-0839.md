@@ -12,7 +12,7 @@ The second table has stood at the foot of that bank one hundred and fifty-three 
 
 The man of fifty-six said the four off that wall at about a quarter to eight and again at about four and got them both times, and that is the five hundred and sixty-fourth of those mornings, and about nine people at the top of eleven feet heard him, and about nine people at the top of eleven feet did not know until about eleven that he had been up that hill and back.
 
-At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and seventy-eighth night of that run, having slept on four hundred and seventy-seven of them, and a man of sixty-one was on the stones about four feet off him for the sixty-eighth afternoon running, and they said good afternoon, and a boy of seventeen went up that hill at about six in the morning and was back on the stones about four feet off that wall at about eleven, and there are about eleven feet between that wall and the top of this bank and about four miles between the top of this bank and the culvert, and neither of those two distances is what anybody in that yard thinks about on a morning.
+At about half past three a man of about sixty-four was at the foot of that low wall on his four hundred and seventy-eighth night of that run, having slept on four hundred and seventy-seven of them, and a man of sixty-one was on the stones about four feet off him for the sixty-eighth afternoon running, and they said good afternoon, and a boy of seventeen went up that hill at about six in the morning and was back at the top of that bank at about eleven, and there are about eleven feet between that wall and the top of this bank and about four miles between the top of this bank and the culvert, and neither of those two distances is what anybody in that yard thinks about on a morning.
 
 The record has stood thirty-eight days, and a sheet went up that hill this morning and came back and nothing came down it, and the page at the back of that book carries thirty-three lines and three of the thirty-three are ones nobody heard read and that count is not going to be lower.
 
@@ -110,11 +110,11 @@ Nobody at the top of eleven feet made a sound.
 
 ---
 
-About nine people at the top of eleven feet heard that and about four of them said nothing at all and Adrian Vale said nothing at all, which he has never done in that yard, and about four people at the top of eleven feet noticed him not doing it.
+About nine people at the top of eleven feet heard that and about four of them said nothing at all and Adrian Vale said nothing at all, which is a thing he has done in that yard before and about four people at the top of eleven feet noticed him doing it again and about four of them have said since that they would rather he had said something.
 
 ---
 
-The man at the end of the second table said nothing about it either, and about nine people looked at him and about nine of them did not ask, and that was the second time in two days that a thing was named in that yard and he made no note of it on the side of his own hand.
+The man at the end of the second table said nothing about it either, and about nine people looked at him and about nine of them did not ask, and that was the second time in two mornings that a thing was named in that yard and he made no note of it on the side of his own hand.
 
 ---
 

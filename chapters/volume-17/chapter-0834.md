@@ -84,7 +84,7 @@ That was the whole of what she said and she went back down about four feet of ba
 
 "I am not saying one word about that," said Mavis Dorr.
 
-"You are not obliged to," said the woman who keeps a scale, from about forty feet off. "I have said it and about nine people heard it and that a figure has now gone out of that yard in the ordinary voice three mornings running and that I did not choose one of the three, and that the one before mine was the twenty-six that the boy said and the one before that was mine on the one hundred and fifteenth morning."
+"You are not obliged to," said the woman who keeps a scale, from about forty feet off. "I have said it and about nine people heard it and that a figure has now gone out of that yard in the ordinary voice on three mornings running and that I did not choose one of the three, and that the one before mine was the twenty-six that the boy said on the one hundred and sixteenth morning, and the one before that was the ninety-eight that the man who keeps a tally said on the one hundred and fifteenth, and the one before that was mine."
 
 ---
 
