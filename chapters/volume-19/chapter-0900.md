@@ -52,11 +52,11 @@ And the clerk said nothing at all about it, and about four people at the top of 
 
 ---
 
-About nine people at the top of eleven feet have said since that refusing is easier than the asking was, and that about four of them said that is not the same as being settled, and that about four of them said a yard has now asked two questions out loud in ten mornings and has refused one and been refused twice and that about four of them said the refusals took about as long as the asking.
+About nine people at the top of eleven feet have said since that refusing is easier than the asking was, and that about four of them said that is not the same as being settled, and that about four of them said a yard has put a question out loud on six mornings out of ten and has said no out loud nine times over one of them, and that about four of them said the refusals took about as long as the asking.
 
 ---
 
-The woman who keeps a scale weighed a sack at about one and the needle came to rest a long way short of the mark where the lead weights begin, and she said nothing to anybody, and about half past one the man of about forty-eight who keeps a tally said his number into about four hundred yards of air and nobody wrote it down, and about four people at the top of eleven feet said it after him out of step with each other, and he put his hand flat on his own coat afterwards and went to stand about nine feet further along, which is what he does.
+The woman who keeps a scale weighed a sack at about one and the needle came to rest a long way short of the mark where the lead weights begin, and she said nothing to anybody. At about half past one the man of about forty-eight who keeps a tally said his number into about four hundred yards of air and nobody wrote it down, and about four people at the top of eleven feet said it after him out of step with each other, and he put his hand flat on his own coat afterwards and went to stand about nine feet further along, which is what he does.
 
 ---
 
@@ -88,7 +88,7 @@ And about four people at the top of eleven feet have said since that the record 
 
 ---
 
-At about half past four the light went off the boards and the goodnight that gets said at the end of a day in this yard was said by about four people out of about nineteen and about nine people at the top of eleven feet did not say it and did not go up.
+At about half past four the light went off the boards and about four people out of about nineteen said the goodnight that gets said at the end of a day in that yard, and about nine people at the top of eleven feet did not say it and did not go up, and nobody at the top of that bank said out loud what had been refused.
 
 ---
 

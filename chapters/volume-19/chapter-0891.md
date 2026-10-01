@@ -36,7 +36,7 @@ Orren Pike said the lane count out loud at those boards at about ten to eight, w
 
 ---
 
-About four people at the top of eleven feet said that after him out of step with each other and about four of them have said since that a boy of seventeen has said that figure out loud on four mornings running and that nobody in that yard has said out loud what any of them is about, and that about four of them said it is about a man who was not in that yard yesterday and about four of them said it is about nothing in particular, and that those are the same three people.
+About four people at the top of eleven feet said that after him out of step with each other and about four of them have said since that a boy of seventeen has said that figure out loud on two mornings running and that on the morning before that he said no figure, and that nobody in that yard has said out loud what any of them is about, and that about four of them said it is about a man who was not in that yard yesterday and about four of them said it is about nothing in particular, and that those are the same three people.
 
 ---
 
@@ -80,7 +80,7 @@ Then the clerk turned the page at the back of that lot book round and wrote the 
 
 ---
 
-At about half past four the light went off the boards and the goodnight that gets said at the end of a day in this yard was said by about four people out of about nineteen and about nine people at the top of eleven feet said it this morning and did not go up.
+At about half past four the light went off the boards and about four people out of about nineteen said the goodnight that gets said at the end of a day in that yard, and about nine people at the top of eleven feet said it this morning and did not go up, and the two of those groups did not look at one another while it was being said.
 
 ---
 

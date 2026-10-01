@@ -84,7 +84,7 @@ Then the clerk turned the page at the back of that lot book round and wrote the 
 
 ---
 
-At about half past four the light went off the boards and the goodnight that gets said at the end of a day in this yard was said by about four people out of about nineteen and about nine people at the top of eleven feet did not say it and did not go up.
+At about half past four the light went off the boards and about four people out of about nineteen said the goodnight that gets said at the end of a day in that yard, and about nine people at the top of eleven feet did not say it and did not go up, and the form was still lying at about four feet off the near end of the first table when the light stopped being able to make it out.
 
 ---
 

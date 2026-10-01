@@ -16,7 +16,7 @@ At about half past three a man of about sixty-four was at the foot of that low w
 
 The record has stood ninety-six days, the page at the back did not take a line this morning and the morning itself was written on it in her own hand, and nothing that came down that lane is in the lot book or on the page at the back of that book, and the second space on that form is still empty.
 
-Orren Pike said the lane count out loud at those boards at about ten to eight and said no figure this morning, and about four people at the top of eleven feet heard him.
+Orren Pike said the lane count out loud at those boards at about ten to eight and said no figure this morning, and about four people at the top of eleven feet heard him and about four of them have said since that a boy of seventeen has now said no figure on four mornings out of the last eight.
 
 ---
 
@@ -84,7 +84,7 @@ Then the clerk turned the page at the back of that lot book round and wrote the 
 
 ---
 
-At about half past four the light went off the boards and the goodnight that gets said at the end of a day in this yard was said by about four people out of about nineteen and about nine people at the top of eleven feet did not say it and did not go up.
+At about half past four the light went off the boards and the goodnight that gets said at the end of a day in that yard was said by about four people out of about nineteen, and about nine people at the top of eleven feet did not say it and did not go up, and about four of them have said since that it is the only thing that gets said out loud at the end of a day in that yard that nobody writes down.
 
 ---
 

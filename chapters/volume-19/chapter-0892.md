@@ -76,7 +76,7 @@ About nine people at the top of eleven feet have said since that a woman who has
 
 ---
 
-At about half past four the light went off the boards and the goodnight that gets said at the end of a day in this yard was said by about four people out of about nineteen and about nine people at the top of eleven feet did not say it and did not go up.
+At about half past four the light came off the boards all at once, the way it does when there is cloud on the top of that bank, and about four people out of about nineteen said the goodnight that gets said at the end of a day in that yard, and about nine people at the top of eleven feet did not say it and did not go up, and a woman who keeps a scale was still at her scale when the light went.
 
 ---
 

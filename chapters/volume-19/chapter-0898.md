@@ -16,7 +16,7 @@ At about half past three a man of about sixty-four was at the foot of that low w
 
 The record has stood ninety-seven days, the page at the back did not take a line this morning and the morning itself was written on it in her own hand, and nothing that came down that lane is in the lot book or on the page at the back of that book, and the second space on that form is still empty.
 
-Orren Pike said the lane count out loud at those boards at about ten to eight and said no figure this morning, and about four people at the top of eleven feet heard him.
+Orren Pike said the lane count out loud at those boards at about ten to eight and said no figure this morning, and about nine people at the top of eleven feet heard him, and about four of them have said since that the number has been said at those boards on every morning of this stretch and the figure has gone with it on three of them.
 
 ---
 
@@ -56,7 +56,7 @@ And then he gave a reason, in the ordinary voice, in about nineteen people's hea
 
 ---
 
-And about nine people at the top of eleven feet heard that and about four of them have said since that a reason is a different thing from a no, and that about four of them said a no has got nothing on it to carry and about four of them said a reason has got a person attached to it and about four of them said that is the first time in this stretch of mornings that anybody in that yard has given one and about four of them said the reason was about the yard and not about the lane.
+And about nine people at the top of eleven feet heard that and about four of them have said since that a reason is a different thing from a no, and that about four of them said a no has got nothing on it to carry and about four of them said a reason has got a person attached to it and about four of them said this is the second reason anybody in that yard has given out loud in this stretch of mornings, the first one having been given on the one hundred and seventy-ninth morning by a man who would not name three people, and about four of them said the reason was about the yard and not about the lane.
 
 ---
 
@@ -84,7 +84,7 @@ Then the clerk turned the page at the back of that lot book round and wrote the 
 
 ---
 
-At about half past four the light went off the boards and the goodnight that gets said at the end of a day in this yard was said by about four people out of about nineteen and about nine people at the top of eleven feet did not say it and did not go up.
+At about half past four the light went off the boards and about four people out of about nineteen said the goodnight that gets said at the end of a day in that yard, and about nine people at the top of eleven feet did not say it and did not go up, and a man who has given a reason in that yard is still a man nobody has thanked when the light goes.
 
 ---
 

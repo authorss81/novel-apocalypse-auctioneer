@@ -16,7 +16,7 @@ At about half past three a man of about sixty-four was at the foot of that low w
 
 The record has stood ninety-three days, the page at the back did not take a line this morning and the morning itself was written on it in her own hand, and nothing that came down that lane is in the lot book or on the page at the back of that book, and the second space on that form is still empty.
 
-Orren Pike said the lane count out loud at those boards at about ten to eight and said a figure out loud before the clerk's hand had moved, and about four people at the top of eleven feet said it after him.
+Orren Pike said the lane count out loud at those boards at about ten to eight and said a figure out loud, and he said it before the clerk's hand had moved, and about four people at the top of eleven feet said it after him out of step with each other.
 
 ---
 
@@ -36,7 +36,7 @@ Orren Pike said the lane count out loud at those boards at about ten to eight, w
 
 ---
 
-And about four people at the top of eleven feet said it after him out of step with each other and about four of them have said since that the man who reads figures off a wall twice a morning has not been asked about any of them this month and that about four of them said the boy is being asked about a thing nobody has asked the man about, and that about four of them have not said what that is.
+And about four people at the top of eleven feet said it after him out of step with each other and about four of them have said since that the man who reads figures off a wall twice a morning has not been asked about any of them in this stretch of mornings and that about four of them said the boy is being asked about a thing nobody has asked the man about, and that about four of them have not said what that is.
 
 ---
 
@@ -84,7 +84,7 @@ And then a man of thirty-eight said one thing out loud at about ten past four, i
 
 ---
 
-At about half past four the light went off the boards and the goodnight that gets said at the end of a day in this yard was said by about four people out of about nineteen and about nine people at the top of eleven feet said it this morning and did not go up.
+At about half past four the light went off the boards and about four people out of about nineteen said the goodnight that gets said at the end of a day in that yard, and about nine people at the top of eleven feet said it this morning and did not go up, and it was said out of step with each other the way it is said on a morning when nothing has been asked.
 
 ---
 
