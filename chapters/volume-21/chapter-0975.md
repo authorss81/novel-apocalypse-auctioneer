@@ -52,7 +52,7 @@ At the north end the man who digs loam had the strip open and the spade going in
 
 ---
 
-The woman who keeps a scale came down that bank at about half past twelve with her scale in a piece of cloth and set it up about four feet off the near end of the second table and weighed two things and chalked two figures on the edge of her own board and said nothing out loud to anybody.
+The woman who keeps a scale came down that bank at about half past twelve with her scale in a piece of cloth and set it up about four feet off the near end of the second table and weighed two things and put the figures on the edge of her own board in chalk and said nothing out loud to anybody.
 
 ---
 
@@ -66,7 +66,7 @@ At about half past one the man of about forty-eight who keeps a tally put his nu
 
 And about four people at the top of eleven feet have said since that a man of fifty-six has read four figures off that wall twice a morning for a long stretch of mornings and got all four of them both times, and that about four of them have not said what a thing is like when it is the one thing you are certain of, and that about four of them have said nobody asked him a single thing about any of it, and that about four of them have not said whether anybody has ever wanted to know. She had heard him do it twice that morning without turning round. It is not a loud thing. It is four numbers said by a man who has had as long as she has had to get them right, and if you are standing at a scale with your hands full of iron you take it the way you take the turner's wheel.
 
-There are four figures on the edge of that board this morning and three of them were put there before the light went off them. She looked at the fourth one longer than she looked at the other three, and then she put the chalk in her pocket and weighed the next thing in the basket without hurrying it.
+Most of what is on the edge of that board was put there before the light went off them. She looked at the one she had done last longer than she looked at any of the others, and then she put the chalk in her pocket and weighed the next thing in the basket without hurrying it.
 
 ---
 

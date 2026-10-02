@@ -56,7 +56,7 @@ The man of thirty-eight was already at about four feet off the near end of the f
 
 ---
 
-The woman who keeps a scale came down that bank at about half past twelve and set up about four feet off the near end of the second table, and weighed four things and chalked four figures on the edge of her own board, and said nothing out loud to anybody all morning. Nothing was said to her about yesterday either. Nobody came over to her scale. Nobody asked her what she weighs things for. The man of about forty-eight who keeps a tally put his number into about four hundred yards of air at about half past one and four people said it after him out of step with each other, and she was at her own scale when he did it and she said nothing then either.
+The woman who keeps a scale came down that bank at about half past twelve and set up about four feet off the near end of the second table, and weighed four things and put the figures on the edge of her own board in chalk, and said nothing out loud to anybody all morning. Nothing was said to her about yesterday either. Nobody came over to her scale. Nobody asked her what she weighs things for. The man of about forty-eight who keeps a tally put his number into about four hundred yards of air at about half past one and four people said it after him out of step with each other, and she was at her own scale when he did it and she said nothing then either.
 
 ---
 

@@ -34,7 +34,7 @@ At about a quarter to eight the man of fifty-six said the four off that wall and
 
 ---
 
-At about ten to eight the boy said the lane count out loud at those boards, which is thirty, and then said no figure and said out loud that he was saying no figure, and went to the near end of the first table and stood there looking down the ground.
+At about ten to eight the boy called the lane count out loud at those boards, which is thirty, and told the boards straight after it that no figure was going with it this morning, and then went and stood at the near end of the first table with his hands behind his back and looked at the ground until the boards were not new to him any more.
 
 ---
 

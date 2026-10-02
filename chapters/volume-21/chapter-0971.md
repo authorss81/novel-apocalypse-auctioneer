@@ -56,7 +56,7 @@ Then she took a bar out of the basket, set it on, and waited for it to come stil
 
 ---
 
-Nobody stood close enough to have heard it if she had said it. She has nine years of figures on that board in her own hand and a bit of chalk worn down to a nub, and she has never once read one of them out loud to anybody, and she did not start this morning, and nobody in that yard knew there was a figure on the board at all.
+Nobody stood close enough to have heard it if she had said it. She has stood at that scale for nine years and the board is her own and the chalk in her pocket is worn down to a nub, and she has never once read a figure off it out loud to anybody, and she did not start this morning, and nobody in that yard knew there was a figure on the board at all.
 
 ---
 
@@ -78,7 +78,7 @@ At about four o'clock the man of fifty-six said the four off that wall and got a
 
 ---
 
-And then the clerk read that morning out loud at about four feet off the near end of the second table, in the ordinary voice and once only, to about nineteen people at the foot of that bank, and she read it before she put her pen to anything.
+And the clerk got up off her stool and read that morning out loud at about four feet off the near end of the second table, in the ordinary voice and once only, and about nineteen people at the foot of that bank heard the whole of it, and she read it before she put her pen to anything.
 
 ---
 

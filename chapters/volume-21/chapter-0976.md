@@ -50,7 +50,7 @@ The man who makes round things worked at the far end of the second table all mor
 
 ---
 
-The woman who keeps a scale came down that bank at about half past twelve, before that, and set up about four feet off the near end of the second table and weighed three things and chalked three figures on the edge of her own board and said nothing out loud all morning. She heard both of the numbers go out that morning. She said nothing about either of them, then or afterwards, and she could not have told you afterwards which one she had heard first.
+The woman who keeps a scale came down that bank at about half past twelve, before that, and set up about four feet off the near end of the second table and weighed three things and put the figures on the edge of her own board in chalk and said nothing out loud all morning. She heard both of the numbers go out that morning. She said nothing about either of them, then or afterwards, and she could not have told you afterwards which one she had heard first.
 
 ---
 

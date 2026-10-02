@@ -48,7 +48,7 @@ The man of thirty-eight came down the slope at about half past nine with his han
 
 ---
 
-At the north end the man who digs loam had the strip open and the spade in and out of the same place, and he said nothing out loud to anybody all morning and nobody said good morning to him. The woman who keeps a scale came down that bank at about half past twelve with the basket on her arm and set up about four feet off the near end of the second table and weighed four things and chalked four figures on the edge of her own board, and said nothing out loud, and she looked up the bank twice while she was doing it.
+At the north end the man who digs loam had the strip open and the spade in and out of the same place, and he said nothing out loud to anybody all morning and nobody said good morning to him. The woman who keeps a scale came down that bank at about half past twelve with the basket on her arm and set up about four feet off the near end of the second table and weighed four things and put the figures on the edge of her own board in chalk, and said nothing out loud, and she looked up the bank twice while she was doing it.
 
 ---
 

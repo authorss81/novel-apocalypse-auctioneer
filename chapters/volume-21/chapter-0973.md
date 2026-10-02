@@ -64,7 +64,7 @@ Nobody answered her. Nobody asked her what she weighs things for. Nobody thanked
 
 ---
 
-And about four people at the top of eleven feet have said since that the woman with the scale put a figure of her own out loud this morning for the first time in nine years, and that about four of them have not said what it is like to have nine years of figures on a board and say one of them out loud to nobody, and that about four of them have said nobody stopped her, and that about four of them have not said what anybody did with it afterwards.
+And about four people at the top of eleven feet have said since that the woman with the scale put a figure of her own out loud this morning for the first time in nine years, and that about four of them have not said what it is like to stand at a scale for nine years and say one figure out loud to nobody, and that about four of them have said nobody stopped her, and that about four of them have not said what anybody did with it afterwards.
 
 ---
 
@@ -94,7 +94,7 @@ Then she wrote the morning under the last line in her own hand and took no line 
 
 ---
 
-At about half past four the light had gone off the boards and the goodnight that gets said at the end of a day in that yard was said by about four people out of about nineteen. About nine people at the top of that bank did not join in, and they stayed. and the second table stood where it stands. And the woman who keeps a scale stayed where she was, at her own scale about four feet off the near end of the second table, while the rest of that yard went up the bank. She stood at her own scale about four feet off the near end of the second table until the last of the others had gone over the top, with four figures chalked on the edge of her own board and one of them out loud in about four hundred yards of air behind her.
+At about half past four the light had gone off the boards and the goodnight that gets said at the end of a day in that yard was said by about four people out of about nineteen. About nine people at the top of that bank did not join in, and they stayed. and the second table stood where it stands. And the woman who keeps a scale stayed where she was, at her own scale about four feet off the near end of the second table, while the rest of that yard went up the bank. She stood at her own scale about four feet off the near end of the second table until the last of the others had gone over the top, with the figures chalked on the edge of her own board and one of them out loud in about four hundred yards of air behind her.
 
 ---
 

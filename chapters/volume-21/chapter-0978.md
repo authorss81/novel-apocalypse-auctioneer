@@ -52,11 +52,11 @@ At about eleven the man of about thirty-four said it, once, in the ordinary voic
 
 ---
 
-Nobody answered him. Nobody thanked him. Nobody asked him to say it again and nobody asked him what the reason was for and nobody asked him whether it was already written down anywhere, and nobody at those boards asked him one word about any of it, and the turner's wheel went on turning over the whole of it. The man of thirty-eight worked on at about four feet off the near end of that table for the rest of the morning and did not look over at him, and the man at the end of the second table put his head down over his own work, and about nine people at the top of eleven feet went on with what they had been doing.
+Nobody answered him. Nobody thanked him. Nobody asked him to say it again and nobody asked him what the reason was for, and nobody at those boards asked him one word about any of it, and the turner's wheel went on turning over the whole of it. The man of thirty-eight worked on at about four feet off the near end of that table for the rest of the morning and did not look over at him, and the man at the end of the second table put his head down over his own work, and about nine people at the top of eleven feet went on with what they had been doing.
 
 ---
 
-The woman who keeps a scale came down that bank at about half past twelve and set up about four feet off the near end of the second table and weighed three things and chalked three figures on the edge of her own board and said nothing out loud to anybody that morning. She heard him. She had the chalk in her hand at the time and she heard a man at the other end of that yard say one thing out loud and put her chalk away and weigh the next one.
+The woman who keeps a scale came down that bank at about half past twelve and set up about four feet off the near end of the second table and weighed three things and put the figures on the edge of her own board in chalk and said nothing out loud to anybody that morning. She heard him. She had the chalk in her hand at the time and she heard a man at the other end of that yard say one thing out loud and put her chalk away and weigh the next one.
 
 ---
 

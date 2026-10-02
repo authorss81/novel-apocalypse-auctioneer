@@ -52,7 +52,7 @@ At about ten the man of about thirty-two put his own table up about four feet al
 
 ---
 
-At the north end the man who digs loam had the strip open and did not come out of it. Nobody at those boards said good morning to him and he said nothing out loud to anybody. The woman who keeps a scale came down that bank at about half past twelve with her scale in a piece of cloth and set it up about four feet off the near end of the second table and weighed three things and chalked three figures on the edge of her own board. She said nothing out loud. She did not look over at the near end of the first table and she was nine feet from it.
+At the north end the man who digs loam had the strip open and did not come out of it. Nobody at those boards said good morning to him and he said nothing out loud to anybody. The woman who keeps a scale came down that bank at about half past twelve with her scale in a piece of cloth and set it up about four feet off the near end of the second table and weighed three things and put the figures on the edge of her own board in chalk. She said nothing out loud. She did not look over at the near end of the first table and she was nine feet from it.
 
 ---
 
