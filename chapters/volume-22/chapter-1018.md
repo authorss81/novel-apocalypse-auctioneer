@@ -4,7 +4,7 @@ The figure on the sheet at that gatepost is four hundred and eleven. Seven hundr
 
 The board carries nine hundred and sixteen. The train on that siding has stood one thousand two hundred and thirty-two days. Nobody has entered anything for nine hundred and forty-six days. Nine hundred and seven days separate the second of January and this morning.
 
-That bid stood open four hundred and fifty days and it was never run and it is not open and nothing in this volume or any other has opened it. Six hundred and twenty-one days is how far behind the figure on the second line of that lot book this yard is. Six hundred and twenty-six days is how long the rule said out loud in that yard has stood where it was said. Six hundred and ninety-six days is how long it has been since the first day of the eighth month. A body four hundred miles off is six hundred and thirty-five days past a printing it did not make.
+That bid stood open four hundred and fifty days and it was never run and it is not open and nothing in this district or any other has opened it since. Six hundred and twenty-one days is how far behind the figure on the second line of that lot book this yard is. Six hundred and twenty-six days is how long the rule said out loud in that yard has stood where it was said. Six hundred and ninety-six days is how long it has been since the first day of the eighth month. A body four hundred miles off is six hundred and thirty-five days past a printing it did not make.
 
 The ninth of the nine printed nights is seven hundred and ninety-nine days back and no night has been named. Five hundred and seventy-five marks have been cut off that board, and five hundred and sixty-one marks in chalk along the edge of that second table.
 

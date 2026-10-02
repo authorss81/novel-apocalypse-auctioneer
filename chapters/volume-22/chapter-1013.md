@@ -102,7 +102,7 @@ She has never once known him to be in a hurry and she has never once known him t
 
 About four people at the top of eleven feet have said since that they have not said what a figure of his own is about.
 
-Nobody at the top of that bank has said it to him and nobody has said it to her and it has not been said in front of the man of thirty-eight on any morning the turner has been standing at that wheel.
+Nobody at the top of that bank has said it to him and nobody has said it to her and it has not been said in front of the man of thirty-eight on any morning she has stood at that scale.
 
 ---
 
