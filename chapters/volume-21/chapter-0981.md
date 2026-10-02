@@ -14,7 +14,7 @@ No reason was said out loud this morning and nobody said no, so that page did no
 
 A reason was said out loud in that yard on the one hundred and eighty-second morning, and it was said on a morning when the back of that lot book was not yet a place a reason could go, so no line went on that page for it, and that reason is not counted anywhere now.
 
-The second table has stood at the foot of that bank two hundred and ninety-five mornings, and the near rail has stood on the near side of it for two hundred and forty-five mornings, and nobody thanks the man who fitted it. A man has stood at the foot of that bank two hundred and sixty-five mornings, on the word of the man who keeps it, and he said that number before it was entered. The table of the man of about thirty-two has stood at the foot of that bank for the two hundred and sixty-fourth morning, and it is not the second table and it is not the near rail. The man of fifty-six has read four figures off that wall on the seven hundred and sixth of those mornings. A man of about sixty-four was at the foot of that low wall on the six hundred and twentieth night of that run, having slept on six hundred and nineteen of them. The man of fifty-six's flat answer is the hundred and fifty-fourth time running.
+The second table has stood at the foot of that bank two hundred and ninety-five mornings, and the near rail has stood on the near side of it for two hundred and forty-five mornings, and nobody thanks the man who fitted it. A man has stood at the foot of that bank two hundred and sixty-five mornings, on the word of the man who keeps it, and he said that number before it was entered. The table of the man of about thirty-two has stood at the foot of that bank for the two hundred and sixty-fourth morning, and it is not the second table and it is not the near rail. The man of fifty-six has read four figures off that wall on the seven hundred and sixth of those mornings. A man of about sixty-four was at the foot of that low wall on the six hundred and twentieth night of that run, having slept on six hundred and nineteen of them, and this is the one hundred and twenty-first morning running of nobody asking him anything. The man of fifty-six's flat answer is the hundred and fifty-fourth time running.
 
 That lot book is on the boards. It has five lines on it and a column with one name in it, and the heading over that column still says whoever. The second space on that form is empty and nobody has asked for it to be filled. The lane count is thirty and it did not move this morning, and it is not moved by a decision. Nothing came down that lane. The page at the back carries fifty-five lines and carried fifty-five lines when the light went off it. The record has stood one hundred and eighty days.
 
@@ -68,7 +68,7 @@ She had the wind on her back and the light coming along the eleven feet toward h
 
 At about half past one she said a second figure of her own out loud.
 
-She took the chalk out again to do it. She had it out for no reason a person could name, which is that she has found on two mornings now that a figure in her hand is not the same as a figure in the air, and the difference between them is not a small one, and she has never had anybody in that yard to put the difference to.
+She took the chalk out again to do it. She had it out for no reason a person could name, which is that on the second morning of a thing she has found that a figure in her hand is not the same as a figure in the air, and the difference between them is not a small one, and she has never had anybody in that yard to put the difference to.
 
 Nobody was close to her. About four feet off the near end of the second table is not far from anybody if somebody comes that way, and about nine people were up the bank, and the turner was turning, and the man at the end of that table had his head down over his own work, and the boy had his back to her with his elbows on the boards.
 
@@ -84,7 +84,7 @@ Nobody answered her.
 
 The turner's wheel went on turning. The man at the far end of that table put his thumb on the rim of the thing he was holding and turned it a quarter round and set it down on the stone and did not look over. The man of thirty-eight kept his route along the top of his table and did not break it and did not look up.
 
-Nobody asked her what she weighs things for. Nobody asked her where the number came from. Nobody asked her to say it again. Nobody thanked her, and nobody said anything at all about it, and the figure did not go across that yard and did not come back off the bank, and about four people at the top of eleven feet heard it and let it go past them.
+Nobody asked her what she weighs things for. Nobody asked her where the number came from. Nobody asked her to say it a second time. Nobody asked her whether she had got it right the first time. Nobody thanked her, and nobody said anything at all about it, and the figure did not go across that yard and did not come back off the bank, and about four people at the top of eleven feet heard it and let it go past them.
 
 She went on weighing.
 
@@ -96,9 +96,9 @@ What she had not been ready for was the rest of the afternoon.
 
 She had thought, standing there with the chalk in her hand, that whatever was going to happen would happen quickly, because things do when they are said into a yard. What she had not allowed for was the other thing: that nothing would happen, and that the nothing would then have to be got through.
 
-At about two she stood with both hands on the upright and looked along the whole length of that yard at the tables. Orren Pike was at the boards with his back to her and his elbows on them and he had not turned round, and standing there she understood that if the boy had turned round it would have been worse, because a boy turning round is a boy about to repeat it, and then a number of hers would have been said a second time by a person of seventeen who did not know what he was doing.
+About two she put her forearms on the upright and stood looking the whole length of that yard at the tables. Orren Pike had not turned round once since he said his count out loud at about ten to eight, and she stood there looking at the back of that boy's coat and worked out, a good way through doing it, that the one thing she had wanted out of that morning was for somebody at that bank to look up at her. And that the boy turning round would have been the worst of the two things that could have happened, because he is seventeen and there is no way to hand a number back to the person it came out of.
 
-At about half past two the light was coming across the eleven feet for the last time that day, and she picked the chalk up and put it down again without marking anything, and she had never once done that in nine years.
+At about half past two the light was coming across the eleven feet for the last time that day, and she picked the chalk up and put it down again without marking anything, which she had done four times in one hour eight mornings ago and had not done at all since, and had not done once in the nine years before that.
 
 At about three she tied the cloth over the scale and knotted it and left the basket at the foot of the leg, because carrying it up the bank and coming down for it would have meant two trips, and a person does two trips when she is thinking about something.
 
@@ -112,9 +112,9 @@ And about four people at the top of eleven feet have said since that a woman at 
 
 At about half past three the sun came over that low wall and lay down along the stones at its foot, and the man standing at the foot of it was in the same place he had been in at nine. A man of sixty-one was sitting about four feet off him with his forearms on his knees. They said good afternoon across the four feet between them, and a man of sixty-one said afternoon, and he said nothing else at all.
 
-About four o'clock the man of fifty-six said the four off that wall and got all four of them, and put his hand flat on the stone under the bottom one and said, in the ordinary voice, that he still does not know what the four of them are for. About nineteen people heard it for the hundred and fifty-fourth time running. Nobody asked him anything.
+About four o'clock the man of fifty-six was at that wall for the second time that day and got all four of them off it, and he said out loud, in the ordinary voice, that he still does not know what the four of them are for. About nineteen people heard it for the hundred and fifty-fourth time running. Nobody asked him anything.
 
-And then the clerk got up off her stool and read that morning out loud, once, at about four feet off the near end of the second table, in the ordinary voice, and she read it before she put her pen to anything.
+And then the clerk read that morning out loud. She was standing about four feet off the near end of the second table and she said the whole of it once, in the ordinary voice, and she did not put her pen to anything until it was out of her mouth.
 
 "The two hundred and sixty-fifth morning," she said. "Nothing goes on the back of that book this morning, so the morning goes on it in my hand and there is nothing else in the account of it. If you did not take it in, I will say it again."
 
@@ -130,4 +130,4 @@ Then she went up that bank.
 
 ---
 
-Fifty-five lines are on that page and not one of them is in the lot book. Two figures of hers went out into the open air of that yard this morning and the second of them went out at about half past one in the ordinary voice, and neither of the two is on that page and neither of them is in that book and neither of them came down that lane. Three of the first thirty-three lines were never read. Nobody asked her where the number came from. Nobody asked her what she weighs things for. Nobody thanked her and the fifth of the five is unpaid.
+Fifty-five lines are on that page and not one of them is in the lot book. One figure of hers went out into the open air of that yard this morning at about half past one in the ordinary voice and one went out of it eight mornings ago at about a quarter to one, and neither of the two is on that page and neither of them is in that book and neither of them came down that lane. Three of the first thirty-three lines were never read. Nobody asked her where the number came from. Nobody asked her what she weighs things for. Nobody thanked her and the fifth of the five is unpaid.

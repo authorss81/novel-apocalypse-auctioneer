@@ -14,7 +14,7 @@ No reason was said out loud this morning and nobody said no, so that page did no
 
 On the one hundred and eighty-second morning a person said a reason out loud in that yard and nothing was written for it, because the back of that lot book did not become a place a reason could go until the two hundred and eighth morning, and that reason is not counted anywhere and is not going to be counted.
 
-The second table has stood at the foot of that bank two hundred and ninety-seven mornings, and the near rail has stood on the near side of it for two hundred and forty-seven mornings, and nobody thanks the man who fitted it. A man has stood at the foot of that bank two hundred and sixty-seven mornings, on the word of the man who keeps it, and he said that number before it was entered. The table of the man of about thirty-two has stood at the foot of that bank for the two hundred and sixty-sixth morning, and it is not the second table and it is not the near rail. The man of fifty-six has read four figures off that wall on the seven hundred and eighth of those mornings. A man of about sixty-four was at the foot of that low wall on the six hundred and twenty-second night of that run, having slept on six hundred and twenty-one of them. The man of fifty-six's flat answer is the hundred and fifty-sixth time running.
+The second table has stood at the foot of that bank two hundred and ninety-seven mornings, and the near rail has stood on the near side of it for two hundred and forty-seven mornings, and nobody thanks the man who fitted it. A man has stood at the foot of that bank two hundred and sixty-seven mornings, on the word of the man who keeps it, and he said that number before it was entered. The table of the man of about thirty-two has stood at the foot of that bank for the two hundred and sixty-sixth morning, and it is not the second table and it is not the near rail. The man of fifty-six has read four figures off that wall on the seven hundred and eighth of those mornings. A man of about sixty-four was at the foot of that low wall on the six hundred and twenty-second night of that run, having slept on six hundred and twenty-one of them, and this is the one hundred and twenty-third morning running of nobody asking him anything. The man of fifty-six's flat answer is the hundred and fifty-sixth time running.
 
 That lot book is on the boards. It has five lines on it and a column with one name in it, and the heading over that column still says whoever. The second space on that form is empty and nobody has asked for it to be filled. The lane count is thirty and it did not move this morning, and it is not moved by a decision. Nothing came down that lane. The page at the back carries fifty-five lines and carried fifty-five lines when she shut the book. The record has stood one hundred and eighty-two days.
 
@@ -34,11 +34,13 @@ Six hundred days is a round figure and it arrived without anybody noticing it, t
 
 At the wall the man of fifty-six said the four off the stone and got all four of them, and put his hand flat on the stone under the bottom one, and two men came down the bank about nine feet behind him and one of them said something about the weather and neither of them said it to him.
 
-Before nine, the second table was carried a foot further along and the near rail came with it, and the man at the end of that table put his heel on the wedge and stood on it a while before he sat.
+Before nine the second table went a foot further along the hard ground and the near rail went with it, and the man at the end of that table was standing in the gap they made without waiting to be asked to. He put his boot on the wedge under the leg that rocks and stayed on it until the legs were down and the two of them had gone, and then he sat.
+
+The frame was lying flat on the turf at the top of that bank with the woman of about fifty-two sitting on the low stone beside it, her back to the top of that bank and her face to the yard, and the bag was on the grass behind her, and she had not come down that bank this morning.
 
 At about half past nine the man of thirty-eight came down the slope with his hands showing and started at the empty end of his table, and he worked at about four feet off the near end of it without speaking all morning.
 
-The turner's wheel went on turning. At the far end of the second table the man who makes round things had the small stove going at his elbow and took a thing out of the fire and looked at the place where it had been in and put it back in.
+Over at the near end of that ground the wheel went on turning. At the far end of the second table the man who makes round things had the small stove going at his elbow and took a thing out of the fire and looked at the place where it had been in and put it back in.
 
 ---
 

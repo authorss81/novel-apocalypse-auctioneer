@@ -14,7 +14,7 @@ No reason was said out loud this morning and nobody said no, so that page did no
 
 One reason was said out loud in that yard on the one hundred and eighty-second morning, and the back of that lot book was not a place a reason could go until the two hundred and eighth morning, so nothing was written for it then, and that reason is not counted anywhere and never has been counted anywhere.
 
-The second table has stood at the foot of that bank two hundred and ninety-nine mornings, and the near rail has stood on the near side of it for two hundred and forty-nine mornings, and nobody thanks the man who fitted it. A man has stood at the foot of that bank two hundred and sixty-nine mornings, on the word of the man who keeps it, and he said that number before it was entered. The table of the man of about thirty-two has stood at the foot of that bank for the two hundred and sixty-eighth morning, and it is not the second table and it is not the near rail. The man of fifty-six has read four figures off that wall on the seven hundred and tenth of those mornings. A man of about sixty-four was at the foot of that low wall on the six hundred and twenty-fourth night of that run, having slept on six hundred and twenty-three of them. The man of fifty-six's flat answer is the hundred and fifty-eighth time running.
+The second table has stood at the foot of that bank two hundred and ninety-nine mornings, and the near rail has stood on the near side of it for two hundred and forty-nine mornings, and nobody thanks the man who fitted it. A man has stood at the foot of that bank two hundred and sixty-nine mornings, on the word of the man who keeps it, and he said that number before it was entered. The table of the man of about thirty-two has stood at the foot of that bank for the two hundred and sixty-eighth morning, and it is not the second table and it is not the near rail. The man of fifty-six has read four figures off that wall on the seven hundred and tenth of those mornings. A man of about sixty-four was at the foot of that low wall on the six hundred and twenty-fourth night of that run, having slept on six hundred and twenty-three of them, and this is the one hundred and twenty-fifth morning running of nobody asking him anything. The man of fifty-six's flat answer is the hundred and fifty-eighth time running.
 
 That lot book is on the boards. It has five lines on it and a column with one name in it, and the heading over that column still says whoever. The second space on that form is empty and nobody has asked for it to be filled. The lane count is thirty and it did not move this morning, and it is not moved by a decision. Nothing came down that lane. The page at the back carries fifty-six lines and carried fifty-six lines when the clerk sat down this morning. The record has stood one hundred and eighty-four days.
 
@@ -40,9 +40,11 @@ At about ten to eight Orren Pike said the lane count out loud at those boards, w
 
 He says the lane count before her hand moves on anything, which he does every morning, and about four people at the top of eleven feet have said since that a boy who says a number and then says out loud that he is saying no number has never once been asked what the two of those are for, and that about four of them have not said whether he would go on doing it if nobody ever answered him.
 
-At the wall the man of fifty-six said the four off the stone and got all four of them.
+The man of fifty-six had said the four off that stone and got all four of them, and he was not standing at that wall at that moment.
 
-Just after nine the second table went a foot further along and the near rail came with it, and the man at the end of that table put his boot on the wedge and sat down with his weight on it. The man of thirty-eight came down the slope at about half past nine with his hands showing and worked at about four feet off the near end of the first table and said nothing out loud at any point of it. The turner's wheel went on turning and said nothing.
+Just after nine the second table went a foot further along and the near rail came with it. The man at the end of that table took the wedge side of it without being asked, put his boot on, and did not take it off again until the light had gone off the boards. The man of thirty-eight came down the slope at about half past nine with his hands showing and worked at about four feet off the near end of the first table and said nothing out loud at any point of it. The turner's wheel went on turning and said nothing.
+
+The frame was lying flat on the turf at the top of that bank with the rebate face up, and the woman of about fifty-two was sitting on the low stone beside it with her back to the top of that bank, and she had not come down that bank for three mornings now, and nobody at the foot of that bank had gone up it to ask her why not.
 
 ---
 
@@ -58,19 +60,17 @@ The man of about forty-eight who keeps a tally put his number out into about fou
 
 About half past three the sun came over that low wall and lay along those stones, and a man of sixty-one was sitting up on them about four feet off the man standing at the foot of it with his arms resting on his knees. They said good afternoon, and he said the one word back, and he said nothing else that afternoon, and nobody went near the pair of them for the rest of it.
 
-At about four o'clock the man of fifty-six said the four off that wall, got all four of them, put his hand flat on the stone under the bottom one, and said, in the ordinary voice, that he still does not know what the four of them are for. About nineteen people heard it for the hundred and fifty-eighth time running, and nobody asked him anything.
+He was back at that wall at about four and he said the four off it a second time and got all four of them again, and put his hand flat on the stone under the bottom one. What he said, in the ordinary voice, was that he still does not know what the four of them are for. About nineteen people heard it for the hundred and fifty-eighth time running, and nobody asked him anything.
 
 ---
 
-And then the clerk read that morning out loud, in the ordinary voice, standing about four feet off the near end of the second table, and she gave the account of it before her pen went near the page.
-
-She did it at about four feet off the near end of the second table, in the ordinary voice, once, and she read it before she put her pen to anything at all.
+And then the clerk read that morning out loud. She was up off her stool for it and standing about four feet off the near end of the second table, and she did not go back to the stool until she had said the whole of it. Her pen did not go near the page until after that.
 
 "The two hundred and sixty-ninth morning," she said. "Nobody has said a reason out loud in this yard this morning and nobody has said no either, so there is nothing for the back of that book to do and the morning goes on it in my hand. I have said that out loud, as I do, and there is no more of it than that."
 
 Then she wrote the morning under the last line in her own hand and took no line for it. The page carried fifty-six lines before she shut it and fifty-six lines after, and the line that went on yesterday is still there over the top of the worn place where it does not sit level with the others, and nobody at those boards said a word about any of it while she was doing it.
 
-Then she put the pen down on the boards beside the front of that book, and not into the holder, and left it lying there.
+Then she put the pen down on the boards beside the front of that book, which by then was lying open on the boards with its back to the light, and not into the holder, and left it lying there.
 
 Orren Pike came along the near side of the second table with his arms full of nothing, the way he does when he has finished with the boards and has not been told to do anything else, and he looked down at the pen lying there and then at the back of that book, and he did not ask her about the pen and he did not ask her about the page, and he went on along the table and up the slope.
 

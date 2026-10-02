@@ -14,7 +14,7 @@ A question was put out loud to the clerk at those boards this morning, and a que
 
 Somebody said a reason out loud in that yard on the one hundred and eighty-second morning, before the back of that lot book was any kind of a place a reason could go, so nothing was written down for it then and it is not counted anywhere now.
 
-The second table has stood at the foot of that bank two hundred and ninety-six mornings, and the near rail has stood on the near side of it for two hundred and forty-six mornings, and nobody thanks the man who fitted it. A man has stood at the foot of that bank two hundred and sixty-six mornings, on the word of the man who keeps it, and he said that number before it was entered. The table of the man of about thirty-two has stood at the foot of that bank for the two hundred and sixty-fifth morning, and it is not the second table and it is not the near rail. The man of fifty-six has read four figures off that wall on the seven hundred and seventh of those mornings. A man of about sixty-four was at the foot of that low wall on the six hundred and twenty-first night of that run, having slept on six hundred and twenty of them. The man of fifty-six's flat answer is the hundred and fifty-fifth time running.
+The second table has stood at the foot of that bank two hundred and ninety-six mornings, and the near rail has stood on the near side of it for two hundred and forty-six mornings, and nobody thanks the man who fitted it. A man has stood at the foot of that bank two hundred and sixty-six mornings, on the word of the man who keeps it, and he said that number before it was entered. The table of the man of about thirty-two has stood at the foot of that bank for the two hundred and sixty-fifth morning, and it is not the second table and it is not the near rail. The man of fifty-six has read four figures off that wall on the seven hundred and seventh of those mornings. A man of about sixty-four was at the foot of that low wall on the six hundred and twenty-first night of that run, having slept on six hundred and twenty of them, and this is the one hundred and twenty-second morning running of nobody asking him anything. The man of fifty-six's flat answer is the hundred and fifty-fifth time running.
 
 That lot book is on the boards. It has five lines on it and a column with one name in it, and the heading over that column still says whoever. The second space on that form is empty and nobody has asked for it to be filled. The lane count is thirty and it did not move this morning, and it is not moved by a decision. Nothing came down that lane. The page at the back carries fifty-five lines and carried fifty-five lines when she shut the book. The record has stood one hundred and eighty-one days.
 
@@ -28,7 +28,7 @@ The strip at the north end had been open three days and the spade was going into
 
 The man who digs loam had stopped, and he was standing with the spade in his hand and the handle wet through where his palm was.
 
-He had been thinking about it since before the light came. Not the loam. What he had been thinking about was a thing he had heard at the second table a fortnight ago, said once by a woman at a scale into about four feet of air, and about four people on the bank had heard it and none of them had said a word, and since then the figure had been sitting in his head the way a stone sits in a boot.
+He had been thinking about it since before the light came. Not the loam. What he had been thinking about was a thing he had heard at the second table nine mornings ago, said once by a woman at a scale into about four feet of air, and about four people on the bank had heard it and none of them had said a word, and since then the figure had been sitting in his head the way a stone sits in a boot.
 
 What he wanted was not the figure. He had never wanted the figure. What he wanted was to know where figures went when they went out loud, and the only place in that yard where anything at all was taken down was the back of that book.
 
@@ -42,7 +42,7 @@ He had had it in his mouth at the north end of that yard for a stretch of mornin
 
 The boy was at them with the lot book wedged against the rail and his elbows down.
 
-"Thirty," he said, to the boards and to nobody. "And nothing after it, because I am saying that I am saying nothing."
+"Thirty," he said, to the boards and to whoever was near enough to hear it. "And nothing after it, because I am saying that I am saying nothing."
 
 The man who digs loam put the spade down against the leg of the first table, and he said it in the ordinary voice, and he said it to the clerk, and about nineteen people at the foot of that bank had the sound of it.
 
@@ -54,7 +54,7 @@ Orren Pike, who was seventeen and who heard every figure that went into that yar
 
 She was sitting with the book open on her knees when he said it, and she did not get up, and she did not look at the page while she thought about it.
 
-Fifteen years. She had been handed the pen at twenty-nine and she had never once had anybody ask her what a line on that page was for, and she had never once offered, and there had never been a morning in fifteen years when the question came at her from the foot of that bank instead of going past her into the air and dying there.
+Fifteen years. She had been handed the pen at nineteen and she had never once had anybody ask her what a line on that page was for, and she had never once offered, and there had never been a morning in fifteen years when the question came at her from the foot of that bank instead of going past her into the air and dying there.
 
 She thought about it for about as long as it takes a man of fifty-six to say four figures off a wall.
 
@@ -76,7 +76,7 @@ He had wanted one word and he had got one word. There was no part of him that wa
 
 At about half past twelve she came down the slope with the basket on her arm, untied the cloth off the leg of the scale, and set herself up about four feet off the near end of the second table, and the first thing she put on that morning she weighed twice and wrote down once.
 
-She said nothing out loud this morning.
+Nothing she put on that pan that morning went out loud.
 
 She had a figure there on the board by half past one with the light on it and the chalk in her hand, and she did not say that one either, and the reason she gave herself while she was standing there was a plain one that she did not say to anybody: she had said one out loud and it had gone nowhere, and she could not find a reason to do it again that was worth the standing still for.
 
@@ -86,17 +86,17 @@ She put the chalk away and weighed the next thing.
 
 At about half past one the man of about forty-eight who keeps a tally stood where he stands and put his number out into about four hundred yards of air, and about four people took it up after him out of step with each other, and nothing that was said at those boards this morning was written down.
 
-Nobody at those boards took anything down.
+There was nobody at those boards with a hand near that book.
 
 And about four people at the top of eleven feet have said since that a man at the north end put one question out loud at those boards this morning and a clerk gave him one word back, and that about four of them have not said what a person does with one word where there used to be nothing, and that about four of them have said nothing has been done with that word since, and that about four of them have not said what the page at the back of that book is for.
 
 ---
 
-By about half past three that stretch of stones had the sun on it. The man at the foot of that low wall was in the same place he had been standing at nine. A man of sixty-one was sitting about four feet off him with his coat under him. They said good afternoon across the four feet between them, and a man of sixty-one said afternoon, and after that the whole of that conversation was over.
+By about half past three that stretch of stones had the sun on it, and the man at the foot of that low wall had not moved out of it since about nine. A man of sixty-one was sitting about four feet off him with his coat folded under him on the stones. Good afternoon went across the four feet and one word came back over it, and that was the whole of what either of them said for the rest of that afternoon.
 
 The man of fifty-six said the four off that wall at about four o'clock, got all four of them, and put his hand flat on the stone under the bottom one and said, in the ordinary voice, that he still does not know what the four of them are for. About nineteen people heard it for the hundred and fifty-fifth time running, and nobody asked him anything at all about any part of it.
 
-The clerk read that morning out loud at about four feet off the near end of the second table, once and in the ordinary voice, and she had said all of it before her pen went anywhere near the page.
+The clerk got up off her stool where she sits with that book and read that morning out loud, once, and she did it in the ordinary voice, and every word of the account of it was in the air at that bank before her pen was anywhere near a page.
 
 "The two hundred and sixty-sixth morning," she said. "There is a question going round this yard this morning and a question is not one of the things that page takes, so nothing goes on the back of that book and the morning goes on in my hand. I have said it out loud so that there is one account of the day and not two."
 
@@ -106,7 +106,7 @@ Then she wrote the morning under the last line in her own hand and took no line 
 
 The light went off the boards at about half past four and the goodnight that gets said at the end of a day in that yard was said by about four people out of about nineteen, and about nine people at the top of that bank did not join in and stayed where they were standing for a while afterwards.
 
-And the woman who keeps a scale tied the cloth over her scale, knotted it, put the basket on her arm and went up that bank with a figure of her own on the edge of her own board that she had looked at twice and not said.
+And the woman who keeps a scale knotted the cloth over her scale, put the basket on her arm, and went up that bank, with a figure of her own on the edge of her own board that she had looked at twice and not said.
 
 ---
 

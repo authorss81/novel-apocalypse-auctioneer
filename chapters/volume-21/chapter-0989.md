@@ -1,4 +1,4 @@
-# Chapter 0989: The Two Hundred And Seventy-Third Morning After The Thirtieth Of The Eighth Month, And The Man Of Fifty-Six Said The Four Off That Wall At About A Quarter To Eight And Again At About Four And Got Them Both Times, And Put His Hand Flat On The Stone Afterwards, And About Nine People At The Top Of Eleven Feet Did Not Ask Him Anything About Any Of It
+# Chapter 0989: The Two Hundred And Seventy-Third Morning After The Thirtieth Of The Eighth Month, And The Man Of Fifty-Six Said The Four Off That Wall At About A Quarter To Eight And Again At About Four And Got Them Both Times, And Put His Hand Flat On The Stone Afterwards, And Nobody Asked Him Anything About Any Of It
 
 The figure on the sheet at that gatepost is four hundred and eleven. Seven hundred and twenty-eight days is the age of that figure.
 
@@ -14,7 +14,7 @@ No reason was said out loud this morning and nobody said no, so that page did no
 
 A reason was said out loud in that yard on the one hundred and eighty-second morning, and no line went on the back of that lot book for it because that page was not a place a reason could go before the two hundred and eighth morning, and that reason is not counted anywhere and no figure has been given out loud in that yard for the number of mornings a reason has been said out loud in it.
 
-The second table has stood at the foot of that bank three hundred and three mornings, and the near rail has stood on the near side of it for two hundred and fifty-three mornings, and nobody thanks the man who fitted it. A man has stood at the foot of that bank two hundred and seventy-three mornings, on the word of the man who keeps it, and he said that number before it was entered. The table of the man of about thirty-two has stood at the foot of that bank for the two hundred and seventy-second morning, and it is not the second table and it is not the near rail. The man of fifty-six has read four figures off that wall on the seven hundred and fourteenth of those mornings. A man of about sixty-four was at the foot of that low wall on the six hundred and twenty-eighth night of that run, having slept on six hundred and twenty-seven of them. The man of fifty-six's flat answer is the hundred and sixty-second time running.
+The second table has stood at the foot of that bank three hundred and three mornings, and the near rail has stood on the near side of it for two hundred and fifty-three mornings, and nobody thanks the man who fitted it. A man has stood at the foot of that bank two hundred and seventy-three mornings, on the word of the man who keeps it, and he said that number before it was entered. The table of the man of about thirty-two has stood at the foot of that bank for the two hundred and seventy-second morning, and it is not the second table and it is not the near rail. The man of fifty-six has read four figures off that wall on the seven hundred and fourteenth of those mornings. A man of about sixty-four was at the foot of that low wall on the six hundred and twenty-eighth night of that run, having slept on six hundred and twenty-seven of them, and this is the one hundred and twenty-ninth morning running of nobody asking him anything. The man of fifty-six's flat answer is the hundred and sixty-second time running.
 
 That lot book is on the boards. It has five lines on it and a column with one name in it, and the heading over that column still says whoever. The second space on that form is empty and nobody has asked for it to be filled. The lane count is thirty and it did not move this morning, and it is not moved by a decision. Nothing came down that lane. The page at the back carries fifty-six lines and carried fifty-six lines when she shut the book. The record has stood one hundred and eighty-eight days.
 
@@ -52,17 +52,17 @@ He stood at that wall until the light had come all the way over the boards and h
 
 ---
 
-At about ten to eight the boy said the lane count out loud at those boards, which is thirty, and said no figure after it, and said out loud that he was saying no figure, and stood at the near end of the first table with his hands behind his back.
+At about ten to eight the boy said the lane count out loud at those boards, which is thirty, and said no figure after it, and said out loud that he was saying no figure, and stood at the near end of the first table with his hands behind his back. The frame was lying flat on the turf at the top of that bank with the woman of about fifty-two sitting on the low stone beside it, and the boards at that bank are low enough that anybody standing at them can see her sitting there, and nobody did.
 
-Just after nine the second table went a foot further along and the near rail came with it, and the man at the end of that table came round the outside and put his boot on the wedge.
+Just after nine the second table went a foot further along and the near rail came with it, which is a thing at that bank that gets done before anybody has finished saying good morning, and the man at the end of that table came round the outside, got his boot on the wedge under the leg that rocks, and left it at that.
 
-The man of thirty-eight came down the slope at about half past nine with his hands showing and started at the empty end of his table and worked all morning without speaking. The turner's wheel went on turning. At the north end of that yard the man who digs loam had his own strip open and had been standing in the same place in it since about nine. The man of about thirty-four stood at about four feet off the near end of the second table with his hand on the corner of his own table and said nothing out loud to anybody.
+The man of thirty-eight came down the slope at about half past nine with his hands showing and started at the empty end of his table and worked all morning without speaking. The turner's wheel went on turning the same speed it goes at every hour of every day. At the north end of that yard the man who digs loam was standing in his own open strip in the same place in it, and had not changed that place since about nine. The man of about thirty-four stood at about four feet off the near end of the second table with his hand on the corner of his own table and said nothing out loud to anybody.
 
 ---
 
 She came down at half past twelve and set the scale up about four feet off the near end of the second table, and she was at it before the wind had come back round off the top of that bank, and every figure went onto the edge of her own board in chalk.
 
-She said nothing out loud.
+She did not say one of them out loud.
 
 She had looked at that man at the wall more times than she had counted and she had never once walked over to where he was standing, and the reason for that, which she had never said out loud in that yard either, is that there is nothing to ask a person who is doing the only thing they do in front of you every morning, and that she had made her own arrangement with that at some point in a winter and had not gone back on it.
 
@@ -80,7 +80,7 @@ At about four o'clock the man of fifty-six said the four off that wall for the s
 
 Then he put his hand flat on the stone under the bottom one and left it there.
 
-He said, in the ordinary voice, that he still does not know what the four of them are for.
+It is the same thing he says every afternoon of that week, which is that he still does not know what the four of them are for.
 
 About nineteen people heard it for the hundred and sixty-second time running.
 

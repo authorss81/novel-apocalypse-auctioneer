@@ -14,7 +14,7 @@ One thing was said out loud this morning at about four feet off the near end of 
 
 A reason was said out loud in that yard on the one hundred and eighty-second morning, and it was said before the back of that lot book was a place a reason could go, so nothing was written down for it then and that reason is not counted anywhere in this yard or in any record of it.
 
-The second table has stood at the foot of that bank three hundred and four mornings, and the near rail has stood on the near side of it for two hundred and fifty-four mornings, and nobody thanks the man who fitted it. A man has stood at the foot of that bank two hundred and seventy-four mornings, on the word of the man who keeps it, and he said that number before it was entered. The table of the man of about thirty-two has stood at the foot of that bank for the two hundred and seventy-third morning, and it is not the second table and it is not the near rail. The man of fifty-six has read four figures off that wall on the seven hundred and fifteenth of those mornings. A man of about sixty-four was at the foot of that low wall on the six hundred and twenty-ninth night of that run, having slept on six hundred and twenty-eight of them. The man of fifty-six's flat answer is the hundred and sixty-third time running.
+The second table has stood at the foot of that bank three hundred and four mornings, and the near rail has stood on the near side of it for two hundred and fifty-four mornings, and nobody thanks the man who fitted it. A man has stood at the foot of that bank two hundred and seventy-four mornings, on the word of the man who keeps it, and he said that number before it was entered. The table of the man of about thirty-two has stood at the foot of that bank for the two hundred and seventy-third morning, and it is not the second table and it is not the near rail. The man of fifty-six has read four figures off that wall on the seven hundred and fifteenth of those mornings. A man of about sixty-four was at the foot of that low wall on the six hundred and twenty-ninth night of that run, having slept on six hundred and twenty-eight of them, and this is the one hundred and thirtieth morning running of nobody asking him anything. The man of fifty-six's flat answer is the hundred and sixty-third time running.
 
 That lot book is on the boards. It has five lines on it and a column with one name in it, and the heading over that column still says whoever. The second space on that form is empty and nobody has asked for it to be filled. The lane count is thirty and it did not move this morning, and it is not moved by a decision. Nothing came down that lane. The page at the back carries fifty-six lines and carried fifty-six lines when she shut the book. The record has stood one hundred and eighty-nine days.
 
@@ -56,13 +56,13 @@ He took his cloth and went along the top of that table from the near end to the 
 
 What he had not expected — and he had expected a great deal, and had lain awake at some point in the middle of the night with a list — was how fast it would be over.
 
-Twenty-one years he has carried tables up and down that slope. One sentence, and there was nothing left to do about it, and the rest of the morning was going to come whether he had said it or not, and there was not one single thing in that yard that had changed shape.
+One sentence, and there was nothing left to do about it, and the rest of the morning was going to come whether he had said it or not, and there was not one single thing in that yard that had changed shape. He could not have said how long he had been standing at that corner of that table, and there was nobody in that yard he could have asked.
 
 He squared the corner again with the back of his heel, without meaning to, and the table did not move this time because it was already square.
 
 Then the morning did what the morning does, which is go on.
 
-The turner's wheel went on turning. The man who digs loam went back into the same place in the strip at the north end. The man at the end of the second table took his boot off the wedge and sat down on the low edge of the near rail with his forearms on his knees. The man of thirty-eight went up the slope and down it and came back in at the same corner of his table and put the cloth along the top of it, and nobody at those boards asked him one word out loud at any point of it.
+The wheel went on turning and nobody at that end of the yard put a hand on it. The man who digs loam went back into the same place in the strip at the north end. The man at the end of the second table took his boot off the wedge and sat down on the low edge of the near rail with his forearms on his knees. The man of thirty-eight went up the slope and down it and came back in at the same corner of his table and put the cloth along the top of it, and nobody at those boards asked him one word out loud at any point of it.
 
 At about half past two Orren Pike came off the bank with his hands empty and stood at the near end of the first table and looked at the two of them at about four feet off the near end of the second table for as long as it takes to count a thing once, and then he went back up the slope and nobody stopped him and he did not say anything.
 
@@ -70,7 +70,7 @@ At about half past two Orren Pike came off the bank with his hands empty and sto
 
 The woman who keeps a scale waited for the pan to come still.
 
-The wind had come up over the top of the bank again about half past ten and the pan wanted to go with it, and she put her heel against the upright and waited it out the way she has waited it out nine years, and while she was waiting she thought, in the ordinary way, about the two things still in the basket and about the fact that the second one was the awkward one and would want doing last.
+The wind had come up over the top of the bank again about half past ten and the pan wanted to go with it, and she stood where she was and let it want to go, the way a person lets a thing want to go, and while she was standing there she thought, in the ordinary way, about the two things still in the basket and about the fact that the second one was the awkward one and would want doing last.
 
 Then the pan came still and the figure was the figure and she wrote it on the edge of her own board in chalk, low down, in the gap at the end of the last one.
 
@@ -102,8 +102,6 @@ The man of about thirty-four went up that slope with the rest of them and did no
 
 And the woman who keeps a scale tied the cloth over her scale, knotted it, put the basket on her arm and went up that bank, and there was a figure of her own on the edge of her own board that she had said out loud once, on a morning this yard had not asked her for it, and a figure of her own that she had said out loud once on an earlier morning in that same stretch, and neither of the two of them is on any page in this district.
 
-Then she went up that bank.
-
 ---
 
-Fifty-six lines are on that page and not one of them is in the lot book. At about eleven this morning a man of about thirty-four said out loud, once, in the ordinary voice, in about nineteen people's hearing, that he was going to ask her for the figure in the morning, and nobody answered him, nobody asked him why, nobody asked him to say it again, nobody asked her anything about it, and the page took no line. Three of the first thirty-three lines were never read. The lane count is thirty and nothing came down that lane. A figure of her own went out into the open air of that yard twice this week and on no page and in no book and down no lane, and nobody in that yard has done anything about either of them. The fifth of the five is unpaid.
+Fifty-six lines are on that page and not one of them is in the lot book. At about eleven this morning a man of about thirty-four said one thing out loud, once, in the ordinary voice, in about nineteen people's hearing, at about four feet off the near end of the second table, and nobody answered him, nobody asked him why, nobody asked him to say it again, nobody asked her anything about it, and the page took no line. Three of the first thirty-three lines were never read. The lane count is thirty and nothing came down that lane. A figure of her own went out into the open air of that yard on two mornings out of that stretch of them and on no page and in no book and down no lane, and nobody in that yard has done anything about either of them. The fifth of the five is unpaid.
