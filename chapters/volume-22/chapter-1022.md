@@ -74,7 +74,7 @@ Nobody said anything.
 
 Nobody said why. Nobody thanked her for it and nobody asked her what she weighs things for, and nobody asked the man of thirty-eight one word of anything, and the second table went along its own boards about four feet off her without a noise and the wheel at the near end of that ground went on turning at the speed it goes at.
 
-She took the bar off her own pan and put it in the basket and got the next one out.
+The bar came off that pan and went into the basket and the next one was out of it before her hand had finished.
 
 ---
 
@@ -86,7 +86,7 @@ And a figure of her own going out into the same air is a thing she had no way of
 
 ---
 
-She weighed four more things before the light went off that bank.
+She weighed four more things before the light went off the top of that bank.
 
 The wind took the first of every one of those pans and she let it have it. Each figure went onto her own account and each bar went back into the basket and the next one came out of it, and that is what her hands did for the rest of that afternoon without her being anywhere inside any part of it.
 
@@ -104,11 +104,11 @@ About half past three the sun came over the top of the low wall and laid itself 
 
 ---
 
-At about four o'clock the man of fifty-six was at his own wall with his hand up on the stone, and got all four of the figures off it, and then laid his hand flat on the stone under the lowest one and left it lying there.
+At about four o'clock he went up to his own wall with his hand already up on the stone and got all four of the figures off it one after another, and his hand came down afterwards and lay flat on the stone over the lowest one of them and stayed there.
 
 "Since before the middle of the winter came on I have had my hand on that wall and there is not one figure of the four I cannot get anything out of," he said out loud to that stone.
 
-About nineteen people heard that for the hundred and ninety-fifth time running and nobody asked him anything about any of it.
+About nineteen people heard it that afternoon, and that was the hundred and ninety-fifth time, and not one of them has asked him a single question about any part of it.
 
 ---
 
@@ -120,7 +120,7 @@ She wrote the three hundred and sixth morning under the last line in her own sma
 
 ---
 
-The light came off those boards at about half past four and about four people out of about nineteen of them said the goodnight that gets said at the end of a day in that yard, and about nine people at the top of eleven feet did not join in.
+The light went off those boards at about half past four and the goodnight that gets said at the end of a day in that yard was said by about four people out of about nineteen of them, and about nine people at the top of eleven feet did not join in.
 
 She knotted the cloth over her scale and put the basket on her arm and went up that bank with about nineteen people in front of her, and about four feet off the near end of the first table a man put his cloth down on the corner of his own table and said the goodnight to nobody in particular.
 

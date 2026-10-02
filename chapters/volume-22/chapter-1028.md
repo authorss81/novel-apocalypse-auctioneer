@@ -4,7 +4,7 @@ The figure on the sheet at that gatepost is four hundred and eleven and nothing 
 
 The board carries nine hundred and twenty-six. The train on that siding has stood one thousand two hundred and forty-two days. Nobody has entered anything for nine hundred and fifty-six days. Nine hundred and seventeen days separate the second of January and this morning.
 
-That bid stood open four hundred and fifty days and it was not run and it is not open and nothing in this volume or any other has opened it. Six hundred and thirty-one days is how far behind the figure on the second line of that lot book this yard is. Six hundred and thirty-six days is how long the rule said out loud in that yard has stood. Seven hundred and six days is how long it has been since the first day of the eighth month. A body four hundred miles off is six hundred and forty-five days past a printing it did not make.
+That bid stood open four hundred and fifty days and it was not run and it is not open and nothing in this district has ever opened it. Six hundred and thirty-one days is how far behind the figure on the second line of that lot book this yard is. Six hundred and thirty-six days is how long the rule said out loud in that yard has stood. Seven hundred and six days is how long it has been since the first day of the eighth month. A body four hundred miles off is six hundred and forty-five days past a printing it did not make.
 
 The ninth of the nine printed nights is eight hundred and nine days back and no night has been named. Five hundred and eighty-five marks have been cut off that board, and five hundred and seventy-one marks in chalk along the edge of that second table.
 
@@ -54,7 +54,7 @@ Three men took the second table a foot further down that slope at nine, with the
 
 About half past twelve she came down that bank with the basket on her arm and set up about four feet off the near end of the second table, and she worked there all afternoon and said nothing out loud at any point of it.
 
-At about half past one the man of about forty-eight who keeps a tally put his number into about four hundred yards of air and about four people said it back after him out of step with one another.
+At about half past one the man of about forty-eight who keeps a tally said his number into about four hundred yards of air, four voices took it up after him out of step with one another, and she put nothing down about it.
 
 ---
 
@@ -100,7 +100,7 @@ He was at his own wall at about four o'clock with his hand up on the stone, and 
 
 "Everything I have said out loud in that yard has gone into that book and I have never once seen it," he said to that stone.
 
-About nineteen people heard that for the two hundred and first time running and nobody asked him anything about any of it.
+About nineteen people heard it, that was the two hundred and first time, and nobody has asked him about any part of it since the first of them.
 
 ---
 
@@ -118,4 +118,4 @@ He put his coat off the back of the stool and went up that bank with the rest of
 
 ---
 
-On the three hundred and twelfth morning the man of thirty-eight went up that lane in the afternoon with nothing in his hand and came back down it with nothing in his hand, and nobody at the top of that lane offered him anything, and the lane count did not move, because a person going up that lane is not a page and a person not asking is not a page either. The page at the back of that lot book took no line and stood at sixty-one lines. Three of the first thirty-three lines were never read. The fifth of the five is unpaid. The count of counted months is seven and is on nothing. That gatepost carries four hundred and eleven and its size of error is uncomputed, unexplained and unpaid.
+On the three hundred and twelfth morning the man of thirty-eight went up that lane in the afternoon with nothing in his hand and came back down it with nothing in his hand, and nobody at the top of that lane offered him anything, and the lane count did not move, because a person going up that lane is not a page and a person not asking is not a page either. The page at the back of that lot book took no line and stood at sixty-one lines. Three of the first thirty-three lines were never read. The fifth of the five is unpaid. Seven is what a clerk has counted, and it is on nothing at all. That gatepost still carries four hundred and eleven, and its size of error is uncomputed, unexplained and unpaid.

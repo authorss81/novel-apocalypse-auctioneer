@@ -32,17 +32,17 @@ That is what he says on the mornings there is no figure.
 
 ---
 
-He set his own table up at about half past eight because it goes up before the light gets on it, and he carried the last ten feet of it on his own shoulder, and he put the cloth on the top of it and went along the boards the whole length and back.
+At about half past eight the man of about thirty-two came along the boards with his cloth over his arm and set his own table up where he sets it up, because it goes up before the light gets on it, and he had the last ten feet of it up on his own shoulder coming down that slope and put the cloth along the top of it and went to the end of it and back.
 
 Then three men came down that slope at nine with the second table between them and the rail riding along on the near side of it, and the man at that end held his heel on a wedge until they were past and then dropped the wedge by the leg.
 
-At about half past nine the man of thirty-eight came down off that bank with his hands showing and went out along the top of his own table and round the end of it and up the slope and back down and in at the same corner.
+At about half past nine the man of thirty-eight came down off that bank with his hands showing, went out along the top of his own table and round the end of it and up the slope and back down, and came in at the same corner he always comes in at.
 
 ---
 
 About half past twelve she had come down that bank with the basket on her arm and set up about four feet off the near end of the second table and worked there all afternoon and said nothing out loud at any point of that day.
 
-He had put four bars on his own table and a cloth along the top of it and he had heard her scale take the wind and settle on about every one of them, and not one figure of hers had come out of that yard, and there is no telling afterwards whether that was one morning or a run of them.
+He had the cloth along the top of his own table and had been at it about an hour, and he had heard her scale take the wind and settle on every one of those hours, and not one figure of hers had come out of that yard, and there is no telling afterwards whether that was one morning or a run of them.
 
 ---
 
@@ -56,9 +56,9 @@ He stood at the near end of his own table with the cloth over his arm and listen
 
 ---
 
-Nothing had gone out.
+Nothing of his own had come out.
 
-There was the wind and the wheel and the light moving along the ground, and about nineteen people in that yard doing the nine things they had been doing the day before, and no number had come out of it and none of the four voices had come out of it, and he stood there and worked out from the ground that nothing at all had been put into that air.
+There was the wind and the wheel and the light moving along the ground, and about nineteen people in that yard doing the nine things they had been doing the day before, and at half past one the number that goes out of that yard every morning had gone up the bank with four voices on it and come down again, and the woman at her own pan about four feet off him had not said one word all afternoon, and he stood there with the cloth over his arm and worked out from the ground that what he had been listening for since eleven had not happened.
 
 ---
 
@@ -84,7 +84,7 @@ That is the shape of that morning and he went back to his own table with the clo
 
 It went out into about four hundred yards of air and about four hundred yards of air is the whole of the room that anything ever gets into in that place, and there was nothing at the far side of it to arrive at.
 
-He has thought about that more since than about anything else in that week. A figure of a man's own, once, in the ordinary voice, about nine feet off him, in a yard with about nineteen people in it, and not one of them said one word about it and not one of them said one word about anything else either. It went out over the ground and over the second table and over the low wall and out along the strip of cold stone and up the face of that bank, and then it was not in the world.
+He has thought about that more since than about anything else in the run of mornings behind him. A figure of a man's own, once, in the ordinary voice, about nine feet off him, in a yard with about nineteen people in it, and not one of them said one word about it and not one of them said one word about anything else either. It went out over the ground and over the second table and over the low wall and out along the strip of cold stone and up the face of that bank, and then it was not in the world.
 
 There was nothing before it and there was nothing after it. He had spent a good part of that afternoon going over a figure of his own that he has been carrying since the morning that table went up at the foot of that bank, and a figure of his own went out of that yard at a quarter to two that afternoon and not one thing in that yard did anything about it, and there was nothing about that either way in his own head.
 
@@ -104,7 +104,7 @@ The last reading of that wall came at about four o'clock, and he got all four of
 
 "Two hundred and three mornings of saying this out loud to a stone," he said to that stone.
 
-About nineteen people heard that for the two hundred and third time running and nobody asked him anything about any of it.
+About nineteen people heard it, that was the two hundred and third time, and nobody has asked him a question about any of it.
 
 ---
 
@@ -116,10 +116,10 @@ She wrote the three hundred and fourteenth morning under the last line in her ow
 
 ---
 
-The light came off those boards at about half past four, and about four people out of about nineteen said the goodnight that gets said at the end of a day in that yard, and about nine people at the top of eleven feet stood where they were until the boards came down off the cart face down.
+The light came off those boards at about half past four, and about four people out of about nineteen said the goodnight that gets said at the end of a day in that yard, and about nine people at the top of that bank stood where they were until the boards came down off the cart face down.
 
 He put the cloth over his shoulder and went up that bank, and the light was still on the top of it when he got there, and about four feet off the near end of the first table a man in a coat was taking a cloth off the corner of his own table and putting it away.
 
 ---
 
-Nothing said anything after him and nothing said anything before him, and the page at the back of that lot book took no line on the three hundred and fourteenth morning and stood at sixty-one lines, and the lane count is thirty and nothing came down that lane. Three of the first thirty-three lines were never read. The fifth of the five is unpaid. The count of counted months is seven and is on nothing. That gatepost carries four hundred and eleven and its size of error is uncomputed, unexplained and unpaid.
+Nothing said anything after him and nothing said anything before him, and the page at the back of that lot book took no line on the three hundred and fourteenth morning and stood at sixty-one lines, and the lane count is thirty and nothing came down it that morning. Three of the first thirty-three lines on that page were never read. The fifth of the five is unpaid. The count of counted months is seven and is on nothing. That gatepost still carries four hundred and eleven, and its size of error is uncomputed, unexplained and unpaid.

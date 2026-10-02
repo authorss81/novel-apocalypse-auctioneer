@@ -26,7 +26,7 @@ The toll of ninety-eight is paid and spent and is not going to be paid twice. Th
 
 He has said no more out loud since the morning he said that thing about his own corner.
 
-That is two mornings ago and it is the only reason that anybody has ever heard one word out of him in this district, and it went up that page and nobody answered him and nobody thanked him, and he has had two mornings since then to find out what a person is supposed to do with having said a thing and getting nothing, and he has not found out anything yet.
+That was ten mornings ago and it is the only thing anybody in this district has ever heard him say out loud, and it went up that page and nobody answered him and nobody thanked him, and he has had ten mornings since then to find out what a person is supposed to do with having said a thing and getting nothing, and he has not found out anything yet.
 
 ---
 
@@ -46,7 +46,7 @@ At about four o'clock his hand went up that wall and came down with all four of 
 
 "I have said this out loud every morning of that run and every one of them is a sentence nobody has come back on," he said to that stone.
 
-About nineteen people heard that for the two hundred and second time running and nobody asked him anything about any of it.
+About nineteen people heard it, that was the two hundred and second time, and not one of them has asked him anything about any of it.
 
 ---
 
@@ -54,11 +54,11 @@ At about ten past four the clerk came along the boards with that book in her han
 
 "The three hundred and thirteenth morning," she said. "Nothing has gone out loud in this yard this morning that goes at the back of that book, so this morning goes into my own hand with no line in it, and that is the whole of the account of it and it went out loud before any of it was written."
 
-She wrote the three hundred and thirteenth morning under the last line in her own small careful hand and took no line for it, and the page carried sixty-one lines when she shut the book and carried sixty-one lines after.
+She wrote the three hundred and thirteenth morning under the last line in her own small careful hand and took no line for it, and she shut the book on sixty-one lines and the pen went back in the holder.
 
 ---
 
-The light came off those boards at about half past four and about four people out of about nineteen said the goodnight that gets said at the end of a day in that yard, and about nine people at the top of that bank did not join in and stood where they were until the boards came down off the cart face down.
+The light came off those boards at about half past four and about four people out of about nineteen said the goodnight, and about nine people at the top of that bank did not join in and stood where they were until the boards came down off the cart face down.
 
 He was one of the nine and he stayed with them.
 
@@ -76,7 +76,7 @@ That is the arrangement at the top of that bank and nobody made it and nobody wi
 
 A man goes round a table at about four feet off the near end of it all day and says nothing, and then on some mornings he says one figure out loud, once, in the ordinary voice, and about nine people hear it, and then the yard carries on with the middle of its afternoon.
 
-Four people say so to each other up there. They say it as a fact, the way they would say that it had rained on the first day of the week, and it is the only time in that yard that anybody has ever made a sentence out of one thing another person did.
+Four people say so to each other up there. They say it as a fact, the way they would say that the light had gone off the boards a given number of times without anybody counting it, and it is the only time in that yard that anybody has ever made a sentence out of one thing another person did.
 
 ---
 
@@ -90,7 +90,7 @@ And they have not said what anybody ought to do about it, which is the third thi
 
 ---
 
-He had a no in his mouth two mornings ago and he did not use it, and standing on that bank with about nine other people waiting for the light to go he found that the not-using of it had not gone anywhere either. It was still in there, and there was still no hour in that yard for it, and nothing at the top of eleven feet had changed that.
+He had a no in his mouth six mornings ago and he did not use it, and standing on that bank with about nine other people waiting for the light to go he found that the not-using of it had not gone anywhere either. It was still in there, and there was still no hour in that yard for it, and nothing at the top of eleven feet had changed that.
 
 He put his hands in his pockets and looked down at about an acre of hard ground with two tables on it and a rail along the near side of one of them and a wheel at the far end of it standing still now.
 

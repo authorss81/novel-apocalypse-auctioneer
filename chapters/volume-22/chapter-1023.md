@@ -1,6 +1,6 @@
 # Chapter 1023: The Three Hundred And Seventh Morning After The Thirtieth Of The Eighth Month, And Nobody Said A Reason Out Loud In That Yard And Nobody Said No, And The Clerk Read The Morning Out Loud At About Four And Wrote It On That Page In Her Own Hand Without A Line
 
-The figure on the sheet at that gatepost is four hundred and eleven, and it has been on that sheet through every morning this district has run for seven hundred and sixty-two days. Seven hundred and sixty-two days is the age of that figure.
+The figure on the sheet at that gatepost is four hundred and eleven. It has been on that sheet through every morning this district has run and nobody has ever taken it off. Seven hundred and sixty-two days is the age of that figure.
 
 The board carries nine hundred and twenty-one. The train on that siding has stood one thousand two hundred and thirty-seven days. Nobody has entered anything for nine hundred and fifty-one days. Nine hundred and twelve days separate the second of January and this morning.
 
@@ -32,7 +32,7 @@ So he stands at that corner with the cloth over his hand and looks at it, and it
 
 ---
 
-A table that has been carried gets set down where it lands.
+A carried table gets set down wherever it stops.
 
 He said a thing about that once, out loud, on a morning not long back, at about ten to twelve, in the ordinary voice, and one line went on the page at the back of that lot book for it and nobody answered him and nobody thanked him.
 
@@ -48,7 +48,7 @@ That round takes him the length of that yard and it takes him about as long as t
 
 He had the word by about eleven.
 
-No is a short word and it does not take anything to be ready with. He had it the way a man has a thing ready, with nothing behind it and nothing in front of it, and it was in his mouth for the length of about four bars of his own work and it did not go anywhere.
+No is a short word and it does not take anything to be ready with. He had it the way a man has a thing ready, with nothing behind it and nothing in front of it, and it was in his mouth for the better part of one length of his own boards and it did not go anywhere.
 
 ---
 
@@ -74,9 +74,9 @@ At about half past one the man of about forty-eight who keeps a tally put his nu
 
 ---
 
-About four people at the top of eleven feet have said since that they have not said what a figure of his own is about.
+Four people at the top of eleven feet have said since, among themselves, that none of them has ever said out loud what a figure of a man's own is about.
 
-He is one of the four who stands at the top of that bank most evenings and he has not said a word about that. He has not said what it is about. He has not asked the man who said it, and he has not asked her either, and there is a no in his own mouth that he did not use, and none of those three things has anything to do with any of the others as far as he has ever been able to find out.
+He is one of those four and he has said nothing about it up there himself. He has not said what it is about. He has not asked the man who said it, and he has not asked her either, and there is a no in his own mouth that he did not use, and none of those three things has anything to do with any of the others as far as he has ever been able to find out.
 
 ---
 

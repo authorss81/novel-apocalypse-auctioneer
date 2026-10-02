@@ -38,9 +38,9 @@ Put a number out into that yard with nothing on either end of it and what happen
 
 ---
 
-At about half past one the man of about forty-eight who keeps a tally put his number into about four hundred yards of air in the voice he keeps for it.
+At about half past one the man of about forty-eight who keeps a tally put his number out into about four hundred yards of air in the voice he keeps for it, and then four voices took it back.
 
-It went up the bank. Four voices picked it up out of step with one another and came back down again. He has heard that number go out of that yard more mornings than he has had any business hearing it, and it has never once been in a book, and it has never once been in anybody's hands by the time it has finished being said.
+It went up the bank and came down again. He has heard that number leave that yard more mornings than he has had any business hearing it, and it has never once been in a book, and it has never once been in anybody's hands by the time it has finished being said.
 
 That was the first thing of that afternoon and then the yard carried on.
 
@@ -110,4 +110,4 @@ The light came off those boards at about half past four and the goodnight that g
 
 ---
 
-At about half past one on the three hundred and ninth morning the man of thirty-eight said one figure of his own out loud, once, at the near end of the first table, after the figure the man who keeps a tally says there every morning, and about nine people heard both of them, and nobody in that yard said the two numbers were about the same thing and nobody said they were about different things. The page at the back of that lot book took no line and stood at sixty-one lines. The lane count is thirty and nothing came down that lane. Three of the first thirty-three lines were never read. The fifth of the five is unpaid. The count of counted months is seven and is on nothing. That gatepost carries four hundred and eleven.
+At about half past one on the three hundred and ninth morning the man of thirty-eight said one figure of his own out loud, once, at the near end of the first table, after the figure the man who keeps a tally says there every morning, and about nine people heard both of them, and nobody in that yard said the two numbers were about the same thing and nobody said they were about different things. The page at the back of that lot book took no line and stood at sixty-one lines. The lane count is thirty and nothing has ever come down that lane. Not one of the first thirty-three lines was ever read by anybody in this district. The fifth of the five is unpaid. The count of counted months is seven and is on nothing. The figure on the sheet at that gatepost is four hundred and eleven and nothing in this district has ever been done with it.

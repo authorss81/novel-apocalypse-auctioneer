@@ -62,7 +62,7 @@ She listened to it go past. She did not move her feet out of that strip of shade
 
 The rest of that day at the top of that bank is a long thing and it is made of nothing.
 
-She had brought a coat and she had not put it on, because the sun comes over the top of that bank at about half past two and stays on the upper part of it for the rest of the day, and about nine people stand along that top in it. Nobody says very much up there. There is a woman who goes up that hill every day and stops halfway to put her hair up before she gets to the top. There is a man who leans on that gate and looks off along the valley behind this yard and has not said to anybody what he is looking at.
+She had brought a coat and she had not put it on, because the sun comes over the top of that bank at about half past two and stays on the upper part of it for the rest of the day, and about nine people stand along that top in it. Nobody says very much up there. About nine people are at the top of that bank and a gate in the low wall at the head of that lane is where about four of them go to lean, and none of the nine has come down that slope since she started standing on it.
 
 At about two she stood a few paces along and looked down at that yard from a different place, and from there the wheel, the two tables, the low wall and the strip of cold stone at the foot of it all sit in one line, and about nineteen people are going about nine things inside that line, and none of the nine things is in a hurry.
 
@@ -84,7 +84,7 @@ At about four o'clock the man of fifty-six was at his own wall with his hand up 
 
 "Since before the middle of the winter came on my hand has gone to that stone twice every morning and a page at the bottom of that hill takes what I say and not what I am for," he said out loud to that stone.
 
-About nineteen people heard that for the hundred and ninety-seventh time running and nobody asked him anything about any of it.
+About nineteen people heard it that afternoon, and that was the hundred and ninety-seventh time, and none of them has ever asked him about any part of it.
 
 ---
 
@@ -104,14 +104,14 @@ Nobody thanked her. Nobody at the foot of that bank looked up at the top of it, 
 
 She had come up that hill on the strength of one thing going right, and one thing going right is not the same as being noticed, and she stood on that bank long enough for both of those to be a morning.
 
-What the page did with it was put it in a book. She could not see that book from where she was standing, and she did not ask anybody what was in it, and by that evening there was one line more at the back of it than there had been at ten to eight, and she did not know that either.
+What the page did with it was put it in a book. She could not see that book from where she was standing and she did not ask anybody what was in it, and about half an hour after that pen had gone along that page nobody had said one word to her about any part of it, and she went on standing there with the sun on the upper part of that bank.
 
 ---
 
-At about half past four the light went off those boards, and about four people out of about nineteen said the goodnight that gets said at the end of a day in that yard, and about nine people at the top of that bank stood where they were until the boards came down off the cart face down.
+At about half past four the light went off those boards, and about four people out of about nineteen said the goodnight that gets said at the end of a day in that yard, and the nine people at the top of that bank stayed where they were until the boards came down off the cart face down.
 
 She said the goodnight with the rest of them and nobody said it back to her.
 
 ---
 
-One reason went out loud from the top of that bank on the three hundred and eighth morning without its owner coming down it, and one line went on the page at the back of that lot book carrying the morning and not the reason, and she was not thanked for it and nobody answered her. That page stands at sixty-one lines. The lane count is thirty and nothing came down that lane. Three of the first thirty-three lines were never read. The fifth of the five is unpaid. The count of counted months is seven and is on nothing. That gatepost carries four hundred and eleven.
+One reason went out loud from the top of that bank on the three hundred and eighth morning without its owner coming down it, and one line went on the page at the back of that lot book carrying the morning and not the reason, and she was not thanked for it and nobody answered her. That page stands at sixty-one lines. The lane count is thirty and nothing came down that lane. Three of the first thirty-three lines on that page were never read by anybody in this district. The fifth of the five is unpaid. The count of counted months is seven and is on nothing. That gatepost carries four hundred and eleven.

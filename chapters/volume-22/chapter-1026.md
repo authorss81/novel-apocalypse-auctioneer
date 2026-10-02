@@ -1,6 +1,6 @@
 # Chapter 1026: The Three Hundred And Tenth Morning After The Thirtieth Of The Eighth Month, And The Woman Of About Fifty-Two Stood In About Four Feet Of Sun With Nothing In Her Hands And Nobody Said One Word To Her And Nobody Said Good Morning To Her, And The Second Space On That Form Was Empty The Whole Of That Morning
 
-The figure on the sheet at that gatepost is four hundred and eleven, and there is not one thing on any page in this tree that says how wrong it is or by how much. Seven hundred and sixty-five days is the age of that figure.
+The figure on the sheet at that gatepost is four hundred and eleven, and there is not one page in this district that says how wrong it is or by how much. Seven hundred and sixty-five days is the age of that figure.
 
 The board carries nine hundred and twenty-four. The train on that siding has stood one thousand two hundred and forty days. Nobody has entered anything for nine hundred and fifty-four days. Nine hundred and fifteen days separate the second of January and this morning.
 
@@ -32,9 +32,9 @@ Then he says there is no figure after it either, which is what he says on the mo
 
 ---
 
-There are nine spaces between the boards in front of him where he sits with his elbows on the rail.
+Between the boards in front of him, where he sits with his elbows on the rail, there are nine gaps, and nine is the only figure he owns.
 
-There were nine of them when the water in that ditch had no light on it and there were nine of them when the light came over the top of that bank and got on the wall behind the boards, and it has been nine every morning of his being at that rail, which is the only number he owns.
+There were nine of them when the water in that ditch had no light on it and there were nine of them when the light came over the top of that bank and got on the wall behind the boards, and it has been nine every morning of his being at that rail.
 
 That is his whole work at ten to eight. One number that does not move, said out loud to about four people who are waiting for it, in front of a gap in a rail.
 
@@ -54,9 +54,9 @@ He watched her set up from where he sits, which is the way he watches her set up
 
 At about one o'clock the woman of about fifty-two came down that slope and stopped about ten paces off the near end of the second table and put her bag down on the hard ground at her feet.
 
-She had nothing in her hands. That is what he noticed first, because the morning before last she came down that hill with a frame under one arm and a bag in the other hand, and the morning before that she came down with her hands empty on purpose.
+She had nothing in her hands. That is what he noticed first, and two mornings ago she went back up that hill with a frame under her arm and a bag in her hand and left that bag at the foot of the bank where she had put it down, so that this morning she came down for the bag and not for anything else.
 
-This morning she came down with a bag and she set the bag down and she stood there with her hands at her sides.
+She set it down where she wanted it and she stood there with her hands at her sides.
 
 ---
 
@@ -68,9 +68,9 @@ Nobody said good morning to her. The man of about thirty-two went past her with 
 
 ---
 
-At about half past one the man of about forty-eight who keeps a tally put his number into about four hundred yards of air and about four people said it back after him out of step with one another, and it came off the top of that bank.
+At about half past one the man of about forty-eight who keeps a tally put his number out into about four hundred yards of air, and four voices carried it back after him out of step with one another, and it came off the top of that bank and went on up the hill.
 
-He had a pencil in the pocket of his coat that morning and he did not take it out.
+There was a pencil in the pocket of that coat and it stayed in the pocket.
 
 ---
 
@@ -104,7 +104,7 @@ The light was off the top of that bank by four and he was still at that wall, be
 
 "There is a number on me that has never once been put down anywhere and I have said it out loud every morning of that run," he said to that stone.
 
-About nineteen people heard that for the hundred and ninety-ninth time running and nobody asked him anything about any of it.
+About nineteen people in that yard heard it, and that was the hundred and ninety-ninth time, and not one of them has asked him about any part of it.
 
 ---
 
@@ -112,11 +112,11 @@ At about ten past four she was at the boards with the book in her hand, stopped 
 
 "The three hundred and tenth morning," she said. "Nothing has gone out loud in this yard this morning that goes at the back of that book, so the morning goes into my own hand with no line in it, and that is the whole of the account and it went out loud before the writing of it."
 
-She wrote the three hundred and tenth morning under the last line in her own small hand and took no line for it, and the page carried sixty-one lines when she shut the book and carried sixty-one lines after.
+She wrote the three hundred and tenth morning under the last line in her own small hand and took no line for it, and the book shut with sixty-one lines on the page at the back of it, the same sixty-one it had been carrying since before the light got on the boards.
 
 ---
 
-When the light went off those boards at about half past four, about four people out of about nineteen said the goodnight, and about nine people at the top of eleven feet stood where they were until the boards came down off the cart face down.
+When the light went off those boards at about half past four, about four people out of about nineteen said the goodnight, and about nine people at the top of that bank stayed where they were until the boards came down off the cart face down.
 
 He took his elbows off that rail and wrote nothing down, and the second space on the form that the woman of about fifty-two carried down that slope in the morning was empty all morning and is empty now, and nobody in this district has asked her to put anything in it.
 

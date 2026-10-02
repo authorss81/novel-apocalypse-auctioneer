@@ -86,7 +86,7 @@ She has thought about that for as long as she weighed four more things, which wa
 
 Nothing on that page took a line for either of them.
 
-She knew that by about four, the way everybody in that yard knows it, which is to say she heard the clerk read the morning out loud at the boards and the reading had nothing in it about either figure, and the pen went along the page once for the morning and the page was the same when the covers of that book went over it.
+She knew that by about four without ever having looked at the page, which is to say she heard the clerk read the morning out loud at the boards and the reading had nothing in it about either figure, and the clerk said the same thing at ten past four that she says every morning when nothing has gone into that yard, and there was no second account of anything in it.
 
 ---
 
@@ -110,7 +110,7 @@ At about four o'clock he was still at that wall with his hand up on the stone, a
 
 "I have said this two hundred mornings and it is the two hundredth this morning," he said out loud to that stone.
 
-About nineteen people heard that for the two hundredth time running and nobody asked him anything about any of it.
+About nineteen people heard it, that was the two hundredth time, and not one of them has ever asked him anything about any part of it.
 
 ---
 
@@ -118,7 +118,7 @@ She came along the boards at about ten past four with that book open against the
 
 "The three hundred and eleventh morning," she said. "Nothing has gone out loud in this yard this morning that goes at the back of that book, so the morning goes down in my own hand with nothing in it, and that is the account of it and it went out loud before the writing of it."
 
-She wrote the three hundred and eleventh morning under the last line in her own small careful hand and took no line for it, and the page carried sixty-one lines when she shut the book and carried sixty-one lines after.
+She wrote the three hundred and eleventh morning under the last line in her own small careful hand and took no line for it, and the page at the back of that book was carrying the same sixty-one lines when the covers went over it that it had been carrying at ten to eight.
 
 ---
 
@@ -128,4 +128,4 @@ She tied the cloth over her own scale and knotted it, put the basket back on her
 
 ---
 
-At about half past one on the three hundred and eleventh morning one figure of her own went out of that yard, and inside a minute a second figure of his own went out after it, and the page at the back of that lot book took no line for either. The lane count is thirty and nothing came down that lane. Three of the first thirty-three lines were never read. The fifth of the five is unpaid. The count of counted months is seven and is on nothing. That gatepost carries four hundred and eleven.
+At about half past one on the three hundred and eleventh morning one figure of her own went out of that yard, and inside a minute a second figure of his own went out after it, and the page at the back of that lot book took no line for either. The lane count is thirty and nothing came down that lane. Three of the first thirty-three lines were never read. The fifth of the five is unpaid. Seven counted months are on nothing whatever. That gatepost carries four hundred and eleven.

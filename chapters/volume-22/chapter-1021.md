@@ -88,11 +88,11 @@ He has driven four gaps a day for eleven years and he has never once stopped in 
 
 ---
 
-At about four o'clock the man of fifty-six was at his own wall with his hand up on the stone and got all four of the figures off it, and then laid his hand flat on the stone under the lowest one and left it lying there.
+At about four o'clock he was up at his own wall with his palm already against the stone, and all four of the figures came off it under his hand, and his hand stayed where it was afterwards, flat, over the lowest of them.
 
 "There is not one of you knows what these four are for and I have got them all off this wall twice a day," he said out loud to that stone.
 
-About nineteen people heard that for the hundred and ninety-fourth time running and nobody asked him anything about any part of it.
+About nineteen people standing in that yard had heard it that many hundreds of times and not one of them had ever come the length of the ground to ask him where he got them.
 
 ---
 
@@ -100,11 +100,11 @@ At about ten past four the clerk came along the boards to the near end of the se
 
 "The three hundred and fifth morning," she said. "Nobody put a reason into the air in this yard this morning, so nothing goes on the back of that book for it, and this morning goes into my own hand on its own with nothing in it, and that is the account of it and it went out loud before I wrote any of it."
 
-She wrote the three hundred and fifth morning under the last line in her own small hand and took no line for it, and the page carried sixty lines when she shut the book and carried sixty lines after.
+She wrote the three hundred and fifth morning under the last line in her own small hand and took no line for it, and the book was carrying the same sixty lines when she shut it as it had been carrying at ten to eight.
 
 ---
 
-The light came off those boards at about half past four and about four people out of about nineteen of them said the goodnight that gets said at the end of a day in that yard, and about nine people at the top of eleven feet stood where they were until the boards came down off the cart face down.
+Then the sun went off those boards at about half past four and the yard said the thing it says at the end of a day, about four voices out of about nineteen, and the nine people on the top of that bank did not come down for it and stood on until the boards came off the cart face down.
 
 ---
 
