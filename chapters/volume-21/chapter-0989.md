@@ -80,7 +80,7 @@ At about four o'clock the man of fifty-six said the four off that wall for the s
 
 Then he put his hand flat on the stone under the bottom one and left it there.
 
-It is the same thing he says every afternoon of that week, which is that he still does not know what the four of them are for.
+It is the same thing he says at about four on those mornings, which is that he still does not know what the four of them are for.
 
 About nineteen people heard it for the hundred and sixty-second time running.
 

@@ -44,7 +44,7 @@ The second table has been on that ground for three hundred mornings and neither 
 
 The near rail has been on the near side of it for two hundred and fifty mornings and the man who fitted it into the ground at that end of it is not in that yard and has not been in it for years, and nobody at the foot of that bank thanks that man, and about four people at the top of eleven feet have said since that a rail is the only thing in that yard that was ever going to be there, and that about four of them have not said who decided it should be on the near side and not the far side.
 
-The wedge under that leg is a piece of hardwood about the length of a hand that has been driven into the hard ground and has been driven further in every year that anybody can remember. There are four people at the top of eleven feet who have said since that they have never known what that leg is doing, and about four of them have not said whether the wedge is holding it up or holding it down.
+The wedge under that leg is a piece of hardwood about the length of a hand that has been driven into the hard ground and has been driven further in every year that anybody can remember. About four people at the top of eleven feet have said since that they have never known what that leg is doing, and that about four of them have not said whether the wedge is holding it up or holding it down.
 
 The two men who carry that table are not the same two men every morning and neither of them has ever asked the other which end he is taking, and they have never once met coming the other way at a corner, and about four people at the top of eleven feet have said since that this is not luck, and that about four of them have not said what else it could be.
 
