@@ -16,7 +16,7 @@ A person said one reason out loud in that yard on the one hundred and eighty-sec
 
 The second table has stood at the foot of that bank three hundred and twenty-one mornings, and the near rail has stood on the near side of it for two hundred and seventy-one mornings, and nobody thanks the man who fitted it. A man has stood at the foot of that bank two hundred and ninety-one mornings, on the word of the man who keeps it, and he said that number before it was entered. The table of the man of about thirty-two has stood at the foot of that bank for the two hundred and ninetieth morning, and it is not the second table and it is not the near rail. The man of fifty-six has read four figures off that wall on the seven hundred and thirty-second of those mornings. A man of about sixty-four was at the foot of that low wall on the six hundred and forty-sixth night of that run, having slept on six hundred and forty-five of them, and this is the one hundred and forty-seventh morning running of nobody asking him anything. The man of fifty-six's flat answer is the hundred and eightieth time running.
 
-That lot book is on the boards. It has five lines on it and a column with one name in it, and the heading over that column still says whoever. The second space on that form is empty and nobody has asked for it to be filled. The lane count is thirty and it did not move this morning, and it is not moved by a decision. Nothing came down that lane. The page at the back carries fifty-nine lines and carried fifty-seven lines when she shut the book. The record has stood two hundred and six days.
+That lot book is on the boards. It has five lines on it and a column with one name in it, and the heading over that column still says whoever. The second space on that form is empty and nobody has asked for it to be filled. The lane count is thirty and it did not move this morning, and it is not moved by a decision. Nothing came down that lane. The page at the back carries fifty-nine lines and carried fifty-nine lines when she shut the book. The record has stood two hundred and six days.
 
 A man of sixty-one was on the stones about four feet off him for the two hundred and thirty-sixth afternoon running. About nine people were standing on ground that has been public lot since the afternoon of the one hundred and seventeenth morning. There are about eleven feet between that wall and the top of this bank and about four miles between the top of that bank and the culvert.
 
@@ -42,7 +42,7 @@ What he got in that one look was this.
 
 The tables are down there in two lines with a rail on the near side of the second one, and there is a man at the near end of the second table who is not doing anything at all. He is standing with his hand flat on a corner of it and a cloth hanging off the other hand and he is looking down at the cloth.
 
-There is a man about nine feet from him with a basket on her arm and a scale in front of her and her back is to the hill.
+There is a woman about nine feet from him with a basket on her arm and a scale in front of her and her back is to the hill.
 
 There is a wheel turning at the near end of the ground and it does not stop for anything and it does not change for anything.
 
