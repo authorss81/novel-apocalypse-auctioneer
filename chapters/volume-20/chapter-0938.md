@@ -34,7 +34,7 @@ The turner had his wheel going with a piece of ash in it and he turned the ash o
 
 ---
 
-And the man of about thirty-two put his table up about four feet along from the second table and squared it with the back of his heel, the way he squares it, and got his apron on, and went along the top of it with the cloth, and he said nothing at all this morning. Nobody asked him anything and he said nothing and about four people at the top of eleven feet have said since that a man puts a table up every morning about four feet along from the second table and squares it and this morning was the first morning in four that he put it up and said one word out loud, and that about four of them have not said what the four mornings have come to.
+And the man of about thirty-two put his table up about four feet along from the second table and squared it with the back of his heel, the way he squares it, and got his apron on, and went along the top of it with the cloth, and he said nothing at all this morning. Nobody asked him anything and he said nothing and about four people at the top of eleven feet have said since that a man puts a table up every morning about four feet along from the second table and squares it and this morning was the first morning in four that he put it up and did not say one word out loud, and that about four of them have not said what the four mornings have come to.
 
 ---
 

@@ -32,7 +32,7 @@ At about ten to eight Orren Pike said the lane count out loud at those boards, w
 
 ---
 
-And about four people at the top of eleven feet heard him and about four of them said it after him out of step with each other, and nobody asked him what it was a figure of, and about four of them have said since that a boy of seventeen has now said a figure out loud on three mornings out of ten and has said nothing out loud on the other seven and has said so out loud, and that about four of them have not said why he keeps the two apart.
+And about four people at the top of eleven feet heard him and about four of them said it after him out of step with each other, and nobody asked him what it was a figure of, and about four of them have said since that a boy of seventeen has said a figure out loud on some of the mornings of this stretch and has said nothing out loud on others and has said so out loud when he has said nothing, and that about four of them have not said why he keeps the two apart.
 
 ---
 
@@ -40,7 +40,7 @@ The turner had his wheel going with a piece of ash in it. The man who digs loam 
 
 ---
 
-And the man of thirty-eight came down the slope at about nine with his hands showing, the way he comes down, and went to about four feet off the near end of the first table and stood at it, and he said nothing out loud at all this morning from about nine until about four, and he was still at that table after four o'clock and he said nothing then either, and about four people at the top of eleven feet have said since that a man who said out loud on the first morning of ten what forty mornings looks like has gone through nine mornings since and has said one thing out loud since, and that about four of them have not said what a man does with a thing he said once.
+And the man of thirty-eight came down the slope at about nine with his hands showing, the way he comes down, and went to about four feet off the near end of the first table and stood at it, and he said nothing out loud at all this morning from about nine until about four, and he was still at that table after four o'clock and he said nothing then either, and about four people at the top of eleven feet have said since that a man who said out loud on the first morning of ten what forty mornings looks like has gone through nine mornings since and has said one word out loud since and that word was the answer to a question somebody else asked, and that about four of them have not said what a man does with a thing he said once.
 
 ---
 
@@ -78,7 +78,7 @@ At about half past four the light went off the boards and the goodnight that get
 
 ---
 
-And about four people at the top of eleven feet have said since that a man of thirty-eight came down that bank on the first morning of ten and said what the yard had been doing, and that a man of about thirty-four said one reason out loud on the seventh morning and a clerk wrote one line for it, and that on the tenth morning the page stood at forty-five lines and had taken one of them in ten mornings, and that about four of them have not said what a yard is at after ten mornings of this, and that about four of them have said a man at the near end of the first table has not said one word out loud since the first morning of them.
+And about four people at the top of eleven feet have said since that a man of thirty-eight came down that bank on the first morning of ten and said what the yard had been doing, and that a man of about thirty-four said one reason out loud on the seventh morning and a clerk wrote one line for it, and that on the tenth morning the page stood at forty-five lines and had taken one of them in ten mornings, and that about four of them have not said what a yard is at after ten mornings of this, and that about four of them have said a man at the near end of the first table has not put a second thing out loud since the first morning of them.
 
 ---
 

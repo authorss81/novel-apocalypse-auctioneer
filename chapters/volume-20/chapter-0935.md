@@ -30,7 +30,7 @@ At about ten to eight Orren Pike said the lane count out loud at those boards, w
 
 ---
 
-About nine people at the top of eleven feet have said since that nobody in that yard has asked anybody anything out loud this morning, and that nobody has done it on the mornings before this one either, and that a yard can go seventy-five mornings without a single question in it and still turn up nineteen people at the foot of a bank every one of the same hour. Not one person in that yard said that out loud this morning. It was said up there where the light finds the eleven feet, and it was said afterwards, and it did not come down.
+About nine people at the top of eleven feet have said since that nobody in that yard has asked anybody anything out loud this morning, and that a yard can go seventy-five mornings with nobody asking it anything and still turn up about nineteen people at the foot of a bank every one of the same hour. Not one person in that yard said that out loud this morning. It was said up there where the light finds the eleven feet, and it was said afterwards, and it did not come down.
 
 ---
 

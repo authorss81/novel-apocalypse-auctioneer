@@ -38,7 +38,7 @@ And at about half past nine the man of about twenty-nine who drives the cart cam
 
 ---
 
-And about nine people at the top of eleven feet looked at him go through and then went on with what they were doing, and nobody in that yard said one word about it, not the man of thirty-eight, not the turner, not the clerk, not the man of about thirty-four, and about four people at the top of eleven feet have said since that a cart went through that yard this morning at about half past nine and nineteen people watched it go and not one of them said a word about it afterwards, and that about four of them have not said what a yard does with a thing it has stopped talking about.
+And about nine people at the top of eleven feet looked at him go through and then went on with what they were doing, and nobody in that yard said one word about it, not the man of thirty-eight, not the turner, not the clerk, not the man of about thirty-four, and about four people at the top of eleven feet have said since that a cart went through that yard this morning at about half past nine and that about nine people watched it go and not one of them said a word about it afterwards, and that about four of them have not said what a yard does with a thing it has stopped talking about.
 
 ---
 
