@@ -58,7 +58,7 @@ And nobody in that yard answered her, and nobody asked her a second thing about 
 
 ---
 
-And about four people at the top of eleven feet have said since that a woman with keys came down that bank and said two things out loud in about ten minutes, and that about four of them have not said what a person does to a yard by coming down it once, and that about four of them have said she did not come back.
+And about four people at the top of eleven feet have said since that a woman with keys came down that bank and said two things out loud and then went up it again, and that about four of them have not said what a person does to a yard by coming down it once, and that about four of them have said she did not come back.
 
 ---
 
@@ -96,7 +96,7 @@ And she wrote one line on the page at the back of that lot book, in her own hand
 
 ---
 
-At about half past four the light went off the boards and the goodnight that gets said at the end of a day in that yard was said by about four people out of about nineteen. About nine people at the top of eleven feet did not say it and did not go up. The boards went down the way they go down, and the second table stood where it stands and the near rail was on the near side of it.
+At about half past four the light came off the boards, and the goodnight that gets said at the end of a day in that yard was said by about four people out of about nineteen, and nobody said it twice. About nine people at the top of eleven feet did not say it and did not go up. The boards went down the way they go down, and the second table stood where it stands and the near rail was on the near side of it.
 
 ---
 

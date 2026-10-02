@@ -90,7 +90,7 @@ Then she wrote the morning under the last line on that page in her own hand and 
 
 ---
 
-At about half past four the light went off the boards and the goodnight that gets said at the end of a day in that yard was said by about four people out of about nineteen. About nine people at the top of eleven feet did not say it and did not go up. The boards went down the way they go down, and the second table stood where it stands and the near rail was on the near side of it.
+The light went off the boards at about half past four and the goodnight that gets said at the end of a day in that yard went with it, said by about four people out of about nineteen. About nine people at the top of eleven feet did not say it and did not go up. The boards went down the way they go down, and the second table stood where it stands and the near rail was on the near side of it.
 
 ---
 
