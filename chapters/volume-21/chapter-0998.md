@@ -98,7 +98,7 @@ At the north end the man who digs loam was in a new place in that strip with the
 
 ---
 
-The sun came over that low wall at about half past three and lay down along the stones at its foot. The man there had not moved out of that strip since about nine, and a man of sixty-one was sitting about four feet off him with his coat folded beside him.
+By about half past three that sun was over the top of that low wall and lying down along the stones at the foot of it. The man standing in that strip had been in it since about nine, and a man of sixty-one was sitting about four feet off him with his coat folded beside him.
 
 Good afternoon was said across the four feet between them and one word came back over it, and then neither of them said anything else.
 
@@ -108,13 +108,13 @@ About nineteen people heard it for the hundred and seventy-first time running, a
 
 And the clerk read that morning out loud once at about four feet off the near end of the second table, and gave the account of it out loud before she had her pen to any of it.
 
-"The two hundred and eighty-second morning," she said. "One thing was said out loud at those boards this morning and no line goes on the back of that book for it, so the morning goes on in my hand and nothing else does. That is the account of it and I have given it out loud before I have written any of it."
+"The two hundred and eighty-second morning," she said. "One thing was said out loud at those boards this morning and no line goes on the back of that book for it, so the morning goes on in my hand and nothing else does. That is the account of it, and it went out loud before a mark of it went on that page."
 
 Then she wrote the morning under the last line in her own hand and took no line for it, and the page carried fifty-seven lines before she shut that book and fifty-seven lines after.
 
 ---
 
-The light went off the boards at about half past four and the goodnight that gets said at the end of a day in that yard was said by about four people out of about nineteen, and about nine people at the top of that bank did not join in.
+By about half past four the light had gone off those boards, and the goodnight that gets said at the end of a day in that yard was said that afternoon by about four people out of about nineteen, and about nine people at the top of that bank did not join in and stood where they were.
 
 The turner came off that treadle at about half past four and stood at the near end of his own ground with his hands down at his sides and let the wheel stand still, which is the first thing he has done to it every afternoon for longer than there has been a second table in that yard.
 

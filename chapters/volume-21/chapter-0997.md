@@ -24,7 +24,7 @@ The toll of ninety-eight is paid and spent and may not be raised again or paid t
 
 ---
 
-It happened in about half a minute and it was not, at the time, anything a person could have held.
+It happened inside one short minute and it was not, at the time, anything a person could have held.
 
 There were four things in that yard that morning that went into the open air of it, and three of them belonged to men who say the same figure every day at the same hour and one of them belonged to a woman at a scale who has said a figure out loud in that yard on three mornings now and on no others.
 
@@ -80,7 +80,7 @@ Neither of them looked at the other one for the rest of that afternoon and neith
 
 ---
 
-The boards had gone up at about ten to eight and the boy had said the count out loud at them before anybody's hand had moved, which is thirty, and said no figure after it, and said out loud that he was saying no figure.
+The boards were up at about ten to eight and the count had been said out loud at them before a hand in that yard had moved, which was thirty, with nothing put after it, and the boy saying out loud that there was nothing after it.
 
 That wall at the end of that ground had a man at it before the light, and he had got all four of them.
 

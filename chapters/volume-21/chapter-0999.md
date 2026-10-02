@@ -40,6 +40,14 @@ The man of fifty-six had been at that wall before there was any light on it and 
 
 The man of about thirty-two put his own table up, squared it at the near corner with the back of his heel, and went along the top of it with his cloth.
 
+"You are a hand's width past where you were yesterday," the boy said at him from the boards, without turning round.
+
+"I know it," the man of thirty-two said. "It is the ground here. The ground goes that way and the table wants to go with it, and once in a while it does not, and then I put it back and by Thursday it is wrong again."
+
+"And you never write that down."
+
+"There is no writing on that," the man of thirty-two said, and went along the top of it again.
+
 The wheel at the near end of that ground went on turning.
 
 ---
@@ -92,9 +100,9 @@ Nobody asked him anything.
 
 And the clerk read that morning out loud, once, at about four feet off the near end of the second table, and gave the account of it out loud before she put her pen to any of it.
 
-"The two hundred and eighty-third morning," she said. "Nobody has put a question to anybody out loud in this yard this morning and nothing said out loud here this morning goes on the back of that book, so the morning goes on it in my hand. That is the account of it and I have given it out loud before I have written a word of it."
+"The two hundred and eighty-third morning," she said. "Nobody has put a question to anybody out loud in this yard this morning and nothing said out loud here this morning goes on the back of that book, so the morning goes on it in my hand. That is the account of it, and I am saying it out loud before there is a mark of it on that page."
 
-Then she wrote the morning under the last line in her own hand and took no line for it, and the page carried fifty-seven lines before she shut that book and fifty-seven lines after.
+She wrote the morning under the last line in her own hand and it took no line of itself, and there were fifty-seven lines on that page when she shut the book and there were fifty-seven lines on it after.
 
 ---
 

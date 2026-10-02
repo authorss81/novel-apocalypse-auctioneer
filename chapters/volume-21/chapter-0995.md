@@ -30,6 +30,18 @@ He could get the blade in to the depth of the hand and then it wanted its own wa
 
 He stood at the north end with the spade in both hands and looked at that cut for a while.
 
+The cart came through the gap in that bank at the ordinary hour and pulled up alongside that strip for about as long as a man stops a cart without meaning to.
+
+"You are in the same place again," he said.
+
+"I am."
+
+"It wants a new place."
+
+"It wants a new place and I have not found one that is not already got a stone in it," the man with the spade said, and put the heel of his hand flat on the ground at the top of that cut. "There is stone under this whole end. I can feel it through the sole of a boot."
+
+The cart went on down the far side of that bank, and the man with the spade stood in that cut a while longer with both hands on the handle of it.
+
 What came out of him was a number.
 
 ---

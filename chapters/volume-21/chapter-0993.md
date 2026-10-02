@@ -54,7 +54,7 @@ Nobody at those boards has ever asked him why he does it twice, and nobody has e
 
 The boards went up at about ten to eight and the boy said the count out loud at them before anybody's hand had moved.
 
-"Thirty," he said. "And no figure after it, because I am saying no figure."
+"Thirty," he said, "and I am not putting anything after the thirty, and that is me saying so and not you."
 
 Just after nine the second table went a foot further along and the near rail came with it. The man of thirty-two put his own table up and squared it with the back of his heel and went along the top of it with a cloth. The man of thirty-eight came down the slope at about half past nine with his hands showing and worked his route out along the top of his table and round the end and up the slope and back down and in at the same corner.
 
@@ -84,7 +84,11 @@ What he did with it was turn round and go back to that wall and put his hand on 
 
 He stood there for a good while with his hand on the stone and his back to the middle of that yard, and at about half past three the sun came over the low wall and laid itself down along the stones at the foot of it, and the man standing in that strip had been in it since about nine. A man of sixty-one was sitting about four feet off him with his arms hanging over his knees. Good afternoon went across the four feet and one word came back over it.
 
-At four o'clock the man of fifty-six said the four off that stone and got all four of them, and put his hand flat on the stone under the bottom one, and said out loud, in the ordinary voice, that he still does not know what those four of them are for.
+At four o'clock the man of fifty-six said the four off that stone and got all four of them, and put his hand flat on the stone under the bottom one, and said out loud, in the ordinary voice, the thing he puts on that wall twice a day.
+
+"I still do not know what these four are for," he said.
+
+He has been saying that sentence off that stone twice a morning for as long as anyone at that bank can remember, and it has never once been shorter than that, and it has never once had anything put in front of it or after it.
 
 About nineteen people heard it for the hundred and sixty-sixth time running.
 

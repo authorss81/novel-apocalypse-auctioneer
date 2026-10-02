@@ -106,7 +106,7 @@ And the clerk read that morning out loud, once, at about four feet off the near 
 
 "The two hundred and seventy-eighth morning," she said. "Something went out loud at that scale this morning and nothing went on the back of that book for it, so the morning goes on it in my hand and there is nothing else in the account of it. I have said that out loud before I have written any of it."
 
-Then she wrote the morning under the last line in her own hand and took no line for it, and the page carried fifty-six lines before she shut that book and fifty-six lines after.
+She put the morning under the last line in her own hand and it took no line for itself, and there were fifty-six lines on that page when she shut the book and there were fifty-six lines on it after.
 
 ---
 

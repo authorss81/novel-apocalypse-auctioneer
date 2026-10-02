@@ -80,7 +80,7 @@ He went along the top of that table from the near end to the far end and back ag
 
 About nine feet off, the man of thirty-eight came out at the empty end of his own table, went round the end, went up the slope, came across, came back down, and went in at the same corner, and the pieces along the near edge of that table stayed in a line the whole of the afternoon.
 
-A pair of them came up the bank about nine feet behind her and stopped to look at the light, and one of them said something about the wind and it was not said to anybody at that bank.
+A pair of them came up the bank about nine feet behind her and stopped to look at the light, and one of them said that there was wind coming over the top of that bank and would be across the boards by four, and the other one said it would not, and it was not said to anybody at that bank.
 
 ---
 
@@ -96,7 +96,11 @@ Then he took the cloth out again and unrolled it and went back to work.
 
 ---
 
-The stones at the foot of that low wall took the sun at about half past three, and the man at the foot of it was standing where he had been standing since about nine. A man of sixty-one was sitting about four feet off him with his coat folded beside him on the stones. Good afternoon was said across the four feet and one word came back over them, and that was all the saying either of them did.
+The stones at the foot of that low wall took the sun at about half past three, and the man at the foot of it was standing where he had been standing since about nine. A man of sixty-one was sitting about four feet off him with his coat folded beside him on the stones.
+
+"Good afternoon," said the man of sixty-one across the four feet.
+
+"Afternoon," said the man at the foot of the wall, and that was the whole of what either of them said to the other one that afternoon, and it was what they had been saying for the whole of that run.
 
 At four o'clock the man of fifty-six came back to that wall for the second time that day, took the four off it one after another without a pause in them, put the flat of his hand on the stone under the bottom one, and said out loud in the voice he always uses for it that he still does not know what those four of them are for.
 

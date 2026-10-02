@@ -36,7 +36,7 @@ He is somewhere in his forties and has made round things at that end of that tab
 
 The boards went up at about ten to eight and the boy said the count out loud at them before anybody's hand had moved on anything.
 
-"Thirty," he said. "And no figure after it, because I am saying no figure."
+"Thirty," he said, and then he said, out loud and to nobody in particular, that there was no figure going after it and that he was telling them himself rather than letting them find out later.
 
 At that wall the man of fifty-six had been before the light and had got all four of them. Just after nine the second table went a foot further along and the near rail came with it and the man at the end of that table put his boot on the wedge and left it there. The man of thirty-eight came down the slope at about half past nine with his hands showing and went to the empty end of his own table and worked his route without breaking it for anything.
 

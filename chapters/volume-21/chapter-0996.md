@@ -82,7 +82,17 @@ At about one he put the cart down at the top of that bank and came down the slop
 
 He has done that four mornings out of a good many, and it is the only thing he does at that bank that is not getting a cart from one place to another place, and there is nobody in that yard he has ever asked about it.
 
-At about two a man of about forty-two came down that bank with a coil of rope over his shoulder and stood at the boards for a while and asked the boy a question about the height of those boards, and the boy answered it, and the man went back up. Nobody at that bank has ever asked the boy why he answers questions from men who come down there for something else.
+At about two a man of about forty-two came down that bank with a coil of rope over his shoulder and stood at the boards for a while.
+
+"How high are they, these boards?"
+
+"About as high as your elbow," the boy said. "And about as wide as two of them laid flat side by side, and you do not want the height. You want the width, because you have got a load on that rope and you are thinking about where it goes."
+
+"The width," the man said. "That is what I want."
+
+"Then the width is what you get." The boy went back to the rail at the near end of those boards and did not look up while the other man stood there being told something he had known the answer to.
+
+Then the man went back up. Nobody at that bank has ever asked the boy why he answers questions from men who come down there for something else.
 
 ---
 

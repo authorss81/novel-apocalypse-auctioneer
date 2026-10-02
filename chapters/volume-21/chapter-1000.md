@@ -32,7 +32,7 @@ What is there is a strip of about four feet of sun that comes over that wall at 
 
 ---
 
-The boards went up at about ten to eight and the boy said the count out loud at them before anybody's hand had moved, which is thirty, and said no figure after it, and said out loud that he was saying no figure.
+The boards went up at about ten to eight and the count went out loud at them off that boy before a hand had moved anywhere in that yard, which was thirty, and then he told the yard there was no figure coming after it.
 
 Nobody in that yard has ever asked the man at the foot of that wall a question, on any morning, for any reason at all. Not on the mornings when he has been the only thing moving in that part of the ground. Not on the mornings when a sentence has gone out loud about four hundred yards from him and everybody else in that yard has turned round to see where it came from.
 
@@ -64,7 +64,7 @@ The boy stood at the near end of the first table for a while at about two with h
 
 ---
 
-The sun came over that low wall at about half past three and lay down along the stones at its foot.
+At about half past three the light came over the top of that low wall and went down onto the stones at the bottom of it.
 
 The man at the foot of it was standing where he had been standing since about nine and he stepped the two steps into that strip of sun without hurrying and stood in it with his hands down at his sides.
 
@@ -84,13 +84,13 @@ About nineteen people heard it for the hundred and seventy-third time running, a
 
 And the clerk read that morning out loud, once, at about four feet off the near end of the second table, and gave the account of it out loud before she had her pen to any of it.
 
-"The two hundred and eighty-fourth morning," she said. "Nothing has been said out loud in this yard this morning that goes on the back of that book, so the morning goes on in my hand and there is nothing else in the account of it. I have given the account out loud before I have written a word of it."
+"The two hundred and eighty-fourth morning," she said. "Nothing has been said out loud in this yard this morning that goes on the back of that book, so the morning goes on in my hand and there is nothing else in the account of it. The account of it goes out loud before any of it is written down."
 
 Then she wrote the morning under the last line in her own hand and took no line for it, and the page carried fifty-seven lines before she shut that book and fifty-seven lines after, and the pen went back into the holder and the book went onto the boards against the rail and the boy put his thumb under the corner of it.
 
 ---
 
-And the woman who keeps a scale tied the cloth over her scale and knotted it and put the basket on her arm and went up that bank.
+The woman who keeps a scale knotted the cloth over her own scale, put the basket back on her arm and went up that bank ahead of the rest of them, the way she goes up that bank.
 
 She had not said a figure out loud that morning. She has said one out loud on a morning eleven mornings back and on one at about half past one two mornings back and on one yesterday, and there is nobody at that yard who has said one word to her about any of the three of them.
 
