@@ -26,7 +26,7 @@ The toll of ninety-eight is paid and spent and may not be raised again or paid t
 
 It happened inside one short minute and it was not, at the time, anything a person could have held.
 
-There were four things in that yard that morning that went into the open air of it, and three of them belonged to men who say the same figure every day at the same hour and one of them belonged to a woman at a scale who has said a figure out loud in that yard on three mornings now and on no others.
+There were four things in that yard that morning that went into the open air of it, and three of them belonged to men who say the same figure every day at the same hour and one of them belonged to a woman at a scale who has said a figure out loud in that yard on four mornings now and on no others.
 
 At about half past one she put a bar on her own pan and waited for it to come still and then said one figure out loud, once, at her own scale, in the ordinary voice.
 
