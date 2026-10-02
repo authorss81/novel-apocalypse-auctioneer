@@ -14,19 +14,21 @@ The man of fifty-six said the four off that wall at about a quarter to eight and
 
 At about half past three a man of about sixty-four was at the foot of that low wall on his five hundred and ninety-first night of that run, having slept on five hundred and ninety of them, and a man of sixty-one was on the stones about four feet off him for the one hundred and eighty-first afternoon running, and they said good afternoon, and a man of sixty-one said good afternoon and said nothing else, and a man of about sixty-four was at the foot of that wall and was not asked one question this morning, which is the ninety-second morning running of that, and about nine people were standing on ground that has been public lot since the afternoon of the one hundred and seventeenth morning, and there are about eleven feet between that wall and the top of this bank and about four miles between the top of this bank and the culvert, and neither of those two distances is what anybody in that yard thinks about on a morning.
 
-The record has stood one hundred and fifty-one days, the page at the back did not take a line this morning and the morning was read out loud before it was written, and nothing that came down that lane is in the lot book or on the page at the back of that book, and the second space on that form is still empty.
+One hundred and fifty-one days is what the record has stood. The page at the back took no line this morning, and the morning was read out loud before anything of it was written down. Nothing that came down that lane is in the lot book or on the page at the back of that book. The second space on that form is still empty, and it has been empty on every morning of this stretch.
 
-Orren Pike said the lane count out loud at those boards at about ten to eight and said no figure, and said so out loud, and about four people at the top of eleven feet heard him.
-
----
+Orren Pike said the lane count out loud at those boards at about ten to eight and said no figure after it, and he said out loud that there was no figure this morning, and about four people at the top of eleven feet heard that as well.
 
 ---
 
-The boards went up after the light found the eleven feet and about nine people at the top of eleven feet came down that bank at the hour they come down. At about a quarter to eight the man of fifty-six said the four off that wall and got all four of them and put his hand flat on the stone afterwards and left it there a while, and nobody said one word to him.
+---
+
+The light found the eleven feet and the boards went up, and about nine people at the top of eleven feet came down that bank at the hour they come down. At about a quarter to eight the man of fifty-six said the four off that wall and got them all, laid his hand flat on the stone afterwards and left it lying there a while, and nobody said one word to him about it.
 
 ---
 
-At about ten to eight Orren Pike said the lane count out loud at those boards, which is thirty, and then he said no figure, and said so out loud, and about four people at the top of eleven feet heard him and went on down the yard with what they were doing. The turner had his wheel going with the new bearing quiet in it and did not stop it once. The man who digs loam was at the north end on the same strip. The man of about thirty-two put his table up about four feet along from the second table, squared it with the back of his heel and put his apron on.
+At about ten to eight Orren Pike said the lane count out loud at those boards, which is thirty. Then he said no figure, and he said out loud that there was no figure this morning, and about four people at the top of eleven feet heard him and went on down the yard with what they were doing.
+
+The turner had his wheel going with the new bearing quiet in it and did not stop it once. The man who digs loam was at the north end on the same strip. The man of about thirty-two put his table up about four feet along from the second table, squared it with the back of his heel and put his apron on.
 
 ---
 
@@ -46,11 +48,11 @@ And about four people at the top of eleven feet have said since that a clerk at 
 
 ---
 
-At about half past twelve the woman who keeps a scale came down that bank with her scale in a piece of cloth and set it up at about four feet off the near end of the second table and weighed two bars of iron out of a basket and wrote the figure on the edge of a board of her own with a bit of chalk and said nothing to anybody, and she did not stay past about one.
+The woman who keeps a scale came down that bank at about half past twelve with her scale in a piece of cloth and set it up at about four feet off the near end of the second table. She weighed two bars of iron out of a basket, wrote the figure on the edge of a board of her own with a bit of chalk, said nothing to anybody, and did not stay past about one.
 
 ---
 
-At about half past one the man of about forty-eight who keeps a tally said his number into about four hundred yards of air and nobody wrote it down, and about four people at the top of eleven feet said it after him out of step with each other, and he put his hand flat on his own coat afterwards and went to stand about nine feet further along, which is what he does, and he said no sentence before it.
+The man of about forty-eight who keeps a tally said his number at about half past one, into about four hundred yards of air, and nobody wrote it down. About four people at the top of eleven feet said it after him out of step with each other. He put his hand flat on his own coat afterwards and went to stand about nine feet further along, which is what he does, and he said no sentence before it and none after it either.
 
 ---
 
@@ -66,21 +68,21 @@ At about four o'clock the man of fifty-six said the four off that wall and got a
 
 ---
 
-And then the clerk read the morning out loud, and she read it before she wrote anything, in the ordinary voice, at about four feet off the near end of the second table, to about nineteen people at the foot of that bank, and she read it once.
+And then the clerk read the morning out loud in the ordinary voice at about four feet off the near end of the second table, and about nineteen people at the foot of that bank heard it, and she read it once and she read it before she wrote anything.
 
-"The two hundred and thirty-sixth morning," she said. "No reason was said out loud in this yard this morning and nothing is going on the back of that book, and that is the whole of it."
-
----
-
-And she wrote the morning on the page at the back of that lot book in her own hand under the last line and she did not take a line for it, and about nine people at the top of eleven feet watched her do it on a page that has forty-seven lines on it and has not got a forty-eighth, and about four of them did not go up that bank straight away when she had done it.
+"The two hundred and thirty-sixth morning," she said. "No reason was said out loud in this yard this morning and nothing is going on the back of that book, and she read that out and then stopped."
 
 ---
 
-And about four people at the top of eleven feet have said since that a clerk read a morning out loud this afternoon at about four feet off the near end of the second table and then wrote the morning down on that page without a line under the last line, and that about four of them have said a clerk reading a morning and writing nothing has not happened since the one hundred and eighty-fourth morning, and that about four of them have not said what she did in the whole of the afternoon.
+Under the last line on the page at the back of that lot book she wrote the morning in her own hand and she did not take a line for it. About nine people at the top of eleven feet watched her do it on a page that carries forty-seven lines and has not got a forty-eighth, and about four of them did not go up that bank straight away when she had finished it.
 
 ---
 
-At about half past four the light went off the boards and the goodnight that gets said at the end of a day in that yard was said by about four people out of about nineteen and about nine people at the top of eleven feet did not say it and did not go up, and the boards went down the way they go down, and the second table stood at the foot of that bank where it stands and the near rail was on the near side of it.
+And about four people at the top of eleven feet have said since that a clerk read a morning out loud this afternoon at about four feet off the near end of the second table and then wrote the morning down on that page without a line under the last line, and that about four of them have said a clerk reading a morning and writing nothing has not happened since the one hundred and eighty-fourth morning, and that about four of them have not said what she did in the whole of the afternoon. She set her own pen down on the boards beside that book when she had finished and left the front of the book open the way she had left it, and nobody came within speaking distance of those boards to put anything to her about it before the light went off them.
+
+---
+
+The light went off the boards at about half past four, and the goodnight that gets said at the end of a day in that yard was said by about four people out of about nineteen. About nine people at the top of eleven feet did not say it and did not go up. The boards went down the way they go down. The second table stood at the foot of that bank where it stands and the near rail was on the near side of it.
 
 ---
 

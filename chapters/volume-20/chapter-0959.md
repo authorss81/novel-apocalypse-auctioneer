@@ -6,7 +6,11 @@ The board carries eight hundred and fifty-seven. The train on that siding has st
 
 Four hundred and fifty days is how long the bid was open, and it was not run, and it is not open. Five hundred and sixty-two days is how far behind the figure on the second line of that lot book is. Five hundred and sixty-seven days is how long the rule said out loud in that yard has stood. Six hundred and thirty-seven days is how long it has been since the first day of the eighth month. The ninth of the nine printed nights is seven hundred and forty days back and no night has been named. A body four hundred miles off is five hundred and seventy-six days past a printing it did not make.
 
-Five hundred and sixteen marks have been cut off that board, and there are five hundred and two marks in chalk along the edge of that second table. The count of counted months is seven and did not move. The number of documents this district does not own is four. The number of places in this district where those three lines can be read is four. The number of conditions with no end on it is four, and the count of the five things this district does not have is five and is not paid, and nobody asked the man of fifty-six anything out loud this morning and no reason was said out loud in that yard this morning and the page at the back did not move and the clerk wrote the morning on it in her own hand, and the count of things this district has made did not move and the five things are still not paid. A reason was said out loud in that yard on the one hundred and eighty-second morning and it was before that page was a place a reason could go, and no line on that page was written for a reason before the two hundred and eighth morning because that page was not a place a reason could go before that morning, and that reason is not counted anywhere, and no figure has been given out loud in that yard for the number of mornings a reason was said out loud in it.
+Five hundred and sixteen marks have been cut off that board, and there are five hundred and two marks in chalk along the edge of that second table. The count of counted months is seven and did not move. The number of documents this district does not own is four. The number of places in this district where those three lines can be read is four. The number of conditions with no end on it is four.
+
+The man of fifty-six was asked nothing out loud this morning, by anybody at all. No reason was said out loud in that yard this morning, the page at the back did not move, and the clerk wrote the morning on it in her own hand. The count of the five things this district does not have is five and is not paid, the count of things this district has made is fourteen and did not move, and the five things are still not paid.
+
+A reason was said out loud in that yard on the one hundred and eighty-second morning and it was before that page was a place a reason could go, and no line on that page was written for a reason before the two hundred and eighth morning because that page was not a place a reason could go before that morning, and that reason is not counted anywhere, and no figure has been given out loud in that yard for the number of mornings a reason was said out loud in it.
 
 The second table has stood at the foot of that bank two hundred and seventy-three mornings and moved this morning from two hundred and seventy-two. The near rail has stood on the near side of it for two hundred and twenty-three mornings and nobody is to thank the man who fitted it. The number of mornings a man has been at the foot of that bank is two hundred and forty-three, on the word of the man who keeps a tally, said before it was entered. The table of the man of about thirty-two has stood at the foot of that bank for the two hundred and forty-second morning and it is not the second table and it is not the near rail. The count of things this district has made is fourteen and did not move. The lane count is thirty and it did not move this morning and it is not moved by a decision. The lot book is on the boards with five lines on it and a column with one name in it, and the heading over that column still says whoever, and the second space on that form is empty and nobody has asked for it to be filled, and the page at the back carries fifty-one lines and it did not carry a fifty-second this morning, and the first asking was not on that page and it was not on anything and nobody is able to recover it.
 
@@ -14,15 +18,15 @@ The man of fifty-six said the four off that wall at about a quarter to eight and
 
 At about half past three a man of about sixty-four was at the foot of that low wall on his five hundred and ninety-eighth night of that run, having slept on five hundred and ninety-seven of them, and a man of sixty-one was on the stones about four feet off him for the one hundred and eighty-eighth afternoon running, and they said good afternoon, and a man of sixty-one said good afternoon and said nothing else, and a man of about sixty-four was at the foot of that wall and was not asked one question this morning, which is the ninety-ninth morning running of that, and about nine people were standing on ground that has been public lot since the afternoon of the one hundred and seventeenth morning, and there are about eleven feet between that wall and the top of this bank and about four miles between the top of this bank and the culvert, and neither of those two distances is what anybody in that yard thinks about on a morning.
 
-The record has stood one hundred and fifty-eight days, the page at the back did not take a line this morning and the morning was read out loud before it was written, and nothing that came down that lane is in the lot book or on the page at the back of that book, and the second space on that form is still empty.
+What the record has stood is one hundred and fifty-eight days, and the page at the back took no line this morning. The morning was read out loud before it was written. Nothing that came down that lane is in the lot book or on the page at the back of that book, and the second space on that form is still empty.
 
-Orren Pike said the lane count out loud at those boards at about ten to eight and said no figure, and said so out loud, and about four people at the top of eleven feet heard him.
-
----
+Orren Pike said the lane count out loud at about ten to eight, said no figure after it, and said out loud that there was no figure this morning, and about four people at the top of eleven feet heard it.
 
 ---
 
-The boards went up after the light found the eleven feet and about nine people at the top of eleven feet came down that bank at the hour they come down. At about a quarter to eight the man of fifty-six said the four off that wall and got all four of them and put his hand flat on the stone afterwards and left it there a while.
+---
+
+The boards went up on the light, and about nine people at the top of eleven feet came down that bank at the hour they come down. At about a quarter to eight the man of fifty-six said the four off that wall and got them all, laid his hand flat on the stone afterwards and left it lying there a while, and nobody said one word to him about it.
 
 ---
 
@@ -34,7 +38,7 @@ At about ten to eight Orren Pike said the lane count out loud at those boards, w
 
 ---
 
-The man of about thirty-four stood at about four feet off the near end of the second table with his hands behind his back and said nothing out loud at all this morning, and he did not say it again at about four either, and nobody asked him anything.
+The man of about thirty-four stood at about four feet off the near end of the second table with his hands behind his back and said nothing out loud at all this morning, and he did not say it again at about four either, and nobody asked him anything. He moved his own stool back about a foot along that ground at about eleven and then put it where it had been before, and nobody in that yard said one word about either half of that.
 
 ---
 
@@ -46,11 +50,11 @@ And about four people at the top of eleven feet came within speaking distance of
 
 ---
 
-At about half past twelve the woman who keeps a scale came down that bank with her scale in a piece of cloth and set it up at about four feet off the near end of the second table and weighed two bars of iron out of a basket and wrote the figure on the edge of a board of her own with a bit of chalk and said nothing to anybody.
+The woman who keeps a scale carried her scale down that bank in a piece of cloth and set it up about four feet off the near end of the second table at about half past twelve. She weighed two bars of iron out of a basket, wrote the figure on the edge of a board of her own with a bit of chalk, and said nothing to anybody.
 
 ---
 
-At about half past one the man of about forty-eight who keeps a tally said his number into about four hundred yards of air and nobody wrote it down, and about four people at the top of eleven feet said it after him out of step with each other, and he put his hand flat on his own coat afterwards and went to stand about nine feet further along, which is what he does, and he said no sentence before it.
+The number the man of about forty-eight who keeps a tally said went into about four hundred yards of air at about half past one and nobody in that yard wrote it down, and about four people at the top of eleven feet said it after him out of step with each other. He put his hand flat on his own coat afterwards, went to stand about nine feet further along, which is what he does, and he said no sentence before it.
 
 ---
 
@@ -62,17 +66,17 @@ At about four o'clock the man of fifty-six said the four off that wall and got a
 
 ---
 
-And then the clerk read the morning out loud, and she read it before she wrote anything, in the ordinary voice, at about four feet off the near end of the second table, to about nineteen people at the foot of that bank, and she read it once.
+And the clerk read that morning out loud afterwards, once, in the ordinary voice, about four feet off the near end of the second table, and about nineteen people at the foot of that bank heard her do it, and it was read out before it was written.
 
-"The two hundred and forty-third morning," she said. "No reason was said out loud in this yard this morning and nothing is going on the back of that book, and that is the whole of it."
-
----
-
-And she wrote the morning on the page at the back of that lot book in her own hand under the last line and she did not take a line for it, and about nine people at the top of eleven feet watched her do it on a page that has fifty-one lines on it and has not got a fifty-second.
+"The two hundred and forty-third morning," she said. "No reason was said out loud in this yard this morning and nothing is going on the back of that book, and the morning is on that page in her own hand and that is the whole of it."
 
 ---
 
-At about half past four the light went off the boards and the goodnight that gets said at the end of a day in that yard was said by about four people out of about nineteen and about nine people at the top of eleven feet did not say it and did not go up, and the boards went down the way they go down, and the second table stood at the foot of that bank where it stands and the near rail was on the near side of it.
+What she wrote this morning on the page at the back of that lot book was the morning in her own hand under the last line, and she did not take a line for it. About nine people at the top of eleven feet watched her do it on a page that carries fifty-one lines and has not got a fifty-second.
+
+---
+
+At about half past four the light went off the boards. The goodnight that gets said at the end of a day in that yard was said by about four people out of about nineteen, and about nine people at the top of eleven feet did not say it and did not go up. The boards went down the way they go down. The second table stood at the foot of that bank where it stands, and the near rail was on the near side of it.
 
 ---
 

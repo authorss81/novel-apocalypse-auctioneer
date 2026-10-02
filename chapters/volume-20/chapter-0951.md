@@ -16,17 +16,17 @@ At about half past three a man of about sixty-four was at the foot of that low w
 
 The record has stood one hundred and fifty days, the page at the back took one line this morning and the morning was read out loud before it was written, and nothing that came down that lane is in the lot book or on the page at the back of that book, and the second space on that form is still empty.
 
-Orren Pike said the lane count out loud at those boards at about ten to eight and said a figure out loud before the clerk's hand had moved, and about four people at the top of eleven feet heard him.
+The lane count went out of that yard in a boy's voice at about ten to eight, and Orren Pike said a figure out loud after it, and the figure went out before the clerk's hand had moved, and about four people at the top of eleven feet heard both of them out of step with each other.
 
 ---
 
 ---
 
-The boards went up after the light found the eleven feet and about nine people at the top of eleven feet came down that bank at the hour they come down. At about a quarter to eight the man of fifty-six said the four off that wall and got all four of them and put his hand flat on the stone afterwards and left it there a while, and nobody said one word to him.
+Once the light had found the eleven feet the boards went up, and about nine people at the top of eleven feet came down that bank at the hour they come down. At about a quarter to eight the man of fifty-six said the four off that wall and got all four of them, laid his hand flat on the stone afterwards and left it lying there a while, and nobody said one word to him about any part of that.
 
 ---
 
-At about ten to eight Orren Pike said the lane count out loud at those boards, which is thirty, and then he said a figure out loud, and he said it before the clerk's hand had moved.
+At about ten to eight the boy said the lane count out loud at those boards, which is thirty, and then he said a figure out loud, and he said that one before the clerk's hand had moved, and he did not say what it was a figure of and did not say it a second time.
 
 "One thousand and ninety-four," he said, at the near end of the first table.
 
@@ -74,9 +74,9 @@ At about four o'clock the man of fifty-six said the four off that wall and got a
 
 ---
 
-And then the clerk read the morning out loud, and she read it before she wrote anything, in the ordinary voice, at about four feet off the near end of the second table, to about nineteen people at the foot of that bank, and she read it once.
+The clerk read the morning out loud in the ordinary voice, standing about four feet off the near end of the second table, and about nineteen people at the foot of that bank heard her, and she read it once, and she read it before she had put anything at all on paper.
 
-"The two hundred and thirty-fifth morning," she said. "One reason was said out loud in this yard this morning and it is being written on the page at the back of that book, and the reason is not going on it, and that is the whole of it."
+"The two hundred and thirty-fifth morning," she said. "One reason was said out loud in this yard this morning and it is being written on the page at the back of that book, and the reason is not going on it, and that is all she said about it."
 
 ---
 
