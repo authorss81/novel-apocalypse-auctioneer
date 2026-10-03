@@ -2020,15 +2020,13 @@ The man the third line is about is not in that yard at any point while the askin
 
 **AND WHAT A SUCCESSOR MUST NOT INHERIT FROM THIS SECTION AS A GAP. **THE PAGE IS AT SIXTY-ONE LINES AND IT TOOK EXACTLY ONE LINE IN THESE TEN MORNINGS, ON THE THREE HUNDRED AND EIGHTH, FOR ONE REASON SAID FROM THE TOP OF THAT BANK WITHOUT ITS OWNER COMING DOWN IT, AND THAT LINE CARRIES THE MORNING AND NOT THE REASON. THE LANE COUNT IS AT THIRTY AND DID NOT MOVE ON ANY OF THE TEN, INCLUDING ON THE MORNING A PERSON WENT UP THAT LANE AND CAME BACK DOWN IT WITH NOTHING IN HIS HAND. **A FIGURE OF HIS OWN WENT OUT ON SOME OF THESE MORNINGS AND A FIGURE OF HERS WENT OUT ON SOME OF THEM AND NEITHER COUNT IS PUBLISHED AND NEITHER MAY BE, AND NO DIFFERENCE BETWEEN THEM IS PRINTED. **THE NEXT CHAPTER TO WRITE IS 1031 AND THE NEXT PHASE IS `workspace/volume-22/batch-0003/PROMPT.md`, WHICH IS THE BLOCK THAT CARRIES THE MORNING AFTER THE REVERSAL.**
 
-## VOLUME 22, BLOCK 0001 — SECOND PASS OVER CHAPTERS 1011 TO 1020, TWO SENTENCES REPAIRED, NOTHING ELSE MOVED
+## VOLUME 22, BLOCK 0001 — SECOND PASS: TWO SENTENCES REPAIRED, NOTHING ELSE MOVED
 
-> **APPENDED BY A LATER WRITER PHASE THAT RE-MEASURED EVERY PUBLISHED FIGURE OFF THE TEN FILES INSTEAD OF INHERITING IT. NO CHAPTER WAS RESTARTED. NO EVENT, NO SPEECH, NO FIGURE, NO COUNT, NO PAGE CELL, NO LANE COUNT AND NO SCENE BOUNDARY MOVED. THE FULL RECORD IS §14 OF `state/volume-22-batch-0001-summary.md`.**
+*The per-chapter summaries for Chapters 1011 to 1020 stand above and are unchanged. This entry records what a later pass repaired in them and carries nothing else. It replaces an earlier, longer version of itself written in capitals and in audit prose; see `reviews/volume-22-batch-0003-prompt-fix.md`.*
 
-| Ch | what the second pass found | what it did |
+| Ch | what the pass found | what it did |
 |---:|---|---|
-| 1013 | **THE PROSE BEAT THAT NAMES WHAT ABOUT FOUR PEOPLE AT THE TOP OF THAT BANK HAVE NOT SAID ENDED *ON ANY MORNING THE TURNER HAS BEEN STOOD IN*… AND THAT MORNING IS TOLD FROM HER, THE TURNER IS NOT IN IT, AND HE HAS NOT BEEN IN THAT YARD SINCE `c = 1`.** A CHARACTER FROM ANOTHER MORNING's POINT OF VIEW HAD WALKED INTO THIS ONE | Rewritten to **ON ANY MORNING SHE HAS STOOD AT THAT SCALE** — one word changed, one point of view restored |
-| 1018 | **THE BID SENTENCE IN THE FIGURE BLOCK READ *nothing in this volume or any other has opened it*. A FIGURE BLOCK THAT REFERS TO THE VOLUME IT IS PRINTED IN IS THE FOURTH WALL AND NOBODY IN THAT YARD HAS ANY WAY OF KNOWING WHAT A VOLUME IS** | Rewritten to **nothing in this district or any other has opened it since** — the bid is still not run, still not open, still not a lot, and no second opening was invented |
+| 1013 | The beat that names what about four people at the top of that bank have not said ended on the turner — the point of view of Chapter 1011, and nowhere in this morning, which is told from her | Now reads *on any morning she has stood at that scale* |
+| 1018 | The bid sentence in the readout read *nothing in this volume or any other has opened it*: a readout that names the volume it is printed in, which nobody in that yard has any way of knowing | Now reads *nothing in this district or any other has opened it since*; the bid is still not run, still not open, still not a lot, and no second opening was invented |
 
-**AND THE NINE OTHER CHAPTERS WERE FOUND CLEAN AND WERE NOT TOUCHED. THE BLOCK MEASURES **25,952 WORDS AND 138 DIVIDERS** AT THE END OF THIS PASS AGAINST **25,953 AND 138** AT THE END OF THE FIRST, AND THE WHOLE OF THE DIFFERENCE IS THE TWO REPAIRS ABOVE.**
-
-**AND THE FIGURE AT §6 OF THE BLOCK RECORD FOR THE WHOLE WORD *ABOUT* IS ONE HIGHER ON BOTH INSTRUMENTS THAN THE FILES GIVE: **426** CORRECT AGAINST **420** FAULTY, PER FILE 42/41, 50/49, **39/38**, 40/40, 52/52, 38/38, 45/44, 37/37, 48/47 AND 35/34, AGAINST THE PUBLISHED **427** AND **421** WITH A THIRD ENTRY OF 40/39. THE FAULT OF SIX IS RIGHT AND IT IS SIX OCCURRENCES IN SIX FILES, AND `state/volume-22-batch-0002-summary.md` §7 ALREADY FOUND THE SAME DISAGREEMENT FROM THE OTHER SIDE.**
+The other eight chapters were found clean and were not touched. No ladder cell, no count, no page cell, no lane count, no scene boundary, no speech and no event moved. The full record is `state/volume-22-batch-0001-summary.md`, §5.
