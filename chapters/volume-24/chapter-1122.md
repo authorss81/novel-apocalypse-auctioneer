@@ -42,7 +42,7 @@ The man of about thirty-four was already at his own table at the far end of it. 
 
 ---
 
-There is a figure that belongs to this morning and it is an eight hundred, and it belongs to the first day of the eighth month, and it stands on that block with the rest of them the way every one of those figures stands on the morning it sits on.
+That run of figures carries an eight hundred this morning. That figure is the first day of the eighth month and it stands in that run with the rest of them, and it has stood in there as long as there has been a run of them. Nobody in that yard has ever asked what any one of them is for.
 
 Nobody in that yard said it out loud and nobody at the top of that bank looked down at it.
 
@@ -54,7 +54,7 @@ He was standing at about four feet off the near end of that first table from abo
 
 She was at her own pan from about half past twelve, four feet off the near end of that second table, with the basket down beside her, and she put nothing out loud in that yard this morning.
 
-Half past one came round and that man put his number out into the air over that ground in the voice he keeps for it alone, and it went off the face of that bank, and about four voices behind him in that yard had it a moment later and not one of them together.
+Half past one came round and the man of about forty-eight put his number out into the air over that ground in the voice he keeps for it alone, and it went off the face of that bank, and about four voices behind him in that yard had it a moment later and not one of them together.
 
 ---
 

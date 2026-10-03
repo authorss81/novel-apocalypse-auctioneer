@@ -52,7 +52,7 @@ At about four feet off the near end of that first table the man of thirty-eight 
 
 At about half past twelve the woman who keeps a scale was out at her own pan with the basket down beside her, and she said nothing out loud that morning, and nobody in that yard put one question to her about any of it.
 
-About half past one, and that man's number went out into about four hundred yards of air, and about four voices in that yard carried it after him, none of them in step with any other.
+About half past one, and the man of about forty-eight had his number out into about four hundred yards of air, and about four voices in that yard carried it after him, none of them in step with any other.
 
 The frame at the near end of that first table had nothing turning on it and the turner was at it, and he had not put his heel on it, and nobody in that yard came over and started it.
 

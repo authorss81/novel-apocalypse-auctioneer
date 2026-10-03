@@ -82,7 +82,7 @@ At about four his hand went back up flat under the lowest one and he took them o
 
 Then the flat answer went to that stone after them, in other words than the ones he had used at a quarter to eight, and it was the three hundredth time running.
 
-"That is the three hundredth of them and I have had the two of you twice today and got the two of you twice today, and this stone has had my whole hand on it since before the light was on this ground, and there is not one person in this district who has ever asked me where the four of you are kept or what I do with what comes off you, and there is not going to be one, and that is the trade and the whole of it."
+"That is the three hundredth of them and I have had the two of you twice today and got the two of you twice today, and this stone has had my whole hand on it since before the light was on this ground, and there is not one person in this district who has ever asked me where the four of you are kept or what I do with what comes off you, and I am the one that keeps them, and that is the trade and the whole of it."
 
 Nobody in this district has ever put one question to him about any part of that.
 

@@ -68,7 +68,7 @@ It is about eleven feet between that wall and the top of this bank, and nobody i
 
 At about four the hand went up on that low wall and four figures came off the top of it one after another, and the flat answer went to that stone after them, and it was the two hundred and ninety-sixth time running.
 
-Nobody in this district has ever put one question to him about it and nobody ever will.
+There is not one question in that yard about him or about any part of it.
 
 At about four the clerk came down those boards with the pen in the holder and read that morning out loud before her hand had been near any part of it, and then she wrote the four hundred and seventh morning under the last line in her own small careful hand and took nothing onto that page for it.
 

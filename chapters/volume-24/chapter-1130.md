@@ -54,7 +54,7 @@ At about half past nine the man of thirty-eight was out at his four feet off the
 
 From about half past twelve she was at her own pan about four feet off the near end of that second table with the basket down beside her, and she said nothing out loud that morning, and about four people at the top of that bank have said since that they have not said what that low wall is for.
 
-At about half past one the man of about forty-eight put his number out and about four voices in that yard took it up behind him and out of step with one another, and it went off the face of that bank and nobody answered it.
+At about half past one the man of about forty-eight put his number out and about four voices in that yard took it up behind him and out of step with one another, and it went off the face of that bank, and nobody in that yard put one word out loud about any of it.
 
 ---
 
@@ -73,8 +73,6 @@ At about two he said one thing out loud at the near end of those boards, where a
 "That stack goes up at about half past four and it goes up while there is light on it. I have been carrying boards up that slope for thirty-one years and I have never once carried one of them up in the dark, and a man at the top of that bank who wants it earlier can come down and take the bottom of it himself and find out how it feels at the second bend."
 
 Nobody asked him anything about that.
-
----
 
 ---
 

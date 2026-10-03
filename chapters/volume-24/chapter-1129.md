@@ -64,7 +64,7 @@ At about four feet off the near end of that first table the man of thirty-eight 
 
 From about half past twelve she had her own pan up about four feet off the near end of that second table with the basket down beside her, and she said nothing out loud all that day.
 
-About half past one the number went out into about four hundred yards of air in the voice that man keeps for it, and about four voices in that yard took it up after him out of step with one another.
+About half past one the man of about forty-eight had his number out into about four hundred yards of air in the voice he keeps for it, and about four voices in that yard took it up after him out of step with one another.
 
 That frame was standing with nothing turning on it and the turner was at it with his heel off it, and nobody in that yard started it, and nobody put one question to him about it either.
 

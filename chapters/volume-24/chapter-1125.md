@@ -42,7 +42,7 @@ Nobody answered her.
 
 Nobody thanked her.
 
-Nobody in this yard has ever put one question to her about what she weighs things for, or where any figure she says comes from, or what she does with the answer to it.
+Nobody in this yard has ever put one question to her about what she weighs things for, or where any figure she says comes from, or what she does with a figure of her own once it is off the pan.
 
 ---
 
@@ -50,7 +50,7 @@ She put the pan down off its cock and went back to her basket and took the cloth
 
 At about half past one the man of about forty-eight had his number out into about four hundred yards of air, and about four voices in that yard took it up after him out of step with one another.
 
-She heard that go across that ground and she did not answer it either, and there was no more of that than there was of her own.
+That number went across that ground and off the face of that bank and none of it came back to her, and she stood at that pan where she was until the light came off those boards.
 
 ---
 
