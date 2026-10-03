@@ -1,6 +1,6 @@
 # Chapter 1083: The Three Hundred And Sixty-Seventh Morning After The Thirtieth Of The Eighth Month, And The Underside Of A Board
 
-The figure on the sheet at that gatepost is four hundred and eleven, and no person in this basin has ever taken it off that sheet. That figure is eight hundred and twenty-two days old.
+The figure on the sheet at that gatepost is four hundred and eleven and nobody in this basin has ever taken it off that sheet. That figure is eight hundred and twenty-two days old.
 
 That board carries nine hundred and eighty-one marks. That train on that siding has stood one thousand two hundred and ninety-seven days without a wagon coming off it. Nothing has been entered at that rail for one thousand and eleven days. Nine hundred and seventy-two days separate the second of January and this morning.
 
@@ -8,7 +8,7 @@ Four hundred and fifty days of that bid came and went and it was not run, so it 
 
 The ninth of the nine printed nights went back eight hundred and sixty-four days. Six hundred and forty marks have been cut off that board. Along the edge of that second table there are six hundred and twenty-six marks in chalk.
 
-Seven months has been counted by a clerk in this district and there is nothing whatever in this district that holds it. Four of those documents have never come into this district at all. Four places in this district let those three lines be read and there is no fifth. Four conditions stand in this district with no end on any of them. Fourteen is what has been made in this basin. Five of those fourteen were never got here, and the fifth of that five is unpaid.
+Seven months has been counted by a clerk in this district and there is nothing whatever in this district that holds it. Not one of those four documents has ever come into this district. Four places in this district let those three lines be read and there is no fifth. Four conditions stand in this district and not one of them has an end set on it. Fourteen is what this basin has made, and that is the whole of it. Five of those fourteen things were never got into this basin, and the fifth of that five is unpaid.
 
 On the one hundred and eighty-second morning a reason was said out loud in that yard, and there was no page at the back of that lot book that would take one before the two hundred and eighth morning, so nothing written on that page before that morning was a line for a reason, and it is counted nowhere, and no figure has been given out loud in that yard for the number of mornings a reason has been said out loud in it.
 
@@ -16,12 +16,11 @@ Nothing at all went out loud in that yard this morning that belongs behind that 
 
 That second table has stood at the foot of that bank three hundred and ninety-seven mornings and that near rail has stood on the near side of it three hundred and forty-seven mornings, and nobody is to thank the man who fitted it. A man has stood at the foot of that bank three hundred and sixty-seven mornings on the word of the man who keeps it. The table of the man of about thirty-two stood at that end of that ground for the three hundred and sixty-sixth morning, and it is not the second table and it is not that near rail. The man of about sixty-four was at the foot of that low wall on the seven hundred and twenty-second night of that run, having slept on seven hundred and twenty-one of the nights of it. A man of fifty-six read four figures off that wall this morning for the eight hundred and eighth of those mornings and got all four of them. That is the two hundred and twenty-third morning running with nobody having asked him anything. That flat answer was given to that stone twice this morning and this morning it was the two hundred and fifty-sixth time running.
 
-Nothing has ever been entered in that lot book and it lies open along those boards with five lines ruled across one of its pages. The column on the page beside that has its one name in it under a heading which still says whoever. There is a second space on that form and nobody in this district has ever been asked to fill it, and it is empty. That lane is at thirty pages behind it in their own carriers' hands and it brought nothing down this morning. That record has stood two hundred and eighty-two days. It has been public lot since the afternoon of the one hundred and seventeenth morning, and there are about nine people on that ground.
+Nothing has ever been entered in that lot book, and it lies open along those boards with five lines ruled across one of its pages and no more. The column on the page beside that has its one name in it under a heading which still says whoever. There is a second space on that form and nobody in this district has ever been asked to fill it, and it is empty. Behind that lane there are thirty pages in their own carriers' hands and it brought nothing down that morning at all. That record has stood two hundred and eighty-two days. It has been public lot since the afternoon of the one hundred and seventeenth morning, and there are about nine people on that ground.
 
 A man of sixty-one sat on those stones for the three hundred and twelfth afternoon running and one word was the whole of that afternoon. Neither of these has ever been given to anybody in this district and nobody here has ever been up to see either of them: about eleven feet between that wall and the top of this bank, and about four miles between the top of that bank and the culvert.
 
-That toll of ninety-eight is paid and spent and there is nothing left of it. Three of the first thirty-three lines on that back page went through this district and nobody in this district heard one of them read.
-
+That toll of ninety-eight is paid and spent and not one of it is left to give. Three of the first thirty-three lines on that back page have never once been read out in this district.
 
 ---
 
@@ -50,7 +49,7 @@ At about half past nine he went along his own boards and put his hand flat on th
 
 "You marked the bottom board of my stack with the side of your pencil," said the boy, "and I told you the mark is not yours to make, and you told me so, and I have not made it again and I am not going to."
 
-He put the pencil behind his ear and went off up the slope.
+He got the pencil out from behind his ear and put it back, and went off up the slope.
 
 
 ---
@@ -112,11 +111,11 @@ The man of about thirty-four went on along his own boards.
 ---
 
 
-At half past twelve the woman who keeps a scale was at her own pan about four feet off the near end of the second table with her basket on the ground at her feet.
+At half past twelve the woman who keeps a scale was at her own pan, about four feet off the near end of the second table, with her basket on the ground at her feet.
 
 At about half past one the man of about forty-eight who keeps a tally put his number up into about four hundred yards of air in the voice he keeps for it, and about four voices out of that yard took it up after him, out of step with one another, and nobody in that yard looked up at any of it.
 
-At about four the hand went up on that low wall and took all four figures off it from the top down and the palm went flat on the stone under the lowest one and stayed there.
+At about four the hand went up on that low wall and took all four of the figures off it from the top down, and the palm went flat on the stone under the lowest one and lay there.
 
 "Eight hundred and eight mornings, the four of you."
 
@@ -132,17 +131,17 @@ That was the two hundred and fifty-sixth time running, and about nineteen people
 
 At ten past four the clerk came along those boards and read that morning out loud with the pen still in the holder, and put the three hundred and sixty-seventh morning under the last line in her own small careful hand, and took no line for it.
 
-At about half past four the light came off those boards and about four of the nineteen said the goodnight, and the boards came off that cart face down and went up the bank.
+At about half past four the light came off those boards, about four of those nineteen said the goodnight, and the boards came down off that cart face down and went up that bank.
 
 
 ---
 
 
-He went up that slope behind the last board with the dust of it on his knees, and that stack was face up and true and square, and there is a row of notches on the underside of five boards in it about a hand's width in from one end, and he has told nobody what they mean and he has not worked out what they mean either, and he went up the bank with them.
+He went up that slope behind the last board with the dust of it on his knees, and that stack was face up and square with nothing out of it, and there is a row of notches on the underside of five boards in it about a hand's width in from one end, and he has told nobody what they mean and he has not worked out what they mean either, and he went up the bank with them.
 
 
 ---
 
-That page stood at sixty-four lines at the end of that morning and it took no line on it. That lane was at thirty pages all morning and brought nothing down it. Of the first thirty-three lines on that back page, three have never been read out in this district by anybody. That fifth of the five is five and unpaid. That count of seven months has been entered and there is nothing in this district that it sits on. That sheet at that gatepost carries four hundred and eleven and it will carry it in the morning.
+Sixty-four lines is what stood on that page when that morning was finished and it took no line on it. That lane stayed at thirty pages from the light to the light going off the boards. Three of the first thirty-three lines on that back page went through this district and not one of them was heard read. That fifth of those five is five and unpaid. That count of seven months has been entered and there is nothing in this district that it sits on. That sheet at that gatepost carries four hundred and eleven and will carry it in the morning as well.
 
-That wheel was at its speed from six and a half to the end of that day and it did not stop at any point of it, and nobody asked him anything about any of that.
+That wheel was at its speed from six and a half to the end of that day and it did not stop at any point of it, and nobody asked him anything about any part of it.

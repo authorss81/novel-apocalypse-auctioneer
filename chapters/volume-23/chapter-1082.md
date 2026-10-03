@@ -1,6 +1,6 @@
 # Chapter 1082: The Three Hundred And Sixty-Sixth Morning After The Thirtieth Of The Eighth Month, And His Hand Left Lying There
 
-The figure on the sheet at that gatepost is four hundred and eleven and it has never been the subject of a morning in this basin. That figure is eight hundred and twenty-one days old on that sheet.
+The figure on the sheet at that gatepost is four hundred and eleven and it has never once been the subject of a morning in this basin. That figure is eight hundred and twenty-one days old on that sheet.
 
 That board carries nine hundred and eighty marks. That train on that siding has stood one thousand two hundred and ninety-six days and nothing has come off it. At that rail nothing has been entered for one thousand and ten days. Nine hundred and seventy-one days separate the second of January and this morning.
 
@@ -8,7 +8,7 @@ That bid was open four hundred and fifty days and was not run and it is not a lo
 
 That ninth of the nine printed nights went back eight hundred and sixty-three days. Six hundred and thirty-nine marks have been cut off that board. Along the edge of that second table there are six hundred and twenty-five marks in chalk.
 
-A clerk in this district counted seven months and there is nothing in this district to hold them to. Those four documents are not in this district. Those three lines are readable at four places in this district and not at a fifth. There are four conditions here and none of them has an end. This basin has made fourteen things. Five of those fourteen were never got in this basin and the fifth of that five is unpaid.
+A clerk in this district counted seven months and there is nothing in this district to hold them to. Those four documents have never come into this district at all. Those three lines are readable at four places in this district and are not readable at any fifth. Four conditions are set out here and not one of them has an end put to it. This basin has made fourteen things and nothing else in it. Five of those fourteen things were never got in this basin and the fifth of that five is still unpaid.
 
 On the one hundred and eighty-second morning a reason went out loud in that yard, and the page at the back of that lot book was not there to take one until the two hundred and eighth morning, so nothing written on that page before that morning was a line for a reason, and it is counted nowhere, and no figure has been given out loud in that yard for the number of mornings a reason has been said out loud in it.
 
@@ -16,12 +16,11 @@ There is nothing at the back of that book that went out loud in that yard this m
 
 That second table has stood at the foot of that bank three hundred and ninety-six mornings and the near rail has stood on the near side of it three hundred and forty-six mornings, and nobody is to thank the man who fitted it. A man has stood at the foot of that bank three hundred and sixty-six mornings on the word of the man who keeps it. The table of the man of about thirty-two stood at that end of that ground for the three hundred and sixty-fifth morning, and it is neither that second table nor that near rail. The man of about sixty-four was at the foot of that low wall on the seven hundred and twenty-first night of that run, having slept on seven hundred and twenty of the nights of it. A man of fifty-six read four figures off that wall this morning for the eight hundred and seventh of those mornings and got all four of them. That is the two hundred and twenty-second morning running with nobody having asked him anything. That flat answer was given to that stone twice this morning and this morning it was the two hundred and fifty-fifth time running.
 
-That lot book lies open along those boards with nothing in it. Five lines are ruled across one of its pages, and in the column on the page after that there is one name, under a heading that still says whoever. There is a second space on that form and it is empty and nobody has ever been asked to put anything in it. That lane is at thirty pages behind it in their own carriers' hands and it brought nothing down this morning. That record has stood two hundred and eighty-one days. Public lot since the afternoon of the one hundred and seventeenth morning and about nine people are standing on it this morning.
+That lot book lies open along those boards with nothing in it. Five lines are ruled across one of its pages, and in the column on the page after that there is its one name, under a heading which still says whoever. A second space on that form is empty and nobody has ever been asked to put anything in it. Behind that lane there are thirty pages in their own carriers' hands and it brought nothing down that morning. That record has stood two hundred and eighty-one days. That ground has been public lot since the afternoon of the one hundred and seventeenth morning and about nine people are on it this morning at ten to eight.
 
 A man of sixty-one sat on those stones for the three hundred and eleventh afternoon running and gave that afternoon its one word. Nobody here has ever been given either of these and nobody in this district has ever walked either of them: about eleven feet between that wall and the top of this bank, and about four miles between the top of that bank and the culvert.
 
-Ninety-eight is paid on that toll and there is nothing left of it. Three lines among the first thirty-three on that back page went through this district and nobody in this district heard them read.
-
+Ninety-eight is paid on that toll and not one of it is left to pay. Three lines among the first thirty-three on that back page went through this district and not one of them was heard read in it.
 
 ---
 
@@ -30,7 +29,7 @@ There is a band of that wall about four feet above the ground where the stone is
 
 He came along those boards at ten to eight on his way out to that wall, because that is the way out of that yard and there has never been another one.
 
-"Thirty," said Orren Pike, with the light still lying along that stack. "And there is nothing behind it, and I have not said anything behind it, and you have not asked me what I settled and I have not said what I settled."
+"Thirty," said Orren Pike, with the light still lying along that stack where it always lies at that hour. "And there is nothing behind it, and I have not said anything behind it, and you have not asked me what I settled and I have not said what I settled."
 
 He went on out to that wall and did not turn his head.
 
@@ -48,11 +47,11 @@ Asking and looking are not the same thing and he has known that for about a week
 ---
 
 
-He got his hand up on that stone at about a quarter to eight and took all four off it from the top down, in the order they come, and laid his palm flat on the stone under the lowest one and left it lying there.
+He got his hand up on that stone at about a quarter to eight and took all four off it from the top down, in the order they come, and put his palm flat on the stone under the lowest one and left it lying there.
 
 "Eight hundred and seven mornings, the four of you."
 
-That is what he says at that hour, and what he says to that stone at the hour before four is never the same sentence twice, and he has never once tried to make it one.
+That is what he says at that hour, and what he says to that stone at the hour before four is never the same sentence twice, and he has never once tried to make it one of them.
 
 Then he looked along that wall.
 
@@ -72,7 +71,7 @@ He read the four again, off the top down, and got all four of them, and took his
 ---
 
 
-At about eleven he was at the foot of that bank with his back to the boards and the man of about thirty-four came past with a coil of bale tie over his arm.
+At about eleven he was standing at the foot of that bank with his back to the boards, and the man of about thirty-four came past him with a coil of bale tie over his arm.
 
 "There is a man at that wall every morning before the light now who was not there a month back," said the man of about thirty-four, "and I have not asked him what he is doing and I am not going to, and I would think a good deal less of myself if I did."
 
@@ -80,7 +79,7 @@ At about eleven he was at the foot of that bank with his back to the boards and 
 
 "I know you have not," said the man of about thirty-four. "I am telling you I have not, because there are two of us at that wall now and one of us ought to be on record about it, and that is all I came down for."
 
-He went on along his own boards.
+He carried on along his own boards.
 
 
 ---
@@ -120,7 +119,7 @@ Nineteen of them were close enough to take it in, and that was the two hundred a
 
 At ten past four the clerk came along those boards and read that morning out loud with the pen still in the holder, and put the three hundred and sixty-sixth morning under the last line in her own small careful hand, and took no line for it.
 
-At about half past four the light came off those boards and about four of the nineteen said the goodnight, and the boards came off that cart face down and went up the bank.
+At about half past four the light went off those boards and about four of the nineteen said the goodnight, and the boards came down off that cart face down and went up the bank.
 
 
 ---
@@ -133,6 +132,6 @@ He had said at the foot of that wall that he was not going to say one word about
 
 ---
 
-That page stood at sixty-four lines at the end of that morning and it took no line on it. That lane has been at thirty pages all morning and it brought nothing down it. Of the first thirty-three lines on that back page, three are unread in this district. That fifth of those five is five and unpaid and it will stay that way. That count of seven months has been entered and nothing whatever in this district sits on it. That sheet at that gatepost carries four hundred and eleven and it will carry it in the morning as well.
+By the time that morning was over that page carried sixty-four lines and had taken no line on it. Nothing came down that lane, which stood at thirty pages. Of the first thirty-three lines on that back page, three have never been read aloud in this district. The fifth of that five is five and it stays unpaid. That count of seven months sits on nothing in this district at all. Four hundred and eleven is on that gatepost sheet and it will be on it in the morning.
 
 That wall was at his own hands twice this morning and both times he got all four off it and both times he laid his palm down flat on the stone under the lowest one and left it lying there.
