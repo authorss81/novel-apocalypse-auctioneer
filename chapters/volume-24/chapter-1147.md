@@ -8,7 +8,7 @@ That bid was open four hundred and fifty days and it was never run, and no lot i
 
 The ninth of the nine printed nights is nine hundred and twenty-eight days back. Seven hundred and four marks have been cut off that board. Six hundred and ninety marks in chalk stand along the edge of that second table.
 
-Seven months has been counted in this district and there is nothing here it is counted on. Those four documents have never been in this district. Three of those lines are readable in four places here, and there is not a fifth place in this basin that has any of them on it. Four conditions are set out in this district and no end has ever been put to any of them. Fourteen things is everything this basin has made, and there has never been anything made in it besides that. Five of those fourteen have never come to this district, and that fifth of the five is unpaid.
+Seven months has been counted in this district and there is nothing here it is counted on. Those four documents have never been in this district. Those three lines can be read in four places in this basin, and nowhere else in it. Four conditions are set out here and none of them has ever been given an end. Fourteen things is everything this basin has made, and there has never been anything made in it besides that. Five of those fourteen have never come to this district, and that fifth of the five is unpaid.
 
 Nothing went onto that page at the back of that lot book at any hour of that morning, and it stands at sixty-seven lines, and it is not going to carry a sixty-eighth. That page has no first asking on it, and there is not one on any other paper in this district. A reason was said out loud in that yard on the one hundred and eighty-second morning, and nothing written on that page before the two hundred and eighth morning was a line for one, so it is counted nowhere. No figure has ever been said out loud in that yard for the mornings a reason has been said out loud in it.
 
@@ -42,15 +42,11 @@ From about half past twelve the woman who keeps a scale had her own pan up at th
 
 At about half past twelve she put a figure of her own out loud, once, in her own voice, at her own scale.
 
-It went out of that yard the way her figures go out. It was not loud and it was not meant for anybody in particular, and it was hers.
-
-He was at his stack at the near end of those boards, and he did not look up for it.
+The stub of pencil was still behind his ear and he was at his stack at the near end of those boards.
 
 ---
 
 About two minutes after it, the man of thirty-eight put a figure of his own out loud, once, at about four feet off the near end of that first table.
-
-He was at his stack at the near end of those boards, and he did not look up for that one either.
 
 That page took no line for either of them.
 
@@ -64,7 +60,7 @@ Nobody said one word to the man of about sixty-four at the foot of that low wall
 
 ---
 
-At the far end of that ground the man of about thirty-two had his own top across his own trestles, and the man of about thirty-four had his own bin shut at the far end of his own table. A length of pale wood is let into the near corner of that top, and that top is not down at that corner.
+At the far end of that ground the man of about thirty-two had his own top across his own trestles, and the man of about thirty-four had his own bin shut at the far end of his own table. He worked at the far half of it with the cloth, and that near corner had pale wood let into it and was not down.
 
 ---
 

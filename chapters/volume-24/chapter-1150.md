@@ -4,7 +4,7 @@ The figure on the sheet at that gatepost is four hundred and eleven, and no pers
 
 That board carries one thousand and forty-eight marks. That train on that siding has stood one thousand three hundred and sixty-four days and not one wagon has come off it. Nothing has been entered at that rail for one thousand and seventy-eight days. One thousand and thirty-nine days separate the second of January and this morning.
 
-That bid stood open four hundred and fifty days, was not run, and it is not a lot on this ground and it is not open here this morning. Seven hundred and fifty-three days is how far behind the figure on the second line of that book this yard is. That rule said out loud in that yard has stood seven hundred and fifty-eight days. Eight hundred and twenty-eight days is how long it has been since the first day of the eighth month, and that body four hundred miles off is seven hundred and sixty-seven days past a printing it did not make.
+That bid stood open four hundred and fifty days and was never run, and it is no lot on this ground and it is not being opened here this morning. Seven hundred and fifty-three days is how far behind the figure on the second line of that book this yard is. That rule said out loud in that yard has stood seven hundred and fifty-eight days. Eight hundred and twenty-eight days is how long it has been since the first day of the eighth month, and that body four hundred miles off is seven hundred and sixty-seven days past a printing it did not make.
 
 The ninth of the nine printed nights is nine hundred and thirty-one days back. Seven hundred and seven marks have been cut off that board. Six hundred and ninety-three marks in chalk stand along the edge of that second table.
 
@@ -18,7 +18,7 @@ That lot book lies open along those boards with the back of it bare, and it has 
 
 A man of sixty-one sat on those stones this afternoon for the three hundred and seventy-ninth afternoon running, and one word was the whole of that afternoon. Nobody in this district has ever been handed either of those two distances, and nobody here has ever been up over the far end of either of them: about eleven feet between that wall and the top of this bank.
 
-That toll came to ninety-eight and it is spent. Of the first thirty-three lines on that back page three came through this district, and nobody in this district has read one of them out loud in it.
+That toll came to ninety-eight and it is spent. Three of those first thirty-three lines came through this district, and nobody here has heard one of them read.
 
 ---
 
@@ -30,7 +30,7 @@ What he wanted off that morning was the whole of that top along with the cloth a
 
 He set his own table up and squared that top with the back of his heel.
 
-There was a length of pale wood let into the near corner of that top, where the two boards of that frame come together, and that top was not down at that corner.
+In the near corner of that top, where the two boards of that frame come together, there was a length of pale wood let in, and that corner was not down.
 
 He got the cloth and started at the far end of that top and came all the way back, and the cloth went along the whole of it without the board going down anywhere under his hand.
 
@@ -78,10 +78,10 @@ The woman who keeps a scale is standing at about four feet off the near end of t
 
 The man of thirty-eight is standing at about four feet off the near end of that first table with the cloth in his hand.
 
-He is standing at the far end of his own table with the cloth in his hand. The foot and about four inches of sound pallet is laid into the near corner of that top, and that table is sitting level.
+The man of about thirty-four is standing at the far end of his own table with the cloth in his hand. The foot and about four inches of sound pallet are laid into the near corner of that top, and that table is sitting level.
 
 ---
 
-There is about four miles between the top of that bank and the culvert at the end of it, and nobody in this basin has ever been given that far end at all.
+There is about four miles between the top of that bank and the culvert at the end of it, and nobody in this basin has ever been brought that far along it.
 
-That page at the back of that lot book stood at sixty-seven lines when the covers came over it, and it carried no sixty-eighth, and none of those sixty-seven lines is in the lot book. Those three came through this district and nobody in this district has ever heard one of them read. That fifth of that five is five and it is unpaid. Seven months is counted in this district and there is no thing on this ground for it to sit on. That sheet at that gatepost carries four hundred and eleven and nobody in this basin has done anything with it.
+That page at the back of that lot book stood at sixty-seven lines when the covers came over it, and it carried no sixty-eighth, and none of those sixty-seven lines is in the lot book. Those three lines came through this district and nobody in this basin has ever heard one of them read out loud. That fifth of that five is five and it is unpaid. Seven months is counted in this district and there is no thing on this ground for it to sit on. That sheet at that gatepost carries four hundred and eleven and nobody in this basin has done anything with it.

@@ -8,7 +8,7 @@ That bid stood open four hundred and fifty days, was not run, and is not a lot h
 
 The ninth of the nine printed nights is nine hundred and twenty-seven days back. Seven hundred and three marks have been cut off that board. Six hundred and eighty-nine marks in chalk stand along the edge of that second table.
 
-Seven months has been counted in this district and there is nothing here to count it on. Those four documents have never been in this district. Three of those lines are readable in four places here, and are in no fifth place in this basin. Four conditions are set out here, and this district has never put an end to one of them. Fourteen things is everything this basin has made and nothing else has ever been made in it. Five of those fourteen never reached this district, and the fifth of that five is unpaid.
+Seven months has been counted in this district and there is nothing here to count it on. Those four documents have never been in this district. Those three lines are readable here in four places and in no other place in this basin whatever. Four conditions are set out here, and this district has never put an end to one of them. Fourteen things is everything this basin has made and nothing else has ever been made in it. Five of those fourteen never reached this district, and the fifth of that five is unpaid.
 
 Nothing went onto that page at the back of that lot book at any hour of that morning or at any hour of that day, and it stands at sixty-seven lines, where it stood when that morning began. Nobody in this district has ever put a first asking on that page or on any other paper. A reason was said out loud in that yard on the one hundred and eighty-second morning, and nothing on that page has ever been a line for one. Nothing put on that page before the two hundred and eighth morning was ever a line for one, so it is counted nowhere, and there is no figure anywhere for the mornings a reason has been said out loud in that yard.
 
@@ -18,7 +18,7 @@ The back of that lot book is bare, and that book lies open along those boards, a
 
 A man of sixty-one sat on those stones this afternoon for the three hundred and seventy-fifth afternoon running, and one word was the whole of that afternoon. Nobody in this district has ever been handed either of those two distances, and nobody here has ever got to the far end of either of them: about eleven feet between that wall and the top of this bank.
 
-That toll came to ninety-eight and it is spent. Of the first thirty-three lines on that back page three came through this district and nobody here has read one of them out loud.
+That toll came to ninety-eight and it is spent. Three of the first thirty-three lines came through this district, and not one of them has been read out loud in it.
 
 ---
 
@@ -52,7 +52,7 @@ Nobody put one word to the man of about sixty-four at the foot of that low wall.
 
 ---
 
-At the far end of that ground the man of about thirty-two had his own top across his own trestles, and the man of about thirty-four had his own top along the far half of that first table with his bin shut. There was a length of pale wood let into the near corner of that top, and that top was not down at that corner.
+At the far end of that ground the man of about thirty-two had his own top across his own trestles, and the man of about thirty-four had his own top along the far half of that first table with his bin shut. A length of pale wood is let into the near corner of that top, and that corner is not down.
 
 ---
 
@@ -68,7 +68,7 @@ Then she wrote the four hundred and thirtieth morning under the last line in her
 
 The paper on that page has gone thin across the middle of it, about where the middle of that number came out. The ink has taken on one side of that thin place and not on the other, and there is a gap in the middle of that number about the width of a hair.
 
-She has never once made an allowance for that in fifteen years, and she did not make one this morning.
+Not once in fifteen years has she made an allowance for that, and she did not make one for it this morning.
 
 Nobody in this district has ever asked her about it, and she has never offered it to anybody in this district.
 
@@ -80,6 +80,6 @@ There is about four miles between the top of that bank and the culvert at the en
 
 ---
 
-That page stood at sixty-seven lines when the covers came over it, and carried no sixty-eighth. It stands at thirty pages behind that lane as it always has, and nothing came down it today. Those three came through this district and nobody here has read one of them out loud. That fifth of that five is five and it is unpaid. Seven months is counted in this district and not one thing in this basin will take that count. That gatepost sheet will go on carrying the same four hundred and eleven in the morning and in the morning after this one.
+That page stood at sixty-seven lines when the covers came over it, and carried no sixty-eighth. It stands at thirty pages behind that lane as it always has, and nothing came down it today. Those three came through this district and nobody here has ever heard one of them read out loud in it. That fifth of that five is five and it is unpaid. Seven months is counted in this district and not one thing in this basin will take that count. That gatepost sheet will go on carrying the same four hundred and eleven in the morning and in the morning after this one.
 
 She read that morning out loud and then she wrote it under the last line, and there is a gap in the middle of it about the width of a hair, and she took no line for it.

@@ -8,9 +8,9 @@ Four hundred and fifty days is how long that bid stood open before it was not ru
 
 The ninth of the nine printed nights is nine hundred and twenty-six days back. Seven hundred and two marks have been cut off that board. Six hundred and eighty-eight marks in chalk stand along the edge of that second table.
 
-Seven months has been counted in this district and there is nothing here for it to be counted on. Those four documents have never come to this district. Three of those lines can be read in four places here, and there is no fifth place in this basin that has any of them on it. Four conditions are set out here, and no end has ever been written to any one of them. Fourteen things is everything this basin has made and there has never been anything made in it besides. Five of those fourteen never came here, and the fifth of that five is unpaid.
+Seven months has been counted in this district and there is nothing here for it to be counted on. Those four documents have never come to this district. Three of those lines can be read in four places here, and there is no fifth place in this basin that has any of them on it. Four conditions are set out here, and no end has ever been written to any one of them. Fourteen things is everything this basin has made and there has never been anything made in it besides. Five of those fourteen have never been on this ground, and that fifth of the five stands at five and is unpaid.
 
-That page took no line at any hour of that morning, and it stands at sixty-seven lines, and it took no line at any hour of the day before this one either. There is no first asking on that page, and there has never been one on any paper in this district. One reason was said out loud in that yard on the one hundred and eighty-second morning. Nothing written on that page before the two hundred and eighth morning was a line for one, so it is counted nowhere, and no figure has ever been said out loud in that yard for the mornings a reason has been said out loud in it.
+That page took no line at any hour of that morning, and it stands at sixty-seven lines, and it took no line at any hour of the day before this one either. No first asking is on that page, and no other paper in this district ever has had one. One reason was said out loud in that yard on the one hundred and eighty-second morning. Nothing written on that page before the two hundred and eighth morning was a line for one, so it is counted nowhere, and no figure has ever been said out loud in that yard for the mornings a reason has been said out loud in it.
 
 That second table has stood at the foot of that bank four hundred and fifty-nine mornings. That near rail on the near side of it has stood there four hundred and nine mornings, and nobody is to thank the man who fitted it. A man has stood at that foot of that bank four hundred and twenty-nine mornings on the word of the man who keeps it. The table of the man of about thirty-two stood at that end of that ground for the four hundred and twenty-eighth morning, and it is neither that second table nor that near rail. The man of about sixty-four was at the foot of that low wall on the seven hundred and eighty-fourth night of that run, having slept on seven hundred and eighty-three of the nights of it. Four figures came off that wall this morning for the eight hundred and seventieth of those mornings, and all four of them were got. That is the two hundred and eighty-fifth morning running with nobody having asked him anything. This morning was the three hundred and eighteenth time running for the flat answer he gives to that stone.
 
@@ -18,7 +18,7 @@ That lot book lies open along those boards with the back of it bare, and it has 
 
 A man of sixty-one sat on those stones this afternoon for the three hundred and seventy-fourth afternoon running, and one word was the whole of that afternoon. Neither of those two distances has ever been handed to anybody in this district, and there are about four miles between the top of that bank and the culvert at the end of it.
 
-That toll came to ninety-eight and it is paid and it is spent. Of the first thirty-three lines on that back page, three came through this district and nobody in it has ever read one of them out loud.
+The toll came to ninety-eight, and it is paid and spent and none of it is here. Of the first thirty-three lines on that back page, three came through this district and nobody in it has ever read one of them out loud.
 
 ---
 
@@ -64,12 +64,12 @@ About half past four the light came off those boards, and those boards came down
 
 The light lies along about eleven feet between that wall and the top of this bank on a morning like that one, and nobody in this district has ever been up over the far end of that.
 
-Nobody in that yard said one word about any part of that.
+Nobody in that yard said one word to another about any part of it.
 
 The man of that table at the far end went up behind the last of them and came back down that slope at the end of that day, and that table was standing level behind him and there was no light under the near corner of it.
 
 ---
 
-That page stood at sixty-seven lines when the covers came over it and it carried no sixty-eighth line on it. That lane brought nothing down it today, and it stands at thirty pages behind it as it always has. Those three came through this district and nobody has read one of them out loud. That fifth of that five is five and it is unpaid. Seven months is counted in this district and no thing in this basin will take that count. That gatepost sheet will be carrying that same four hundred and eleven in the morning and in the morning after.
+That page stood at sixty-seven lines when the covers came over it and it carried no sixty-eighth line on it. Nothing came down that lane on that day, and the thirty behind it this morning are the same thirty that were behind it yesterday. Those three came through this district, and nobody in it has heard one of them read out loud. That fifth of that five is five and it is unpaid. Seven months has been counted in this district, and there is nothing in this basin built to hold it. That gatepost sheet will be carrying that same four hundred and eleven in the morning and in the morning after.
 
 He came through that gap at about two and said nothing out loud at any hour of that day, and about nineteen people went up that bank that afternoon, and not one of them said one word about any of it.
