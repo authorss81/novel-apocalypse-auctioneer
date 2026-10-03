@@ -1,4 +1,4 @@
-# Chapter 1040: The Three Hundred And Twenty-Fourth Morning After The Thirtieth Of The Eighth Month, And The Line She Wrote Went Over A Worn Place
+# Chapter 1040: The Three Hundred And Twenty-Fourth Morning After The Thirtieth Of The Eighth Month, And A Worn Place In The Paper
 
 It has been up at that gatepost since before the rail went in, and the figure on the sheet at that gatepost is four hundred and eleven. Seven hundred and seventy-nine days is the age of that figure, and it is not going to be.
 
@@ -17,7 +17,6 @@ The near rail has stood on the near side of the second table for three hundred a
 The page at the back of that lot book carries sixty-two lines and not one of them is in the lot book itself. The lane count is thirty and nothing came down that lane on that morning. That record has stood two hundred and thirty-nine days and it is not going anywhere and the clerk has never been asked what it is for. Nine people or thereabouts are on ground that has been public lot since the afternoon of the one hundred and seventeenth morning. There are about eleven feet between that wall and the top of this bank, and about four miles is between the top of that bank and the culvert, and that is what is between a person and the top of the ground.
 
 Nobody is going to touch that toll of ninety-eight, which is paid and spent. On that back page, three of the first thirty-three lines have never once been read by anybody in this district.
-
 ---
 
 Ten to eight, and the boards, and the boy.
@@ -27,7 +26,6 @@ Ten to eight, and the boards, and the boy.
 "Thank you," she said.
 
 He went off up the slope and she opened the book against the rail and shut it again, because she does that about forty times a day, and the pen stayed in the holder.
-
 ---
 
 She has a form of words for two kinds of morning and she has had them since she was nineteen.
@@ -43,7 +41,6 @@ There is a third kind and she has never had words for it and she is not going to
 She is thirty-four and she has been a clerk for fifteen years and she reads that morning out loud before she writes one word of it, and she has never once been asked why.
 
 Nobody in this district has asked her why. It is not a thing anybody in this district would think to ask, and she has noticed that it is not a thing anybody would think to ask, and she has not decided what to make of that.
-
 ---
 
 There are about nine people at the top of that bank and about four of them have said a sentence this winter, and about four of them have not said what a figure of a person's own is about, and about four of them have not asked.
@@ -59,7 +56,6 @@ There is a worn place in that paper.
 It is about four inches in from the foot of the page and about the width of two fingers and it has been there for the whole of the fifteen years she has been opening that book, and every line she has ever written across it has sat a little lower than the lines above it and a little further right, and she has never once tried to correct for it.
 
 You can write a line over a worn place and you cannot make it sit level. She has tested that on other paper and it is not a matter of pressure. The paper has gone thin there and it takes the ink further down than it takes it anywhere else, and what a line does over that place is not run level but go slack.
-
 ---
 
 The turner came along the boards about half past nine with his hand still warm off the frame and stopped about four feet off her.
@@ -83,7 +79,6 @@ At about half past nine she had the pen out for the first time that morning and 
 She writes the morning at about ten past four. That is the arrangement and it has been the arrangement for fifteen years. She reads it out loud first and then she writes it and then she shuts the book, and between the reading and the writing there is that whole afternoon, which is the part of the day the pen belongs to.
 
 She put the pen back in the holder.
-
 ---
 
 A clerk of fifteen years knows what a yard sounds like at every hour of it.
@@ -93,7 +88,6 @@ At about half past six there is one stove door and a gate. At about eight there 
 At about half past one there is a number, and it goes up a bank and four voices take it out of step with one another and it comes back down, and after that the day has a hole in the middle of it about as wide as a man is tall.
 
 She has heard that hole every working day of fifteen years and she has never once been in it.
-
 ---
 
 There is one thing a clerk knows that nobody else in a yard knows, and it is the exact length of every hour in it.
@@ -115,7 +109,6 @@ It has been in her since before the middle of the winter. It is short and it is 
 She has not put it down.
 
 That is the whole of it. She is not going to put it down this morning either, and there is no part of her that thinks she might, and she has stopped being a person who expects to.
-
 ---
 
 A clerk is a person who reads a morning out loud before she writes it, and there is one thing in that yard she has never had a form of words for.
@@ -139,21 +132,16 @@ The man of about thirty-four came along the boards with his cloth at about one a
 "Aye," he said. "You said that on the bank and I have thought about it since."
 
 Then he went along his own boards and she went back to the book.
-
 ---
 
 At half past one the man of about forty-eight who keeps a tally put his number into about four hundred yards of air in the voice he keeps for it, and about four voices took it back after him out of step with one another, and it came off that bank and went on up the hill.
-
 ---
 
 At about half past three she stood at the boards with the pen in the holder and did the thing she does about four times a day, which is to open the book and shut it again and look at the back of the last page for about a second and a half.
 
-There is a worn place in that paper about four inches in from the foot of it. Every line she has ever written across it sits a little lower and a little further right than the lines above it, and there are a great many lines across it by now, and she has never once tried to put one of them level.
+That worn place is four inches in from the foot of it and about the width of two fingers, and there are a great many lines across it by now, and the more she looks at it the less she can tell herself why they go slack where the paper has worn thin. That is a thing about paper and she is a person who writes on it.
 
-You can write a line over a worn place and you cannot make it sit level. She has tested that on other paper. It is not a matter of pressure. The paper has gone thin there and it takes the ink further down than it takes it anywhere else, and what a line does over that place is not run level but go slack.
-
-She has fifteen years of that page and she has never told anybody about the worn place and she is not going to tell anybody about it now, and she shut the book and put the pen in her pocket and went along the boards to where she stops.
-
+She shut the book and put the pen in her pocket and went along the boards to where she stops.
 ---
 
 There is a form of words for a morning on which a reason was said out loud and a line went on the page for it, and there is a form of words for a morning on which nothing went out loud and no line went on the page, and she has both of them ready before she gets to the boards.
@@ -167,7 +155,6 @@ That has happened. She has stood there with the pen in the holder and the book o
 The pen went in. The morning went down in her own hand with nothing in it. That is what she says.
 
 She has never said the other thing, and there is nobody at the foot of that bank to say it to.
-
 ---
 
 The boy was at the boards at ten to eight and said his number out loud before her hand had moved on anything, and then he stood there about four feet off her while she wrote nothing at all.
@@ -189,20 +176,27 @@ The boy put his hands back in his pockets.
 "Fine," said Orren Pike, and went up the slope.
 
 The man of thirty-eight was at the near end of his own table with the cloth over his arm and nothing came out of him that day, at about four feet off the near end of that table, from about half past nine until the light came off the boards, and not one person in that yard asked him anything at any point of it.
+---
 
+At about four o'clock the man of fifty-six had his hand up on the wall at the far end of that ground and came down with all four of the figures on it, and it lay flat over the lowest one afterwards.
+
+She could hear it from the boards. That wall is a long way off and a man talking to it is not, and there is no part of that yard where she has not been able to hear that voice for fifteen years.
+
+"Two hundred and thirteen mornings," said the man of fifty-six to that stone, "and I have got the same four off it and the four have got nothing to say to me."
+
+About nineteen people heard that, and that was the two hundred and thirteenth time running, and nobody has ever asked him anything about any of it.
 ---
 
 At about ten past four she came along the boards with that book open against the rail and gave the whole of the account of that morning out loud, and the pen was near no part of it while she did that.
 
 "The three hundred and twenty-fourth morning," she said. "Nothing has gone out loud in this yard this morning that goes at the back of that book, so this morning goes down in my own hand by itself with nothing in it, and that is the whole of the account of it, and it went out loud before the writing of it."
-
 ---
 
 She shut the book and put the pen back in the holder and stood at that rail for the length of about two of her own counts, and then she opened it again, which is a thing she does perhaps once in ten mornings.
 
 She counted the lines on that back page without the pen near any part of it.
 
-Sixty-two. That is not a sum and it is not a figure anybody in this district would call anything at all. It is a page in a book with lines on it, and she counts them, and she has counted them every morning of that run, and there is no reason on earth for it and she has never told anybody that she does it.
+Sixty-two. That is not a sum and it is not a figure anybody in this district would call anything at all. It is a page in a book with lines on it, and there is no reason on earth for a woman to stand at a rail and look at them, and she has never told anybody in this place that she does.
 
 The worn place in that paper is about four inches in from the foot of the page. Every line she has ever written across it sits a little lower and a little further right than the lines above it, and the last of them went across the worn place, and it did not sit level with the lines above it, and she left it where it was.
 
@@ -211,13 +205,11 @@ Then she wrote the three hundred and twenty-fourth morning under the last line i
 It went over the worn place in that paper about four inches in from the foot of the page. It did not sit level with the lines above it and it sat a little lower and a little further right than the rest, and she left it where it was, the way she has left about two hundred and forty of them where they were.
 
 The page carried sixty-two lines when the covers came over it and carried sixty-two lines before.
-
 ---
 
 At about half past four the light left those boards and about four people out of about nineteen said the goodnight that gets said at the end of a day there.
 
-About four feet off the near end of the first table a man of thirty-eight put his cloth down on the corner of his own table and said the goodnight to nobody in particular, and went up that bank, and the light was still on the top of it when he got there, and about nine people at the top of that bank stood where they were until the boards came down off the cart face down.
-
+About four feet off the near end of the first table a man of thirty-eight put his cloth down on the corner of his own table and stood a moment with his hand on it, and went up that bank, and the light was still on the top of it when he got there, and about nine people at the top of that bank stood where they were until the boards came down off the cart face down.
 ---
 
-On the three hundred and twenty-fourth morning the man of thirty-eight was asked nothing and said nothing, and the page at the back of that lot book did not move and stands at sixty-two lines. That count is thirty and nothing came down that lane. Three lines out of the first thirty-three on that back page have never been read by anybody in this district. The fifth of the five is five and nothing has been paid for it. There are seven months counted and there is nothing whatever for them to be counted on. That gatepost carries four hundred and eleven.
+On the three hundred and twenty-fourth morning the man of thirty-eight was asked nothing and said nothing, and the page at the back of that lot book did not move and stands at sixty-two lines. That count is thirty and nothing came down that lane. Three lines out of the first thirty-three on that back page have never been read by anybody in this district. The fifth of the five is five and nothing has been paid for it. There are seven months counted and there is nothing whatever for them to be counted on. Four hundred and eleven is what the sheet at that gatepost carries and it was still carrying it when the boards came down.

@@ -1,29 +1,31 @@
-# Chapter 1038: The Three Hundred And Twenty-Second Morning After The Thirtieth Of The Eighth Month, And About Four Of Them Have Not Said What The Difference Is
+# Chapter 1038: The Three Hundred And Twenty-Second Morning After The Thirtieth Of The Eighth Month, And A Sentence Nobody Finishes
 
-It goes on that board with nobody minding it, and the figure on the sheet at that gatepost is four hundred and eleven. Seven hundred and seventy-seven days is the age of that figure, and nobody has ever checked it.
+It goes on that board with nobody minding it, and the figure on the sheet at that gatepost is four hundred and eleven. Seven hundred and seventy-seven days is the age of that figure.
 
 Nine hundred and thirty-six is chalked on a board that has no other figure on it. The train on that siding has stood one thousand two hundred and fifty-two days and there is nothing on that siding but the rails and it. Nothing has been entered for nine hundred and sixty-six days, and the page at the back of that lot book is the only thing that gets written in. Nine hundred and twenty-seven days have gone since the second of January and there is this morning.
 
-Four hundred and fifty days it lay open in that book, and it was not run, and it is not a lot. Six hundred and forty-one days is how much further along the figure on that second line is than this yard. Six hundred and forty-six days has that rule been standing since it was said out loud in that yard. Seven hundred and sixteen days is the run from the first day of the eighth month to this morning. That body, four hundred miles off, is six hundred and fifty-five days beyond a printing it never got. Eight hundred and nineteen days back is the ninth of the nine nights that were printed.
+Four hundred and fifty days it lay open in that book, and it was not run, and it is not a lot. The figure on that second line is six hundred and forty-one days further along than this yard. That rule has stood six hundred and forty-six days since it was said out loud in that yard. It is seven hundred and sixteen days from the first day of the eighth month to this morning. A body four hundred miles off is six hundred and fifty-five days beyond a printing it never got. The ninth of the nine nights that were printed is eight hundred and nineteen days back.
 
-That board has lost five hundred and ninety-five marks to a knife. The chalk marks along the edge of that second table come to five hundred and eighty-one. Seven is what has been counted of the months and nothing carries it.
+Five hundred and ninety-five marks have been lost off that board to a knife. The chalk marks along the edge of that second table come to five hundred and eighty-one. Seven is what has been counted of the months and nothing carries it.
 
-This district has never held four of the documents. Those three lines are readable in four places in this district. The four conditions of this place have nothing standing at the end of them. The district has fourteen of its own making and is five short, and the fifth of the five has not been settled. A reason was said out loud in that yard on the one hundred and eighty-second morning, and the page at the back of that lot book could not take a line until the two hundred and eighth, and no line on it was written for a reason before that morning because it was not a place a reason could go, and that reason is not counted anywhere, and no figure has been given out loud in that yard for the number of mornings a reason was said out loud in it.
+This district has never held four of the documents. Those three lines are readable in four places in this district. The four conditions of this place have nothing standing at the end of them. The district has fourteen of its own making and is five short, and the fifth of the five has not been settled.
 
-No reason was said out loud in that yard this morning, and the page at the back of that lot book, which stood at sixty-two lines, was still standing at sixty-two lines at half past four. The first asking was not on that page and it was not on anything and nobody is able to recover it. There has been a second table at the foot of that bank for three hundred and fifty-two mornings, and nothing has ever been said about it.
+A reason was said out loud in that yard on the one hundred and eighty-second morning, and the page at the back of that lot book could not take a line until the two hundred and eighth, and no line on it was written for a reason before that morning because it was not a place a reason could go, and that reason is not counted anywhere, and no figure has been given out loud in that yard for the number of mornings a reason was said out loud in it.
 
-There has been that near rail for three hundred and two mornings, and nobody is to thank the man who put it in. A man has stood at that bank three hundred and twenty-two mornings on the word of the man who keeps it, and it is the man who keeps the tally that says it, and it is said before it is written down. A table of the man of about thirty-two has been up at that end of the ground for the three hundred and twenty-first morning. That table is not the second table and it is not the near rail. Four figures have been read off that wall by a man of fifty-six on the seven hundred and sixty-third mornings and he puts his hand flat over the lowest of them at four o'clock every time. A man of about sixty-four stood at the foot of that low wall on the six hundred and seventy-seventh night of that run having slept on six hundred and seventy-six of the nights of that run before it. That man of sixty-one has sat on those stones about four feet off him for the two hundred and sixty-seventh afternoon running. Nobody has ever asked him for anything. And he has gone the one hundred and seventy-eighth mornings running without anybody asking him one thing. That flat answer has now been said the two hundred and eleventh time running. The lot book is open there now and it is open there every morning. That book has five lines on it and a column with one name in it, and the word over that column is still whoever. On that form there is a second space, and it is empty, and no one has ever been asked about it.
+No reason was said out loud in that yard this morning and the page at the back of that lot book, which stood at sixty-two lines, was still standing at sixty-two lines at half past four. The first asking was not on that page and it was not on anything and nobody is able to recover it.
 
-That lot book carries sixty-two lines at the back of it. The lane count is thirty and no page went up it or came down it. There is a record and it has stood two hundred and thirty-seven days and no morning of that run is in it twice. There are about nine people standing on that ground, public lot since the afternoon of the one hundred and seventeenth morning. There are about eleven feet between that wall and the top of this bank, and about four miles is between the top of that bank and the culvert, and a person standing at the wall is not a person standing at the bank.
+There has been a second table at the foot of that bank for three hundred and fifty-two mornings, and nothing has ever been said about it. There has been that near rail for three hundred and two mornings, and nobody is to thank the man who put it in. A man has stood at that bank three hundred and twenty-two mornings on the word of the man who keeps it, and it is said before it is written down. A table of the man of about thirty-two has been up at that end of the ground for the three hundred and twenty-first morning, and that table is not the second table and it is not the near rail.
 
-That toll of ninety-eight is paid and spent and nobody is lowering it either. Three of those first thirty-three lines on that back page have never been read in this place.
+Four figures have been read off that wall by a man of fifty-six on the seven hundred and sixty-third mornings and he puts his hand flat over the lowest of them at four o'clock every time. A man of about sixty-four stood at the foot of that low wall on the six hundred and seventy-seventh night of that run having slept on six hundred and seventy-six of the nights of that run before it. That man of sixty-one has sat on those stones about four feet off him for the two hundred and sixty-seventh afternoon running, and he says one word and gets one back. Nobody has ever asked him for anything. And he has gone the one hundred and seventy-eighth mornings running without anybody asking him one thing. That flat answer has now been said the two hundred and eleventh time running.
+
+The lot book is open there now and it is open there every morning. That book has five lines on it and a column with one name in it, and the word over that column is still whoever, and on that form there is a second space and it is empty and no one has ever been asked about it. The lane count is thirty and no page went up that lane or came down it. There is a record and it has stood two hundred and thirty-seven days. There are about nine people standing on that ground, public lot since the afternoon of the one hundred and seventeenth morning. There are about eleven feet between that wall and the top of that bank, and about four miles is between the top of that bank and the culvert, and a person standing at the wall is not a person standing at the bank. That toll of ninety-eight is paid and spent and nobody is lowering it either. Three of those first thirty-three lines on that back page have never been read in this place.
 
 ---
+---
 
-She came up that bank before the light was on it with the frame under her arm and the bag in her hand, and she has not come down it since the morning she said a reason out loud from the top of it.
+She came up that bank before the light was on it with the frame under her arm and the bag in her hand, and she has come down that hill three times in three winters and it is not often that a yard looks up when a person does.
 
 She is one of about nine people at the top of that bank and about four of them have made a sentence this winter, and she is one of those four.
-
 ---
 
 The sentence is this, and it has been said up there about nine times now, and it is said among themselves and never in front of him:
@@ -31,7 +33,6 @@ The sentence is this, and it has been said up there about nine times now, and it
 A figure goes out into that yard on more mornings than a line goes on that page.
 
 That is the whole of it. About four of those four people have not said what the difference is, and not one of them has said what it is that makes it a difference.
-
 ---
 
 What she wants out of that bank is a person to say it to.
@@ -40,8 +41,7 @@ She is fifty-two or near it and she has come down that hill three times with som
 
 So she went up it and stayed up it. She has a form folded in four in the bottom of that bag and a pencil tied into the fold of it with a bit of string, and there is a second space on that form and it has been blank every morning she has stood in front of it.
 
-Nobody at the foot of that bank has ever looked up at the top of it, including on the morning she said a reason out loud from up there and a line went on a page for it.
-
+Nobody at the foot of that bank has ever looked up at the top of it, on any morning of any winter, and this morning is not going to be the one that changes that.
 ---
 
 At about eleven she got as far as it.
@@ -63,7 +63,6 @@ He waited about as long as a man waits.
 "There is nothing at the bottom of that bank to finish it at," he said. "You go on and finish it and there is still nobody down there."
 
 Then he went along the top of that bank to the gate in the low wall at the head of the lane and stood at it with his hands behind him, which is what he does.
-
 ---
 
 The man who comes down that lane four days a week had gone back to the gate in the low wall and was standing at it with his hands behind him, looking at nothing, which is what he does.
@@ -107,7 +106,6 @@ He stood there with it and did not say anything for about as long as it takes to
 "You could have said which end was wrong and let me have the other one."
 
 "I could have said a great deal this morning," she said, "and I have said about a sentence and a half and I did not finish the first one."
-
 ---
 
 There are about nine people along the top of that bank in the afternoon and about four of them have said a sentence this winter.
@@ -125,7 +123,6 @@ The light came over the top of that wall at about half past two and stayed on th
 From up there you can see the boards and you cannot see the page. A woman standing at that rail with a book open against it is nine feet off whoever she is speaking to and about four hundred yards off the woman who said the thing that morning, and there is no way from a bank of eleven feet of telling which of those two distances decides anything at all.
 
 The boy said the count out loud at those boards at ten to eight, before anybody's hand moved, and it is thirty and there is no other figure coming this morning.
-
 ---
 
 The boy came along the top of that bank at about one and stopped about four feet off her with his hands in his pockets.
@@ -140,14 +137,13 @@ She had three answers ready and about nine hundred mornings of not giving any of
 
 "For the light," she said.
 
-The boy looked down at about an acre of hard ground with two tables on it and a rail along the near side of one of them and a wheel at the far end of it standing still now.
+The boy looked down off the top of that bank at about an acre of hard ground with the tables on it and the long rail and the wheel going round at the near end of it the way it goes all morning.
 
 "That is a reason," he said.
 
 "It is a light."
 
 "It is a reason for being up here," said Orren Pike, "and I have not got anything else to do this afternoon so I am not going to argue with a woman about it," and he went along the top of that bank to the gate in the low wall and stood at it with his hands behind him, which is what the other one does.
-
 ---
 
 At about two she got the form out of the bag and put it on her knee up there in the sun, and there were about four people on that bank within about nine feet of her.
@@ -164,24 +160,22 @@ At about half past one the man of about forty-eight who keeps a tally put his nu
 
 She listened to it go past, from where she was standing, and did not move her feet out of the strip of shade.
 
-Then she heard a second thing go out of that yard, and about a minute after that she heard a third, and there was nothing on the top of that bank that anyone said about any of the three.
+That one goes up the bank and four people take it, every morning of that run, and it does not matter in the least what anybody up here thinks of it, and she has never once come down that slope on the strength of it.
 
+She put her hand flat on the bag where the form was and left it there.
 ---
 
 A little after half past three the sun came over the top of that low wall and laid a strip of it down along the stones at the foot of it, and a man standing in that strip said good afternoon to a man of sixty-one sitting about four feet off him, and got one word back.
-
 ---
 
 At about four o'clock the man of fifty-six had his hand up on that wall and got all four of the figures off it, and then his hand came down and lay flat over the lowest one and stayed there.
 
-"Since before the middle of the winter my hand has gone on that stone twice a day and that stone has not once asked me what for," he said out loud to that stone.
+"Since before the middle of the winter my hand has gone on that stone and that stone has not once asked me what for," he said out loud to that stone.
 
 About nineteen people heard it, and that was the two hundred and eleventh time running, and nobody has asked him anything about any of it.
-
 ---
 
 At about ten past four the clerk came along the boards and gave that morning out loud before the pen was near any part of it, and wrote the three hundred and twenty-second morning under the last line in her own small careful hand and took no line for it.
-
 ---
 
 At about half past four the light came off those boards and about four people out of about nineteen said the goodnight, and about nine people at the top of that bank did not join in it.
@@ -190,4 +184,4 @@ She said it with the rest of them and nobody said it back.
 
 Then she went down that bank. She has a frame under her arm and a bag in her hand and a piece of pallet about the length of her forearm has gone down that slope in another man's pocket this evening, and there are four pieces of wood in the world fewer than there were in the morning.
 
-About four people at the top of that bank have said since that a figure has gone out into that yard on more mornings than a line has gone on that page, and about four of them have not said what the difference is, and one of those four came down that slope this evening with a sentence half finished still in her. That page at the back took no line and is standing at sixty-two lines. Thirty is the figure at those boards and the lane count is not moved by a decision. There are three of the first thirty-three lines on that back page that have never been read by a living person in this district. Five is what this district does not have and the fifth of those five is unpaid. Seven months is counted by a clerk and nothing at all is written on it. That gatepost carries four hundred and eleven.
+About four people at the top of that bank have said since that a figure has gone out into that yard on more mornings than a line has gone on that page, and about four of them have not said what the difference is, and one of those four came down that slope this evening with a sentence half finished still in her. That page at the back took no line and is standing at sixty-two lines. Thirty is the figure at those boards and the lane count is not moved by a decision. There are three of the first thirty-three lines on that back page that have never been read by a living person in this district. Five is what this district does not have and the fifth of those five is unpaid. Seven months is counted by a clerk and nothing at all is written on it. The figure on the sheet at that gatepost is four hundred and eleven and it has not moved this morning either.

@@ -1,4 +1,4 @@
-# Chapter 1037: The Three Hundred And Twenty-First Morning After The Thirtieth Of The Eighth Month, And A Second Figure Went Out A Minute After The First
+# Chapter 1037: The Three Hundred And Twenty-First Morning After The Thirtieth Of The Eighth Month, And A Minute Apart
 
 Whatever it ought to be, no one in this place has got to the bottom of it, and the figure on the sheet at that gatepost is four hundred and eleven. Seven hundred and seventy-six days is the age of that figure, and it has not been done anything to.
 
@@ -17,7 +17,6 @@ The rail on the near side of it has stood three hundred and one mornings, and no
 There are sixty-two lines on the back of that lot book. The lane count is thirty and that lane brought nothing down this morning. That record stands at two hundred and thirty-six days and it has never been entered into by anybody. About nine people stand on ground that has been public lot since the afternoon of the one hundred and seventeenth morning. There are about eleven feet between that wall and the top of this bank, and about four miles is between the top of that bank and the culvert, and both of those go back further than the rail.
 
 The toll of ninety-eight is paid and spent and it is not raised here. There are three lines on that back page among the first thirty-three that have never been read here.
-
 ---
 
 His name is not in that lot book and he is not going to be.
@@ -25,7 +24,6 @@ His name is not in that lot book and he is not going to be.
 He has a bench at the end of that second table and about nine feet of that table between him and where the light comes off the boards, and he has been at that end of that table long enough that the other end has had three different men at it.
 
 The near leg of that bench is loose in its socket. It knocks when a man puts his weight on it and stops when he takes it off, and it has been doing that since before he came to that end of that table.
-
 ---
 
 A mallet would fix it in about four minutes. He has thought about that about four hundred mornings.
@@ -37,7 +35,6 @@ He has never gone and got it.
 There is one reason for that and it is not that anybody has stopped him. He said one thing out loud in that yard, once, about his own table, and it did not take long to say and nothing came back off it, and he has been in that place every morning since with nothing left in that particular direction.
 
 So he packs the leg with a folded strip off a bale tie, twice a year, and it holds for about a season, and then it goes again.
-
 ---
 
 The man of about thirty-four came along with his cloth at about half past eight and stopped at his own end.
@@ -55,11 +52,9 @@ The man of about thirty-four came along with his cloth at about half past eight 
 "A season is what the bale tie holds it."
 
 The man of about thirty-four stood there about as long as that conversation was going to be, and then he went along his own boards with the cloth and did not say anything else about it.
-
 ---
 
 At about half past nine the man of thirty-eight came down off that bank with his hands showing and went out along the top of his own table and round the end of it and up the slope and back down, and came in at the corner he always comes in at.
-
 ---
 
 The boy was at the near end of that second table about half past one with his elbows on the top of it, and he had not said anything for about four minutes.
@@ -83,7 +78,6 @@ The man at the end of the second table looked at the boy.
 He went back to his bench and the boy stayed where he was for about a minute and then went up the slope, and the man at the end of that second table put his weight on the loose leg and took it off again, and it knocked.
 
 About four feet off the far end of that second table there is the near corner of that first table, and the man of thirty-eight works the whole length of it and comes past within four feet of where the man at that bench sits, nine or ten times a day, and makes no sound at any point of it.
-
 ---
 
 The boy came down the slope at about one with his hands in his pockets and stopped at the near end of that second table and looked along it the way a person looks along a thing they are not going to touch.
@@ -111,13 +105,11 @@ The boy went up the slope. He has been in that yard two years and he had never o
 She came down that bank at about half past twelve and set up about four feet off the near end of the second table and worked there all afternoon with the wind on every pan.
 
 He heard the wind take the first of each of those pans. He has been at that end of that table long enough to know that from about half past one the wind settles on her pan a beat later than it settles on the boards, and that is a thing about wind and about nothing else.
-
 ---
 
 At about half past one the man of about forty-eight who keeps a tally put his number up into about four hundred yards of air and about four people said it back after him out of step with one another.
 
 About nine feet off him, at the near end of the second table, the woman who keeps a scale had a bar on her pan and waited out that number the way she waits out that number, which is by standing still until it has gone off the bank.
-
 ---
 
 And then one figure of her own went out of that yard, once.
@@ -125,7 +117,6 @@ And then one figure of her own went out of that yard, once.
 Once, in the ordinary voice, at her own scale, and it went out over that yard and off the face of that bank and it did not come back with four voices on it.
 
 The man at the end of the second table put his hand flat on his bench to keep the leg from knocking.
-
 ---
 
 Inside a minute a second figure went out of that yard.
@@ -133,7 +124,6 @@ Inside a minute a second figure went out of that yard.
 About four feet of ground from where she was standing, at the near end of that first table, a man of thirty-eight put one figure of his own out into that air, once, in the ordinary voice, at the speed a man uses for a thing he means.
 
 Then the yard carried on with the middle of its afternoon.
-
 ---
 
 He has been at the end of that table for the length of a run of mornings that he does not put a number on.
@@ -143,7 +133,6 @@ There is one thing he said out loud in this yard, once, about this table, and it
 A man who has spent the only sentence he had is not a man with nothing. He is a man with everything else, which is a great deal more than most people have in a morning, and it all has to be done without any of it coming out of his mouth.
 
 So he did the only thing there was to do with two figures going out into the same air about a minute apart, which was to sit at the end of a table with his hand on a loose leg and let them both go out of that yard without him.
-
 ---
 
 The boy was at those boards at ten to eight and had said his number out loud, and then he had gone up the bank, and then he had come back down at about one and offered that bench to a man he had never spoken to before, and then he had gone up again.
@@ -159,11 +148,9 @@ Nobody said a word.
 Nobody at the foot of that bank put the first of those two figures and the second of them together. Nobody up at those boards looked along the rail at it. Nobody at the top of eleven feet called down about it. The wheel went on turning at the near end of that ground at the speed it goes at.
 
 The man at the end of the second table did not move and he did not speak and he has said nothing out loud in that yard since the morning he said the one thing about his own table.
-
 ---
 
 Nobody said it was the same kind of thing and nobody said it was a different kind of thing, and nobody said anything at all, and there was nothing in that air to bring back.
-
 ---
 
 Here is the whole of what a man at the end of a table gets to do with two figures going out into the same air about a minute apart.
@@ -175,7 +162,6 @@ There are about nineteen people in that yard and about nine of them are close en
 He is one of the four. He is also the only person at that end of the ground who has nothing else to do with his hands, because his leg is loose and a loose leg is a thing you can hear.
 
 A minute is a short thing. He can hear a minute go in that yard the way other men can hear a number. The number goes up the bank and four voices take it and come back down. A minute goes nowhere and does not come back and there is no part of that yard that a minute reaches.
-
 ---
 
 The man of about thirty-four came along his own boards at about three with the cloth and stopped at his own end.
@@ -195,7 +181,6 @@ The man at the end of that second table went on with his own bench.
 "Say it to the rail," he said. "The rail takes anything. That is the only thing in this yard that takes anything."
 
 A little after half past three the sun came over the top of that low wall and laid a strip of it along the stones at the foot of it, and a man standing in that strip said good afternoon to a man of sixty-one sitting about four feet off him on those stones, and one word came back, and neither of them said anything else about it.
-
 ---
 
 At about four o'clock the man of fifty-six had his hand up on that wall and got all four of them off it, and his hand came down and lay flat over the lowest one and stayed there.
@@ -203,13 +188,11 @@ At about four o'clock the man of fifty-six had his hand up on that wall and got 
 "Two hundred and ten mornings and not one of them has ever been the same twice," he said out loud to that stone.
 
 About nineteen people heard that, and it was the two hundred and tenth time running, and nobody has ever asked him anything about any of it.
-
 ---
 
 At about ten past four the clerk came along the boards and gave that morning out loud, and the book was open against the rail and the pen was in the holder while she did it.
 
 "The three hundred and twenty-first morning," she said. "Nothing has gone out loud in this yard this morning that goes at the back of that book, so this morning goes down in my own hand by itself, and that is the whole of the account of it and it went out loud before the pen was near the page."
-
 ---
 
 He listened to that pen.
@@ -223,7 +206,6 @@ He had known that at about half past one without hearing the pen.
 There is a great deal of knowing in that yard that never arrives at the pen at all.
 
 She wrote the three hundred and twenty-first morning under the last line in her own small careful hand and took no line for it.
-
 ---
 
 At about half past four the light came off those boards and about four people out of about nineteen said the goodnight.
