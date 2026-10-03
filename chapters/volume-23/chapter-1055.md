@@ -27,7 +27,7 @@ He was at that low wall before the light came over the top of the bank, the way 
 
 From where he stood the wall with the four figures on it was a grey shape about four hundred yards off, at the bottom of a slope, and at that distance the four figures were not figures to him. They had not been figures to him for some time and he had not told anybody that and was not going to.
 
-He had read marks off a board for a living, a tide board first and then a depth board on a stretch of water that has a different name now, and the whole of that trade was taking a thing off a distance and being certain of it. He was as certain as anybody alive that a man knows the exact moment his own eyes begin to lie to him, and he knew the moment, and he had known it for long enough that he had stopped being afraid of it and started being bored by it.
+He had spent his working life reading a number off a mark somebody else had cut. It began on a tide board and went on to a depth board on water that has a different name now, and the whole of it was standing far enough off a thing to be sure of it, and being sure of it in front of whoever happened to be standing there. He was as certain as anybody alive that a man knows the exact moment his own eyes begin to lie to him, and he knew the moment, and he had known it for long enough that he had stopped being afraid of it and started being bored by it.
 
 ---
 
@@ -65,9 +65,9 @@ It took him longer than it used to take him. The ground along the bottom of that
 
 The man of fifty-six was already there with his hand up.
 
-He read the four off one after another in the order they come, and the man of about sixty-four stood about four feet off and could see the shape of his own hand going along the stone and could see that the numbers were figures and not marks and could see that one of them was a figure he had never once been able to see properly from four hundred yards, and that from four feet it was no better, and that it was not his eyes.
+He read the four off one after another in the order they come, and then he stood about four feet off and watched the shape of his own hand going along the stone, and the numbers were figures and not marks, and one of them was a figure he had never once been able to see properly from four hundred yards, and from four feet it was no better.
 
-That is what he had wanted. He had wanted to know whether it was his eyes.
+He had wanted one thing out of that walk and only one thing, and it was whether it was his eyes.
 
 It was not his eyes. There was a figure on that wall that was out, and he could not tell which of the four, and he was not going to stand there and work it out in front of a man who was reading them.
 
@@ -81,11 +81,11 @@ At about four the man of fifty-six had his hand up again and got all four of the
 
 Then he said his flat answer, which is the thing he says at that hour and has said at that hour since before the middle of the winter.
 
-"Two hundred and twenty-eight mornings," he said out loud to that stone, "and not one of the four of them has ever needed anything out of me, and I have never once wanted one of them to need something, and a man walked four hundred yards to find out that his own eyes were all right, and he will come again and neither of us will ever say a word about it."
+"Two hundred and twenty-eight mornings," he said out loud to that stone, "and not one of you has ever wanted anything out of me, and I have never once wanted one of you to want something, and I have stopped trying to work out what that is, and I am not going to start again on a morning like this."
 
 About nineteen people heard that, and it was the two hundred and twenty-eighth time running, and nobody has ever asked him anything about any part of it.
 
-At ten past four the clerk came along those boards and read that morning out loud with the pen in the holder and wrote the three hundred and thirty-ninth morning under the last line in her own small careful hand and took no line for it. He could not hear one word of it from that low wall and could tell from the shape of her mouth that she was giving all of it.
+At ten past four the clerk came along those boards and read that morning out loud with the pen in the holder and wrote the three hundred and thirty-ninth morning under the last line in her own small careful hand and took no line for it. He could not hear a syllable of any of it from that low wall, and he could tell from the shape of her mouth that she was giving the whole of it, and he had got that much off her from four hundred yards on a great many mornings.
 
 At about half past four the light came off the boards and they came off the cart face down and went up the bank, and about four people said the goodnight.
 

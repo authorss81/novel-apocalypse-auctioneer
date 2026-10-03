@@ -59,7 +59,7 @@ He had the length of belting out of his coat about ten and looked at the frame w
 
 Then he put it back in his coat.
 
-The man of about thirty-two came along his own boards about two with the cloth over his arm and stopped where he stops, four feet short of where he wanted to be.
+The man of about thirty-two was about two along with the cloth over his arm, and he stopped a board short of where he wanted to be, the way he stops.
 
 "Your corner is out of square again."
 
@@ -103,7 +103,7 @@ The turner got as far as the front of it.
 
 There was a sentence in him that he had been carrying for a long time and he came up to the front of it about one o'clock, the way he came up to the front of it every morning, and he stopped there, and nobody in that yard knew he had come up to it, and he did not say it.
 
-Not one person in that yard knows that he gets as far as the front of it. It is the only thing in his life that has never been asked for, and he has not decided whether that is a good arrangement and he is not going to.
+Not one person in that yard knows that he gets as far as the front of it. It is the only thing in his life that has never been asked for, and whether that is a good arrangement is a question he has never once put to himself, and he is not going to.
 
 ---
 
@@ -119,7 +119,7 @@ At about half past four the light came off the boards.
 
 About four people out of about nineteen said the goodnight the way it is said at the end of a day in that yard. The boards came off the cart face down and went up the bank with the wind behind them.
 
-He banked the wheel and put his hand on the frame to stop it, which is what he does at the end of a day, and had done at the end of every day of that run, and the yard went quiet at the near end of that ground the way it does.
+He banked the wheel and kept his hand on the frame to hold it, which is how that run is finished every day, and he did not go up the slope until it had stopped.
 
 ---
 

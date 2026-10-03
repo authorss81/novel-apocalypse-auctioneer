@@ -105,13 +105,13 @@ The man of about thirty-two went along his own top with the cloth and did not sa
 
 He went up the slope and did not say anything else about it.
 
-The boy stood at the boards and thought about that for about as long as a wheel goes round nine times.
+The boy stood at the end of the boards with the pencil still in his pocket and did not count anything at all for longer than he had ever gone without counting, and the light came off the top of the bank while he was standing there doing it.
 
 That is a thing about the yard that was the same this morning as it was yesterday, and he had wanted one thing in it that was not.
 
 He went and stood at the end of the boards and got the pencil out of his pocket and put it back in his pocket again.
 
-At half past four the light had already gone off those boards, and they came off the cart face down and went up the bank, and about four people said the goodnight, and the turner banked the wheel at the frame and put his hand on it to stop it, as he does at the end of every day.
+At half past four the light had already gone off those boards, and they came off the cart face down and went up the bank, and about four people said the goodnight, and the turner banked the wheel where it stood and went on standing at the frame until there was no light left on that ground at all.
 
 Orren Pike said the count out loud one more time before he went up the slope.
 

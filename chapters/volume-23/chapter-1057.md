@@ -67,9 +67,9 @@ The man at the end of that second table looked at him.
 
 "Two years and about three weeks."
 
-"Then you have said that number out loud about four hundred times."
+"Then you have been putting that number out loud in this yard every morning since you got to these boards."
 
-"Somebody said four hundred," said Orren Pike. "I did not say four hundred. I have said thirty at ten to eight and I have said nine when there was nothing behind it, and those are the only two numbers I have ever said out loud in this yard and neither of them has ever been written down."
+"I have said thirty at ten to eight and I have said nine when there was nothing behind it," said Orren Pike. "Those are the only two numbers I have ever said out loud in this yard, and neither of them has ever been written down, and nobody has ever asked me what either of them is for."
 
 Nobody answered him.
 
@@ -93,7 +93,7 @@ The clerk gave the whole of that morning out loud with the pen in the holder, be
 
 Then she wrote the three hundred and forty-first morning under the last line in her own small careful hand and took no line for it, and she did not answer him, and nobody answered him.
 
-At about half past four the light came off those boards and the cart stood against them until they came down, face down, and went up the bank. About four people said the goodnight. The turner banked the wheel at the frame and stopped it with his hand, which is what he does at the end of every day of that run.
+At about half past four the light came off those boards and the cart stood against them until they came down, face down, and went up the bank. About four people said the goodnight. The turner banked the wheel and held the frame down with the flat of his hand, which is how he has ended every day of that run.
 
 ---
 

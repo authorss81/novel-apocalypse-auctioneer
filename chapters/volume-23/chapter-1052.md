@@ -51,7 +51,7 @@ He went about four feet along the boards and stopped at that table and looked at
 
 "Your leg is up on something."
 
-"A wedge of my own out of the fire-split."
+"One I cut out of the fire-split myself."
 
 "That is not holding it up right. The leg is up and the top is off the frame at that end. Look at the light on it."
 

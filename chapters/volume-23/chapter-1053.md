@@ -29,7 +29,7 @@ The light comes off the top of that bank in a wedge and takes the boards first, 
 
 At ten to eight the boy said his count out loud with the light still flat on the bank.
 
-"Thirty," said Orren Pike, "and there is nothing behind it this morning."
+"Thirty," said Orren Pike, "and there is nothing at all behind it this morning."
 
 The clerk turned a page with her thumb and did not write.
 
@@ -45,9 +45,9 @@ At about half past twelve the woman who keeps a scale came down that bank and se
 
 At about half past one the man of about forty-eight who keeps a tally stood where he stands and put his number up into about four hundred yards of air in the voice he keeps for it.
 
-About four voices took it up after him, out of step with one another, one of them a half beat behind the other three, and it went off the face of that bank and was gone, and there was nothing in that yard at that hour that went out after it.
+About four voices had it up after him, out of step with one another, one of them half a beat behind the other three, and it went over the top of that bank and was gone.
 
-About four feet off the near end of the first table the man of thirty-eight had the cloth in his hand and had had it since half past nine and had not said a word out loud all morning, and the cloth was the only thing about him that moved that hour except his arms.
+About four feet off the near end of the first table the man of thirty-eight stood with the cloth in his hand and had been at that table since before the light, and he had not put a sound out of that yard by half past one, and the cloth was the only thing about him that moved that hour except his arms.
 
 ---
 
@@ -69,9 +69,9 @@ Then he took his heel off the frame and let the wheel take up its speed again, a
 
 He went on with what he was doing, which was wiping the grease off his hands on a rag and putting the rag over his shoulder and looking at the belt on the frame without touching it.
 
-A length of belting in a coat is not a thing a man carries for years because he cannot carry it. He has carried it into that yard and out of it on every morning of that run and it has been in the coat pocket the whole time, and he has never once worked out what a man is doing when he puts a thing in a pocket and then takes it out every morning and puts it back.
+A length of belting in a coat is not a thing a man has been carrying for years, because he had not carried it for years. That length had been on its nail in that wheelhouse for as long as he could remember, and he had gone past the nail every morning of a run of mornings deciding that this was the morning he would take it down, and it had taken him two mornings to put it in a pocket and he had put it back both times. He has still not worked out what a man is doing when he takes a thing off a nail and puts it in a coat and then takes it out and puts it back.
 
-The man of about thirty-two came along his own boards about two with the cloth over his arm and stopped where he stops, four feet short of where he would have liked to be.
+The man of about thirty-two was going along his own boards at about two with the cloth over his arm, and he came up a board short of the place he works from, and stood there.
 
 "My corner is square this morning."
 
@@ -107,7 +107,7 @@ At ten past four the clerk came along those boards and gave the whole of that mo
 
 At about half past four the light came off those boards and about four people out of about nineteen said the goodnight that is said at the end of a day in that yard. The boards came off the cart face down and went up the bank.
 
-He banked the wheel and put his hand on the frame to stop it, which is what he does at the end of a day, and had done at the end of every day of that run.
+He banked the wheel and stood at the frame with his palm flat on it, and did not go up the slope until it had done.
 
 ---
 

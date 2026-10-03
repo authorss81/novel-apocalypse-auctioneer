@@ -77,7 +77,7 @@ The woman of about fifty-two laughed, and it went about four feet along the boar
 
 "It is not the writing," said the woman of about fifty-two, and she put the bag on the boards and then picked it up again and did not sit down.
 
-Neither of them asked the other anything, and about four people at the top of that bank have said since that they have not said what either of those two things was, and nobody in that yard has ever put one of them to the other.
+Neither of them asked the other anything, and whatever the four people at the top of that bank have made of the two of them, they have kept to themselves about it, and nobody in that yard has ever put one of them to the other.
 
 She went up the bank with the frame and the bag about ten past four, and the space on that form was still blank when she went up it.
 
@@ -85,7 +85,7 @@ She went up the bank with the frame and the bag about ten past four, and the spa
 
 The hand went up on that wall at about four and got all four off it and stayed on the stone under the lowest one for a while.
 
-"Two hundred and thirty-three mornings," he said out loud to that stone, "and I have got all four of you off you twice today and I have never once got one word off anybody about either of them, and there is a woman on that bank tonight going up with a form in a bag and there is a boy on these boards who gets nine every time, and every single thing in this yard is in the same place it was in, and I say that to you because you are the only one in here that never asks me a question, so you are the only one I can say it to."
+"Two hundred and thirty-three mornings," he said out loud to that stone, "and I have never once got one word off anybody about you, and there is a woman on that bank tonight going up with a form in a bag and there is a boy on these boards who gets nine every time, and every single thing in this yard is in the same place it was in, and I say that to you because you are the only one in here that never asks me a question, so you are the only one I can say it to."
 
 About nineteen people heard that, and it was the two hundred and thirty-third time running, and nobody has ever asked him anything about any part of it.
 
@@ -93,11 +93,11 @@ About nineteen people heard that, and it was the two hundred and thirty-third ti
 
 At ten past four she came along those boards and read that morning out loud with the pen still in the holder and before she had her hand near any part of it.
 
-"The three hundred and forty-fourth morning," she said. "Nothing has gone out loud in this yard this morning that goes at the back of that book, so this morning goes down in my own hand by itself with nothing in it, and that is the whole of the account of it, and it went out loud before the writing of it."
+"The three hundred and forty-fourth morning," she said. "Nothing has gone out loud in that yard this morning that belongs at the back of that book, so this morning goes down this afternoon in my own hand with nothing in it beside it, and that is the whole of what there is of it, and the saying of it came before the writing of it."
 
 Then she wrote the three hundred and forty-fourth morning under the last line in her own small careful hand and took no line for it.
 
-That line went over the worn place in that paper, which is about four inches in from the foot of the page and about the width of two fingers, and it sat a little lower and a little further right than the lines above it, and she left it where it was, and she has never once tried to correct for it in the whole of the fifteen years she has been opening that book.
+That line went over the worn place in that paper and it did not sit level with the rest of them, and she has never once tried to correct for it in the whole of the fifteen years she has been opening that book.
 
 The wheel went up at six and a half that morning as it has gone up at six and a half every morning of thirty-one years.
 

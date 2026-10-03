@@ -35,7 +35,7 @@ She knelt on the boards and looked at the form.
 
 The first space had a figure in it and a date against the figure. The second space was empty and had been empty every morning she had carried it up and down that bank, and it was not a small space and it was not a hard one to write in.
 
-She looked at it for about as long as it takes a wheel to go round nine times, and then she put the form down flat inside the frame again and got up off her knees.
+She looked at it for as long as it took her to notice that her own knees had gone from cold to warm against the boards, and then she put the form down flat inside the frame again and got up off them.
 
 ---
 

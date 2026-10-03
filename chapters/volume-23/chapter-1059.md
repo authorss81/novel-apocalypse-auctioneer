@@ -83,7 +83,7 @@ The boy came down off the slope at about one and stood about nine feet off the n
 
 The boy stood there for a while.
 
-"Everybody in this yard is doing something in pieces this morning," he said, "and I am the only one who counts things and I have got nothing that comes out different twice, and I am not going to ask you about your table because you have never asked me about the boards and that is a fair arrangement and I am not going to be the one to break it."
+"Everybody in this yard is doing something in pieces this morning," he said, "and I am the only one who counts things and I have got nothing that comes out different twice, and I am not going to ask you about your table, because you have never once asked me about the boards, and that is the arrangement between the two of us and I am not the one who changes it."
 
 He went back up the slope with his hands in his pockets.
 
@@ -91,15 +91,15 @@ He went back up the slope with his hands in his pockets.
 
 At about four the man of fifty-six had his hand up on that wall and got all four off it and laid his palm flat on the stone under the lowest one.
 
-"Two hundred and thirty-two mornings," he said out loud to that stone, "and I have got all four of you off you twice today, and there is a man in this yard who has worked his own table in pieces all morning because the ground has gone under one end of it, and I have watched him do it, and I am not going to say one word to him about it, and I have been the man who watched."
+"Two hundred and thirty-two mornings," he said out loud to that stone, "and I have read every one of you off that stone twice today, and there is a man in this yard who has worked his own table in pieces all morning because the ground has gone under one end of it, and I watched him do it, and I am not going to say one word to him about it, and I have been the man who watched."
 
 About nineteen people heard that, and it was the two hundred and thirty-second time running, and nobody has ever asked him anything about any part of it.
 
 At ten past four the clerk came along those boards and read that morning out loud with the pen in the holder and wrote the three hundred and forty-third morning under the last line in her own small careful hand and took no line for it.
 
-At about half past four the light went off those boards and they came off the cart face down and went up the bank, and about four people said the goodnight, and the turner banked the wheel and stopped it with his hand on the frame, as he does at the end of every day of that run.
+At about half past four the light went off those boards and they came off the cart face down and went up the bank, and about four people said the goodnight, and the turner banked the wheel and held the frame until it was still.
 
-He was still at about four feet off the near end of that first table with the cloth in his hand when the light went, and he did not say one word out loud at any point of that whole morning, and nobody in that yard asked him anything.
+He was still at about four feet off the near end of that first table with the cloth in his hand when the light went off it, and he had not put a word out loud in that yard between half past nine and the light going, and nobody in that yard asked him anything.
 
 ---
 
