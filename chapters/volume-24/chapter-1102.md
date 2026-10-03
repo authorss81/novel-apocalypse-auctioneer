@@ -4,7 +4,7 @@ The figure on the sheet at that gatepost is four hundred and eleven, and this ba
 
 That board carries one thousand marks. That train on that siding has stood one thousand three hundred and sixteen days and no wagon has come off it in any of them. Nothing has been entered at that rail for one thousand and thirty days. Nine hundred and ninety-one days separate the second of January and this morning.
 
-That bid was open four hundred and fifty days and was not run, and it is not a lot and not open this morning. Seven hundred and five days is how far behind the figure on the second line of that book this yard stands. That rule said out loud in that yard has stood seven hundred and ten days. Seven hundred and eighty days is how long it has been since the first day of the eighth month. That body four hundred miles off is seven hundred and nineteen days past a printing it did not make.
+That bid stood open four hundred and fifty days and was never run, and it is not a lot and is not open this morning. Seven hundred and five days is how far behind the figure on the second line of that book this yard stands. That rule said out loud in that yard has stood seven hundred and ten days. Seven hundred and eighty days is how long it has been since the first day of the eighth month. That body four hundred miles off is seven hundred and nineteen days past a printing it did not make.
 
 The ninth of the nine printed nights is eight hundred and eighty-three days back. Six hundred and fifty-nine marks have been cut off that board. Six hundred and forty-five marks in chalk stand along the edge of that second table.
 
@@ -58,7 +58,7 @@ About a quarter to ten the man of about thirty-two and the man of about thirty-f
 
 At about half past twelve the woman who keeps a scale was at her own pan about four feet off the near end of that second table, and she said nothing out loud after her own business that day.
 
-At about half past one the man of about forty-eight put his number out into about four hundred yards of air, and about four voices in that yard took it up after him, out of step with one another, and it went off the face of that bank.
+At about half past one the man of about forty-eight had that number of his out into about four hundred yards of air, and about four voices in that yard took it up out of step with one another, and it went off the face of that bank.
 
 ---
 

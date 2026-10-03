@@ -68,7 +68,7 @@ The foot and about four inches of sound pallet lay where it had lain all that mo
 
 ---
 
-The frame stood at the near end of that first table with nothing turning on it and the turner was at it from about six and a half and did not put his heel on it, and nobody in that yard started it.
+Nothing was turning on that frame at the near end of that first table. The turner was at it from about six and a half and kept his heel off it, and nobody in that yard started it.
 
 At ten to eight the boy was at those boards and said thirty, and nothing came down that lane behind it.
 

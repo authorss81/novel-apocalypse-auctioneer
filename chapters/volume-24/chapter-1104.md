@@ -18,7 +18,7 @@ The back of that lot book is bare and always has been, and it lies open along th
 
 A man of sixty-one sat on those stones for the three hundred and thirty-third afternoon running and one word was the whole of that afternoon. Neither has ever been given to anybody in this district and nobody here has ever been up to either of them: about eleven feet between that wall and the top of this bank, and about four miles between the top of that bank and the culvert.
 
-That toll came to ninety-eight, it has been paid and it is spent. Of the first thirty-three lines on that back page three came through this district, and nobody has read any of them out in it.
+That toll came to ninety-eight, it has been paid and spent, and there is nothing of it left in this district. Of the first thirty-three lines on that back page three came through this district, and nobody has read any of them out in it.
 
 ---
 

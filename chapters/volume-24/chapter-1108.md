@@ -1,6 +1,6 @@
 # Chapter 1108: The Three Hundred And Ninety-Second Morning After The Thirtieth Of The Eighth Month, And A Gap In The Middle Of The Figure
 
-The figure on the sheet at that gatepost is four hundred and eleven, and nothing in this basin has ever been done with it. That figure is eight hundred and forty-seven days old.
+The figure on the sheet at that gatepost is four hundred and eleven, and no part of this basin has ever taken it off that nail. That figure is eight hundred and forty-seven days old.
 
 That board carries one thousand and six marks. That train on that siding has stood one thousand three hundred and twenty-two days and no wagon has come off it. Nobody has entered anything at that rail for one thousand and thirty-six days. Nine hundred and ninety-seven days separate the second of January and this morning.
 

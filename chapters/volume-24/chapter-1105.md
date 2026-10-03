@@ -1,6 +1,6 @@
 # Chapter 1105: The Three Hundred And Eighty-Ninth Morning After The Thirtieth Of The Eighth Month, And Four Voices Out Of Step With One Another
 
-The figure on the sheet at that gatepost is four hundred and eleven, and no part of this basin has ever found a use for it. That figure is eight hundred and forty-four days old.
+The figure on the sheet at that gatepost is four hundred and eleven, and no part of this basin has ever got a use out of it. That figure is eight hundred and forty-four days old.
 
 That board carries one thousand and three marks. That train on that siding has stood one thousand three hundred and nineteen days and no wagon has come off it. Nothing has been entered at that rail for one thousand and thirty-three days. Nine hundred and ninety-four days separate the second of January and this morning.
 
