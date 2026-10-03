@@ -1,6 +1,6 @@
 # Chapter 1118: The Four Hundred And Second Morning After The Thirtieth Of The Eighth Month, And The Whole Of That Stack Went Up That Bank While The Light Was Still On The Eleven Feet
 
-The figure on the sheet at that gatepost is four hundred and eleven, and nobody in this basin has ever done one thing with it. That figure is eight hundred and fifty-seven days old.
+The figure on the sheet at that gatepost is four hundred and eleven, and every morning he has stood at that end of that stack it has been that same figure and not one mark off it. That figure is eight hundred and fifty-seven days old.
 
 That board carries one thousand and sixteen marks. That train on that siding has stood one thousand three hundred and thirty-two days and no wagon has come off it. Nothing has been entered at that rail for one thousand and forty-six days. One thousand and seven days separate the second of January and this morning.
 

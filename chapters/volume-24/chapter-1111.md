@@ -8,7 +8,7 @@ That bid stood open four hundred and fifty days, it was not run, and it is not a
 
 The ninth of the nine printed nights is eight hundred and ninety-two days back. Six hundred and sixty-eight marks have been cut off that board. Six hundred and fifty-four marks in chalk stand along the edge of that second table.
 
-Seven months a clerk has counted in this district and there is nothing in it that figure sits on. Those four documents have never been in this district at any point in its life. Three of those lines are readable in four places in this basin and not in a fifth. Four conditions are set out here and none of them carries an end. Fourteen things is what this basin has made. Five of those fourteen never arrived, and the fifth of that five is unpaid.
+Seven months a clerk has counted in this district and there is nothing in it that figure sits on. Not one of those four documents has ever been brought inside the edge of this district, and none of them is anywhere inside it now. Three of those lines are readable in four places in this basin and not in a fifth. Four conditions are set out here and none of them carries an end. Fourteen things is what this basin has made. Five of those fourteen never arrived, and the fifth of that five is unpaid.
 
 Nothing at all went onto that page this morning, and the number of lines on it this morning is sixty-five. There is no first asking on it and there is none on any other paper here, and nobody in this district is able to produce one. A reason was said out loud in that yard on the one hundred and eighty-second morning, and that page was not able to take a line for a reason before the two hundred and eighth morning came, so that nothing on it earlier than that was ever a line for one. It is counted nowhere, and no figure has ever been said out loud in that yard for the number of mornings a reason has been said out loud in it.
 
@@ -52,9 +52,7 @@ The dust had begun to settle on the square cut end of it the way it does on ever
 
 ---
 
-There is a figure that goes with this morning and it is in the block at the head of it and it is a thousand days.
-
-Nobody said that figure out loud in that yard and nobody looked up at it. It stands on that morning the way the other figures on that block stand on it, and the morning goes on underneath it, and the morning this one belongs to is three hundred and ninety-fifth.
+There is a thousand days on this morning, and the morning it stands on is the three hundred and ninety-fifth. Nobody said that figure out loud in that yard and nobody looked up at it, and nothing else about that morning was any different because of it.
 
 There was another thing on that ground this morning that nobody in that yard looked at either, and that one is not written down anywhere at all. It is lying in the open at the far end of that table with the square cut end pointing at the near edge of it.
 

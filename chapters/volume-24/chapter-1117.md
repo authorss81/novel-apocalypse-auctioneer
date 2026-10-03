@@ -36,7 +36,7 @@ One of those two forms is for a morning when nothing has gone out loud in that y
 
 At about half past ten a voice came off the top of that bank.
 
-She was at the bottom of it, at the near end of the second table, with her back to the slope and the light in her eyes off those boards. What came down to her was a voice going out flat the way a voice does when a person puts a thing out loud so that it carries, and it carried as far as the boards and it carried no further than that.
+She was at the bottom of it, at the near end of the second table, with her back to the slope and the light in her eyes off those boards. What came down to her was a voice going out flat the way a voice does when a person puts a thing out loud so that it carries, and she got every bit of the carrying of it and none of the rest of it.
 
 She did not get a word of it.
 
@@ -56,7 +56,7 @@ Then the morning went on being a morning.
 
 At ten to eight the boy was at those boards with his hands in his pockets and said thirty, and not one page came down that lane behind it.
 
-At about half past nine the man of thirty-eight was at about four feet off the near end of that first table with his cloth in his hand until about four, and nobody spoke to him there.
+At about half past nine the man of thirty-eight came down that slope and went out to about four feet off the near end of that first table, and he was still at about those four feet at about four, and nobody put one word to him at any point of it.
 
 About four feet off the near end of that second table the woman who keeps a scale had her own pan and her basket down beside her from about half past twelve, and she said nothing out loud that day.
 
@@ -72,7 +72,7 @@ Nobody in that yard asked that man about that figure and nobody asked the clerk 
 
 At about four she came down that row of boards with the pen still in the holder and read that morning out loud before her hand had been near any part of it.
 
-"The four hundred and first morning," she said. "One reason was said out loud from the top of that bank at about half past ten and it did not come down in anybody's mouth after it, and one line goes on at the back of this book, and that line carries this morning and leaves out what was said in it, and I have given all of that to you before I have put the nib down."
+"The four hundred and first morning," she said. "A voice was put out loud from the top of that bank at about half past ten and it came down to me at the near end of this table and I did not get a word of it, and one line goes on at the back of this book, and that line carries this morning and leaves out whatever it was that got said up there, and I have given all of that to you before I have put the nib down."
 
 She stopped there and there was nothing after it for her to go over.
 
@@ -80,7 +80,7 @@ She stopped there and there was nothing after it for her to go over.
 
 Then she wrote the four hundred and first morning under the last line in her own small careful hand, and below her own hand she took one line.
 
-What she has of that reason is that it was said, and the sound of a woman's voice on the top of that bank saying it, and a line on that page. If she were asked to put the words of it together again she would find she had never had them, and nobody in this district is going to ask her.
+What she has of it is that something was said up there, and the sound of a woman's voice saying it, and a line on that page. If she were asked to put the words of it together again she would find she had never had them, and nobody in this district is going to ask her.
 
 The line went over the worn place in that paper about four inches in from the foot of the page and it did not sit level with the lines above it. She has never once made an allowance for that in fifteen years and she did not make one this morning.
 

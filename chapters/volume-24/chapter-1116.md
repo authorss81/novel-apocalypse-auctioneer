@@ -1,4 +1,4 @@
-# Chapter 1116: The Four Hundredth Morning After The Thirtieth Of The Eighth Month, And A Man With A Count Said It Out Loud On That Ground And Nobody In That Yard Looked Up At It
+# Chapter 1116: The Four Hundredth Morning After The Thirtieth Of The Eighth Month, And A Man With A Count Said It Out Loud At About Half Past Two
 
 The figure on the sheet at that gatepost is four hundred and eleven, and nobody in this basin has ever done anything at all with that figure. That figure is eight hundred and fifty-five days old.
 
@@ -52,11 +52,11 @@ At about half past two he said a second thing, and he said it in the ordinary vo
 
 "Four hundred mornings a man has stood at that foot of that bank," he said. "That is mine and it is entered after it, and I have said it before it goes in."
 
-That is four hundred, and it is the same figure as the morning that was happening on that ground, and the two of them standing in two places on one morning is the house's own way of doing that and is not a thing anybody in that yard remarked on.
+That is four hundred, and nobody at those tables or anywhere else on that ground said one word out loud about it, and nobody standing on those boards had any idea what had just been said down there.
 
 Nobody answered him.
 
-Nobody put one question to him about what it was the four hundredth of.
+Nobody put one question to him about it, and none of the four voices that had taken his number up out of step a half of an hour before came back for this one.
 
 ---
 
