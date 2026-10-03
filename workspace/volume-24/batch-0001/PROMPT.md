@@ -30,7 +30,7 @@
 
 ## 1. Your ten chapters, morning by morning
 
-The cards are at `outline/batches/volume-24-batch-0001.md` and each of the ten is fixed: the morning number, the page cell, the lane count, and what that morning is. Three of your ten mornings carry an exact hundred and the morning number itself is round once. **None of them is an occasion and nobody in that yard looks up at any of them.**
+The cards are at `outline/batches/volume-24-batch-0001.md` and each of the ten is fixed: the morning number, the page cell, the lane count, and what that morning is. Two of your ten mornings carry an exact hundred, they are `c = 1` and `c = 2`, and the morning number itself is round once, at `c = 6`, without being an exact hundred. **None of them is an occasion and nobody in that yard looks up at any of them.**
 
 **The one thing to get right before anything else: `c = 1` is Chapter 1101, it is the opening morning of Volume 24, and it is the morning row nineteen reaches three hundred.** `outline/volume-23.md` §8 published that crossing at `c = 51` in that volume's own `c`, which is this same morning counted from a different zero. **Neither contract is wrong, and the two figures must never be printed in one sentence as though they disagreed, and nobody in that yard has ever asked what a record is.**
 
