@@ -14,7 +14,7 @@
 
 | Ch | `c` | morning | page | lane | what this chapter is |
 |---:|---:|---|---:|---:|---|
-| 1121 | 21 | the four hundred and fifth | **sixty-six** | thirty | **The piece is on the boards at the far end of his own table and that table is out of level again and nobody in that yard has said one word about it.** Ten mornings after it went in and it came out. |
+| 1121 | 21 | the four hundred and fifth | **sixty-six** | thirty | **The piece is on the boards at the far end of his own table and that table is out of level again and nobody in that yard has said one word about it.** The morning after it went in and it came out. |
 | 1122 | 22 | the four hundred and sixth | **sixty-six** | thirty | **EIGHT HUNDRED DAYS IT HAS BEEN SINCE THE FIRST DAY OF THE EIGHTH MONTH, AN EXACT HUNDRED, AND NOTHING IS TURNING ON THAT FRAME AND THE PIECE IS NOT IN THE CORNER.** Two mornings before the promise is tried again. |
 | 1123 | 23 | the four hundred and seventh | **sixty-six** | thirty | At about half past one the man of about forty-eight puts his number out into about four hundred yards of air and about four voices take it up after him out of step with one another. **He is in the prose of every morning of this volume and no chapter may report him as silent.** |
 | 1124 | 24 | the four hundred and eighth | **sixty-six** | thirty | **ESCALATION 7, AND THE PROMISE IS TRIED AGAIN AND IT DID NOT HAPPEN — HE PUTS IT IN AT ABOUT TEN AND IT WENT IN AND HE TOOK IT OUT INSIDE A MINUTE, AND THE NEAR END STANDS ON THE GRIT.** Nobody asked him why. |
