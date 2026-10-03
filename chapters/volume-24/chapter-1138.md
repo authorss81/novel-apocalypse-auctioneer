@@ -18,7 +18,7 @@ That lot book lies open along those boards, the back of it bare, and it has lain
 
 A man of sixty-one sat on those stones that afternoon for the three hundred and sixty-seventh afternoon running and one word was the whole of that afternoon. Nobody in this district has ever been given either of those two, and nobody has ever been up past the far end of either of them: about eleven feet between that wall and the top of this bank.
 
-That toll came to ninety-eight, was paid, and is spent. Of the first thirty-three lines on that back page, three came through this district and nobody in this district has read one of them out loud.
+That toll came to ninety-eight, was paid, and is spent. Of the first thirty-three lines on that back page, three came through this district and no voice here has read one of them out loud.
 
 ---
 

@@ -76,7 +76,7 @@ At about four the hand went up on that low wall and four figures came off the to
 
 The clerk read that morning out loud at about four with the pen in the holder and then wrote the four hundred and nineteenth morning under the last line in her own small careful hand, and she took no line for it.
 
-There is about four miles between the top of that bank and the culvert at the end of it and nobody in this basin has ever been given the far end of that.
+There is about four miles between the top of that bank and the culvert at the end of it, and the far end of that has never in this basin been given to anybody.
 
 ---
 
