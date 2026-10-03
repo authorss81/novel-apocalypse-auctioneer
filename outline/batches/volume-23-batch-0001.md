@@ -23,7 +23,7 @@
 | 1059 | 9 | the three hundred and forty-third | **sixty-two** | thirty | The man of thirty-eight is at about four feet off the near end of the first table from about half past nine until about four with the cloth in his hand. He says nothing out loud at all and nobody asks him anything. |
 | 1060 | 10 | the three hundred and forty-fourth | **sixty-two** | thirty | **ESCALATION 3 — TWO HUNDRED MORNINGS RUNNING WITH NOBODY HAVING ASKED HIM ANYTHING, AN EXACT HUNDRED, AND THE WHEEL WENT UP AT SIX AND A HALF AS IT HAS EVERY MORNING OF THIRTY-ONE YEARS. THE PAGE TOOK NO LINE.** |
 
-**Two of your ten mornings carry an exact hundred — `c = 7` and `c = 10` — and the morning number itself is round twice, at `c = 6` (the three hundred and fortieth) and `c = 7`.** None of the three is an occasion, nobody in that yard looks up at any of them, and the morning number is a morning number and not a date.
+**Two of your ten mornings carry an exact hundred — `c = 7` and `c = 10` — and the morning number itself is round once, at `c = 6` (the three hundred and fortieth).** None of the three is an occasion, nobody in that yard looks up at any of them, and the morning number is a morning number and not a date.
 
 ## The ladder, your ten cells
 

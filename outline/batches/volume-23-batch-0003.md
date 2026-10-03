@@ -23,9 +23,9 @@
 | 1079 | 29 | the three hundred and sixty-third | **sixty-four** | thirty | The woman of about fifty-two stands in about four feet of sun with nothing in her hands. Nobody says one word to her and nobody said good morning to her, and the second space on that form was empty the whole of the morning. |
 | 1080 | 30 | the three hundred and sixty-fourth | **sixty-four** | thirty | **THE REVERSAL, ON A BLOCK BOUNDARY — THE WHEEL WAS STOPPED SINCE ABOUT HALF PAST ONE AND IT IS STARTED AGAIN AT ABOUT TEN PAST FOUR, AT THE END OF THAT DAY, AND IT GOES UP TO EXACTLY THE SAME SPEED.** That is the only thing that has ever started it. Nobody in that yard had said out loud that it was stopped. |
 
-**Three of your ten mornings carry an exact hundred — `c = 21`, `c = 22` and `c = 25` — and `c = 25` carries one figure in two places.** The morning number itself is round twice, at `c = 26` (the three hundred and sixtieth) and `c = 30`. None of the four is an occasion.
+**Three of your ten mornings carry an exact hundred — `c = 21`, `c = 22` and `c = 25` — and `c = 25` carries one figure in two places.** The morning number itself is round once, at `c = 26` (the three hundred and sixtieth). None of the four is an occasion.
 
-**The page takes its **second** line of this volume on `c = 27`, and on that morning it carries both figures in the same morning, sixty-three before the line and sixty-four after it. It takes no line on any other morning of your ten, and the cell stands at sixty-four when you finish and does not move again until block 0005's first morning.**
+**The page takes its second line of this volume on `c = 27`, and on that morning it carries both figures in the same morning, sixty-three before the line and sixty-four after it. It takes no line on any other morning of your ten, and the cell stands at sixty-four when you finish and does not move again until block 0005's first morning.**
 
 ## The ladder, your ten cells
 

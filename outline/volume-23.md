@@ -259,7 +259,7 @@ It is not a resolution, not an arrival, not a payment of the fifth of the five, 
 
 ## 8. The exact hundreds of this volume
 
-**Sixteen exact-hundred cells fall on eleven mornings inside this window, and they carry eight distinct figures.** Nine of the sixteen are ladder rows and seven are entered counts. All print in the house's cardinal form with no *and* in them. **None of them is an occasion and nobody may call it one, nobody in that yard looks up at any of them, and no exact hundred stands as a morning number in this volume at all.**
+**Sixteen exact-hundred cells fall on eleven mornings inside this window, and they carry eight distinct figures.** Ten of the sixteen are ladder rows and six are entered counts. All print in the house's cardinal form with no *and* in them. **None of them is an occasion and nobody may call it one, nobody in that yard looks up at any of them, and no exact hundred stands as a morning number in this volume at all.**
 
 | `c` | Ch | morning | the cell or cells | the printed form |
 |---:|---:|---|---|---|

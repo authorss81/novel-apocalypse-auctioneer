@@ -23,9 +23,9 @@
 | 1069 | 19 | the three hundred and fifty-third | **sixty-three** | thirty | The man of about sixty-four is at the foot of that low wall on the seven hundred and eighth night of that run, having slept on seven hundred and seven of the nights of it, and he was asked nothing. |
 | 1070 | 20 | the three hundred and fifty-fourth | **sixty-three** | thirty | **BLOCK 0002 ENDS ON A MORNING THE WHEEL IS AT ITS SPEED AND THE MAN OF THIRTY-EIGHT IS AT THE NEAR END OF THAT FIRST TABLE AND SAYS NOTHING OUT LOUD AT ALL AND NOBODY ASKS HIM ANYTHING.** |
 
-**Three of your ten mornings carry an exact hundred — `c = 11`, `c = 12` and none besides — and `c = 11` carries three cells and two distinct figures while `c = 12` carries one figure in two places.** No morning in this block is an occasion and nobody in that yard looks up at any of them.
+**Two of your ten mornings carry an exact hundred — `c = 11` and `c = 12`, and no other — and `c = 11` carries three cells and two distinct figures while `c = 12` carries one figure in two places.** No morning in this block is an occasion and nobody in that yard looks up at any of them.
 
-**The page takes its **first** line of this volume on `c = 12`, and on that morning it carries both figures in the same morning, sixty-two before the line and sixty-three after it. It takes no line on any other morning of your ten, including your own tenth, and there is no volume total for it.**
+**The page takes its first line of this volume on `c = 12`, and on that morning it carries both figures in the same morning, sixty-two before the line and sixty-three after it. It takes no line on any other morning of your ten, including your own tenth, and there is no volume total for it.**
 
 ## The ladder, your ten cells
 

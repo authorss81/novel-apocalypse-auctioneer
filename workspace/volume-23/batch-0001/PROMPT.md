@@ -112,7 +112,7 @@ The lane count moves only when somebody comes down that lane with a page in thei
 
 ## 6. The three house spellings of a count, which may not be harmonised
 
-1. **An exact hundred cardinal prints *six hundred*, with no *and* in it.** Yours is on `c = 7`.
+1. **An exact hundred cardinal prints *six hundred*, with no *and* in it.** Yours are on `c = 7`, which prints *six hundred*, and on `c = 10`, which prints *two hundred*.
 2. **A count spelt after *the* that crosses one hundred keeps its leading one** and prints *the one hundred and ninety-first*. It is an ordinal.
 3. **The man of fifty-six's flat answer drops its leading one** and prints *the two hundred and twenty-fourth*, not *the one hundred and twenty-fourth*. It is also an ordinal.
 
