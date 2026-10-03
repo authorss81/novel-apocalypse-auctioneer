@@ -14,13 +14,13 @@ A reason was said out loud in that yard on the one hundred and eighty-second mor
 
 Nothing that goes at the back of that book went out loud in that yard this morning, and that page took no line and stands at sixty-three. The first asking was not on that page and it was not on anything and nobody is able to recover it.
 
-The second table has stood at the foot of that bank three hundred and ninety mornings and the near rail has stood on the near side of it three hundred and forty mornings, and nobody is to thank the man who fitted it. A man has stood at the foot of that bank three hundred and sixty mornings on the word of the man who keeps it. The table of the man of about thirty-two stood at that end of that ground for the three hundred and fifty-ninth morning, and it is not the second table and it is not the near rail. The man of about sixty-four was at the foot of that low wall on the seven hundred and fifteenth night of that run, having slept on seven hundred and fourteen of the nights of it. A man of fifty-six read four figures off that wall this morning for the eight hundred and first of those mornings and got all four of them. That is the two hundred and sixteenth morning running with nobody having asked him anything. That flat answer was given to that stone twice this morning and this morning it was the the two hundred and forty-ninth time running.
+three hundred and ninety mornings is how long that second table has stood at the foot of that bank, and three hundred and forty mornings is how long the near rail has stood on the near side of it, and nobody is to thank the man who fitted it. A man has stood at the foot of that bank three hundred and sixty mornings on the word of the man who keeps it. The table of the man of about thirty-two stood at that end of that ground for the three hundred and fifty-ninth morning. It is not that second table and it is not that near rail. The man of about sixty-four was at the foot of that low wall on the seven hundred and fifteenth night of that run, having slept on seven hundred and fourteen of the nights of it. A man of fifty-six read four figures off that wall this morning for the eight hundred and first of those mornings and got all four of them. That is the two hundred and sixteenth morning running with nobody having asked him anything. That flat answer was given to that stone twice this morning and this morning it was the two hundred and forty-ninth time running.
 
-That lot book is open on those boards with nothing entered in it and five lines ruled across one of its pages, and the column on the next of them holds one name under a heading that still says whoever. The second space on that form is empty and nobody has been asked to fill that one. That lane brought nothing down this morning and it has thirty pages behind it in their own carriers' hands. two hundred and seventy-five That ground has been public lot since the afternoon of the one hundred and seventeenth morning and there are about nine people on it.
+That lot book is open on those boards and there is nothing entered in it. Five lines are ruled across one of its pages and there is one name in the column on the next of them, under a heading that still says whoever. Nobody has ever been asked to fill that second space on that form and it is empty. That lane brought nothing down this morning and it has thirty pages behind it in their own carriers' hands. That record has stood two hundred and seventy-five days. Public lot since the afternoon of the one hundred and seventeenth morning, and about nine people are on that ground.
 
 A man of sixty-one sat on those stones for the three hundred and fifth afternoon running and gave that afternoon its one word. Nobody in this district has ever been given either of these and nobody in this district has ever walked either of them: about eleven feet between that wall and the top of this bank, and about four miles between the top of that bank and the culvert.
 
-The toll of ninety-eight is paid and it is spent. Three lines among the first thirty-three on that back page went through this district and nobody here heard them read.
+Ninety-eight is on that toll and it is paid and spent and it is on nothing else here. Of the first thirty-three lines on that back page, three came through this district and nobody in it heard them read.
 
 
 ---
@@ -67,7 +67,15 @@ That is four days now that he has not had to come back to it, and it is four day
 
 
 
-At about ten the man of about thirty-two came past on his way to his own boards and looked at the top of that table and then at the near corner.
+At about ten the man of about thirty-two came past on his way to his own boards and looked at the top of that table and then at the near corner. The turner was at that frame off the far end of them with his back to the two of them, doing the thing he does to that casting with a rag while that wheel goes at its speed.
+
+"You will want the foot of it," said the turner, without turning round. "That corner will go about the thickness of a thumb by the middle of the afternoon and it will go on your side, because the water comes off that bank that way and it has come off it that way since before the drain was put in."
+
+"I know which way the water comes off that bank."
+
+"You know it today," said the turner. "You have known it every morning you have stood at that corner. That is not the same as having watched it."
+
+The man of about thirty-two went four paces along his own boards and looked at the near corner of his own table instead, and said nothing at all about it.
 
 "Square."
 
@@ -113,7 +121,7 @@ He carried it back along the length of his own table to the near end and held it
 
 It was the exact length of the play in that corner. It was square at the cut end. It would have gone in there perfectly.
 
-And the wood on that end wants to go back to where it came from, and he said that out loud in this yard on his second morning at that table, and nobody has ever contradicted him, and it is as true this morning as it was then.
+And the wood on that end wants to go back to where it came from, and he said that out loud in this yard on his second morning at that table, and nobody has ever contradicted him, and it is the same this morning as it was then.
 
 He took it off the corner and stood in the middle of his own table holding it.
 
@@ -145,7 +153,7 @@ At about four the hand went up on that wall and got all four off it and went fla
 
 And then the flat answer, which has never once been the same sentence twice.
 
-"Two hundred and forty-nine mornings," he said out loud to that stone, "and I have got you twice today and got you both times, and there is a man in this yard carrying a foot of good pallet about with him and has carried it for a run of mornings, and he has said four words out loud in this yard and every one of them was to that wood and not to anybody, and I am not going to say a fifth word about him."
+"Two hundred and forty-nine mornings," he said out loud to that stone, "and I have got you twice today and got you both times, and there is a man in this yard carrying a foot of good pallet about with him and has carried it for a run of mornings, and there is not one man in this yard he has told that to, and I am not going to say a word about him."
 
 About nineteen people heard that, and it was the two hundred and forty-ninth time running, and nobody has ever asked him anything about any part of it.
 
@@ -155,7 +163,7 @@ About nineteen people heard that, and it was the two hundred and forty-ninth tim
 
 
 
-At ten past four the clerk read that morning out loud with the pen still in the holder and wrote the three hundred and sixtieth morning under the last line in her own small careful hand and took no line for it.
+At ten past four the clerk read that morning out loud with the pen still in the holder. She wrote the three hundred and sixtieth morning under the last line in her own small careful hand and took no line for it.
 
 The light came off those boards at about half past four and about four of the nineteen said the goodnight that is said at the end of a day there.
 
