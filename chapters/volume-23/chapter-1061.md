@@ -1,6 +1,6 @@
 # Chapter 1061: The Three Hundred And Forty-Fifth Morning After The Thirtieth Of The Eighth Month, And His Hand On The Frame
 
-The figure on the sheet at that gatepost is four hundred and eleven. Eight hundred days is how long it has been on that post, and nothing has ever been done with it in this basin.
+The figure on the sheet at that gatepost is four hundred and eleven, and nothing in this basin has ever been done about it. It has been eight hundred days on that post.
 
 Nine hundred and fifty-nine marks have been cut off that board. That train has stood on that siding one thousand two hundred and seventy-five days and has not had a wagon off it. At that rail nobody has entered anything for nine hundred and eighty-nine days. Nine hundred and fifty days separate the second of January and this morning.
 
@@ -8,7 +8,7 @@ That bid stood open four hundred and fifty days, was not run, and is not a lot. 
 
 The ninth of those nine printed nights went back eight hundred and forty-two days ago. Six hundred and eighteen marks have been cut off that board. Six hundred and four marks in chalk stand along the edge of that second table.
 
-Seven months a clerk has counted here and no list of anything in this district holds that count. Four documents this district does not own. Those three lines can be read in four places here and never in a fifth. Four conditions are on the list and not one of them has an end on it. Fourteen things have been made here. Five were never got and the fifth of that five is unpaid.
+Seven months a clerk has counted here and no list of anything in this district holds that count. This district has never owned four documents. Those three lines can be read from four places in this district and not from a fifth. Four conditions are on the list and not one of them has an end on it. There are fourteen things this district has made. Five of them were never got and the fifth of that five is unpaid.
 
 A reason was said out loud in that yard on the one hundred and eighty-second morning, and that page had no place to hold one until the two hundred and eighth morning, so nothing written on it before that morning was a line for a reason, and it is counted nowhere, and no figure has been given out loud in that yard for the number of mornings a reason has been said out loud in it.
 
@@ -16,9 +16,9 @@ Nothing that goes at the back of that book went out loud in that yard this morni
 
 The second table has stood at the foot of that bank three hundred and seventy-five mornings. The near rail has stood on the near side of it three hundred and twenty-five mornings and nobody is to thank the man who fitted it. A man has stood at the foot of that bank three hundred and forty-five mornings on the word of the man who keeps it. The table of the man of about thirty-two stood there this morning for the three hundred and forty-fourth morning, and it is neither the second table nor the near rail. The man of about sixty-four was at the foot of that low wall on the seven hundredth night of that run, having slept on six hundred and ninety-nine of the nights of it. A man of fifty-six read four figures off that wall this morning for the seven hundred and eighty-sixth of those mornings and got all four. That is the two hundred and first morning running with nobody having asked him anything. That flat answer went to that stone twice this morning and this morning it was the two hundred and thirty-fourth time running.
 
-That lot book lies open along those boards with nothing entered in it, five lines are ruled across one of its pages, and the column on the next of them holds one name under a heading that still says whoever, and the second space on that form is empty and has never been asked of anybody. Thirty pages have come down that lane in their own carriers' hands and nothing came down it this morning. That record has stood two hundred and sixty days. It has been public lot since the afternoon of the one hundred and seventeenth morning, and about nine people are standing on it.
+That lot book lies open along those boards and not one thing is entered in it. Five lines are ruled across one of its pages, the column on the next of them holds one name under a heading that still says whoever, and the second space on that form is empty and has never been asked of anybody. Thirty pages have come down that lane, every one of them carried in its own carrier's hands, and nothing came down it this morning. That record has stood two hundred and sixty days. It has been public lot since the afternoon of the one hundred and seventeenth morning, and about nine people are standing on it.
 
-A man of sixty-one sat on those stones this afternoon for the two hundred and ninetieth afternoon running and gave that afternoon its one word. Nobody here has ever been given either of those and nobody here has ever walked them: about eleven feet between that wall and the top of this bank, and about four miles between the top of that bank and the culvert.
+A man of sixty-one sat on those stones this afternoon for the two hundred and ninetieth afternoon running and gave that afternoon its one word. Nobody here has ever been given either of those and nobody here has ever gone up to look for them: about eleven feet between that wall and the top of this bank, and about four miles between the top of that bank and the culvert.
 
 That toll of ninety-eight is paid and spent. Three of the first thirty-three lines on that back page went through this district and nobody in it heard them read.
 
@@ -64,7 +64,7 @@ He went along his own boards with the cloth and said nothing else about it.
 
 ---
 
-At about half past twelve the woman who keeps a scale came down that bank with her basket on her arm and set up about four feet off the near end of the second table and put a bar on her own pan, and let it want to follow the wind until it came still, and said nothing out loud that he heard.
+The woman who keeps a scale was four feet off the near end of that second table with a bar on her own pan, and she let it want to follow the wind until it came still, and said nothing out loud that he heard.
 
 At about half past one the man of about forty-eight who keeps a tally put his number up into about four hundred yards of air in the voice he keeps for it, and about four voices took it up after him out of step with one another, and it went off the face of that bank and was gone.
 
@@ -92,7 +92,7 @@ The man of about thirty-two came by at about two with the cloth over his arm and
 
 "Your corner has gone again."
 
-"My corner was square on Tuesday night and it is square now," said the man of about thirty-two. "I put the boards face down and I have not lifted them since. That is the fourth morning."
+"My corner was square the last time that end was packed and it is square now," said the man of about thirty-two. "I put the boards face down and I have not lifted them since. That is the fourth morning."
 
 "The ground under that end is not square and never was."
 
@@ -106,11 +106,11 @@ He went along his own top with the cloth.
 
 ---
 
-At about four the man of fifty-six had his hand up on that wall and got all four off it one after another in the order they come and laid his palm flat on the stone under the lowest one and left it lying there.
+At about four the man of fifty-six had his hand up on that wall and got all four off it, one after another and in the order they come, and laid his palm flat on the stone under the lowest one and left it lying there.
 
 "Seven hundred and eighty-six mornings, all four of you again."
 
-Then he said his flat answer, which is the thing he says at that hour and has said at that hour since before the middle of the winter.
+Then he said his flat answer, which is the thing he gives that stone at that hour and has given it since before the middle of the winter.
 
 "Two hundred and thirty-four mornings," he said out loud to that stone, "and I have had you twice today and got you both times, and I have never once been in a hurry about a single one of you, and I am not going to let a morning like this one make me start."
 
@@ -124,7 +124,7 @@ At ten past four the clerk came along those boards with the pen still in the hol
 
 Then she wrote the three hundred and forty-fifth morning under the last line in her own small careful hand and took no line for it.
 
-At about half past four the light came off those boards and about four people out of about nineteen said the goodnight. The boards came off the cart face down and went up the bank with the wind behind them.
+At about half past four the light came off those boards and about four of the nineteen said the goodnight and went up that bank. The boards came off the cart face down and went up it with the wind behind them.
 
 He shut that wheel down with the flat of his hand on the casting and waited for it, because he has never once gone up that slope with one still turning. Then he put his hand on the fourth housing one last time. Cold enough.
 
@@ -132,4 +132,4 @@ The length of belting was on its nail in that wheelhouse where it has been for a
 
 ---
 
-That page stood at sixty-two lines when the covers came over it, and it took no line and it is where it was when the morning began. That lane stands at thirty pages and nothing came down it this morning. Three lines of the first thirty-three on that back page are still unread in this district and always have been. The fifth of that five is five and it is unpaid. Seven months has been counted here and there is nothing whatever in this district for it to sit on. Four hundred and eleven is on that sheet at that gatepost and will be on it in the morning.
+That page stood at sixty-two lines when the covers came over it, and it took no line and it is where it was when the morning began. That lane has thirty pages on it this morning and nothing came down it. Three lines of the first thirty-three on that back page are still unread in this district and always have been. The fifth of that five is five and it is unpaid. Seven months has been counted here and there is nothing whatever in this district for it to sit on. Four hundred and eleven is on that sheet at that gatepost and will be on it in the morning.
