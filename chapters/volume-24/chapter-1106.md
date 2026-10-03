@@ -10,15 +10,15 @@ The ninth of the nine printed nights is eight hundred and eighty-seven days back
 
 Seven months has been counted in this district and there is nothing in it that will hold that. Those four documents have never been inside this district. Three lines are readable in four places here and not in a fifth. Four conditions are set out in this district with no end upon any of them. Fourteen things is what this basin has made and nothing outside those fourteen. Five of those fourteen never got in here and the fifth of that five is unpaid.
 
-That page took no line this morning and it stands at sixty-five lines. The first asking was not on that page and it was not on anything and nobody is able to recover it. A reason was said out loud in that yard on the one hundred and eighty-second morning, and nothing on that page before the two hundred and eighth morning was ever a line for a reason, and it is counted nowhere, and no figure has ever been said out loud in this yard for the mornings a reason has been said out loud in it.
+Nothing went onto that page this morning and it took no line, and it is still at sixty-five lines. There is no way back to the first asking made in this district, and it is on nothing. A reason was said out loud in that yard on the one hundred and eighty-second morning, and nothing on that page before the two hundred and eighth morning was ever a line for a reason, and it is counted nowhere, and no figure has ever been said out loud in this yard for the mornings a reason has been said out loud in it.
 
 That second table has stood at the foot of that bank four hundred and twenty mornings and that near rail on the near side of it three hundred and seventy mornings, and nobody is to thank the man who fitted it. A man has stood at that foot of that bank three hundred and ninety mornings on the word of the man who keeps it. The table of the man of about thirty-two stood at that end of that ground for the three hundred and eighty-ninth morning and it is not that second table and it is not that near rail. On the seven hundred and forty-fifth night of that run the man of about sixty-four was at the foot of that low wall, having slept on seven hundred and forty-four of the nights of it. Four figures came off that wall this morning for the eight hundred and thirty-first of those mornings and all four were got. That is the two hundred and forty-sixth morning running with nobody having asked him anything, and this morning was the two hundred and seventy-ninth time running for the flat answer he gives to that stone.
 
-There is nothing at the back of that lot book and there never has been, and it lies open along those boards. Five lines are ruled across one of its pages and the column on the page after that has one name in it under a heading which still says whoever. A second space is ruled on that form and it stands empty and nobody in this district has ever been asked about it. Behind that lane there are thirty pages in their own carriers' hands and it brought nothing down it today. That record has stood three hundred and five days. About nine people were stood on that ground at ten to eight, and that ground has been public lot since the afternoon of the one hundred and seventeenth morning.
+There is nothing at the back of that lot book and there never has been, and it lies open along those boards. Five lines are ruled across one page of that book, and the column on the page behind that one has a name in it under a heading which still says whoever. A second space is ruled on that form and it stands empty and nobody in this district has ever been asked about it. Behind that lane there are thirty pages in the hands of those who carried them, and nothing has come down it today. That record has stood three hundred and five days. On that ground at ten to eight there were about nine people, and the lot there has been public since the afternoon of the one hundred and seventeenth morning.
 
-A man of sixty-one sat on those stones for the three hundred and thirty-fifth afternoon running and one word was the whole of it. Neither has ever been given to anybody in this district and nobody here has ever been up to either of them: about eleven feet between that wall and the top of this bank, and about four miles between the top of that bank and the culvert.
+A man of sixty-one sat on those stones for the three hundred and thirty-fifth afternoon running and one word was the whole of it. Neither of those two distances has ever been given to anybody in this district, and nobody here has ever been up to the far end of either of them: about eleven feet between that wall and the top of this bank, and about four miles between the top of that bank and the culvert.
 
-That toll came to ninety-eight and it is paid and spent. Three of the first thirty-three lines on that back page came through this district and not one of them has ever been read out in it.
+That toll came to ninety-eight and every part of it is spent. Three of those first thirty-three lines came through this district and there is no voice in it that has read any of them out.
 
 ---
 
@@ -48,7 +48,7 @@ Nobody asked him anything about that or about anything else. He was at that fram
 
 At about half past twelve the woman who keeps a scale was at her own pan about four feet off the near end of that second table with her basket down beside her, and she said nothing out loud that day.
 
-At about half past one the man of about forty-eight put his number out into about four hundred yards of air in the voice he keeps for it, and about four voices in that yard took it up after him, out of step with one another, and it went off the face of that bank.
+The man of about forty-eight put his number out into about four hundred yards of air at about half past one, in the voice he keeps for it, and about four voices in that yard took it up after him out of step with one another.
 
 He heard the whole of that without turning round, the way he has heard the whole of it on a good many mornings, and he did not put his cloth down at any part of it.
 
@@ -80,6 +80,6 @@ The two who did not go were him and the woman with the cloth knotted over her sc
 
 ---
 
-That page stood at sixty-five lines when the covers came over it and it did not carry another. Nothing came down that lane today and it is at thirty pages behind it. Those three have gone through this district without one of them being read. That fifth of the five is five and nobody has paid it. Seven months is counted here and nothing in this district holds that. Four hundred and eleven will be on that gatepost sheet in the morning.
+It stood at sixty-five lines when the covers came over that page and it did not carry another line. That lane has brought nothing down it today and it is thirty pages behind it. Three of those first thirty-three lines came through this district unread. The fifth of that five stands at five and nobody has paid it. Seven months is counted here and nothing in it will carry that. Four hundred and eleven will be on that gatepost sheet in the morning and the day after.
 
 The four feet were still four feet at about four, and nobody in that yard asked him one thing about them.
