@@ -134,7 +134,7 @@ At about four the man of fifty-six had his hand up on that wall and got all four
 About nineteen people heard that, and it was the two hundred and twenty-third time running, and nobody has ever asked him anything about it.
 ---
 
-At about ten past four the clerk was at those boards with that book open against the rail and the pen in the holder and gave the whole of the account of that morning out loud before she had the hand near any part of it.
+At about ten past four the clerk came along those boards and opened that book against the rail and gave the whole of that morning out loud with the pen still in the holder and before she had the hand near any part of it.
 
 "The three hundred and thirty-fourth morning," she said. "Nothing has gone out loud in this yard this morning that goes at the back of that book, so this morning goes down in my own hand by itself with nothing in it, and that is the whole of the account of it, and it went out loud before the writing of it."
 

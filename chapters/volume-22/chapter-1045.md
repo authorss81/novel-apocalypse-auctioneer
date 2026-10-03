@@ -99,15 +99,15 @@ The turner went up the slope and did not say anything else about it, and nobody 
 
 The man of about thirty-four came along his own boards about one and a half with the cloth and stopped about four feet off him.
 
-"You have started at the near end."
+"That pallet is still in your coat."
 
-"I have."
+"It is."
 
 "Four feet along from me that corner is out again."
 
 "It is."
 
-"And you have not laid that pallet in it."
+"And you have not laid it in."
 
 "No."
 
@@ -126,8 +126,6 @@ The boy was down off the slope about two with the pencil out and the cap off and
 He has two years and about three weeks in that yard and he has never once been told he could not stand where he was standing, and he has got the measure of the ground well enough to know where the edge of it is.
 
 The man of thirty-eight saw him do that and worked the middle of his own top for a while without looking up, and then, at about half past three, he did the low place in his own top with his bare hand instead of the cloth, once, and put the cloth back on the table and went round the end of it.
----
-
 ---
 
 At about half past three a man of about fifty-two came down that bank with a frame under her arm and stopped about nine feet off the near end of that table, which is as close as she has ever come to it, and looked along the length of his own top the way a person looks along a thing they are not going to touch.

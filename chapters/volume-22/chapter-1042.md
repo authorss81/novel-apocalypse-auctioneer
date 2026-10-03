@@ -104,7 +104,7 @@ The boy looked at it, and then at the corner four feet along from it, and then a
 
 The man of fifty-six was at that wall at about a quarter to eight and came away with all four off it in his hand and said his four words to the stone and got nothing back, which is what happens at that wall twice a morning.
 
-At about half past twelve she came down that bank and set up about four feet off the near end of the second table with her basket on her arm and put a bar on her own pan and let it want to follow the wind until it came still.
+She came down that bank on the half hour with her basket on her arm, set up about four feet off the near end of the second table, and put a bar on her own pan and left it to want to follow the wind until it came still.
 
 The man of thirty-eight was at about four feet off the near end of the first table with the cloth in his hand, working his own way down the length of it, and he came past within four feet of her twice before the light moved off the boards, and made no sound at either pass.
 ---
@@ -163,6 +163,6 @@ At about ten past four the clerk read that morning out loud at the boards with t
 She wrote the three hundred and twenty-sixth morning under the last line and took no line for it, and that page was carrying sixty-two lines when the covers came over it.
 ---
 
-At about half past four the light came off those boards and about four people out of about nineteen said the goodnight.
+At about half past four the light went off those boards, and about four people out of about nineteen said the goodnight in four different directions, and the wind came off that bank and went along the gaps between the boards.
 
 One figure went out into that yard at about half past one and a second figure went out about two minutes after it, and the page at the back of that lot book took no line for either. About nine people heard both of them. That rail carries thirty pages and nothing came down that lane today. Three lines of the first thirty-three on that back page are still unread in this district. The fifth of the five is five and unpaid. Seven months is counted and there is no list for it. Four hundred and eleven is on the sheet at that gatepost and has been on it longer than anybody here has been asking.

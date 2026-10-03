@@ -166,8 +166,6 @@ He got off it.
 She stood looking down at it for a while with the frame under her arm and did not say anything at all about that, and then she went back up the bank with the bag in her hand and the frame knocking against her leg all the way.
 ---
 
-At about half past one the man of about forty-eight who keeps a tally put his number up into about four hundred yards of air in the voice he keeps for it, and about four voices said it back after him out of step with one another, and it went up the bank and came off it again.
-
 At about half past one the man of about forty-eight who keeps a tally put his number up into about four hundred yards of air in the voice he keeps for it, and about four voices said it back after him out of step with one another, and it went up the bank and came off it again and the day carried on after it the way that yard carries on after a number.
 
 The boy heard the whole of it from the boards and wrote nothing down, which is what he has always done with the ones he cannot put on a page. The woman who keeps a scale was at her own scale about four feet off the near end of the second table with the wind on every pan and she did not look up when it went past her either.

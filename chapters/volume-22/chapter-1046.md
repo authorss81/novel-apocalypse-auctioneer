@@ -114,8 +114,6 @@ The man of about twenty-nine said good afternoon to nobody and went down the slo
 
 ---
 
----
-
 At about half past two she went down that bank for the first time in three mornings and stood at the bottom of it with the bag in her hand, and the yard did not stop for her going down it.
 
 The turner was at the frame with his hand off it and did not stop either.

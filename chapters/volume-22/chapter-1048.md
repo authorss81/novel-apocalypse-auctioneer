@@ -111,7 +111,7 @@ Then he went on up the slope to his own table and never said one word, and neith
 
 ---
 
-At about four the man of fifty-six had his hand up on that wall and got all four of them off it one after another and laid his hand flat on the stone under the lowest one and left it lying there.
+About four, from where he stood, a hand went up flat against that stone and the four figures came off it and were gone, and the hand came down over the place where the lowest one had been and stayed there.
 
 "Two hundred and twenty-one mornings," he said out loud to that stone, "and the best of the four is the one I have never once been asked to explain."
 

@@ -63,9 +63,9 @@ The man of thirty-eight was at about four feet off the near end of the first tab
 
 At about half past one the man of about forty-eight who keeps a tally put his number up into about four hundred yards of air in the voice he keeps for it, and about four voices took it up after him out of step with one another, and it went off the face of that bank and did not come back.
 
-One figure of her own went out of that yard in the ordinary voice.
+She said one figure of her own out loud that morning.
 
-It came out of her at her own scale, once, in the ordinary voice, and about nineteen people heard it, and it went out over that ground and up that bank and nothing whatever came back out of that yard at her.
+Once, at her own scale, in the ordinary voice, and about nineteen people heard it over that ground. It went out across the boards and up that bank, and nothing whatever came back out of that yard at her.
 
 Nobody thanked her. Nobody asked her what she weighs things for, and nobody at the top of eleven feet called down about it, and nobody at those boards turned round on the rail, and nobody at the end of that second table said one word about it.
 
@@ -73,7 +73,6 @@ And about four feet off the near end of the first table, the man of thirty-eight
 
 He had the cloth in his hand and he was coming back along his own top and he did not move, and he went on along that top to the north end and worked the north end, and he has not gone back over that half minute in any morning since.
 
----
 ---
 
 At about one the woman of about fifty-two came down that bank with a frame under her arm and a bag in her hand, and went along the boards to where a man of about thirty-four had a foot and a bit of pallet lying flat on top of his own boards, and stood over it for a while.
@@ -139,6 +138,6 @@ At about ten past four the clerk was at those boards with that book open against
 She wrote the three hundred and thirty-third morning under the last line in her own small careful hand and took no line for it.
 ---
 
-At about half past four the light came off those boards and about four people out of about nineteen said the goodnight that gets said at the end of a day in that yard.
+At about half past four the light came off those boards. About four people out of about nineteen said the goodnight, and nobody in that yard said one word about the mallet standing against the side of the second table on their way up the bank.
 
 One figure of her own went out into that yard at about half past one on the three hundred and thirty-third morning, once, at her own scale, in about nineteen people's hearing, and nothing came back out of that yard at her and nobody thanked her and nobody asked her what she weighs things for, and the man of thirty-eight was at the near end of that first table and did not move. That page took no line and stood at sixty-two lines. The lane count was thirty and nothing came down that lane. Three lines of the first thirty-third lines on that back page have never been read in this district. The fifth of the five is five and unpaid. Seven months is counted and it is on nothing. Four hundred and eleven is on the sheet at that gatepost.
