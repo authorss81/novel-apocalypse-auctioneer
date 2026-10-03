@@ -54,7 +54,7 @@ At about half past nine the man of thirty-eight came out and stopped at about fo
 
 From about half past twelve the woman who keeps a scale had her own pan about four feet off the near end of that second table with her basket down beside her, and she said nothing out loud this morning.
 
-At about half past one that man of forty-eight had his number out into about four hundred yards of air in the voice he keeps for that and for nothing else, and about four voices in that yard took it up behind him out of step with one another.
+At about half past one the man of about forty-eight had his number out into about four hundred yards of air in the voice he keeps for that and for nothing else, and about four voices in that yard took it up behind him out of step with one another.
 
 That frame stood at the near end of that first table with nothing turning on it, and the turner was at it from about six and a half with his heel off it, and nobody in that yard started it, and he said nothing out loud this morning.
 

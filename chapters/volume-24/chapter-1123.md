@@ -44,7 +44,7 @@ From about half past twelve the woman who keeps a scale had four things on that 
 
 ---
 
-At about half past one he put that number of his out into about four hundred yards of air.
+At about half past one the man of about forty-eight had his own number out into about four hundred yards of air.
 
 He said it in the voice he keeps for it, which is neither a shout nor a low voice and is not the voice he uses for anything else there is. Then about four voices in that yard had it behind him, out of step with one another, the way they always have it, and it went off the face of that bank.
 
